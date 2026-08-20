@@ -1,0 +1,42 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+:root{--bg:#07111F;--panel:#10243D;--text:#F5F8FC;--cyan:#55D6E8;--cyan2:#19C3B1;--amber:#FFB454;--muted:#7C93AC}
+*{box-sizing:border-box}
+html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif;overflow:hidden}
+.scene{width:1920px;height:1080px;display:flex;flex-direction:column;justify-content:center;gap:36px;padding:90px 130px;background:radial-gradient(circle at 50% 15%,#10243D 0,#07111F 60%)}
+.kicker{font-size:26px;color:var(--cyan);font-weight:800;letter-spacing:.06em;text-transform:uppercase}
+.heading{font-size:56px;font-weight:800;line-height:1.12;max-width:1500px}
+.caption{font-size:34px;line-height:1.4;color:var(--text);max-width:1600px;border-left:5px solid var(--cyan2);padding-left:26px}
+.visual{margin-top:10px}
+.visual svg{width:100%;max-width:1600px;height:auto;display:block}
+.footer{position:absolute;left:80px;right:80px;bottom:50px;display:flex;justify-content:space-between;font-size:20px;color:var(--muted)}
+.badge{display:inline-block;padding:6px 16px;border-radius:999px;border:1px solid var(--cyan);color:var(--cyan);font-size:18px;font-weight:700}
+</style></head>
+<body><div class="scene">
+  <div class="kicker">Scene 5 of 7 · Why D Is Correct</div>
+  <div class="caption">Small bowel (fastest) -&gt; Stomach -&gt; Colon (slowest) = option D</div>
+  <div class="visual">
+  <svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(60,60)">
+      <rect width="230" height="130" rx="16" fill="#10243D" stroke="#55D6E8" stroke-width="4"/>
+      <text x="115" y="55" text-anchor="middle" fill="#55D6E8" font-size="22" font-weight="800">Small Bowel</text>
+      <text x="115" y="90" text-anchor="middle" fill="#F5F8FC" font-size="16">most active myenteric</text>
+      <text x="115" y="110" text-anchor="middle" fill="#F5F8FC" font-size="16">activity → recovers 1st</text>
+    </g>
+    <text x="330" y="130" text-anchor="middle" fill="#7C93AC" font-size="26">→</text>
+    <g transform="translate(360,60)">
+      <rect width="230" height="130" rx="16" fill="#10243D" stroke="#19C3B1" stroke-width="3"/>
+      <text x="115" y="55" text-anchor="middle" fill="#19C3B1" font-size="22" font-weight="800">Stomach</text>
+      <text x="115" y="90" text-anchor="middle" fill="#F5F8FC" font-size="16">slower peristalsis</text>
+      <text x="115" y="110" text-anchor="middle" fill="#F5F8FC" font-size="16">return → 2nd</text>
+    </g>
+    <text x="630" y="130" text-anchor="middle" fill="#7C93AC" font-size="26">→</text>
+    <g transform="translate(660,60)">
+      <rect width="230" height="130" rx="16" fill="#10243D" stroke="#FFB454" stroke-width="3"/>
+      <text x="115" y="55" text-anchor="middle" fill="#FFB454" font-size="22" font-weight="800">Colon</text>
+      <text x="115" y="90" text-anchor="middle" fill="#F5F8FC" font-size="16">slowest baseline</text>
+      <text x="115" y="110" text-anchor="middle" fill="#F5F8FC" font-size="16">motility → last</text>
+    </g>
+    <text x="450" y="235" text-anchor="middle" fill="#55D6E8" font-size="22" font-weight="800">= Option D</text>
+  </svg></div>
+  <div class="footer"><span>Medical AI Videos — Single Narrator</span><span class="badge">surgery-6mo2013-01</span></div>
+</div></body></html>

@@ -148,13 +148,119 @@ export function questionCardSvg(options, correctLetter) {
   return `<svg viewBox="0 0 660 ${options.length * 52 + 10}" xmlns="http://www.w3.org/2000/svg">${items}</svg>`;
 }
 
-export function summaryCardSvg() {
+export function summaryCardSvg(summaryLine, correctLetter, correctText) {
   return `
   <svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
     <rect x="150" y="30" width="600" height="160" rx="20" fill="${PANEL}" stroke="${CYAN}" stroke-width="3"/>
-    <text x="450" y="80" text-anchor="middle" fill="${MUTED}" font-size="18">Obstructive jaundice → ↓ Vitamin K → ↓ II, VII, IX, X</text>
-    <text x="450" y="130" text-anchor="middle" fill="${CYAN}" font-size="30" font-weight="800">Factor VIII = the exception</text>
-    <text x="450" y="165" text-anchor="middle" fill="${AMBER}" font-size="20" font-weight="700">Correct answer: C</text>
+    <text x="450" y="80" text-anchor="middle" fill="${MUTED}" font-size="17">${summaryLine}</text>
+    <text x="450" y="130" text-anchor="middle" fill="${CYAN}" font-size="26" font-weight="800">${correctText}</text>
+    <text x="450" y="165" text-anchor="middle" fill="${AMBER}" font-size="20" font-weight="700">Correct answer: ${correctLetter}</text>
+  </svg>`;
+}
+
+// ---- GI motility recovery question (surgery-6mo2013-01) ----
+
+export function postopIleusMechanismSvg() {
+  const causes = ["Surgical\nhandling", "Sympathetic\nactivation", "Inflammatory\nmediators", "Opioid\nanalgesia"];
+  const boxes = causes.map((c, i) => `
+    <g transform="translate(${20 + i * 200},20)">
+      <rect width="170" height="70" rx="14" fill="${PANEL}" stroke="${AMBER}" stroke-width="2"/>
+      ${c.split("\n").map((line, li) => `<text x="85" y="${32 + li * 20}" text-anchor="middle" fill="${TEXT}" font-size="15" font-weight="700">${line}</text>`).join("")}
+    </g>`).join("");
+  return `
+  <svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+    ${boxes}
+    <text x="450" y="130" text-anchor="middle" fill="${MUTED}" font-size="20">↓ all feed into ↓</text>
+    <rect x="280" y="150" width="340" height="60" rx="30" fill="${PANEL}" stroke="${AMBER}" stroke-width="3"/>
+    <text x="450" y="187" text-anchor="middle" fill="${AMBER}" font-size="22" font-weight="800">Postoperative Ileus</text>
+    <text x="450" y="240" text-anchor="middle" fill="${CYAN}" font-size="17">but NOT uniform — each gut segment recovers on its own clock</text>
+  </svg>`;
+}
+
+export function giTimelineSvg() {
+  const stops = [
+    { organ: "Small Bowel", time: "~24 hours", x: 140, color: CYAN },
+    { organ: "Stomach", time: "~24–48 hours", x: 450, color: CYAN2 },
+    { organ: "Colon", time: "~48–72+ hours", x: 760, color: AMBER },
+  ];
+  const line = `<line x1="90" y1="130" x2="810" y2="130" stroke="${MUTED}" stroke-width="4"/>`;
+  const nodes = stops.map((s) => `
+    <g>
+      <circle cx="${s.x}" cy="130" r="14" fill="${s.color}"/>
+      <text x="${s.x}" y="95" text-anchor="middle" fill="${TEXT}" font-size="22" font-weight="800">${s.organ}</text>
+      <text x="${s.x}" y="165" text-anchor="middle" fill="${s.color}" font-size="18" font-weight="700">${s.time}</text>
+    </g>`).join("");
+  return `
+  <svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+    <text x="450" y="30" text-anchor="middle" fill="${TEXT}" font-size="20" font-weight="700">Recovery Timeline — Fastest to Slowest</text>
+    ${line}${nodes}
+    <text x="140" y="200" text-anchor="middle" fill="${MUTED}" font-size="14">1st</text>
+    <text x="450" y="200" text-anchor="middle" fill="${MUTED}" font-size="14">2nd</text>
+    <text x="760" y="200" text-anchor="middle" fill="${MUTED}" font-size="14">3rd (last)</text>
+  </svg>`;
+}
+
+export function wrongOptionsGiSvg() {
+  const rows = [
+    ["A", "Stomach → Colon → Small bowel", "Reverses the entire order"],
+    ["B", "Colon → Small bowel → Stomach", "Colon is actually last, not first"],
+    ["C", "Stomach → Small bowel → Colon", "Swaps the 1st and 2nd organs"],
+    ["E", "Small bowel → Colon → Stomach", "Swaps the 2nd and 3rd organs"],
+  ];
+  const items = rows.map((r, i) => `
+    <g transform="translate(0, ${i * 66})">
+      <rect width="860" height="52" rx="12" fill="${PANEL}" stroke="${AMBER}" stroke-width="2" opacity="0.85"/>
+      <text x="24" y="34" fill="${AMBER}" font-size="22" font-weight="800">${r[0]}</text>
+      <text x="70" y="34" fill="${TEXT}" font-size="19" font-weight="700">${r[1]}</text>
+      <text x="850" y="34" text-anchor="end" fill="${MUTED}" font-size="15">${r[2]}</text>
+    </g>`).join("");
+  return `<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">${items}</svg>`;
+}
+
+export function correctAnswerGiSvg() {
+  return `
+  <svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(60,60)">
+      <rect width="230" height="130" rx="16" fill="${PANEL}" stroke="${CYAN}" stroke-width="4"/>
+      <text x="115" y="55" text-anchor="middle" fill="${CYAN}" font-size="22" font-weight="800">Small Bowel</text>
+      <text x="115" y="90" text-anchor="middle" fill="${TEXT}" font-size="16">most active myenteric</text>
+      <text x="115" y="110" text-anchor="middle" fill="${TEXT}" font-size="16">activity → recovers 1st</text>
+    </g>
+    <text x="330" y="130" text-anchor="middle" fill="${MUTED}" font-size="26">→</text>
+    <g transform="translate(360,60)">
+      <rect width="230" height="130" rx="16" fill="${PANEL}" stroke="${CYAN2}" stroke-width="3"/>
+      <text x="115" y="55" text-anchor="middle" fill="${CYAN2}" font-size="22" font-weight="800">Stomach</text>
+      <text x="115" y="90" text-anchor="middle" fill="${TEXT}" font-size="16">slower peristalsis</text>
+      <text x="115" y="110" text-anchor="middle" fill="${TEXT}" font-size="16">return → 2nd</text>
+    </g>
+    <text x="630" y="130" text-anchor="middle" fill="${MUTED}" font-size="26">→</text>
+    <g transform="translate(660,60)">
+      <rect width="230" height="130" rx="16" fill="${PANEL}" stroke="${AMBER}" stroke-width="3"/>
+      <text x="115" y="55" text-anchor="middle" fill="${AMBER}" font-size="22" font-weight="800">Colon</text>
+      <text x="115" y="90" text-anchor="middle" fill="${TEXT}" font-size="16">slowest baseline</text>
+      <text x="115" y="110" text-anchor="middle" fill="${TEXT}" font-size="16">motility → last</text>
+    </g>
+    <text x="450" y="235" text-anchor="middle" fill="${CYAN}" font-size="22" font-weight="800">= Option D</text>
+  </svg>`;
+}
+
+export function erasPearlSvg() {
+  return `
+  <svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(60,40)">
+      <rect width="360" height="180" rx="16" fill="${PANEL}" stroke="${CYAN}" stroke-width="3"/>
+      <text x="180" y="42" text-anchor="middle" fill="${CYAN}" font-size="20" font-weight="800">ERAS Protocols</text>
+      <text x="180" y="90" text-anchor="middle" fill="${TEXT}" font-size="16">Start early enteral feeding</text>
+      <text x="180" y="115" text-anchor="middle" fill="${TEXT}" font-size="16">within ~24h — before bowel</text>
+      <text x="180" y="140" text-anchor="middle" fill="${TEXT}" font-size="16">sounds or flatus return</text>
+    </g>
+    <g transform="translate(480,40)">
+      <rect width="360" height="180" rx="16" fill="${PANEL}" stroke="${AMBER}" stroke-width="3"/>
+      <text x="180" y="42" text-anchor="middle" fill="${AMBER}" font-size="20" font-weight="800">Bedside Signs</text>
+      <text x="180" y="90" text-anchor="middle" fill="${TEXT}" font-size="16">Bowel sounds / flatus reflect</text>
+      <text x="180" y="115" text-anchor="middle" fill="${TEXT}" font-size="16">STOMACH & COLON recovery —</text>
+      <text x="180" y="140" text-anchor="middle" fill="${TEXT}" font-size="16">small bowel return is silent</text>
+    </g>
   </svg>`;
 }
 
@@ -164,5 +270,9 @@ export const VISUAL_MAP = {
   wrong_options: () => wrongOptionsSvg(),
   factor_eight_highlight: () => factorEightSvg(),
   factor_five_pearl: () => factorFiveSvg(),
-  summary_card: () => summaryCardSvg(),
+  postop_ileus_mechanism: () => postopIleusMechanismSvg(),
+  gi_timeline_diagram: () => giTimelineSvg(),
+  wrong_options_gi: () => wrongOptionsGiSvg(),
+  correct_answer_gi: () => correctAnswerGiSvg(),
+  eras_pearl: () => erasPearlSvg(),
 };

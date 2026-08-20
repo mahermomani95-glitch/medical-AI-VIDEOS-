@@ -8,7 +8,7 @@
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { VISUAL_MAP, questionCardSvg } from "./visuals.mjs";
+import { VISUAL_MAP, questionCardSvg, summaryCardSvg } from "./visuals.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -24,6 +24,13 @@ const esc = (s = "") => String(s)
 
 function visualFor(scene) {
   if (scene.visual === "question_card") return questionCardSvg(data.options, data.correct_letter);
+  if (scene.visual === "summary_card") {
+    return summaryCardSvg(
+      esc(data.summary_line || ""),
+      esc(data.correct_letter || ""),
+      esc(data.correct_text || "")
+    );
+  }
   const fn = VISUAL_MAP[scene.visual];
   return fn ? fn() : "";
 }

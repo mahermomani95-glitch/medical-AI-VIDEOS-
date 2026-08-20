@@ -1,0 +1,68 @@
+{
+  "id": "surgery-6mo2013-01",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 1 of 54",
+  "language": "en",
+  "voice": "single-narrator-male-deep",
+  "question": "What is the true order of gastrointestinal recovery after any abdominal surgery?",
+  "options": [
+    { "letter": "A", "text": "Stomach, then colon, then small bowel" },
+    { "letter": "B", "text": "Colon, then small bowel, then stomach" },
+    { "letter": "C", "text": "Stomach, then small bowel, then colon" },
+    { "letter": "D", "text": "Small bowel, then stomach, then colon" },
+    { "letter": "E", "text": "Small bowel, then colon, then stomach" }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Small bowel, then stomach, then colon",
+  "summary_line": "Postoperative ileus recovers unevenly by segment",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "heading": "Question",
+      "narration": "Here's the question. After any abdominal surgery, the gut doesn't wake back up all at once -- different parts recover at different speeds. The question is: what's the true order? Your options: stomach then colon then small bowel; colon then small bowel then stomach; stomach then small bowel then colon; small bowel then stomach then colon; or small bowel then colon then stomach. Let's work out the real sequence.",
+      "caption": "What is the true order of GI recovery after abdominal surgery?",
+      "visual": "question_card"
+    },
+    {
+      "id": "MECHANISM",
+      "heading": "The Mechanism -- Why the Gut Goes Quiet After Surgery",
+      "narration": "Any abdominal operation triggers what's called postoperative ileus -- a temporary shutdown of normal gut motility. It happens because of a combination of things: the physical handling of the bowel during surgery, the body's sympathetic nervous system kicking into overdrive, inflammatory mediators released at the surgical site, and opioid pain medication, which slows gut movement as a side effect. Here's the key idea this question is really testing: that shutdown is not uniform. Each segment of the gut -- small bowel, stomach, and colon -- has its own nervous and muscular control, and each one recovers on its own timeline.",
+      "caption": "Postoperative ileus: surgical stress + sympathetic activation + inflammation + opioids slow the gut -- but not evenly",
+      "visual": "postop_ileus_mechanism"
+    },
+    {
+      "id": "TIMELINE",
+      "heading": "The Actual Recovery Timeline",
+      "narration": "Here's the sequence, and it surprises a lot of people. The small bowel recovers first, typically within about twenty-four hours. The stomach comes back next, somewhere in the twenty-four to forty-eight hour range. And the colon is last, often taking forty-eight to seventy-two hours, sometimes longer. So the order is small bowel, then stomach, then colon -- fastest to slowest.",
+      "caption": "Small bowel ~24h -> Stomach ~24-48h -> Colon ~48-72h (slowest)",
+      "visual": "gi_timeline_diagram"
+    },
+    {
+      "id": "WHY_WRONG",
+      "heading": "Why A, B, C, and E Are Wrong",
+      "narration": "Let's go through the wrong options. Option A, stomach then colon then small bowel: this puts the stomach first and the small bowel dead last -- that's the complete reverse of the real pattern, so it's wrong. Option B, colon then small bowel then stomach: the colon is actually the slowest organ to recover, not the fastest, so opening with the colon inverts the whole sequence -- wrong. Option C, stomach then small bowel then colon: this one is close, but it swaps the first two -- it's the small bowel that leads, not the stomach -- wrong. Option E, small bowel then colon then stomach: this gets the first part right, small bowel does lead, but then it swaps the stomach and colon, putting the slowest-recovering organ, the colon, ahead of the stomach -- wrong. Every one of these mixes up the relative speed of at least two segments.",
+      "caption": "A, B, C, E each misorder at least two of the three segments",
+      "visual": "wrong_options_gi"
+    },
+    {
+      "id": "WHY_CORRECT",
+      "heading": "Why D Is Correct",
+      "narration": "Option D -- small bowel, then stomach, then colon -- matches the real physiology. The small bowel has the most active, most resilient myenteric nervous system of the three, so its coordinated contractions return the fastest, often within a day. The stomach takes a bit longer to regain normal peristalsis. And the colon, which has a naturally slower baseline motility even outside of surgery, is the last to recover, sometimes staying sluggish for two to three days or more. That fastest-to-slowest order -- small bowel, stomach, colon -- is exactly option D.",
+      "caption": "Small bowel (fastest) -> Stomach -> Colon (slowest) = option D",
+      "visual": "correct_answer_gi"
+    },
+    {
+      "id": "CLINICAL_PEARL",
+      "heading": "Clinical Pearl -- Why This Actually Matters at the Bedside",
+      "narration": "This isn't just trivia -- it changes real practice. Because the small bowel recovers so early, many modern enhanced-recovery, or ERAS, protocols now start early enteral feeding within the first day after surgery, well before you'd expect the gut to be 'ready' by the old rule of waiting for bowel sounds or passed flatus. And that's the other twist: bowel sounds and flatus are actually better indicators of stomach and colon recovery, not small bowel recovery, because the small bowel's return to function is functionally silent -- you can't hear it or feel it the way you can the later stages.",
+      "caption": "ERAS protocols feed early because small bowel recovers first, even though bowel sounds/flatus reflect stomach & colon recovery, not small bowel",
+      "visual": "eras_pearl"
+    },
+    {
+      "id": "TAKE_HOME",
+      "heading": "Take-Home",
+      "narration": "Let's lock it in. After abdominal surgery, the gut shuts down from surgical stress, inflammation, and opioids -- but each segment recovers at its own pace. The small bowel leads, the stomach follows, and the colon trails behind. Small bowel, then stomach, then colon. The final answer is D.",
+      "caption": "Correct answer: D -- Small bowel, then stomach, then colon",
+      "visual": "summary_card"
+    }
+  ]
+}
