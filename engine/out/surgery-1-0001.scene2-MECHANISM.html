@@ -1,0 +1,52 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+:root{--bg:#07111F;--panel:#10243D;--text:#F5F8FC;--cyan:#55D6E8;--cyan2:#19C3B1;--amber:#FFB454;--muted:#7C93AC}
+*{box-sizing:border-box}
+html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif;overflow:hidden}
+.scene{width:1920px;height:1080px;display:flex;flex-direction:column;justify-content:center;gap:36px;padding:90px 130px;background:radial-gradient(circle at 50% 15%,#10243D 0,#07111F 60%)}
+.kicker{font-size:26px;color:var(--cyan);font-weight:800;letter-spacing:.06em;text-transform:uppercase}
+.heading{font-size:56px;font-weight:800;line-height:1.12;max-width:1500px}
+.caption{font-size:34px;line-height:1.4;color:var(--text);max-width:1600px;border-left:5px solid var(--cyan2);padding-left:26px}
+.visual{margin-top:10px}
+.visual svg{width:100%;max-width:1600px;height:auto;display:block}
+.footer{position:absolute;left:80px;right:80px;bottom:50px;display:flex;justify-content:space-between;font-size:20px;color:var(--muted)}
+.badge{display:inline-block;padding:6px 16px;border-radius:999px;border:1px solid var(--cyan);color:var(--cyan);font-size:18px;font-weight:700}
+</style></head>
+<body><div class="scene">
+  <div class="kicker">Scene 2 of 7 · The Mechanism -- Why Bleeding Happens at All</div>
+  <div class="caption">Bile blocked -&gt; fat &amp; Vitamin K malabsorption -&gt; inactive clotting factors</div>
+  <div class="visual">
+  <svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+    <!-- Liver -->
+    <path d="M120 120 Q80 90 130 60 Q220 20 320 60 Q380 85 360 150 Q340 210 250 210 Q140 210 120 120 Z"
+          fill="#10243D" stroke="#55D6E8" stroke-width="3"/>
+    <text x="230" y="130" text-anchor="middle" fill="#F5F8FC" font-size="26" font-weight="700">LIVER</text>
+
+    <!-- Bile duct -->
+    <path d="M230 210 L230 260 L400 260" fill="none" stroke="#19C3B1" stroke-width="10" stroke-linecap="round"/>
+    <!-- Obstruction (stone) -->
+    <circle cx="400" cy="260" r="22" fill="#FFB454"/>
+    <text x="400" y="230" text-anchor="middle" fill="#FFB454" font-size="20" font-weight="700">Gallstone / Obstruction</text>
+    <!-- Blocked path (dashed, faded) -->
+    <path d="M422 260 L620 260" fill="none" stroke="#7C93AC" stroke-width="10" stroke-linecap="round" stroke-dasharray="4 14" opacity="0.5"/>
+    <text x="520" y="240" text-anchor="middle" fill="#7C93AC" font-size="18">bile flow blocked</text>
+
+    <!-- Intestine -->
+    <path d="M620 220 q40 -20 80 0 q40 20 0 40 q-40 20 0 40 q40 20 -20 40 q-60 20 -60 -30"
+          fill="none" stroke="#55D6E8" stroke-width="8"/>
+    <text x="660" y="180" text-anchor="middle" fill="#F5F8FC" font-size="22" font-weight="700">SMALL INTESTINE</text>
+
+    <!-- Fat + Vitamin K absorption, crossed out -->
+    <g transform="translate(700,290)">
+      <rect x="-90" y="-30" width="220" height="80" rx="14" fill="#10243D" stroke="#FFB454" stroke-width="2"/>
+      <text x="20" y="0" text-anchor="middle" fill="#F5F8FC" font-size="18" font-weight="700">Fat + Vitamin K</text>
+      <text x="20" y="26" text-anchor="middle" fill="#FFB454" font-size="18" font-weight="800">absorption ✕</text>
+    </g>
+
+    <!-- Downstream: liver can't activate II VII IX X -->
+    <g transform="translate(140,330)">
+      <text x="0" y="0" fill="#7C93AC" font-size="20">No Vitamin K reaching the liver →</text>
+      <text x="0" y="30" fill="#FFB454" font-size="24" font-weight="800">Factors II · VII · IX · X stay INACTIVE</text>
+    </g>
+  </svg></div>
+  <div class="footer"><span>Medical AI Videos — Single Narrator</span><span class="badge">surgery-1-0001</span></div>
+</div></body></html>

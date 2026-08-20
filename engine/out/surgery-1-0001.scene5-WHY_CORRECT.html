@@ -1,0 +1,32 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+:root{--bg:#07111F;--panel:#10243D;--text:#F5F8FC;--cyan:#55D6E8;--cyan2:#19C3B1;--amber:#FFB454;--muted:#7C93AC}
+*{box-sizing:border-box}
+html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--text);font-family:Inter,Arial,sans-serif;overflow:hidden}
+.scene{width:1920px;height:1080px;display:flex;flex-direction:column;justify-content:center;gap:36px;padding:90px 130px;background:radial-gradient(circle at 50% 15%,#10243D 0,#07111F 60%)}
+.kicker{font-size:26px;color:var(--cyan);font-weight:800;letter-spacing:.06em;text-transform:uppercase}
+.heading{font-size:56px;font-weight:800;line-height:1.12;max-width:1500px}
+.caption{font-size:34px;line-height:1.4;color:var(--text);max-width:1600px;border-left:5px solid var(--cyan2);padding-left:26px}
+.visual{margin-top:10px}
+.visual svg{width:100%;max-width:1600px;height:auto;display:block}
+.footer{position:absolute;left:80px;right:80px;bottom:50px;display:flex;justify-content:space-between;font-size:20px;color:var(--muted)}
+.badge{display:inline-block;padding:6px 16px;border-radius:999px;border:1px solid var(--cyan);color:var(--cyan);font-size:18px;font-weight:700}
+</style></head>
+<body><div class="scene">
+  <div class="kicker">Scene 5 of 7 · Why Factor VIII Is the Exception</div>
+  <div class="caption">Factor VIII: NOT vitamin K-dependent, made by endothelium -&gt; stays normal or rises</div>
+  <div class="visual">
+  <svg viewBox="0 0 900 340" xmlns="http://www.w3.org/2000/svg">
+    <!-- Vessel wall -->
+    <rect x="80" y="120" width="740" height="60" rx="30" fill="none" stroke="#55D6E8" stroke-width="4"/>
+    <text x="450" y="105" text-anchor="middle" fill="#F5F8FC" font-size="20" font-weight="700">Vascular Endothelium (blood vessel lining)</text>
+    <!-- Factor VIII released -->
+    <g fill="#55D6E8">
+      <circle cx="220" cy="150" r="10"/><circle cx="330" cy="150" r="10"/>
+      <circle cx="450" cy="150" r="10"/><circle cx="570" cy="150" r="10"/><circle cx="680" cy="150" r="10"/>
+    </g>
+    <text x="450" y="230" text-anchor="middle" fill="#55D6E8" font-size="24" font-weight="800">Factor VIII made here — not by hepatocytes</text>
+    <text x="450" y="264" text-anchor="middle" fill="#F5F8FC" font-size="18">No Vitamin K needed → unaffected by obstructive jaundice</text>
+    <text x="450" y="300" text-anchor="middle" fill="#FFB454" font-size="18" font-weight="700">Often normal, sometimes even elevated</text>
+  </svg></div>
+  <div class="footer"><span>Medical AI Videos — Single Narrator</span><span class="badge">surgery-1-0001</span></div>
+</div></body></html>
