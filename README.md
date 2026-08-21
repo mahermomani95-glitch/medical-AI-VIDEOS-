@@ -31,6 +31,29 @@ happens on GitHub Actions instead of a paid API.
    the `narrated-videos` artifact. Takes a few minutes, costs nothing on
    GitHub's free Actions minutes (unlimited for public repos).
 
+## Alternative: assembling in Rendley
+
+Steps 1-3 above (script → scene HTML → scene PNGs) are backend-agnostic:
+once a question's scenes are built and screenshotted, you can hand them to
+[Rendley](https://rendley.com) instead of the Piper+ffmpeg path for
+interactive editing (transitions, music, brand overlays) rather than the
+unattended GitHub Actions render.
+
+1. **Connect the Rendley MCP server** to Claude Code:
+   ```
+   claude mcp add --transport http rendley https://mcp.rendley.com/mcp \
+     --header "Authorization: Bearer YOUR_RENDLEY_API_KEY"
+   ```
+2. **Build a manifest** for the question once its scene PNGs exist:
+   `node engine/rendley_manifest.mjs questions/<id>.script.json engine/out`
+   — writes `engine/out/<id>.rendley-manifest.json`, an ordered list of the
+   scene image files plus a ready-to-use prompt describing the video
+   (question, per-scene narration/captions, correct answer).
+3. **Ask Claude** (with Rendley connected) to attach the listed scene PNGs
+   and create a video draft using the generated prompt. Rendley needs the
+   actual files attached to a session, so this step is interactive and
+   doesn't run inside the unattended render workflow.
+
 ## Why it's split this way
 
 The image rendering (`engine/out/*.png`) is done ahead of time and
