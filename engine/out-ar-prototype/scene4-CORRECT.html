@@ -1,0 +1,94 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+
+@font-face {
+  font-family: "Anton";
+  src: url("../assets/fonts/Anton-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Cairo";
+  src: url("../assets/fonts/Cairo-Variable.ttf") format("truetype-variations");
+  font-weight: 200 900;
+}
+
+:root{
+  --bg:#FFD988; --pink:#FF9FE9; --cyan:#B9F0FD;
+  --gold:#FCC63F; --ink:#111111; --white:#FFFFFF;
+}
+*{box-sizing:border-box}
+html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--ink);font-family:Cairo,Arial,sans-serif;overflow:hidden}
+.scene{position:relative;width:1920px;height:1080px;padding:70px 90px;background:var(--bg)}
+.course-label{font-family:Cairo,Arial,sans-serif;font-size:22px;font-weight:600;color:#5b4a22;letter-spacing:.02em}
+.q-pill{font-family:Anton,Arial,sans-serif;font-size:34px;color:var(--pink);letter-spacing:.03em;margin-top:14px}
+.headline-en{font-family:Anton,Arial,sans-serif;font-size:58px;line-height:1.14;color:var(--ink);max-width:1080px;margin-top:18px}
+.headline-ar{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:700;font-size:36px;line-height:1.55;color:#1a1a1a;max-width:1080px;margin-top:26px}
+.card{background:var(--white);border:4px solid var(--ink);border-radius:22px;box-shadow:10px 10px 0 var(--pink);padding:34px 40px}
+.card.cyan-shadow{box-shadow:10px 10px 0 var(--cyan)}
+.card.gold-shadow{box-shadow:10px 10px 0 var(--gold)}
+.card-title{font-family:Anton,Arial,sans-serif;font-size:32px;color:var(--pink);margin-bottom:18px}
+.opt-row{display:flex;align-items:center;gap:22px;background:var(--white);border:3px solid var(--ink);border-radius:16px;padding:18px 28px;margin-bottom:16px}
+.opt-badge{font-family:Anton,Arial,sans-serif;font-size:26px;color:var(--white);background:var(--pink);border:3px solid var(--ink);border-radius:999px;width:46px;height:46px;display:flex;align-items:center;justify-content:center;flex:none}
+.opt-badge.correct{background:var(--gold)}
+.opt-text{font-family:Cairo,Arial,sans-serif;font-weight:700;font-size:28px;color:var(--ink)}
+.split{display:flex;gap:36px;margin-top:40px}
+.split .box{flex:1;border:4px solid var(--ink);border-radius:22px;padding:30px 34px}
+.split .box.pink{background:var(--pink)}
+.split .box.cyan{background:var(--cyan)}
+.split .box h3{font-family:Anton,Arial,sans-serif;font-size:34px;margin:0 0 6px}
+.split .box p{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:24px;margin:6px 0 0;line-height:1.5}
+.vs-badge{align-self:center;font-family:Anton,Arial,sans-serif;background:var(--ink);color:var(--white);border-radius:999px;width:64px;height:64px;display:flex;align-items:center;justify-content:center;font-size:22px}
+.caption-bar{position:absolute;left:50%;bottom:56px;transform:translateX(-50%);background:var(--ink);color:var(--white);border:3px solid var(--ink);border-radius:999px;padding:16px 40px;font-family:Cairo,Arial,sans-serif;font-weight:800;font-size:26px;box-shadow:8px 8px 0 var(--pink);direction:rtl;white-space:nowrap}
+.badge-course{position:absolute;left:90px;bottom:56px;background:var(--white);border:3px solid var(--ink);border-radius:10px;padding:10px 22px;font-family:Anton,Arial,sans-serif;font-size:22px;box-shadow:6px 6px 0 var(--gold)}
+.pills{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px}
+.pill{background:var(--cyan);border:3px solid var(--ink);border-radius:999px;padding:10px 22px;font-family:Cairo,Arial,sans-serif;font-weight:700;font-size:22px}
+.gold-banner{background:var(--gold);border:4px solid var(--ink);border-radius:22px;padding:28px 36px;box-shadow:10px 10px 0 var(--ink)}
+.gold-banner .k{font-family:Cairo,Arial,sans-serif;font-weight:800;font-size:22px;direction:rtl;text-align:right}
+.gold-banner .v{font-family:Anton,Arial,sans-serif;font-size:44px;margin-top:8px}
+.illustration{position:absolute;right:90px;top:360px;width:520px}
+.trophy{position:absolute;right:100px;top:80px;width:130px}
+</style></head>
+<body><div class="scene">
+  <svg class="trophy" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M30 15h40v22c0 13-9 24-20 24s-20-11-20-24V15z" fill="#FCC63F" stroke="#111111" stroke-width="3"/>
+    <path d="M30 20H16c0 12 6 20 14 22" stroke="#111111" stroke-width="3" fill="none"/>
+    <path d="M70 20h14c0 12-6 20-14 22" stroke="#111111" stroke-width="3" fill="none"/>
+    <rect x="44" y="60" width="12" height="14" fill="#FCC63F" stroke="#111111" stroke-width="3"/>
+    <rect x="32" y="74" width="36" height="10" rx="3" fill="#FCC63F" stroke="#111111" stroke-width="3"/>
+  </svg>
+  <div class="gold-banner" style="max-width:820px;margin-top:40px">
+    <div class="k">الإجابة الصحيحة</div>
+    <div class="v">D) Small Bowel &rarr; Stomach &rarr; Colon</div>
+  </div>
+  <div class="illustration" style="top:120px"><svg viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F2A25C"/>
+      <stop offset="100%" stop-color="#9A63C9"/>
+    </linearGradient>
+  </defs>
+  <line x1="40" y1="260" x2="520" y2="260" stroke="#111" stroke-width="4"/>
+  <g font-family="Cairo, Arial, sans-serif" font-weight="700" font-size="20" fill="#111">
+    <circle cx="90" cy="150" r="16" fill="#FFD2A8" stroke="#111" stroke-width="3"/>
+    <text x="40" y="200">Small Bowel</text>
+    <text x="55" y="225" font-size="18" fill="#5b4a22">~24h</text>
+
+    <circle cx="280" cy="110" r="16" fill="#FFB4C6" stroke="#111" stroke-width="3"/>
+    <text x="235" y="200">Stomach</text>
+    <text x="235" y="225" font-size="18" fill="#5b4a22">24–48h</text>
+
+    <circle cx="470" cy="70" r="16" fill="#C9A6E8" stroke="#111" stroke-width="3"/>
+    <text x="420" y="200">Colon</text>
+    <text x="410" y="225" font-size="18" fill="#5b4a22">48–72h+</text>
+  </g>
+  <path d="M90 150 L280 110 L470 70" fill="none" stroke="url(#barG)" stroke-width="8" stroke-linecap="round"/>
+</svg></div>
+  <div class="card" style="max-width:760px;margin-top:36px">
+    <div class="card-title">الجدول الزمني للعودة</div>
+    <div class="pills">
+      <div class="pill">Small Bowel ~24h</div>
+      <div class="pill">Stomach 24–48h</div>
+      <div class="pill">Colon 48–72h+</div>
+    </div>
+  </div>
+  <div class="caption-bar">D. Small Bowel → Stomach → Colon</div>
+</div></body></html>
