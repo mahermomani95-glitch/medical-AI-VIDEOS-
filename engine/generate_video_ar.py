@@ -221,4 +221,12 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except Exception as e:
+        import traceback
+        print(f"::error::Unhandled exception in generate_video_ar.py: {e}")
+        traceback.print_exc()
+        sys.exit(1)

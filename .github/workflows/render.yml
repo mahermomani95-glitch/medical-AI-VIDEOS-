@@ -45,8 +45,16 @@ jobs:
             exit 1
           fi
 
+      - name: Sanity-check piper is on PATH
+        run: |
+          echo "PATH=$PATH"
+          which piper || { echo "::error::'piper' executable not found on PATH after pip install"; exit 1; }
+          piper --help >/tmp/piper_help.txt 2>&1 || { echo "::error::'piper --help' failed: $(tail -c 500 /tmp/piper_help.txt)"; exit 1; }
+          echo "piper OK: $(which piper)"
+
       - name: Generate narrated video for each question
         run: |
+          set -x
           mkdir -p render-out
           for script in questions/*.script.json; do
             id=$(basename "$script" .script.json)
@@ -55,8 +63,14 @@ jobs:
               "$script" \
               "engine/out" \
               "voices/en_US-ryan-high.onnx" \
-              "render-out"
+              "render-out" 2>&1 | tee "/tmp/${id}.log"
+            RC=${PIPESTATUS[0]}
+            if [ "$RC" -ne 0 ]; then
+              echo "::error::generate_video.py failed for $id (exit $RC). Tail of output: $(tail -c 1500 "/tmp/${id}.log" | tr '\n' ' ')"
+              exit 1
+            fi
           done
+        shell: bash
 
       - name: Upload finished videos
         uses: actions/upload-artifact@v4
