@@ -1,1 +1,8 @@
-::error::edge-tts failed (exit 1) on text '—...' voice=en-US-ChristopherNeural: Traceback (most recent call last):   File "/opt/hostedtoolcache/Python/3.11.16/x64/bin/edge-tts", line 6, in <module>     sys.exit(main())              ^^^^^^   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/edge_tts/util.py", line 141, in main     asyncio.run(amain())   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/asyncio/runners.py", line 190, in run     return runner.run(main)            ^^^^^^^^^^^^^^^^   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/asyncio/runners.py", line 118, in run     return self._loop.run_until_complete(task)            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete     return future.result()    
+[scene 1] QUESTION: 15.2s narrated -> surgery-1-0001.scene1.mp4
+[scene 2] MECHANISM: 43.7s narrated -> surgery-1-0001.scene2.mp4
+[scene 3] CASCADE: 31.4s narrated -> surgery-1-0001.scene3.mp4
+[scene 4] WHY_WRONG: 53.6s narrated -> surgery-1-0001.scene4.mp4
+[scene 5] WHY_CORRECT: 47.0s narrated -> surgery-1-0001.scene5.mp4
+[scene 6] CLINICAL_PEARL: 41.2s narrated -> surgery-1-0001.scene6.mp4
+[scene 7] TAKE_HOME: 21.6s narrated -> surgery-1-0001.scene7.mp4
+[done] render-out/surgery-1-0001.mp4
