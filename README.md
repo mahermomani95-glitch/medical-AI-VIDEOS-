@@ -40,15 +40,46 @@ narration and stitch video, which is the one part that genuinely needs
 GitHub's unrestricted internet access (the voice model lives on Hugging
 Face).
 
+## Arabic track (current direction)
+
+A second, parallel track matches the visual style of a reference video the
+user provided: warm amber background, pink/cyan "sticker" cards with black
+borders and offset color shadows, bold Anton headlines, Cairo for Arabic
+body text, a gold banner + trophy for the correct answer, and a black pill
+caption bar. Narration is Arabic with medical terminology spoken in
+English mid-sentence, per the project's language rule.
+
+- `questions/<id>.ar.script.json` — same idea as the English scripts, plus
+  `question_ar`, `card_text` (on-screen Arabic explanation per card scene),
+  and `verdicts` (per-choice right/wrong + why, shown as a list with ✓/✕
+  badges).
+- `engine/style-ar.mjs` / `engine/visuals-ar.mjs` — the Arabic design
+  system and illustrations (gradient-shaded custom SVGs; real
+  photographic/3D organ renders aren't reachable from this sandbox, so
+  these are original artwork built to fit the same visual language).
+- `engine/build_ar.mjs questions/<id>.ar.script.json engine/out-ar` builds
+  the scene HTML; screenshot the same way as the English track.
+- `engine/generate_video_ar.py` auto-detects Arabic vs. English runs
+  within each narration line and synthesizes each with the matching Piper
+  voice (`ar_JO-kareem-medium` for Arabic, `en_US-ryan-high` for the
+  English medical terms), with a slower length-scale and small pauses
+  between runs/scenes per user feedback on pacing.
+- `.github/workflows/render-ar.yml` — same pattern as the English
+  workflow, downloads both voices and renders every `*.ar.script.json`.
+
 ## Status
 
-- `surgery-1-0001` — obstructive jaundice / Factor VIII — script,
-  diagrams, and scene images done. First one to render for real.
-- Everything else is not started yet.
+- English track: `surgery-1-0001` (obstructive jaundice / Factor VIII)
+  and `surgery-6mo2013-01` (real Q1, GI recovery order) — both rendered
+  successfully via GitHub Actions.
+- Arabic track: same two questions rebuilt in the new visual system —
+  script, diagrams, and scene images done, rendering via `render-ar.yml`.
+- Everything else in the 1031-question bank is not started yet.
 
 ## Honesty notes
 
 - The voice is real neural TTS, clearly better than robotic offline
   voices, but not indistinguishable from a professional human narrator.
 - Diagrams are original hand-built SVGs, not stock photos or fetched
-  images.
+  images — image/photo CDNs aren't reachable from the sandbox this runs
+  in, so anatomy is illustrated rather than photographed.

@@ -1,0 +1,63 @@
+name: Render Narrated Videos (Arabic)
+
+# Manual trigger, or automatic whenever an Arabic script/scene changes.
+# Narration is Arabic with medical terminology spoken in English, so this
+# job downloads two Piper voices and the generator auto-switches between
+# them per run of Arabic vs. Latin text within each line.
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "questions/*.ar.script.json"
+      - "engine/out-ar/**"
+      - "engine/generate_video_ar.py"
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg and piper-tts
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install --quiet piper-tts
+
+      - name: Download Arabic (male) and English (deep male) voice models
+        run: |
+          mkdir -p voices
+          BASE="https://huggingface.co/rhasspy/piper-voices/resolve/main"
+          curl -sL -o voices/ar_JO-kareem-medium.onnx      "$BASE/ar/ar_JO/kareem/medium/ar_JO-kareem-medium.onnx"
+          curl -sL -o voices/ar_JO-kareem-medium.onnx.json "$BASE/ar/ar_JO/kareem/medium/ar_JO-kareem-medium.onnx.json"
+          curl -sL -o voices/en_US-ryan-high.onnx          "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx"
+          curl -sL -o voices/en_US-ryan-high.onnx.json     "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
+          ls -la voices/
+
+      - name: Generate narrated video for each Arabic question
+        run: |
+          mkdir -p render-ar-out
+          for script in questions/*.ar.script.json; do
+            id=$(basename "$script" .ar.script.json)
+            echo "=== Rendering $id (Arabic) ==="
+            python engine/generate_video_ar.py \
+              "$script" \
+              "engine/out-ar" \
+              "voices/ar_JO-kareem-medium.onnx" \
+              "voices/en_US-ryan-high.onnx" \
+              "render-ar-out"
+          done
+
+      - name: Upload finished videos
+        uses: actions/upload-artifact@v4
+        with:
+          name: narrated-videos-ar
+          path: render-ar-out/*.mp4
+          if-no-files-found: error

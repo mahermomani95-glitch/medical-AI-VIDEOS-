@@ -1,0 +1,86 @@
+{
+  "id": "surgery-1-0001-ar",
+  "source": "Test question (not from the source bank) -- obstructive jaundice / clotting factors",
+  "language": "ar",
+  "voice": "ar_JO-kareem-medium",
+  "length_scale": 1.18,
+  "question": "In obstructive jaundice, bleeding tendency is due to deficiency of the following clotting factors, except:",
+  "question_ar": "في حالة الـ Obstructive Jaundice، يحدث ميل للنزيف بسبب نقص عوامل التخثر التالية، باستثناء:",
+  "course_label": "Course: Surgery — Hemostasis & Coagulation",
+  "options": [
+    { "letter": "A", "text": "Factor II" },
+    { "letter": "B", "text": "Factor VII" },
+    { "letter": "C", "text": "Factor VIII" },
+    { "letter": "D", "text": "Factor IX" },
+    { "letter": "E", "text": "Factor X" }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Factor VIII",
+  "summary_ar": "Obstructive Jaundice يخفض عوامل II و VII و IX و X المعتمدة على فيتامين K، بينما يبقى Factor VIII طبيعيًا لأنه لا يعتمد على فيتامين K.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card_factor8",
+      "caption": "Vitamin K–Dependent Factors",
+      "narration": "هذا هو السؤال. في حالة الـ Obstructive Jaundice، يحدث ميل للنزيف بسبب نقص عدة عوامل تخثر — باستثناء عامل واحد. أمامك الخيارات: Factor II، و Factor VII، و Factor VIII، و Factor IX، و Factor X. خذ لحظة، ثم لنحلل الآلية معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "أي عامل هو الاستثناء؟",
+      "narration": "إليك الخيارات الخمسة أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "MECHANISM",
+      "heading_ar": "الآلية — لماذا يحدث النزيف أصلًا",
+      "visual": "biliary_mechanism",
+      "caption": "Bile Blocked → Vitamin K Malabsorption",
+      "card_text": "انسداد الصفراء يمنع امتصاص فيتامين K، فتخرج عوامل التخثر II و VII و IX و X من الكبد غير فعّالة.",
+      "narration": "لنبدأ بفهم سبب حدوث النزيف أصلًا في الـ Obstructive Jaundice. هذه الحالة تعني أن الصفراء Bile لا تستطيع الوصول من الكبد إلى الأمعاء الدقيقة، بسبب انسداد في المسار — قد يكون بسبب حصاة في القناة الصفراوية المشتركة، أو ورم، أو تضيّق. والصفراء ضرورية لهضم وامتصاص الدهون، ومعها تُمتص الفيتامينات الذائبة في الدهون: A و D و E و K. فانعدام وصول الصفراء يعني سوء امتصاص لفيتامين K. وفيتامين K هنا ليس تفصيلًا بسيطًا، بل هو عامل أساسي يستخدمه الكبد لتفعيل أربعة عوامل تخثر محددة: Factor II، و Factor VII، و Factor IX، و Factor X. فبدون فيتامين K، يستمر الكبد في إنتاج هذه العوامل، لكنها تخرج غير فعّالة. والنتيجة ميل للنزيف، رغم أن الكبد نفسه يعمل بشكل طبيعي."
+    },
+    {
+      "id": "CASCADE",
+      "heading_ar": "العوامل المعتمدة على فيتامين K",
+      "visual": "cascade_ar",
+      "caption": "II, VII, IX, X — Vitamin K–Dependent",
+      "card_text": "فقط II و VII و IX و X تعتمد على فيتامين K لتُصبح فعّالة — Factor VIII خارج هذه المجموعة تمامًا.",
+      "narration": "هذه هي النقطة الجوهرية التي يُبنى عليها السؤال بالكامل. أربعة عوامل تخثر فقط تعتمد على فيتامين K لتُصبح فعّالة: Factor II، وهو Prothrombin، و Factor VII، و Factor IX، و Factor X. كل واحد من هذه العوامل ينخفض عندما يتعذّر امتصاص فيتامين K. أما Factor VIII، فهو ليس ضمن هذه المجموعة إطلاقًا، وهذا الفرق بالتحديد هو ما يختبره هذا السؤال."
+    },
+    {
+      "id": "WHY_WRONG",
+      "heading_ar": "لماذا كل خيار آخر خاطئ",
+      "visual": "verdict_list",
+      "caption": "II, VII, IX, X كلها تنخفض معًا",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا — وأقصد أنها خاطئة كإجابة لهذا السؤال تحديدًا، وليست معلومات غير صحيحة. Factor II، أي Prothrombin: يعتمد على فيتامين K، لذلك فهو بالفعل ينخفض في الـ Obstructive Jaundice. وبما أن السؤال يطلب الاستثناء، فإن Factor II لا يصلح، لأنه يسلك تمامًا نفس سلوك البقية. Factor VII: نفس الأمر تمامًا، يعتمد على فيتامين K، وينخفض مبكرًا لأن له أقصر عمر نصفي بين هذه العوامل — فهو جزء من النمط المتوقع، وليس الاستثناء. Factor IX: يعتمد أيضًا على فيتامين K، فينخفض مع البقية — وليس الاستثناء. Factor X: يعتمد كذلك على فيتامين K، وينخفض أيضًا. إذن أربعة من الخيارات الخمسة — II و VII و IX و X — تشترك جميعها في نفس الآلية: تحتاج فيتامين K لتعمل، وفيتامين K لا يُمتص، فتنخفض جميعها معًا. ولا يمكن لأي منها أن يكون الاستثناء، لأن سلوكه لا يختلف عن البقية.",
+      "verdicts": [
+        { "letter": "A", "text": "Factor II", "verdict": "wrong", "reason": "Vitamin K–dependent — ينخفض مثل البقية، فهو جزء من النمط، لا الاستثناء." },
+        { "letter": "B", "text": "Factor VII", "verdict": "wrong", "reason": "Vitamin K–dependent، وأقصر عمر نصفي — ينخفض مبكرًا مع البقية." },
+        { "letter": "C", "text": "Factor VIII", "verdict": "correct", "reason": "لا يعتمد على فيتامين K — يبقى طبيعيًا أو مرتفعًا." },
+        { "letter": "D", "text": "Factor IX", "verdict": "wrong", "reason": "Vitamin K–dependent — ينخفض مع البقية." },
+        { "letter": "E", "text": "Factor X", "verdict": "wrong", "reason": "Vitamin K–dependent — ينخفض مع البقية." }
+      ]
+    },
+    {
+      "id": "WHY_CORRECT",
+      "heading_ar": "لماذا Factor VIII هو الاستثناء",
+      "visual": "factor_eight_ar",
+      "caption": "C. Factor VIII — Not Vitamin K–Dependent",
+      "narration": "الآن نأتي إلى Factor VIII — الإجابة الصحيحة فعليًا. Factor VIII مختلف جوهريًا عن العوامل الأربعة الأخرى، والسبب كالتالي: هو لا يعتمد على فيتامين K إطلاقًا، ولا يحتاج لخطوة التفعيل تلك. كما أنه لا يُصنع بشكل أساسي من خلايا الكبد Hepatocytes كما هو حال عوامل فيتامين K، بل يُصنع بشكل رئيسي من الخلايا البطانية الوعائية Vascular Endothelial Cells المنتشرة في كامل الجسم، وليس فقط في الكبد. لذلك عندما ينسدّ تدفق الصفراء وينخفض امتصاص فيتامين K، يبقى Factor VIII غير متأثر بهذا المسار تمامًا. بل في الواقع، غالبًا ما يكون Factor VIII طبيعيًا أو حتى مرتفعًا في الـ Obstructive Jaundice، لأنه يتصرف نوعًا ما كبروتين من بروتينات الطور الحاد Acute-Phase Protein أثناء الالتهاب أو الركود الصفراوي Cholestasis. وهذا بالضبط سبب كونه الاستثناء: كل خيار آخر يشترك في آلية فيتامين K، بينما Factor VIII يقف خارج هذه الآلية تمامًا."
+    },
+    {
+      "id": "CLINICAL_PEARL",
+      "heading_ar": "فائدة سريرية — تمييز نقص فيتامين K عن فشل الكبد",
+      "visual": "factor_five_ar",
+      "caption": "Factor V: طبيعي = فيتامين K، منخفض = فشل كبدي",
+      "card_text": "Factor V لا يعتمد على فيتامين K لكنه يُصنع في الكبد حصريًا — طبيعي في نقص فيتامين K، ومنخفض في الفشل الكبدي الحقيقي.",
+      "narration": "إليك فائدة سريرية حقيقية تُوسّع هذا المفهوم. إذا كان لدى المريض ميل للنزيف، وأردت معرفة إن كان السبب نقص فيتامين K أو ركودًا صفراويًا Cholestasis، أم فشلًا حقيقيًا في وظيفة الكبد، افحص Factor V. فـ Factor V، مثل Factor VIII، لا يعتمد على فيتامين K، لذلك يبقى طبيعيًا في نقص فيتامين K البسيط. لكن على عكس Factor VIII، فإن Factor V يُصنع حصريًا من خلايا الكبد Hepatocytes. لذلك في الفشل الكبدي الحقيقي، حيث يفقد الكبد وظيفته التصنيعية تمامًا، ينخفض Factor V، بينما في الـ Obstructive Jaundice مع خلايا كبد سليمة، يبقى Factor V طبيعيًا. وغالبًا ما يكون هذا العامل وحده هو الفيصل بين مشكلة انسداد بسيطة ومشكلة حقيقية في وظيفة الكبد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "heading_ar": "الخلاصة السريعة",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الـ Obstructive Jaundice يمنع وصول الصفراء، والصفراء ضرورية لامتصاص فيتامين K، وفيتامين K يُفعّل العوامل II و VII و IX و X. فتنخفض هذه الأربعة جميعًا. أما Factor VIII، فلا يعتمد على فيتامين K ولا يُصنع فقط في الكبد، لذلك يبقى طبيعيًا — وهذا ما يجعله الاستثناء، والإجابة الصحيحة لهذا السؤال. الإجابة النهائية هي C، Factor VIII."
+    }
+  ]
+}

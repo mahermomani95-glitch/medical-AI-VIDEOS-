@@ -1,18 +1,5 @@
-// Shared design system for the Arabic track, reverse-engineered from the
-// reference video the user sent (warm amber background, pink/cyan
-// "neubrutalist" cards with black borders + offset color shadows, bold
-// condensed Anton headlines, Cairo for Arabic text, black pill caption bar).
+<!doctype html><html><head><meta charset="utf-8"><style>
 
-export const TOKENS = {
-  bg: "#FFD988",
-  pink: "#FF9FE9",
-  cyan: "#B9F0FD",
-  gold: "#FCC63F",
-  ink: "#111111",
-  white: "#FFFFFF",
-};
-
-export const FONT_FACES = `
 @font-face {
   font-family: "Anton";
   src: url("../assets/fonts/Anton-Regular.ttf") format("truetype");
@@ -23,13 +10,10 @@ export const FONT_FACES = `
   src: url("../assets/fonts/Cairo-Variable.ttf") format("truetype-variations");
   font-weight: 200 900;
 }
-`;
 
-export const BASE_STYLE_AR = `
-${FONT_FACES}
 :root{
-  --bg:${TOKENS.bg}; --pink:${TOKENS.pink}; --cyan:${TOKENS.cyan};
-  --gold:${TOKENS.gold}; --ink:${TOKENS.ink}; --white:${TOKENS.white};
+  --bg:#FFD988; --pink:#FF9FE9; --cyan:#B9F0FD;
+  --gold:#FCC63F; --ink:#111111; --white:#FFFFFF;
 }
 *{box-sizing:border-box}
 html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--ink);font-family:Cairo,Arial,sans-serif;overflow:hidden}
@@ -71,14 +55,37 @@ html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--i
 .verdict-en{font-family:Cairo,Arial,sans-serif;font-weight:800;font-size:24px;color:var(--ink)}
 .verdict-ar{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:21px;color:#3a3a3a;margin-top:10px;line-height:1.6}
 .scene-heading{font-family:Anton,Arial,sans-serif;font-size:40px;color:var(--ink);margin-bottom:10px}
-`;
-
-export function trophySvg() {
-  return `<svg class="trophy" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M30 15h40v22c0 13-9 24-20 24s-20-11-20-24V15z" fill="${TOKENS.gold}" stroke="${TOKENS.ink}" stroke-width="3"/>
-    <path d="M30 20H16c0 12 6 20 14 22" stroke="${TOKENS.ink}" stroke-width="3" fill="none"/>
-    <path d="M70 20h14c0 12-6 20-14 22" stroke="${TOKENS.ink}" stroke-width="3" fill="none"/>
-    <rect x="44" y="60" width="12" height="14" fill="${TOKENS.gold}" stroke="${TOKENS.ink}" stroke-width="3"/>
-    <rect x="32" y="74" width="36" height="10" rx="3" fill="${TOKENS.gold}" stroke="${TOKENS.ink}" stroke-width="3"/>
-  </svg>`;
-}
+</style></head>
+<body><div class="scene">
+    <svg class="trophy" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M30 15h40v22c0 13-9 24-20 24s-20-11-20-24V15z" fill="#FCC63F" stroke="#111111" stroke-width="3"/>
+    <path d="M30 20H16c0 12 6 20 14 22" stroke="#111111" stroke-width="3" fill="none"/>
+    <path d="M70 20h14c0 12-6 20-14 22" stroke="#111111" stroke-width="3" fill="none"/>
+    <rect x="44" y="60" width="12" height="14" fill="#FCC63F" stroke="#111111" stroke-width="3"/>
+    <rect x="32" y="74" width="36" height="10" rx="3" fill="#FCC63F" stroke="#111111" stroke-width="3"/>
+  </svg>
+    <div class="gold-banner" style="max-width:900px;margin-top:40px">
+      <div class="k">الإجابة الصحيحة</div>
+      <div class="v">C) Factor VIII</div>
+    </div>
+    <div class="illustration" style="top:150px;width:480px"><svg viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="vesselG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5A0B8"/>
+      <stop offset="100%" stop-color="#D45C82"/>
+    </linearGradient>
+  </defs>
+  <rect x="40" y="120" width="480" height="70" rx="35" fill="url(#vesselG)" stroke="#111" stroke-width="4"/>
+  <rect x="40" y="145" width="480" height="20" fill="#7a1f3d" opacity="0.35"/>
+  <g font-family="Anton, Arial" font-size="20" fill="#fff">
+    <circle cx="120" cy="155" r="14" fill="#FCC63F" stroke="#111" stroke-width="2"/>
+    <circle cx="280" cy="155" r="14" fill="#FCC63F" stroke="#111" stroke-width="2"/>
+    <circle cx="430" cy="155" r="14" fill="#FCC63F" stroke="#111" stroke-width="2"/>
+  </g>
+  <rect x="150" y="40" width="260" height="36" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+  <text x="165" y="64" font-family="Cairo, Arial" font-weight="700" font-size="20">Vascular Endothelium</text>
+  <rect x="180" y="220" width="200" height="36" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
+  <text x="195" y="244" font-family="Cairo, Arial" font-weight="700" font-size="20">Factor VIII made here</text>
+</svg></div>
+    <div class="caption-bar">C. Factor VIII — Not Vitamin K–Dependent</div>
+  </div></body></html>

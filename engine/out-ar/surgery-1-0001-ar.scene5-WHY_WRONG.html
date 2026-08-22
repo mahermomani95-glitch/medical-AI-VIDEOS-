@@ -1,18 +1,5 @@
-// Shared design system for the Arabic track, reverse-engineered from the
-// reference video the user sent (warm amber background, pink/cyan
-// "neubrutalist" cards with black borders + offset color shadows, bold
-// condensed Anton headlines, Cairo for Arabic text, black pill caption bar).
+<!doctype html><html><head><meta charset="utf-8"><style>
 
-export const TOKENS = {
-  bg: "#FFD988",
-  pink: "#FF9FE9",
-  cyan: "#B9F0FD",
-  gold: "#FCC63F",
-  ink: "#111111",
-  white: "#FFFFFF",
-};
-
-export const FONT_FACES = `
 @font-face {
   font-family: "Anton";
   src: url("../assets/fonts/Anton-Regular.ttf") format("truetype");
@@ -23,13 +10,10 @@ export const FONT_FACES = `
   src: url("../assets/fonts/Cairo-Variable.ttf") format("truetype-variations");
   font-weight: 200 900;
 }
-`;
 
-export const BASE_STYLE_AR = `
-${FONT_FACES}
 :root{
-  --bg:${TOKENS.bg}; --pink:${TOKENS.pink}; --cyan:${TOKENS.cyan};
-  --gold:${TOKENS.gold}; --ink:${TOKENS.ink}; --white:${TOKENS.white};
+  --bg:#FFD988; --pink:#FF9FE9; --cyan:#B9F0FD;
+  --gold:#FCC63F; --ink:#111111; --white:#FFFFFF;
 }
 *{box-sizing:border-box}
 html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--ink);font-family:Cairo,Arial,sans-serif;overflow:hidden}
@@ -71,14 +55,48 @@ html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--i
 .verdict-en{font-family:Cairo,Arial,sans-serif;font-weight:800;font-size:24px;color:var(--ink)}
 .verdict-ar{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:21px;color:#3a3a3a;margin-top:10px;line-height:1.6}
 .scene-heading{font-family:Anton,Arial,sans-serif;font-size:40px;color:var(--ink);margin-bottom:10px}
-`;
+</style></head>
+<body><div class="scene">
+    <div class="scene-heading">لماذا كل خيار آخر خاطئ</div>
+    <div style="max-width:1150px;margin-top:14px">
+    <div class="verdict-row">
+      <div class="verdict-top">
+        <div class="verdict-badge wrong">✕</div>
+        <div class="verdict-en">A) Factor II</div>
+      </div>
+      <div class="verdict-ar">Vitamin K–dependent — ينخفض مثل البقية، فهو جزء من النمط، لا الاستثناء.</div>
+    </div>
 
-export function trophySvg() {
-  return `<svg class="trophy" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M30 15h40v22c0 13-9 24-20 24s-20-11-20-24V15z" fill="${TOKENS.gold}" stroke="${TOKENS.ink}" stroke-width="3"/>
-    <path d="M30 20H16c0 12 6 20 14 22" stroke="${TOKENS.ink}" stroke-width="3" fill="none"/>
-    <path d="M70 20h14c0 12-6 20-14 22" stroke="${TOKENS.ink}" stroke-width="3" fill="none"/>
-    <rect x="44" y="60" width="12" height="14" fill="${TOKENS.gold}" stroke="${TOKENS.ink}" stroke-width="3"/>
-    <rect x="32" y="74" width="36" height="10" rx="3" fill="${TOKENS.gold}" stroke="${TOKENS.ink}" stroke-width="3"/>
-  </svg>`;
-}
+    <div class="verdict-row">
+      <div class="verdict-top">
+        <div class="verdict-badge wrong">✕</div>
+        <div class="verdict-en">B) Factor VII</div>
+      </div>
+      <div class="verdict-ar">Vitamin K–dependent، وأقصر عمر نصفي — ينخفض مبكرًا مع البقية.</div>
+    </div>
+
+    <div class="verdict-row">
+      <div class="verdict-top">
+        <div class="verdict-badge correct">✓</div>
+        <div class="verdict-en">C) Factor VIII</div>
+      </div>
+      <div class="verdict-ar">لا يعتمد على فيتامين K — يبقى طبيعيًا أو مرتفعًا.</div>
+    </div>
+
+    <div class="verdict-row">
+      <div class="verdict-top">
+        <div class="verdict-badge wrong">✕</div>
+        <div class="verdict-en">D) Factor IX</div>
+      </div>
+      <div class="verdict-ar">Vitamin K–dependent — ينخفض مع البقية.</div>
+    </div>
+
+    <div class="verdict-row">
+      <div class="verdict-top">
+        <div class="verdict-badge wrong">✕</div>
+        <div class="verdict-en">E) Factor X</div>
+      </div>
+      <div class="verdict-ar">Vitamin K–dependent — ينخفض مع البقية.</div>
+    </div></div>
+    <div class="caption-bar">II, VII, IX, X كلها تنخفض معًا</div>
+  </div></body></html>
