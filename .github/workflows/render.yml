@@ -60,6 +60,9 @@ jobs:
           set -x
           mkdir -p render-out
           for script in questions/*.script.json; do
+            case "$script" in
+              *.ar.script.json) continue ;;  # Arabic-track scripts are handled by render-ar.yml, not this workflow
+            esac
             id=$(basename "$script" .script.json)
             echo "=== Rendering $id ==="
             python engine/generate_video.py \

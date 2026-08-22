@@ -183,7 +183,7 @@ def main():
         scene_id = scene["id"]
         png = png_dir / f"{qid}.scene{i}-{scene_id}.png"
         if not png.exists():
-            print(f"[error] missing scene image {png}", file=sys.stderr)
+            print(f"::error::missing scene image {png}")
             sys.exit(1)
 
         tag = f"{qid}.scene{i}"
