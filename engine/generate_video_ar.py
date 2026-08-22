@@ -26,15 +26,53 @@ AR_CHAR = re.compile(r"[؀-ۿݐ-ݿ]")
 RUN_SPLIT = re.compile(r"[؀-ۿݐ-ݿ][؀-ۿݐ-ݿ\s0-9،؛؟.,\-]*|[^؀-ۿݐ-ݿ]+")
 
 
+CONNECTOR_WORDS = {"ثم", "أو", "و"}
+STRIP_CHARS = " ،:;.,-؛"
+
+
+def _is_connector_only(text):
+    cleaned = text.strip(STRIP_CHARS)
+    if not cleaned:
+        return True  # pure punctuation, e.g. a lone ":" -- harmless to fold in either direction
+    words = cleaned.split()
+    return len(words) <= 2 and all(w.strip(STRIP_CHARS) in CONNECTOR_WORDS for w in words)
+
+
+def _merge_bare_connectors(runs):
+    # A lone Arabic connector ("ثم"/"أو"/"و") sitting between two English
+    # option names would otherwise force a full voice switch for one tiny
+    # word -- fold it into whichever run precedes it instead. This is what
+    # turns "Stomach <switch> ثم <switch> Colon <switch> ثم <switch> ..."
+    # into one continuous run instead of a dozen voice flips per sentence.
+    merged = []
+    for chunk, is_ar in runs:
+        if merged and is_ar and _is_connector_only(chunk):
+            prev_chunk, prev_is_ar = merged[-1]
+            merged[-1] = (f"{prev_chunk} {chunk}", prev_is_ar)
+        else:
+            merged.append((chunk, is_ar))
+    return merged
+
+
+def _merge_same_voice(runs):
+    merged = []
+    for chunk, is_ar in runs:
+        if merged and merged[-1][1] == is_ar:
+            merged[-1] = (f"{merged[-1][0]} {chunk}", is_ar)
+        else:
+            merged.append((chunk, is_ar))
+    return merged
+
+
 def split_runs(text):
-    runs = []
+    raw = []
     for m in RUN_SPLIT.finditer(text):
         chunk = m.group(0).strip()
         if not chunk:
             continue
         is_ar = bool(AR_CHAR.search(chunk))
-        runs.append((chunk, is_ar))
-    return runs
+        raw.append((chunk, is_ar))
+    return _merge_same_voice(_merge_bare_connectors(raw))
 
 
 def synth(text, voice, length_scale, out_wav):
@@ -56,13 +94,22 @@ def make_silence(seconds, out_wav):
 
 
 def concat_wavs(wav_paths, out_wav, tmp_dir, tag):
-    list_file = tmp_dir / f"{tag}.concat.txt"
-    with open(list_file, "w") as f:
-        for w in wav_paths:
-            f.write(f"file '{w.resolve()}'\n")
+    # Use the audio concat FILTER (not the concat demuxer) since the two
+    # Piper voices may not share a native sample rate -- the filtergraph
+    # decodes and resamples every input properly, where the demuxer's
+    # simple stream-copy-style concatenation can corrupt/desync mismatched
+    # inputs.
+    inputs = []
+    for w in wav_paths:
+        inputs += ["-i", str(w)]
+    n = len(wav_paths)
+    filter_inputs = "".join(f"[{i}:a]" for i in range(n))
+    filter_complex = f"{filter_inputs}concat=n={n}:v=0:a=1[out]"
     subprocess.run([
         "ffmpeg", "-y", "-loglevel", "error",
-        "-f", "concat", "-safe", "0", "-i", str(list_file),
+        *inputs,
+        "-filter_complex", filter_complex,
+        "-map", "[out]",
         "-ar", "22050", "-ac", "1",
         str(out_wav),
     ], check=True)
