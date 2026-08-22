@@ -97,8 +97,14 @@ def run_checked(cmd, label):
 
 
 def synth(text, voice, rate_percent, out_mp3):
+    # NOTE: must be "--rate=<value>" (one token), not "--rate" "<value>" as two
+    # separate argv entries -- argparse sees a value like "-10%" (starts with
+    # '-', doesn't match its negative-number regex because of the trailing
+    # '%') and misparses it as an unrecognized option instead of --rate's
+    # argument, failing with "argument --rate: expected one argument".
+    # Confirmed locally: "--rate -10%" fails immediately, "--rate=-10%" works.
     proc = subprocess.run(
-        ["edge-tts", "--voice", voice, "--rate", rate_percent, "--text", text, "--write-media", str(out_mp3)],
+        ["edge-tts", "--voice", voice, f"--rate={rate_percent}", "--text", text, "--write-media", str(out_mp3)],
         capture_output=True,
     )
     if proc.returncode != 0 or not out_mp3.exists() or out_mp3.stat().st_size == 0:
