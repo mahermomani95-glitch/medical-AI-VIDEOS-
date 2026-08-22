@@ -6,14 +6,26 @@ narration read over the pre-rendered scene images.
 Per the project's language rule, narration is Arabic but medical
 terminology inside each sentence is spoken in English -- so this script
 auto-detects Arabic vs. Latin runs within each narration line and
-synthesizes each run with the matching Piper voice (Arabic voice for
+synthesizes each run with the matching edge-tts voice (Arabic voice for
 Arabic text, English voice for the embedded medical terms), then stitches
 the runs back into one continuous scene clip with short pauses.
 
-Runs inside GitHub Actions, where outbound internet access is
-unrestricted, so it can reach Hugging Face for both voice models.
+Uses edge-tts (Microsoft Edge's free neural TTS service) instead of
+Piper: Piper's only Arabic voice (ar_JO-kareem-medium) was judged very
+poor quality by the user ("the worst Arabic language speaker i have ever
+seen"). edge-tts's Arabic neural voices (e.g. ar-EG-ShakirNeural,
+ar-JO-TaimNeural) are dramatically better -- but per a Whisper-transcription
+QA check, those Arabic voices badly mangle embedded English medical terms
+when a whole mixed sentence is read by one voice, so this script still
+routes each language run to its own voice rather than reading everything
+with the Arabic voice.
 
-Usage: python generate_video_ar.py <script.ar.json> <scene_png_dir> <ar_voice.onnx> <en_voice.onnx> <out_dir> [length_scale]
+Runs inside GitHub Actions, where outbound internet access is
+unrestricted, so it can reach Microsoft's edge-tts service.
+
+Usage: python generate_video_ar.py <script.ar.json> <scene_png_dir> <ar_voice_name> <en_voice_name> <out_dir> [rate_percent]
+  ar_voice_name / en_voice_name are edge-tts voice names, e.g. ar-EG-ShakirNeural / en-US-ChristopherNeural
+  rate_percent is an edge-tts --rate value, e.g. "-10%" (negative = slower). Defaults to the script's "rate_percent" field or "-10%".
 """
 import json
 import re
@@ -84,35 +96,34 @@ def run_checked(cmd, label):
     return proc
 
 
-def synth(text, voice, length_scale, out_wav):
+def synth(text, voice, rate_percent, out_mp3):
     proc = subprocess.run(
-        ["piper", "--model", str(voice), "--length_scale", str(length_scale), "--output_file", str(out_wav)],
-        input=text.encode("utf-8"), capture_output=True,
+        ["edge-tts", "--voice", voice, "--rate", rate_percent, "--text", text, "--write-media", str(out_mp3)],
+        capture_output=True,
     )
-    if proc.returncode != 0 or not out_wav.exists():
+    if proc.returncode != 0 or not out_mp3.exists() or out_mp3.stat().st_size == 0:
         detail = proc.stderr.decode(errors="replace")[:800].replace("\n", " ")
-        print(f"::error::piper failed (exit {proc.returncode}) on text '{text[:60]}...' voice={voice}: {detail}")
+        print(f"::error::edge-tts failed (exit {proc.returncode}) on text '{text[:60]}...' voice={voice}: {detail}")
         sys.exit(1)
 
 
 def make_silence(seconds, out_wav):
     run_checked([
         "ffmpeg", "-y", "-loglevel", "error",
-        "-f", "lavfi", "-i", f"anullsrc=r=22050:cl=mono",
+        "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono",
         "-t", str(seconds), str(out_wav),
     ], "ffmpeg silence generation")
 
 
-def concat_wavs(wav_paths, out_wav, tmp_dir, tag):
-    # Use the audio concat FILTER (not the concat demuxer) since the two
-    # Piper voices may not share a native sample rate -- the filtergraph
-    # decodes and resamples every input properly, where the demuxer's
-    # simple stream-copy-style concatenation can corrupt/desync mismatched
-    # inputs.
+def concat_audio(pieces, out_wav, tag):
+    # Use the audio concat FILTER (not the concat demuxer): pieces mix mp3
+    # (edge-tts) and wav (silence) containers and could differ in sample
+    # rate, so decode+resample every input properly instead of a
+    # stream-copy-style concatenation that could corrupt/desync them.
     inputs = []
-    for w in wav_paths:
+    for w in pieces:
         inputs += ["-i", str(w)]
-    n = len(wav_paths)
+    n = len(pieces)
     filter_inputs = "".join(f"[{i}:a]" for i in range(n))
     filter_complex = f"{filter_inputs}concat=n={n}:v=0:a=1[out]"
     run_checked([
@@ -120,7 +131,7 @@ def concat_wavs(wav_paths, out_wav, tmp_dir, tag):
         *inputs,
         "-filter_complex", filter_complex,
         "-map", "[out]",
-        "-ar", "22050", "-ac", "1",
+        "-ar", "24000", "-ac", "1",
         str(out_wav),
     ], f"ffmpeg concat ({tag})")
 
@@ -134,7 +145,7 @@ def duration_seconds(wav_path):
     return float(out.stdout.strip())
 
 
-def synth_scene_narration(narration, ar_voice, en_voice, length_scale, out_wav, tmp_dir, tag):
+def synth_scene_narration(narration, ar_voice, en_voice, rate_percent, out_wav, tmp_dir, tag):
     runs = split_runs(narration)
     if not runs:
         make_silence(0.3, out_wav)
@@ -143,9 +154,9 @@ def synth_scene_narration(narration, ar_voice, en_voice, length_scale, out_wav, 
     pieces = []
     for i, (chunk, is_ar) in enumerate(runs):
         voice = ar_voice if is_ar else en_voice
-        wav = tmp_dir / f"{tag}.run{i}.wav"
-        synth(chunk, voice, length_scale, wav)
-        pieces.append(wav)
+        mp3 = tmp_dir / f"{tag}.run{i}.mp3"
+        synth(chunk, voice, rate_percent, mp3)
+        pieces.append(mp3)
         # small breath between runs (slightly longer between AR<->EN switches)
         gap = tmp_dir / f"{tag}.gap{i}.wav"
         make_silence(0.18, gap)
@@ -156,27 +167,25 @@ def synth_scene_narration(narration, ar_voice, en_voice, length_scale, out_wav, 
     make_silence(0.45, end_gap)
     pieces.append(end_gap)
 
-    concat_wavs(pieces, out_wav, tmp_dir, tag)
+    concat_audio(pieces, out_wav, tag)
 
 
 def main():
     args = sys.argv[1:]
     if len(args) < 5:
-        print("Usage: generate_video_ar.py <script.ar.json> <scene_png_dir> <ar_voice.onnx> <en_voice.onnx> <out_dir> [length_scale]", file=sys.stderr)
+        print("Usage: generate_video_ar.py <script.ar.json> <scene_png_dir> <ar_voice_name> <en_voice_name> <out_dir> [rate_percent]", file=sys.stderr)
         sys.exit(1)
     script_path, png_dir, ar_voice, en_voice, out_dir = args[:5]
-    length_scale = args[5] if len(args) > 5 else None
+    rate_percent = args[5] if len(args) > 5 else None
 
-    script_path, png_dir, ar_voice, en_voice, out_dir = (
-        Path(script_path), Path(png_dir), Path(ar_voice), Path(en_voice), Path(out_dir)
-    )
+    script_path, png_dir, out_dir = Path(script_path), Path(png_dir), Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     tmp_dir = out_dir / "tmp"
     tmp_dir.mkdir(exist_ok=True)
 
     data = json.loads(script_path.read_text(encoding="utf-8"))
     qid = data["id"]
-    length_scale = length_scale or data.get("length_scale", 1.15)
+    rate_percent = rate_percent or data.get("rate_percent", "-10%")
     clips = []
 
     for i, scene in enumerate(data["scenes"], start=1):
@@ -188,7 +197,7 @@ def main():
 
         tag = f"{qid}.scene{i}"
         wav = out_dir / f"{tag}.wav"
-        synth_scene_narration(scene["narration"], ar_voice, en_voice, length_scale, wav, tmp_dir, tag)
+        synth_scene_narration(scene["narration"], ar_voice, en_voice, rate_percent, wav, tmp_dir, tag)
         dur = duration_seconds(wav)
 
         clip = out_dir / f"{tag}.mp4"
