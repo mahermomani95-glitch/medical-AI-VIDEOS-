@@ -20,8 +20,18 @@ def synth(text, voice, out_wav):
         input=text.encode("utf-8"), capture_output=True,
     )
     if proc.returncode != 0 or not out_wav.exists():
-        print(f"[error] piper failed: {proc.stderr.decode()[:500]}", file=sys.stderr)
+        detail = proc.stderr.decode(errors="replace")[:800].replace("\n", " ")
+        print(f"::error::piper failed (exit {proc.returncode}) on text '{text[:60]}...': {detail}")
         sys.exit(1)
+
+
+def run_checked(cmd, label):
+    proc = subprocess.run(cmd, capture_output=True)
+    if proc.returncode != 0:
+        detail = proc.stderr.decode(errors="replace")[:800].replace("\n", " ")
+        print(f"::error::{label} failed (exit {proc.returncode}): {detail}")
+        sys.exit(1)
+    return proc
 
 def duration_seconds(wav_path):
     out = subprocess.run(
@@ -52,7 +62,7 @@ def main():
         dur = duration_seconds(wav)
 
         clip = out_dir / f"{qid}.scene{i}.mp4"
-        subprocess.run([
+        run_checked([
             "ffmpeg", "-y", "-loglevel", "error",
             "-loop", "1", "-i", str(png),
             "-i", str(wav),
@@ -62,7 +72,7 @@ def main():
             "-shortest",
             "-vf", "scale=1920:1080",
             str(clip),
-        ], check=True)
+        ], f"ffmpeg mux scene {i}")
         clips.append(clip)
         print(f"[scene {i}] {scene_id}: {dur:.1f}s narrated -> {clip.name}")
 
@@ -72,11 +82,11 @@ def main():
             f.write(f"file '{c.resolve()}'\n")
 
     final = out_dir / f"{qid}.mp4"
-    subprocess.run([
+    run_checked([
         "ffmpeg", "-y", "-loglevel", "error",
         "-f", "concat", "-safe", "0", "-i", str(concat_list),
         "-c", "copy", str(final),
-    ], check=True)
+    ], "ffmpeg final concat")
     print(f"[done] {final}")
 
 if __name__ == "__main__":

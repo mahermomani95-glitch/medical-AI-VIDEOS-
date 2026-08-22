@@ -34,9 +34,16 @@ jobs:
         run: |
           mkdir -p voices
           BASE="https://huggingface.co/rhasspy/piper-voices/resolve/main"
-          curl -sL -o voices/en_US-ryan-high.onnx      "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx"
-          curl -sL -o voices/en_US-ryan-high.onnx.json "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
+          curl -fSL -o voices/en_US-ryan-high.onnx      "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx"      || { echo "::error::Failed to download en_US-ryan-high.onnx (HTTP error)"; exit 1; }
+          curl -fSL -o voices/en_US-ryan-high.onnx.json "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx.json" || { echo "::error::Failed to download en_US-ryan-high.onnx.json (HTTP error)"; exit 1; }
           ls -la voices/
+          MIN_BYTES=1000000
+          SIZE=$(stat -c%s voices/en_US-ryan-high.onnx)
+          if [ "$SIZE" -lt "$MIN_BYTES" ]; then
+            echo "::error::Downloaded voice model is only $SIZE bytes -- looks corrupt/truncated, not a real .onnx model"
+            cat voices/en_US-ryan-high.onnx
+            exit 1
+          fi
 
       - name: Generate narrated video for each question
         run: |

@@ -75,22 +75,32 @@ def split_runs(text):
     return _merge_same_voice(_merge_bare_connectors(raw))
 
 
+def run_checked(cmd, label):
+    proc = subprocess.run(cmd, capture_output=True)
+    if proc.returncode != 0:
+        detail = proc.stderr.decode(errors="replace")[:800].replace("\n", " ")
+        print(f"::error::{label} failed (exit {proc.returncode}): {detail}")
+        sys.exit(1)
+    return proc
+
+
 def synth(text, voice, length_scale, out_wav):
     proc = subprocess.run(
         ["piper", "--model", str(voice), "--length_scale", str(length_scale), "--output_file", str(out_wav)],
         input=text.encode("utf-8"), capture_output=True,
     )
     if proc.returncode != 0 or not out_wav.exists():
-        print(f"[error] piper failed on '{text[:40]}...': {proc.stderr.decode()[:500]}", file=sys.stderr)
+        detail = proc.stderr.decode(errors="replace")[:800].replace("\n", " ")
+        print(f"::error::piper failed (exit {proc.returncode}) on text '{text[:60]}...' voice={voice}: {detail}")
         sys.exit(1)
 
 
 def make_silence(seconds, out_wav):
-    subprocess.run([
+    run_checked([
         "ffmpeg", "-y", "-loglevel", "error",
         "-f", "lavfi", "-i", f"anullsrc=r=22050:cl=mono",
         "-t", str(seconds), str(out_wav),
-    ], check=True)
+    ], "ffmpeg silence generation")
 
 
 def concat_wavs(wav_paths, out_wav, tmp_dir, tag):
@@ -105,14 +115,14 @@ def concat_wavs(wav_paths, out_wav, tmp_dir, tag):
     n = len(wav_paths)
     filter_inputs = "".join(f"[{i}:a]" for i in range(n))
     filter_complex = f"{filter_inputs}concat=n={n}:v=0:a=1[out]"
-    subprocess.run([
+    run_checked([
         "ffmpeg", "-y", "-loglevel", "error",
         *inputs,
         "-filter_complex", filter_complex,
         "-map", "[out]",
         "-ar", "22050", "-ac", "1",
         str(out_wav),
-    ], check=True)
+    ], f"ffmpeg concat ({tag})")
 
 
 def duration_seconds(wav_path):
@@ -182,7 +192,7 @@ def main():
         dur = duration_seconds(wav)
 
         clip = out_dir / f"{tag}.mp4"
-        subprocess.run([
+        run_checked([
             "ffmpeg", "-y", "-loglevel", "error",
             "-loop", "1", "-i", str(png),
             "-i", str(wav),
@@ -192,7 +202,7 @@ def main():
             "-shortest",
             "-vf", "scale=1920:1080",
             str(clip),
-        ], check=True)
+        ], f"ffmpeg mux scene {i}")
         clips.append(clip)
         print(f"[scene {i}] {scene_id}: {dur:.1f}s narrated -> {clip.name}")
 
@@ -202,11 +212,11 @@ def main():
             f.write(f"file '{c.resolve()}'\n")
 
     final = out_dir / f"{qid}.mp4"
-    subprocess.run([
+    run_checked([
         "ffmpeg", "-y", "-loglevel", "error",
         "-f", "concat", "-safe", "0", "-i", str(concat_list),
         "-c", "copy", str(final),
-    ], check=True)
+    ], "ffmpeg final concat")
     print(f"[done] {final}")
 
 

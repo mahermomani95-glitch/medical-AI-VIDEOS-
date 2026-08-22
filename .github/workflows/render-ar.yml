@@ -35,11 +35,22 @@ jobs:
         run: |
           mkdir -p voices
           BASE="https://huggingface.co/rhasspy/piper-voices/resolve/main"
-          curl -sL -o voices/ar_JO-kareem-medium.onnx      "$BASE/ar/ar_JO/kareem/medium/ar_JO-kareem-medium.onnx"
-          curl -sL -o voices/ar_JO-kareem-medium.onnx.json "$BASE/ar/ar_JO/kareem/medium/ar_JO-kareem-medium.onnx.json"
-          curl -sL -o voices/en_US-ryan-high.onnx          "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx"
-          curl -sL -o voices/en_US-ryan-high.onnx.json     "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
+          fetch() {
+            curl -fSL -o "$1" "$2" || { echo "::error::Failed to download $1 from $2 (HTTP error)"; exit 1; }
+          }
+          fetch voices/ar_JO-kareem-medium.onnx      "$BASE/ar/ar_JO/kareem/medium/ar_JO-kareem-medium.onnx"
+          fetch voices/ar_JO-kareem-medium.onnx.json "$BASE/ar/ar_JO/kareem/medium/ar_JO-kareem-medium.onnx.json"
+          fetch voices/en_US-ryan-high.onnx          "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx"
+          fetch voices/en_US-ryan-high.onnx.json     "$BASE/en/en_US/ryan/high/en_US-ryan-high.onnx.json"
           ls -la voices/
+          MIN_BYTES=1000000
+          for f in voices/ar_JO-kareem-medium.onnx voices/en_US-ryan-high.onnx; do
+            SIZE=$(stat -c%s "$f")
+            if [ "$SIZE" -lt "$MIN_BYTES" ]; then
+              echo "::error::$f is only $SIZE bytes -- looks corrupt/truncated, not a real .onnx model"
+              exit 1
+            fi
+          done
 
       - name: Generate narrated video for each Arabic question
         run: |
