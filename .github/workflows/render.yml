@@ -12,6 +12,9 @@ on:
       - "questions/**"
       - "engine/**"
 
+permissions:
+  contents: write
+
 jobs:
   render:
     runs-on: ubuntu-latest
@@ -78,3 +81,22 @@ jobs:
           name: narrated-videos
           path: render-out/*.mp4
           if-no-files-found: error
+
+      - name: Commit debug logs back to repo (always, so they're readable outside Actions UI)
+        if: always()
+        run: |
+          mkdir -p debug-logs
+          cp /tmp/*.log debug-logs/ 2>/dev/null || true
+          if [ -z "$(ls -A debug-logs 2>/dev/null)" ]; then
+            echo "No debug logs produced, nothing to commit."
+            exit 0
+          fi
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add debug-logs
+          if git diff --cached --quiet; then
+            echo "No log changes to commit."
+          else
+            git commit -m "Debug log from run ${{ github.run_id }} (${{ job.status }})"
+            git push
+          fi
