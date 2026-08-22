@@ -39,26 +39,36 @@ RUN_SPLIT = re.compile(r"[؀-ۿݐ-ݿ][؀-ۿݐ-ݿ\s0-9،؛؟.,\-]*|[^؀-ۿݐ-ݿ]+
 
 
 CONNECTOR_WORDS = {"ثم", "أو", "و"}
-STRIP_CHARS = " ،:;.,-؛"
+STRIP_CHARS = " ،:;.,-؛—–‏‎"
+LATIN_LETTER = re.compile(r"[A-Za-z]")
 
 
-def _is_connector_only(text):
-    cleaned = text.strip(STRIP_CHARS)
+def _has_no_real_content(chunk, is_ar):
+    cleaned = chunk.strip(STRIP_CHARS)
     if not cleaned:
-        return True  # pure punctuation, e.g. a lone ":" -- harmless to fold in either direction
-    words = cleaned.split()
-    return len(words) <= 2 and all(w.strip(STRIP_CHARS) in CONNECTOR_WORDS for w in words)
+        return True  # pure punctuation, e.g. a lone ":" or "--" -- harmless to fold in either direction
+    if is_ar:
+        words = cleaned.split()
+        return len(words) <= 2 and all(w.strip(STRIP_CHARS) in CONNECTOR_WORDS for w in words)
+    # A "non-Arabic" run with no actual Latin letters left after stripping
+    # punctuation (e.g. a lone em dash "—" caught between two Arabic
+    # clauses) isn't really English text -- it's punctuation that RUN_SPLIT
+    # happened to classify as the "non-Arabic" bucket. Sending it to
+    # edge-tts on its own either crashes or wastes a pointless voice switch.
+    return not LATIN_LETTER.search(cleaned)
 
 
 def _merge_bare_connectors(runs):
     # A lone Arabic connector ("ثم"/"أو"/"و") sitting between two English
-    # option names would otherwise force a full voice switch for one tiny
-    # word -- fold it into whichever run precedes it instead. This is what
-    # turns "Stomach <switch> ثم <switch> Colon <switch> ثم <switch> ..."
-    # into one continuous run instead of a dozen voice flips per sentence.
+    # option names, or a bare punctuation mark like "—" sitting between two
+    # Arabic clauses, would otherwise force a full voice switch (or an
+    # edge-tts call with no real text to say) -- fold it into whichever run
+    # precedes it instead. This is what turns "Stomach <switch> ثم <switch>
+    # Colon <switch> ثم <switch> ..." into one continuous run instead of a
+    # dozen voice flips per sentence.
     merged = []
     for chunk, is_ar in runs:
-        if merged and is_ar and _is_connector_only(chunk):
+        if merged and _has_no_real_content(chunk, is_ar):
             prev_chunk, prev_is_ar = merged[-1]
             merged[-1] = (f"{prev_chunk} {chunk}", prev_is_ar)
         else:
