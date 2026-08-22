@@ -69,12 +69,29 @@ English mid-sentence, per the project's language rule.
 
 ## Status
 
-- English track: `surgery-1-0001` (obstructive jaundice / Factor VIII)
-  and `surgery-6mo2013-01` (real Q1, GI recovery order) — both rendered
-  successfully via GitHub Actions.
-- Arabic track: same two questions rebuilt in the new visual system —
-  script, diagrams, and scene images done, rendering via `render-ar.yml`.
-- Everything else in the 1031-question bank is not started yet.
+- Both tracks render successfully end-to-end on GitHub Actions as of
+  2026-08-22 for `surgery-1-0001` (obstructive jaundice / Factor VIII)
+  and `surgery-6mo2013-01` (real Q1, GI recovery order).
+- Root cause of the render failures hit this session: `piper-tts`'s
+  unpinned install had drifted to an incompatible major rewrite (fixed
+  by pinning `piper-tts==1.2.0`), and `render.yml`'s glob
+  `questions/*.script.json` also matched `questions/*.ar.script.json`
+  (bash doesn't treat the extra `.ar` specially), so the English
+  pipeline was trying and failing to render the Arabic question. Fixed
+  by explicitly skipping `*.ar.script.json` in that loop.
+- Diagnostic lesson: GitHub Actions job logs and artifacts are hosted on
+  Azure Blob Storage, which is unreachable from the sandbox this repo is
+  developed from (blocked at the network level for both `curl` and
+  `WebFetch`), and custom `::error::` workflow-command annotations did
+  **not** reliably surface via the Checks API annotations endpoint
+  either. What worked: having the job itself `git commit`/`push` its
+  captured stdout+stderr log back into the repo under `debug-logs/` on
+  every run (`continue-on-error: true` so a push race between duplicate
+  concurrent runs doesn't redden an otherwise-successful job) — plain
+  git push/pull is reachable even when the Actions APIs aren't.
+- Everything else in the 1031-question bank is not started yet; next up
+  is Question 2 of the 6th Month 2013 course, once the user confirms
+  they're happy with Q1's rendered Arabic video.
 
 ## Honesty notes
 
