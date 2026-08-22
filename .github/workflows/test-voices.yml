@@ -55,3 +55,63 @@ jobs:
             git pull --rebase origin main && git push && break
             sleep 3
           done
+
+  # Second job: verify pronunciation of embedded English medical terms by
+  # transcribing the synthesized audio with Whisper and eyeballing the terms.
+  qa-pronunciation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install edge-tts, whisper, ffmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install --quiet edge-tts openai-whisper
+
+      - name: Synthesize real narration lines with each chosen voice (single voice, no splitting)
+        run: |
+          mkdir -p qa-audio
+          python3 << 'PYEOF'
+          import json, subprocess
+          lines = json.load(open("tmp-test-assets/voice_qa_lines.json", encoding="utf-8"))
+          voices = ["ar-EG-ShakirNeural", "ar-JO-TaimNeural", "ar-JO-SanaNeural"]
+          for v in voices:
+              for i, line in enumerate(lines):
+                  out = f"qa-audio/{v}.line{i}.mp3"
+                  subprocess.run(["edge-tts", "--voice", v, "--text", line, "--write-media", out], check=True)
+                  print(f"synthesized {out}")
+          PYEOF
+
+      - name: Transcribe with Whisper and report what it heard
+        run: |
+          python3 << 'PYEOF'
+          import whisper, glob, json
+          model = whisper.load_model("small")
+          results = {}
+          for f in sorted(glob.glob("qa-audio/*.mp3")):
+              r = model.transcribe(f, language=None)
+              results[f] = {"detected_language": r.get("language"), "text": r["text"]}
+              print(f"=== {f} (lang={r.get('language')}) ===")
+              print(r["text"])
+              print()
+          with open("debug-logs/pronunciation_qa.json", "w", encoding="utf-8") as out:
+              json.dump(results, out, ensure_ascii=False, indent=2)
+          PYEOF
+
+      - name: Commit QA transcripts and audio back to repo
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add debug-logs/pronunciation_qa.json qa-audio
+          git commit -m "Pronunciation QA: transcripts + audio for chosen voices (run ${{ github.run_id }})" || echo "nothing to commit"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            sleep 3
+          done
