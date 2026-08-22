@@ -1,0 +1,57 @@
+name: Test alternative Arabic/English voices
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install edge-tts
+        run: pip install --quiet edge-tts
+
+      - name: List Arabic + English voices
+        run: |
+          edge-tts --list-voices > /tmp/all_voices.txt
+          grep -E "^(ar|en)-" /tmp/all_voices.txt || true
+
+      - name: Synthesize Arabic candidate voices (real mixed AR/EN sentence)
+        run: |
+          mkdir -p voice-samples
+          TEXT="بعد الجراحة، تعود حركة الأمعاء الدقيقة Small Bowel أولاً، ثم المعدة Stomach، ثم القولون Colon أخيراً."
+          for v in ar-SA-HamedNeural ar-SA-ZariyahNeural ar-EG-ShakirNeural ar-EG-SallmaNeural ar-JO-TaimNeural ar-JO-SanaNeural; do
+            echo "=== $v ==="
+            edge-tts --voice "$v" --text "$TEXT" --write-media "voice-samples/ar-$v.mp3" || echo "FAILED: $v"
+          done
+
+      - name: Synthesize English candidate voices (medical term style)
+        run: |
+          TEXT="The correct answer is Factor Eight deficiency, consistent with Hemophilia A."
+          for v in en-US-GuyNeural en-US-ChristopherNeural en-US-EricNeural en-GB-RyanNeural; do
+            echo "=== $v ==="
+            edge-tts --voice "$v" --text "$TEXT" --write-media "voice-samples/en-$v.mp3" || echo "FAILED: $v"
+          done
+
+      - name: Commit voice samples back to repo
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add voice-samples debug-logs 2>/dev/null || git add voice-samples
+          cp /tmp/all_voices.txt debug-logs/all_voices.txt 2>/dev/null || mkdir -p debug-logs && cp /tmp/all_voices.txt debug-logs/all_voices.txt
+          git add debug-logs/all_voices.txt
+          git commit -m "Voice sample test (run ${{ github.run_id }})" || echo "nothing to commit"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            sleep 3
+          done
