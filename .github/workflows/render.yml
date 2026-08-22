@@ -85,6 +85,26 @@ jobs:
           path: render-out/*.mp4
           if-no-files-found: error
 
+      - name: Commit finished videos back to repo (artifact downloads are unreachable from the dev sandbox)
+        if: success()
+        continue-on-error: true
+        run: |
+          mkdir -p rendered
+          cp render-out/*.mp4 rendered/
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add rendered
+          if git diff --cached --quiet; then
+            echo "No video changes to commit."
+            exit 0
+          fi
+          git commit -m "Rendered videos from run ${{ github.run_id }}"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "push attempt $i failed, retrying..."
+            sleep 3
+          done
+
       - name: Commit debug logs back to repo (always, so they're readable outside Actions UI)
         if: always()
         continue-on-error: true  # best-effort diagnostics; a push race with a concurrent run shouldn't redden the job
