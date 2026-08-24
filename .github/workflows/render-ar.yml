@@ -11,6 +11,12 @@ name: Render Narrated Videos (Arabic)
 # ar-EG-ShakirNeural (first user pick) + en-US-ChristopherNeural -- swap
 # the --voice arguments in the render step to try ar-JO-TaimNeural or a
 # different English voice.
+#
+# Renders as a MATRIX: one job per question, up to 8 concurrent, instead
+# of one job looping over every question sequentially. At full scale
+# (1031 questions) sequential rendering would take 80+ hours in a single
+# job; the matrix spreads that across many parallel runners and means one
+# question's failure doesn't block the rest of the batch.
 
 on:
   workflow_dispatch:
@@ -24,8 +30,43 @@ permissions:
   contents: write
 
 jobs:
-  render:
+  discover:
     runs-on: ubuntu-latest
+    outputs:
+      ids: ${{ steps.list.outputs.ids }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: List question ids that have both a script and rendered scene images
+        id: list
+        run: |
+          python3 - << 'PYEOF'
+          import glob, json, os
+          ids = []
+          for script in sorted(glob.glob("questions/*.ar.script.json")):
+              qid = os.path.basename(script)[: -len(".ar.script.json")]
+              data = json.load(open(script, encoding="utf-8"))
+              n_scenes = len(data["scenes"])
+              real_id = data["id"]
+              pngs = glob.glob(f"engine/out-ar/{real_id}.scene*.png")
+              if len(pngs) < n_scenes:
+                  print(f"::warning::skipping {qid}: only {len(pngs)}/{n_scenes} scene PNGs present")
+                  continue
+              ids.append(qid)
+          print("Rendering:", ids)
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"ids={json.dumps(ids)}\n")
+          PYEOF
+
+  render:
+    needs: discover
+    if: ${{ needs.discover.outputs.ids != '[]' }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 8
+      matrix:
+        id: ${{ fromJson(needs.discover.outputs.ids) }}
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -43,41 +84,38 @@ jobs:
 
       - name: Sanity-check edge-tts is on PATH and reachable
         run: |
-          echo "PATH=$PATH"
           which edge-tts || { echo "::error::'edge-tts' executable not found on PATH after pip install"; exit 1; }
           edge-tts --voice ar-EG-ShakirNeural --text "اختبار" --write-media /tmp/sanity.mp3 || { echo "::error::edge-tts sanity synth failed"; exit 1; }
           [ -s /tmp/sanity.mp3 ] || { echo "::error::edge-tts sanity synth produced an empty file"; exit 1; }
-          echo "edge-tts OK: $(which edge-tts)"
 
-      - name: Generate narrated video for each Arabic question
+      - name: Generate narrated video for this Arabic question
         run: |
           set -x
           mkdir -p render-ar-out
-          for script in questions/*.ar.script.json; do
-            id=$(basename "$script" .ar.script.json)
-            echo "=== Rendering $id (Arabic) ==="
-            python engine/generate_video_ar.py \
-              "$script" \
-              "engine/out-ar" \
-              "ar-EG-ShakirNeural" \
-              "en-US-ChristopherNeural" \
-              "render-ar-out" 2>&1 | tee "/tmp/${id}.log"
-            RC=${PIPESTATUS[0]}
-            if [ "$RC" -ne 0 ]; then
-              echo "::error::generate_video_ar.py failed for $id (exit $RC). Tail of output: $(tail -c 1500 "/tmp/${id}.log" | tr '\n' ' ')"
-              exit 1
-            fi
-          done
+          id="${{ matrix.id }}"
+          script="questions/${id}.ar.script.json"
+          echo "=== Rendering $id (Arabic) ==="
+          python engine/generate_video_ar.py \
+            "$script" \
+            "engine/out-ar" \
+            "ar-EG-ShakirNeural" \
+            "en-US-ChristopherNeural" \
+            "render-ar-out" 2>&1 | tee "/tmp/${id}.log"
+          RC=${PIPESTATUS[0]}
+          if [ "$RC" -ne 0 ]; then
+            echo "::error::generate_video_ar.py failed for $id (exit $RC). Tail of output: $(tail -c 1500 "/tmp/${id}.log" | tr '\n' ' ')"
+            exit 1
+          fi
         shell: bash
 
-      - name: Upload finished videos
+      - name: Upload finished video (artifact, per-question)
         uses: actions/upload-artifact@v4
         with:
-          name: narrated-videos-ar
+          name: narrated-video-ar-${{ matrix.id }}
           path: render-ar-out/*.mp4
           if-no-files-found: error
 
-      - name: Commit finished videos back to repo (artifact downloads are unreachable from the dev sandbox)
+      - name: Commit finished video back to repo (artifact downloads are unreachable from the dev sandbox)
         if: success()
         continue-on-error: true
         run: |
@@ -90,16 +128,16 @@ jobs:
             echo "No video changes to commit."
             exit 0
           fi
-          git commit -m "Rendered Arabic videos from run ${{ github.run_id }}"
-          for i in 1 2 3; do
+          git commit -m "Rendered Arabic video: ${{ matrix.id }} (run ${{ github.run_id }})"
+          for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push && break
             echo "push attempt $i failed, retrying..."
-            sleep 3
+            sleep $((RANDOM % 8 + 2))
           done
 
-      - name: Commit debug logs back to repo (always, so they're readable outside Actions UI)
+      - name: Commit debug log back to repo (always, so it's readable outside Actions UI)
         if: always()
-        continue-on-error: true  # best-effort diagnostics; a push race with a concurrent run shouldn't redden the job
+        continue-on-error: true  # best-effort diagnostics; a push race with a concurrent matrix job shouldn't redden the job
         run: |
           mkdir -p debug-logs
           cp /tmp/*.log debug-logs/ 2>/dev/null || true
@@ -114,9 +152,9 @@ jobs:
             echo "No log changes to commit."
             exit 0
           fi
-          git commit -m "Debug log from run ${{ github.run_id }} (${{ job.status }})"
-          for i in 1 2 3; do
+          git commit -m "Debug log: ${{ matrix.id }} from run ${{ github.run_id }} (${{ job.status }})"
+          for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push && break
             echo "push attempt $i failed, retrying..."
-            sleep 3
+            sleep $((RANDOM % 8 + 2))
           done
