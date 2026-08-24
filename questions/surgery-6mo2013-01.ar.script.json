@@ -2,10 +2,10 @@
   "id": "surgery-6mo2013-01-ar",
   "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 1 of 54",
   "language": "ar",
-  "voice": "ar_JO-kareem-medium",
+  "voice": "ar-EG-ShakirNeural",
   "rate_percent": "-10%",
   "question": "What is the true order of gastrointestinal recovery after any abdominal surgery?",
-  "question_ar": "ما هو الترتيب الصحيح لعودة نشاط الجهاز الهضمي بعد أي عملية جراحية في البطن؟",
+  "question_ar": "ما هو الترتيب الحقيقي لتعافي الجهاز الهضمي بعد أي عملية جراحية في البطن؟",
   "course_label": "Course: Surgery — 6th Month 2013 Course",
   "question_number": 1,
   "options": [
@@ -17,12 +17,15 @@
   ],
   "correct_letter": "D",
   "correct_text": "Small bowel, then stomach, then colon",
+  "purpose_ar": "يريد حفظ الترتيب الصحيح لعودة وظيفة الجهاز الهضمي بعد الجراحة البطنية (الأمعاء الدقيقة أولاً، ثم المعدة، ثم القولون أخيرًا).",
+  "trap_ar": "الطالب قد يفترض المعدة تعود أولاً لكبر حجمها وأهميتها، متناسيًا أن الأمعاء الدقيقة هي الأسرع عودة فعليًا رغم الحدس المعاكس.",
   "summary_ar": "بعد جراحة البطن يتعطل الجهاز الهضمي بشكل غير متساوٍ: الأمعاء الدقيقة تعود أولًا، ثم المعدة، وأخيرًا القولون.",
   "scenes": [
     {
       "id": "QUESTION",
       "visual": "question_card",
       "caption": "Postoperative Ileus",
+      "illustration": { "type": "sequence", "steps": ["Small Bowel", "Stomach", "Colon"] },
       "narration": "هذا هو السؤال. الجهاز الهضمي لا يستعيد نشاطه دفعة واحدة بعد أي عملية جراحية في البطن، فأجزاؤه المختلفة تتعافى بسرعات مختلفة. والسؤال هو: ما هو الترتيب الصحيح؟ أمامك خمسة خيارات: Stomach ثم Colon ثم Small Bowel، أو Colon ثم Small Bowel ثم Stomach، أو Stomach ثم Small Bowel ثم Colon، أو Small Bowel ثم Stomach ثم Colon، أو Small Bowel ثم Colon ثم Stomach. لنحدد الترتيب الصحيح معًا."
     },
     {
@@ -32,18 +35,32 @@
       "narration": "إليك الخيارات الخمسة أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
     },
     {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ الترتيب الصحيح لعودة وظيفة الجهاز الهضمي بعد الجراحة البطنية (الأمعاء الدقيقة أولاً، ثم المعدة، ثم القولون أخيرًا).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ الترتيب الصحيح لعودة وظيفة الجهاز الهضمي بعد الجراحة البطنية — الأمعاء الدقيقة أولاً، ثم المعدة، ثم القولون أخيرًا."
+    },
+    {
       "id": "MECHANISM",
       "heading_ar": "الآلية — لماذا يتوقف الجهاز الهضمي أصلًا",
-      "visual": "gi_mechanism",
+      "visual": "mechanism_card",
       "caption": "Postoperative Ileus",
+      "illustration": { "type": "body", "region": "abdomen", "label": "Postoperative Ileus" },
       "card_text": "الجراحة تُنشّط الجهاز الودي، وتُطلق وسائط التهابية، وتُبطئ الأفيونات الحركة — لكن كل جزء من الأمعاء يتعافى بسرعته الخاصة.",
       "narration": "أي عملية جراحية في البطن تسبب ما يُعرف بـ Postoperative Ileus، وهو توقف مؤقت لحركة الأمعاء الطبيعية. يحدث هذا بسبب مجموعة عوامل: التعامل الجراحي المباشر مع الأمعاء، وتنشيط الجهاز العصبي الودي Sympathetic Nervous System، وإفراز وسائط الالتهاب في موضع الجراحة، بالإضافة إلى مسكنات الألم الأفيونية Opioids التي تُبطئ حركة الأمعاء كأثر جانبي. والفكرة الأساسية هنا: هذا التوقف ليس متساويًا على كل الجهاز الهضمي، فكل جزء — Small Bowel، و Stomach، و Colon — له تحكمه العصبي والعضلي الخاص، ويتعافى بجدول زمني مختلف عن غيره."
     },
     {
       "id": "TIMELINE",
       "heading_ar": "الجدول الزمني الحقيقي للتعافي",
-      "visual": "gi_timeline",
+      "visual": "mechanism_card",
       "caption": "Small Bowel → Stomach → Colon",
+      "illustration": { "type": "sequence", "steps": [
+        { "label": "Small Bowel", "sub": "~24h" },
+        { "label": "Stomach", "sub": "24-48h" },
+        { "label": "Colon", "sub": "48-72h+" }
+      ] },
       "card_text": "Small Bowel أولًا (~24h)، ثم Stomach (24–48h)، ثم Colon أخيرًا (48–72h+) — من الأسرع إلى الأبطأ.",
       "narration": "إليك الترتيب الحقيقي، وهو ما يُفاجئ كثيرًا من الطلاب. الـ Small Bowel يتعافى أولًا، عادة خلال حوالي أربع وعشرين ساعة. ثم تعود المعدة Stomach للعمل بعده، في نطاق أربع وعشرين إلى ثمان وأربعين ساعة. وأخيرًا يأتي القولون Colon، الذي قد يحتاج من ثمان وأربعين إلى اثنتين وسبعين ساعة أو أكثر. إذن الترتيب هو: Small Bowel، ثم Stomach، ثم Colon — من الأسرع إلى الأبطأ."
     },
@@ -52,20 +69,34 @@
       "heading_ar": "لماذا كل خيار آخر خاطئ",
       "visual": "verdict_list",
       "caption": "A, B, C, E كلها تبدّل الترتيب",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A: Stomach ثم Colon ثم Small Bowel — هذا يضع المعدة أولًا والأمعاء الدقيقة أخيرًا، أي عكس الترتيب الحقيقي تمامًا؛ خاطئ. الخيار B: Colon ثم Small Bowel ثم Stomach — القولون في الحقيقة هو الأبطأ في التعافي، وليس الأسرع، فوضعه في البداية يقلب الترتيب بالكامل؛ خاطئ. الخيار C: Stomach ثم Small Bowel ثم Colon — قريب جدًا من الصحيح، لكنه يبدّل أول عنصرين؛ فالـ Small Bowel هو من يتصدّر، وليس المعدة؛ خاطئ. الخيار E: Small Bowel ثم Colon ثم Stomach — يبدأ بشكل صحيح بالـ Small Bowel، لكنه يبدّل Stomach و Colon، ويضع القولون الأبطأ قبل المعدة؛ خاطئ. كل خيار من هذه الخيارات يخلط بين سرعة جزأين على الأقل من الأجزاء الثلاثة.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A: Stomach ثم Colon ثم Small Bowel — هذا يضع المعدة أولًا والأمعاء الدقيقة أخيرًا، أي عكس الترتيب الحقيقي تمامًا؛ خاطئ، ولا يصح في أي سياق فسيولوجي آخر. الخيار B: Colon ثم Small Bowel ثم Stomach — القولون في الحقيقة هو الأبطأ في التعافي دائمًا، وليس الأسرع، فوضعه في البداية يقلب الترتيب بالكامل، ولا يوجد سياق يتعافى فيه القولون أولاً. الخيار C: Stomach ثم Small Bowel ثم Colon — قريب جدًا من الصحيح، لكنه يبدّل أول عنصرين؛ فالـ Small Bowel هو من يتصدّر دائمًا، وليس المعدة، في أي حالة تعافٍ بعد جراحة بطنية. الخيار E: Small Bowel ثم Colon ثم Stomach — يبدأ بشكل صحيح بالـ Small Bowel، لكنه يبدّل Stomach و Colon؛ والقولون الأبطأ لا يسبق المعدة في أي سيناريو. كل خيار من هذه الخيارات يخلط بين سرعة جزأين على الأقل من الأجزاء الثلاثة، وهذا الخلط لا يصح في أي سياق سريري آخر.",
       "verdicts": [
-        { "letter": "A", "text": "Stomach, then colon, then small bowel", "verdict": "wrong", "reason": "يعكس الترتيب بالكامل — يضع Small Bowel في النهاية بدل البداية." },
-        { "letter": "B", "text": "Colon, then small bowel, then stomach", "verdict": "wrong", "reason": "يبدأ بالقولون، وهو في الحقيقة الأبطأ في التعافي." },
-        { "letter": "C", "text": "Stomach, then small bowel, then colon", "verdict": "wrong", "reason": "يبدّل أول عنصرين — Small Bowel يتصدّر، وليس Stomach." },
+        { "letter": "A", "text": "Stomach, then colon, then small bowel", "verdict": "wrong", "reason": "يعكس الترتيب بالكامل — يضع Small Bowel في النهاية بدل البداية.", "elsewhere": "لا يصح في أي سياق: القولون دائمًا الأبطأ فسيولوجيًا، فلا يمكن أن يسبق الأمعاء الدقيقة." },
+        { "letter": "B", "text": "Colon, then small bowel, then stomach", "verdict": "wrong", "reason": "يبدأ بالقولون، وهو في الحقيقة الأبطأ في التعافي.", "elsewhere": "لا يوجد سياق سريري يتعافى فيه القولون أولاً — هو ثابتًا آخر جزء يستعيد حركته." },
+        { "letter": "C", "text": "Stomach, then small bowel, then colon", "verdict": "wrong", "reason": "يبدّل أول عنصرين — Small Bowel يتصدّر، وليس Stomach.", "elsewhere": "قريب من الصحيح لكنه يبقى خاطئًا دائمًا؛ لا سياق تسبق فيه المعدة الأمعاء الدقيقة في التعافي." },
         { "letter": "D", "text": "Small bowel, then stomach, then colon", "verdict": "correct", "reason": "الترتيب الصحيح: من الأسرع إلى الأبطأ." },
-        { "letter": "E", "text": "Small bowel, then colon, then stomach", "verdict": "wrong", "reason": "يبدّل Stomach و Colon — القولون الأبطأ لا يسبق المعدة." }
+        { "letter": "E", "text": "Small bowel, then colon, then stomach", "verdict": "wrong", "reason": "يبدّل Stomach و Colon — القولون الأبطأ لا يسبق المعدة.", "elsewhere": "لا يوجد سياق يتعافى فيه القولون قبل المعدة — ترتيب سرعتها النسبية ثابت فسيولوجيًا." }
       ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يفترض المعدة تعود أولاً لكبر حجمها وأهميتها، متناسيًا أن الأمعاء الدقيقة هي الأسرع عودة فعليًا رغم الحدس المعاكس.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يفترض الطالب أن المعدة تعود أولاً لكبر حجمها وأهميتها، متناسيًا أن الأمعاء الدقيقة هي الأسرع عودة فعليًا، رغم أن الحدس يقول عكس ذلك."
     },
     {
       "id": "WHY_CORRECT",
       "heading_ar": "لماذا D هو الصحيح",
       "visual": "correct_gold",
       "caption": "D. Small Bowel → Stomach → Colon",
+      "illustration": { "type": "sequence", "steps": [
+        { "label": "Small Bowel", "sub": "~24h" },
+        { "label": "Stomach", "sub": "24-48h" },
+        { "label": "Colon", "sub": "48-72h+" }
+      ] },
+      "pills": ["Small Bowel ~24h", "Stomach 24-48h", "Colon 48-72h+"],
       "narration": "الخيار D — Small Bowel ثم Stomach ثم Colon — هو المطابق للفسيولوجيا الحقيقية. الـ Small Bowel يملك أنشط وأكثر مرونة Myenteric Nervous System بين الأجزاء الثلاثة، لذلك تعود انقباضاته المنسقة أسرع من غيره، غالبًا خلال يوم واحد. أما المعدة فتحتاج وقتًا أطول قليلًا لاستعادة الحركة الطبيعية Peristalsis. والقولون، الذي أساسًا يملك حركة أبطأ حتى خارج إطار الجراحة، هو آخر من يتعافى، وقد يبقى بطيئًا لمدة يومين إلى ثلاثة أيام أو أكثر. هذا الترتيب من الأسرع إلى الأبطأ — Small Bowel، ثم Stomach، ثم Colon — هو بالضبط الخيار D."
     },
     {
@@ -73,12 +104,12 @@
       "heading_ar": "فائدة سريرية — لماذا هذا مهم عند السرير",
       "visual": "pearl_card",
       "caption": "ERAS: تغذية مبكرة رغم الـ Ileus",
+      "illustration": { "type": "icon" },
       "card_text": "بروتوكولات ERAS تبدأ التغذية المعوية مبكرًا لأن Small Bowel يتعافى أولًا — حتى قبل سماع أصوات الأمعاء أو خروج الغازات.",
       "narration": "هذه المعلومة ليست مجرد حفظ نظري، بل تُغيّر الممارسة الفعلية عند السرير. لأن الـ Small Bowel يتعافى مبكرًا جدًا، فإن بروتوكولات التعافي الحديثة المعروفة بـ ERAS، أي Enhanced Recovery After Surgery، أصبحت تبدأ بالتغذية المعوية المبكرة Early Enteral Feeding خلال اليوم الأول بعد الجراحة، قبل أن ننتظر العلامات التقليدية مثل أصوات الأمعاء أو خروج الغازات. والملاحظة الأخرى المهمة: أصوات الأمعاء وخروج الغازات تعكسان في الحقيقة تعافي المعدة والقولون، وليس الـ Small Bowel، لأن عودة نشاط الأمعاء الدقيقة لا تُسمع ولا تُلاحظ سريريًا بنفس الطريقة."
     },
     {
       "id": "TAKE_HOME",
-      "heading_ar": "الخلاصة السريعة",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
       "narration": "لنُثبّت الفكرة. بعد جراحة البطن، يتوقف الجهاز الهضمي بسبب الإجهاد الجراحي والالتهاب والمسكنات الأفيونية، لكن كل جزء يتعافى بسرعته الخاصة. الـ Small Bowel يتصدّر، تليه Stomach، ثم Colon في النهاية. Small Bowel، ثم Stomach، ثم Colon. والإجابة الصحيحة هي D."

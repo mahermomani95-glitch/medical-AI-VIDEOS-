@@ -1,190 +1,143 @@
-// Shaded (gradient-based) anatomical illustrations for the Arabic track.
-// Real photographic/3D-rendered organ art isn't reachable from this sandbox
+// Generic, DATA-DRIVEN illustrations for the Arabic track. Real
+// photographic/3D-rendered organ art isn't reachable from this sandbox
 // (image CDNs are network-restricted), so these are hand-built SVGs pushed
-// toward a "3D-ish" look with gradients + soft shadows rather than flat fills.
+// toward a "3D-ish" look with gradients + soft shadows rather than flat
+// fills -- but unlike the original prototype (one bespoke SVG per
+// question), every function here is parameterized so it can serve any of
+// the 1031 questions, not just the two hand-illustrated samples.
+//
+// Each scene's script.json supplies an `illustration` object describing
+// WHAT to draw generically:
+//   { "type": "sequence", "steps": ["Small Bowel", "Stomach", "Colon"] }
+//   { "type": "ladder", "items": [{"label":"II","active":false}, ...] }
+//   { "type": "comparison", "left": {...}, "right": {...} }
+//   { "type": "body", "region": "abdomen"|"chest"|"pelvis"|"limb"|"head", "label": "..." }
+//   { "type": "icon" }  // generic fallback
+// build_ar.mjs dispatches on `illustration.type` to the matching function
+// below -- no per-question code needed for a new topic.
 
-export function giTractIllustrationSvg() {
-  return `<svg viewBox="0 0 560 520" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="stomachG" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FFB4C6"/>
-      <stop offset="100%" stop-color="#F0728F"/>
-    </linearGradient>
-    <linearGradient id="smallBowelG" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#FFD2A8"/>
-      <stop offset="100%" stop-color="#F2A25C"/>
-    </linearGradient>
-    <linearGradient id="colonG" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#C9A6E8"/>
-      <stop offset="100%" stop-color="#9A63C9"/>
-    </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.25"/>
-    </filter>
-  </defs>
+const PALETTE = ["#FFB4C6", "#FFD2A8", "#C9A6E8", "#B9F0FD", "#FCC63F", "#A8E6B0"];
+const esc = (s = "") => String(s)
+  .replaceAll("&", "&amp;").replaceAll("<", "&lt;").replaceAll(">", "&gt;").replaceAll('"', "&quot;");
 
-  <!-- Colon frame (outer) -->
-  <path d="M60 120 h380 a40 40 0 0 1 40 40 v260 a40 40 0 0 1 -40 40 h-320 a40 40 0 0 1 -40 -40 v-40"
-        fill="none" stroke="url(#colonG)" stroke-width="52" stroke-linecap="round" filter="url(#softShadow)"/>
-
-  <!-- Stomach -->
-  <path d="M90 70 c-30 10 -46 40 -34 72 c10 26 42 34 70 26 c22 -6 30 6 52 6 c26 0 40 -20 34 -44 c-6 -24 -30 -30 -46 -46 c-14 -14 -46 -26 -76 -14 z"
-        fill="url(#stomachG)" stroke="#7A2E42" stroke-width="4" filter="url(#softShadow)"/>
-
-  <!-- Small bowel coils -->
-  <g fill="none" stroke="url(#smallBowelG)" stroke-width="26" stroke-linecap="round">
-    <path d="M180 220 q60 -20 120 0 t120 0"/>
-    <path d="M170 270 q60 20 120 0 t120 0"/>
-    <path d="M180 320 q60 -20 120 0 t100 10"/>
-  </g>
-
-  <!-- Labels -->
-  <g font-family="Cairo, Arial, sans-serif" font-weight="700" font-size="22" fill="#1a1a1a">
-    <rect x="20" y="30" width="150" height="34" rx="8" fill="#FFFFFF" stroke="#111" stroke-width="2"/>
-    <text x="35" y="53">Stomach</text>
-    <line x1="60" y1="64" x2="100" y2="90" stroke="#111" stroke-width="2"/>
-
-    <rect x="330" y="200" width="200" height="34" rx="8" fill="#FFFFFF" stroke="#111" stroke-width="2"/>
-    <text x="345" y="223">Small Bowel</text>
-    <line x1="330" y1="217" x2="290" y2="240" stroke="#111" stroke-width="2"/>
-
-    <rect x="20" y="430" width="130" height="34" rx="8" fill="#FFFFFF" stroke="#111" stroke-width="2"/>
-    <text x="35" y="453">Colon</text>
-    <line x1="80" y1="430" x2="90" y2="400" stroke="#111" stroke-width="2"/>
-  </g>
-</svg>`;
+// A left-to-right (or wrapped) chain of labeled steps connected by arrows.
+// Optional per-step `sub` (small caption, e.g. a timing) and `blocked`
+// (renders a red X over the connector, for "X prevents Y" mechanism scenes).
+export function sequenceDiagramSvg(steps = []) {
+  const n = steps.length || 1;
+  const w = 560, h = 320;
+  const boxW = Math.min(160, (w - 40) / n - 20);
+  const gap = (w - 40 - boxW * n) / Math.max(1, n - 1);
+  const y = 140;
+  let boxes = "", arrows = "";
+  steps.forEach((step, i) => {
+    const label = typeof step === "string" ? step : step.label;
+    const sub = typeof step === "object" ? step.sub : null;
+    const blocked = typeof step === "object" && step.blocked;
+    const x = 20 + i * (boxW + gap);
+    const fill = PALETTE[i % PALETTE.length];
+    boxes += `
+      <rect x="${x}" y="${y}" width="${boxW}" height="86" rx="16" fill="${fill}" stroke="#111" stroke-width="3.5"/>
+      <text x="${x + boxW / 2}" y="${y + 40}" text-anchor="middle" font-family="Anton, Arial" font-size="19" fill="#111">${esc(label)}</text>
+      ${sub ? `<text x="${x + boxW / 2}" y="${y + 66}" text-anchor="middle" font-family="Cairo, Arial" font-weight="700" font-size="15" fill="#3a3a3a">${esc(sub)}</text>` : ""}
+    `;
+    if (i < n - 1) {
+      const ax = x + boxW, bx = x + boxW + gap;
+      arrows += `<line x1="${ax + 4}" y1="${y + 43}" x2="${bx - 4}" y2="${y + 43}" stroke="#111" stroke-width="4" marker-end="url(#arrowHead)"/>`;
+      if (blocked) {
+        const mx = (ax + bx) / 2;
+        arrows += `<circle cx="${mx}" cy="${y + 43}" r="16" fill="#FF6B6B" stroke="#111" stroke-width="3"/><text x="${mx}" y="${y + 50}" text-anchor="middle" font-family="Anton, Arial" font-size="18" fill="#fff">X</text>`;
+      }
+    }
+  });
+  return `<svg viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">
+    <defs><marker id="arrowHead" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker></defs>
+    ${arrows}
+    ${boxes}
+  </svg>`;
 }
 
-export function biliaryMechanismArSvg() {
+// A row of circular "markers" where one or more are highlighted (active)
+// vs. muted -- generalizes "which of these N things is the exception".
+export function ladderSvg(items = []) {
+  const n = items.length || 1;
+  const w = 560, h = 260;
+  const r = 40;
+  const spacing = (w - 80) / Math.max(1, n - 1 || 1);
+  let circles = "";
+  items.forEach((item, i) => {
+    const label = typeof item === "string" ? item : item.label;
+    const active = typeof item === "object" && item.active;
+    const cx = n === 1 ? w / 2 : 40 + i * spacing;
+    const cy = active ? 90 : 130;
+    circles += `
+      <circle cx="${cx}" cy="${cy}" r="${r}" fill="${active ? "#FCC63F" : "#C9A6E8"}" stroke="#111" stroke-width="3.5"/>
+      <text x="${cx}" y="${cy + 8}" text-anchor="middle" font-family="Anton, Arial" font-size="22" fill="#111">${esc(label)}</text>
+      <text x="${cx}" y="${cy + r + 30}" text-anchor="middle" font-family="Cairo, Arial" font-weight="700" font-size="16" fill="${active ? "#8a6a00" : "#5b3f8a"}">${active ? "✓" : ""}</text>
+    `;
+  });
+  return `<svg viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">
+    <line x1="20" y1="180" x2="${w - 20}" y2="180" stroke="#111" stroke-width="2" stroke-dasharray="6 6" opacity="0.4"/>
+    ${circles}
+  </svg>`;
+}
+
+// Two side-by-side boxes (normal vs. disease, option vs. option, before vs. after).
+export function comparisonDiagramSvg(left = {}, right = {}) {
+  const w = 560, h = 300;
+  const box = (x, data, good) => `
+    <rect x="${x}" y="30" width="250" height="240" rx="20" fill="${good === true ? "#DFF5E1" : good === false ? "#FFD9D9" : "#F3E9FB"}" stroke="#111" stroke-width="3.5"/>
+    <text x="${x + 20}" y="70" font-family="Anton, Arial" font-size="22" fill="#111">${esc(data.title || "")}</text>
+    <text x="${x + 20}" y="${h - 40}" font-family="Cairo, Arial" font-weight="700" font-size="18" fill="#333" style="direction:rtl">${esc(data.note || "")}</text>
+    ${good !== undefined ? `<text x="${x + 210}" y="70" font-family="Anton, Arial" font-size="26" fill="${good ? "#2e7a45" : "#a02a2a"}">${good ? "✓" : "✕"}</text>` : ""}
+  `;
+  return `<svg viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">
+    ${box(20, left, left.good)}
+    ${box(290, right, right.good)}
+  </svg>`;
+}
+
+// Generic body-region silhouette with a highlighted spot + label -- not
+// anatomically detailed (no real medical image assets are reachable), but
+// gives a consistent, on-brand visual anchor for "where in the body" per
+// question without needing bespoke art each time.
+const BODY_SHAPES = {
+  abdomen: `<ellipse cx="280" cy="230" rx="120" ry="150" fill="#FFD2A8" stroke="#111" stroke-width="3.5"/>`,
+  chest: `<path d="M180 100 q100 -50 200 0 v180 q-100 50 -200 0 z" fill="#FFB4C6" stroke="#111" stroke-width="3.5"/>`,
+  pelvis: `<path d="M200 150 q80 -30 160 0 v100 q-30 60 -80 60 t-80 -60 z" fill="#C9A6E8" stroke="#111" stroke-width="3.5"/>`,
+  limb: `<rect x="240" y="60" width="80" height="320" rx="40" fill="#B9F0FD" stroke="#111" stroke-width="3.5"/>`,
+  head: `<circle cx="280" cy="200" r="130" fill="#FFD988" stroke="#111" stroke-width="3.5"/>`,
+  generic: `<rect x="160" y="100" width="240" height="240" rx="30" fill="#B9F0FD" stroke="#111" stroke-width="3.5"/>`,
+};
+export function bodyRegionSvg(region = "generic", label = "") {
+  const shape = BODY_SHAPES[region] || BODY_SHAPES.generic;
   return `<svg viewBox="0 0 560 420" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="liverG" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#C9705E"/>
-      <stop offset="100%" stop-color="#8C4436"/>
-    </linearGradient>
-    <filter id="sh1" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="6" stdDeviation="7" flood-color="#000" flood-opacity="0.25"/>
-    </filter>
-  </defs>
-  <!-- Liver -->
-  <path d="M60 60 c-20 20 -20 70 20 90 c40 20 140 20 200 0 c50 -18 60 -70 20 -100 c-40 -30 -180 -30 -240 10 z"
-        fill="url(#liverG)" stroke="#5c2a20" stroke-width="4" filter="url(#sh1)"/>
-  <rect x="20" y="24" width="90" height="34" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
-  <text x="34" y="47" font-family="Cairo, Arial" font-weight="700" font-size="20">Liver</text>
-
-  <!-- Bile duct -->
-  <path d="M220 150 q0 60 0 100" stroke="#5b7a3a" stroke-width="16" fill="none" stroke-linecap="round"/>
-  <!-- Blockage -->
-  <circle cx="220" cy="210" r="22" fill="#FF6B6B" stroke="#111" stroke-width="3"/>
-  <text x="220" y="217" text-anchor="middle" font-family="Anton, Arial" font-size="22" fill="#fff">X</text>
-  <rect x="250" y="196" width="150" height="32" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
-  <text x="264" y="218" font-family="Cairo, Arial" font-weight="700" font-size="18">Bile Duct Blocked</text>
-
-  <!-- Intestine -->
-  <path d="M140 320 q40 -20 80 0 t80 0 t80 0" stroke="#F2A25C" stroke-width="20" fill="none" stroke-linecap="round"/>
-  <rect x="130" y="350" width="180" height="32" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
-  <text x="145" y="372" font-family="Cairo, Arial" font-weight="700" font-size="18">Small Intestine</text>
-
-  <!-- Vitamin K fading -->
-  <g opacity="0.55">
-    <circle cx="380" cy="330" r="26" fill="#B9F0FD" stroke="#111" stroke-width="2.5" stroke-dasharray="4 4"/>
-    <text x="380" y="336" text-anchor="middle" font-family="Anton, Arial" font-size="18">K</text>
-  </g>
-  <text x="330" y="400" font-family="Cairo, Arial" font-weight="700" font-size="18" fill="#7a2e2e">Vitamin K malabsorption</text>
-</svg>`;
+    ${shape}
+    <circle cx="280" cy="230" r="18" fill="#FF6B6B" stroke="#111" stroke-width="3"/>
+    ${label ? `<rect x="130" y="360" width="300" height="40" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text x="150" y="386" font-family="Cairo, Arial" font-weight="700" font-size="19" fill="#111">${esc(label)}</text>` : ""}
+  </svg>`;
 }
 
-export function cascadeArSvg() {
-  return `<svg viewBox="0 0 560 320" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="kGroupG" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#C9A6E8"/>
-      <stop offset="100%" stop-color="#9A63C9"/>
-    </linearGradient>
-  </defs>
-  <rect x="30" y="30" width="340" height="140" rx="20" fill="#F3E9FB" stroke="#111" stroke-width="3"/>
-  <text x="50" y="60" font-family="Anton, Arial" font-size="22" fill="#6b3fa0">Vitamin K–Dependent</text>
-  <g font-family="Anton, Arial" font-size="26" fill="#fff">
-    <circle cx="80" cy="115" r="34" fill="url(#kGroupG)" stroke="#111" stroke-width="3"/>
-    <text x="80" y="123" text-anchor="middle">II</text>
-    <circle cx="160" cy="115" r="34" fill="url(#kGroupG)" stroke="#111" stroke-width="3"/>
-    <text x="160" y="123" text-anchor="middle">VII</text>
-    <circle cx="240" cy="115" r="34" fill="url(#kGroupG)" stroke="#111" stroke-width="3"/>
-    <text x="240" y="123" text-anchor="middle">IX</text>
-    <circle cx="320" cy="115" r="34" fill="url(#kGroupG)" stroke="#111" stroke-width="3"/>
-    <text x="320" y="123" text-anchor="middle">X</text>
-  </g>
-
-  <line x1="200" y1="170" x2="200" y2="210" stroke="#111" stroke-width="3" stroke-dasharray="5 5"/>
-  <text x="120" y="205" font-family="Cairo, Arial" font-weight="700" font-size="18" fill="#7a2e2e">كلها تنخفض معًا ↓</text>
-
-  <rect x="420" y="60" width="120" height="120" rx="20" fill="#FFE7A3" stroke="#111" stroke-width="3"/>
-  <circle cx="480" cy="110" r="34" fill="${'#FCC63F'}" stroke="#111" stroke-width="3"/>
-  <text x="480" y="118" text-anchor="middle" font-family="Anton, Arial" font-size="24" fill="#111">VIII</text>
-  <text x="420" y="205" font-family="Cairo, Arial" font-weight="700" font-size="18" fill="#5b7a3a">يبقى طبيعيًا ✓</text>
-</svg>`;
+// Generic fallback icon (a caduceus-ish cross-in-circle) for a scene with
+// no specific illustration data -- keeps the visual brand consistent
+// without implying a diagram that isn't actually there.
+export function genericIconSvg() {
+  return `<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="150" cy="150" r="120" fill="#B9F0FD" stroke="#111" stroke-width="4"/>
+    <rect x="130" y="80" width="40" height="140" rx="8" fill="#111"/>
+    <rect x="80" y="130" width="140" height="40" rx="8" fill="#111"/>
+  </svg>`;
 }
 
-export function factorEightArSvg() {
-  return `<svg viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="vesselG" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#F5A0B8"/>
-      <stop offset="100%" stop-color="#D45C82"/>
-    </linearGradient>
-  </defs>
-  <rect x="40" y="120" width="480" height="70" rx="35" fill="url(#vesselG)" stroke="#111" stroke-width="4"/>
-  <rect x="40" y="145" width="480" height="20" fill="#7a1f3d" opacity="0.35"/>
-  <g font-family="Anton, Arial" font-size="20" fill="#fff">
-    <circle cx="120" cy="155" r="14" fill="#FCC63F" stroke="#111" stroke-width="2"/>
-    <circle cx="280" cy="155" r="14" fill="#FCC63F" stroke="#111" stroke-width="2"/>
-    <circle cx="430" cy="155" r="14" fill="#FCC63F" stroke="#111" stroke-width="2"/>
-  </g>
-  <rect x="150" y="40" width="260" height="36" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
-  <text x="165" y="64" font-family="Cairo, Arial" font-weight="700" font-size="20">Vascular Endothelium</text>
-  <rect x="180" y="220" width="200" height="36" rx="8" fill="#fff" stroke="#111" stroke-width="2"/>
-  <text x="195" y="244" font-family="Cairo, Arial" font-weight="700" font-size="20">Factor VIII made here</text>
-</svg>`;
-}
-
-export function factorFiveArSvg() {
-  return `<svg viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg">
-  <rect x="30" y="30" width="230" height="180" rx="20" fill="#FFE7A3" stroke="#111" stroke-width="3"/>
-  <text x="55" y="65" font-family="Anton, Arial" font-size="22">Vitamin K low only</text>
-  <text x="55" y="100" font-family="Cairo, Arial" font-weight="700" font-size="18">Factor V:</text>
-  <text x="150" y="100" font-family="Anton, Arial" font-size="20" fill="#2e7a45">Normal ✓</text>
-  <text x="55" y="140" font-family="Cairo, Arial" font-weight="700" font-size="16" fill="#555">(not Vitamin K–dependent)</text>
-
-  <rect x="300" y="30" width="230" height="180" rx="20" fill="#FFD3D3" stroke="#111" stroke-width="3"/>
-  <text x="325" y="65" font-family="Anton, Arial" font-size="22">True Liver Failure</text>
-  <text x="325" y="100" font-family="Cairo, Arial" font-weight="700" font-size="18">Factor V:</text>
-  <text x="420" y="100" font-family="Anton, Arial" font-size="20" fill="#a02a2a">Low ✕</text>
-  <text x="325" y="140" font-family="Cairo, Arial" font-weight="700" font-size="16" fill="#555">(hepatocytes only)</text>
-</svg>`;
-}
-
-export function timelineIllustrationSvg() {
-  return `<svg viewBox="0 0 560 300" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="barG" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#F2A25C"/>
-      <stop offset="100%" stop-color="#9A63C9"/>
-    </linearGradient>
-  </defs>
-  <line x1="40" y1="260" x2="520" y2="260" stroke="#111" stroke-width="4"/>
-  <g font-family="Cairo, Arial, sans-serif" font-weight="700" font-size="20" fill="#111">
-    <circle cx="90" cy="150" r="16" fill="#FFD2A8" stroke="#111" stroke-width="3"/>
-    <text x="40" y="200">Small Bowel</text>
-    <text x="55" y="225" font-size="18" fill="#5b4a22">~24h</text>
-
-    <circle cx="280" cy="110" r="16" fill="#FFB4C6" stroke="#111" stroke-width="3"/>
-    <text x="235" y="200">Stomach</text>
-    <text x="235" y="225" font-size="18" fill="#5b4a22">24–48h</text>
-
-    <circle cx="470" cy="70" r="16" fill="#C9A6E8" stroke="#111" stroke-width="3"/>
-    <text x="420" y="200">Colon</text>
-    <text x="410" y="225" font-size="18" fill="#5b4a22">48–72h+</text>
-  </g>
-  <path d="M90 150 L280 110 L470 70" fill="none" stroke="url(#barG)" stroke-width="8" stroke-linecap="round"/>
-</svg>`;
+export function illustrationSvg(illustration) {
+  if (!illustration || !illustration.type) return genericIconSvg();
+  switch (illustration.type) {
+    case "sequence": return sequenceDiagramSvg(illustration.steps || []);
+    case "ladder": return ladderSvg(illustration.items || []);
+    case "comparison": return comparisonDiagramSvg(illustration.left || {}, illustration.right || {});
+    case "body": return bodyRegionSvg(illustration.region, illustration.label);
+    case "icon":
+    default: return genericIconSvg();
+  }
 }

@@ -63,14 +63,18 @@ html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--i
 .illustration{position:absolute;right:90px;top:360px;width:520px}
 .trophy{position:absolute;right:100px;top:80px;width:130px}
 .card p.ar{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:27px;line-height:1.7;color:#1a1a1a;margin:0}
-.verdict-row{background:var(--white);border:3px solid var(--ink);border-radius:16px;padding:20px 28px;margin-bottom:14px}
-.verdict-top{display:flex;align-items:center;gap:16px}
-.verdict-badge{width:42px;height:42px;border-radius:999px;border:3px solid var(--ink);display:flex;align-items:center;justify-content:center;font-family:Anton,Arial,sans-serif;font-size:20px;color:var(--white);flex:none}
+.verdict-row{background:var(--white);border:3px solid var(--ink);border-radius:14px;padding:13px 26px;margin-bottom:9px}
+.verdict-top{display:flex;align-items:center;gap:14px}
+.verdict-badge{width:32px;height:32px;border-radius:999px;border:3px solid var(--ink);display:flex;align-items:center;justify-content:center;font-family:Anton,Arial,sans-serif;font-size:16px;color:var(--white);flex:none}
 .verdict-badge.wrong{background:#FF6B6B}
 .verdict-badge.correct{background:var(--gold);color:var(--ink)}
-.verdict-en{font-family:Cairo,Arial,sans-serif;font-weight:800;font-size:24px;color:var(--ink)}
-.verdict-ar{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:21px;color:#3a3a3a;margin-top:10px;line-height:1.6}
-.scene-heading{font-family:Anton,Arial,sans-serif;font-size:40px;color:var(--ink);margin-bottom:10px}
+.verdict-en{font-family:Cairo,Arial,sans-serif;font-weight:800;font-size:20px;color:var(--ink)}
+.verdict-ar{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:17px;color:#3a3a3a;margin-top:5px;line-height:1.4}
+.verdict-elsewhere{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:15px;color:#5b4a22;margin-top:4px;line-height:1.4;padding-top:4px;border-top:2px dashed #ddd}
+.scene-heading{font-family:Anton,Arial,sans-serif;font-size:36px;color:var(--ink);margin-bottom:6px}
+.card.warn-shadow{box-shadow:10px 10px 0 #FF6B6B}
+.card-label{display:inline-block;font-family:Anton,Arial,sans-serif;font-size:24px;color:var(--white);background:var(--ink);border-radius:999px;padding:8px 26px;margin-bottom:16px}
+.card-label.warn{background:#B8362E}
 `;
 
 export function trophySvg() {
