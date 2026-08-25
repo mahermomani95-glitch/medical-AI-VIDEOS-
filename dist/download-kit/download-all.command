@@ -1,0 +1,5154 @@
+#!/bin/bash
+# Downloads every Surgery board video into per-course folders.
+# Safe to stop and re-run: finished files are skipped, partial
+# downloads resume where they left off.
+cd "$(dirname "$0")" || exit 1
+TOTAL=1028
+i=0
+fail=0
+
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-01-ar.mp4" || { echo "  FAILED surgery-6mo2013-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-02-ar.mp4" || { echo "  FAILED surgery-6mo2013-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-03-ar.mp4" || { echo "  FAILED surgery-6mo2013-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-04-ar.mp4" || { echo "  FAILED surgery-6mo2013-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-05-ar.mp4" || { echo "  FAILED surgery-6mo2013-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-06-ar.mp4" || { echo "  FAILED surgery-6mo2013-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-07-ar.mp4" || { echo "  FAILED surgery-6mo2013-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-08-ar.mp4" || { echo "  FAILED surgery-6mo2013-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-09-ar.mp4" || { echo "  FAILED surgery-6mo2013-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-10-ar.mp4" || { echo "  FAILED surgery-6mo2013-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-11-ar.mp4" || { echo "  FAILED surgery-6mo2013-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-12-ar.mp4" || { echo "  FAILED surgery-6mo2013-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-13-ar.mp4" || { echo "  FAILED surgery-6mo2013-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-14-ar.mp4" || { echo "  FAILED surgery-6mo2013-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-15-ar.mp4" || { echo "  FAILED surgery-6mo2013-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-16-ar.mp4" || { echo "  FAILED surgery-6mo2013-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-17-ar.mp4" || { echo "  FAILED surgery-6mo2013-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-18-ar.mp4" || { echo "  FAILED surgery-6mo2013-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-19-ar.mp4" || { echo "  FAILED surgery-6mo2013-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-20-ar.mp4" || { echo "  FAILED surgery-6mo2013-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-21-ar.mp4" || { echo "  FAILED surgery-6mo2013-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-22-ar.mp4" || { echo "  FAILED surgery-6mo2013-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-23-ar.mp4" || { echo "  FAILED surgery-6mo2013-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-24-ar.mp4" || { echo "  FAILED surgery-6mo2013-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-25-ar.mp4" || { echo "  FAILED surgery-6mo2013-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-26-ar.mp4" || { echo "  FAILED surgery-6mo2013-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-27-ar.mp4" || { echo "  FAILED surgery-6mo2013-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-28-ar.mp4" || { echo "  FAILED surgery-6mo2013-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-29-ar.mp4" || { echo "  FAILED surgery-6mo2013-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-30-ar.mp4" || { echo "  FAILED surgery-6mo2013-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-31-ar.mp4" || { echo "  FAILED surgery-6mo2013-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-32-ar.mp4" || { echo "  FAILED surgery-6mo2013-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-33-ar.mp4" || { echo "  FAILED surgery-6mo2013-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-34-ar.mp4" || { echo "  FAILED surgery-6mo2013-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-35-ar.mp4" || { echo "  FAILED surgery-6mo2013-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-36-ar.mp4" || { echo "  FAILED surgery-6mo2013-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-37-ar.mp4" || { echo "  FAILED surgery-6mo2013-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-38-ar.mp4" || { echo "  FAILED surgery-6mo2013-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-39-ar.mp4" || { echo "  FAILED surgery-6mo2013-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-40-ar.mp4" || { echo "  FAILED surgery-6mo2013-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-41-ar.mp4" || { echo "  FAILED surgery-6mo2013-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-42-ar.mp4" || { echo "  FAILED surgery-6mo2013-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-43-ar.mp4" || { echo "  FAILED surgery-6mo2013-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-44-ar.mp4" || { echo "  FAILED surgery-6mo2013-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-45-ar.mp4" || { echo "  FAILED surgery-6mo2013-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-46-ar.mp4" || { echo "  FAILED surgery-6mo2013-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-47-ar.mp4" || { echo "  FAILED surgery-6mo2013-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-48-ar.mp4" || { echo "  FAILED surgery-6mo2013-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-49-ar.mp4" || { echo "  FAILED surgery-6mo2013-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-50-ar.mp4" || { echo "  FAILED surgery-6mo2013-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-51-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-51-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-51-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-51-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-51-ar.mp4" || { echo "  FAILED surgery-6mo2013-51-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-52-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-52-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-52-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-52-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-52-ar.mp4" || { echo "  FAILED surgery-6mo2013-52-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-53-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-53-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-53-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-53-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-53-ar.mp4" || { echo "  FAILED surgery-6mo2013-53-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2013"
+if [ -s "Surgery-6th-Month-2013/surgery-6mo2013-54-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2013-54-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2013-54-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2013/surgery-6mo2013-54-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2013/surgery-6mo2013-54-ar.mp4" || { echo "  FAILED surgery-6mo2013-54-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-01-ar.mp4" || { echo "  FAILED surgery-12mo2013-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-02-ar.mp4" || { echo "  FAILED surgery-12mo2013-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-03-ar.mp4" || { echo "  FAILED surgery-12mo2013-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-04-ar.mp4" || { echo "  FAILED surgery-12mo2013-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-05-ar.mp4" || { echo "  FAILED surgery-12mo2013-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-06-ar.mp4" || { echo "  FAILED surgery-12mo2013-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-07-ar.mp4" || { echo "  FAILED surgery-12mo2013-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-08-ar.mp4" || { echo "  FAILED surgery-12mo2013-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-09-ar.mp4" || { echo "  FAILED surgery-12mo2013-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-10-ar.mp4" || { echo "  FAILED surgery-12mo2013-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-11-ar.mp4" || { echo "  FAILED surgery-12mo2013-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-12-ar.mp4" || { echo "  FAILED surgery-12mo2013-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-13-ar.mp4" || { echo "  FAILED surgery-12mo2013-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-14-ar.mp4" || { echo "  FAILED surgery-12mo2013-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-15-ar.mp4" || { echo "  FAILED surgery-12mo2013-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-16-ar.mp4" || { echo "  FAILED surgery-12mo2013-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-17-ar.mp4" || { echo "  FAILED surgery-12mo2013-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-18-ar.mp4" || { echo "  FAILED surgery-12mo2013-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-19-ar.mp4" || { echo "  FAILED surgery-12mo2013-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-20-ar.mp4" || { echo "  FAILED surgery-12mo2013-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-21-ar.mp4" || { echo "  FAILED surgery-12mo2013-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-22-ar.mp4" || { echo "  FAILED surgery-12mo2013-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-23-ar.mp4" || { echo "  FAILED surgery-12mo2013-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-24-ar.mp4" || { echo "  FAILED surgery-12mo2013-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-25-ar.mp4" || { echo "  FAILED surgery-12mo2013-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-26-ar.mp4" || { echo "  FAILED surgery-12mo2013-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-27-ar.mp4" || { echo "  FAILED surgery-12mo2013-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-28-ar.mp4" || { echo "  FAILED surgery-12mo2013-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-29-ar.mp4" || { echo "  FAILED surgery-12mo2013-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-30-ar.mp4" || { echo "  FAILED surgery-12mo2013-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-31-ar.mp4" || { echo "  FAILED surgery-12mo2013-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-32-ar.mp4" || { echo "  FAILED surgery-12mo2013-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-33-ar.mp4" || { echo "  FAILED surgery-12mo2013-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-34-ar.mp4" || { echo "  FAILED surgery-12mo2013-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-35-ar.mp4" || { echo "  FAILED surgery-12mo2013-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-36-ar.mp4" || { echo "  FAILED surgery-12mo2013-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-37-ar.mp4" || { echo "  FAILED surgery-12mo2013-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-38-ar.mp4" || { echo "  FAILED surgery-12mo2013-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-39-ar.mp4" || { echo "  FAILED surgery-12mo2013-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-40-ar.mp4" || { echo "  FAILED surgery-12mo2013-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-41-ar.mp4" || { echo "  FAILED surgery-12mo2013-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-42-ar.mp4" || { echo "  FAILED surgery-12mo2013-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-43-ar.mp4" || { echo "  FAILED surgery-12mo2013-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-44-ar.mp4" || { echo "  FAILED surgery-12mo2013-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-45-ar.mp4" || { echo "  FAILED surgery-12mo2013-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-46-ar.mp4" || { echo "  FAILED surgery-12mo2013-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-47-ar.mp4" || { echo "  FAILED surgery-12mo2013-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-48-ar.mp4" || { echo "  FAILED surgery-12mo2013-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-49-ar.mp4" || { echo "  FAILED surgery-12mo2013-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-50-ar.mp4" || { echo "  FAILED surgery-12mo2013-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-51-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-51-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-51-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-51-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-51-ar.mp4" || { echo "  FAILED surgery-12mo2013-51-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-52-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-52-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-52-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-52-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-52-ar.mp4" || { echo "  FAILED surgery-12mo2013-52-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-53-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-53-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-53-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-53-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-53-ar.mp4" || { echo "  FAILED surgery-12mo2013-53-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-54-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-54-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-54-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-54-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-54-ar.mp4" || { echo "  FAILED surgery-12mo2013-54-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-55-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-55-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-55-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-55-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-55-ar.mp4" || { echo "  FAILED surgery-12mo2013-55-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-56-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-56-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-56-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-56-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-56-ar.mp4" || { echo "  FAILED surgery-12mo2013-56-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-57-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-57-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-57-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-57-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-57-ar.mp4" || { echo "  FAILED surgery-12mo2013-57-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-58-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-58-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-58-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-58-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-58-ar.mp4" || { echo "  FAILED surgery-12mo2013-58-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-59-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-59-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-59-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-59-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-59-ar.mp4" || { echo "  FAILED surgery-12mo2013-59-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-60-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-60-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-60-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-60-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-60-ar.mp4" || { echo "  FAILED surgery-12mo2013-60-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-61-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-61-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-61-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-61-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-61-ar.mp4" || { echo "  FAILED surgery-12mo2013-61-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-62-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-62-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-62-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-62-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-62-ar.mp4" || { echo "  FAILED surgery-12mo2013-62-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-63-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-63-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-63-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-63-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-63-ar.mp4" || { echo "  FAILED surgery-12mo2013-63-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-64-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-64-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-64-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-64-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-64-ar.mp4" || { echo "  FAILED surgery-12mo2013-64-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-65-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-65-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-65-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-65-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-65-ar.mp4" || { echo "  FAILED surgery-12mo2013-65-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-66-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-66-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-66-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-66-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-66-ar.mp4" || { echo "  FAILED surgery-12mo2013-66-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-67-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-67-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-67-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-67-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-67-ar.mp4" || { echo "  FAILED surgery-12mo2013-67-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-68-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-68-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-68-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-68-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-68-ar.mp4" || { echo "  FAILED surgery-12mo2013-68-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-69-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-69-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-69-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-69-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-69-ar.mp4" || { echo "  FAILED surgery-12mo2013-69-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-70-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-70-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-70-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-70-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-70-ar.mp4" || { echo "  FAILED surgery-12mo2013-70-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-71-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-71-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-71-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-71-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-71-ar.mp4" || { echo "  FAILED surgery-12mo2013-71-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-72-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-72-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-72-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-72-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-72-ar.mp4" || { echo "  FAILED surgery-12mo2013-72-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-73-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-73-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-73-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-73-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-73-ar.mp4" || { echo "  FAILED surgery-12mo2013-73-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-74-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-74-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-74-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-74-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-74-ar.mp4" || { echo "  FAILED surgery-12mo2013-74-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-75-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-75-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-75-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-75-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-75-ar.mp4" || { echo "  FAILED surgery-12mo2013-75-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-76-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-76-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-76-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-76-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-76-ar.mp4" || { echo "  FAILED surgery-12mo2013-76-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-77-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-77-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-77-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-77-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-77-ar.mp4" || { echo "  FAILED surgery-12mo2013-77-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2013"
+if [ -s "Surgery-12th-Month-2013/surgery-12mo2013-78-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2013-78-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2013-78-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2013/surgery-12mo2013-78-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2013/surgery-12mo2013-78-ar.mp4" || { echo "  FAILED surgery-12mo2013-78-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-01-ar.mp4" || { echo "  FAILED surgery-6mo2014-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-02-ar.mp4" || { echo "  FAILED surgery-6mo2014-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-03-ar.mp4" || { echo "  FAILED surgery-6mo2014-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-04-ar.mp4" || { echo "  FAILED surgery-6mo2014-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-05-ar.mp4" || { echo "  FAILED surgery-6mo2014-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-06-ar.mp4" || { echo "  FAILED surgery-6mo2014-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-07-ar.mp4" || { echo "  FAILED surgery-6mo2014-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-08-ar.mp4" || { echo "  FAILED surgery-6mo2014-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-09-ar.mp4" || { echo "  FAILED surgery-6mo2014-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-10-ar.mp4" || { echo "  FAILED surgery-6mo2014-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-11-ar.mp4" || { echo "  FAILED surgery-6mo2014-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-12-ar.mp4" || { echo "  FAILED surgery-6mo2014-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-13-ar.mp4" || { echo "  FAILED surgery-6mo2014-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-14-ar.mp4" || { echo "  FAILED surgery-6mo2014-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-15-ar.mp4" || { echo "  FAILED surgery-6mo2014-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-16-ar.mp4" || { echo "  FAILED surgery-6mo2014-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-17-ar.mp4" || { echo "  FAILED surgery-6mo2014-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-18-ar.mp4" || { echo "  FAILED surgery-6mo2014-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-19-ar.mp4" || { echo "  FAILED surgery-6mo2014-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-20-ar.mp4" || { echo "  FAILED surgery-6mo2014-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-21-ar.mp4" || { echo "  FAILED surgery-6mo2014-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-22-ar.mp4" || { echo "  FAILED surgery-6mo2014-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-23-ar.mp4" || { echo "  FAILED surgery-6mo2014-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-24-ar.mp4" || { echo "  FAILED surgery-6mo2014-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-26-ar.mp4" || { echo "  FAILED surgery-6mo2014-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-27-ar.mp4" || { echo "  FAILED surgery-6mo2014-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-28-ar.mp4" || { echo "  FAILED surgery-6mo2014-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-29-ar.mp4" || { echo "  FAILED surgery-6mo2014-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-30-ar.mp4" || { echo "  FAILED surgery-6mo2014-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-31-ar.mp4" || { echo "  FAILED surgery-6mo2014-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-32-ar.mp4" || { echo "  FAILED surgery-6mo2014-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-33-ar.mp4" || { echo "  FAILED surgery-6mo2014-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-34-ar.mp4" || { echo "  FAILED surgery-6mo2014-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-35-ar.mp4" || { echo "  FAILED surgery-6mo2014-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-36-ar.mp4" || { echo "  FAILED surgery-6mo2014-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-37-ar.mp4" || { echo "  FAILED surgery-6mo2014-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-38-ar.mp4" || { echo "  FAILED surgery-6mo2014-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-39-ar.mp4" || { echo "  FAILED surgery-6mo2014-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-40-ar.mp4" || { echo "  FAILED surgery-6mo2014-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-41-ar.mp4" || { echo "  FAILED surgery-6mo2014-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-42-ar.mp4" || { echo "  FAILED surgery-6mo2014-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-43-ar.mp4" || { echo "  FAILED surgery-6mo2014-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-44-ar.mp4" || { echo "  FAILED surgery-6mo2014-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-45-ar.mp4" || { echo "  FAILED surgery-6mo2014-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-46-ar.mp4" || { echo "  FAILED surgery-6mo2014-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-47-ar.mp4" || { echo "  FAILED surgery-6mo2014-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-48-ar.mp4" || { echo "  FAILED surgery-6mo2014-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2014"
+if [ -s "Surgery-6th-Month-2014/surgery-6mo2014-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2014-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2014-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2014/surgery-6mo2014-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2014/surgery-6mo2014-49-ar.mp4" || { echo "  FAILED surgery-6mo2014-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-01-ar.mp4" || { echo "  FAILED surgery-12mo2014-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-02-ar.mp4" || { echo "  FAILED surgery-12mo2014-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-03-ar.mp4" || { echo "  FAILED surgery-12mo2014-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-04-ar.mp4" || { echo "  FAILED surgery-12mo2014-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-05-ar.mp4" || { echo "  FAILED surgery-12mo2014-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-06-ar.mp4" || { echo "  FAILED surgery-12mo2014-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-07-ar.mp4" || { echo "  FAILED surgery-12mo2014-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-08-ar.mp4" || { echo "  FAILED surgery-12mo2014-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-09-ar.mp4" || { echo "  FAILED surgery-12mo2014-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-10-ar.mp4" || { echo "  FAILED surgery-12mo2014-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-11-ar.mp4" || { echo "  FAILED surgery-12mo2014-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-12-ar.mp4" || { echo "  FAILED surgery-12mo2014-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-13-ar.mp4" || { echo "  FAILED surgery-12mo2014-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-14-ar.mp4" || { echo "  FAILED surgery-12mo2014-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-15-ar.mp4" || { echo "  FAILED surgery-12mo2014-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-16-ar.mp4" || { echo "  FAILED surgery-12mo2014-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-17-ar.mp4" || { echo "  FAILED surgery-12mo2014-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-18-ar.mp4" || { echo "  FAILED surgery-12mo2014-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-19-ar.mp4" || { echo "  FAILED surgery-12mo2014-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-20-ar.mp4" || { echo "  FAILED surgery-12mo2014-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-21-ar.mp4" || { echo "  FAILED surgery-12mo2014-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-22-ar.mp4" || { echo "  FAILED surgery-12mo2014-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-23-ar.mp4" || { echo "  FAILED surgery-12mo2014-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-24-ar.mp4" || { echo "  FAILED surgery-12mo2014-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-25-ar.mp4" || { echo "  FAILED surgery-12mo2014-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-26-ar.mp4" || { echo "  FAILED surgery-12mo2014-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-27-ar.mp4" || { echo "  FAILED surgery-12mo2014-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-28-ar.mp4" || { echo "  FAILED surgery-12mo2014-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-29-ar.mp4" || { echo "  FAILED surgery-12mo2014-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2014"
+if [ -s "Surgery-12th-Month-2014/surgery-12mo2014-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2014-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2014-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2014/surgery-12mo2014-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2014/surgery-12mo2014-30-ar.mp4" || { echo "  FAILED surgery-12mo2014-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-01-ar.mp4" || { echo "  FAILED surgery-7mo2015-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-02-ar.mp4" || { echo "  FAILED surgery-7mo2015-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-03-ar.mp4" || { echo "  FAILED surgery-7mo2015-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-04-ar.mp4" || { echo "  FAILED surgery-7mo2015-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-05-ar.mp4" || { echo "  FAILED surgery-7mo2015-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-06-ar.mp4" || { echo "  FAILED surgery-7mo2015-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-07-ar.mp4" || { echo "  FAILED surgery-7mo2015-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-08-ar.mp4" || { echo "  FAILED surgery-7mo2015-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-09-ar.mp4" || { echo "  FAILED surgery-7mo2015-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-10-ar.mp4" || { echo "  FAILED surgery-7mo2015-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-11-ar.mp4" || { echo "  FAILED surgery-7mo2015-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-12-ar.mp4" || { echo "  FAILED surgery-7mo2015-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-13-ar.mp4" || { echo "  FAILED surgery-7mo2015-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-14-ar.mp4" || { echo "  FAILED surgery-7mo2015-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-15-ar.mp4" || { echo "  FAILED surgery-7mo2015-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-16-ar.mp4" || { echo "  FAILED surgery-7mo2015-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-17-ar.mp4" || { echo "  FAILED surgery-7mo2015-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-18-ar.mp4" || { echo "  FAILED surgery-7mo2015-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-19-ar.mp4" || { echo "  FAILED surgery-7mo2015-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-20-ar.mp4" || { echo "  FAILED surgery-7mo2015-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-21-ar.mp4" || { echo "  FAILED surgery-7mo2015-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-22-ar.mp4" || { echo "  FAILED surgery-7mo2015-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-23-ar.mp4" || { echo "  FAILED surgery-7mo2015-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-24-ar.mp4" || { echo "  FAILED surgery-7mo2015-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-25-ar.mp4" || { echo "  FAILED surgery-7mo2015-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-26-ar.mp4" || { echo "  FAILED surgery-7mo2015-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-27-ar.mp4" || { echo "  FAILED surgery-7mo2015-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-28-ar.mp4" || { echo "  FAILED surgery-7mo2015-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-29-ar.mp4" || { echo "  FAILED surgery-7mo2015-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-30-ar.mp4" || { echo "  FAILED surgery-7mo2015-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-31-ar.mp4" || { echo "  FAILED surgery-7mo2015-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-32-ar.mp4" || { echo "  FAILED surgery-7mo2015-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-33-ar.mp4" || { echo "  FAILED surgery-7mo2015-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-34-ar.mp4" || { echo "  FAILED surgery-7mo2015-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-35-ar.mp4" || { echo "  FAILED surgery-7mo2015-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-36-ar.mp4" || { echo "  FAILED surgery-7mo2015-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-37-ar.mp4" || { echo "  FAILED surgery-7mo2015-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-38-ar.mp4" || { echo "  FAILED surgery-7mo2015-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-39-ar.mp4" || { echo "  FAILED surgery-7mo2015-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-40-ar.mp4" || { echo "  FAILED surgery-7mo2015-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-41-ar.mp4" || { echo "  FAILED surgery-7mo2015-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-42-ar.mp4" || { echo "  FAILED surgery-7mo2015-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-43-ar.mp4" || { echo "  FAILED surgery-7mo2015-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-44-ar.mp4" || { echo "  FAILED surgery-7mo2015-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-45-ar.mp4" || { echo "  FAILED surgery-7mo2015-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-46-ar.mp4" || { echo "  FAILED surgery-7mo2015-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-47-ar.mp4" || { echo "  FAILED surgery-7mo2015-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-48-ar.mp4" || { echo "  FAILED surgery-7mo2015-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-49-ar.mp4" || { echo "  FAILED surgery-7mo2015-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-50-ar.mp4" || { echo "  FAILED surgery-7mo2015-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-51-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-51-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-51-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-51-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-51-ar.mp4" || { echo "  FAILED surgery-7mo2015-51-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-52-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-52-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-52-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-52-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-52-ar.mp4" || { echo "  FAILED surgery-7mo2015-52-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-53-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-53-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-53-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-53-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-53-ar.mp4" || { echo "  FAILED surgery-7mo2015-53-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-54-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-54-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-54-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-54-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-54-ar.mp4" || { echo "  FAILED surgery-7mo2015-54-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-55-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-55-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-55-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-55-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-55-ar.mp4" || { echo "  FAILED surgery-7mo2015-55-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-56-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-56-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-56-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-56-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-56-ar.mp4" || { echo "  FAILED surgery-7mo2015-56-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-57-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-57-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-57-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-57-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-57-ar.mp4" || { echo "  FAILED surgery-7mo2015-57-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-58-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-58-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-58-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-58-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-58-ar.mp4" || { echo "  FAILED surgery-7mo2015-58-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-59-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-59-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-59-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-59-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-59-ar.mp4" || { echo "  FAILED surgery-7mo2015-59-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-60-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-60-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-60-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-60-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-60-ar.mp4" || { echo "  FAILED surgery-7mo2015-60-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-61-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-61-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-61-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-61-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-61-ar.mp4" || { echo "  FAILED surgery-7mo2015-61-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-62-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-62-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-62-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-62-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-62-ar.mp4" || { echo "  FAILED surgery-7mo2015-62-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-63-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-63-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-63-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-63-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-63-ar.mp4" || { echo "  FAILED surgery-7mo2015-63-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-64-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-64-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-64-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-64-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-64-ar.mp4" || { echo "  FAILED surgery-7mo2015-64-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-65-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-65-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-65-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-65-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-65-ar.mp4" || { echo "  FAILED surgery-7mo2015-65-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-66-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-66-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-66-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-66-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-66-ar.mp4" || { echo "  FAILED surgery-7mo2015-66-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-67-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-67-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-67-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-67-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-67-ar.mp4" || { echo "  FAILED surgery-7mo2015-67-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-68-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-68-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-68-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-68-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-68-ar.mp4" || { echo "  FAILED surgery-7mo2015-68-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-69-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-69-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-69-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-69-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-69-ar.mp4" || { echo "  FAILED surgery-7mo2015-69-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2015"
+if [ -s "Surgery-7th-Month-2015/surgery-7mo2015-70-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2015-70-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2015-70-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2015/surgery-7mo2015-70-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2015/surgery-7mo2015-70-ar.mp4" || { echo "  FAILED surgery-7mo2015-70-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-01-ar.mp4" || { echo "  FAILED surgery-7mo2016-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-02-ar.mp4" || { echo "  FAILED surgery-7mo2016-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-03-ar.mp4" || { echo "  FAILED surgery-7mo2016-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-04-ar.mp4" || { echo "  FAILED surgery-7mo2016-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-05-ar.mp4" || { echo "  FAILED surgery-7mo2016-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-06-ar.mp4" || { echo "  FAILED surgery-7mo2016-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-07-ar.mp4" || { echo "  FAILED surgery-7mo2016-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-08-ar.mp4" || { echo "  FAILED surgery-7mo2016-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-09-ar.mp4" || { echo "  FAILED surgery-7mo2016-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-10-ar.mp4" || { echo "  FAILED surgery-7mo2016-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-11-ar.mp4" || { echo "  FAILED surgery-7mo2016-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-12-ar.mp4" || { echo "  FAILED surgery-7mo2016-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-13-ar.mp4" || { echo "  FAILED surgery-7mo2016-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-14-ar.mp4" || { echo "  FAILED surgery-7mo2016-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-15-ar.mp4" || { echo "  FAILED surgery-7mo2016-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-16-ar.mp4" || { echo "  FAILED surgery-7mo2016-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-17-ar.mp4" || { echo "  FAILED surgery-7mo2016-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-18-ar.mp4" || { echo "  FAILED surgery-7mo2016-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-19-ar.mp4" || { echo "  FAILED surgery-7mo2016-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-20-ar.mp4" || { echo "  FAILED surgery-7mo2016-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-21-ar.mp4" || { echo "  FAILED surgery-7mo2016-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-22-ar.mp4" || { echo "  FAILED surgery-7mo2016-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-23-ar.mp4" || { echo "  FAILED surgery-7mo2016-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-24-ar.mp4" || { echo "  FAILED surgery-7mo2016-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-25-ar.mp4" || { echo "  FAILED surgery-7mo2016-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-26-ar.mp4" || { echo "  FAILED surgery-7mo2016-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-27-ar.mp4" || { echo "  FAILED surgery-7mo2016-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-28-ar.mp4" || { echo "  FAILED surgery-7mo2016-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-29-ar.mp4" || { echo "  FAILED surgery-7mo2016-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-30-ar.mp4" || { echo "  FAILED surgery-7mo2016-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-31-ar.mp4" || { echo "  FAILED surgery-7mo2016-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-32-ar.mp4" || { echo "  FAILED surgery-7mo2016-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-33-ar.mp4" || { echo "  FAILED surgery-7mo2016-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-34-ar.mp4" || { echo "  FAILED surgery-7mo2016-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-35-ar.mp4" || { echo "  FAILED surgery-7mo2016-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-36-ar.mp4" || { echo "  FAILED surgery-7mo2016-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-37-ar.mp4" || { echo "  FAILED surgery-7mo2016-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-38-ar.mp4" || { echo "  FAILED surgery-7mo2016-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-39-ar.mp4" || { echo "  FAILED surgery-7mo2016-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-40-ar.mp4" || { echo "  FAILED surgery-7mo2016-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-41-ar.mp4" || { echo "  FAILED surgery-7mo2016-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-42-ar.mp4" || { echo "  FAILED surgery-7mo2016-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-43-ar.mp4" || { echo "  FAILED surgery-7mo2016-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-44-ar.mp4" || { echo "  FAILED surgery-7mo2016-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-45-ar.mp4" || { echo "  FAILED surgery-7mo2016-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-46-ar.mp4" || { echo "  FAILED surgery-7mo2016-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-47-ar.mp4" || { echo "  FAILED surgery-7mo2016-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-48-ar.mp4" || { echo "  FAILED surgery-7mo2016-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-49-ar.mp4" || { echo "  FAILED surgery-7mo2016-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-50-ar.mp4" || { echo "  FAILED surgery-7mo2016-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-51-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-51-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-51-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-51-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-51-ar.mp4" || { echo "  FAILED surgery-7mo2016-51-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-52-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-52-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-52-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-52-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-52-ar.mp4" || { echo "  FAILED surgery-7mo2016-52-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-53-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-53-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-53-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-53-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-53-ar.mp4" || { echo "  FAILED surgery-7mo2016-53-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-54-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-54-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-54-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-54-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-54-ar.mp4" || { echo "  FAILED surgery-7mo2016-54-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-55-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-55-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-55-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-55-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-55-ar.mp4" || { echo "  FAILED surgery-7mo2016-55-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-56-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-56-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-56-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-56-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-56-ar.mp4" || { echo "  FAILED surgery-7mo2016-56-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-57-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-57-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-57-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-57-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-57-ar.mp4" || { echo "  FAILED surgery-7mo2016-57-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-58-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-58-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-58-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-58-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-58-ar.mp4" || { echo "  FAILED surgery-7mo2016-58-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-59-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-59-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-59-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-59-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-59-ar.mp4" || { echo "  FAILED surgery-7mo2016-59-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-60-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-60-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-60-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-60-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-60-ar.mp4" || { echo "  FAILED surgery-7mo2016-60-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-61-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-61-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-61-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-61-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-61-ar.mp4" || { echo "  FAILED surgery-7mo2016-61-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-62-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-62-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-62-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-62-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-62-ar.mp4" || { echo "  FAILED surgery-7mo2016-62-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-63-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-63-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-63-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-63-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-63-ar.mp4" || { echo "  FAILED surgery-7mo2016-63-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2016"
+if [ -s "Surgery-7th-Month-2016/surgery-7mo2016-64-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2016-64-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2016-64-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2016/surgery-7mo2016-64-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2016/surgery-7mo2016-64-ar.mp4" || { echo "  FAILED surgery-7mo2016-64-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-01-ar.mp4" || { echo "  FAILED surgery-1mo2017-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-02-ar.mp4" || { echo "  FAILED surgery-1mo2017-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-03-ar.mp4" || { echo "  FAILED surgery-1mo2017-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-04-ar.mp4" || { echo "  FAILED surgery-1mo2017-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-05-ar.mp4" || { echo "  FAILED surgery-1mo2017-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-06-ar.mp4" || { echo "  FAILED surgery-1mo2017-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-07-ar.mp4" || { echo "  FAILED surgery-1mo2017-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-08-ar.mp4" || { echo "  FAILED surgery-1mo2017-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-09-ar.mp4" || { echo "  FAILED surgery-1mo2017-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-10-ar.mp4" || { echo "  FAILED surgery-1mo2017-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-11-ar.mp4" || { echo "  FAILED surgery-1mo2017-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-12-ar.mp4" || { echo "  FAILED surgery-1mo2017-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-13-ar.mp4" || { echo "  FAILED surgery-1mo2017-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-14-ar.mp4" || { echo "  FAILED surgery-1mo2017-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-15-ar.mp4" || { echo "  FAILED surgery-1mo2017-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-16-ar.mp4" || { echo "  FAILED surgery-1mo2017-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-17-ar.mp4" || { echo "  FAILED surgery-1mo2017-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-18-ar.mp4" || { echo "  FAILED surgery-1mo2017-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-19-ar.mp4" || { echo "  FAILED surgery-1mo2017-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-20-ar.mp4" || { echo "  FAILED surgery-1mo2017-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-21-ar.mp4" || { echo "  FAILED surgery-1mo2017-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-22-ar.mp4" || { echo "  FAILED surgery-1mo2017-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-23-ar.mp4" || { echo "  FAILED surgery-1mo2017-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-24-ar.mp4" || { echo "  FAILED surgery-1mo2017-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-25-ar.mp4" || { echo "  FAILED surgery-1mo2017-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-26-ar.mp4" || { echo "  FAILED surgery-1mo2017-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-27-ar.mp4" || { echo "  FAILED surgery-1mo2017-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-28-ar.mp4" || { echo "  FAILED surgery-1mo2017-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-29-ar.mp4" || { echo "  FAILED surgery-1mo2017-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-30-ar.mp4" || { echo "  FAILED surgery-1mo2017-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-31-ar.mp4" || { echo "  FAILED surgery-1mo2017-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-32-ar.mp4" || { echo "  FAILED surgery-1mo2017-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-33-ar.mp4" || { echo "  FAILED surgery-1mo2017-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-34-ar.mp4" || { echo "  FAILED surgery-1mo2017-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-35-ar.mp4" || { echo "  FAILED surgery-1mo2017-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-36-ar.mp4" || { echo "  FAILED surgery-1mo2017-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-37-ar.mp4" || { echo "  FAILED surgery-1mo2017-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-38-ar.mp4" || { echo "  FAILED surgery-1mo2017-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-39-ar.mp4" || { echo "  FAILED surgery-1mo2017-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-40-ar.mp4" || { echo "  FAILED surgery-1mo2017-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-41-ar.mp4" || { echo "  FAILED surgery-1mo2017-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-42-ar.mp4" || { echo "  FAILED surgery-1mo2017-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-43-ar.mp4" || { echo "  FAILED surgery-1mo2017-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-44-ar.mp4" || { echo "  FAILED surgery-1mo2017-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-45-ar.mp4" || { echo "  FAILED surgery-1mo2017-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-1st-Month-2017"
+if [ -s "Surgery-1st-Month-2017/surgery-1mo2017-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-1mo2017-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-1mo2017-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-1st-Month-2017/surgery-1mo2017-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-1mo2017/surgery-1mo2017-46-ar.mp4" || { echo "  FAILED surgery-1mo2017-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-01-ar.mp4" || { echo "  FAILED surgery-4mo2017-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-02-ar.mp4" || { echo "  FAILED surgery-4mo2017-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-03-ar.mp4" || { echo "  FAILED surgery-4mo2017-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-04-ar.mp4" || { echo "  FAILED surgery-4mo2017-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-05-ar.mp4" || { echo "  FAILED surgery-4mo2017-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-06-ar.mp4" || { echo "  FAILED surgery-4mo2017-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-07-ar.mp4" || { echo "  FAILED surgery-4mo2017-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-08-ar.mp4" || { echo "  FAILED surgery-4mo2017-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-09-ar.mp4" || { echo "  FAILED surgery-4mo2017-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-10-ar.mp4" || { echo "  FAILED surgery-4mo2017-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-11-ar.mp4" || { echo "  FAILED surgery-4mo2017-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-12-ar.mp4" || { echo "  FAILED surgery-4mo2017-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-13-ar.mp4" || { echo "  FAILED surgery-4mo2017-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-14-ar.mp4" || { echo "  FAILED surgery-4mo2017-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-15-ar.mp4" || { echo "  FAILED surgery-4mo2017-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-16-ar.mp4" || { echo "  FAILED surgery-4mo2017-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-17-ar.mp4" || { echo "  FAILED surgery-4mo2017-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-18-ar.mp4" || { echo "  FAILED surgery-4mo2017-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-19-ar.mp4" || { echo "  FAILED surgery-4mo2017-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-20-ar.mp4" || { echo "  FAILED surgery-4mo2017-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-21-ar.mp4" || { echo "  FAILED surgery-4mo2017-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-22-ar.mp4" || { echo "  FAILED surgery-4mo2017-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-23-ar.mp4" || { echo "  FAILED surgery-4mo2017-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-24-ar.mp4" || { echo "  FAILED surgery-4mo2017-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-25-ar.mp4" || { echo "  FAILED surgery-4mo2017-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-26-ar.mp4" || { echo "  FAILED surgery-4mo2017-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-27-ar.mp4" || { echo "  FAILED surgery-4mo2017-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-28-ar.mp4" || { echo "  FAILED surgery-4mo2017-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-29-ar.mp4" || { echo "  FAILED surgery-4mo2017-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-30-ar.mp4" || { echo "  FAILED surgery-4mo2017-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-31-ar.mp4" || { echo "  FAILED surgery-4mo2017-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-32-ar.mp4" || { echo "  FAILED surgery-4mo2017-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-33-ar.mp4" || { echo "  FAILED surgery-4mo2017-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-34-ar.mp4" || { echo "  FAILED surgery-4mo2017-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-35-ar.mp4" || { echo "  FAILED surgery-4mo2017-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-36-ar.mp4" || { echo "  FAILED surgery-4mo2017-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-37-ar.mp4" || { echo "  FAILED surgery-4mo2017-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-38-ar.mp4" || { echo "  FAILED surgery-4mo2017-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-39-ar.mp4" || { echo "  FAILED surgery-4mo2017-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-40-ar.mp4" || { echo "  FAILED surgery-4mo2017-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-41-ar.mp4" || { echo "  FAILED surgery-4mo2017-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-42-ar.mp4" || { echo "  FAILED surgery-4mo2017-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-43-ar.mp4" || { echo "  FAILED surgery-4mo2017-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-44-ar.mp4" || { echo "  FAILED surgery-4mo2017-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-45-ar.mp4" || { echo "  FAILED surgery-4mo2017-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-46-ar.mp4" || { echo "  FAILED surgery-4mo2017-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-47-ar.mp4" || { echo "  FAILED surgery-4mo2017-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-48-ar.mp4" || { echo "  FAILED surgery-4mo2017-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-49-ar.mp4" || { echo "  FAILED surgery-4mo2017-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-50-ar.mp4" || { echo "  FAILED surgery-4mo2017-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-51-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-51-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-51-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-51-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-51-ar.mp4" || { echo "  FAILED surgery-4mo2017-51-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-52-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-52-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-52-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-52-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-52-ar.mp4" || { echo "  FAILED surgery-4mo2017-52-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-53-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-53-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-53-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-53-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-53-ar.mp4" || { echo "  FAILED surgery-4mo2017-53-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-54-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-54-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-54-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-54-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-54-ar.mp4" || { echo "  FAILED surgery-4mo2017-54-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-55-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-55-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-55-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-55-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-55-ar.mp4" || { echo "  FAILED surgery-4mo2017-55-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-56-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-56-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-56-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-56-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-56-ar.mp4" || { echo "  FAILED surgery-4mo2017-56-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-57-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-57-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-57-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-57-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-57-ar.mp4" || { echo "  FAILED surgery-4mo2017-57-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-58-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-58-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-58-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-58-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-58-ar.mp4" || { echo "  FAILED surgery-4mo2017-58-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-59-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-59-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-59-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-59-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-59-ar.mp4" || { echo "  FAILED surgery-4mo2017-59-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-60-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-60-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-60-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-60-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-60-ar.mp4" || { echo "  FAILED surgery-4mo2017-60-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-61-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-61-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-61-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-61-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-61-ar.mp4" || { echo "  FAILED surgery-4mo2017-61-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-62-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-62-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-62-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-62-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-62-ar.mp4" || { echo "  FAILED surgery-4mo2017-62-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-63-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-63-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-63-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-63-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-63-ar.mp4" || { echo "  FAILED surgery-4mo2017-63-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-64-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-64-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-64-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-64-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-64-ar.mp4" || { echo "  FAILED surgery-4mo2017-64-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-65-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-65-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-65-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-65-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-65-ar.mp4" || { echo "  FAILED surgery-4mo2017-65-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-66-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-66-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-66-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-66-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-66-ar.mp4" || { echo "  FAILED surgery-4mo2017-66-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-67-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-67-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-67-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-67-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-67-ar.mp4" || { echo "  FAILED surgery-4mo2017-67-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2017"
+if [ -s "Surgery-4th-Month-2017/surgery-4mo2017-68-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2017-68-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2017-68-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2017/surgery-4mo2017-68-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2017/surgery-4mo2017-68-ar.mp4" || { echo "  FAILED surgery-4mo2017-68-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-01-ar.mp4" || { echo "  FAILED surgery-7mo2017-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-02-ar.mp4" || { echo "  FAILED surgery-7mo2017-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-03-ar.mp4" || { echo "  FAILED surgery-7mo2017-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-04-ar.mp4" || { echo "  FAILED surgery-7mo2017-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-05-ar.mp4" || { echo "  FAILED surgery-7mo2017-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-06-ar.mp4" || { echo "  FAILED surgery-7mo2017-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-07-ar.mp4" || { echo "  FAILED surgery-7mo2017-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-08-ar.mp4" || { echo "  FAILED surgery-7mo2017-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-09-ar.mp4" || { echo "  FAILED surgery-7mo2017-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-10-ar.mp4" || { echo "  FAILED surgery-7mo2017-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-11-ar.mp4" || { echo "  FAILED surgery-7mo2017-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-12-ar.mp4" || { echo "  FAILED surgery-7mo2017-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-13-ar.mp4" || { echo "  FAILED surgery-7mo2017-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-14-ar.mp4" || { echo "  FAILED surgery-7mo2017-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-15-ar.mp4" || { echo "  FAILED surgery-7mo2017-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-16-ar.mp4" || { echo "  FAILED surgery-7mo2017-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-17-ar.mp4" || { echo "  FAILED surgery-7mo2017-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-18-ar.mp4" || { echo "  FAILED surgery-7mo2017-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-19-ar.mp4" || { echo "  FAILED surgery-7mo2017-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-20-ar.mp4" || { echo "  FAILED surgery-7mo2017-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-21-ar.mp4" || { echo "  FAILED surgery-7mo2017-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-22-ar.mp4" || { echo "  FAILED surgery-7mo2017-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-23-ar.mp4" || { echo "  FAILED surgery-7mo2017-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-24-ar.mp4" || { echo "  FAILED surgery-7mo2017-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-25-ar.mp4" || { echo "  FAILED surgery-7mo2017-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-26-ar.mp4" || { echo "  FAILED surgery-7mo2017-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-27-ar.mp4" || { echo "  FAILED surgery-7mo2017-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-28-ar.mp4" || { echo "  FAILED surgery-7mo2017-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-29-ar.mp4" || { echo "  FAILED surgery-7mo2017-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-30-ar.mp4" || { echo "  FAILED surgery-7mo2017-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-31-ar.mp4" || { echo "  FAILED surgery-7mo2017-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-32-ar.mp4" || { echo "  FAILED surgery-7mo2017-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-33-ar.mp4" || { echo "  FAILED surgery-7mo2017-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-34-ar.mp4" || { echo "  FAILED surgery-7mo2017-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-35-ar.mp4" || { echo "  FAILED surgery-7mo2017-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-36-ar.mp4" || { echo "  FAILED surgery-7mo2017-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-37-ar.mp4" || { echo "  FAILED surgery-7mo2017-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-38-ar.mp4" || { echo "  FAILED surgery-7mo2017-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-39-ar.mp4" || { echo "  FAILED surgery-7mo2017-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-40-ar.mp4" || { echo "  FAILED surgery-7mo2017-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-41-ar.mp4" || { echo "  FAILED surgery-7mo2017-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-42-ar.mp4" || { echo "  FAILED surgery-7mo2017-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-43-ar.mp4" || { echo "  FAILED surgery-7mo2017-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-44-ar.mp4" || { echo "  FAILED surgery-7mo2017-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2017"
+if [ -s "Surgery-7th-Month-2017/surgery-7mo2017-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2017-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2017-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2017/surgery-7mo2017-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2017/surgery-7mo2017-45-ar.mp4" || { echo "  FAILED surgery-7mo2017-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-01-ar.mp4" || { echo "  FAILED surgery-10mo2017-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-02-ar.mp4" || { echo "  FAILED surgery-10mo2017-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-03-ar.mp4" || { echo "  FAILED surgery-10mo2017-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-04-ar.mp4" || { echo "  FAILED surgery-10mo2017-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-05-ar.mp4" || { echo "  FAILED surgery-10mo2017-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-06-ar.mp4" || { echo "  FAILED surgery-10mo2017-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-07-ar.mp4" || { echo "  FAILED surgery-10mo2017-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-08-ar.mp4" || { echo "  FAILED surgery-10mo2017-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-09-ar.mp4" || { echo "  FAILED surgery-10mo2017-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-10-ar.mp4" || { echo "  FAILED surgery-10mo2017-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-11-ar.mp4" || { echo "  FAILED surgery-10mo2017-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-12-ar.mp4" || { echo "  FAILED surgery-10mo2017-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-13-ar.mp4" || { echo "  FAILED surgery-10mo2017-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-14-ar.mp4" || { echo "  FAILED surgery-10mo2017-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-15-ar.mp4" || { echo "  FAILED surgery-10mo2017-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-16-ar.mp4" || { echo "  FAILED surgery-10mo2017-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-17-ar.mp4" || { echo "  FAILED surgery-10mo2017-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-18-ar.mp4" || { echo "  FAILED surgery-10mo2017-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-19-ar.mp4" || { echo "  FAILED surgery-10mo2017-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-20-ar.mp4" || { echo "  FAILED surgery-10mo2017-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-21-ar.mp4" || { echo "  FAILED surgery-10mo2017-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-22-ar.mp4" || { echo "  FAILED surgery-10mo2017-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-23-ar.mp4" || { echo "  FAILED surgery-10mo2017-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-24-ar.mp4" || { echo "  FAILED surgery-10mo2017-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-25-ar.mp4" || { echo "  FAILED surgery-10mo2017-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-26-ar.mp4" || { echo "  FAILED surgery-10mo2017-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-27-ar.mp4" || { echo "  FAILED surgery-10mo2017-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-28-ar.mp4" || { echo "  FAILED surgery-10mo2017-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-29-ar.mp4" || { echo "  FAILED surgery-10mo2017-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-30-ar.mp4" || { echo "  FAILED surgery-10mo2017-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-31-ar.mp4" || { echo "  FAILED surgery-10mo2017-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-32-ar.mp4" || { echo "  FAILED surgery-10mo2017-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-33-ar.mp4" || { echo "  FAILED surgery-10mo2017-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-34-ar.mp4" || { echo "  FAILED surgery-10mo2017-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-35-ar.mp4" || { echo "  FAILED surgery-10mo2017-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-36-ar.mp4" || { echo "  FAILED surgery-10mo2017-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-37-ar.mp4" || { echo "  FAILED surgery-10mo2017-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-38-ar.mp4" || { echo "  FAILED surgery-10mo2017-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-39-ar.mp4" || { echo "  FAILED surgery-10mo2017-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-40-ar.mp4" || { echo "  FAILED surgery-10mo2017-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-41-ar.mp4" || { echo "  FAILED surgery-10mo2017-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-42-ar.mp4" || { echo "  FAILED surgery-10mo2017-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-43-ar.mp4" || { echo "  FAILED surgery-10mo2017-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-44-ar.mp4" || { echo "  FAILED surgery-10mo2017-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-45-ar.mp4" || { echo "  FAILED surgery-10mo2017-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-46-ar.mp4" || { echo "  FAILED surgery-10mo2017-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-47-ar.mp4" || { echo "  FAILED surgery-10mo2017-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2017"
+if [ -s "Surgery-10th-Month-2017/surgery-10mo2017-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2017-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2017-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2017/surgery-10mo2017-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2017/surgery-10mo2017-48-ar.mp4" || { echo "  FAILED surgery-10mo2017-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-01-ar.mp4" || { echo "  FAILED surgery-12mo2017-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-02-ar.mp4" || { echo "  FAILED surgery-12mo2017-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-03-ar.mp4" || { echo "  FAILED surgery-12mo2017-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-04-ar.mp4" || { echo "  FAILED surgery-12mo2017-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-05-ar.mp4" || { echo "  FAILED surgery-12mo2017-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-06-ar.mp4" || { echo "  FAILED surgery-12mo2017-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-07-ar.mp4" || { echo "  FAILED surgery-12mo2017-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-08-ar.mp4" || { echo "  FAILED surgery-12mo2017-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-09-ar.mp4" || { echo "  FAILED surgery-12mo2017-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-10-ar.mp4" || { echo "  FAILED surgery-12mo2017-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-11-ar.mp4" || { echo "  FAILED surgery-12mo2017-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-12-ar.mp4" || { echo "  FAILED surgery-12mo2017-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-13-ar.mp4" || { echo "  FAILED surgery-12mo2017-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-14-ar.mp4" || { echo "  FAILED surgery-12mo2017-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-15-ar.mp4" || { echo "  FAILED surgery-12mo2017-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-16-ar.mp4" || { echo "  FAILED surgery-12mo2017-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-17-ar.mp4" || { echo "  FAILED surgery-12mo2017-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-18-ar.mp4" || { echo "  FAILED surgery-12mo2017-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-19-ar.mp4" || { echo "  FAILED surgery-12mo2017-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-20-ar.mp4" || { echo "  FAILED surgery-12mo2017-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-21-ar.mp4" || { echo "  FAILED surgery-12mo2017-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-22-ar.mp4" || { echo "  FAILED surgery-12mo2017-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-23-ar.mp4" || { echo "  FAILED surgery-12mo2017-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-24-ar.mp4" || { echo "  FAILED surgery-12mo2017-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-25-ar.mp4" || { echo "  FAILED surgery-12mo2017-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-26-ar.mp4" || { echo "  FAILED surgery-12mo2017-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-27-ar.mp4" || { echo "  FAILED surgery-12mo2017-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-28-ar.mp4" || { echo "  FAILED surgery-12mo2017-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-29-ar.mp4" || { echo "  FAILED surgery-12mo2017-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-30-ar.mp4" || { echo "  FAILED surgery-12mo2017-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-31-ar.mp4" || { echo "  FAILED surgery-12mo2017-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-32-ar.mp4" || { echo "  FAILED surgery-12mo2017-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-33-ar.mp4" || { echo "  FAILED surgery-12mo2017-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-34-ar.mp4" || { echo "  FAILED surgery-12mo2017-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-35-ar.mp4" || { echo "  FAILED surgery-12mo2017-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-36-ar.mp4" || { echo "  FAILED surgery-12mo2017-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-37-ar.mp4" || { echo "  FAILED surgery-12mo2017-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-38-ar.mp4" || { echo "  FAILED surgery-12mo2017-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-39-ar.mp4" || { echo "  FAILED surgery-12mo2017-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-40-ar.mp4" || { echo "  FAILED surgery-12mo2017-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-41-ar.mp4" || { echo "  FAILED surgery-12mo2017-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-42-ar.mp4" || { echo "  FAILED surgery-12mo2017-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-43-ar.mp4" || { echo "  FAILED surgery-12mo2017-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-44-ar.mp4" || { echo "  FAILED surgery-12mo2017-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-45-ar.mp4" || { echo "  FAILED surgery-12mo2017-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-46-ar.mp4" || { echo "  FAILED surgery-12mo2017-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-47-ar.mp4" || { echo "  FAILED surgery-12mo2017-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-48-ar.mp4" || { echo "  FAILED surgery-12mo2017-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2017"
+if [ -s "Surgery-12th-Month-2017/surgery-12mo2017-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2017-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2017-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2017/surgery-12mo2017-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2017/surgery-12mo2017-49-ar.mp4" || { echo "  FAILED surgery-12mo2017-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-01-ar.mp4" || { echo "  FAILED surgery-4mo2018-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-02-ar.mp4" || { echo "  FAILED surgery-4mo2018-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-03-ar.mp4" || { echo "  FAILED surgery-4mo2018-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-04-ar.mp4" || { echo "  FAILED surgery-4mo2018-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-05-ar.mp4" || { echo "  FAILED surgery-4mo2018-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-06-ar.mp4" || { echo "  FAILED surgery-4mo2018-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-07-ar.mp4" || { echo "  FAILED surgery-4mo2018-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-08-ar.mp4" || { echo "  FAILED surgery-4mo2018-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-09-ar.mp4" || { echo "  FAILED surgery-4mo2018-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-10-ar.mp4" || { echo "  FAILED surgery-4mo2018-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-11-ar.mp4" || { echo "  FAILED surgery-4mo2018-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-12-ar.mp4" || { echo "  FAILED surgery-4mo2018-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-13-ar.mp4" || { echo "  FAILED surgery-4mo2018-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-14-ar.mp4" || { echo "  FAILED surgery-4mo2018-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-15-ar.mp4" || { echo "  FAILED surgery-4mo2018-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-16-ar.mp4" || { echo "  FAILED surgery-4mo2018-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-17-ar.mp4" || { echo "  FAILED surgery-4mo2018-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-18-ar.mp4" || { echo "  FAILED surgery-4mo2018-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-19-ar.mp4" || { echo "  FAILED surgery-4mo2018-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-20-ar.mp4" || { echo "  FAILED surgery-4mo2018-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-21-ar.mp4" || { echo "  FAILED surgery-4mo2018-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-22-ar.mp4" || { echo "  FAILED surgery-4mo2018-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-23-ar.mp4" || { echo "  FAILED surgery-4mo2018-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-24-ar.mp4" || { echo "  FAILED surgery-4mo2018-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-25-ar.mp4" || { echo "  FAILED surgery-4mo2018-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-26-ar.mp4" || { echo "  FAILED surgery-4mo2018-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-27-ar.mp4" || { echo "  FAILED surgery-4mo2018-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-28-ar.mp4" || { echo "  FAILED surgery-4mo2018-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-29-ar.mp4" || { echo "  FAILED surgery-4mo2018-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-30-ar.mp4" || { echo "  FAILED surgery-4mo2018-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-31-ar.mp4" || { echo "  FAILED surgery-4mo2018-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-32-ar.mp4" || { echo "  FAILED surgery-4mo2018-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-33-ar.mp4" || { echo "  FAILED surgery-4mo2018-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-34-ar.mp4" || { echo "  FAILED surgery-4mo2018-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-35-ar.mp4" || { echo "  FAILED surgery-4mo2018-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-36-ar.mp4" || { echo "  FAILED surgery-4mo2018-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-37-ar.mp4" || { echo "  FAILED surgery-4mo2018-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-38-ar.mp4" || { echo "  FAILED surgery-4mo2018-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-39-ar.mp4" || { echo "  FAILED surgery-4mo2018-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-40-ar.mp4" || { echo "  FAILED surgery-4mo2018-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-41-ar.mp4" || { echo "  FAILED surgery-4mo2018-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2018"
+if [ -s "Surgery-4th-Month-2018/surgery-4mo2018-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2018-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2018-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2018/surgery-4mo2018-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2018/surgery-4mo2018-42-ar.mp4" || { echo "  FAILED surgery-4mo2018-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-01-ar.mp4" || { echo "  FAILED surgery-7mo2018-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-02-ar.mp4" || { echo "  FAILED surgery-7mo2018-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-03-ar.mp4" || { echo "  FAILED surgery-7mo2018-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-04-ar.mp4" || { echo "  FAILED surgery-7mo2018-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-05-ar.mp4" || { echo "  FAILED surgery-7mo2018-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-06-ar.mp4" || { echo "  FAILED surgery-7mo2018-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-07-ar.mp4" || { echo "  FAILED surgery-7mo2018-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-08-ar.mp4" || { echo "  FAILED surgery-7mo2018-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-09-ar.mp4" || { echo "  FAILED surgery-7mo2018-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-10-ar.mp4" || { echo "  FAILED surgery-7mo2018-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-11-ar.mp4" || { echo "  FAILED surgery-7mo2018-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-12-ar.mp4" || { echo "  FAILED surgery-7mo2018-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-13-ar.mp4" || { echo "  FAILED surgery-7mo2018-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-14-ar.mp4" || { echo "  FAILED surgery-7mo2018-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-15-ar.mp4" || { echo "  FAILED surgery-7mo2018-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-16-ar.mp4" || { echo "  FAILED surgery-7mo2018-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-17-ar.mp4" || { echo "  FAILED surgery-7mo2018-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-18-ar.mp4" || { echo "  FAILED surgery-7mo2018-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-19-ar.mp4" || { echo "  FAILED surgery-7mo2018-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-20-ar.mp4" || { echo "  FAILED surgery-7mo2018-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-21-ar.mp4" || { echo "  FAILED surgery-7mo2018-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-22-ar.mp4" || { echo "  FAILED surgery-7mo2018-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-23-ar.mp4" || { echo "  FAILED surgery-7mo2018-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-24-ar.mp4" || { echo "  FAILED surgery-7mo2018-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-25-ar.mp4" || { echo "  FAILED surgery-7mo2018-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-26-ar.mp4" || { echo "  FAILED surgery-7mo2018-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-27-ar.mp4" || { echo "  FAILED surgery-7mo2018-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-28-ar.mp4" || { echo "  FAILED surgery-7mo2018-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-29-ar.mp4" || { echo "  FAILED surgery-7mo2018-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-30-ar.mp4" || { echo "  FAILED surgery-7mo2018-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-31-ar.mp4" || { echo "  FAILED surgery-7mo2018-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-32-ar.mp4" || { echo "  FAILED surgery-7mo2018-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-33-ar.mp4" || { echo "  FAILED surgery-7mo2018-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-34-ar.mp4" || { echo "  FAILED surgery-7mo2018-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-35-ar.mp4" || { echo "  FAILED surgery-7mo2018-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-36-ar.mp4" || { echo "  FAILED surgery-7mo2018-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-37-ar.mp4" || { echo "  FAILED surgery-7mo2018-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-38-ar.mp4" || { echo "  FAILED surgery-7mo2018-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-39-ar.mp4" || { echo "  FAILED surgery-7mo2018-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-40-ar.mp4" || { echo "  FAILED surgery-7mo2018-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-41-ar.mp4" || { echo "  FAILED surgery-7mo2018-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-42-ar.mp4" || { echo "  FAILED surgery-7mo2018-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-43-ar.mp4" || { echo "  FAILED surgery-7mo2018-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-44-ar.mp4" || { echo "  FAILED surgery-7mo2018-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-45-ar.mp4" || { echo "  FAILED surgery-7mo2018-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-46-ar.mp4" || { echo "  FAILED surgery-7mo2018-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-47-ar.mp4" || { echo "  FAILED surgery-7mo2018-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-48-ar.mp4" || { echo "  FAILED surgery-7mo2018-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-49-ar.mp4" || { echo "  FAILED surgery-7mo2018-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-50-ar.mp4" || { echo "  FAILED surgery-7mo2018-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-51-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-51-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-51-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-51-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-51-ar.mp4" || { echo "  FAILED surgery-7mo2018-51-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-52-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-52-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-52-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-52-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-52-ar.mp4" || { echo "  FAILED surgery-7mo2018-52-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-7th-Month-2018"
+if [ -s "Surgery-7th-Month-2018/surgery-7mo2018-53-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-7mo2018-53-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-7mo2018-53-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-7th-Month-2018/surgery-7mo2018-53-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-7mo2018/surgery-7mo2018-53-ar.mp4" || { echo "  FAILED surgery-7mo2018-53-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-01-ar.mp4" || { echo "  FAILED surgery-4mo2019-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-02-ar.mp4" || { echo "  FAILED surgery-4mo2019-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-03-ar.mp4" || { echo "  FAILED surgery-4mo2019-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-04-ar.mp4" || { echo "  FAILED surgery-4mo2019-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-05-ar.mp4" || { echo "  FAILED surgery-4mo2019-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-06-ar.mp4" || { echo "  FAILED surgery-4mo2019-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-07-ar.mp4" || { echo "  FAILED surgery-4mo2019-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-08-ar.mp4" || { echo "  FAILED surgery-4mo2019-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-09-ar.mp4" || { echo "  FAILED surgery-4mo2019-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-10-ar.mp4" || { echo "  FAILED surgery-4mo2019-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-11-ar.mp4" || { echo "  FAILED surgery-4mo2019-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-12-ar.mp4" || { echo "  FAILED surgery-4mo2019-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-13-ar.mp4" || { echo "  FAILED surgery-4mo2019-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-14-ar.mp4" || { echo "  FAILED surgery-4mo2019-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-15-ar.mp4" || { echo "  FAILED surgery-4mo2019-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-16-ar.mp4" || { echo "  FAILED surgery-4mo2019-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-17-ar.mp4" || { echo "  FAILED surgery-4mo2019-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-18-ar.mp4" || { echo "  FAILED surgery-4mo2019-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-19-ar.mp4" || { echo "  FAILED surgery-4mo2019-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-20-ar.mp4" || { echo "  FAILED surgery-4mo2019-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-21-ar.mp4" || { echo "  FAILED surgery-4mo2019-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-22-ar.mp4" || { echo "  FAILED surgery-4mo2019-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-23-ar.mp4" || { echo "  FAILED surgery-4mo2019-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-24-ar.mp4" || { echo "  FAILED surgery-4mo2019-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-25-ar.mp4" || { echo "  FAILED surgery-4mo2019-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-26-ar.mp4" || { echo "  FAILED surgery-4mo2019-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-27-ar.mp4" || { echo "  FAILED surgery-4mo2019-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-28-ar.mp4" || { echo "  FAILED surgery-4mo2019-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-29-ar.mp4" || { echo "  FAILED surgery-4mo2019-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-30-ar.mp4" || { echo "  FAILED surgery-4mo2019-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-31-ar.mp4" || { echo "  FAILED surgery-4mo2019-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-32-ar.mp4" || { echo "  FAILED surgery-4mo2019-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-33-ar.mp4" || { echo "  FAILED surgery-4mo2019-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-34-ar.mp4" || { echo "  FAILED surgery-4mo2019-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-35-ar.mp4" || { echo "  FAILED surgery-4mo2019-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-36-ar.mp4" || { echo "  FAILED surgery-4mo2019-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-37-ar.mp4" || { echo "  FAILED surgery-4mo2019-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-38-ar.mp4" || { echo "  FAILED surgery-4mo2019-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-39-ar.mp4" || { echo "  FAILED surgery-4mo2019-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-40-ar.mp4" || { echo "  FAILED surgery-4mo2019-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-41-ar.mp4" || { echo "  FAILED surgery-4mo2019-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-42-ar.mp4" || { echo "  FAILED surgery-4mo2019-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-43-ar.mp4" || { echo "  FAILED surgery-4mo2019-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-44-ar.mp4" || { echo "  FAILED surgery-4mo2019-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-45-ar.mp4" || { echo "  FAILED surgery-4mo2019-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-46-ar.mp4" || { echo "  FAILED surgery-4mo2019-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-47-ar.mp4" || { echo "  FAILED surgery-4mo2019-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-48-ar.mp4" || { echo "  FAILED surgery-4mo2019-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-49-ar.mp4" || { echo "  FAILED surgery-4mo2019-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-4th-Month-2019"
+if [ -s "Surgery-4th-Month-2019/surgery-4mo2019-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-4mo2019-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-4mo2019-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-4th-Month-2019/surgery-4mo2019-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-4mo2019/surgery-4mo2019-50-ar.mp4" || { echo "  FAILED surgery-4mo2019-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-01-ar.mp4" || { echo "  FAILED surgery-6mo2019-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-02-ar.mp4" || { echo "  FAILED surgery-6mo2019-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-03-ar.mp4" || { echo "  FAILED surgery-6mo2019-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-04-ar.mp4" || { echo "  FAILED surgery-6mo2019-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-05-ar.mp4" || { echo "  FAILED surgery-6mo2019-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-06-ar.mp4" || { echo "  FAILED surgery-6mo2019-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-07-ar.mp4" || { echo "  FAILED surgery-6mo2019-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-08-ar.mp4" || { echo "  FAILED surgery-6mo2019-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-09-ar.mp4" || { echo "  FAILED surgery-6mo2019-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-10-ar.mp4" || { echo "  FAILED surgery-6mo2019-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-11-ar.mp4" || { echo "  FAILED surgery-6mo2019-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-12-ar.mp4" || { echo "  FAILED surgery-6mo2019-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-13-ar.mp4" || { echo "  FAILED surgery-6mo2019-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-14-ar.mp4" || { echo "  FAILED surgery-6mo2019-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-15-ar.mp4" || { echo "  FAILED surgery-6mo2019-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-16-ar.mp4" || { echo "  FAILED surgery-6mo2019-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-17-ar.mp4" || { echo "  FAILED surgery-6mo2019-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-18-ar.mp4" || { echo "  FAILED surgery-6mo2019-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-19-ar.mp4" || { echo "  FAILED surgery-6mo2019-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-20-ar.mp4" || { echo "  FAILED surgery-6mo2019-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-21-ar.mp4" || { echo "  FAILED surgery-6mo2019-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-22-ar.mp4" || { echo "  FAILED surgery-6mo2019-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-23-ar.mp4" || { echo "  FAILED surgery-6mo2019-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-24-ar.mp4" || { echo "  FAILED surgery-6mo2019-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-25-ar.mp4" || { echo "  FAILED surgery-6mo2019-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-26-ar.mp4" || { echo "  FAILED surgery-6mo2019-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-27-ar.mp4" || { echo "  FAILED surgery-6mo2019-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-28-ar.mp4" || { echo "  FAILED surgery-6mo2019-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-30-ar.mp4" || { echo "  FAILED surgery-6mo2019-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-31-ar.mp4" || { echo "  FAILED surgery-6mo2019-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-32-ar.mp4" || { echo "  FAILED surgery-6mo2019-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-33-ar.mp4" || { echo "  FAILED surgery-6mo2019-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-34-ar.mp4" || { echo "  FAILED surgery-6mo2019-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-35-ar.mp4" || { echo "  FAILED surgery-6mo2019-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-36-ar.mp4" || { echo "  FAILED surgery-6mo2019-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-37-ar.mp4" || { echo "  FAILED surgery-6mo2019-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-38-ar.mp4" || { echo "  FAILED surgery-6mo2019-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-39-ar.mp4" || { echo "  FAILED surgery-6mo2019-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-40-ar.mp4" || { echo "  FAILED surgery-6mo2019-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-41-ar.mp4" || { echo "  FAILED surgery-6mo2019-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-42-ar.mp4" || { echo "  FAILED surgery-6mo2019-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-43-ar.mp4" || { echo "  FAILED surgery-6mo2019-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-44-ar.mp4" || { echo "  FAILED surgery-6mo2019-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-45-ar.mp4" || { echo "  FAILED surgery-6mo2019-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-46-ar.mp4" || { echo "  FAILED surgery-6mo2019-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-47-ar.mp4" || { echo "  FAILED surgery-6mo2019-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-48-ar.mp4" || { echo "  FAILED surgery-6mo2019-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-49-ar.mp4" || { echo "  FAILED surgery-6mo2019-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2019"
+if [ -s "Surgery-6th-Month-2019/surgery-6mo2019-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2019-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2019-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2019/surgery-6mo2019-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2019/surgery-6mo2019-50-ar.mp4" || { echo "  FAILED surgery-6mo2019-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-01-ar.mp4" || { echo "  FAILED surgery-10mo2019-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-02-ar.mp4" || { echo "  FAILED surgery-10mo2019-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-03-ar.mp4" || { echo "  FAILED surgery-10mo2019-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-04-ar.mp4" || { echo "  FAILED surgery-10mo2019-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-05-ar.mp4" || { echo "  FAILED surgery-10mo2019-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-06-ar.mp4" || { echo "  FAILED surgery-10mo2019-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-07-ar.mp4" || { echo "  FAILED surgery-10mo2019-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-08-ar.mp4" || { echo "  FAILED surgery-10mo2019-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-09-ar.mp4" || { echo "  FAILED surgery-10mo2019-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-10-ar.mp4" || { echo "  FAILED surgery-10mo2019-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-11-ar.mp4" || { echo "  FAILED surgery-10mo2019-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-12-ar.mp4" || { echo "  FAILED surgery-10mo2019-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-13-ar.mp4" || { echo "  FAILED surgery-10mo2019-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-14-ar.mp4" || { echo "  FAILED surgery-10mo2019-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-15-ar.mp4" || { echo "  FAILED surgery-10mo2019-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-16-ar.mp4" || { echo "  FAILED surgery-10mo2019-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-17-ar.mp4" || { echo "  FAILED surgery-10mo2019-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-18-ar.mp4" || { echo "  FAILED surgery-10mo2019-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-19-ar.mp4" || { echo "  FAILED surgery-10mo2019-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-20-ar.mp4" || { echo "  FAILED surgery-10mo2019-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-21-ar.mp4" || { echo "  FAILED surgery-10mo2019-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-22-ar.mp4" || { echo "  FAILED surgery-10mo2019-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-23-ar.mp4" || { echo "  FAILED surgery-10mo2019-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-24-ar.mp4" || { echo "  FAILED surgery-10mo2019-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-25-ar.mp4" || { echo "  FAILED surgery-10mo2019-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-26-ar.mp4" || { echo "  FAILED surgery-10mo2019-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-27-ar.mp4" || { echo "  FAILED surgery-10mo2019-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-28-ar.mp4" || { echo "  FAILED surgery-10mo2019-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-29-ar.mp4" || { echo "  FAILED surgery-10mo2019-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-30-ar.mp4" || { echo "  FAILED surgery-10mo2019-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-31-ar.mp4" || { echo "  FAILED surgery-10mo2019-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-32-ar.mp4" || { echo "  FAILED surgery-10mo2019-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-33-ar.mp4" || { echo "  FAILED surgery-10mo2019-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-34-ar.mp4" || { echo "  FAILED surgery-10mo2019-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-35-ar.mp4" || { echo "  FAILED surgery-10mo2019-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-36-ar.mp4" || { echo "  FAILED surgery-10mo2019-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-37-ar.mp4" || { echo "  FAILED surgery-10mo2019-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-38-ar.mp4" || { echo "  FAILED surgery-10mo2019-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-39-ar.mp4" || { echo "  FAILED surgery-10mo2019-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-40-ar.mp4" || { echo "  FAILED surgery-10mo2019-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-41-ar.mp4" || { echo "  FAILED surgery-10mo2019-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-42-ar.mp4" || { echo "  FAILED surgery-10mo2019-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-43-ar.mp4" || { echo "  FAILED surgery-10mo2019-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-44-ar.mp4" || { echo "  FAILED surgery-10mo2019-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-45-ar.mp4" || { echo "  FAILED surgery-10mo2019-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-46-ar.mp4" || { echo "  FAILED surgery-10mo2019-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-47-ar.mp4" || { echo "  FAILED surgery-10mo2019-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-48-ar.mp4" || { echo "  FAILED surgery-10mo2019-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-49-ar.mp4" || { echo "  FAILED surgery-10mo2019-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2019"
+if [ -s "Surgery-10th-Month-2019/surgery-10mo2019-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2019-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2019-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2019/surgery-10mo2019-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2019/surgery-10mo2019-50-ar.mp4" || { echo "  FAILED surgery-10mo2019-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-01-ar.mp4" || { echo "  FAILED surgery-12mo2019-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-02-ar.mp4" || { echo "  FAILED surgery-12mo2019-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-03-ar.mp4" || { echo "  FAILED surgery-12mo2019-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-04-ar.mp4" || { echo "  FAILED surgery-12mo2019-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-05-ar.mp4" || { echo "  FAILED surgery-12mo2019-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-06-ar.mp4" || { echo "  FAILED surgery-12mo2019-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-07-ar.mp4" || { echo "  FAILED surgery-12mo2019-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-08-ar.mp4" || { echo "  FAILED surgery-12mo2019-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-09-ar.mp4" || { echo "  FAILED surgery-12mo2019-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-10-ar.mp4" || { echo "  FAILED surgery-12mo2019-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-11-ar.mp4" || { echo "  FAILED surgery-12mo2019-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-12-ar.mp4" || { echo "  FAILED surgery-12mo2019-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-13-ar.mp4" || { echo "  FAILED surgery-12mo2019-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-14-ar.mp4" || { echo "  FAILED surgery-12mo2019-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-15-ar.mp4" || { echo "  FAILED surgery-12mo2019-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-16-ar.mp4" || { echo "  FAILED surgery-12mo2019-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-17-ar.mp4" || { echo "  FAILED surgery-12mo2019-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-18-ar.mp4" || { echo "  FAILED surgery-12mo2019-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-19-ar.mp4" || { echo "  FAILED surgery-12mo2019-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-20-ar.mp4" || { echo "  FAILED surgery-12mo2019-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-21-ar.mp4" || { echo "  FAILED surgery-12mo2019-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-22-ar.mp4" || { echo "  FAILED surgery-12mo2019-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-23-ar.mp4" || { echo "  FAILED surgery-12mo2019-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-24-ar.mp4" || { echo "  FAILED surgery-12mo2019-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-25-ar.mp4" || { echo "  FAILED surgery-12mo2019-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2019"
+if [ -s "Surgery-12th-Month-2019/surgery-12mo2019-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2019-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2019-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2019/surgery-12mo2019-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2019/surgery-12mo2019-26-ar.mp4" || { echo "  FAILED surgery-12mo2019-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-01-ar.mp4" || { echo "  FAILED surgery-6mo2020-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-02-ar.mp4" || { echo "  FAILED surgery-6mo2020-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-03-ar.mp4" || { echo "  FAILED surgery-6mo2020-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-04-ar.mp4" || { echo "  FAILED surgery-6mo2020-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-05-ar.mp4" || { echo "  FAILED surgery-6mo2020-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-06-ar.mp4" || { echo "  FAILED surgery-6mo2020-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-07-ar.mp4" || { echo "  FAILED surgery-6mo2020-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-08-ar.mp4" || { echo "  FAILED surgery-6mo2020-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-09-ar.mp4" || { echo "  FAILED surgery-6mo2020-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-10-ar.mp4" || { echo "  FAILED surgery-6mo2020-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-11-ar.mp4" || { echo "  FAILED surgery-6mo2020-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-12-ar.mp4" || { echo "  FAILED surgery-6mo2020-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-13-ar.mp4" || { echo "  FAILED surgery-6mo2020-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-14-ar.mp4" || { echo "  FAILED surgery-6mo2020-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-15-ar.mp4" || { echo "  FAILED surgery-6mo2020-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-16-ar.mp4" || { echo "  FAILED surgery-6mo2020-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-17-ar.mp4" || { echo "  FAILED surgery-6mo2020-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-18-ar.mp4" || { echo "  FAILED surgery-6mo2020-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-20-ar.mp4" || { echo "  FAILED surgery-6mo2020-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-21-ar.mp4" || { echo "  FAILED surgery-6mo2020-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-22-ar.mp4" || { echo "  FAILED surgery-6mo2020-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-23-ar.mp4" || { echo "  FAILED surgery-6mo2020-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-24-ar.mp4" || { echo "  FAILED surgery-6mo2020-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-25-ar.mp4" || { echo "  FAILED surgery-6mo2020-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-26-ar.mp4" || { echo "  FAILED surgery-6mo2020-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-27-ar.mp4" || { echo "  FAILED surgery-6mo2020-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-28-ar.mp4" || { echo "  FAILED surgery-6mo2020-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-29-ar.mp4" || { echo "  FAILED surgery-6mo2020-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-30-ar.mp4" || { echo "  FAILED surgery-6mo2020-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-31-ar.mp4" || { echo "  FAILED surgery-6mo2020-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-32-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-32-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-32-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-32-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-32-ar.mp4" || { echo "  FAILED surgery-6mo2020-32-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-33-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-33-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-33-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-33-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-33-ar.mp4" || { echo "  FAILED surgery-6mo2020-33-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-34-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-34-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-34-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-34-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-34-ar.mp4" || { echo "  FAILED surgery-6mo2020-34-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-35-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-35-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-35-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-35-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-35-ar.mp4" || { echo "  FAILED surgery-6mo2020-35-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-36-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-36-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-36-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-36-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-36-ar.mp4" || { echo "  FAILED surgery-6mo2020-36-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-37-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-37-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-37-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-37-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-37-ar.mp4" || { echo "  FAILED surgery-6mo2020-37-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-38-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-38-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-38-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-38-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-38-ar.mp4" || { echo "  FAILED surgery-6mo2020-38-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-39-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-39-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-39-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-39-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-39-ar.mp4" || { echo "  FAILED surgery-6mo2020-39-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-40-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-40-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-40-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-40-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-40-ar.mp4" || { echo "  FAILED surgery-6mo2020-40-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-41-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-41-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-41-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-41-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-41-ar.mp4" || { echo "  FAILED surgery-6mo2020-41-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-42-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-42-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-42-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-42-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-42-ar.mp4" || { echo "  FAILED surgery-6mo2020-42-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-43-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-43-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-43-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-43-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-43-ar.mp4" || { echo "  FAILED surgery-6mo2020-43-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-44-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-44-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-44-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-44-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-44-ar.mp4" || { echo "  FAILED surgery-6mo2020-44-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-45-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-45-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-45-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-45-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-45-ar.mp4" || { echo "  FAILED surgery-6mo2020-45-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-46-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-46-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-46-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-46-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-46-ar.mp4" || { echo "  FAILED surgery-6mo2020-46-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-47-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-47-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-47-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-47-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-47-ar.mp4" || { echo "  FAILED surgery-6mo2020-47-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-48-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-48-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-48-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-48-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-48-ar.mp4" || { echo "  FAILED surgery-6mo2020-48-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-49-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-49-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-49-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-49-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-49-ar.mp4" || { echo "  FAILED surgery-6mo2020-49-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-50-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-50-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-50-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-50-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-50-ar.mp4" || { echo "  FAILED surgery-6mo2020-50-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-51-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-51-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-51-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-51-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-51-ar.mp4" || { echo "  FAILED surgery-6mo2020-51-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-52-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-52-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-52-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-52-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-52-ar.mp4" || { echo "  FAILED surgery-6mo2020-52-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-53-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-53-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-53-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-53-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-53-ar.mp4" || { echo "  FAILED surgery-6mo2020-53-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-54-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-54-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-54-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-54-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-54-ar.mp4" || { echo "  FAILED surgery-6mo2020-54-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-55-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-55-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-55-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-55-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-55-ar.mp4" || { echo "  FAILED surgery-6mo2020-55-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-56-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-56-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-56-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-56-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-56-ar.mp4" || { echo "  FAILED surgery-6mo2020-56-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-57-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-57-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-57-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-57-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-57-ar.mp4" || { echo "  FAILED surgery-6mo2020-57-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-58-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-58-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-58-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-58-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-58-ar.mp4" || { echo "  FAILED surgery-6mo2020-58-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-59-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-59-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-59-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-59-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-59-ar.mp4" || { echo "  FAILED surgery-6mo2020-59-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2020"
+if [ -s "Surgery-6th-Month-2020/surgery-6mo2020-60-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2020-60-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2020-60-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2020/surgery-6mo2020-60-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2020/surgery-6mo2020-60-ar.mp4" || { echo "  FAILED surgery-6mo2020-60-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-01-ar.mp4" || { echo "  FAILED surgery-12mo2020-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-02-ar.mp4" || { echo "  FAILED surgery-12mo2020-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-03-ar.mp4" || { echo "  FAILED surgery-12mo2020-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-04-ar.mp4" || { echo "  FAILED surgery-12mo2020-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-05-ar.mp4" || { echo "  FAILED surgery-12mo2020-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-06-ar.mp4" || { echo "  FAILED surgery-12mo2020-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-07-ar.mp4" || { echo "  FAILED surgery-12mo2020-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-08-ar.mp4" || { echo "  FAILED surgery-12mo2020-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-09-ar.mp4" || { echo "  FAILED surgery-12mo2020-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-10-ar.mp4" || { echo "  FAILED surgery-12mo2020-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-11-ar.mp4" || { echo "  FAILED surgery-12mo2020-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-13-ar.mp4" || { echo "  FAILED surgery-12mo2020-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-14-ar.mp4" || { echo "  FAILED surgery-12mo2020-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-15-ar.mp4" || { echo "  FAILED surgery-12mo2020-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-16-ar.mp4" || { echo "  FAILED surgery-12mo2020-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-17-ar.mp4" || { echo "  FAILED surgery-12mo2020-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-18-ar.mp4" || { echo "  FAILED surgery-12mo2020-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-19-ar.mp4" || { echo "  FAILED surgery-12mo2020-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-20-ar.mp4" || { echo "  FAILED surgery-12mo2020-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-21-ar.mp4" || { echo "  FAILED surgery-12mo2020-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-22-ar.mp4" || { echo "  FAILED surgery-12mo2020-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-23-ar.mp4" || { echo "  FAILED surgery-12mo2020-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-24-ar.mp4" || { echo "  FAILED surgery-12mo2020-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-25-ar.mp4" || { echo "  FAILED surgery-12mo2020-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-26-ar.mp4" || { echo "  FAILED surgery-12mo2020-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-27-ar.mp4" || { echo "  FAILED surgery-12mo2020-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-28-ar.mp4" || { echo "  FAILED surgery-12mo2020-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-29-ar.mp4" || { echo "  FAILED surgery-12mo2020-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2020"
+if [ -s "Surgery-12th-Month-2020/surgery-12mo2020-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2020-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2020-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2020/surgery-12mo2020-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2020/surgery-12mo2020-30-ar.mp4" || { echo "  FAILED surgery-12mo2020-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-01-ar.mp4" || { echo "  FAILED surgery-6mo2021-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-02-ar.mp4" || { echo "  FAILED surgery-6mo2021-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-03-ar.mp4" || { echo "  FAILED surgery-6mo2021-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-04-ar.mp4" || { echo "  FAILED surgery-6mo2021-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-05-ar.mp4" || { echo "  FAILED surgery-6mo2021-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-06-ar.mp4" || { echo "  FAILED surgery-6mo2021-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-07-ar.mp4" || { echo "  FAILED surgery-6mo2021-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-08-ar.mp4" || { echo "  FAILED surgery-6mo2021-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-09-ar.mp4" || { echo "  FAILED surgery-6mo2021-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-10-ar.mp4" || { echo "  FAILED surgery-6mo2021-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-11-ar.mp4" || { echo "  FAILED surgery-6mo2021-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-12-ar.mp4" || { echo "  FAILED surgery-6mo2021-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-13-ar.mp4" || { echo "  FAILED surgery-6mo2021-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-14-ar.mp4" || { echo "  FAILED surgery-6mo2021-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-15-ar.mp4" || { echo "  FAILED surgery-6mo2021-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-16-ar.mp4" || { echo "  FAILED surgery-6mo2021-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-17-ar.mp4" || { echo "  FAILED surgery-6mo2021-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-18-ar.mp4" || { echo "  FAILED surgery-6mo2021-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-19-ar.mp4" || { echo "  FAILED surgery-6mo2021-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-20-ar.mp4" || { echo "  FAILED surgery-6mo2021-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-21-ar.mp4" || { echo "  FAILED surgery-6mo2021-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-22-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-22-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-22-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-22-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-22-ar.mp4" || { echo "  FAILED surgery-6mo2021-22-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-23-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-23-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-23-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-23-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-23-ar.mp4" || { echo "  FAILED surgery-6mo2021-23-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-24-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-24-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-24-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-24-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-24-ar.mp4" || { echo "  FAILED surgery-6mo2021-24-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-25-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-25-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-25-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-25-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-25-ar.mp4" || { echo "  FAILED surgery-6mo2021-25-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-26-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-26-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-26-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-26-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-26-ar.mp4" || { echo "  FAILED surgery-6mo2021-26-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-27-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-27-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-27-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-27-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-27-ar.mp4" || { echo "  FAILED surgery-6mo2021-27-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-28-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-28-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-28-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-28-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-28-ar.mp4" || { echo "  FAILED surgery-6mo2021-28-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-29-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-29-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-29-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-29-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-29-ar.mp4" || { echo "  FAILED surgery-6mo2021-29-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-30-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-30-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-30-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-30-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-30-ar.mp4" || { echo "  FAILED surgery-6mo2021-30-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-6th-Month-2021"
+if [ -s "Surgery-6th-Month-2021/surgery-6mo2021-31-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-6mo2021-31-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-6mo2021-31-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-6th-Month-2021/surgery-6mo2021-31-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-6mo2021/surgery-6mo2021-31-ar.mp4" || { echo "  FAILED surgery-6mo2021-31-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-01-ar.mp4" || { echo "  FAILED surgery-10mo2021-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-02-ar.mp4" || { echo "  FAILED surgery-10mo2021-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-03-ar.mp4" || { echo "  FAILED surgery-10mo2021-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-04-ar.mp4" || { echo "  FAILED surgery-10mo2021-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-05-ar.mp4" || { echo "  FAILED surgery-10mo2021-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-06-ar.mp4" || { echo "  FAILED surgery-10mo2021-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-07-ar.mp4" || { echo "  FAILED surgery-10mo2021-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-08-ar.mp4" || { echo "  FAILED surgery-10mo2021-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-09-ar.mp4" || { echo "  FAILED surgery-10mo2021-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-10-ar.mp4" || { echo "  FAILED surgery-10mo2021-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-11-ar.mp4" || { echo "  FAILED surgery-10mo2021-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-12-ar.mp4" || { echo "  FAILED surgery-10mo2021-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-13-ar.mp4" || { echo "  FAILED surgery-10mo2021-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-14-ar.mp4" || { echo "  FAILED surgery-10mo2021-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-15-ar.mp4" || { echo "  FAILED surgery-10mo2021-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-16-ar.mp4" || { echo "  FAILED surgery-10mo2021-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-17-ar.mp4" || { echo "  FAILED surgery-10mo2021-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-18-ar.mp4" || { echo "  FAILED surgery-10mo2021-18-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-19-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-19-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-19-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-19-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-19-ar.mp4" || { echo "  FAILED surgery-10mo2021-19-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-20-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-20-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-20-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-20-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-20-ar.mp4" || { echo "  FAILED surgery-10mo2021-20-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-10th-Month-2021"
+if [ -s "Surgery-10th-Month-2021/surgery-10mo2021-21-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-10mo2021-21-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-10mo2021-21-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-10th-Month-2021/surgery-10mo2021-21-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-10mo2021/surgery-10mo2021-21-ar.mp4" || { echo "  FAILED surgery-10mo2021-21-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-01-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-01-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-01-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-01-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-01-ar.mp4" || { echo "  FAILED surgery-12mo2021-01-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-02-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-02-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-02-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-02-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-02-ar.mp4" || { echo "  FAILED surgery-12mo2021-02-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-03-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-03-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-03-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-03-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-03-ar.mp4" || { echo "  FAILED surgery-12mo2021-03-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-04-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-04-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-04-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-04-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-04-ar.mp4" || { echo "  FAILED surgery-12mo2021-04-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-05-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-05-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-05-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-05-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-05-ar.mp4" || { echo "  FAILED surgery-12mo2021-05-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-06-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-06-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-06-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-06-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-06-ar.mp4" || { echo "  FAILED surgery-12mo2021-06-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-07-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-07-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-07-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-07-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-07-ar.mp4" || { echo "  FAILED surgery-12mo2021-07-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-08-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-08-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-08-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-08-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-08-ar.mp4" || { echo "  FAILED surgery-12mo2021-08-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-09-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-09-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-09-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-09-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-09-ar.mp4" || { echo "  FAILED surgery-12mo2021-09-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-10-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-10-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-10-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-10-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-10-ar.mp4" || { echo "  FAILED surgery-12mo2021-10-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-11-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-11-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-11-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-11-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-11-ar.mp4" || { echo "  FAILED surgery-12mo2021-11-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-12-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-12-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-12-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-12-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-12-ar.mp4" || { echo "  FAILED surgery-12mo2021-12-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-13-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-13-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-13-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-13-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-13-ar.mp4" || { echo "  FAILED surgery-12mo2021-13-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-14-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-14-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-14-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-14-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-14-ar.mp4" || { echo "  FAILED surgery-12mo2021-14-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-15-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-15-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-15-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-15-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-15-ar.mp4" || { echo "  FAILED surgery-12mo2021-15-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-16-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-16-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-16-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-16-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-16-ar.mp4" || { echo "  FAILED surgery-12mo2021-16-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-17-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-17-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-17-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-17-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-17-ar.mp4" || { echo "  FAILED surgery-12mo2021-17-ar.mp4"; fail=$((fail+1)); }
+fi
+i=$((i+1)); mkdir -p "Surgery-12th-Month-2021"
+if [ -s "Surgery-12th-Month-2021/surgery-12mo2021-18-ar.mp4" ]; then echo "[$i/$TOTAL] have surgery-12mo2021-18-ar.mp4"; else
+  echo "[$i/$TOTAL] surgery-12mo2021-18-ar.mp4"
+  curl -fL -C - --retry 5 --retry-delay 3 -o "Surgery-12th-Month-2021/surgery-12mo2021-18-ar.mp4" "https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-/releases/download/videos-12mo2021/surgery-12mo2021-18-ar.mp4" || { echo "  FAILED surgery-12mo2021-18-ar.mp4"; fail=$((fail+1)); }
+fi
+
+echo ""
+echo "Done. $((TOTAL-fail))/$TOTAL downloaded."
+if [ "$fail" -gt 0 ]; then echo "$fail failed - just run this again to retry them."; fi
+read -n 1 -s -r -p "Press any key to close."
