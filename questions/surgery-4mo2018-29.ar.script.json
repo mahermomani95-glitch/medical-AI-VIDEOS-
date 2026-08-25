@@ -75,28 +75,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urine Na 5 meq/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement. الخيار B، BUN/cr ratio 35: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement. الخيار C، Fe Na = 0.3%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement. الخيار E، Urine specific gravity = 1.050: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urine Na 5 meq/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium (5), elevated BUN/Cr ratio (35), low FeNa (0.3%), and elevated specific gravity (1.050) are all consistent with prerenal failure (A, B, C, E true). الخيار B، BUN/cr ratio 35: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium (5), elevated BUN/Cr ratio (35), low FeNa (0.3%), and elevated specific gravity (1.050) are all consistent with prerenal failure (A, B, C, E true). الخيار C، Fe Na = 0.3%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium (5), elevated BUN/Cr ratio (35), low FeNa (0.3%), and elevated specific gravity (1.050) are all consistent with prerenal failure (A, B, C, E true). الخيار E، Urine specific gravity = 1.050: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Urine Na 5 meq/L",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium (5), elevated BUN/Cr ratio (35), low FeNa (0.3%), and elevated specific gravity (1.050) are all consistent with prerenal failure…"
         },
         {
           "letter": "B",
           "text": "BUN/cr ratio 35",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium (5), elevated BUN/Cr ratio (35), low FeNa (0.3%), and elevated specific gravity (1.050) are all consistent with prerenal failure…"
         },
         {
           "letter": "C",
           "text": "Fe Na = 0.3%",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium (5), elevated BUN/Cr ratio (35), low FeNa (0.3%), and elevated specific gravity (1.050) are all consistent with prerenal failure…"
         },
         {
           "letter": "D",

@@ -75,14 +75,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a malignant lesions with an incidence of approximately 2-3%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40. يصبح صحيحًا في سؤال يستهدف It is a malignant lesions with an incidence of approximately 2-3% تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Mammography is the most definitive test for diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40. يصبح صحيحًا في سؤال يصف FNAB, not mammography, is the most definitive diagnostic test (C is false). الخيار D، Mastectomy is the treatment of choice: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mastectomy) is the typical treatment (D is false). يصبح صحيحًا في سؤال يصف ductal excision (. الخيار E، it is mostly undetectable on ultrasound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40. يصبح صحيحًا في سؤال يستهدف it is mostly undetectable on ultrasound تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a malignant lesions with an incidence of approximately 2-3%: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 2-3% incidence (A is false). يصبح صحيحًا في سؤال يصف It's actually rare (only about 1%). الخيار C، Mammography is the most definitive test for diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40. يصبح صحيحًا في سؤال يصف FNAB, not mammography, is the most definitive diagnostic test (C is false). الخيار D، Mastectomy is the treatment of choice: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mastectomy) is the typical treatment (D is false). يصبح صحيحًا في سؤال يصف ductal excision (. الخيار E، it is mostly undetectable on ultrasound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40. يصبح صحيحًا في سؤال يستهدف it is mostly undetectable on ultrasound تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
       "verdicts": [
         {
           "letter": "A",
           "text": "It is a malignant lesions with an incidence of approximately 2-3%",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف It is a malignant lesions with an incidence of approximately 2-3% تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 2-3% incidence (A is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف It's actually rare (only about 1%)."
         },
         {
           "letter": "B",

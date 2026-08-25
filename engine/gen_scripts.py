@@ -121,8 +121,14 @@ def split_bullet_clauses(bullet):
 
 
 def choice_keywords(text):
-    """Content words from a choice, used to match it to a bullet clause."""
-    words = re.findall(r"[A-Za-z][A-Za-z\-']{2,}", text or "")
+    """Content tokens from a choice, used to match it to a bullet clause.
+
+    Includes numeric/percentage tokens, not just words: plenty of questions
+    have purely numeric choices ("30%", "0.8%", "2 cm"), and a word-only
+    keyword set finds nothing to match on for those.
+    """
+    text = text or ""
+    words = re.findall(r"[A-Za-z][A-Za-z\-']{2,}", text)
     stop = {
         "the", "and", "then", "with", "for", "are", "was", "were", "this",
         "that", "than", "more", "most", "less", "common", "seen", "from",
@@ -130,7 +136,11 @@ def choice_keywords(text):
         "has", "have", "been", "will", "would", "should", "there", "these",
         "which", "what", "when", "where", "who", "whom", "does", "did",
     }
-    return [w.lower() for w in words if w.lower() not in stop]
+    kws = [w.lower() for w in words if w.lower() not in stop]
+    # Numbers, percentages and measurements are identity-bearing for
+    # numeric-answer questions.
+    kws += [m.group(0).lower() for m in re.finditer(r"\d+(?:\.\d+)?\s*%?", text)]
+    return [k.strip() for k in kws if k.strip()]
 
 
 # Source bullets sometimes contain editorial meta-commentary about the
@@ -161,8 +171,12 @@ def find_clause_for_choice(choice, bullets):
                 continue
             low = clause.lower()
             lettered = False
-            for m in re.finditer(r"\(([A-E](?:\s*,\s*[A-E])*)\)", clause):
-                if letter in [x.strip() for x in m.group(1).split(",")]:
+            # Letter groups appear both as bare "(C, D, E)" and annotated
+            # "(C, D, E — byssinosis, pneumoconiosis, silicosis)", so match a
+            # leading run of letters and ignore any trailing gloss.
+            for m in re.finditer(r"\(\s*([A-E](?:\s*(?:,|and|&)\s*[A-E])*)\s*(?:[—\-–:,]|\))", clause):
+                group = re.split(r"\s*(?:,|and|&)\s*", m.group(1))
+                if letter in [x.strip() for x in group]:
                     lettered = True
             kw_hits = sum(1 for kw in set(kws) if kw in low)
             # Demand topical evidence: either this choice is named by letter,
@@ -178,9 +192,20 @@ def find_clause_for_choice(choice, bullets):
 
 
 def strip_letter_refs(s):
-    """Remove '(A)', '(A, B)' style references -- they refer to THIS
-    question's lettering and would be confusing in an 'elsewhere' note."""
-    s = re.sub(r"\s*\([A-E](?:\s*,\s*[A-E])*\)", "", s)
+    """Remove this question's own option letters from derived text.
+
+    Letters refer to THIS question's lettering, so leaving them in an
+    "elsewhere" note (which describes a *different* hypothetical question)
+    is actively confusing. Handles both bare groups "(A, B)" and annotated
+    ones "(C, D, E — byssinosis, silicosis)", keeping the gloss and dropping
+    only the letters.
+    """
+    # Annotated group: keep the explanatory tail, drop the letters.
+    s = re.sub(
+        r"\(\s*[A-E](?:\s*(?:,|and|&)\s*[A-E])*\s*[—\-–:]\s*([^)]*)\)",
+        r"(\1)", s)
+    # Bare group: drop entirely.
+    s = re.sub(r"\s*\(\s*[A-E](?:\s*(?:,|and|&)\s*[A-E])*\s*\)", "", s)
     return clean(s)
 
 

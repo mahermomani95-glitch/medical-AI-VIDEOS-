@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cephalosporins (Cefixime): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones. الخيار B، Clindamycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole. يصبح صحيحًا في سؤال يستهدف Clindamycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Penicillins: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones. الخيار E، Fluoroquinolones (Ciprofloxacin): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cephalosporins (Cefixime): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones. الخيار B، Clindamycin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones. الخيار C، Penicillins: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones. الخيار E، Fluoroquinolones (Ciprofloxacin): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones.",
       "verdicts": [
         {
           "letter": "A",
@@ -88,8 +88,8 @@
           "letter": "B",
           "text": "Clindamycin",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Clindamycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones."
         },
         {
           "letter": "C",

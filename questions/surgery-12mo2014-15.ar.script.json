@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Non-functioning gallbladder: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own. يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all recognized surgical indications, unlike a small (0.5cm) asymptomatic cholesterol stone, which typically. الخيار B، Porcelain gallbladder: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own. يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all recognized surgical indications, unlike a small (0.5cm) asymptomatic cholesterol stone, which typically. الخيار C، Emphysematous gallblader: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol stones that are 0.5 cm. يصبح صحيحًا في سؤال يستهدف Emphysematous gallblader تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Gallstones ≥ 3 cm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol stones that are 0.5 cm. يصبح صحيحًا في سؤال يستهدف Gallstones ≥ 3 cm تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Non-functioning gallbladder: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own. يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all recognized surgical indications, unlike a small (0.5cm) asymptomatic cholesterol stone, which typically. الخيار B، Porcelain gallbladder: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own. يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all recognized surgical indications, unlike a small (0.5cm) asymptomatic cholesterol stone, which typically. الخيار C، Emphysematous gallblader: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own. يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all recognized surgical indications, unlike a small (0.5cm) asymptomatic cholesterol stone, which typically. الخيار E، Gallstones ≥ 3 cm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol stones that are 0.5 cm. يصبح صحيحًا في سؤال يستهدف Gallstones ≥ 3 cm تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
       "verdicts": [
         {
           "letter": "A",
@@ -95,8 +95,8 @@
           "letter": "C",
           "text": "Emphysematous gallblader",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol stones that are 0.5 cm.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Emphysematous gallblader تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all…"
         },
         {
           "letter": "D",

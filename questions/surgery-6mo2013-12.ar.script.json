@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tuberculosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (C, D, E — byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker or different cancer associations — asbestos exposure specifically carries the strongest, best-documented link to lung cancer (and mesothelioma) among these. الخيار C، Byssinosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يستهدف Byssinosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Pneumoconiosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يستهدف Pneumoconiosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Silicosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يستهدف Silicosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tuberculosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker or different cancer associations — asbestos exposure specifically carries the strongest, best-documented link to lung cancer (and mesothelioma) among these. الخيار C، Byssinosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker or different cancer associations — asbestos exposure specifically carries the strongest, best-documented link to lung cancer (and mesothelioma) among these. الخيار D، Pneumoconiosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker or different cancer associations — asbestos exposure specifically carries the strongest, best-documented link to lung cancer (and mesothelioma) among these. الخيار E، Silicosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker or different cancer associations — asbestos exposure specifically carries the strongest, best-documented link to lung cancer (and mesothelioma) among these.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Tuberculosis",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (C, D, E — byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker…"
         },
         {
           "letter": "B",
@@ -99,21 +99,21 @@
           "text": "Byssinosis",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Byssinosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker…"
         },
         {
           "letter": "D",
           "text": "Pneumoconiosis",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Pneumoconiosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker…"
         },
         {
           "letter": "E",
           "text": "Silicosis",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Silicosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker…"
         }
       ]
     },

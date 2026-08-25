@@ -75,14 +75,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Propranolol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يستهدف Propranolol تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Hydralazine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يصف hydralazine and enalapril don't address the underlying catecholamine excess mechanism directly. الخيار D، Enalapril: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يصف hydralazine and enalapril don't address the underlying catecholamine excess mechanism directly. الخيار E، Lowsartane: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا first-line — phenoxybenzamine (alpha-blockade) must always be given FIRST in pheochromocytoma management, before any beta-blocker. يصبح صحيحًا في سؤال يصف losartan is an ARB.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Propranolol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يصف Propranolol (A, a beta-blocker) given before alpha-blockade risks unopposed alpha stimulation and a dangerous hypertensive crisis. الخيار C، Hydralazine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يصف hydralazine and enalapril don't address the underlying catecholamine excess mechanism directly. الخيار D، Enalapril: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يصف hydralazine and enalapril don't address the underlying catecholamine excess mechanism directly. الخيار E، Lowsartane: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا first-line — phenoxybenzamine (alpha-blockade) must always be given FIRST in pheochromocytoma management, before any beta-blocker. يصبح صحيحًا في سؤال يصف losartan is an ARB.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Propranolol",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Propranolol تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Propranolol (A, a beta-blocker) given before alpha-blockade risks unopposed alpha stimulation and a dangerous hypertensive crisis."
         },
         {
           "letter": "B",
