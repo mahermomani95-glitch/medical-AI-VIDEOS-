@@ -12,21 +12,32 @@ export const TOKENS = {
   white: "#FFFFFF",
 };
 
-export const FONT_FACES = `
+// The font URL must be resolved by the CALLER against the fonts directory's
+// real location, not written relative to wherever the scene HTML happens to
+// be emitted. A hardcoded "../assets/fonts/..." silently broke when scene
+// output moved from engine/out-ar/ to a scratch directory at the repo root:
+// every render then fell back to a generic sans, losing the designed
+// typography with no error anywhere.
+export function fontFaces(fontsBaseUrl) {
+  return `
 @font-face {
   font-family: "Anton";
-  src: url("../assets/fonts/Anton-Regular.ttf") format("truetype");
+  src: url("${fontsBaseUrl}/Anton-Regular.ttf") format("truetype");
   font-weight: 400;
 }
 @font-face {
   font-family: "Cairo";
-  src: url("../assets/fonts/Cairo-Variable.ttf") format("truetype-variations");
+  src: url("${fontsBaseUrl}/Cairo-Variable.ttf") format("truetype-variations");
   font-weight: 200 900;
 }
 `;
+}
 
-export const BASE_STYLE_AR = `
-${FONT_FACES}
+export function baseStyleAr(fontsBaseUrl) {
+  return fontFaces(fontsBaseUrl) + STYLE_BODY;
+}
+
+const STYLE_BODY = `
 :root{
   --bg:${TOKENS.bg}; --pink:${TOKENS.pink}; --cyan:${TOKENS.cyan};
   --gold:${TOKENS.gold}; --ink:${TOKENS.ink}; --white:${TOKENS.white};

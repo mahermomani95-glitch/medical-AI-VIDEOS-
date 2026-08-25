@@ -43,7 +43,7 @@
       "illustration": {
         "type": "body",
         "region": "abdomen",
-        "label": "The risk of cancer related to disease "
+        "label": "The risk of cancer related to disease duration"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بالتهاب القولون التقرحي وسرطان القولون؟ أمامك هذه الخيارات: The risk of cancer unrelated to the extent of inflammation، أو The malignancy typically develops in a polyp، أو The risk of cancer related to disease duration، أو Random endoscopy and biopsies ineffective، أو CEA level are useful Guid_ when to perform a colonoscopy. لنحللها معًا."
     },
@@ -65,11 +65,11 @@
       "id": "CONCEPT",
       "visual": "mechanism_card",
       "heading_ar": "الفكرة الطبية",
-      "caption": "The risk of cancer related to disease ",
+      "caption": "The risk of cancer related to disease duration",
       "illustration": {
         "type": "body",
         "region": "abdomen",
-        "label": "The risk of cancer related to disease "
+        "label": "The risk of cancer related to disease duration"
       },
       "card_text": "خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية. حرف D المزدوج يربط خطر السرطنة بمدة المرض التراكمية."
@@ -132,7 +132,7 @@
       "illustration": {
         "type": "body",
         "region": "abdomen",
-        "label": "The risk of cancer related to disease "
+        "label": "The risk of cancer related to disease duration"
       },
       "pills": [
         "UC cancer risk: Determined by Duration"

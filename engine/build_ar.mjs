@@ -11,13 +11,18 @@
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { BASE_STYLE_AR, trophySvg } from "./style-ar.mjs";
+import { pathToFileURL } from "node:url";
+import { baseStyleAr, trophySvg } from "./style-ar.mjs";
 import { illustrationSvg } from "./visuals-ar.mjs";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const [, , scriptPathArg, outDirArg] = process.argv;
 if (!scriptPathArg) { console.error("Usage: node build_ar.mjs <script.ar.script.json> <outDir>"); process.exit(1); }
 const outDir = outDirArg || join(__dirname, "out-ar");
+// Absolute file:// URL to the bundled fonts, so scene HTML renders with the
+// designed typefaces no matter which directory it is written into.
+const FONTS_URL = pathToFileURL(join(__dirname, "assets", "fonts")).href;
+const BASE_STYLE_AR = baseStyleAr(FONTS_URL);
 mkdirSync(outDir, { recursive: true });
 
 const data = JSON.parse(readFileSync(scriptPathArg, "utf-8"));

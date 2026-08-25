@@ -140,11 +140,21 @@ const BODY_SHAPES = {
 };
 export function bodyRegionSvg(region = "generic", label = "") {
   const shape = BODY_SHAPES[region] || BODY_SHAPES.generic;
+  // SVG text neither wraps nor clips, so a long label used to run straight
+  // out of its plaque and off the edge of the frame. Wrap to at most two
+  // lines and grow the plaque to fit.
+  const lines = wrapWords(label, 30).slice(0, 2);
+  const lineH = 24;
+  const boxH = 16 + lines.length * lineH;
+  const boxY = 400 - boxH;
+  const tspans = lines
+    .map((l, i) => `<tspan x="280" dy="${i === 0 ? 0 : lineH}">${esc(l)}</tspan>`)
+    .join("");
   return `<svg viewBox="0 0 560 420" xmlns="http://www.w3.org/2000/svg">
     ${shape}
     <circle cx="280" cy="230" r="18" fill="#FF6B6B" stroke="#111" stroke-width="3"/>
-    ${label ? `<rect x="130" y="360" width="300" height="40" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
-    <text x="150" y="386" font-family="Cairo, Arial" font-weight="700" font-size="19" fill="#111">${esc(label)}</text>` : ""}
+    ${lines.length ? `<rect x="40" y="${boxY}" width="480" height="${boxH}" rx="10" fill="#fff" stroke="#111" stroke-width="2.5"/>
+    <text text-anchor="middle" font-family="Cairo, Arial" font-weight="700" font-size="17" fill="#111" y="${boxY + 24}">${tspans}</text>` : ""}
   </svg>`;
 }
 

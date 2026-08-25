@@ -536,7 +536,9 @@ def build_script(course, q, course_index, total_in_course):
 
     summary_ar = conn_ar or purpose
 
-    label_en = clean(q.get("correct_text") or stem_en)[:38]
+    # cap() trims on a word boundary; a bare slice cut mid-word and left
+    # labels reading like "…diverticulum sho".
+    label_en = cap(clean(q.get("correct_text") or stem_en), 52)
     illo = build_illustration(q, label_en)
 
     scenes = [

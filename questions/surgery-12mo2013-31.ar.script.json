@@ -43,7 +43,7 @@
       "illustration": {
         "type": "body",
         "region": "head",
-        "label": "Patient with Glasgow coma score less t"
+        "label": "Patient with Glasgow coma score less than 8 are…"
       },
       "narration": "لنبدأ بهذا السؤال. في علاج إصابة الرأس، يكون أحد الأمور التالية صحيحًا؟ أمامك هذه الخيارات: Steroids are regularly used، أو Patient with Glasgow coma score less than 8 are usually intubated and ventilated، أو Antibiotics are routinely used، أو Pyrexia is nearly always due to severe infection، أو Severe fluid restriction is necessary. لنحللها معًا."
     },
@@ -65,11 +65,11 @@
       "id": "CONCEPT",
       "visual": "mechanism_card",
       "heading_ar": "الفكرة الطبية",
-      "caption": "Patient with Glasgow coma score less t",
+      "caption": "Patient with Glasgow coma score less than 8 are…",
       "illustration": {
         "type": "body",
         "region": "head",
-        "label": "Patient with Glasgow coma score less t"
+        "label": "Patient with Glasgow coma score less than 8 are…"
       },
       "card_text": "غلاسكو أقل من 8 هو العتبة القياسية لتنبيب مريض إصابة الرأس.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. غلاسكو أقل من 8 هو العتبة القياسية لتنبيب مريض إصابة الرأس. حرف G يذكرك بالرقم الدقيق (8) لهذه العتبة القياسية."
@@ -132,7 +132,7 @@
       "illustration": {
         "type": "body",
         "region": "head",
-        "label": "Patient with Glasgow coma score less t"
+        "label": "Patient with Glasgow coma score less than 8 are…"
       },
       "pills": [
         "Head injury: GCS below Eight needs intubation"
