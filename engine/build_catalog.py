@@ -19,6 +19,31 @@ from pathlib import Path
 
 REPO = "mahermomani95-glitch/medical-AI-VIDEOS-"
 
+WEBFONTS = ("""<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700"""
+            """&family=Source+Sans+3:wght@400;600&family=Cairo:wght@400;600;700"""
+            """&family=IBM+Plex+Mono:wght@500&display=swap">""")
+# The offline copy must not reach for a font CDN: with no connection the
+# request stalls and delays first paint for no benefit. The stylesheet's
+# fallback stacks (system-ui / monospace) carry it instead.
+NO_WEBFONTS = "<!-- offline build: system fonts only, no network requests -->"
+
+ONLINE_SUB = ("Every question from the 2013&ndash;2021 surgery board bank, rebuilt as a narrated "
+              "teaching video &mdash; Arabic explanation, English medical terminology, and every "
+              "answer choice worked through: why it&rsquo;s right or wrong here, and where it "
+              "would be the right answer instead.")
+OFFLINE_SUB = ("Offline copy. Keep this page in the same folder as the downloaded course folders "
+               "and every video plays with no internet connection. Videos you haven&rsquo;t "
+               "downloaded yet will say so when you press Play.")
+ONLINE_FOOT = ('Videos are published as GitHub Release assets on '
+               '<a href="https://github.com/__REPO__">__REPO__</a>. Question numbering follows the '
+               'original source exactly. Three questions have no confirmed answer in the source '
+               'document and are flagged rather than guessed.')
+OFFLINE_FOOT = ("Works entirely offline once the videos are downloaded. Question numbering follows "
+                "the original source exactly. Three questions have no confirmed answer in the "
+                "source document and are flagged rather than guessed.")
+
 
 def slug_course(course):
     m = re.match(r"(\d+)(?:st|nd|rd|th)?\s+Month\s+(\d{4})", course)
@@ -33,6 +58,12 @@ def course_sort_key(course):
 def esc(s):
     return (str(s or "").replace("&", "&amp;").replace("<", "&lt;")
             .replace(">", "&gt;").replace('"', "&quot;"))
+
+
+def safe_folder(course):
+    """Folder name the download kit sorts this course's videos into.
+    Must stay in step with engine/build_download_kit.py."""
+    return re.sub(r"[^A-Za-z0-9]+", "-", f"Surgery {course}").strip("-")
 
 
 def build_data(bank):
@@ -50,14 +81,13 @@ def build_data(bank):
                 "let": correct["letter"] if correct else "",
                 "vid": f"surgery-{slug}-{q['number']:02d}-ar.mp4" if correct else "",
             })
-        courses.append({"name": rec["course"], "slug": slug, "qs": qs})
+        courses.append({"name": rec["course"], "slug": slug,
+                        "dir": safe_folder(rec["course"]), "qs": qs})
     return courses
 
 
 PAGE = """<title>Surgery Board Video Bank</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Sans+3:wght@400;600&family=Cairo:wght@400;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
+__FONTS__
 <style>
 :root{
   --ground:#F2F5F4; --surface:#FFFFFF; --surface-2:#E9EEEC;
@@ -156,6 +186,7 @@ dialog.player::backdrop{background:rgba(8,14,13,.78)}
 .pclose{margin-left:auto;font:inherit;cursor:pointer;background:var(--surface-2);color:var(--ink);
   border:1px solid var(--line);border-radius:8px;padding:6px 12px}
 .pdl{font-size:13.5px;color:var(--accent);text-decoration:none}
+.pmiss{font-size:13.5px;color:var(--amber)}
 dialog.player video{display:block;width:100%;max-height:74vh;background:#000}
 footer{margin-top:34px;padding-top:20px;border-top:1px solid var(--line);
   color:var(--muted);font-size:14px}
@@ -171,9 +202,7 @@ footer a{color:var(--accent)}
 <div class="wrap">
 <header>
   <h1>Surgery Board Video Bank</h1>
-  <p class="sub">Every question from the 2013&ndash;2021 surgery board bank, rebuilt as a narrated
-  teaching video &mdash; Arabic explanation, English medical terminology, and every answer choice
-  worked through: why it&rsquo;s right or wrong here, and where it would be the right answer instead.</p>
+  <p class="sub" id="sub">__SUB__</p>
   <div class="stats">
     <div class="stat"><b>__NQ__</b><span>Questions</span></div>
     <div class="stat"><b>__NC__</b><span>Courses</span></div>
@@ -197,23 +226,23 @@ footer a{color:var(--accent)}
     <div class="phead">
       <span class="ptitle" id="ptitle"></span>
       <a class="pdl" id="pdl" href="#" target="_blank" rel="noopener">Open full size</a>
+      <span class="pmiss" id="pmiss" hidden>Couldn&rsquo;t play &mdash; this video may not be downloaded yet</span>
       <button class="pclose" id="pclose" type="button">Close</button>
     </div>
     <video id="pvid" controls preload="metadata" playsinline></video>
   </div>
 </dialog>
 
-<footer>
-  Videos are published as GitHub Release assets on
-  <a href="https://github.com/__REPO__">__REPO__</a>. Question numbering follows the original
-  source exactly. Three questions have no confirmed answer in the source document and are
-  flagged rather than guessed.
-</footer>
+<footer>__FOOT__</footer>
 </div>
 
 <script>
 const DATA = __DATA__;
+const OFFLINE = __OFFLINE__;
 const REL = "https://github.com/__REPO__/releases/download/videos-";
+// Offline builds sit beside the downloaded course folders, so a video is
+// addressed by its local path rather than fetched over the network.
+const srcFor = (c, q) => OFFLINE ? `${c.dir}/${q.vid}` : `${REL}${c.slug}/${q.vid}`;
 const list = document.getElementById('list');
 const qIn = document.getElementById('q');
 const cIn = document.getElementById('course');
@@ -232,7 +261,7 @@ list.innerHTML = DATA.map(c => `
         ${q.ar ? `<div class="stem-ar">${esc(q.ar)}</div>` : '<div class="stem-ar"></div>'}
         ${q.ans ? `<div class="ans"><span class="chip">${q.let}</span>${esc(q.ans)}</div>`
                 : `<div class="ans">No confirmed answer in the source &mdash; not guessed</div>`}
-        ${q.vid ? `<button class="watch" type="button" data-src="${REL}${c.slug}/${q.vid}"
+        ${q.vid ? `<button class="watch" type="button" data-src="${srcFor(c, q)}"
              data-title="${esc(c.name)} &middot; Q${q.n}">Play</button>`
                 : `<span class="flag">Flagged</span>`}
       </li>`).join('')}</ol>
@@ -278,8 +307,14 @@ list.addEventListener('click', e => {
   pvid.src = btn.dataset.src;
   pdl.href = btn.dataset.src;
   ptitle.innerHTML = btn.dataset.title;
+  document.getElementById('pmiss').hidden = true;
   dlg.showModal();
   pvid.play().catch(() => {});   // autoplay may be blocked; controls still work
+});
+// Offline, a missing file is the normal case mid-download -- say so instead
+// of leaving a silent black rectangle.
+pvid.addEventListener('error', () => {
+  if (OFFLINE) document.getElementById('pmiss').hidden = false;
 });
 function closePlayer(){ pvid.pause(); pvid.removeAttribute('src'); pvid.load(); dlg.close(); }
 document.getElementById('pclose').addEventListener('click', closePlayer);
@@ -294,8 +329,10 @@ apply();
 
 
 def main():
-    bank = json.loads(Path(sys.argv[1]).read_text(encoding="utf-8"))
-    out = Path(sys.argv[2])
+    offline = "--offline" in sys.argv
+    argv = [a for a in sys.argv if a != "--offline"]
+    bank = json.loads(Path(argv[1]).read_text(encoding="utf-8"))
+    out = Path(argv[2])
     out.parent.mkdir(parents=True, exist_ok=True)
 
     courses = build_data(bank)
@@ -313,6 +350,10 @@ def main():
             .replace("__NC__", str(len(courses)))
             .replace("__NV__", f"{nv:,}")
             .replace("__NF__", str(nf))
+            .replace("__FONTS__", NO_WEBFONTS if offline else WEBFONTS)
+            .replace("__SUB__", OFFLINE_SUB if offline else ONLINE_SUB)
+            .replace("__FOOT__", OFFLINE_FOOT if offline else ONLINE_FOOT)
+            .replace("__OFFLINE__", "true" if offline else "false")
             .replace("__REPO__", REPO))
     out.write_text(html, encoding="utf-8")
     print(f"Wrote {out}  ({out.stat().st_size/1024:.0f} KB) "
