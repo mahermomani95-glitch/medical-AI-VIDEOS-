@@ -88,6 +88,19 @@ li.q[hidden]{display:none}
 .flag{grid-column:3;grid-row:1/span 3;align-self:center;justify-self:end;white-space:nowrap;font-size:13px;
   color:var(--muted);border:1px dashed var(--line);border-radius:8px;padding:7px 12px}
 .empty{padding:38px 4px;color:var(--muted)}
+button.watch{font:inherit;font-weight:600;font-size:14px;cursor:pointer}
+/* Player overlay: students press play here rather than being sent off to a
+   file host, so the videos are usable without leaving this page. */
+dialog.player{border:none;padding:0;background:transparent;max-width:min(94vw,1200px);width:100%}
+dialog.player::backdrop{background:rgba(8,14,13,.78)}
+.pbox{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+  overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.4)}
+.phead{display:flex;align-items:center;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line)}
+.ptitle{font-family:Archivo,sans-serif;font-weight:600;font-size:15px;color:var(--ink)}
+.pclose{margin-left:auto;font:inherit;cursor:pointer;background:var(--surface-2);color:var(--ink);
+  border:1px solid var(--line);border-radius:8px;padding:6px 12px}
+.pdl{font-size:13.5px;color:var(--accent);text-decoration:none}
+dialog.player video{display:block;width:100%;max-height:74vh;background:#000}
 footer{margin-top:34px;padding-top:20px;border-top:1px solid var(--line);
   color:var(--muted);font-size:14px}
 footer a{color:var(--accent)}
@@ -123,6 +136,17 @@ footer a{color:var(--accent)}
 
 <main id="list"></main>
 
+<dialog class="player" id="player" aria-label="Video player">
+  <div class="pbox">
+    <div class="phead">
+      <span class="ptitle" id="ptitle"></span>
+      <a class="pdl" id="pdl" href="#" download>Download</a>
+      <button class="pclose" id="pclose" type="button">Close</button>
+    </div>
+    <video id="pvid" controls preload="metadata" playsinline></video>
+  </div>
+</dialog>
+
 <footer>
   Videos are published as GitHub Release assets on
   <a href="https://github.com/mahermomani95-glitch/medical-AI-VIDEOS-">mahermomani95-glitch/medical-AI-VIDEOS-</a>. Question numbering follows the original
@@ -152,7 +176,8 @@ list.innerHTML = DATA.map(c => `
         ${q.ar ? `<div class="stem-ar">${esc(q.ar)}</div>` : '<div class="stem-ar"></div>'}
         ${q.ans ? `<div class="ans"><span class="chip">${q.let}</span>${esc(q.ans)}</div>`
                 : `<div class="ans">No confirmed answer in the source &mdash; not guessed</div>`}
-        ${q.vid ? `<a class="watch" href="${REL}${c.slug}/${q.vid}">Watch</a>`
+        ${q.vid ? `<button class="watch" type="button" data-src="${REL}${c.slug}/${q.vid}"
+             data-title="${esc(c.name)} &middot; Q${q.n}">Play</button>`
                 : `<span class="flag">Flagged</span>`}
       </li>`).join('')}</ol>
   </details>`).join('');
@@ -186,6 +211,25 @@ function apply(){
     if (e) e.remove();
   }
 }
+const dlg = document.getElementById('player');
+const pvid = document.getElementById('pvid');
+const ptitle = document.getElementById('ptitle');
+const pdl = document.getElementById('pdl');
+
+list.addEventListener('click', e => {
+  const btn = e.target.closest('button.watch');
+  if (!btn) return;
+  pvid.src = btn.dataset.src;
+  pdl.href = btn.dataset.src;
+  ptitle.innerHTML = btn.dataset.title;
+  dlg.showModal();
+  pvid.play().catch(() => {});   // autoplay may be blocked; controls still work
+});
+function closePlayer(){ pvid.pause(); pvid.removeAttribute('src'); pvid.load(); dlg.close(); }
+document.getElementById('pclose').addEventListener('click', closePlayer);
+dlg.addEventListener('close', () => { pvid.pause(); pvid.removeAttribute('src'); });
+dlg.addEventListener('click', e => { if (e.target === dlg) closePlayer(); });
+
 qIn.addEventListener('input', apply);
 cIn.addEventListener('change', apply);
 apply();
