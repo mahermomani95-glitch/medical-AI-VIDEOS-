@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 130-131 mEq of sodium ion (130 mmol): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 28-29 mEq of calcium ion (1.5 mmol). يصبح صحيحًا في سؤال يصف 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all correct components of Ringer's lactate — however, Ringer's lactate contains only about 2.7 mEq (not 28-29 mEq) of calcium, making B the false/exaggerated statement. الخيار C، 109-111 mEq of chloride ion (109 mmol): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 28-29 mEq of calcium ion (1.5 mmol). يصبح صحيحًا في سؤال يصف 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all correct components of Ringer's lactate — however, Ringer's lactate contains only about 2.7 mEq (not 28-29 mEq) of calcium, making B the false/exaggerated statement. الخيار D، 28-29 mEq of lactate ion (28 mmol): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 28-29 mEq of calcium ion (1.5 mmol). يصبح صحيحًا في سؤال يصف 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all correct components of Ringer's lactate — however, Ringer's lactate contains only about 2.7 mEq (not 28-29 mEq) of calcium, making B the false/exaggerated statement. الخيار E، 4-5 mEq of potassium ion (4 mmol): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 28-29 mEq of calcium ion (1.5 mmol). يصبح صحيحًا في سؤال يصف 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all correct components of Ringer's lactate — however, Ringer's lactate contains only about 2.7 mEq (not 28-29 mEq) of calcium, making B the false/exaggerated statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، 130-131 mEq of sodium ion (130 mmol): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو 28-29 mEq of calcium ion (1.5 mmol). الخيار C، 109-111 mEq of chloride ion (109 mmol): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو 28-29 mEq of calcium ion (1.5 mmol). الخيار D، 28-29 mEq of lactate ion (28 mmol): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو 28-29 mEq of calcium ion (1.5 mmol). الخيار E، 4-5 mEq of potassium ion (4 mmol): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو 28-29 mEq of calcium ion (1.5 mmol).",
       "verdicts": [
         {
           "letter": "A",
           "text": "130-131 mEq of sodium ion (130 mmol)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 28-29 mEq of calcium ion (1.5 mmol).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all correct components of Ringer's lactate — however…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو 28-29 mEq of calcium ion (1.5 mmol)."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "109-111 mEq of chloride ion (109 mmol)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 28-29 mEq of calcium ion (1.5 mmol).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all correct components of Ringer's lactate — however…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو 28-29 mEq of calcium ion (1.5 mmol)."
         },
         {
           "letter": "D",
           "text": "28-29 mEq of lactate ion (28 mmol)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 28-29 mEq of calcium ion (1.5 mmol).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all correct components of Ringer's lactate — however…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو 28-29 mEq of calcium ion (1.5 mmol)."
         },
         {
           "letter": "E",
           "text": "4-5 mEq of potassium ion (4 mmol)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 28-29 mEq of calcium ion (1.5 mmol).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all correct components of Ringer's lactate — however…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. 130-131 mEq sodium, 109-111 mEq chloride, 28-29 mEq lactate, and 4-5 mEq potassium are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو 28-29 mEq of calcium ion (1.5 mmol)."
         }
       ]
     },

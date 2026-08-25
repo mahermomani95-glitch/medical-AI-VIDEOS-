@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Malignant melanoma is the most aggressive skin tumors: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC are faster growing than SCC. يصبح صحيحًا في سؤال يصف Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC, and Marjolin's ulcer as SCC in chronic wounds are true statements — however, BCC actually grows SLOWER (not faster) than SCC, making A the false statement. الخيار C، SCC is often seen in areas exposed to sunlight such as a scalp and face: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC are faster growing than SCC. يصبح صحيحًا في سؤال يصف Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC, and Marjolin's ulcer as SCC in chronic wounds are true statements — however, BCC actually grows SLOWER (not faster) than SCC, making A the false statement. الخيار D، Rodent ulcer is a BCC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC are faster growing than SCC. يصبح صحيحًا في سؤال يصف Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC, and Marjolin's ulcer as SCC in chronic wounds are true statements — however, BCC actually grows SLOWER (not faster) than SCC, making A the false statement. الخيار E، Marjolin ulcer is a SCC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC are faster growing than SCC. يصبح صحيحًا في سؤال يصف Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC, and Marjolin's ulcer as SCC in chronic wounds are true statements — however, BCC actually grows SLOWER (not faster) than SCC, making A the false statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Malignant melanoma is the most aggressive skin tumors: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC. الخيار C، SCC is often seen in areas exposed to sunlight such as a scalp and face: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC. الخيار D، Rodent ulcer is a BCC: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC. الخيار E، Marjolin ulcer is a SCC: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Malignant melanoma is the most aggressive skin tumors",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC are faster growing than SCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC, and Marjolin's ulcer as SCC in chronic wounds are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC."
         },
         {
           "letter": "C",
           "text": "SCC is often seen in areas exposed to sunlight such as a scalp and face",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC are faster growing than SCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC, and Marjolin's ulcer as SCC in chronic wounds are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC."
         },
         {
           "letter": "D",
           "text": "Rodent ulcer is a BCC",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC are faster growing than SCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC, and Marjolin's ulcer as SCC in chronic wounds are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC."
         },
         {
           "letter": "E",
           "text": "Marjolin ulcer is a SCC",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC are faster growing than SCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC, and Marjolin's ulcer as SCC in chronic wounds are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC."
         }
       ]
     },

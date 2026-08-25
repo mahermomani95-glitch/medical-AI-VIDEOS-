@@ -75,21 +75,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، History of ovarian cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multiparity. يصبح صحيحًا في سؤال يصف History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors with breast cancer, and late menopause increases lifetime estrogen exposure — these are all genuine risk factors, unlike multiparity, which is actually associated with DECREASED (not increased) breast cancer risk. الخيار C، History of endometrial cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multiparity. يصبح صحيحًا في سؤال يصف History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors with breast cancer, and late menopause increases lifetime estrogen exposure — these are all genuine risk factors, unlike multiparity, which is actually associated with DECREASED (not increased) breast cancer risk. الخيار E، Late menopause: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multiparity. يصبح صحيحًا في سؤال يصف History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors with breast cancer, and late menopause increases lifetime estrogen exposure — these are all genuine risk factors, unlike multiparity, which is actually associated with DECREASED (not increased) breast cancer risk.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، History of ovarian cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity. الخيار C، History of endometrial cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity. الخيار E، Late menopause: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity.",
       "verdicts": [
         {
           "letter": "B",
           "text": "History of ovarian cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multiparity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors with breast cancer, and late menopause increases…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity."
         },
         {
           "letter": "C",
           "text": "History of endometrial cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multiparity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors with breast cancer, and late menopause increases…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity."
         },
         {
           "letter": "D",
@@ -101,8 +101,8 @@
           "letter": "E",
           "text": "Late menopause",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multiparity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors with breast cancer, and late menopause increases…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity."
         }
       ]
     },

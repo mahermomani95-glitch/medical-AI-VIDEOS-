@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intraventricular antibiotic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immdediate replacement of shunt. يصبح صحيحًا في سؤال يصف Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the infected shunt are all appropriate components of shunt infection management, unlike immediate replacement of the shunt, which risks reinfecting a fresh device before the infection is cleared. الخيار B، Systemic antibiotic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immdediate replacement of shunt. يصبح صحيحًا في سؤال يصف Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the infected shunt are all appropriate components of shunt infection management, unlike immediate replacement of the shunt, which risks reinfecting a fresh device before the infection is cleared. الخيار D، External drainage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immdediate replacement of shunt. يصبح صحيحًا في سؤال يصف Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the infected shunt are all appropriate components of shunt infection management, unlike immediate replacement of the shunt, which risks reinfecting a fresh device before the infection is cleared. الخيار E، Removal of infected shunt: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immdediate replacement of shunt. يصبح صحيحًا في سؤال يصف Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the infected shunt are all appropriate components of shunt infection management, unlike immediate replacement of the shunt, which risks reinfecting a fresh device before the infection is cleared.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intraventricular antibiotic: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt. الخيار B، Systemic antibiotic: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt. الخيار D، External drainage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt. الخيار E، Removal of infected shunt: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Intraventricular antibiotic",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immdediate replacement of shunt.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the infected shunt are all appropriate components of shunt…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt."
         },
         {
           "letter": "B",
           "text": "Systemic antibiotic",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immdediate replacement of shunt.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the infected shunt are all appropriate components of shunt…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "External drainage",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immdediate replacement of shunt.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the infected shunt are all appropriate components of shunt…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt."
         },
         {
           "letter": "E",
           "text": "Removal of infected shunt",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immdediate replacement of shunt.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the infected shunt are all appropriate components of shunt…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt."
         }
       ]
     },

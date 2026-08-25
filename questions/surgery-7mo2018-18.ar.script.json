@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Obesity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cirrhosis liver. يصبح صحيحًا في سؤال يصف Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are all genuine risk factors for cholesterol stones. الخيار B، Crohn disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cirrhosis liver. يصبح صحيحًا في سؤال يصف Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are all genuine risk factors for cholesterol stones. الخيار C، Multiparity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cirrhosis liver. يصبح صحيحًا في سؤال يصف Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are all genuine risk factors for cholesterol stones. الخيار E، Family history: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cirrhosis liver. يصبح صحيحًا في سؤال يصف Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are all genuine risk factors for cholesterol stones.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver. الخيار B، Crohn disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver. الخيار C، Multiparity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver. الخيار E، Family history: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Obesity",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cirrhosis liver.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are all genuine risk factors for cholesterol stones."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver."
         },
         {
           "letter": "B",
           "text": "Crohn disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cirrhosis liver.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are all genuine risk factors for cholesterol stones."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver."
         },
         {
           "letter": "C",
           "text": "Multiparity",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cirrhosis liver.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are all genuine risk factors for cholesterol stones."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Family history",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cirrhosis liver.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are all genuine risk factors for cholesterol stones."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver."
         }
       ]
     },

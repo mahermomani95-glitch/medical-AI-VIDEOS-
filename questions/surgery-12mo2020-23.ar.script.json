@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، More on the right side: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Need mesh repair. يصبح صحيحًا في سؤال يصف Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and it being the most common childhood hernia are all true statements. الخيار B، Can cause bowel obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Need mesh repair. يصبح صحيحًا في سؤال يصف Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and it being the most common childhood hernia are all true statements. الخيار D، Indirect more than direct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Need mesh repair. يصبح صحيحًا في سؤال يصف Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and it being the most common childhood hernia are all true statements. الخيار E، The most common hernia in children: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Need mesh repair. يصبح صحيحًا في سؤال يصف Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and it being the most common childhood hernia are all true statements.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، More on the right side: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair. الخيار B، Can cause bowel obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair. الخيار D، Indirect more than direct: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair. الخيار E، The most common hernia in children: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair.",
       "verdicts": [
         {
           "letter": "A",
           "text": "More on the right side",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Need mesh repair.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and it being the most common childhood hernia are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair."
         },
         {
           "letter": "B",
           "text": "Can cause bowel obstruction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Need mesh repair.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and it being the most common childhood hernia are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Indirect more than direct",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Need mesh repair.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and it being the most common childhood hernia are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair."
         },
         {
           "letter": "E",
           "text": "The most common hernia in children",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Need mesh repair.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and it being the most common childhood hernia are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair."
         }
       ]
     },

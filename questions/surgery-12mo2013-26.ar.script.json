@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، History of urinary tract infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rapid onset of pain. يصبح صحيحًا في سؤال يصف History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic features of epididymo-orchitis, which actually has a gradual (not rapid) onset of pain — distinguishing it from testicular torsion's sudden onset, making B the false statement. الخيار C، Swollen tender testes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rapid onset of pain. يصبح صحيحًا في سؤال يصف History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic features of epididymo-orchitis, which actually has a gradual (not rapid) onset of pain — distinguishing it from testicular torsion's sudden onset, making B the false statement. الخيار D، Tenderness of the cord: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rapid onset of pain. يصبح صحيحًا في سؤال يصف History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic features of epididymo-orchitis, which actually has a gradual (not rapid) onset of pain — distinguishing it from testicular torsion's sudden onset, making B the false statement. الخيار E، Pyrexia and Leucocytosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rapid onset of pain. يصبح صحيحًا في سؤال يصف History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic features of epididymo-orchitis, which actually has a gradual (not rapid) onset of pain — distinguishing it from testicular torsion's sudden onset, making B the false statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، History of urinary tract infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Rapid onset of pain. الخيار C، Swollen tender testes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Rapid onset of pain. الخيار D، Tenderness of the cord: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Rapid onset of pain. الخيار E، Pyrexia and Leucocytosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Rapid onset of pain.",
       "verdicts": [
         {
           "letter": "A",
           "text": "History of urinary tract infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rapid onset of pain.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic features of epididymo-orchitis, which actually has…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Rapid onset of pain."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Swollen tender testes",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rapid onset of pain.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic features of epididymo-orchitis, which actually has…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Rapid onset of pain."
         },
         {
           "letter": "D",
           "text": "Tenderness of the cord",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rapid onset of pain.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic features of epididymo-orchitis, which actually has…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Rapid onset of pain."
         },
         {
           "letter": "E",
           "text": "Pyrexia and Leucocytosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rapid onset of pain.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic features of epididymo-orchitis, which actually has…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of UTI, swollen tender testes, cord tenderness, and fever/leukocytosis are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Rapid onset of pain."
         }
       ]
     },

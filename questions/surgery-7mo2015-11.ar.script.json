@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Check thyroid function is important: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا closed is also correct — however, umbilical hernias actually carry a LOW (not high) incarceration risk, making E the false statement. يصبح صحيحًا في سؤال يصف Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism), prematurity, and African ethnicity are all true associations, and surgery around age 5 if. الخيار B، More common in premature baby: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا closed is also correct — however, umbilical hernias actually carry a LOW (not high) incarceration risk, making E the false statement. يصبح صحيحًا في سؤال يصف Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism), prematurity, and African ethnicity are all true associations, and surgery around age 5 if. الخيار C، More common in African babies: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا closed is also correct — however, umbilical hernias actually carry a LOW (not high) incarceration risk, making E the false statement. يصبح صحيحًا في سؤال يصف Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism), prematurity, and African ethnicity are all true associations, and surgery around age 5 if. الخيار D، Surgery treatment at about 5 year old if hernia fails to close: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا closed is also correct — however, umbilical hernias actually carry a LOW (not high) incarceration risk, making E the false statement. يصبح صحيحًا في سؤال يصف Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism), prematurity, and African ethnicity are all true associations, and surgery around age 5 if.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Check thyroid function is important: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration. الخيار B، More common in premature baby: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration. الخيار C، More common in African babies: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration. الخيار D، Surgery treatment at about 5 year old if hernia fails to close: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Check thyroid function is important",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا closed is also correct — however, umbilical hernias actually carry a LOW (not high) incarceration risk, making E the false…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism), prematurity, and African ethnicity are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration."
         },
         {
           "letter": "B",
           "text": "More common in premature baby",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا closed is also correct — however, umbilical hernias actually carry a LOW (not high) incarceration risk, making E the false…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism), prematurity, and African ethnicity are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration."
         },
         {
           "letter": "C",
           "text": "More common in African babies",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا closed is also correct — however, umbilical hernias actually carry a LOW (not high) incarceration risk, making E the false…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism), prematurity, and African ethnicity are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration."
         },
         {
           "letter": "D",
           "text": "Surgery treatment at about 5 year old if hernia fails to close",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا closed is also correct — however, umbilical hernias actually carry a LOW (not high) incarceration risk, making E the false…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism), prematurity, and African ethnicity are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration."
         },
         {
           "letter": "E",

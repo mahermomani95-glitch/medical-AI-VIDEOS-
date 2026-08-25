@@ -75,21 +75,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colon cancer are right sided: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement. يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam criteria for family history are all true statements about HNPCC (Lynch syndrome) — however, thousands of polyps is characteristic of FAP. الخيار B، Associated with ovarian, breast, stomach cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement. يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam criteria for family history are all true statements about HNPCC (Lynch syndrome) — however, thousands of polyps is characteristic of FAP. الخيار D، Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50 years old at the time of diagnosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement. يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam criteria for family history are all true statements about HNPCC (Lynch syndrome) — however, thousands of polyps is characteristic of FAP.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Colon cancer are right sided: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps. الخيار B، Associated with ovarian, breast, stomach cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps. الخيار D، Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50 years old at the time of diagnosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Colon cancer are right sided",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps."
         },
         {
           "letter": "B",
           "text": "Associated with ovarian, breast, stomach cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps."
         },
         {
           "letter": "C",
@@ -101,8 +101,8 @@
           "letter": "D",
           "text": "Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps."
         }
       ]
     },

@@ -75,28 +75,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pulselesness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis. يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least reliable early sign — pain remains the earliest, most sensitive symptom. الخيار B، Pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis. يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least reliable early sign — pain remains the earliest, most sensitive symptom. الخيار C، Paralysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis. يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least reliable early sign — pain remains the earliest, most sensitive symptom.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pulselesness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis. الخيار B، Pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis. الخيار C، Paralysis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Pulselesness",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis."
         },
         {
           "letter": "B",
           "text": "Pain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis."
         },
         {
           "letter": "C",
           "text": "Paralysis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis."
         },
         {
           "letter": "D",

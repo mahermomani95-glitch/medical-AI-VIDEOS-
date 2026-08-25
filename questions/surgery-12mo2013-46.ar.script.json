@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، HTN: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا anhydrosis. يصبح صحيحًا في سؤال يصف Hypertension, palpitations, headache, and nausea/vomiting are all classic features of pheochromocytoma from catecholamine excess, unlike anhydrosis (decreased sweating) — pheochromocytoma classically causes diaphoresis (excess sweating). الخيار B، Palpitations: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا anhydrosis. يصبح صحيحًا في سؤال يصف Hypertension, palpitations, headache, and nausea/vomiting are all classic features of pheochromocytoma from catecholamine excess, unlike anhydrosis (decreased sweating) — pheochromocytoma classically causes diaphoresis (excess sweating). الخيار C، Headache: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا anhydrosis. يصبح صحيحًا في سؤال يصف Hypertension, palpitations, headache, and nausea/vomiting are all classic features of pheochromocytoma from catecholamine excess, unlike anhydrosis (decreased sweating) — pheochromocytoma classically causes diaphoresis (excess sweating). الخيار E، Nausea and vomiting: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا anhydrosis. يصبح صحيحًا في سؤال يصف Hypertension, palpitations, headache, and nausea/vomiting are all classic features of pheochromocytoma from catecholamine excess, unlike anhydrosis (decreased sweating) — pheochromocytoma classically causes diaphoresis (excess sweating).",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، HTN: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis. الخيار B، Palpitations: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis. الخيار C، Headache: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis. الخيار E، Nausea and vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "HTN",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا anhydrosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypertension, palpitations, headache, and nausea/vomiting are all classic features of pheochromocytoma from catecholamine excess, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis."
         },
         {
           "letter": "B",
           "text": "Palpitations",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا anhydrosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypertension, palpitations, headache, and nausea/vomiting are all classic features of pheochromocytoma from catecholamine excess, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis."
         },
         {
           "letter": "C",
           "text": "Headache",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا anhydrosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypertension, palpitations, headache, and nausea/vomiting are all classic features of pheochromocytoma from catecholamine excess, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Nausea and vomiting",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا anhydrosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypertension, palpitations, headache, and nausea/vomiting are all classic features of pheochromocytoma from catecholamine excess, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis."
         }
       ]
     },

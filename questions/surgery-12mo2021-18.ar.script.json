@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Blood loss of 1000 cc: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute. يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage. الخيار C، Postural hypotension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute. يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage. الخيار D، Anxiety: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute. يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage. الخيار E، Decreased central venous pressure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute. يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Blood loss of 1000 cc: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute. الخيار C، Postural hypotension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute. الخيار D، Anxiety: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute. الخيار E، Decreased central venous pressure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Blood loss of 1000 cc",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Postural hypotension",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute."
         },
         {
           "letter": "D",
           "text": "Anxiety",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute."
         },
         {
           "letter": "E",
           "text": "Decreased central venous pressure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute."
         }
       ]
     },

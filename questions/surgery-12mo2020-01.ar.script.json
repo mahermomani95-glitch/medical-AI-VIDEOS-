@@ -75,28 +75,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، May present with a palpable abdominal mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right-sided most likely to obstruct. يصبح صحيحًا في سؤال يصف Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's association with iron deficiency anemia are all true statements. الخيار B، May present with intestinal obstruction or perforation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right-sided most likely to obstruct. يصبح صحيحًا في سؤال يصف Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's association with iron deficiency anemia are all true statements. الخيار C، Right-sided colon cancer might be associated with iron deficiency anemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right-sided most likely to obstruct. يصبح صحيحًا في سؤال يصف Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's association with iron deficiency anemia are all true statements.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، May present with a palpable abdominal mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct. الخيار B، May present with intestinal obstruction or perforation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct. الخيار C، Right-sided colon cancer might be associated with iron deficiency anemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct.",
       "verdicts": [
         {
           "letter": "A",
           "text": "May present with a palpable abdominal mass",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right-sided most likely to obstruct.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's association with iron deficiency anemia are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct."
         },
         {
           "letter": "B",
           "text": "May present with intestinal obstruction or perforation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right-sided most likely to obstruct.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's association with iron deficiency anemia are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct."
         },
         {
           "letter": "C",
           "text": "Right-sided colon cancer might be associated with iron deficiency anemia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right-sided most likely to obstruct.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's association with iron deficiency anemia are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct."
         },
         {
           "letter": "D",

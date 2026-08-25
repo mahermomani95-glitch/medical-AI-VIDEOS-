@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Peripheral ischemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Painful ulcer. يصبح صحيحًا في سؤال يصف Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are all true features associated with diabetic foot disease. الخيار C، Bacterial gases: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Painful ulcer. يصبح صحيحًا في سؤال يصف Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are all true features associated with diabetic foot disease. الخيار D، Charcot joint: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Painful ulcer. يصبح صحيحًا في سؤال يصف Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are all true features associated with diabetic foot disease. الخيار E، Multimicrobial infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Painful ulcer. يصبح صحيحًا في سؤال يصف Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are all true features associated with diabetic foot disease.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peripheral ischemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer. الخيار C، Bacterial gases: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer. الخيار D، Charcot joint: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer. الخيار E، Multimicrobial infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Peripheral ischemia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Painful ulcer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are all true features associated with diabetic foot…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Bacterial gases",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Painful ulcer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are all true features associated with diabetic foot…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer."
         },
         {
           "letter": "D",
           "text": "Charcot joint",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Painful ulcer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are all true features associated with diabetic foot…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer."
         },
         {
           "letter": "E",
           "text": "Multimicrobial infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Painful ulcer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are all true features associated with diabetic foot…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer."
         }
       ]
     },

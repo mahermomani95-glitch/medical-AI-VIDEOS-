@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Elevated CA125 is associated with ovarian carcinoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the incorrect/false statement being asked for. يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all accurate marker associations — however, CEA. الخيار C، Elevated CA 15_3 is associated with certain breast cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the incorrect/false statement being asked for. يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all accurate marker associations — however, CEA. الخيار D، Elevated B_HCG is associated with certain testicular cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the incorrect/false statement being asked for. يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all accurate marker associations — however, CEA. الخيار E، Elevated CA 19_9 is associated with pancreatic cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the incorrect/false statement being asked for. يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all accurate marker associations — however, CEA.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Elevated CA125 is associated with ovarian carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma. الخيار C، Elevated CA 15_3 is associated with certain breast cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma. الخيار D، Elevated B_HCG is associated with certain testicular cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma. الخيار E، Elevated CA 19_9 is associated with pancreatic cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Elevated CA125 is associated with ovarian carcinoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Elevated CA 15_3 is associated with certain breast cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma."
         },
         {
           "letter": "D",
           "text": "Elevated B_HCG is associated with certain testicular cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma."
         },
         {
           "letter": "E",
           "text": "Elevated CA 19_9 is associated with pancreatic cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma."
         }
       ]
     },

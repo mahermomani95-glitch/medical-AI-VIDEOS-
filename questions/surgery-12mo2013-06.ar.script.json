@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Melena: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction. يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide lumen and liquid content, unlike obstruction which is more typical of left-sided tumors. الخيار B، IDA: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction. يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide lumen and liquid content, unlike obstruction which is more typical of left-sided tumors. الخيار C، Abdominal mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction. يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide lumen and liquid content, unlike obstruction which is more typical of left-sided tumors. الخيار E، Anorexia and weight loss: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction. يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide lumen and liquid content, unlike obstruction which is more typical of left-sided tumors.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Melena: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction. الخيار B، IDA: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction. الخيار C، Abdominal mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction. الخيار E، Anorexia and weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Melena",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction."
         },
         {
           "letter": "B",
           "text": "IDA",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction."
         },
         {
           "letter": "C",
           "text": "Abdominal mass",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Anorexia and weight loss",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction."
         }
       ]
     },

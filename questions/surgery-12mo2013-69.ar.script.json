@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Biliary dyskinesia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment. يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate indications for laparoscopic cholecystectomy, unlike severe cholangitis, which needs biliary drainage (ERCP) first. الخيار C، Acute Cholecystitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment. يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate indications for laparoscopic cholecystectomy, unlike severe cholangitis, which needs biliary drainage (ERCP) first. الخيار D، Symptomatic cholelithiasis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment. يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate indications for laparoscopic cholecystectomy, unlike severe cholangitis, which needs biliary drainage (ERCP) first. الخيار E، Biliary pancreatitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment. يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate indications for laparoscopic cholecystectomy, unlike severe cholangitis, which needs biliary drainage (ERCP) first.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Biliary dyskinesia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis. الخيار C، Acute Cholecystitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis. الخيار D، Symptomatic cholelithiasis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis. الخيار E، Biliary pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Biliary dyskinesia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Acute Cholecystitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis."
         },
         {
           "letter": "D",
           "text": "Symptomatic cholelithiasis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis."
         },
         {
           "letter": "E",
           "text": "Biliary pancreatitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis."
         }
       ]
     },

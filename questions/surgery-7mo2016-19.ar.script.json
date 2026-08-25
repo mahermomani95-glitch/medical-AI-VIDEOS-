@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، The Coombs test is negative: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It does not lead to Hemolysis. يصبح صحيحًا في سؤال يصف The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma as complications, and plasma exchange as first-line treatment are all true statements about TTP — however, TTP DOES cause hemolysis (microangiopathic hemolytic anemia is a core feature), making A the false statement. الخيار C، Lower limbs petechiae are the most common presentation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It does not lead to Hemolysis. يصبح صحيحًا في سؤال يصف The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma as complications, and plasma exchange as first-line treatment are all true statements about TTP — however, TTP DOES cause hemolysis (microangiopathic hemolytic anemia is a core feature), making A the false statement. الخيار D، Seizures and coma are common complications: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It does not lead to Hemolysis. يصبح صحيحًا في سؤال يصف The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma as complications, and plasma exchange as first-line treatment are all true statements about TTP — however, TTP DOES cause hemolysis (microangiopathic hemolytic anemia is a core feature), making A the false statement. الخيار E، The first line of treatment is plasma exchange: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It does not lead to Hemolysis. يصبح صحيحًا في سؤال يصف The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma as complications, and plasma exchange as first-line treatment are all true statements about TTP — however, TTP DOES cause hemolysis (microangiopathic hemolytic anemia is a core feature), making A the false statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، The Coombs test is negative: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis. الخيار C، Lower limbs petechiae are the most common presentation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis. الخيار D، Seizures and coma are common complications: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis. الخيار E، The first line of treatment is plasma exchange: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "The Coombs test is negative",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It does not lead to Hemolysis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma as complications, and plasma exchange as first-line…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis."
         },
         {
           "letter": "C",
           "text": "Lower limbs petechiae are the most common presentation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It does not lead to Hemolysis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma as complications, and plasma exchange as first-line…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis."
         },
         {
           "letter": "D",
           "text": "Seizures and coma are common complications",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It does not lead to Hemolysis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma as complications, and plasma exchange as first-line…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis."
         },
         {
           "letter": "E",
           "text": "The first line of treatment is plasma exchange",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It does not lead to Hemolysis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma as complications, and plasma exchange as first-line…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis."
         }
       ]
     },

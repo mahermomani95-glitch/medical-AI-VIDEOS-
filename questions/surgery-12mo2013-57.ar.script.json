@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fractured sternum: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one. يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike ruptured urinary bladder which is an abdominal/pelvic injury. الخيار B، Transected aorta: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one. يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike ruptured urinary bladder which is an abdominal/pelvic injury. الخيار C، Pulmonary contusion: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one. يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike ruptured urinary bladder which is an abdominal/pelvic injury. الخيار E، Bilateral rib fractures: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one. يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike ruptured urinary bladder which is an abdominal/pelvic injury.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Fractured sternum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder. الخيار B، Transected aorta: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder. الخيار C، Pulmonary contusion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder. الخيار E، Bilateral rib fractures: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Fractured sternum",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder."
         },
         {
           "letter": "B",
           "text": "Transected aorta",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder."
         },
         {
           "letter": "C",
           "text": "Pulmonary contusion",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Bilateral rib fractures",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder."
         }
       ]
     },

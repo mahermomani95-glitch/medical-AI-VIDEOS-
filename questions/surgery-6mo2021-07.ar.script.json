@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا one of them. يصبح صحيحًا في سؤال يصف Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute limb ischemia, alongside pallor — cyanosis specifically. الخيار B، Paraesthesia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا one of them. يصبح صحيحًا في سؤال يصف Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute limb ischemia, alongside pallor — cyanosis specifically. الخيار C، Pulselessness: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا one of them. يصبح صحيحًا في سؤال يصف Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute limb ischemia, alongside pallor — cyanosis specifically. الخيار E، Paralysis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا one of them. يصبح صحيحًا في سؤال يصف Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute limb ischemia, alongside pallor — cyanosis specifically.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis. الخيار B، Paraesthesia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis. الخيار C، Pulselessness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis. الخيار E، Paralysis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Pain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا one of them.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute limb ischemia, alongside pallor — cyanosis…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis."
         },
         {
           "letter": "B",
           "text": "Paraesthesia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا one of them.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute limb ischemia, alongside pallor — cyanosis…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis."
         },
         {
           "letter": "C",
           "text": "Pulselessness",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا one of them.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute limb ischemia, alongside pallor — cyanosis…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Paralysis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا one of them.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute limb ischemia, alongside pallor — cyanosis…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis."
         }
       ]
     },

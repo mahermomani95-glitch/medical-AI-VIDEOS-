@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، H. pylori infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antral G cell hypoplasia. يصبح صحيحًا في سؤال يصف H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy (E, which removes inhibitory vagal input on G cells in some contexts) can all raise gastrin, unlike antral G cell hypoplasia, which would actually DECREASE (not increase) gastrin production. الخيار B، Retained antrum syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antral G cell hypoplasia. يصبح صحيحًا في سؤال يصف H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy (E, which removes inhibitory vagal input on G cells in some contexts) can all raise gastrin, unlike antral G cell hypoplasia, which would actually DECREASE (not increase) gastrin production. الخيار C، Gastric outlet obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antral G cell hypoplasia. يصبح صحيحًا في سؤال يصف H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy (E, which removes inhibitory vagal input on G cells in some contexts) can all raise gastrin, unlike antral G cell hypoplasia, which would actually DECREASE (not increase) gastrin production. الخيار E، Vagotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antral G cell hypoplasia. يصبح صحيحًا في سؤال يصف H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy (E, which removes inhibitory vagal input on G cells in some contexts) can all raise gastrin, unlike antral G cell hypoplasia, which would actually DECREASE (not increase) gastrin production.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، H. pylori infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia. الخيار B، Retained antrum syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia. الخيار C، Gastric outlet obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia. الخيار E، Vagotomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "H. pylori infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antral G cell hypoplasia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia."
         },
         {
           "letter": "B",
           "text": "Retained antrum syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antral G cell hypoplasia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia."
         },
         {
           "letter": "C",
           "text": "Gastric outlet obstruction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antral G cell hypoplasia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Vagotomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antral G cell hypoplasia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia."
         }
       ]
     },

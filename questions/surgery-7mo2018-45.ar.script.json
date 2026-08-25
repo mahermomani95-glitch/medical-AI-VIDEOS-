@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Gastric ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach. يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection. الخيار B، Duodenal ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach. يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection. الخيار C، Gastric lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach. يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection. الخيار E، Gastric adenocarcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach. يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Gastric ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach. الخيار B، Duodenal ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach. الخيار C، Gastric lymphoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach. الخيار E، Gastric adenocarcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Gastric ulcer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach."
         },
         {
           "letter": "B",
           "text": "Duodenal ulcer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach."
         },
         {
           "letter": "C",
           "text": "Gastric lymphoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Gastric adenocarcinoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach."
         }
       ]
     },

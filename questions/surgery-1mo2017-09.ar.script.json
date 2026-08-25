@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Inflammatory bowel disease (IBD): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hamartomatous polyps. يصبح صحيحًا في سؤال يصف IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike hamartomatous polyps (as in isolated juvenile polyps), which carry much lower malignant potential than adenomatous polyps. الخيار C، Familial adenomatous polyposis (FAP): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hamartomatous polyps. يصبح صحيحًا في سؤال يصف IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike hamartomatous polyps (as in isolated juvenile polyps), which carry much lower malignant potential than adenomatous polyps. الخيار D، Smoking: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hamartomatous polyps. يصبح صحيحًا في سؤال يصف IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike hamartomatous polyps (as in isolated juvenile polyps), which carry much lower malignant potential than adenomatous polyps. الخيار E، Heavy alcohol use: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hamartomatous polyps. يصبح صحيحًا في سؤال يصف IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike hamartomatous polyps (as in isolated juvenile polyps), which carry much lower malignant potential than adenomatous polyps.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Inflammatory bowel disease (IBD): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps. الخيار C، Familial adenomatous polyposis (FAP): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps. الخيار D، Smoking: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps. الخيار E، Heavy alcohol use: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Inflammatory bowel disease (IBD)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hamartomatous polyps.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike hamartomatous polyps…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps."
         },
         {
           "letter": "C",
           "text": "Familial adenomatous polyposis (FAP)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hamartomatous polyps.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike hamartomatous polyps…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps."
         },
         {
           "letter": "D",
           "text": "Smoking",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hamartomatous polyps.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike hamartomatous polyps…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps."
         },
         {
           "letter": "E",
           "text": "Heavy alcohol use",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hamartomatous polyps.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike hamartomatous polyps…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps."
         }
       ]
     },

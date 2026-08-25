@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Buerger's disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis. يصبح صحيحًا في سؤال يصف Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all genuine, recognized causes of a painful, discolored digit. الخيار B، Beta-blockers: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis. يصبح صحيحًا في سؤال يصف Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all genuine, recognized causes of a painful, discolored digit. الخيار D، Frostbite: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis. يصبح صحيحًا في سؤال يصف Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all genuine, recognized causes of a painful, discolored digit. الخيار E، Peripheral artery disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis. يصبح صحيحًا في سؤال يصف Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all genuine, recognized causes of a painful, discolored digit.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Buerger's disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep vein thrombosis. الخيار B، Beta-blockers: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep vein thrombosis. الخيار D، Frostbite: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep vein thrombosis. الخيار E، Peripheral artery disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep vein thrombosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Buerger's disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all genuine, recognized causes of a painful…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep vein thrombosis."
         },
         {
           "letter": "B",
           "text": "Beta-blockers",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all genuine, recognized causes of a painful…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep vein thrombosis."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Frostbite",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all genuine, recognized causes of a painful…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep vein thrombosis."
         },
         {
           "letter": "E",
           "text": "Peripheral artery disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all genuine, recognized causes of a painful…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Buerger's disease, beta-blockers (vasospasm), frostbite, and peripheral artery disease are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep vein thrombosis."
         }
       ]
     },

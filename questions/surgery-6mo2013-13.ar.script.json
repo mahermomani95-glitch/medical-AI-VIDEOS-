@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Nausea: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something that causes cough. يصبح صحيحًا في سؤال يصف Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic, well-known opioid side effects, unlike cough — morphine is actually a cough suppressant. الخيار B، Vomiting: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something that causes cough. يصبح صحيحًا في سؤال يصف Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic, well-known opioid side effects, unlike cough — morphine is actually a cough suppressant. الخيار D، Myosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something that causes cough. يصبح صحيحًا في سؤال يصف Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic, well-known opioid side effects, unlike cough — morphine is actually a cough suppressant. الخيار E، Respiratory depression: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something that causes cough. يصبح صحيحًا في سؤال يصف Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic, well-known opioid side effects, unlike cough — morphine is actually a cough suppressant.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Nausea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cough. الخيار B، Vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cough. الخيار D، Myosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cough. الخيار E، Respiratory depression: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cough.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Nausea",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something that causes cough.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic, well-known opioid side effects, unlike cough — morphine is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cough."
         },
         {
           "letter": "B",
           "text": "Vomiting",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something that causes cough.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic, well-known opioid side effects, unlike cough — morphine is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cough."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Myosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something that causes cough.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic, well-known opioid side effects, unlike cough — morphine is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cough."
         },
         {
           "letter": "E",
           "text": "Respiratory depression",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something that causes cough.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic, well-known opioid side effects, unlike cough — morphine is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nausea, vomiting, myosis/pinpoint pupils, and respiratory depression are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cough."
         }
       ]
     },

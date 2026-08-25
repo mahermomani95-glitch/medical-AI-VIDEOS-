@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tumor spread to the skin means T4 on TNM classification: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement. يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema (B, to rule out Paget's disease), Trucut biopsy's greater accuracy than FNA, and common metastatic sites are all true statements — however, bloody nipple discharge. الخيار B، Eczema around the nipple should always be investigated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement. يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema (B, to rule out Paget's disease), Trucut biopsy's greater accuracy than FNA, and common metastatic sites are all true statements — however, bloody nipple discharge. الخيار C، True-cut biopsy is more accurate than fine needle aspiration (FNA): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement. يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema (B, to rule out Paget's disease), Trucut biopsy's greater accuracy than FNA, and common metastatic sites are all true statements — however, bloody nipple discharge. الخيار E، Metastases usually involve lung, liver and /or bone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement. يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema (B, to rule out Paget's disease), Trucut biopsy's greater accuracy than FNA, and common metastatic sites are all true statements — however, bloody nipple discharge.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tumor spread to the skin means T4 on TNM classification: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer. الخيار B، Eczema around the nipple should always be investigated: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer. الخيار C، True-cut biopsy is more accurate than fine needle aspiration (FNA): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer. الخيار E، Metastases usually involve lung, liver and /or bone: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Tumor spread to the skin means T4 on TNM classification",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema (B, to rule out Paget's disease), Trucut biopsy's greater accuracy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer."
         },
         {
           "letter": "B",
           "text": "Eczema around the nipple should always be investigated",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema (B, to rule out Paget's disease), Trucut biopsy's greater accuracy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer."
         },
         {
           "letter": "C",
           "text": "True-cut biopsy is more accurate than fine needle aspiration (FNA)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema (B, to rule out Paget's disease), Trucut biopsy's greater accuracy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Metastases usually involve lung, liver and /or bone",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema (B, to rule out Paget's disease), Trucut biopsy's greater accuracy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer."
         }
       ]
     },

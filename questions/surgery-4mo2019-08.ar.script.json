@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Nicotine use is a risk factor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High socioeconomic status is a risk factor. يصبح صحيحًا في سؤال يصف Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine, recognized risk factors for gastric cancer. الخيار B، An infection with H.pylori is a frequent cause of gastric cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High socioeconomic status is a risk factor. يصبح صحيحًا في سؤال يصف Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine, recognized risk factors for gastric cancer. الخيار C، Partial gastrectomy is a known risk factor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High socioeconomic status is a risk factor. يصبح صحيحًا في سؤال يصف Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine, recognized risk factors for gastric cancer. الخيار D، Gastric ulcers pose a risk for gastric cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High socioeconomic status is a risk factor. يصبح صحيحًا في سؤال يصف Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine, recognized risk factors for gastric cancer.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Nicotine use is a risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor. الخيار B، An infection with H.pylori is a frequent cause of gastric cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor. الخيار C، Partial gastrectomy is a known risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor. الخيار D، Gastric ulcers pose a risk for gastric cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Nicotine use is a risk factor",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High socioeconomic status is a risk factor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine, recognized risk factors for gastric cancer."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor."
         },
         {
           "letter": "B",
           "text": "An infection with H.pylori is a frequent cause of gastric cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High socioeconomic status is a risk factor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine, recognized risk factors for gastric cancer."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor."
         },
         {
           "letter": "C",
           "text": "Partial gastrectomy is a known risk factor",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High socioeconomic status is a risk factor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine, recognized risk factors for gastric cancer."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor."
         },
         {
           "letter": "D",
           "text": "Gastric ulcers pose a risk for gastric cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High socioeconomic status is a risk factor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine, recognized risk factors for gastric cancer."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor."
         },
         {
           "letter": "E",

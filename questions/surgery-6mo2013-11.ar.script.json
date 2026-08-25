@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hemicolectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroidectomy. يصبح صحيحًا في سؤال يصف Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a contaminated or higher-risk field and require antibiotic prophylaxis, unlike simple thyroidectomy which is a clean procedure. الخيار C، Appendectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroidectomy. يصبح صحيحًا في سؤال يصف Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a contaminated or higher-risk field and require antibiotic prophylaxis, unlike simple thyroidectomy which is a clean procedure. الخيار D، Pulmonary lobectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroidectomy. يصبح صحيحًا في سؤال يصف Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a contaminated or higher-risk field and require antibiotic prophylaxis, unlike simple thyroidectomy which is a clean procedure. الخيار E، Cholecystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroidectomy. يصبح صحيحًا في سؤال يصف Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a contaminated or higher-risk field and require antibiotic prophylaxis, unlike simple thyroidectomy which is a clean procedure.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Hemicolectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy. الخيار C، Appendectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy. الخيار D، Pulmonary lobectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy. الخيار E، Cholecystectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Hemicolectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroidectomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a contaminated or higher-risk field and require…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy."
         },
         {
           "letter": "C",
           "text": "Appendectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroidectomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a contaminated or higher-risk field and require…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy."
         },
         {
           "letter": "D",
           "text": "Pulmonary lobectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroidectomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a contaminated or higher-risk field and require…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy."
         },
         {
           "letter": "E",
           "text": "Cholecystectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroidectomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a contaminated or higher-risk field and require…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy."
         }
       ]
     },

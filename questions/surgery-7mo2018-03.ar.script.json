@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، High specificity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low sensitivity. يصبح صحيحًا في سؤال يصف High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a significant health burden are all valid criteria for an ideal screening test. الخيار C، Safe, rapid and easy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low sensitivity. يصبح صحيحًا في سؤال يصف High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a significant health burden are all valid criteria for an ideal screening test. الخيار D، Cost-effective: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low sensitivity. يصبح صحيحًا في سؤال يصف High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a significant health burden are all valid criteria for an ideal screening test. الخيار E، For significant suffering disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low sensitivity. يصبح صحيحًا في سؤال يصف High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a significant health burden are all valid criteria for an ideal screening test.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، High specificity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity. الخيار C، Safe, rapid and easy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity. الخيار D، Cost-effective: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity. الخيار E، For significant suffering disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity.",
       "verdicts": [
         {
           "letter": "A",
           "text": "High specificity",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low sensitivity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a significant health burden are all valid criteria for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Safe, rapid and easy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low sensitivity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a significant health burden are all valid criteria for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity."
         },
         {
           "letter": "D",
           "text": "Cost-effective",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low sensitivity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a significant health burden are all valid criteria for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity."
         },
         {
           "letter": "E",
           "text": "For significant suffering disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low sensitivity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a significant health burden are all valid criteria for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity."
         }
       ]
     },

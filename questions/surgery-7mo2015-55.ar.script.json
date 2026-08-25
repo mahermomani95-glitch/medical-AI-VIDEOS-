@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urine NA 10: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality 200. يصبح صحيحًا في سؤال يصف Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%, and elevated urine/plasma creatinine ratio around 50 are all consistent with prerenal azotemia (concentrated urine, sodium conservation), unlike a urine osmolality of 200, which is low/dilute and inconsistent with prerenal failure (which shows concentrated urine, typically above 500). الخيار B، BUN/creatinine ratio 30:1: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality 200. يصبح صحيحًا في سؤال يصف Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%, and elevated urine/plasma creatinine ratio around 50 are all consistent with prerenal azotemia (concentrated urine, sodium conservation), unlike a urine osmolality of 200, which is low/dilute and inconsistent with prerenal failure (which shows concentrated urine, typically above 500). الخيار C، Fe Na 0.5%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality 200. يصبح صحيحًا في سؤال يصف Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%, and elevated urine/plasma creatinine ratio around 50 are all consistent with prerenal azotemia (concentrated urine, sodium conservation), unlike a urine osmolality of 200, which is low/dilute and inconsistent with prerenal failure (which shows concentrated urine, typically above 500). الخيار E، Creatinine/creatinine plasma 50: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality 200. يصبح صحيحًا في سؤال يصف Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%, and elevated urine/plasma creatinine ratio around 50 are all consistent with prerenal azotemia (concentrated urine, sodium conservation), unlike a urine osmolality of 200, which is low/dilute and inconsistent with prerenal failure (which shows concentrated urine, typically above 500).",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Urine NA 10: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200. الخيار B، BUN/creatinine ratio 30:1: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200. الخيار C، Fe Na 0.5%: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200. الخيار E، Creatinine/creatinine plasma 50: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Urine NA 10",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality 200.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%, and elevated urine/plasma creatinine ratio around 50…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200."
         },
         {
           "letter": "B",
           "text": "BUN/creatinine ratio 30:1",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality 200.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%, and elevated urine/plasma creatinine ratio around 50…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200."
         },
         {
           "letter": "C",
           "text": "Fe Na 0.5%",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality 200.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%, and elevated urine/plasma creatinine ratio around 50…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Creatinine/creatinine plasma 50",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality 200.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%, and elevated urine/plasma creatinine ratio around 50…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200."
         }
       ]
     },

@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، hemochromatosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HCC. يصبح صحيحًا في سؤال يصف Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine chronic liver injury-related risk factors for HCC, unlike oral contraceptive use, which is linked to benign hepatic adenoma. الخيار B، alpha-1 antitrypsin deficiency: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HCC. يصبح صحيحًا في سؤال يصف Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine chronic liver injury-related risk factors for HCC, unlike oral contraceptive use, which is linked to benign hepatic adenoma. الخيار C، hepatitis B infection: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HCC. يصبح صحيحًا في سؤال يصف Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine chronic liver injury-related risk factors for HCC, unlike oral contraceptive use, which is linked to benign hepatic adenoma. الخيار D، hepatitis C infection: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HCC. يصبح صحيحًا في سؤال يصف Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine chronic liver injury-related risk factors for HCC, unlike oral contraceptive use, which is linked to benign hepatic adenoma.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، hemochromatosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage. الخيار B، alpha-1 antitrypsin deficiency: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage. الخيار C، hepatitis B infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage. الخيار D، hepatitis C infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage.",
       "verdicts": [
         {
           "letter": "A",
           "text": "hemochromatosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine chronic liver injury-related risk factors for HCC…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage."
         },
         {
           "letter": "B",
           "text": "alpha-1 antitrypsin deficiency",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine chronic liver injury-related risk factors for HCC…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage."
         },
         {
           "letter": "C",
           "text": "hepatitis B infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine chronic liver injury-related risk factors for HCC…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage."
         },
         {
           "letter": "D",
           "text": "hepatitis C infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine chronic liver injury-related risk factors for HCC…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage."
         },
         {
           "letter": "E",

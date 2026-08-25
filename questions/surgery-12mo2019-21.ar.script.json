@@ -75,14 +75,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Early airway intubation may be needed: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antibiotic administration is required. يصبح صحيحًا في سؤال يصف Early airway intubation, IV fluid replacement, and monitoring urine output are all correct standard components of inhalation injury management. الخيار C، IV fluid replacement is a must: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antibiotic administration is required. يصبح صحيحًا في سؤال يصف Early airway intubation, IV fluid replacement, and monitoring urine output are all correct standard components of inhalation injury management. الخيار D، Monitoring of urine output: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antibiotic administration is required. يصبح صحيحًا في سؤال يصف Early airway intubation, IV fluid replacement, and monitoring urine output are all correct standard components of inhalation injury management.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Early airway intubation may be needed: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required. الخيار C، IV fluid replacement is a must: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required. الخيار D، Monitoring of urine output: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Early airway intubation may be needed",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antibiotic administration is required.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Early airway intubation, IV fluid replacement, and monitoring urine output are all correct standard components of inhalation injury management."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required."
         },
         {
           "letter": "B",
@@ -94,15 +94,15 @@
           "letter": "C",
           "text": "IV fluid replacement is a must",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antibiotic administration is required.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Early airway intubation, IV fluid replacement, and monitoring urine output are all correct standard components of inhalation injury management."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required."
         },
         {
           "letter": "D",
           "text": "Monitoring of urine output",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Antibiotic administration is required.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Early airway intubation, IV fluid replacement, and monitoring urine output are all correct standard components of inhalation injury management."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required."
         }
       ]
     },

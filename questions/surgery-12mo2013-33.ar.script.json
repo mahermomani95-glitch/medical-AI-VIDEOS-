@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Insuring adequate ventilatory support: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey. يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey, unlike detailed wound exploration and suturing, which belongs to the secondary survey. الخيار B، Measurement of blood pressure and pulse: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey. يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey, unlike detailed wound exploration and suturing, which belongs to the secondary survey. الخيار C، Neurologic evaluation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey. يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey, unlike detailed wound exploration and suturing, which belongs to the secondary survey. الخيار D، Protection of the cervical spine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey. يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey, unlike detailed wound exploration and suturing, which belongs to the secondary survey.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Insuring adequate ventilatory support: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing. الخيار B، Measurement of blood pressure and pulse: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing. الخيار C، Neurologic evaluation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing. الخيار D، Protection of the cervical spine: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Insuring adequate ventilatory support",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing."
         },
         {
           "letter": "B",
           "text": "Measurement of blood pressure and pulse",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing."
         },
         {
           "letter": "C",
           "text": "Neurologic evaluation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing."
         },
         {
           "letter": "D",
           "text": "Protection of the cervical spine",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing."
         },
         {
           "letter": "E",

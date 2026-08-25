@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tachypnea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unilaterally dull on percussion. يصبح صحيحًا في سؤال يصف Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and decreased tactile fremitus are all classic findings of tension pneumothorax. الخيار B، Asymmetric lung expansion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unilaterally dull on percussion. يصبح صحيحًا في سؤال يصف Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and decreased tactile fremitus are all classic findings of tension pneumothorax. الخيار C، Unilaterally decreased/absent lung sounds common: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unilaterally dull on percussion. يصبح صحيحًا في سؤال يصف Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and decreased tactile fremitus are all classic findings of tension pneumothorax. الخيار E، Decreased tactile fremitus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unilaterally dull on percussion. يصبح صحيحًا في سؤال يصف Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and decreased tactile fremitus are all classic findings of tension pneumothorax.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tachypnea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion. الخيار B، Asymmetric lung expansion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion. الخيار C، Unilaterally decreased/absent lung sounds common: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion. الخيار E، Decreased tactile fremitus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Tachypnea",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unilaterally dull on percussion.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and decreased tactile fremitus are all classic findings of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion."
         },
         {
           "letter": "B",
           "text": "Asymmetric lung expansion",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unilaterally dull on percussion.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and decreased tactile fremitus are all classic findings of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion."
         },
         {
           "letter": "C",
           "text": "Unilaterally decreased/absent lung sounds common",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unilaterally dull on percussion.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and decreased tactile fremitus are all classic findings of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Decreased tactile fremitus",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unilaterally dull on percussion.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and decreased tactile fremitus are all classic findings of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion."
         }
       ]
     },

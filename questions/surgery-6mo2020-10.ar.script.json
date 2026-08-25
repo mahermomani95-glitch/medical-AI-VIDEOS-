@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Use smoke evacuation machine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside the theater. يصبح صحيحًا في سؤال يصف Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective visits were all genuine COVID-19 precautions, unlike performing intubation/extubation outside the theater which was incorrect practice. الخيار C، PPE for all medical staff: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside the theater. يصبح صحيحًا في سؤال يصف Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective visits were all genuine COVID-19 precautions, unlike performing intubation/extubation outside the theater which was incorrect practice. الخيار D، Use less number of staff: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside the theater. يصبح صحيحًا في سؤال يصف Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective visits were all genuine COVID-19 precautions, unlike performing intubation/extubation outside the theater which was incorrect practice. الخيار E، Elective in-person appointments should be delayed or conducted via telemedicine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside the theater. يصبح صحيحًا في سؤال يصف Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective visits were all genuine COVID-19 precautions, unlike performing intubation/extubation outside the theater which was incorrect practice.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Use smoke evacuation machine: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside the theater. الخيار C، PPE for all medical staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside the theater. الخيار D، Use less number of staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside the theater. الخيار E، Elective in-person appointments should be delayed or conducted via telemedicine: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside the theater.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Use smoke evacuation machine",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside the theater.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective visits were all genuine COVID-19 precautions…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside the theater."
         },
         {
           "letter": "C",
           "text": "PPE for all medical staff",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside the theater.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective visits were all genuine COVID-19 precautions…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside the theater."
         },
         {
           "letter": "D",
           "text": "Use less number of staff",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside the theater.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective visits were all genuine COVID-19 precautions…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside the theater."
         },
         {
           "letter": "E",
           "text": "Elective in-person appointments should be delayed or conducted via telemedicine",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside the theater.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective visits were all genuine COVID-19 precautions…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Using a smoke evacuation machine, PPE for all staff, using fewer staff, and delaying elective…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside the theater."
         }
       ]
     },

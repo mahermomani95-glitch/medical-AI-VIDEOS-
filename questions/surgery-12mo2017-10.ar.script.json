@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Wilms tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urinary bladder tumor. يصبح صحيحًا في سؤال يصف Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of a painless abdominal/flank mass in young children, unlike bladder tumors, which are exceedingly rare in this age group. الخيار B، Neuroblastoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urinary bladder tumor. يصبح صحيحًا في سؤال يصف Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of a painless abdominal/flank mass in young children, unlike bladder tumors, which are exceedingly rare in this age group. الخيار D، Mesoblastic nephroma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urinary bladder tumor. يصبح صحيحًا في سؤال يصف Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of a painless abdominal/flank mass in young children, unlike bladder tumors, which are exceedingly rare in this age group. الخيار E، Hepatoblastoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urinary bladder tumor. يصبح صحيحًا في سؤال يصف Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of a painless abdominal/flank mass in young children, unlike bladder tumors, which are exceedingly rare in this age group.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Wilms tumor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor. الخيار B، Neuroblastoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor. الخيار D، Mesoblastic nephroma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor. الخيار E، Hepatoblastoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Wilms tumor",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urinary bladder tumor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of a painless abdominal/flank mass in young children…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor."
         },
         {
           "letter": "B",
           "text": "Neuroblastoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urinary bladder tumor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of a painless abdominal/flank mass in young children…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Mesoblastic nephroma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urinary bladder tumor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of a painless abdominal/flank mass in young children…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor."
         },
         {
           "letter": "E",
           "text": "Hepatoblastoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urinary bladder tumor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of a painless abdominal/flank mass in young children…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, mesoblastic nephroma, and hepatoblastoma are all classic causes of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor."
         }
       ]
     },

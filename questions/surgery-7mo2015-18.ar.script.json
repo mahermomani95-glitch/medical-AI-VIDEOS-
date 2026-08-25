@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Loss of platelet inhibition and thrombosis formation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The primary therapy is steroids. يصبح صحيحًا في سؤال يصف Increased (not lost) platelet aggregation and thrombosis is the actual mechanism in TTP. الخيار B، Splenomegaly: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The primary therapy is steroids. يصبح صحيحًا في سؤال يصف splenomegaly and rare splenectomy use are true. الخيار C، Splenectomy is rarely indicated: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The primary therapy is steroids. يصبح صحيحًا في سؤال يصف splenomegaly and rare splenectomy use are true. الخيار E، Associated with HUS: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا steroids, making D the false statement. يصبح صحيحًا في سؤال يصف association with HUS is also true — however, the primary therapy for TTP is plasmapheresis (plasma exchange).",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Loss of platelet inhibition and thrombosis formation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Increased (not lost) platelet aggregation and thrombosis is the actual mechanism in TTP يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The primary therapy is steroids. الخيار B، Splenomegaly: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. splenomegaly and rare splenectomy use are true يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The primary therapy is steroids. الخيار C، Splenectomy is rarely indicated: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. splenomegaly and rare splenectomy use are true يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The primary therapy is steroids. الخيار E، Associated with HUS: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. association with HUS is also true — however, the primary therapy for TTP is plasmapheresis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The primary therapy is steroids.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Loss of platelet inhibition and thrombosis formation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The primary therapy is steroids.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Increased (not lost) platelet aggregation and thrombosis is the actual mechanism in TTP."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Increased (not lost) platelet aggregation and thrombosis is the actual mechanism in TTP",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The primary therapy is steroids."
         },
         {
           "letter": "B",
           "text": "Splenomegaly",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The primary therapy is steroids.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف splenomegaly and rare splenectomy use are true."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. splenomegaly and rare splenectomy use are true",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The primary therapy is steroids."
         },
         {
           "letter": "C",
           "text": "Splenectomy is rarely indicated",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The primary therapy is steroids.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف splenomegaly and rare splenectomy use are true."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. splenomegaly and rare splenectomy use are true",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The primary therapy is steroids."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Associated with HUS",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا steroids, making D the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف association with HUS is also true — however, the primary therapy for TTP is plasmapheresis (plasma exchange)."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. association with HUS is also true — however, the primary therapy for TTP is plasmapheresis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The primary therapy is steroids."
         }
       ]
     },

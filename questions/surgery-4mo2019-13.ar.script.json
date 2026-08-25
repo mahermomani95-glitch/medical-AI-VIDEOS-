@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Follicular carcinoma - Hematogenous metastasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic thyroid carcinoma - Very good prognosis. يصبح صحيحًا في سؤال يصف Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its multifocal nature, and its excellent prognosis are all correct statements. الخيار C، Papillary carcinoma - Psammoma bodies: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic thyroid carcinoma - Very good prognosis. يصبح صحيحًا في سؤال يصف Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its multifocal nature, and its excellent prognosis are all correct statements. الخيار D، Papillary carcinoma - multifocal: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic thyroid carcinoma - Very good prognosis. يصبح صحيحًا في سؤال يصف Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its multifocal nature, and its excellent prognosis are all correct statements. الخيار E، Papillary carcinoma - Very good prognosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic thyroid carcinoma - Very good prognosis. يصبح صحيحًا في سؤال يصف Psammoma bodies, multifocal presentation, and very good prognosis are all true features of papillary thyroid carcinoma, unlike the false MEN association which belongs to medullary carcinoma instead.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Follicular carcinoma - Hematogenous metastasis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis. الخيار C، Papillary carcinoma - Psammoma bodies: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis. الخيار D، Papillary carcinoma - multifocal: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis. الخيار E، Papillary carcinoma - Very good prognosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Psammoma bodies, multifocal presentation, and very good prognosis are all true features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Follicular carcinoma - Hematogenous metastasis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic thyroid carcinoma - Very good prognosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its multifocal nature, and its excellent prognosis are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Papillary carcinoma - Psammoma bodies",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic thyroid carcinoma - Very good prognosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its multifocal nature, and its excellent prognosis are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis."
         },
         {
           "letter": "D",
           "text": "Papillary carcinoma - multifocal",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic thyroid carcinoma - Very good prognosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its multifocal nature, and its excellent prognosis are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis."
         },
         {
           "letter": "E",
           "text": "Papillary carcinoma - Very good prognosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic thyroid carcinoma - Very good prognosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Psammoma bodies, multifocal presentation, and very good prognosis are all true features of papillary thyroid carcinoma, unlike the false MEN…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Psammoma bodies, multifocal presentation, and very good prognosis are all true features of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis."
         }
       ]
     },

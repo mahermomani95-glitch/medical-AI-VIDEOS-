@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، obey commands: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in the GCS scoring system itself. يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all genuine components of the GCS motor/eye/verbal scoring, unlike pupil size, which is a separate neurological exam finding. الخيار B، Localizes painful stimuli: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in the GCS scoring system itself. يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all genuine components of the GCS motor/eye/verbal scoring, unlike pupil size, which is a separate neurological exam finding. الخيار C، Open eyes to calling: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in the GCS scoring system itself. يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all genuine components of the GCS motor/eye/verbal scoring, unlike pupil size, which is a separate neurological exam finding. الخيار D، Incomprehensible sounds: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in the GCS scoring system itself. يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all genuine components of the GCS motor/eye/verbal scoring, unlike pupil size, which is a separate neurological exam finding.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، obey commands: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size. الخيار B، Localizes painful stimuli: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size. الخيار C، Open eyes to calling: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size. الخيار D، Incomprehensible sounds: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size.",
       "verdicts": [
         {
           "letter": "A",
           "text": "obey commands",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in the GCS scoring system itself.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all genuine components of the GCS motor/eye/verbal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size."
         },
         {
           "letter": "B",
           "text": "Localizes painful stimuli",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in the GCS scoring system itself.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all genuine components of the GCS motor/eye/verbal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size."
         },
         {
           "letter": "C",
           "text": "Open eyes to calling",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in the GCS scoring system itself.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all genuine components of the GCS motor/eye/verbal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size."
         },
         {
           "letter": "D",
           "text": "Incomprehensible sounds",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in the GCS scoring system itself.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all genuine components of the GCS motor/eye/verbal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size."
         },
         {
           "letter": "E",

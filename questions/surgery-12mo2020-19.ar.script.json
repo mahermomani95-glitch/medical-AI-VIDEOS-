@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، PPE for all medical staff: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside theater. يصبح صحيحًا في سؤال يصف PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and relying on laparoscopic over open procedures were all true recommendations during the pandemic. الخيار C، Work with minimal staff: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside theater. يصبح صحيحًا في سؤال يصف PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and relying on laparoscopic over open procedures were all true recommendations during the pandemic. الخيار D، Treat all patient as COVID-19: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside theater. يصبح صحيحًا في سؤال يصف PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and relying on laparoscopic over open procedures were all true recommendations during the pandemic. الخيار E، Relay on laparoscopic procedures rather than open: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside theater. يصبح صحيحًا في سؤال يصف PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and relying on laparoscopic over open procedures were all true recommendations during the pandemic.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، PPE for all medical staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater. الخيار C، Work with minimal staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater. الخيار D، Treat all patient as COVID-19: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater. الخيار E، Relay on laparoscopic procedures rather than open: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater.",
       "verdicts": [
         {
           "letter": "A",
           "text": "PPE for all medical staff",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside theater.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and relying on laparoscopic over open procedures were…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Work with minimal staff",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside theater.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and relying on laparoscopic over open procedures were…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater."
         },
         {
           "letter": "D",
           "text": "Treat all patient as COVID-19",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside theater.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and relying on laparoscopic over open procedures were…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater."
         },
         {
           "letter": "E",
           "text": "Relay on laparoscopic procedures rather than open",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubate and extubate outside theater.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and relying on laparoscopic over open procedures were…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater."
         }
       ]
     },

@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Febrile reaction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications of blood transfusion, especially with massive/rapid transfusion. الخيار B، Hyperkalemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications of blood transfusion, especially with massive/rapid transfusion. الخيار D، Hypocalcemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications of blood transfusion, especially with massive/rapid transfusion. الخيار E، Hypothermia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications of blood transfusion, especially with massive/rapid transfusion.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Febrile reaction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار B، Hyperkalemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار D، Hypocalcemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار E، Hypothermia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Febrile reaction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications of blood transfusion, especially with…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia."
         },
         {
           "letter": "B",
           "text": "Hyperkalemia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications of blood transfusion, especially with…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Hypocalcemia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications of blood transfusion, especially with…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia."
         },
         {
           "letter": "E",
           "text": "Hypothermia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications of blood transfusion, especially with…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia."
         }
       ]
     },

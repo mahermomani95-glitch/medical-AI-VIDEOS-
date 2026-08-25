@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Asymmetric shape: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uniform pigmentation. يصبح صحيحًا في سؤال يصف Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized high-risk features for malignant transformation, part of the broader ABCDE criteria. الخيار B، Ulceration or bleeding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uniform pigmentation. يصبح صحيحًا في سؤال يصف Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized high-risk features for malignant transformation, part of the broader ABCDE criteria. الخيار C، Increase in size: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uniform pigmentation. يصبح صحيحًا في سؤال يصف Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized high-risk features for malignant transformation, part of the broader ABCDE criteria. الخيار E، itching: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uniform pigmentation. يصبح صحيحًا في سؤال يصف Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized high-risk features for malignant transformation, part of the broader ABCDE criteria.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Asymmetric shape: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation. الخيار B، Ulceration or bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation. الخيار C، Increase in size: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation. الخيار E، itching: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Asymmetric shape",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uniform pigmentation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized high-risk features for malignant transformation, part of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation."
         },
         {
           "letter": "B",
           "text": "Ulceration or bleeding",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uniform pigmentation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized high-risk features for malignant transformation, part of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation."
         },
         {
           "letter": "C",
           "text": "Increase in size",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uniform pigmentation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized high-risk features for malignant transformation, part of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "itching",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uniform pigmentation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized high-risk features for malignant transformation, part of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation."
         }
       ]
     },

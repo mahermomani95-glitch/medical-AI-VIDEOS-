@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease. يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized complications of gallstones, unlike liver cirrhosis, which. الخيار B، Mucocele: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease. يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized complications of gallstones, unlike liver cirrhosis, which. الخيار C، Acute cholycystitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease. يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized complications of gallstones, unlike liver cirrhosis, which. الخيار E، Pancreatitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease. يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized complications of gallstones, unlike liver cirrhosis, which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intestinal obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار B، Mucocele: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار C، Acute cholycystitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار E، Pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Intestinal obstruction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis."
         },
         {
           "letter": "B",
           "text": "Mucocele",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis."
         },
         {
           "letter": "C",
           "text": "Acute cholycystitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Pancreatitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis."
         }
       ]
     },

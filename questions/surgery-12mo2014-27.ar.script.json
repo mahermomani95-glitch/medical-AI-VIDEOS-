@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Smoking: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates. يصبح صحيحًا في سؤال يستهدف Smoking تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Alcohol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates. يصبح صحيحًا في سؤال يستهدف Alcohol تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، H. Pylori infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates. يصبح صحيحًا في سؤال يستهدف H. Pylori infection تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Chronic atrophic gastritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates. يصبح صحيحًا في سؤال يصف chronic atrophic gastritis are all established gastric cancer risk factors.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Smoking: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Diet low in nitrates. الخيار B، Alcohol: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Diet low in nitrates. الخيار C، H. Pylori infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Diet low in nitrates. الخيار D، Chronic atrophic gastritis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Diet low in nitrates.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Smoking",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Smoking تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Diet low in nitrates."
         },
         {
           "letter": "B",
           "text": "Alcohol",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Alcohol تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Diet low in nitrates."
         },
         {
           "letter": "C",
           "text": "H. Pylori infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف H. Pylori infection تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Diet low in nitrates."
         },
         {
           "letter": "D",
           "text": "Chronic atrophic gastritis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف chronic atrophic gastritis are all established gastric cancer risk factors."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Diet low in nitrates."
         },
         {
           "letter": "E",

@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Virchow node: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an exam sign. يصبح صحيحًا في سؤال يصف Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node (D, umbilical), and Irish node (E, left axillary) are all real physical exam signs of gastric cancer metastasis — the false statement is anemia being classified the same way, since it's a lab finding. الخيار B، Blumer shelf: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an exam sign. يصبح صحيحًا في سؤال يصف Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node (D, umbilical), and Irish node (E, left axillary) are all real physical exam signs of gastric cancer metastasis — the false statement is anemia being classified the same way, since it's a lab finding. الخيار D، Sister mary Joseph node: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an exam sign. يصبح صحيحًا في سؤال يصف Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node (D, umbilical), and Irish node (E, left axillary) are all real physical exam signs of gastric cancer metastasis — the false statement is anemia being classified the same way, since it's a lab finding. الخيار E، Irish node: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an exam sign. يصبح صحيحًا في سؤال يصف Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node (D, umbilical), and Irish node (E, left axillary) are all real physical exam signs of gastric cancer metastasis — the false statement is anemia being classified the same way, since it's a lab finding.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Virchow node: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IDA. الخيار B، Blumer shelf: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IDA. الخيار D، Sister mary Joseph node: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IDA. الخيار E، Irish node: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IDA.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Virchow node",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an exam sign.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node (D, umbilical), and Irish node (E, left axillary)…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IDA."
         },
         {
           "letter": "B",
           "text": "Blumer shelf",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an exam sign.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node (D, umbilical), and Irish node (E, left axillary)…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IDA."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Sister mary Joseph node",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an exam sign.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node (D, umbilical), and Irish node (E, left axillary)…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IDA."
         },
         {
           "letter": "E",
           "text": "Irish node",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an exam sign.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node (D, umbilical), and Irish node (E, left axillary)…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Virchow's node (A, supraclavicular), Blumer's shelf (B, rectal shelf), Sister Mary Joseph node…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IDA."
         }
       ]
     },

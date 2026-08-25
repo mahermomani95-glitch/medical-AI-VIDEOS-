@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Failure to do complete aspiration: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا by itself an indication for surgical removal. يصبح صحيحًا في سؤال يصف Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and recurrence after repeated aspiration are all genuine indications for surgery, unlike a painless cyst alone, which. الخيار B، Large cyst > 4 cm: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا by itself an indication for surgical removal. يصبح صحيحًا في سؤال يصف Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and recurrence after repeated aspiration are all genuine indications for surgery, unlike a painless cyst alone, which. الخيار C، Complex cyst (solid _ cystic): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا by itself an indication for surgical removal. يصبح صحيحًا في سؤال يصف Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and recurrence after repeated aspiration are all genuine indications for surgery, unlike a painless cyst alone, which. الخيار D، Recurrence after frequent aspirations: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا by itself an indication for surgical removal. يصبح صحيحًا في سؤال يصف Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and recurrence after repeated aspiration are all genuine indications for surgery, unlike a painless cyst alone, which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Failure to do complete aspiration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless. الخيار B، Large cyst > 4 cm: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless. الخيار C، Complex cyst (solid _ cystic): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless. الخيار D، Recurrence after frequent aspirations: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Failure to do complete aspiration",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا by itself an indication for surgical removal.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and recurrence after repeated aspiration are all genuine…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless."
         },
         {
           "letter": "B",
           "text": "Large cyst > 4 cm",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا by itself an indication for surgical removal.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and recurrence after repeated aspiration are all genuine…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless."
         },
         {
           "letter": "C",
           "text": "Complex cyst (solid _ cystic)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا by itself an indication for surgical removal.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and recurrence after repeated aspiration are all genuine…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless."
         },
         {
           "letter": "D",
           "text": "Recurrence after frequent aspirations",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا by itself an indication for surgical removal.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and recurrence after repeated aspiration are all genuine…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless."
         },
         {
           "letter": "E",

@@ -75,14 +75,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ultrasound shows hypochoic thyroid lesions: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification. يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features. الخيار C، Irregular margins: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification. يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features. الخيار D، Medullary carcinoma is associated with MEN2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification. يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ultrasound shows hypochoic thyroid lesions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification. الخيار C، Irregular margins: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification. الخيار D، Medullary carcinoma is associated with MEN2: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Ultrasound shows hypochoic thyroid lesions",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification."
         },
         {
           "letter": "B",
@@ -94,15 +94,15 @@
           "letter": "C",
           "text": "Irregular margins",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification."
         },
         {
           "letter": "D",
           "text": "Medullary carcinoma is associated with MEN2",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification."
         }
       ]
     },

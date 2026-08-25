@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، It's autosomal dominant: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adenomatous, making A the false statement. يصبح صحيحًا في سؤال يصف Being autosomal dominant, causing small bowel obstruction as the most common presentation (C, from intussusception), increased small bowel cancer risk, and increased breast cancer risk are all true statements about Peutz-Jeghers syndrome — however, the classic small bowel lesions are HAMARTOMATOUS polyps. الخيار C، Small bowel obstruction is the most common presentation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adenomatous, making A the false statement. يصبح صحيحًا في سؤال يصف Being autosomal dominant, causing small bowel obstruction as the most common presentation (C, from intussusception), increased small bowel cancer risk, and increased breast cancer risk are all true statements about Peutz-Jeghers syndrome — however, the classic small bowel lesions are HAMARTOMATOUS polyps. الخيار D، There is an increased risk of small bowel cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adenomatous, making A the false statement. يصبح صحيحًا في سؤال يصف Being autosomal dominant, causing small bowel obstruction as the most common presentation (C, from intussusception), increased small bowel cancer risk, and increased breast cancer risk are all true statements about Peutz-Jeghers syndrome — however, the classic small bowel lesions are HAMARTOMATOUS polyps. الخيار E، There is an increased risk of breast cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adenomatous, making A the false statement. يصبح صحيحًا في سؤال يصف Being autosomal dominant, causing small bowel obstruction as the most common presentation (C, from intussusception), increased small bowel cancer risk, and increased breast cancer risk are all true statements about Peutz-Jeghers syndrome — however, the classic small bowel lesions are HAMARTOMATOUS polyps.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، It's autosomal dominant: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps. الخيار C، Small bowel obstruction is the most common presentation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps. الخيار D، There is an increased risk of small bowel cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps. الخيار E، There is an increased risk of breast cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "It's autosomal dominant",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adenomatous, making A the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Being autosomal dominant, causing small bowel obstruction as the most common presentation (C, from intussusception), increased small bowel cancer…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps."
         },
         {
           "letter": "C",
           "text": "Small bowel obstruction is the most common presentation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adenomatous, making A the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Being autosomal dominant, causing small bowel obstruction as the most common presentation (C, from intussusception), increased small bowel cancer…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps."
         },
         {
           "letter": "D",
           "text": "There is an increased risk of small bowel cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adenomatous, making A the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Being autosomal dominant, causing small bowel obstruction as the most common presentation (C, from intussusception), increased small bowel cancer…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps."
         },
         {
           "letter": "E",
           "text": "There is an increased risk of breast cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adenomatous, making A the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Being autosomal dominant, causing small bowel obstruction as the most common presentation (C, from intussusception), increased small bowel cancer…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps."
         }
       ]
     },

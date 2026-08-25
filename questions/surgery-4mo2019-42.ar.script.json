@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Between 50-75% of patients present with the classical symptoms and signs of acute appendicitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Alvarado score is not commonly used for diagnosis of acute appendicitis. يصبح صحيحًا في سؤال يصف The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's sign being helpful, and vomiting before pain onset making appendicitis unlikely are all correct statements. الخيار B، Presence of a good appetite makes appendicitis unlikely: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Alvarado score is not commonly used for diagnosis of acute appendicitis. يصبح صحيحًا في سؤال يصف The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's sign being helpful, and vomiting before pain onset making appendicitis unlikely are all correct statements. الخيار C، Rovsing's sign may be helpful in diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Alvarado score is not commonly used for diagnosis of acute appendicitis. يصبح صحيحًا في سؤال يصف The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's sign being helpful, and vomiting before pain onset making appendicitis unlikely are all correct statements. الخيار E، Vomiting prior to the onset of pain makes appendicitis unlikely: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Alvarado score is not commonly used for diagnosis of acute appendicitis. يصبح صحيحًا في سؤال يصف The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's sign being helpful, and vomiting before pain onset making appendicitis unlikely are all correct statements.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Between 50-75% of patients present with the classical symptoms and signs of acute appendicitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis. الخيار B، Presence of a good appetite makes appendicitis unlikely: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis. الخيار C، Rovsing's sign may be helpful in diagnosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis. الخيار E، Vomiting prior to the onset of pain makes appendicitis unlikely: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Between 50-75% of patients present with the classical symptoms and signs of acute…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Alvarado score is not commonly used for diagnosis of acute appendicitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's sign being helpful, and vomiting before pain onset…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis."
         },
         {
           "letter": "B",
           "text": "Presence of a good appetite makes appendicitis unlikely",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Alvarado score is not commonly used for diagnosis of acute appendicitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's sign being helpful, and vomiting before pain onset…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis."
         },
         {
           "letter": "C",
           "text": "Rovsing's sign may be helpful in diagnosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Alvarado score is not commonly used for diagnosis of acute appendicitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's sign being helpful, and vomiting before pain onset…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Vomiting prior to the onset of pain makes appendicitis unlikely",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Alvarado score is not commonly used for diagnosis of acute appendicitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's sign being helpful, and vomiting before pain onset…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis."
         }
       ]
     },

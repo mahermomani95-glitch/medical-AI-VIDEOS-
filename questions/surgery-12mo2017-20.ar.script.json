@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Age less than 20 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain and tenderness. يصبح صحيحًا في سؤال يستهدف Age less than 20 years تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Age more than 60 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain and tenderness. يصبح صحيحًا في سؤال يستهدف Age more than 60 years تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، New Onest of hoarseness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain and tenderness. يصبح صحيحًا في سؤال يستهدف New Onest of hoarseness تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Female gender: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain and tenderness. يصبح صحيحًا في سؤال يستهدف Female gender تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Age less than 20 years: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار B، Age more than 60 years: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار D، New Onest of hoarseness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار E، Female gender: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Age less than 20 years",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain and tenderness.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Age less than 20 years تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness."
         },
         {
           "letter": "B",
           "text": "Age more than 60 years",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain and tenderness.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Age more than 60 years تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "New Onest of hoarseness",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain and tenderness.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف New Onest of hoarseness تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness."
         },
         {
           "letter": "E",
           "text": "Female gender",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain and tenderness.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Female gender تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness."
         }
       ]
     },

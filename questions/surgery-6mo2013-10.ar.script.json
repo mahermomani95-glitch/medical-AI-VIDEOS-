@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Motor response: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pupil reaction to light. يصبح صحيحًا في سؤال يصف Motor response, eye opening, and verbal response are the three actual GCS components. الخيار B، Eye opening: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pupil reaction to light. يصبح صحيحًا في سؤال يصف Motor response, eye opening, and verbal response are the three actual GCS components. الخيار C، Verbal response: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pupil reaction to light. يصبح صحيحًا في سؤال يصف Motor response, eye opening, and verbal response are the three actual GCS components. الخيار D، Pain response: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a separate component — pupil reaction to light is a distinct, separate neurological exam finding not included in GCS scoring at all. يصبح صحيحًا في سؤال يصف pain response is used as the stimulus to elicit motor/verbal/eye scores.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Motor response: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light. الخيار B، Eye opening: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light. الخيار C، Verbal response: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light. الخيار D، Pain response: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. pain response is used as the stimulus to elicit motor/verbal/eye scores يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Motor response",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pupil reaction to light.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Motor response, eye opening, and verbal response are the three actual GCS components."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light."
         },
         {
           "letter": "B",
           "text": "Eye opening",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pupil reaction to light.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Motor response, eye opening, and verbal response are the three actual GCS components."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light."
         },
         {
           "letter": "C",
           "text": "Verbal response",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pupil reaction to light.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Motor response, eye opening, and verbal response are the three actual GCS components."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light."
         },
         {
           "letter": "D",
           "text": "Pain response",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a separate component — pupil reaction to light is a distinct, separate neurological exam finding not included in GCS scoring…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف pain response is used as the stimulus to elicit motor/verbal/eye scores."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. pain response is used as the stimulus to elicit motor/verbal/eye scores",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light."
         },
         {
           "letter": "E",

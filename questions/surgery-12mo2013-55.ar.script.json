@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Peritonitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself indicate the need for laparotomy. يصبح صحيحًا في سؤال يصف Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications for laparotomy in abdominal trauma, unlike a negative CT/ultrasound showing no free fluid, which is actually reassuring and. الخيار B، Persistent shock: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself indicate the need for laparotomy. يصبح صحيحًا في سؤال يصف Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications for laparotomy in abdominal trauma, unlike a negative CT/ultrasound showing no free fluid, which is actually reassuring and. الخيار D، Uncontrolled hemorrhage: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself indicate the need for laparotomy. يصبح صحيحًا في سؤال يصف Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications for laparotomy in abdominal trauma, unlike a negative CT/ultrasound showing no free fluid, which is actually reassuring and. الخيار E، Gunshot wounds: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself indicate the need for laparotomy. يصبح صحيحًا في سؤال يصف Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications for laparotomy in abdominal trauma, unlike a negative CT/ultrasound showing no free fluid, which is actually reassuring and.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peritonitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound. الخيار B، Persistent shock: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound. الخيار D، Uncontrolled hemorrhage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound. الخيار E، Gunshot wounds: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Peritonitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself indicate the need for laparotomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications for laparotomy in abdominal trauma, unlike a…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound."
         },
         {
           "letter": "B",
           "text": "Persistent shock",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself indicate the need for laparotomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications for laparotomy in abdominal trauma, unlike a…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Uncontrolled hemorrhage",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself indicate the need for laparotomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications for laparotomy in abdominal trauma, unlike a…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound."
         },
         {
           "letter": "E",
           "text": "Gunshot wounds",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself indicate the need for laparotomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications for laparotomy in abdominal trauma, unlike a…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound."
         }
       ]
     },

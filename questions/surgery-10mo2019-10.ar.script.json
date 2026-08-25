@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Temporal nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Orbital nerve. يصبح صحيحًا في سؤال يصف The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches, unlike the fictional 'orbital nerve.'. الخيار C، Zygomatic nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Orbital nerve. يصبح صحيحًا في سؤال يصف The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches, unlike the fictional 'orbital nerve.'. الخيار D، Buccal nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Orbital nerve. يصبح صحيحًا في سؤال يصف The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches, unlike the fictional 'orbital nerve.'. الخيار E، Cervical nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Orbital nerve. يصبح صحيحًا في سؤال يصف The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches, unlike the fictional 'orbital nerve.'.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Temporal nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve. الخيار C، Zygomatic nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve. الخيار D، Buccal nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve. الخيار E، Cervical nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Temporal nerve",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Orbital nerve.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches, unlike the fictional 'orbital nerve.'."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Zygomatic nerve",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Orbital nerve.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches, unlike the fictional 'orbital nerve.'."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve."
         },
         {
           "letter": "D",
           "text": "Buccal nerve",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Orbital nerve.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches, unlike the fictional 'orbital nerve.'."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve."
         },
         {
           "letter": "E",
           "text": "Cervical nerve",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Orbital nerve.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches, unlike the fictional 'orbital nerve.'."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve."
         }
       ]
     },

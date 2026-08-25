@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ovarian torsion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mittelschmerz. يصبح صحيحًا في سؤال يصف Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain possible causes of RLQ pain regardless of menopausal status. الخيار C، Crohn's disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mittelschmerz. يصبح صحيحًا في سؤال يصف Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain possible causes of RLQ pain regardless of menopausal status. الخيار D، Pelvic inflammatory disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mittelschmerz. يصبح صحيحًا في سؤال يصف Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain possible causes of RLQ pain regardless of menopausal status. الخيار E، Acute appendicitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mittelschmerz. يصبح صحيحًا في سؤال يصف Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain possible causes of RLQ pain regardless of menopausal status.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ovarian torsion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz. الخيار C، Crohn's disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz. الخيار D، Pelvic inflammatory disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz. الخيار E، Acute appendicitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Ovarian torsion",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mittelschmerz.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain possible causes of RLQ pain regardless of menopausal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Crohn's disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mittelschmerz.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain possible causes of RLQ pain regardless of menopausal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz."
         },
         {
           "letter": "D",
           "text": "Pelvic inflammatory disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mittelschmerz.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain possible causes of RLQ pain regardless of menopausal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz."
         },
         {
           "letter": "E",
           "text": "Acute appendicitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mittelschmerz.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain possible causes of RLQ pain regardless of menopausal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz."
         }
       ]
     },

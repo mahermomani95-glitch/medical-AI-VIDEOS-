@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Skip lesions: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crypt abscess. يصبح صحيحًا في سؤال يصف Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all classic features of Crohn's disease, unlike crypt abscesses which are more characteristic of ulcerative colitis. الخيار C، Stenosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crypt abscess. يصبح صحيحًا في سؤال يصف Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all classic features of Crohn's disease, unlike crypt abscesses which are more characteristic of ulcerative colitis. الخيار D، Involvement from mouth to anus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crypt abscess. يصبح صحيحًا في سؤال يصف Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all classic features of Crohn's disease, unlike crypt abscesses which are more characteristic of ulcerative colitis. الخيار E، Cobblestone appearance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crypt abscess. يصبح صحيحًا في سؤال يصف Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all classic features of Crohn's disease, unlike crypt abscesses which are more characteristic of ulcerative colitis.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Skip lesions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess. الخيار C، Stenosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess. الخيار D، Involvement from mouth to anus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess. الخيار E، Cobblestone appearance: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Skip lesions",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crypt abscess.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all classic features of Crohn's disease, unlike crypt…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Stenosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crypt abscess.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all classic features of Crohn's disease, unlike crypt…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess."
         },
         {
           "letter": "D",
           "text": "Involvement from mouth to anus",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crypt abscess.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all classic features of Crohn's disease, unlike crypt…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess."
         },
         {
           "letter": "E",
           "text": "Cobblestone appearance",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crypt abscess.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all classic features of Crohn's disease, unlike crypt…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess."
         }
       ]
     },

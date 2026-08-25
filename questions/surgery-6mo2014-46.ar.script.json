@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Brain concussion: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early one. يصبح صحيحًا في سؤال يصف Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head injury, unlike epilepsy/post-traumatic seizures, which more typically develop as a delayed/late complication. الخيار B، Meningitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early one. يصبح صحيحًا في سؤال يصف Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head injury, unlike epilepsy/post-traumatic seizures, which more typically develop as a delayed/late complication. الخيار C، Brain contusion: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early one. يصبح صحيحًا في سؤال يصف Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head injury, unlike epilepsy/post-traumatic seizures, which more typically develop as a delayed/late complication. الخيار E، CSF leak: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early one. يصبح صحيحًا في سؤال يصف Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head injury, unlike epilepsy/post-traumatic seizures, which more typically develop as a delayed/late complication.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Brain concussion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy. الخيار B، Meningitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy. الخيار C، Brain contusion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy. الخيار E، CSF leak: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Brain concussion",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early one.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head injury, unlike epilepsy/post-traumatic seizures…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy."
         },
         {
           "letter": "B",
           "text": "Meningitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early one.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head injury, unlike epilepsy/post-traumatic seizures…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy."
         },
         {
           "letter": "C",
           "text": "Brain contusion",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early one.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head injury, unlike epilepsy/post-traumatic seizures…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "CSF leak",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early one.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head injury, unlike epilepsy/post-traumatic seizures…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion, meningitis, brain contusion, and CSF leak can all present early after head…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy."
         }
       ]
     },

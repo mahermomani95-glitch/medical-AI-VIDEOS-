@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، A recent myocardial infarction is the most important risk factor for perioperative myocardial infarction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery. يصبح صحيحًا في سؤال يصف Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE prophylaxis, and poor glycemic control increasing SSI risk are all true statements — however, ACE inhibitors are typically HELD (not continued) on the day of surgery due to risk of intraoperative hypotension, making B the false statement. الخيار C، You should obtain surgical consent: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery. يصبح صحيحًا في سؤال يصف Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE prophylaxis, and poor glycemic control increasing SSI risk are all true statements — however, ACE inhibitors are typically HELD (not continued) on the day of surgery due to risk of intraoperative hypotension, making B the false statement. الخيار D، LMWH is used in venous thromboembolism prophylaxis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery. يصبح صحيحًا في سؤال يصف Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE prophylaxis, and poor glycemic control increasing SSI risk are all true statements — however, ACE inhibitors are typically HELD (not continued) on the day of surgery due to risk of intraoperative hypotension, making B the false statement. الخيار E، Poorly controlled blood sugar in the preoperative period increases the risk for surgical site infections: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery. يصبح صحيحًا في سؤال يصف Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE prophylaxis, and poor glycemic control increasing SSI risk are all true statements — however, ACE inhibitors are typically HELD (not continued) on the day of surgery due to risk of intraoperative hypotension, making B the false statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، A recent myocardial infarction is the most important risk factor for perioperative myocardial infarction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery. الخيار C، You should obtain surgical consent: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery. الخيار D، LMWH is used in venous thromboembolism prophylaxis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery. الخيار E، Poorly controlled blood sugar in the preoperative period increases the risk for surgical site infections: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery.",
       "verdicts": [
         {
           "letter": "A",
           "text": "A recent myocardial infarction is the most important risk factor for perioperative…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE prophylaxis, and poor glycemic control increasing SSI risk…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patients should take their regular ACE inhibitors Antihypertensive drug's even on…"
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "You should obtain surgical consent",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE prophylaxis, and poor glycemic control increasing SSI risk…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patients should take their regular ACE inhibitors Antihypertensive drug's even on…"
         },
         {
           "letter": "D",
           "text": "LMWH is used in venous thromboembolism prophylaxis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE prophylaxis, and poor glycemic control increasing SSI risk…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patients should take their regular ACE inhibitors Antihypertensive drug's even on…"
         },
         {
           "letter": "E",
           "text": "Poorly controlled blood sugar in the preoperative period increases the risk for surgical…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE prophylaxis, and poor glycemic control increasing SSI risk…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Recent MI as the most important cardiac risk factor, obtaining consent, LMWH for VTE…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patients should take their regular ACE inhibitors Antihypertensive drug's even on…"
         }
       ]
     },

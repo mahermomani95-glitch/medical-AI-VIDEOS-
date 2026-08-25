@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Smoker female: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it. يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause, which actually REDUCES lifetime estrogen exposure and therefore lowers risk. الخيار C، Unbalanced HRT: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it. يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause, which actually REDUCES lifetime estrogen exposure and therefore lowers risk. الخيار D، Nulliparity: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it. يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause, which actually REDUCES lifetime estrogen exposure and therefore lowers risk. الخيار E، Obesity: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it. يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause, which actually REDUCES lifetime estrogen exposure and therefore lowers risk.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Smoker female: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Artificially induced menopause. الخيار C، Unbalanced HRT: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Artificially induced menopause. الخيار D، Nulliparity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Artificially induced menopause. الخيار E، Obesity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Artificially induced menopause.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Smoker female",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Artificially induced menopause."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Unbalanced HRT",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Artificially induced menopause."
         },
         {
           "letter": "D",
           "text": "Nulliparity",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Artificially induced menopause."
         },
         {
           "letter": "E",
           "text": "Obesity",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Artificially induced menopause."
         }
       ]
     },

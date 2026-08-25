@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Effortless vomiting: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا severe pain, which would suggest a mechanical or ischemic process instead. يصبح صحيحًا في سؤال يصف Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and absent bowel sounds are all classic features of paralytic ileus, unlike severe abdominal pain — ileus is typically associated with mild discomfort. الخيار B، Absolute constipation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا severe pain, which would suggest a mechanical or ischemic process instead. يصبح صحيحًا في سؤال يصف Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and absent bowel sounds are all classic features of paralytic ileus, unlike severe abdominal pain — ileus is typically associated with mild discomfort. الخيار C، Abdominal distension: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا severe pain, which would suggest a mechanical or ischemic process instead. يصبح صحيحًا في سؤال يصف Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and absent bowel sounds are all classic features of paralytic ileus, unlike severe abdominal pain — ileus is typically associated with mild discomfort. الخيار E، Absent bowel sounds: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا severe pain, which would suggest a mechanical or ischemic process instead. يصبح صحيحًا في سؤال يصف Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and absent bowel sounds are all classic features of paralytic ileus, unlike severe abdominal pain — ileus is typically associated with mild discomfort.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Effortless vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain. الخيار B، Absolute constipation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain. الخيار C، Abdominal distension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain. الخيار E، Absent bowel sounds: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Effortless vomiting",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا severe pain, which would suggest a mechanical or ischemic process instead.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and absent bowel sounds are all classic features of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain."
         },
         {
           "letter": "B",
           "text": "Absolute constipation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا severe pain, which would suggest a mechanical or ischemic process instead.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and absent bowel sounds are all classic features of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain."
         },
         {
           "letter": "C",
           "text": "Abdominal distension",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا severe pain, which would suggest a mechanical or ischemic process instead.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and absent bowel sounds are all classic features of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Absent bowel sounds",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا severe pain, which would suggest a mechanical or ischemic process instead.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and absent bowel sounds are all classic features of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain."
         }
       ]
     },

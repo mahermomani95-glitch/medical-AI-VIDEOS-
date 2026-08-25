@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Herniotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine prophylaxis. يصبح صحيحًا في سؤال يصف Herniotomy is typically a clean pediatric procedure. الخيار B، Appendectomy for a suppurative appendix: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery. يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all contaminated/dirty procedures that genuinely require prophylactic antibiotics, unlike simple thyroid surgery which is clean. الخيار C، Drainage for a perianal abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery. يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all contaminated/dirty procedures that genuinely require prophylactic antibiotics, unlike simple thyroid surgery which is clean. الخيار D، Surgery for a perforated peptic ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery. يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all contaminated/dirty procedures that genuinely require prophylactic antibiotics, unlike simple thyroid surgery which is clean.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Herniotomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Herniotomy is typically a clean pediatric procedure يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery. الخيار B، Appendectomy for a suppurative appendix: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery. الخيار C، Drainage for a perianal abscess: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery. الخيار D، Surgery for a perforated peptic ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Herniotomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine prophylaxis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Herniotomy is typically a clean pediatric procedure."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Herniotomy is typically a clean pediatric procedure",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery."
         },
         {
           "letter": "B",
           "text": "Appendectomy for a suppurative appendix",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery."
         },
         {
           "letter": "C",
           "text": "Drainage for a perianal abscess",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery."
         },
         {
           "letter": "D",
           "text": "Surgery for a perforated peptic ulcer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery."
         },
         {
           "letter": "E",

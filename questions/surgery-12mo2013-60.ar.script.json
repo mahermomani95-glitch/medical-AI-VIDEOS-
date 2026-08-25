@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intravenous hydration: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا indicated for uncomplicated cases and is reserved for specific complications. يصبح صحيحًا في سؤال يصف IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT, and adequate analgesia are all appropriate components of managing uncomplicated acute pancreatitis, unlike urgent laparotomy, which. الخيار B، Nasogastric decompression: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا indicated for uncomplicated cases and is reserved for specific complications. يصبح صحيحًا في سؤال يصف IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT, and adequate analgesia are all appropriate components of managing uncomplicated acute pancreatitis, unlike urgent laparotomy, which. الخيار C، Abdominal imaging with ultrasound and/or CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا indicated for uncomplicated cases and is reserved for specific complications. يصبح صحيحًا في سؤال يصف IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT, and adequate analgesia are all appropriate components of managing uncomplicated acute pancreatitis, unlike urgent laparotomy, which. الخيار D، Strong painless killer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا indicated for uncomplicated cases and is reserved for specific complications. يصبح صحيحًا في سؤال يصف IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT, and adequate analgesia are all appropriate components of managing uncomplicated acute pancreatitis, unlike urgent laparotomy, which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intravenous hydration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen. الخيار B، Nasogastric decompression: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen. الخيار C، Abdominal imaging with ultrasound and/or CT scan: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen. الخيار D، Strong painless killer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Intravenous hydration",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا indicated for uncomplicated cases and is reserved for specific complications.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT, and adequate analgesia are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen."
         },
         {
           "letter": "B",
           "text": "Nasogastric decompression",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا indicated for uncomplicated cases and is reserved for specific complications.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT, and adequate analgesia are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen."
         },
         {
           "letter": "C",
           "text": "Abdominal imaging with ultrasound and/or CT scan",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا indicated for uncomplicated cases and is reserved for specific complications.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT, and adequate analgesia are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen."
         },
         {
           "letter": "D",
           "text": "Strong painless killer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا indicated for uncomplicated cases and is reserved for specific complications.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT, and adequate analgesia are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen."
         },
         {
           "letter": "E",

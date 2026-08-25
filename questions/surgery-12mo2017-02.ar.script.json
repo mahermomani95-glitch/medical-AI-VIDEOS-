@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Screening tests are available for all common cancers: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under age 40 years. يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are all true statements — however, screening tests are NOT available for all common cancers, making A the false statement. الخيار B، Most screening tests are not 100% sensitive: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under age 40 years. يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are all true statements — however, screening tests are NOT available for all common cancers, making A the false statement. الخيار D، Prostate-specific antigen estimation is currently the best screening tool for prostatic cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under age 40 years. يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are all true statements — however, screening tests are NOT available for all common cancers, making A the false statement. الخيار E، It takes approximately 10 years for colorectal polyp to develop into a cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under age 40 years. يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are all true statements — however, screening tests are NOT available for all common cancers, making A the false statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Screening tests are available for all common cancers: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive, PSA as the current standard prostate screening… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under age 40 years. الخيار B، Most screening tests are not 100% sensitive: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive, PSA as the current standard prostate screening… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under age 40 years. الخيار D، Prostate-specific antigen estimation is currently the best screening tool for prostatic cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive, PSA as the current standard prostate screening… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under age 40 years. الخيار E، It takes approximately 10 years for colorectal polyp to develop into a cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive, PSA as the current standard prostate screening… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under age 40 years.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Screening tests are available for all common cancers",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under age 40 years.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive, PSA as the current standard prostate screening…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under age 40 years."
         },
         {
           "letter": "B",
           "text": "Most screening tests are not 100% sensitive",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under age 40 years.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive, PSA as the current standard prostate screening…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under age 40 years."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Prostate-specific antigen estimation is currently the best screening tool for prostatic…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under age 40 years.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive, PSA as the current standard prostate screening…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under age 40 years."
         },
         {
           "letter": "E",
           "text": "It takes approximately 10 years for colorectal polyp to develop into a cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under age 40 years.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive, PSA as the current standard prostate screening…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under age 40 years."
         }
       ]
     },

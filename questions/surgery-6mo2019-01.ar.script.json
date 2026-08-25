@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pancreatic necrosis is often seen on CT and might result in pancreatic Failure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase and lipase can be used to predict the prognosis. يصبح صحيحًا في سؤال يصف Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most mortality, choledocholithiasis as a cause, and pleural effusion as a complication are all true statements. الخيار B، Most of the mortality due to systemic effect: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase and lipase can be used to predict the prognosis. يصبح صحيحًا في سؤال يصف Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most mortality, choledocholithiasis as a cause, and pleural effusion as a complication are all true statements. الخيار C، Choledocholithiasis may cause pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase and lipase can be used to predict the prognosis. يصبح صحيحًا في سؤال يصف Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most mortality, choledocholithiasis as a cause, and pleural effusion as a complication are all true statements. الخيار E، Pleural effusion could be a complication of acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase and lipase can be used to predict the prognosis. يصبح صحيحًا في سؤال يصف Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most mortality, choledocholithiasis as a cause, and pleural effusion as a complication are all true statements.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pancreatic necrosis is often seen on CT and might result in pancreatic Failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis. الخيار B، Most of the mortality due to systemic effect: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis. الخيار C، Choledocholithiasis may cause pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis. الخيار E، Pleural effusion could be a complication of acute pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Pancreatic necrosis is often seen on CT and might result in pancreatic Failure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase and lipase can be used to predict the prognosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most mortality, choledocholithiasis as a cause, and pleural…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis."
         },
         {
           "letter": "B",
           "text": "Most of the mortality due to systemic effect",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase and lipase can be used to predict the prognosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most mortality, choledocholithiasis as a cause, and pleural…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis."
         },
         {
           "letter": "C",
           "text": "Choledocholithiasis may cause pancreatitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase and lipase can be used to predict the prognosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most mortality, choledocholithiasis as a cause, and pleural…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Pleural effusion could be a complication of acute pancreatitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase and lipase can be used to predict the prognosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most mortality, choledocholithiasis as a cause, and pleural…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis."
         }
       ]
     },

@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Decreased platelet function: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased infection risk are all true responses to severe hypothermia, unlike tachycardia — hypothermia actually causes BRADYCARDIA. الخيار B، Decreased cardiac output: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased infection risk are all true responses to severe hypothermia, unlike tachycardia — hypothermia actually causes BRADYCARDIA. الخيار D، Cardiac arrhythmia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased infection risk are all true responses to severe hypothermia, unlike tachycardia — hypothermia actually causes BRADYCARDIA. الخيار E، Increased risk of wound infection: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased infection risk are all true responses to severe hypothermia, unlike tachycardia — hypothermia actually causes BRADYCARDIA.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Decreased platelet function: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار B، Decreased cardiac output: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار D، Cardiac arrhythmia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار E، Increased risk of wound infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Decreased platelet function",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased infection risk are all true responses to severe…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia."
         },
         {
           "letter": "B",
           "text": "Decreased cardiac output",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased infection risk are all true responses to severe…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Cardiac arrhythmia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased infection risk are all true responses to severe…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia."
         },
         {
           "letter": "E",
           "text": "Increased risk of wound infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased infection risk are all true responses to severe…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia."
         }
       ]
     },

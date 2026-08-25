@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Obesity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Young age. يصبح صحيحًا في سؤال يصف Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk factors, unlike young age, which is actually protective — advanced (not young) age is the true risk factor. الخيار B، Operation with long duration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Young age. يصبح صحيحًا في سؤال يصف Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk factors, unlike young age, which is actually protective — advanced (not young) age is the true risk factor. الخيار C، Patient with malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Young age. يصبح صحيحًا في سؤال يصف Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk factors, unlike young age, which is actually protective — advanced (not young) age is the true risk factor. الخيار D، Pelvic operations: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Young age. يصبح صحيحًا في سؤال يصف Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk factors, unlike young age, which is actually protective — advanced (not young) age is the true risk factor.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age. الخيار B، Operation with long duration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age. الخيار C، Patient with malignancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age. الخيار D، Pelvic operations: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Obesity",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Young age.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk factors, unlike young age, which is actually protective…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age."
         },
         {
           "letter": "B",
           "text": "Operation with long duration",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Young age.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk factors, unlike young age, which is actually protective…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age."
         },
         {
           "letter": "C",
           "text": "Patient with malignancy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Young age.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk factors, unlike young age, which is actually protective…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age."
         },
         {
           "letter": "D",
           "text": "Pelvic operations",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Young age.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk factors, unlike young age, which is actually protective…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age."
         },
         {
           "letter": "E",

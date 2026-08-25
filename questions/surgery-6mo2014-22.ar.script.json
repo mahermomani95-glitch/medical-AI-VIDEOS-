@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Chronic atrophic gastric gastritis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا H. pylori. يصبح صحيحًا في سؤال يصف Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all well-established H. pylori associations, unlike esophageal squamous cell carcinoma, which relates instead to alcohol/tobacco exposure. الخيار B، Gastric ulcer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا H. pylori. يصبح صحيحًا في سؤال يصف Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all well-established H. pylori associations, unlike esophageal squamous cell carcinoma, which relates instead to alcohol/tobacco exposure. الخيار C، Duodenal ulcer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا H. pylori. يصبح صحيحًا في سؤال يصف Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all well-established H. pylori associations, unlike esophageal squamous cell carcinoma, which relates instead to alcohol/tobacco exposure. الخيار D، Gastric adenocarcinoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا H. pylori. يصبح صحيحًا في سؤال يصف Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all well-established H. pylori associations, unlike esophageal squamous cell carcinoma, which relates instead to alcohol/tobacco exposure.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Chronic atrophic gastric gastritis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophagal. الخيار B، Gastric ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophagal. الخيار C، Duodenal ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophagal. الخيار D، Gastric adenocarcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophagal.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Chronic atrophic gastric gastritis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا H. pylori.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all well-established H. pylori associations, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophagal."
         },
         {
           "letter": "B",
           "text": "Gastric ulcer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا H. pylori.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all well-established H. pylori associations, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophagal."
         },
         {
           "letter": "C",
           "text": "Duodenal ulcer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا H. pylori.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all well-established H. pylori associations, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophagal."
         },
         {
           "letter": "D",
           "text": "Gastric adenocarcinoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا H. pylori.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all well-established H. pylori associations, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophagal."
         },
         {
           "letter": "E",

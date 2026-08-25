@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Red currant stool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fever. يصبح صحيحًا في سؤال يصف Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic signs and symptoms of intussusception. الخيار B، Vomiting: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fever. يصبح صحيحًا في سؤال يصف Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic signs and symptoms of intussusception. الخيار C، Abdominal pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fever. يصبح صحيحًا في سؤال يصف Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic signs and symptoms of intussusception. الخيار E، Palpable abdominal mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fever. يصبح صحيحًا في سؤال يصف Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic signs and symptoms of intussusception.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Red currant stool: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever. الخيار B، Vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever. الخيار C، Abdominal pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever. الخيار E، Palpable abdominal mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Red currant stool",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fever.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic signs and symptoms of intussusception."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever."
         },
         {
           "letter": "B",
           "text": "Vomiting",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fever.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic signs and symptoms of intussusception."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever."
         },
         {
           "letter": "C",
           "text": "Abdominal pain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fever.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic signs and symptoms of intussusception."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Palpable abdominal mass",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fever.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic signs and symptoms of intussusception."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever."
         }
       ]
     },

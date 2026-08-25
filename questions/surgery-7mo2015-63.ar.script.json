@@ -75,21 +75,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Decreased B12 uptake: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased bile salt uptake. يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true consequences of ileal resection — however, ileal resection actually DECREASES (not increases) bile salt uptake/reabsorption, making C the false statement. الخيار B، Megaloblastic anemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased bile salt uptake. يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true consequences of ileal resection — however, ileal resection actually DECREASES (not increases) bile salt uptake/reabsorption, making C the false statement. الخيار D، Gallstones formation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased bile salt uptake. يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true consequences of ileal resection — however, ileal resection actually DECREASES (not increases) bile salt uptake/reabsorption, making C the false statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Decreased B12 uptake: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake. الخيار B، Megaloblastic anemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake. الخيار D، Gallstones formation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Decreased B12 uptake",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased bile salt uptake.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake."
         },
         {
           "letter": "B",
           "text": "Megaloblastic anemia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased bile salt uptake.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake."
         },
         {
           "letter": "C",
@@ -101,8 +101,8 @@
           "letter": "D",
           "text": "Gallstones formation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased bile salt uptake.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake."
         }
       ]
     },

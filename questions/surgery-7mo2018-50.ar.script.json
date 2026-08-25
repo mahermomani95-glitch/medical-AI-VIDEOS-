@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypotension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subcutaneous emphysema. يصبح صحيحًا في سؤال يصف Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of dangerous tension physiology from compression of the heart and great vessels. الخيار B، Tachycardia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subcutaneous emphysema. يصبح صحيحًا في سؤال يصف Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of dangerous tension physiology from compression of the heart and great vessels. الخيار C، Dyspnea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subcutaneous emphysema. يصبح صحيحًا في سؤال يصف Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of dangerous tension physiology from compression of the heart and great vessels. الخيار D، Tracheal deviation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subcutaneous emphysema. يصبح صحيحًا في سؤال يصف Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of dangerous tension physiology from compression of the heart and great vessels.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypotension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema. الخيار B، Tachycardia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema. الخيار C، Dyspnea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema. الخيار D، Tracheal deviation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Hypotension",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subcutaneous emphysema.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of dangerous tension physiology from compression of the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema."
         },
         {
           "letter": "B",
           "text": "Tachycardia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subcutaneous emphysema.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of dangerous tension physiology from compression of the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema."
         },
         {
           "letter": "C",
           "text": "Dyspnea",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subcutaneous emphysema.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of dangerous tension physiology from compression of the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema."
         },
         {
           "letter": "D",
           "text": "Tracheal deviation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subcutaneous emphysema.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of dangerous tension physiology from compression of the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema."
         },
         {
           "letter": "E",

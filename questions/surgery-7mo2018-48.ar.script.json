@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tachycardia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia. يصبح صحيحًا في سؤال يصف Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine warning signs requiring urgent evaluation. الخيار B، Hypotension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia. يصبح صحيحًا في سؤال يصف Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine warning signs requiring urgent evaluation. الخيار D، Persistent vomiting: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia. يصبح صحيحًا في سؤال يصف Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine warning signs requiring urgent evaluation. الخيار E، Massive rectal bleeding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia. يصبح صحيحًا في سؤال يصف Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine warning signs requiring urgent evaluation.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tachycardia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia. الخيار B، Hypotension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia. الخيار D، Persistent vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia. الخيار E، Massive rectal bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Tachycardia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine warning signs requiring urgent evaluation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia."
         },
         {
           "letter": "B",
           "text": "Hypotension",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine warning signs requiring urgent evaluation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Persistent vomiting",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine warning signs requiring urgent evaluation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia."
         },
         {
           "letter": "E",
           "text": "Massive rectal bleeding",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine warning signs requiring urgent evaluation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia."
         }
       ]
     },

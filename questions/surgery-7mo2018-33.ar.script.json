@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Obstructive jaundice: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis. يصبح صحيحًا في سؤال يصف Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all well-known, direct complications of gallstones. الخيار B، Cholangitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis. يصبح صحيحًا في سؤال يصف Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all well-known, direct complications of gallstones. الخيار C، Acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis. يصبح صحيحًا في سؤال يصف Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all well-known, direct complications of gallstones. الخيار E، Cholecystoduodenal fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis. يصبح صحيحًا في سؤال يصف Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all well-known, direct complications of gallstones.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obstructive jaundice: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار B، Cholangitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار C، Acute pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار E، Cholecystoduodenal fistula: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Obstructive jaundice",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all well-known, direct complications of gallstones."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis."
         },
         {
           "letter": "B",
           "text": "Cholangitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all well-known, direct complications of gallstones."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis."
         },
         {
           "letter": "C",
           "text": "Acute pancreatitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all well-known, direct complications of gallstones."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Cholecystoduodenal fistula",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all well-known, direct complications of gallstones."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis."
         }
       ]
     },

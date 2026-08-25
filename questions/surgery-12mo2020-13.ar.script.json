@@ -75,14 +75,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Lactulose: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV Diuretic. يصبح صحيحًا في سؤال يصف Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids for resuscitation are all appropriate components of management here. الخيار C، Antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV Diuretic. يصبح صحيحًا في سؤال يصف Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids for resuscitation are all appropriate components of management here. الخيار D، IV fluids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV Diuretic. يصبح صحيحًا في سؤال يصف Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids for resuscitation are all appropriate components of management here.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Lactulose: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV Diuretic. الخيار C، Antibiotics: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV Diuretic. الخيار D، IV fluids: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV Diuretic.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Lactulose",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV Diuretic.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids for resuscitation are all appropriate components of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV Diuretic."
         },
         {
           "letter": "B",
@@ -94,15 +94,15 @@
           "letter": "C",
           "text": "Antibiotics",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV Diuretic.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids for resuscitation are all appropriate components of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV Diuretic."
         },
         {
           "letter": "D",
           "text": "IV fluids",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV Diuretic.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids for resuscitation are all appropriate components of…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lactulose (to prevent hepatic encephalopathy), antibiotics (SBP prophylaxis), and IV fluids…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV Diuretic."
         }
       ]
     },

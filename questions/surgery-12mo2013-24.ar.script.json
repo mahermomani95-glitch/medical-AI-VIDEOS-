@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Confusion or lethargy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Slow and weak pulse. يصبح صحيحًا في سؤال يصف Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs of fluid overload (hypervolemia), unlike a slow and weak pulse, which would be more typical of hypovolemia or shock instead. الخيار B، Peripheral edema: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Slow and weak pulse. يصبح صحيحًا في سؤال يصف Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs of fluid overload (hypervolemia), unlike a slow and weak pulse, which would be more typical of hypovolemia or shock instead. الخيار D، Dyspnea and crackles in lungs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Slow and weak pulse. يصبح صحيحًا في سؤال يصف Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs of fluid overload (hypervolemia), unlike a slow and weak pulse, which would be more typical of hypovolemia or shock instead. الخيار E، Weight gain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Slow and weak pulse. يصبح صحيحًا في سؤال يصف Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs of fluid overload (hypervolemia), unlike a slow and weak pulse, which would be more typical of hypovolemia or shock instead.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Confusion or lethargy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Slow and weak pulse. الخيار B، Peripheral edema: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Slow and weak pulse. الخيار D، Dyspnea and crackles in lungs: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Slow and weak pulse. الخيار E، Weight gain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Slow and weak pulse.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Confusion or lethargy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Slow and weak pulse.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs of fluid overload (hypervolemia), unlike a slow and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Slow and weak pulse."
         },
         {
           "letter": "B",
           "text": "Peripheral edema",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Slow and weak pulse.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs of fluid overload (hypervolemia), unlike a slow and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Slow and weak pulse."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Dyspnea and crackles in lungs",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Slow and weak pulse.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs of fluid overload (hypervolemia), unlike a slow and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Slow and weak pulse."
         },
         {
           "letter": "E",
           "text": "Weight gain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Slow and weak pulse.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs of fluid overload (hypervolemia), unlike a slow and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confusion/lethargy, peripheral edema, dyspnea/crackles, and weight gain are all classic signs…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Slow and weak pulse."
         }
       ]
     },

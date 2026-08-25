@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، BMI is calculated by weight in Kilogram divided by the square of height in meters: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Normal weight BMI is 25 - 30. يصبح صحيحًا في سؤال يصف BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the alternative definition of 100lb over ideal weight or twice ideal weight are all correct definitions. الخيار B، Obese individuals have a BMI of 30 or more: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Normal weight BMI is 25 - 30. يصبح صحيحًا في سؤال يصف BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the alternative definition of 100lb over ideal weight or twice ideal weight are all correct definitions. الخيار D، Morbid obesity is a BMI of 40 or more: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Normal weight BMI is 25 - 30. يصبح صحيحًا في سؤال يصف BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the alternative definition of 100lb over ideal weight or twice ideal weight are all correct definitions. الخيار E، Morbid obesity is defined as either 100lb above ideal body weight or twice ideal body weight: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Normal weight BMI is 25 - 30. يصبح صحيحًا في سؤال يصف BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the alternative definition of 100lb over ideal weight or twice ideal weight are all correct definitions.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، BMI is calculated by weight in Kilogram divided by the square of height in meters: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30. الخيار B، Obese individuals have a BMI of 30 or more: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30. الخيار D، Morbid obesity is a BMI of 40 or more: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30. الخيار E، Morbid obesity is defined as either 100lb above ideal body weight or twice ideal body weight: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30.",
       "verdicts": [
         {
           "letter": "A",
           "text": "BMI is calculated by weight in Kilogram divided by the square of height in meters",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Normal weight BMI is 25 - 30.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the alternative definition of 100lb over ideal weight or…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30."
         },
         {
           "letter": "B",
           "text": "Obese individuals have a BMI of 30 or more",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Normal weight BMI is 25 - 30.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the alternative definition of 100lb over ideal weight or…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Morbid obesity is a BMI of 40 or more",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Normal weight BMI is 25 - 30.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the alternative definition of 100lb over ideal weight or…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30."
         },
         {
           "letter": "E",
           "text": "Morbid obesity is defined as either 100lb above ideal body weight or twice ideal body…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Normal weight BMI is 25 - 30.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the alternative definition of 100lb over ideal weight or…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30."
         }
       ]
     },

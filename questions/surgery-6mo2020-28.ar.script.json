@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Follow up in a patient with colon cancer after resection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are all appropriate indications for colonoscopy, unlike a severe acute ulcerative colitis flare where it's contraindicated due to perforation risk. الخيار C، Patient with suspected colonic polyps: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are all appropriate indications for colonoscopy, unlike a severe acute ulcerative colitis flare where it's contraindicated due to perforation risk. الخيار D، Follow up in a known case of chronic ulcerative colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are all appropriate indications for colonoscopy, unlike a severe acute ulcerative colitis flare where it's contraindicated due to perforation risk. الخيار E، Evaluate patients with gastrointestinal symptoms that other investigations fail to find the cause: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are all appropriate indications for colonoscopy, unlike a severe acute ulcerative colitis flare where it's contraindicated due to perforation risk.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Follow up in a patient with colon cancer after resection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. الخيار C، Patient with suspected colonic polyps: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. الخيار D، Follow up in a known case of chronic ulcerative colitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. الخيار E، Evaluate patients with gastrointestinal symptoms that other investigations fail to find the cause: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Follow up in a patient with colon cancer after resection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted…"
         },
         {
           "letter": "C",
           "text": "Patient with suspected colonic polyps",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted…"
         },
         {
           "letter": "D",
           "text": "Follow up in a known case of chronic ulcerative colitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted…"
         },
         {
           "letter": "E",
           "text": "Evaluate patients with gastrointestinal symptoms that other investigations fail to find…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted…"
         }
       ]
     },

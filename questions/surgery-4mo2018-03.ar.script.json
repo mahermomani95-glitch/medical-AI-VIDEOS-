@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Patient should have surgery at about age 5 year if it fails to close: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient is at high risk for incarceration. يصبح صحيحًا في سؤال يصف Surgery being deferred to around age 5, increased incidence in African-descent patients, and increased incidence in premature infants are all true statements about umbilical hernia. الخيار C، This hernia are increased in African patients: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient is at high risk for incarceration. يصبح صحيحًا في سؤال يصف Surgery being deferred to around age 5, increased incidence in African-descent patients, and increased incidence in premature infants are all true statements about umbilical hernia. الخيار D، This hernia are increased in premature pediatric: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient is at high risk for incarceration. يصبح صحيحًا في سؤال يصف Surgery being deferred to around age 5, increased incidence in African-descent patients, and increased incidence in premature infants are all true statements about umbilical hernia. الخيار E، Associated with congenital hypothyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient is at high risk for incarceration. يصبح صحيحًا في سؤال يصف Umbilical hernias are more common in children of African descent, in premature infants, and in patients with congenital hypothyroidism.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Patient should have surgery at about age 5 year if it fails to close: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Surgery being deferred to around age 5, increased incidence in African-descent patients, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient is at high risk for incarceration. الخيار C، This hernia are increased in African patients: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Surgery being deferred to around age 5, increased incidence in African-descent patients, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient is at high risk for incarceration. الخيار D، This hernia are increased in premature pediatric: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Surgery being deferred to around age 5, increased incidence in African-descent patients, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient is at high risk for incarceration. الخيار E، Associated with congenital hypothyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Umbilical hernias are more common in children of African descent, in premature infants, and in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient is at high risk for incarceration.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Patient should have surgery at about age 5 year if it fails to close",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient is at high risk for incarceration.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Surgery being deferred to around age 5, increased incidence in African-descent patients, and increased incidence in premature infants are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Surgery being deferred to around age 5, increased incidence in African-descent patients, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient is at high risk for incarceration."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "This hernia are increased in African patients",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient is at high risk for incarceration.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Surgery being deferred to around age 5, increased incidence in African-descent patients, and increased incidence in premature infants are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Surgery being deferred to around age 5, increased incidence in African-descent patients, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient is at high risk for incarceration."
         },
         {
           "letter": "D",
           "text": "This hernia are increased in premature pediatric",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient is at high risk for incarceration.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Surgery being deferred to around age 5, increased incidence in African-descent patients, and increased incidence in premature infants are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Surgery being deferred to around age 5, increased incidence in African-descent patients, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient is at high risk for incarceration."
         },
         {
           "letter": "E",
           "text": "Associated with congenital hypothyroidism",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient is at high risk for incarceration.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Umbilical hernias are more common in children of African descent, in premature infants, and in patients with congenital hypothyroidism."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Umbilical hernias are more common in children of African descent, in premature infants, and in…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient is at high risk for incarceration."
         }
       ]
     },

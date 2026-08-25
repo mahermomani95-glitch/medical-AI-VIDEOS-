@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Perforated appendix: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine antibiotic prophylaxis the way these more contaminated procedures do. يصبح صحيحًا في سؤال يصف Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy all carry varying contamination risk, but mastectomy remains a clean procedure. الخيار C، Open fracture of the humerus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine antibiotic prophylaxis the way these more contaminated procedures do. يصبح صحيحًا في سؤال يصف Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy all carry varying contamination risk, but mastectomy remains a clean procedure. الخيار D، Traumatic colonic perforation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine antibiotic prophylaxis the way these more contaminated procedures do. يصبح صحيحًا في سؤال يصف Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy all carry varying contamination risk, but mastectomy remains a clean procedure. الخيار E، Cholecystectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine antibiotic prophylaxis the way these more contaminated procedures do. يصبح صحيحًا في سؤال يصف Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy all carry varying contamination risk, but mastectomy remains a clean procedure.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Perforated appendix: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy. الخيار C، Open fracture of the humerus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy. الخيار D، Traumatic colonic perforation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy. الخيار E، Cholecystectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Perforated appendix",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine antibiotic prophylaxis the way these more contaminated procedures do.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy all carry varying contamination risk, but…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Open fracture of the humerus",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine antibiotic prophylaxis the way these more contaminated procedures do.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy all carry varying contamination risk, but…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy."
         },
         {
           "letter": "D",
           "text": "Traumatic colonic perforation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine antibiotic prophylaxis the way these more contaminated procedures do.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy all carry varying contamination risk, but…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy."
         },
         {
           "letter": "E",
           "text": "Cholecystectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine antibiotic prophylaxis the way these more contaminated procedures do.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy all carry varying contamination risk, but…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforated appendix, open humeral fracture, traumatic colonic perforation, and cholecystectomy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy."
         }
       ]
     },

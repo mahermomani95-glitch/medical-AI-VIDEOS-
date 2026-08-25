@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Old age: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Athletes. يصبح صحيحًا في سؤال يصف Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is more difficult to diagnose due to atypical presentations, unlike athletes who don't have an inherently harder diagnostic picture. الخيار C، Children: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Athletes. يصبح صحيحًا في سؤال يصف Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is more difficult to diagnose due to atypical presentations, unlike athletes who don't have an inherently harder diagnostic picture. الخيار D، Pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Athletes. يصبح صحيحًا في سؤال يصف Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is more difficult to diagnose due to atypical presentations, unlike athletes who don't have an inherently harder diagnostic picture. الخيار E، HIV patients: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Athletes. يصبح صحيحًا في سؤال يصف Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is more difficult to diagnose due to atypical presentations, unlike athletes who don't have an inherently harder diagnostic picture.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Old age: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes. الخيار C، Children: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes. الخيار D، Pregnancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes. الخيار E، HIV patients: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Old age",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Athletes.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is more difficult to diagnose due to atypical…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Children",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Athletes.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is more difficult to diagnose due to atypical…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes."
         },
         {
           "letter": "D",
           "text": "Pregnancy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Athletes.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is more difficult to diagnose due to atypical…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes."
         },
         {
           "letter": "E",
           "text": "HIV patients",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Athletes.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is more difficult to diagnose due to atypical…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes."
         }
       ]
     },

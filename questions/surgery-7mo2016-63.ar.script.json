@@ -83,21 +83,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The most predominant cell at day 3-4 after a wound is macrophages: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts. يصبح صحيحًا في سؤال يصف Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and fibroblasts predominating by day 7 are all true statements about wound healing cell sequence — however, the correct order is actually platelets first, then PMNs, then macrophages, then fibroblasts (not macrophages-platelets-PMNs-fibroblasts as stated), making C the false statement. الخيار B، The most predominant cell in the first 24 hours of the wound is PMN: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts. يصبح صحيحًا في سؤال يصف Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and fibroblasts predominating by day 7 are all true statements about wound healing cell sequence — however, the correct order is actually platelets first, then PMNs, then macrophages, then fibroblasts (not macrophages-platelets-PMNs-fibroblasts as stated), making C the false statement. الخيار D، The most predominant cell type in a 7 day old wound is fibroblasts: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts. يصبح صحيحًا في سؤال يصف Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and fibroblasts predominating by day 7 are all true statements about wound healing cell sequence — however, the correct order is actually platelets first, then PMNs, then macrophages, then fibroblasts (not macrophages-platelets-PMNs-fibroblasts as stated), making C the false statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، The most predominant cell at day 3-4 after a wound is macrophages: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts. الخيار B، The most predominant cell in the first 24 hours of the wound is PMN: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts. الخيار D، The most predominant cell type in a 7 day old wound is fibroblasts: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts.",
       "verdicts": [
         {
           "letter": "A",
           "text": "The most predominant cell at day 3-4 after a wound is macrophages",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and fibroblasts predominating by day 7 are all true statements…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts."
         },
         {
           "letter": "B",
           "text": "The most predominant cell in the first 24 hours of the wound is PMN",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and fibroblasts predominating by day 7 are all true statements…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts."
         },
         {
           "letter": "C",
@@ -109,8 +109,8 @@
           "letter": "D",
           "text": "The most predominant cell type in a 7 day old wound is fibroblasts",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and fibroblasts predominating by day 7 are all true statements…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts."
         }
       ]
     },

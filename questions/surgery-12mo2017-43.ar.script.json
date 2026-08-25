@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Complicated inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid diverticulitis. يصبح صحيحًا في سؤال يصف Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip abnormality are all genuine differentials for a child with groin/hip pain, unlike sigmoid diverticulitis, which is exceedingly rare in a 5-year-old. الخيار B، Acute appendicitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid diverticulitis. يصبح صحيحًا في سؤال يصف Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip abnormality are all genuine differentials for a child with groin/hip pain, unlike sigmoid diverticulitis, which is exceedingly rare in a 5-year-old. الخيار C، Testicular torsion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid diverticulitis. يصبح صحيحًا في سؤال يصف Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip abnormality are all genuine differentials for a child with groin/hip pain, unlike sigmoid diverticulitis, which is exceedingly rare in a 5-year-old. الخيار D، Congenital hip abnormality: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid diverticulitis. يصبح صحيحًا في سؤال يصف Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip abnormality are all genuine differentials for a child with groin/hip pain, unlike sigmoid diverticulitis, which is exceedingly rare in a 5-year-old.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Complicated inguinal hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis. الخيار B، Acute appendicitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis. الخيار C، Testicular torsion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis. الخيار D، Congenital hip abnormality: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Complicated inguinal hernia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid diverticulitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip abnormality are all genuine differentials for a child…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis."
         },
         {
           "letter": "B",
           "text": "Acute appendicitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid diverticulitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip abnormality are all genuine differentials for a child…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis."
         },
         {
           "letter": "C",
           "text": "Testicular torsion",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid diverticulitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip abnormality are all genuine differentials for a child…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis."
         },
         {
           "letter": "D",
           "text": "Congenital hip abnormality",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid diverticulitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip abnormality are all genuine differentials for a child…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis."
         },
         {
           "letter": "E",

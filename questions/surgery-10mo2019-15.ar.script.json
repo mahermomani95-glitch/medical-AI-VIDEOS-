@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Internal fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucosal colonic Pseudopolyps and ulcers. يصبح صحيحًا في سؤال يصف Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation, and cobblestone mucosa are all classic pathological features of Crohn's disease. الخيار B، Serpiginous and aphthous oral ulcers: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucosal colonic Pseudopolyps and ulcers. يصبح صحيحًا في سؤال يصف Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation, and cobblestone mucosa are all classic pathological features of Crohn's disease. الخيار C، Chronic inflammation involves all layers of the bowel wall: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucosal colonic Pseudopolyps and ulcers. يصبح صحيحًا في سؤال يصف Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation, and cobblestone mucosa are all classic pathological features of Crohn's disease. الخيار E، Cobblestone mucosa: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucosal colonic Pseudopolyps and ulcers. يصبح صحيحًا في سؤال يصف Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation, and cobblestone mucosa are all classic pathological features of Crohn's disease.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Internal fistula: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers. الخيار B، Serpiginous and aphthous oral ulcers: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers. الخيار C، Chronic inflammation involves all layers of the bowel wall: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers. الخيار E، Cobblestone mucosa: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Internal fistula",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucosal colonic Pseudopolyps and ulcers.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation, and cobblestone mucosa are all classic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers."
         },
         {
           "letter": "B",
           "text": "Serpiginous and aphthous oral ulcers",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucosal colonic Pseudopolyps and ulcers.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation, and cobblestone mucosa are all classic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers."
         },
         {
           "letter": "C",
           "text": "Chronic inflammation involves all layers of the bowel wall",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucosal colonic Pseudopolyps and ulcers.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation, and cobblestone mucosa are all classic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Cobblestone mucosa",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucosal colonic Pseudopolyps and ulcers.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation, and cobblestone mucosa are all classic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers."
         }
       ]
     },

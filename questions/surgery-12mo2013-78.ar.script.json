@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Amenorrhea: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a feature of hyperthyroidism — hypothyroidism typically causes bradycardia. الخيار C، Constipation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a feature of hyperthyroidism — hypothyroidism typically causes bradycardia. الخيار D، Weight gain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a feature of hyperthyroidism — hypothyroidism typically causes bradycardia. الخيار E، Cold intolerance: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a feature of hyperthyroidism — hypothyroidism typically causes bradycardia.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Amenorrhea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار C، Constipation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار D، Weight gain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار E، Cold intolerance: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Amenorrhea",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Constipation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia."
         },
         {
           "letter": "D",
           "text": "Weight gain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia."
         },
         {
           "letter": "E",
           "text": "Cold intolerance",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia."
         }
       ]
     },

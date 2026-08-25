@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Sulfonamides: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gentamycin. يصبح صحيحًا في سؤال يصف Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics, unlike gentamicin, an aminoglycoside which is bactericidal. الخيار B، Tetracycline: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gentamycin. يصبح صحيحًا في سؤال يصف Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics, unlike gentamicin, an aminoglycoside which is bactericidal. الخيار C، Erythromycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gentamycin. يصبح صحيحًا في سؤال يصف Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics, unlike gentamicin, an aminoglycoside which is bactericidal. الخيار E، Azithromycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gentamycin. يصبح صحيحًا في سؤال يصف Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics, unlike gentamicin, an aminoglycoside which is bactericidal.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Sulfonamides: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin. الخيار B، Tetracycline: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin. الخيار C، Erythromycin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin. الخيار E، Azithromycin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Sulfonamides",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gentamycin.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics, unlike gentamicin, an aminoglycoside which is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin."
         },
         {
           "letter": "B",
           "text": "Tetracycline",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gentamycin.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics, unlike gentamicin, an aminoglycoside which is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin."
         },
         {
           "letter": "C",
           "text": "Erythromycin",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gentamycin.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics, unlike gentamicin, an aminoglycoside which is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Azithromycin",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gentamycin.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics, unlike gentamicin, an aminoglycoside which is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin."
         }
       ]
     },

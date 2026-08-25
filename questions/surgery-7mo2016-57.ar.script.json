@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Angina pectoris: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself an indication without associated symptoms or hemodynamic severity. يصبح صحيحًا في سؤال يصف Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are all recognized indications for aortic valve surgery in severe aortic stenosis, unlike valve calcification alone, which is a common finding but. الخيار B، Poor ventricular function: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself an indication without associated symptoms or hemodynamic severity. يصبح صحيحًا في سؤال يصف Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are all recognized indications for aortic valve surgery in severe aortic stenosis, unlike valve calcification alone, which is a common finding but. الخيار C، Valve area less than 0.5 cm2: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself an indication without associated symptoms or hemodynamic severity. يصبح صحيحًا في سؤال يصف Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are all recognized indications for aortic valve surgery in severe aortic stenosis, unlike valve calcification alone, which is a common finding but. الخيار E، Syncope: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself an indication without associated symptoms or hemodynamic severity. يصبح صحيحًا في سؤال يصف Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are all recognized indications for aortic valve surgery in severe aortic stenosis, unlike valve calcification alone, which is a common finding but.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Angina pectoris: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve. الخيار B، Poor ventricular function: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve. الخيار C، Valve area less than 0.5 cm2: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve. الخيار E، Syncope: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Angina pectoris",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself an indication without associated symptoms or hemodynamic severity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are all recognized indications for aortic valve…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve."
         },
         {
           "letter": "B",
           "text": "Poor ventricular function",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself an indication without associated symptoms or hemodynamic severity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are all recognized indications for aortic valve…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve."
         },
         {
           "letter": "C",
           "text": "Valve area less than 0.5 cm2",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself an indication without associated symptoms or hemodynamic severity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are all recognized indications for aortic valve…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Syncope",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا itself an indication without associated symptoms or hemodynamic severity.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are all recognized indications for aortic valve…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve."
         }
       ]
     },

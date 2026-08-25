@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypothermia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يستهدف Hypothermia تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Decreased PaCO2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يستهدف Decreased PaCO2 تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Increased PH: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يستهدف Increased PH تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Dcreased (2,3-DPG): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف Hypothermia, alkalosis, low 2,3-DPG → real causes of a left shift.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypothermia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, decreased PaCO2, increased pH/alkalosis, and decreased 2,3-DPG all shift the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acidosis. الخيار B، Decreased PaCO2: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, decreased PaCO2, increased pH/alkalosis, and decreased 2,3-DPG all shift the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acidosis. الخيار D، Increased PH: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, decreased PaCO2, increased pH/alkalosis, and decreased 2,3-DPG all shift the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acidosis. الخيار E، Dcreased (2,3-DPG): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, decreased PaCO2, increased pH/alkalosis, and decreased 2,3-DPG all shift the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acidosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Hypothermia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Hypothermia تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, decreased PaCO2, increased pH/alkalosis, and decreased 2,3-DPG all shift the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acidosis."
         },
         {
           "letter": "B",
           "text": "Decreased PaCO2",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Decreased PaCO2 تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, decreased PaCO2, increased pH/alkalosis, and decreased 2,3-DPG all shift the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acidosis."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Increased PH",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Increased PH تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, decreased PaCO2, increased pH/alkalosis, and decreased 2,3-DPG all shift the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acidosis."
         },
         {
           "letter": "E",
           "text": "Dcreased (2,3-DPG)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, alkalosis, low 2,3-DPG → real causes of a left shift."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, decreased PaCO2, increased pH/alkalosis, and decreased 2,3-DPG all shift the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acidosis."
         }
       ]
     },

@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Non-functioning gallbladder: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own. يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all recognized surgical indications, unlike a small (0.5cm) asymptomatic cholesterol stone, which typically. الخيار B، Porcelain gallbladder: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own. يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all recognized surgical indications, unlike a small (0.5cm) asymptomatic cholesterol stone, which typically. الخيار C، Emphysematous gallblader: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own. يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all recognized surgical indications, unlike a small (0.5cm) asymptomatic cholesterol stone, which typically. الخيار E، Gallstones ≥ 3 cm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol stones that are 0.5 cm. يصبح صحيحًا في سؤال يستهدف Gallstones ≥ 3 cm تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Non-functioning gallbladder: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm. الخيار B، Porcelain gallbladder: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm. الخيار C، Emphysematous gallblader: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm. الخيار E، Gallstones ≥ 3 cm: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق. يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Non-functioning gallbladder",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm."
         },
         {
           "letter": "B",
           "text": "Porcelain gallbladder",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm."
         },
         {
           "letter": "C",
           "text": "Emphysematous gallblader",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا require surgery on its own.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous gallbladder (C, gas-forming infection risk) are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Gallstones ≥ 3 cm",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol stones that are 0.5 cm.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Gallstones ≥ 3 cm تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق.",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm."
         }
       ]
     },

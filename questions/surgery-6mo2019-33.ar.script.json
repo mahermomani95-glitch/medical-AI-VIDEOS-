@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Portal HTN: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyst. يصبح صحيحًا في سؤال يصف Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine, well-recognized systemic causes of splenomegaly. الخيار C، Thalassemia Major: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyst. يصبح صحيحًا في سؤال يصف Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine, well-recognized systemic causes of splenomegaly. الخيار D، Lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyst. يصبح صحيحًا في سؤال يصف Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine, well-recognized systemic causes of splenomegaly. الخيار E، Felty Synarome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyst. يصبح صحيحًا في سؤال يصف Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine, well-recognized systemic causes of splenomegaly.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Portal HTN: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyst. الخيار C، Thalassemia Major: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyst. الخيار D، Lymphoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyst. الخيار E، Felty Synarome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyst.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Portal HTN",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyst.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine, well-recognized systemic causes of splenomegaly."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyst."
         },
         {
           "letter": "C",
           "text": "Thalassemia Major",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyst.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine, well-recognized systemic causes of splenomegaly."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyst."
         },
         {
           "letter": "D",
           "text": "Lymphoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyst.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine, well-recognized systemic causes of splenomegaly."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyst."
         },
         {
           "letter": "E",
           "text": "Felty Synarome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyst.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine, well-recognized systemic causes of splenomegaly."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Portal hypertension, thalassemia major, lymphoma, and Felty syndrome are all genuine…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyst."
         }
       ]
     },

@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Full-thickness burns more than 5% of total body surface area (TBSA): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Partial-thickness burns more than 10% in adultsb. يصبح صحيحًا في سؤال يصف Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation burns, and electrical burns are ALL genuine, correct admission criteria for burn patients — this question tests recognizing that all these represent true indications. الخيار C، Partial-thickness burns more than 10% in children: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Partial-thickness burns more than 10% in adultsb. يصبح صحيحًا في سؤال يصف Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation burns, and electrical burns are ALL genuine, correct admission criteria for burn patients — this question tests recognizing that all these represent true indications. الخيار D، Inhalations burns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Partial-thickness burns more than 10% in adultsb. يصبح صحيحًا في سؤال يصف Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation burns, and electrical burns are ALL genuine, correct admission criteria for burn patients — this question tests recognizing that all these represent true indications. الخيار E، Electric burns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Partial-thickness burns more than 10% in adultsb. يصبح صحيحًا في سؤال يصف Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation burns, and electrical burns are ALL genuine, correct admission criteria for burn patients — this question tests recognizing that all these represent true indications.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Full-thickness burns more than 5% of total body surface area (TBSA): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb. الخيار C، Partial-thickness burns more than 10% in children: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb. الخيار D، Inhalations burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb. الخيار E، Electric burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Full-thickness burns more than 5% of total body surface area (TBSA)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Partial-thickness burns more than 10% in adultsb.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation burns, and electrical burns are ALL genuine, correct…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Partial-thickness burns more than 10% in children",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Partial-thickness burns more than 10% in adultsb.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation burns, and electrical burns are ALL genuine, correct…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb."
         },
         {
           "letter": "D",
           "text": "Inhalations burns",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Partial-thickness burns more than 10% in adultsb.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation burns, and electrical burns are ALL genuine, correct…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb."
         },
         {
           "letter": "E",
           "text": "Electric burns",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Partial-thickness burns more than 10% in adultsb.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation burns, and electrical burns are ALL genuine, correct…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb."
         }
       ]
     },

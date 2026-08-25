@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Difficulty controlling severe bleeding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Poorer visualization of the operative fields. يصبح صحيحًا في سؤال يستهدف Difficulty controlling severe bleeding تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Greater difficulty placing sutures: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Poorer visualization of the operative fields. يصبح صحيحًا في سؤال يستهدف Greater difficulty placing sutures تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Loss of tactile sensation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Poorer visualization of the operative fields. يصبح صحيحًا في سؤال يصف Loss of tactile feedback, longer learning curve → real laparoscopy disadvantages. الخيار E، Higher operating room costs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Poorer visualization of the operative fields. يصبح صحيحًا في سؤال يستهدف Higher operating room costs تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Difficulty controlling severe bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields. الخيار C، Greater difficulty placing sutures: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields. الخيار D، Loss of tactile sensation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields. الخيار E، Higher operating room costs: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Difficulty controlling severe bleeding",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Poorer visualization of the operative fields.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Difficulty controlling severe bleeding تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Greater difficulty placing sutures",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Poorer visualization of the operative fields.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Greater difficulty placing sutures تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields."
         },
         {
           "letter": "D",
           "text": "Loss of tactile sensation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Poorer visualization of the operative fields.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Loss of tactile feedback, longer learning curve → real laparoscopy disadvantages."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields."
         },
         {
           "letter": "E",
           "text": "Higher operating room costs",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Poorer visualization of the operative fields.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Higher operating room costs تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields."
         }
       ]
     },

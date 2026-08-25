@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Liver cirrhosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer. يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike papillary thyroid cancer which has no direct relationship to splenic function. الخيار B، Portal HTN: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer. يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike papillary thyroid cancer which has no direct relationship to splenic function. الخيار C، Sarcoidosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer. يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike papillary thyroid cancer which has no direct relationship to splenic function. الخيار D، HCC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer. يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike papillary thyroid cancer which has no direct relationship to splenic function.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Liver cirrhosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer. الخيار B، Portal HTN: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer. الخيار C، Sarcoidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer. الخيار D، HCC: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Liver cirrhosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer."
         },
         {
           "letter": "B",
           "text": "Portal HTN",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer."
         },
         {
           "letter": "C",
           "text": "Sarcoidosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer."
         },
         {
           "letter": "D",
           "text": "HCC",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer."
         },
         {
           "letter": "E",

@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Airway obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dental caries. يصبح صحيحًا في سؤال يصف Airway obstruction (B, from hematoma), convulsions (C, from local anesthetic toxicity or hypocalcemic tetany), hypoparathyroidism, and hypothyroidism are all genuine, well-recognized complications of thyroid surgery, unlike dental caries which is unrelated. الخيار C، Convulsions: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dental caries. يصبح صحيحًا في سؤال يصف Airway obstruction (B, from hematoma), convulsions (C, from local anesthetic toxicity or hypocalcemic tetany), hypoparathyroidism, and hypothyroidism are all genuine, well-recognized complications of thyroid surgery, unlike dental caries which is unrelated. الخيار D، Hypoparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dental caries. يصبح صحيحًا في سؤال يصف Airway obstruction (B, from hematoma), convulsions (C, from local anesthetic toxicity or hypocalcemic tetany), hypoparathyroidism, and hypothyroidism are all genuine, well-recognized complications of thyroid surgery, unlike dental caries which is unrelated. الخيار E، Hypothyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dental caries. يصبح صحيحًا في سؤال يصف Airway obstruction (B, from hematoma), convulsions (C, from local anesthetic toxicity or hypocalcemic tetany), hypoparathyroidism, and hypothyroidism are all genuine, well-recognized complications of thyroid surgery, unlike dental caries which is unrelated.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Airway obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries. الخيار C، Convulsions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries. الخيار D، Hypoparathyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries. الخيار E، Hypothyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Airway obstruction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dental caries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Airway obstruction (B, from hematoma), convulsions (C, from local anesthetic toxicity or hypocalcemic tetany), hypoparathyroidism, and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries."
         },
         {
           "letter": "C",
           "text": "Convulsions",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dental caries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Airway obstruction (B, from hematoma), convulsions (C, from local anesthetic toxicity or hypocalcemic tetany), hypoparathyroidism, and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries."
         },
         {
           "letter": "D",
           "text": "Hypoparathyroidism",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dental caries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Airway obstruction (B, from hematoma), convulsions (C, from local anesthetic toxicity or hypocalcemic tetany), hypoparathyroidism, and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries."
         },
         {
           "letter": "E",
           "text": "Hypothyroidism",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dental caries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Airway obstruction (B, from hematoma), convulsions (C, from local anesthetic toxicity or hypocalcemic tetany), hypoparathyroidism, and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries."
         }
       ]
     },

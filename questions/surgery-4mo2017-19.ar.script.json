@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Sarcoidosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic bronchial carcinoma (D, via PTHrP or bone mets), and milk-alkali syndrome are all recognized causes of hypercalcemia, unlike acute pancreatitis, which is actually associated with HYPOcalcemia (from fat saponification). الخيار B، Primary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic bronchial carcinoma (D, via PTHrP or bone mets), and milk-alkali syndrome are all recognized causes of hypercalcemia, unlike acute pancreatitis, which is actually associated with HYPOcalcemia (from fat saponification). الخيار D، Metastasis bronchial carcinoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic bronchial carcinoma (D, via PTHrP or bone mets), and milk-alkali syndrome are all recognized causes of hypercalcemia, unlike acute pancreatitis, which is actually associated with HYPOcalcemia (from fat saponification). الخيار E، Milk Alkali syndrome: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic bronchial carcinoma (D, via PTHrP or bone mets), and milk-alkali syndrome are all recognized causes of hypercalcemia, unlike acute pancreatitis, which is actually associated with HYPOcalcemia (from fat saponification).",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Sarcoidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis. الخيار B، Primary hyperparathyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis. الخيار D، Metastasis bronchial carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis. الخيار E، Milk Alkali syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Sarcoidosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic bronchial carcinoma (D, via PTHrP or bone mets), and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis."
         },
         {
           "letter": "B",
           "text": "Primary hyperparathyroidism",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic bronchial carcinoma (D, via PTHrP or bone mets), and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Metastasis bronchial carcinoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic bronchial carcinoma (D, via PTHrP or bone mets), and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis."
         },
         {
           "letter": "E",
           "text": "Milk Alkali syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic bronchial carcinoma (D, via PTHrP or bone mets), and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis."
         }
       ]
     },

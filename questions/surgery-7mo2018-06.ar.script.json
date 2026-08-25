@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hernia repair: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction. يصبح صحيحًا في سؤال يستهدف Hernia repair تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Thyroidectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction. يصبح صحيحًا في سؤال يستهدف Thyroidectomy تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Laparoscopic cholecystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction. يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy is clean-contaminated (opens the biliary tract), and radical mastectomy is clean (no mucosal tract opened) — neither is dirty/heavily contaminated like bowel obstruction surgery. الخيار E، Radical mastectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction. يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy is clean-contaminated (opens the biliary tract), and radical mastectomy is clean (no mucosal tract opened) — neither is dirty/heavily contaminated like bowel obstruction surgery.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hernia repair: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق. يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bowel obstruction. الخيار B، Thyroidectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق. يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bowel obstruction. الخيار C، Laparoscopic cholecystectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Laparoscopic cholecystectomy is clean-contaminated (opens the biliary tract), and radical… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bowel obstruction. الخيار E، Radical mastectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Laparoscopic cholecystectomy is clean-contaminated (opens the biliary tract), and radical… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bowel obstruction.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Hernia repair",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Hernia repair تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق.",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bowel obstruction."
         },
         {
           "letter": "B",
           "text": "Thyroidectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Thyroidectomy تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق.",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bowel obstruction."
         },
         {
           "letter": "C",
           "text": "Laparoscopic cholecystectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy is clean-contaminated (opens the biliary tract), and radical mastectomy is clean (no mucosal tract opened) — neither…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Laparoscopic cholecystectomy is clean-contaminated (opens the biliary tract), and radical…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bowel obstruction."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Radical mastectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy is clean-contaminated (opens the biliary tract), and radical mastectomy is clean (no mucosal tract opened) — neither…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Laparoscopic cholecystectomy is clean-contaminated (opens the biliary tract), and radical…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bowel obstruction."
         }
       ]
     },

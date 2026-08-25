@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypothermia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulsus paradoxus. يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more specifically associated with cardiac tamponade or severe respiratory disease. الخيار B، Tachypnea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulsus paradoxus. يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more specifically associated with cardiac tamponade or severe respiratory disease. الخيار D، Cool skin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulsus paradoxus. يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more specifically associated with cardiac tamponade or severe respiratory disease. الخيار E، Hypotension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulsus paradoxus. يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more specifically associated with cardiac tamponade or severe respiratory disease.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypothermia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus. الخيار B، Tachypnea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus. الخيار D، Cool skin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus. الخيار E، Hypotension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Hypothermia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulsus paradoxus.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus."
         },
         {
           "letter": "B",
           "text": "Tachypnea",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulsus paradoxus.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Cool skin",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulsus paradoxus.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus."
         },
         {
           "letter": "E",
           "text": "Hypotension",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulsus paradoxus.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus."
         }
       ]
     },

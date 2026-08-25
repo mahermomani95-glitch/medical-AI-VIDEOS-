@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Monitor ECG for arrhythmias: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation with goal of 20cc urine output per hour. يصبح صحيحًا في سؤال يصف Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment syndrome, and considering large volume fluid resuscitation are all appropriate considerations. الخيار B، Observe for hemoglobinuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation with goal of 20cc urine output per hour. يصبح صحيحًا في سؤال يصف Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment syndrome, and considering large volume fluid resuscitation are all appropriate considerations. الخيار D، Monitor for compartment syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation with goal of 20cc urine output per hour. يصبح صحيحًا في سؤال يصف Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment syndrome, and considering large volume fluid resuscitation are all appropriate considerations. الخيار E، Consider 8 liters fluid resuscitation in the first 8 hours: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation with goal of 20cc urine output per hour. يصبح صحيحًا في سؤال يصف Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment syndrome, and considering large volume fluid resuscitation are all appropriate considerations.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Monitor ECG for arrhythmias: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour. الخيار B، Observe for hemoglobinuria: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour. الخيار D، Monitor for compartment syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour. الخيار E، Consider 8 liters fluid resuscitation in the first 8 hours: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Monitor ECG for arrhythmias",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation with goal of 20cc urine output per hour.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment syndrome, and considering large volume fluid…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour."
         },
         {
           "letter": "B",
           "text": "Observe for hemoglobinuria",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation with goal of 20cc urine output per hour.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment syndrome, and considering large volume fluid…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Monitor for compartment syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation with goal of 20cc urine output per hour.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment syndrome, and considering large volume fluid…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour."
         },
         {
           "letter": "E",
           "text": "Consider 8 liters fluid resuscitation in the first 8 hours",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation with goal of 20cc urine output per hour.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment syndrome, and considering large volume fluid…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour."
         }
       ]
     },

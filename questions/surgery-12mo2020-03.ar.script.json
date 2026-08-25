@@ -75,21 +75,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Appendectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy. يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing gallstone via a cholecystoenteric fistula is gallstone ileus, distinguishing it from any colonic procedure like colectomy. الخيار B، Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy. يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing gallstone via a cholecystoenteric fistula is gallstone ileus, distinguishing it from any colonic procedure like colectomy. الخيار D، Colon resection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy. يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing gallstone via a cholecystoenteric fistula is gallstone ileus, distinguishing it from any colonic procedure like colectomy.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Appendectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Appendectomy, general intestinal obstruction, and colon resection are all surgical… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy. الخيار B، Intestinal obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Appendectomy, general intestinal obstruction, and colon resection are all surgical… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy. الخيار D، Colon resection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Appendectomy, general intestinal obstruction, and colon resection are all surgical… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Appendectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Appendectomy, general intestinal obstruction, and colon resection are all surgical…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy."
         },
         {
           "letter": "B",
           "text": "Intestinal obstruction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Appendectomy, general intestinal obstruction, and colon resection are all surgical…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy."
         },
         {
           "letter": "C",
@@ -101,8 +101,8 @@
           "letter": "D",
           "text": "Colon resection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Appendectomy, general intestinal obstruction, and colon resection are all surgical…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mastectomy."
         }
       ]
     },

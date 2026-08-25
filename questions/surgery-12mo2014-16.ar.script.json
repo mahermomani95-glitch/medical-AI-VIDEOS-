@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Choledochal cyst: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a significant risk factor for cholangiocarcinoma. يصبح صحيحًا في سؤال يصف Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and hepatolithiasis are all established risk factors for cholangiocarcinoma, unlike simple gallstones, which. الخيار C، Clonorchissinensis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a significant risk factor for cholangiocarcinoma. يصبح صحيحًا في سؤال يصف Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and hepatolithiasis are all established risk factors for cholangiocarcinoma, unlike simple gallstones, which. الخيار D، Primary sclerosing cholangitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a significant risk factor for cholangiocarcinoma. يصبح صحيحًا في سؤال يصف Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and hepatolithiasis are all established risk factors for cholangiocarcinoma, unlike simple gallstones, which. الخيار E، Hepatolithiasis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a significant risk factor for cholangiocarcinoma. يصبح صحيحًا في سؤال يصف Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and hepatolithiasis are all established risk factors for cholangiocarcinoma, unlike simple gallstones, which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Choledochal cyst: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones. الخيار C، Clonorchissinensis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones. الخيار D، Primary sclerosing cholangitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones. الخيار E، Hepatolithiasis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Choledochal cyst",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a significant risk factor for cholangiocarcinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and hepatolithiasis are all established risk factors for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones."
         },
         {
           "letter": "C",
           "text": "Clonorchissinensis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a significant risk factor for cholangiocarcinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and hepatolithiasis are all established risk factors for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones."
         },
         {
           "letter": "D",
           "text": "Primary sclerosing cholangitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a significant risk factor for cholangiocarcinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and hepatolithiasis are all established risk factors for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones."
         },
         {
           "letter": "E",
           "text": "Hepatolithiasis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a significant risk factor for cholangiocarcinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and hepatolithiasis are all established risk factors for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choledochal cyst, Clonorchis sinensis infection, primary sclerosing cholangitis, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones."
         }
       ]
     },

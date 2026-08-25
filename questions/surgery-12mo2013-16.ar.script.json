@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients). يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which. الخيار B، Fever: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients). يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which. الخيار C، Cough: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients). يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which. الخيار D، Constipation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients). يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping. الخيار B، Fever: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping. الخيار C، Cough: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping. الخيار D، Constipation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Pain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping."
         },
         {
           "letter": "B",
           "text": "Fever",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping."
         },
         {
           "letter": "C",
           "text": "Cough",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping."
         },
         {
           "letter": "D",
           "text": "Constipation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping."
         },
         {
           "letter": "E",

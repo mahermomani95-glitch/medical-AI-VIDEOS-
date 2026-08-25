@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Complications include stenosis, aneurysm, and heart failure: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا thrombosed — their ABSENCE would suggest thrombosis, making C the false statement. يصبح صحيحًا في سؤال يصف Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication, steal syndrome presenting with pallor/coldness during dialysis, and the common creation sites are all true statements — however, a palpable thrill and audible bruit actually indicate the fistula IS PATENT (functioning). الخيار B، Renal dialysis is the most common indication to create it: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا thrombosed — their ABSENCE would suggest thrombosis, making C the false statement. يصبح صحيحًا في سؤال يصف Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication, steal syndrome presenting with pallor/coldness during dialysis, and the common creation sites are all true statements — however, a palpable thrill and audible bruit actually indicate the fistula IS PATENT (functioning). الخيار D، Paleness and coldness of the hand during exercise and dialysis indicate the presence of steal syndrome: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا thrombosed — their ABSENCE would suggest thrombosis, making C the false statement. يصبح صحيحًا في سؤال يصف Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication, steal syndrome presenting with pallor/coldness during dialysis, and the common creation sites are all true statements — however, a palpable thrill and audible bruit actually indicate the fistula IS PATENT (functioning). الخيار E، The three most common sites are radiocephalic, brachiocephalic, and brachial artery to transposed basilic vein: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا thrombosed — their ABSENCE would suggest thrombosis, making C the false statement. يصبح صحيحًا في سؤال يصف Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication, steal syndrome presenting with pallor/coldness during dialysis, and the common creation sites are all true statements — however, a palpable thrill and audible bruit actually indicate the fistula IS PATENT (functioning).",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Complications include stenosis, aneurysm, and heart failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed. الخيار B، Renal dialysis is the most common indication to create it: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed. الخيار D، Paleness and coldness of the hand during exercise and dialysis indicate the presence of steal syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed. الخيار E، The three most common sites are radiocephalic, brachiocephalic, and brachial artery to transposed basilic vein: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Complications include stenosis, aneurysm, and heart failure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا thrombosed — their ABSENCE would suggest thrombosis, making C the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication, steal syndrome presenting with pallor/coldness…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed."
         },
         {
           "letter": "B",
           "text": "Renal dialysis is the most common indication to create it",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا thrombosed — their ABSENCE would suggest thrombosis, making C the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication, steal syndrome presenting with pallor/coldness…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Paleness and coldness of the hand during exercise and dialysis indicate the presence of…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا thrombosed — their ABSENCE would suggest thrombosis, making C the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication, steal syndrome presenting with pallor/coldness…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed."
         },
         {
           "letter": "E",
           "text": "The three most common sites are radiocephalic, brachiocephalic, and brachial artery to…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا thrombosed — their ABSENCE would suggest thrombosis, making C the false statement.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication, steal syndrome presenting with pallor/coldness…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed."
         }
       ]
     },

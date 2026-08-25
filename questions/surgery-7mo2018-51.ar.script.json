@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Perforation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis. يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening causes requiring urgent intervention. الخيار C، Acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis. يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening causes requiring urgent intervention. الخيار D، Ruptured ectopic pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis. يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening causes requiring urgent intervention. الخيار E، Referred pain ( MI, aortic dissection): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis. يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening causes requiring urgent intervention.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Perforation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis. الخيار C، Acute pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis. الخيار D، Ruptured ectopic pregnancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis. الخيار E، Referred pain ( MI, aortic dissection): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Perforation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Acute pancreatitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis."
         },
         {
           "letter": "D",
           "text": "Ruptured ectopic pregnancy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis."
         },
         {
           "letter": "E",
           "text": "Referred pain ( MI, aortic dissection)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis."
         }
       ]
     },

@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Abdominal ultrasound can help in the diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Clinical symptoms and signs are always diagnostic. يصبح صحيحًا في سؤال يصف Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in patients over 70 with a mass, and high perforation risk are all true statements. الخيار C، May mimic intestinal obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Clinical symptoms and signs are always diagnostic. يصبح صحيحًا في سؤال يصف Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in patients over 70 with a mass, and high perforation risk are all true statements. الخيار D، Colon cancer must be ruled out in patients older than 70 years with an abdominal mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Clinical symptoms and signs are always diagnostic. يصبح صحيحًا في سؤال يصف Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in patients over 70 with a mass, and high perforation risk are all true statements. الخيار E، Risk of perforations is high: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Clinical symptoms and signs are always diagnostic. يصبح صحيحًا في سؤال يصف Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in patients over 70 with a mass, and high perforation risk are all true statements.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Abdominal ultrasound can help in the diagnosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic. الخيار C، May mimic intestinal obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic. الخيار D، Colon cancer must be ruled out in patients older than 70 years with an abdominal mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic. الخيار E، Risk of perforations is high: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Abdominal ultrasound can help in the diagnosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Clinical symptoms and signs are always diagnostic.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in patients over 70 with a mass, and high perforation…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "May mimic intestinal obstruction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Clinical symptoms and signs are always diagnostic.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in patients over 70 with a mass, and high perforation…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic."
         },
         {
           "letter": "D",
           "text": "Colon cancer must be ruled out in patients older than 70 years with an abdominal mass",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Clinical symptoms and signs are always diagnostic.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in patients over 70 with a mass, and high perforation…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic."
         },
         {
           "letter": "E",
           "text": "Risk of perforations is high",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Clinical symptoms and signs are always diagnostic.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in patients over 70 with a mass, and high perforation…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic."
         }
       ]
     },

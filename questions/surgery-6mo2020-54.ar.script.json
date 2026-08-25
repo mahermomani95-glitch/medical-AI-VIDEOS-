@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Treat all patient as being COVID-19 positive: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Risk-reducing strategies as stroma rather than primary anastomosis. يصبح صحيحًا في سؤال يصف Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for staff, and conservative or surgical treatment options for cholecystitis were all true statements during the pandemic guidance period, unlike the false claim about intubating high-risk patients outside the theater. الخيار C، Mortality rate ranges from ~ 0.5 to 3%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Risk-reducing strategies as stroma rather than primary anastomosis. يصبح صحيحًا في سؤال يصف Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for staff, and conservative or surgical treatment options for cholecystitis were all true statements during the pandemic guidance period, unlike the false claim about intubating high-risk patients outside the theater. الخيار D، Full personal protective equipment for all staff: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Risk-reducing strategies as stroma rather than primary anastomosis. يصبح صحيحًا في سؤال يصف Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for staff, and conservative or surgical treatment options for cholecystitis were all true statements during the pandemic guidance period, unlike the false claim about intubating high-risk patients outside the theater. الخيار E، Cholecystitis can be treated conservatively or by cholecystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Risk-reducing strategies as stroma rather than primary anastomosis. يصبح صحيحًا في سؤال يصف Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for staff, and conservative or surgical treatment options for cholecystitis were all true statements during the pandemic guidance period, unlike the false claim about intubating high-risk patients outside the theater.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Treat all patient as being COVID-19 positive: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk-reducing strategies as stroma rather than primary anastomosis. الخيار C، Mortality rate ranges from ~ 0.5 to 3%: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk-reducing strategies as stroma rather than primary anastomosis. الخيار D، Full personal protective equipment for all staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk-reducing strategies as stroma rather than primary anastomosis. الخيار E، Cholecystitis can be treated conservatively or by cholecystectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk-reducing strategies as stroma rather than primary anastomosis.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Treat all patient as being COVID-19 positive",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Risk-reducing strategies as stroma rather than primary anastomosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for staff, and conservative or surgical treatment…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk-reducing strategies as stroma rather than primary anastomosis."
         },
         {
           "letter": "C",
           "text": "Mortality rate ranges from ~ 0.5 to 3%",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Risk-reducing strategies as stroma rather than primary anastomosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for staff, and conservative or surgical treatment…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk-reducing strategies as stroma rather than primary anastomosis."
         },
         {
           "letter": "D",
           "text": "Full personal protective equipment for all staff",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Risk-reducing strategies as stroma rather than primary anastomosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for staff, and conservative or surgical treatment…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk-reducing strategies as stroma rather than primary anastomosis."
         },
         {
           "letter": "E",
           "text": "Cholecystitis can be treated conservatively or by cholecystectomy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Risk-reducing strategies as stroma rather than primary anastomosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for staff, and conservative or surgical treatment…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Treating all patients as potentially COVID-19 positive, mortality rate estimates, full PPE for…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk-reducing strategies as stroma rather than primary anastomosis."
         }
       ]
     },

@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، High-grade fever: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower abdominal pain and right lower quadrant tenderness. يصبح صحيحًا في سؤال يصف High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric to RIF are all less typical/infrequent findings in appendicitis compared to the classic RLQ pain with tenderness, which is the common presentation. الخيار B، Frequent loose stools: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower abdominal pain and right lower quadrant tenderness. يصبح صحيحًا في سؤال يصف High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric to RIF are all less typical/infrequent findings in appendicitis compared to the classic RLQ pain with tenderness, which is the common presentation. الخيار D، White blood cell count greater than 20,000: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower abdominal pain and right lower quadrant tenderness. يصبح صحيحًا في سؤال يصف High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric to RIF are all less typical/infrequent findings in appendicitis compared to the classic RLQ pain with tenderness, which is the common presentation. الخيار E، Hypogastric pain shifted to the right iliac fossa.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower abdominal pain and right lower quadrant tenderness. يصبح صحيحًا في سؤال يصف High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric to RIF are all less typical/infrequent findings in appendicitis compared to the classic RLQ pain with tenderness, which is the common presentation.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، High-grade fever: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness. الخيار B، Frequent loose stools: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness. الخيار D، White blood cell count greater than 20,000: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness. الخيار E، Hypogastric pain shifted to the right iliac fossa.: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness.",
       "verdicts": [
         {
           "letter": "A",
           "text": "High-grade fever",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower abdominal pain and right lower quadrant tenderness.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric to RIF are all less typical/infrequent findings in…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness."
         },
         {
           "letter": "B",
           "text": "Frequent loose stools",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower abdominal pain and right lower quadrant tenderness.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric to RIF are all less typical/infrequent findings in…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "White blood cell count greater than 20,000",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower abdominal pain and right lower quadrant tenderness.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric to RIF are all less typical/infrequent findings in…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness."
         },
         {
           "letter": "E",
           "text": "Hypogastric pain shifted to the right iliac fossa.",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower abdominal pain and right lower quadrant tenderness.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric to RIF are all less typical/infrequent findings in…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness."
         }
       ]
     },

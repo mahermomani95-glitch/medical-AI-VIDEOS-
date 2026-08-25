@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Thrombophlebitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more. يصبح صحيحًا في سؤال يصف Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of severe/complicated varicose veins, unlike compressibility on pressure — severe varicose veins with skin changes are often less compressible due to associated fibrosis. الخيار B، Hyperpigmentation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more. يصبح صحيحًا في سؤال يصف Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of severe/complicated varicose veins, unlike compressibility on pressure — severe varicose veins with skin changes are often less compressible due to associated fibrosis. الخيار C، Ulceration: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more. يصبح صحيحًا في سؤال يصف Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of severe/complicated varicose veins, unlike compressibility on pressure — severe varicose veins with skin changes are often less compressible due to associated fibrosis. الخيار E، Bleeding: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more. يصبح صحيحًا في سؤال يصف Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of severe/complicated varicose veins, unlike compressibility on pressure — severe varicose veins with skin changes are often less compressible due to associated fibrosis.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Thrombophlebitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure. الخيار B، Hyperpigmentation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure. الخيار C، Ulceration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure. الخيار E، Bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Thrombophlebitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of severe/complicated varicose veins, unlike compressibility on…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure."
         },
         {
           "letter": "B",
           "text": "Hyperpigmentation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of severe/complicated varicose veins, unlike compressibility on…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure."
         },
         {
           "letter": "C",
           "text": "Ulceration",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of severe/complicated varicose veins, unlike compressibility on…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Bleeding",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of severe/complicated varicose veins, unlike compressibility on…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure."
         }
       ]
     },

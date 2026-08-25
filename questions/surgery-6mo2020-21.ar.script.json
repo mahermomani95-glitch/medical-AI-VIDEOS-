@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Esophageal atresia present with cyanosis at birth: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Undescended testis requires immediate repair. يصبح صحيحًا في سؤال يصف Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus with perianal fistula, and double bubble sign in duodenal atresia are all true statements. الخيار B، Pyloric stenosis usually presents at one month: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Undescended testis requires immediate repair. يصبح صحيحًا في سؤال يصف Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus with perianal fistula, and double bubble sign in duodenal atresia are all true statements. الخيار D، Imperforate anus could be associated with perianal fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Undescended testis requires immediate repair. يصبح صحيحًا في سؤال يصف Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus with perianal fistula, and double bubble sign in duodenal atresia are all true statements. الخيار E، Double bubble sign is seen in duodenal atresia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Undescended testis requires immediate repair. يصبح صحيحًا في سؤال يصف Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus with perianal fistula, and double bubble sign in duodenal atresia are all true statements.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Esophageal atresia present with cyanosis at birth: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair. الخيار B، Pyloric stenosis usually presents at one month: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair. الخيار D، Imperforate anus could be associated with perianal fistula: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair. الخيار E، Double bubble sign is seen in duodenal atresia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Esophageal atresia present with cyanosis at birth",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Undescended testis requires immediate repair.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus with perianal fistula, and double bubble sign in…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair."
         },
         {
           "letter": "B",
           "text": "Pyloric stenosis usually presents at one month",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Undescended testis requires immediate repair.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus with perianal fistula, and double bubble sign in…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Imperforate anus could be associated with perianal fistula",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Undescended testis requires immediate repair.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus with perianal fistula, and double bubble sign in…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair."
         },
         {
           "letter": "E",
           "text": "Double bubble sign is seen in duodenal atresia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Undescended testis requires immediate repair.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus with perianal fistula, and double bubble sign in…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair."
         }
       ]
     },

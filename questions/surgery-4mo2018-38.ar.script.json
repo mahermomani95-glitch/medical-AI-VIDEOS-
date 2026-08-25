@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Decreased B12 and folate uptake: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake. يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal ileal resection. الخيار B، Decreased bile salt uptake: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake. يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal ileal resection. الخيار D، Diarrhea, steatorrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake. يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal ileal resection. الخيار E، Gallstones formation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake. يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal ileal resection.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Decreased B12 and folate uptake: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake. الخيار B، Decreased bile salt uptake: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake. الخيار D، Diarrhea, steatorrhea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake. الخيار E، Gallstones formation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Decreased B12 and folate uptake",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake."
         },
         {
           "letter": "B",
           "text": "Decreased bile salt uptake",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Diarrhea, steatorrhea",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake."
         },
         {
           "letter": "E",
           "text": "Gallstones formation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake."
         }
       ]
     },

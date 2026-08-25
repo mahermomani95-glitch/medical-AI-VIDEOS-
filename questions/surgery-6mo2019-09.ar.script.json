@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، BMI 15 represents underweight: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is equal Height in meter quadrant over the weight in kilograms. يصبح صحيحًا في سؤال يصف BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an indication for bariatric surgery are all reasonably accurate BMI classifications. الخيار B، BMI 20 represents optimal weight: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is equal Height in meter quadrant over the weight in kilograms. يصبح صحيحًا في سؤال يصف BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an indication for bariatric surgery are all reasonably accurate BMI classifications. الخيار D، BMI 26 represents overweight: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is equal Height in meter quadrant over the weight in kilograms. يصبح صحيحًا في سؤال يصف BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an indication for bariatric surgery are all reasonably accurate BMI classifications. الخيار E، BMI 41 is indication for weight loss surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is equal Height in meter quadrant over the weight in kilograms. يصبح صحيحًا في سؤال يصف BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an indication for bariatric surgery are all reasonably accurate BMI classifications.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، BMI 15 represents underweight: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is equal Height in meter quadrant over the weight in kilograms. الخيار B، BMI 20 represents optimal weight: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is equal Height in meter quadrant over the weight in kilograms. الخيار D، BMI 26 represents overweight: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is equal Height in meter quadrant over the weight in kilograms. الخيار E، BMI 41 is indication for weight loss surgery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is equal Height in meter quadrant over the weight in kilograms.",
       "verdicts": [
         {
           "letter": "A",
           "text": "BMI 15 represents underweight",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is equal Height in meter quadrant over the weight in kilograms.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an indication for bariatric surgery are all reasonably…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is equal Height in meter quadrant over the weight in kilograms."
         },
         {
           "letter": "B",
           "text": "BMI 20 represents optimal weight",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is equal Height in meter quadrant over the weight in kilograms.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an indication for bariatric surgery are all reasonably…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is equal Height in meter quadrant over the weight in kilograms."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "BMI 26 represents overweight",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is equal Height in meter quadrant over the weight in kilograms.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an indication for bariatric surgery are all reasonably…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is equal Height in meter quadrant over the weight in kilograms."
         },
         {
           "letter": "E",
           "text": "BMI 41 is indication for weight loss surgery",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is equal Height in meter quadrant over the weight in kilograms.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an indication for bariatric surgery are all reasonably…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI 15 as underweight, BMI 20 as optimal weight, BMI 26 as overweight, and BMI 41 as an…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is equal Height in meter quadrant over the weight in kilograms."
         }
       ]
     },

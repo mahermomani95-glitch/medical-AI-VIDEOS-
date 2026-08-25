@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Vomiting is more severe: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Positive rebound pain. يصبح صحيحًا في سؤال يصف More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are all true statements about appendicitis presentation in young children. الخيار C، High fever: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Positive rebound pain. يصبح صحيحًا في سؤال يصف More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are all true statements about appendicitis presentation in young children. الخيار D، if the appendix in the pelvis, it will cause diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Positive rebound pain. يصبح صحيحًا في سؤال يصف More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are all true statements about appendicitis presentation in young children. الخيار E، Late presentation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Positive rebound pain. يصبح صحيحًا في سؤال يصف More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are all true statements about appendicitis presentation in young children.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Vomiting is more severe: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain. الخيار C، High fever: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain. الخيار D، if the appendix in the pelvis, it will cause diarrhea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain. الخيار E، Late presentation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Vomiting is more severe",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Positive rebound pain.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are all true statements about appendicitis presentation…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain."
         },
         {
           "letter": "C",
           "text": "High fever",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Positive rebound pain.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are all true statements about appendicitis presentation…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain."
         },
         {
           "letter": "D",
           "text": "if the appendix in the pelvis, it will cause diarrhea",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Positive rebound pain.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are all true statements about appendicitis presentation…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain."
         },
         {
           "letter": "E",
           "text": "Late presentation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Positive rebound pain.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are all true statements about appendicitis presentation…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain."
         }
       ]
     },

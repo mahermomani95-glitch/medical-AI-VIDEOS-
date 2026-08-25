@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Constipation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low fiber diet. يصبح صحيحًا في سؤال يصف Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors for volvulus. الخيار C، Pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low fiber diet. يصبح صحيحًا في سؤال يصف Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors for volvulus. الخيار D، Laxative abuse: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low fiber diet. يصبح صحيحًا في سؤال يصف Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors for volvulus. الخيار E، Old age: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low fiber diet. يصبح صحيحًا في سؤال يصف Pregnancy, laxative abuse, and old age are all genuine risk factors for sigmoid volvulus, alongside chronic constipation.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Constipation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet. الخيار C، Pregnancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet. الخيار D، Laxative abuse: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet. الخيار E، Old age: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pregnancy, laxative abuse, and old age are all genuine risk factors for sigmoid volvulus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Constipation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low fiber diet.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors for volvulus."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet."
         },
         {
           "letter": "C",
           "text": "Pregnancy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low fiber diet.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors for volvulus."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet."
         },
         {
           "letter": "D",
           "text": "Laxative abuse",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low fiber diet.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors for volvulus."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet."
         },
         {
           "letter": "E",
           "text": "Old age",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low fiber diet.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pregnancy, laxative abuse, and old age are all genuine risk factors for sigmoid volvulus, alongside chronic constipation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pregnancy, laxative abuse, and old age are all genuine risk factors for sigmoid volvulus…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet."
         }
       ]
     },

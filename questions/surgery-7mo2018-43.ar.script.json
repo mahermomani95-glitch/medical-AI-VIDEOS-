@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Obesity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low bone mineral density. يصبح صحيحًا في سؤال يصف Obesity, high breast tissue density, smoking, and a late first full-term pregnancy (after age 35) are all recognized risk factors for breast cancer. الخيار C، High breast density: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low bone mineral density. يصبح صحيحًا في سؤال يصف Obesity, high breast tissue density, smoking, and a late first full-term pregnancy (after age 35) are all recognized risk factors for breast cancer. الخيار D، Smoking: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low bone mineral density. يصبح صحيحًا في سؤال يصف Obesity, high breast tissue density, smoking, and a late first full-term pregnancy (after age 35) are all recognized risk factors for breast cancer. الخيار E، First full term pregnancy at age of 35 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low bone mineral density. يصبح صحيحًا في سؤال يصف Obesity, high breast tissue density, smoking, and a late first full-term pregnancy (after age 35) are all recognized risk factors for breast cancer.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density. الخيار C، High breast density: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density. الخيار D، Smoking: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density. الخيار E، First full term pregnancy at age of 35 years: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Obesity",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low bone mineral density.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, high breast tissue density, smoking, and a late first full-term pregnancy (after age 35) are all recognized risk factors for breast…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "High breast density",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low bone mineral density.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, high breast tissue density, smoking, and a late first full-term pregnancy (after age 35) are all recognized risk factors for breast…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density."
         },
         {
           "letter": "D",
           "text": "Smoking",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low bone mineral density.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, high breast tissue density, smoking, and a late first full-term pregnancy (after age 35) are all recognized risk factors for breast…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density."
         },
         {
           "letter": "E",
           "text": "First full term pregnancy at age of 35 years",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low bone mineral density.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Obesity, high breast tissue density, smoking, and a late first full-term pregnancy (after age 35) are all recognized risk factors for breast…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density."
         }
       ]
     },

@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulseless. يصبح صحيحًا في سؤال يصف Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment pressure are all recognized early signs. الخيار B، Paraesthesia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulseless. يصبح صحيحًا في سؤال يصف Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment pressure are all recognized early signs. الخيار C، Tense swelling: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulseless. يصبح صحيحًا في سؤال يصف Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment pressure are all recognized early signs. الخيار E، Pressure increased: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulseless. يصبح صحيحًا في سؤال يصف Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment pressure are all recognized early signs.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless. الخيار B، Paraesthesia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless. الخيار C، Tense swelling: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless. الخيار E، Pressure increased: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Pain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulseless.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment pressure are all recognized early signs."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless."
         },
         {
           "letter": "B",
           "text": "Paraesthesia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulseless.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment pressure are all recognized early signs."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless."
         },
         {
           "letter": "C",
           "text": "Tense swelling",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulseless.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment pressure are all recognized early signs."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Pressure increased",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulseless.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment pressure are all recognized early signs."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless."
         }
       ]
     },

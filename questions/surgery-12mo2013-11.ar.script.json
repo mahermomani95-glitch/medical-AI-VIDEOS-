@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Choking on first feed: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early presenting sign. يصبح صحيحًا في سؤال يصف Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting signs of TEF, unlike aspiration pneumonia which is typically a later complication from repeated aspiration. الخيار B، Coughing: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early presenting sign. يصبح صحيحًا في سؤال يصف Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting signs of TEF, unlike aspiration pneumonia which is typically a later complication from repeated aspiration. الخيار C، Cyanosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early presenting sign. يصبح صحيحًا في سؤال يصف Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting signs of TEF, unlike aspiration pneumonia which is typically a later complication from repeated aspiration. الخيار D، Excessive salivation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early presenting sign. يصبح صحيحًا في سؤال يصف Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting signs of TEF, unlike aspiration pneumonia which is typically a later complication from repeated aspiration.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Choking on first feed: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia. الخيار B، Coughing: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia. الخيار C، Cyanosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia. الخيار D، Excessive salivation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Choking on first feed",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early presenting sign.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting signs of TEF, unlike aspiration pneumonia which is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia."
         },
         {
           "letter": "B",
           "text": "Coughing",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early presenting sign.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting signs of TEF, unlike aspiration pneumonia which is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia."
         },
         {
           "letter": "C",
           "text": "Cyanosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early presenting sign.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting signs of TEF, unlike aspiration pneumonia which is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia."
         },
         {
           "letter": "D",
           "text": "Excessive salivation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an early presenting sign.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting signs of TEF, unlike aspiration pneumonia which is…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia."
         },
         {
           "letter": "E",

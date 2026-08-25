@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، The most common type is invasive ductal carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk factor are all true statements. الخيار C، Inflammatory breast cancer has the worst prognosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk factor are all true statements. الخيار D، lymph node metastasis is an important risk facor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk factor are all true statements.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، The most common type is invasive ductal carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver. الخيار C، Inflammatory breast cancer has the worst prognosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver. الخيار D، lymph node metastasis is an important risk facor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver.",
       "verdicts": [
         {
           "letter": "A",
@@ -87,22 +87,22 @@
           "letter": "B",
           "text": "The most common type is invasive ductal carcinoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver."
         },
         {
           "letter": "C",
           "text": "Inflammatory breast cancer has the worst prognosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver."
         },
         {
           "letter": "D",
           "text": "lymph node metastasis is an important risk facor",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver."
         }
       ]
     },

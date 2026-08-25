@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tubo_ ovarian mass: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the right iliac fossa. يصبح صحيحًا في سؤال يصف Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema (D, if positioned low or with a long gallbladder) are all recognized differentials for RIF pain, unlike splenic vein thrombosis, which relates to the LEFT upper quadrant/spleen. الخيار B، Acute pyelonephritis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the right iliac fossa. يصبح صحيحًا في سؤال يصف Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema (D, if positioned low or with a long gallbladder) are all recognized differentials for RIF pain, unlike splenic vein thrombosis, which relates to the LEFT upper quadrant/spleen. الخيار C، Crohn disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the right iliac fossa. يصبح صحيحًا في سؤال يصف Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema (D, if positioned low or with a long gallbladder) are all recognized differentials for RIF pain, unlike splenic vein thrombosis, which relates to the LEFT upper quadrant/spleen. الخيار D، Empyema of the gallbladder: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the right iliac fossa. يصبح صحيحًا في سؤال يصف Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema (D, if positioned low or with a long gallbladder) are all recognized differentials for RIF pain, unlike splenic vein thrombosis, which relates to the LEFT upper quadrant/spleen.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tubo_ ovarian mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis. الخيار B، Acute pyelonephritis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis. الخيار C، Crohn disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis. الخيار D، Empyema of the gallbladder: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Tubo_ ovarian mass",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the right iliac fossa.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema (D, if positioned low or with a long gallbladder) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis."
         },
         {
           "letter": "B",
           "text": "Acute pyelonephritis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the right iliac fossa.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema (D, if positioned low or with a long gallbladder) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis."
         },
         {
           "letter": "C",
           "text": "Crohn disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the right iliac fossa.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema (D, if positioned low or with a long gallbladder) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis."
         },
         {
           "letter": "D",
           "text": "Empyema of the gallbladder",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the right iliac fossa.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema (D, if positioned low or with a long gallbladder) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis."
         },
         {
           "letter": "E",

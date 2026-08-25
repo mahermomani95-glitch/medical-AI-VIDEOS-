@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Post surgical adhesion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fecal impaction. يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike fecal impaction, which typically causes large bowel (not small bowel) obstruction. الخيار B، Inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fecal impaction. يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike fecal impaction, which typically causes large bowel (not small bowel) obstruction. الخيار C، Incisional hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fecal impaction. يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike fecal impaction, which typically causes large bowel (not small bowel) obstruction. الخيار D، Small bowel tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fecal impaction. يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike fecal impaction, which typically causes large bowel (not small bowel) obstruction.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Post surgical adhesion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction. الخيار B، Inguinal hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction. الخيار C، Incisional hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction. الخيار D، Small bowel tumor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Post surgical adhesion",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fecal impaction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction."
         },
         {
           "letter": "B",
           "text": "Inguinal hernia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fecal impaction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction."
         },
         {
           "letter": "C",
           "text": "Incisional hernia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fecal impaction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction."
         },
         {
           "letter": "D",
           "text": "Small bowel tumor",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fecal impaction.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction."
         },
         {
           "letter": "E",

@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intestinal malrotation and volvulus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pyloric stenosis. يصبح صحيحًا في سؤال يصف Malrotation with volvulus, duodenal atresia (distal to ampulla) → real bilious vomiting causes. الخيار C، Duodenal atresia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pyloric stenosis. يصبح صحيحًا في سؤال يصف Malrotation with volvulus, duodenal atresia (distal to ampulla) → real bilious vomiting causes. الخيار D، Small bowel obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pyloric stenosis. يصبح صحيحًا في سؤال يصف small bowel obstruction are classic causes of bilious vomiting in infants. الخيار E، Ulcerative colitis with colonic obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pyloric stenosis. يصبح صحيحًا في سؤال يستهدف Ulcerative colitis with colonic obstruction تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intestinal malrotation and volvulus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis. الخيار C، Duodenal atresia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis. الخيار D، Small bowel obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis. الخيار E، Ulcerative colitis with colonic obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Intestinal malrotation and volvulus",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pyloric stenosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Malrotation with volvulus, duodenal atresia (distal to ampulla) → real bilious vomiting causes."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Duodenal atresia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pyloric stenosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Malrotation with volvulus, duodenal atresia (distal to ampulla) → real bilious vomiting causes."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis."
         },
         {
           "letter": "D",
           "text": "Small bowel obstruction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pyloric stenosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف small bowel obstruction are classic causes of bilious vomiting in infants."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis."
         },
         {
           "letter": "E",
           "text": "Ulcerative colitis with colonic obstruction",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pyloric stenosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Ulcerative colitis with colonic obstruction تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis."
         }
       ]
     },

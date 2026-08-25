@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Family history: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have the same established link to thyroid cancer that it does to many other cancers. يصبح صحيحًا في سؤال يصف Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid cancer risk factors, unlike smoking, which. الخيار B، Hx of radiation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have the same established link to thyroid cancer that it does to many other cancers. يصبح صحيحًا في سؤال يصف Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid cancer risk factors, unlike smoking, which. الخيار D، Female: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have the same established link to thyroid cancer that it does to many other cancers. يصبح صحيحًا في سؤال يصف Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid cancer risk factors, unlike smoking, which. الخيار E، Low iodine diet: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have the same established link to thyroid cancer that it does to many other cancers. يصبح صحيحًا في سؤال يصف Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid cancer risk factors, unlike smoking, which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Family history: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار B، Hx of radiation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار D، Female: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار E، Low iodine diet: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Family history",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have the same established link to thyroid cancer that it does to many other cancers.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid cancer risk factors, unlike smoking, which."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking."
         },
         {
           "letter": "B",
           "text": "Hx of radiation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have the same established link to thyroid cancer that it does to many other cancers.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid cancer risk factors, unlike smoking, which."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Female",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have the same established link to thyroid cancer that it does to many other cancers.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid cancer risk factors, unlike smoking, which."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking."
         },
         {
           "letter": "E",
           "text": "Low iodine diet",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have the same established link to thyroid cancer that it does to many other cancers.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid cancer risk factors, unlike smoking, which."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking."
         }
       ]
     },

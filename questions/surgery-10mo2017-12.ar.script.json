@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Screening tests are available for all common cancers: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under 40 years of age. يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are all true statements — however, screening tests are NOT available for all common cancers (many lack effective population screening), making A the false statement. الخيار B، Most screening tests are not 100% sensitive and specific: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under 40 years of age. يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are all true statements — however, screening tests are NOT available for all common cancers (many lack effective population screening), making A the false statement. الخيار D، Prostatic Specific Antigen (PSA) estimation is currently the best screening tool for prostatic cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under 40 years of age. يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are all true statements — however, screening tests are NOT available for all common cancers (many lack effective population screening), making A the false statement. الخيار E، It takes approximately 10 years for a colonic polyp to develop: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under 40 years of age. يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer timeline are all true statements — however, screening tests are NOT available for all common cancers (many lack effective population screening), making A the false statement.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Screening tests are available for all common cancers: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age. الخيار B، Most screening tests are not 100% sensitive and specific: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age. الخيار D، Prostatic Specific Antigen (PSA) estimation is currently the best screening tool for prostatic cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age. الخيار E، It takes approximately 10 years for a colonic polyp to develop: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Screening tests are available for all common cancers",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under 40 years of age.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age."
         },
         {
           "letter": "B",
           "text": "Most screening tests are not 100% sensitive and specific",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under 40 years of age.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Prostatic Specific Antigen (PSA) estimation is currently the best screening tool for…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under 40 years of age.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age."
         },
         {
           "letter": "E",
           "text": "It takes approximately 10 years for a colonic polyp to develop",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي No benefit has yet been shown for breast screening in women under 40 years of age.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate screening tool, and the ~10-year polyp-to-cancer…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age."
         }
       ]
     },

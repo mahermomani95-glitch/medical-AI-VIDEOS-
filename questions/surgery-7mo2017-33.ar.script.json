@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Should never be given at rate greater than 30 mmol over 6 hours: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يستهدف Should never be given at rate greater than 30 mmol over 6 hours تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Should preferentially be given via a central line: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يستهدف Should preferentially be given via a central line تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، May cause metastatic calcification: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يستهدف May cause metastatic calcification تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Should be used even if the patient is asymptomatic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Should never be given at rate greater than 30 mmol over 6 hours: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic calcification with hypercalcemia states, and treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however, magnesium sulfate infusion is associated with HYPOcalcemia (not hypercalcemia) as a potential effect through various mechanisms, making A. الخيار C، Should preferentially be given via a central line: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic calcification with hypercalcemia states, and treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however, magnesium sulfate infusion is associated with HYPOcalcemia (not hypercalcemia) as a potential effect through various mechanisms, making A. الخيار D، May cause metastatic calcification: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic calcification with hypercalcemia states, and treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however, magnesium sulfate infusion is associated with HYPOcalcemia (not hypercalcemia) as a potential effect through various mechanisms, making A. الخيار E، Should be used even if the patient is asymptomatic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic calcification with hypercalcemia states, and treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however, magnesium sulfate infusion is associated with HYPOcalcemia (not hypercalcemia) as a potential effect through various mechanisms, making A.",
       "verdicts": [
         {
           "letter": "A",
@@ -92,28 +92,28 @@
           "text": "Should never be given at rate greater than 30 mmol over 6 hours",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Should never be given at rate greater than 30 mmol over 6 hours تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic…"
         },
         {
           "letter": "C",
           "text": "Should preferentially be given via a central line",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Should preferentially be given via a central line تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic…"
         },
         {
           "letter": "D",
           "text": "May cause metastatic calcification",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف May cause metastatic calcification تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic…"
         },
         {
           "letter": "E",
           "text": "Should be used even if the patient is asymptomatic",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic…"
         }
       ]
     },

@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Heart failure stage 4: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension. يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both hypovolemic) are all genuine causes of persistent hypotension through different shock mechanisms, unlike hypothyroidism which. الخيار B، Tension Pneumothorax: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension. يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both hypovolemic) are all genuine causes of persistent hypotension through different shock mechanisms, unlike hypothyroidism which. الخيار D، Persistent external bleeding: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension. يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both hypovolemic) are all genuine causes of persistent hypotension through different shock mechanisms, unlike hypothyroidism which. الخيار E، Hidden internal bleeding: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension. يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both hypovolemic) are all genuine causes of persistent hypotension through different shock mechanisms, unlike hypothyroidism which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Heart failure stage 4: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism. الخيار B، Tension Pneumothorax: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism. الخيار D، Persistent external bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism. الخيار E، Hidden internal bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Heart failure stage 4",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism."
         },
         {
           "letter": "B",
           "text": "Tension Pneumothorax",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Persistent external bleeding",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism."
         },
         {
           "letter": "E",
           "text": "Hidden internal bleeding",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism."
         }
       ]
     },

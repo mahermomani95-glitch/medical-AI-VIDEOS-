@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Dysphagia to both solids and liquid is classic: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا total gastrectomy (an unrelated, overly radical procedure). يصبح صحيحًا في سؤال يصف Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight loss, and the underlying LES relaxation failure are all true statements about achalasia — however, the treatment of choice. الخيار B، Barium swallow reveals a birdlike narrowing in the distal esophagus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا total gastrectomy (an unrelated, overly radical procedure). يصبح صحيحًا في سؤال يصف Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight loss, and the underlying LES relaxation failure are all true statements about achalasia — however, the treatment of choice. الخيار D، Usually associated with weight loss: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا total gastrectomy (an unrelated, overly radical procedure). يصبح صحيحًا في سؤال يصف Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight loss, and the underlying LES relaxation failure are all true statements about achalasia — however, the treatment of choice. الخيار E، The underlying defect is failure of the lower esophageal sphincter to relax: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا total gastrectomy (an unrelated, overly radical procedure). يصبح صحيحًا في سؤال يصف Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight loss, and the underlying LES relaxation failure are all true statements about achalasia — however, the treatment of choice.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Dysphagia to both solids and liquid is classic: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Treatment of choice is total gasterectomy. الخيار B، Barium swallow reveals a birdlike narrowing in the distal esophagus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Treatment of choice is total gasterectomy. الخيار D، Usually associated with weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Treatment of choice is total gasterectomy. الخيار E، The underlying defect is failure of the lower esophageal sphincter to relax: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Treatment of choice is total gasterectomy.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Dysphagia to both solids and liquid is classic",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا total gastrectomy (an unrelated, overly radical procedure).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight loss, and the underlying LES relaxation failure are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Treatment of choice is total gasterectomy."
         },
         {
           "letter": "B",
           "text": "Barium swallow reveals a birdlike narrowing in the distal esophagus",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا total gastrectomy (an unrelated, overly radical procedure).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight loss, and the underlying LES relaxation failure are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Treatment of choice is total gasterectomy."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Usually associated with weight loss",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا total gastrectomy (an unrelated, overly radical procedure).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight loss, and the underlying LES relaxation failure are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Treatment of choice is total gasterectomy."
         },
         {
           "letter": "E",
           "text": "The underlying defect is failure of the lower esophageal sphincter to relax",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا total gastrectomy (an unrelated, overly radical procedure).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight loss, and the underlying LES relaxation failure are…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Dysphagia to both solids and liquids, the bird-beak sign on barium swallow, associated weight…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Treatment of choice is total gasterectomy."
         }
       ]
     },

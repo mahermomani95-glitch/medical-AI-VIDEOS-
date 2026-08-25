@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Alcohol: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC. يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically, unlike Barrett's esophagus which is a risk factor for adenocarcinoma. الخيار B، Tobacco: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC. يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically, unlike Barrett's esophagus which is a risk factor for adenocarcinoma. الخيار C، Achalasia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC. يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically, unlike Barrett's esophagus which is a risk factor for adenocarcinoma. الخيار D، Plummer Vinson syndrome: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC. يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically, unlike Barrett's esophagus which is a risk factor for adenocarcinoma.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Alcohol: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus. الخيار B، Tobacco: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus. الخيار C، Achalasia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus. الخيار D، Plummer Vinson syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Alcohol",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus."
         },
         {
           "letter": "B",
           "text": "Tobacco",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus."
         },
         {
           "letter": "C",
           "text": "Achalasia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus."
         },
         {
           "letter": "D",
           "text": "Plummer Vinson syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus."
         },
         {
           "letter": "E",

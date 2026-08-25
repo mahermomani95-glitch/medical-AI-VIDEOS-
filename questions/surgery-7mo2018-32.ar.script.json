@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tetanus is a serious toxin-mediated disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Culture is essential for diagnosis. يصبح صحيحًا في سؤال يصف Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by a gram-positive anaerobic organism, and causing diffuse muscle rigidity are all correct. الخيار B، Tetanus is with a mortality of up to 50% in adults: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Culture is essential for diagnosis. يصبح صحيحًا في سؤال يصف Up to 50% mortality in untreated adults, being a gram-positive anaerobic organism, and causing diffuse muscle rigidity are all true statements about tetanus, unlike the false claim about routine culture confirmation. الخيار C، Gram-positive anaerobic organism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Culture is essential for diagnosis. يصبح صحيحًا في سؤال يصف Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by a gram-positive anaerobic organism, and causing diffuse muscle rigidity are all correct. الخيار E، Causes diffuse muscle rigidity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Culture is essential for diagnosis. يصبح صحيحًا في سؤال يصف Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by a gram-positive anaerobic organism, and causing diffuse muscle rigidity are all correct.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tetanus is a serious toxin-mediated disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis. الخيار B، Tetanus is with a mortality of up to 50% in adults: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Up to 50% mortality in untreated adults, being a gram-positive anaerobic organism, and causing… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis. الخيار C، Gram-positive anaerobic organism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis. الخيار E، Causes diffuse muscle rigidity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Tetanus is a serious toxin-mediated disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Culture is essential for diagnosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by a gram-positive anaerobic organism, and causing…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis."
         },
         {
           "letter": "B",
           "text": "Tetanus is with a mortality of up to 50% in adults",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Culture is essential for diagnosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Up to 50% mortality in untreated adults, being a gram-positive anaerobic organism, and causing diffuse muscle rigidity are all true statements…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Up to 50% mortality in untreated adults, being a gram-positive anaerobic organism, and causing…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis."
         },
         {
           "letter": "C",
           "text": "Gram-positive anaerobic organism",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Culture is essential for diagnosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by a gram-positive anaerobic organism, and causing…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Causes diffuse muscle rigidity",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Culture is essential for diagnosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by a gram-positive anaerobic organism, and causing…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis."
         }
       ]
     },

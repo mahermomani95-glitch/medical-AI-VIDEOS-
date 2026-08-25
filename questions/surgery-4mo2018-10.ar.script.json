@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، splenomegaly: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي decreased platelet adhesion. يصبح صحيحًا في سؤال يصف Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the primary treatment. الخيار C، deficiency or inhibition of metalloproteinase ADAMTS13: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي decreased platelet adhesion. يصبح صحيحًا في سؤال يصف Deficiency or inhibition of ADAMTS13 is the core mechanism in TTP, leading to accumulation of large von Willebrand factor multimers and increased (not decreased) platelet adhesion and microthrombi. الخيار D، The primary therapy is plasmapheresis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي decreased platelet adhesion. يصبح صحيحًا في سؤال يصف Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the primary treatment. الخيار E، Thrombosis': لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي decreased platelet adhesion. يصبح صحيحًا في سؤال يصف Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the primary treatment.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، splenomegaly: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion. الخيار C، deficiency or inhibition of metalloproteinase ADAMTS13: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Deficiency or inhibition of ADAMTS13 is the core mechanism in TTP, leading to accumulation of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion. الخيار D، The primary therapy is plasmapheresis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion. الخيار E، Thrombosis': عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion.",
       "verdicts": [
         {
           "letter": "A",
           "text": "splenomegaly",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي decreased platelet adhesion.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the primary treatment."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "deficiency or inhibition of metalloproteinase ADAMTS13",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي decreased platelet adhesion.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Deficiency or inhibition of ADAMTS13 is the core mechanism in TTP, leading to accumulation of large von Willebrand factor multimers and increased…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Deficiency or inhibition of ADAMTS13 is the core mechanism in TTP, leading to accumulation of…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion."
         },
         {
           "letter": "D",
           "text": "The primary therapy is plasmapheresis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي decreased platelet adhesion.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the primary treatment."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion."
         },
         {
           "letter": "E",
           "text": "Thrombosis'",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي decreased platelet adhesion.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the primary treatment."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion."
         }
       ]
     },

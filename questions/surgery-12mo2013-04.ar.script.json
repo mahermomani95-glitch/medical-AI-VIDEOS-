@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Age: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system. يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation. الخيار B، Blood sugar: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system. يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation. الخيار D، White cell count: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system. يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation. الخيار E، LDH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system. يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Age: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase. الخيار B، Blood sugar: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase. الخيار D، White cell count: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase. الخيار E، LDH: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Age",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase."
         },
         {
           "letter": "B",
           "text": "Blood sugar",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "White cell count",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase."
         },
         {
           "letter": "E",
           "text": "LDH",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase."
         }
       ]
     },

@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Patients are initially asymptomatic or hyperthyroid, progressing to hypothyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery is the first line of treatment. يصبح صحيحًا في سؤال يصف Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk, association with other autoimmune diseases, and higher prevalence in females are all true statements. الخيار B، Associated with increased risk for lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery is the first line of treatment. يصبح صحيحًا في سؤال يصف Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk, association with other autoimmune diseases, and higher prevalence in females are all true statements. الخيار C، Associated with autoimmune diseases (e.g., SLE): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery is the first line of treatment. يصبح صحيحًا في سؤال يصف Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk, association with other autoimmune diseases, and higher prevalence in females are all true statements. الخيار D، More common in females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery is the first line of treatment. يصبح صحيحًا في سؤال يصف Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk, association with other autoimmune diseases, and higher prevalence in females are all true statements.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Patients are initially asymptomatic or hyperthyroid, progressing to hypothyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment. الخيار B، Associated with increased risk for lymphoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment. الخيار C، Associated with autoimmune diseases (e.g., SLE): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment. الخيار D، More common in females: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Patients are initially asymptomatic or hyperthyroid, progressing to hypothyroidism",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery is the first line of treatment.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk, association with other autoimmune diseases, and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment."
         },
         {
           "letter": "B",
           "text": "Associated with increased risk for lymphoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery is the first line of treatment.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk, association with other autoimmune diseases, and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment."
         },
         {
           "letter": "C",
           "text": "Associated with autoimmune diseases (e.g., SLE)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery is the first line of treatment.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk, association with other autoimmune diseases, and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment."
         },
         {
           "letter": "D",
           "text": "More common in females",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery is the first line of treatment.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk, association with other autoimmune diseases, and…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment."
         },
         {
           "letter": "E",

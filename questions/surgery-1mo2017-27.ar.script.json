@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Diabetes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Severe head injuries. يصبح صحيحًا في سؤال يصف Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal failure are all recognized predisposing factors for necrotizing fasciitis, unlike severe head injuries, which don't have this direct immunosuppressive/vascular link to soft tissue infection risk. الخيار C، Cortisone therapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Severe head injuries. يصبح صحيحًا في سؤال يصف Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal failure are all recognized predisposing factors for necrotizing fasciitis, unlike severe head injuries, which don't have this direct immunosuppressive/vascular link to soft tissue infection risk. الخيار D، Advance malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Severe head injuries. يصبح صحيحًا في سؤال يصف Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal failure are all recognized predisposing factors for necrotizing fasciitis, unlike severe head injuries, which don't have this direct immunosuppressive/vascular link to soft tissue infection risk. الخيار E، Renal failure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Severe head injuries. يصبح صحيحًا في سؤال يصف Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal failure are all recognized predisposing factors for necrotizing fasciitis, unlike severe head injuries, which don't have this direct immunosuppressive/vascular link to soft tissue infection risk.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Diabetes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries. الخيار C، Cortisone therapy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries. الخيار D، Advance malignancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries. الخيار E، Renal failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Diabetes",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Severe head injuries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal failure are all recognized predisposing factors for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Cortisone therapy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Severe head injuries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal failure are all recognized predisposing factors for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries."
         },
         {
           "letter": "D",
           "text": "Advance malignancy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Severe head injuries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal failure are all recognized predisposing factors for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries."
         },
         {
           "letter": "E",
           "text": "Renal failure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Severe head injuries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal failure are all recognized predisposing factors for…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries."
         }
       ]
     },

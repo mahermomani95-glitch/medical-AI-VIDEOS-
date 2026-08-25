@@ -75,21 +75,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hemorrhage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cancer. يصبح صحيحًا في سؤال يصف Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis. الخيار C، Fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cancer. يصبح صحيحًا في سؤال يصف Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis. الخيار E، Abscesses: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cancer. يصبح صحيحًا في سؤال يصف Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Hemorrhage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cancer. الخيار C، Fistula: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cancer. الخيار E، Abscesses: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cancer.",
       "verdicts": [
         {
           "letter": "B",
           "text": "Hemorrhage",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cancer."
         },
         {
           "letter": "C",
           "text": "Fistula",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cancer."
         },
         {
           "letter": "D",
@@ -101,8 +101,8 @@
           "letter": "E",
           "text": "Abscesses",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding, fistula, and abscesses are all known, direct complications of diverticulitis",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cancer."
         }
       ]
     },

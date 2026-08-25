@@ -166,6 +166,53 @@ LETTER_GROUP_RE = re.compile(
 )
 
 
+# "EXCEPT"-style stems invert the logic of the whole question: the marked
+# answer is the odd one out, and every OTHER choice is a true/valid member.
+# That changes what the two mandatory per-choice statements should say --
+# a distractor isn't "wrong", it's true-but-not-the-exception -- so these
+# stems get their own phrasing. Detection is deliberately conservative:
+# a bare lowercase "not" appears in plenty of ordinary stems.
+EXCEPT_RE = re.compile(
+    r"\bEXCEPT\b|\bNOT\b|\bFALSE\b|\bINCORRECT\b|"
+    r"\b(?:is|are)\s+(?:not\s+true|false|incorrect)\b|"
+    r"\b(?:false|incorrect|untrue|wrong)\s+statement\b|"
+    r"\ball\s+.{0,40}\bexcept\b",
+    re.I if False else 0,  # case-sensitive for the bare keywords
+)
+EXCEPT_RE_CI = re.compile(
+    r"\b(?:false|incorrect|untrue|wrong)\s+statement\b|"
+    r"\b(?:is|are)\s+not\s+true\b|"
+    r"\ball\s+.{0,40}\bexcept\b",
+    re.I,
+)
+
+
+def is_except_question(q):
+    stem = f"{q.get('trigger_en','')} {q.get('trigger_ar','')}"
+    return bool(EXCEPT_RE.search(stem) or EXCEPT_RE_CI.search(stem))
+
+
+def strip_meta_tail(clause):
+    """Cut a clause at the point where it stops describing medicine and starts
+    commenting on the answer key.
+
+    Source bullets often read
+        "<real medical content about several options> ... making B the false
+         statement (the correct exception)."
+    Rejecting the whole clause because of that tail threw away the useful
+    half, which is why several questions fell back to generic text. Trim the
+    tail instead and keep the medicine.
+    """
+    m = META_RE.search(clause)
+    if not m:
+        return clause
+    head = clause[: m.start()]
+    # Also drop a dangling connector left at the cut point.
+    head = re.sub(r"[\s,;—–\-]*(?:and|but|while|whereas|unlike|making)?[\s,;—–\-]*$",
+                  "", head, flags=re.I)
+    return clean(head)
+
+
 def find_clause_for_choice(choice, bullets):
     """Find the bullet clause that specifically describes THIS choice.
 
@@ -178,8 +225,9 @@ def find_clause_for_choice(choice, bullets):
     letter = choice["letter"]
     best, best_score = None, 0
     for bullet in bullets:
-        for clause in split_bullet_clauses(bullet):
-            if META_RE.search(clause):
+        for raw_clause in split_bullet_clauses(bullet):
+            clause = strip_meta_tail(raw_clause)
+            if len(clause) < 20:
                 continue
             low = clause.lower()
             lettered = False
@@ -371,6 +419,7 @@ def build_script(course, q, course_index, total_in_course):
     mnem = clean(q.get("mnemonic") or "")
     mnem_note = fix_ar_latin_spacing(clean(q.get("mnemonic_note") or ""))
     bullets = [clean(b) for b in q.get("bullets", []) if clean(b)]
+    except_style = is_except_question(q)
 
     # ---- per-choice verdicts (mandatory rule) -------------------------
     # `verdicts` carries the ON-SCREEN (capped) text; `spoken` keeps the
@@ -399,7 +448,22 @@ def build_script(course, q, course_index, total_in_course):
             continue
         clause = find_clause_for_choice(ch, bullets)
         desc, contrast = describe_choice(clause, text)
-        if desc:
+        if except_style:
+            # In an EXCEPT question the distractors are the TRUE statements;
+            # they're "wrong" only in the sense that they are not the odd one
+            # out. Saying "doesn't fit this case" about them would be false.
+            # Key message first: the length cap trims the tail, so leading
+            # with the long description would truncate away the actual point.
+            if desc:
+                reason = f"عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. {cap(desc, 95)}"
+            else:
+                weak.append(ch["letter"])
+                reason = "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق."
+            elsewhere = (
+                f"يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ "
+                f"أما هنا فالمطلوب الاستثناء، وهو {clean(correct['text']) if correct else ''}."
+            )
+        elif desc:
             # "Why wrong HERE" uses the contrast half when the source gives
             # one, so it says something different from the "where it WOULD
             # be correct" line rather than repeating it.
@@ -448,7 +512,11 @@ def build_script(course, q, course_index, total_in_course):
     # Narration uses the UNCAPPED text so the spoken explanation keeps the
     # full detail even where the on-screen card had to trim for layout.
     wrong_v = [v for v in spoken if v["verdict"] == "wrong"]
-    n_wrong_parts = ["لنراجع الخيارات الخاطئة واحدًا واحدًا."]
+    n_wrong_parts = [
+        "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء."
+        if except_style else
+        "لنراجع الخيارات الخاطئة واحدًا واحدًا."
+    ]
     for v in wrong_v:
         n_wrong_parts.append(f"الخيار {v['letter']}، {v['text']}: {v['reason']} {v['elsewhere']}")
     n_wrong = " ".join(n_wrong_parts)

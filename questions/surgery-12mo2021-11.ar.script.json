@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Confirm the patients name: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis. يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the patient, unlike site marking which is typically a surgical team task done separately before entering the OR. الخيار C، Check the consent: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis. يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the patient, unlike site marking which is typically a surgical team task done separately before entering the OR. الخيار D، Mark the site of the procedure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis. يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the patient, unlike site marking which is typically a surgical team task done separately before entering the OR. الخيار E، Ask for known allergies: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis. يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the patient, unlike site marking which is typically a surgical team task done separately before entering the OR.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Confirm the patients name: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis. الخيار C، Check the consent: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis. الخيار D، Mark the site of the procedure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Marking the site of the procedure is typically a surgical team task performed separately يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis. الخيار E، Ask for known allergies: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Confirm the patients name",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Check the consent",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis."
         },
         {
           "letter": "D",
           "text": "Mark the site of the procedure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Marking the site of the procedure is typically a surgical team task performed separately",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis."
         },
         {
           "letter": "E",
           "text": "Ask for known allergies",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis."
         }
       ]
     },

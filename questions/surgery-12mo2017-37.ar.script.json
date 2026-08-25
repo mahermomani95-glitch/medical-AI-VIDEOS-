@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypercalcemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia. يصبح صحيحًا في سؤال يصف Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all recognized causes of pancreatitis, unlike hypokalemia, which has no established causative link. الخيار C، Hypertriglyceridemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia. يصبح صحيحًا في سؤال يصف Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all recognized causes of pancreatitis, unlike hypokalemia, which has no established causative link. الخيار D، Obstruction of ampulla of Vater: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia. يصبح صحيحًا في سؤال يصف Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all recognized causes of pancreatitis, unlike hypokalemia, which has no established causative link. الخيار E، Thiazides: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia. يصبح صحيحًا في سؤال يصف Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all recognized causes of pancreatitis, unlike hypokalemia, which has no established causative link.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypercalcemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia. الخيار C، Hypertriglyceridemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia. الخيار D، Obstruction of ampulla of Vater: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia. الخيار E، Thiazides: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Hypercalcemia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all recognized causes of pancreatitis, unlike hypokalemia…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Hypertriglyceridemia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all recognized causes of pancreatitis, unlike hypokalemia…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia."
         },
         {
           "letter": "D",
           "text": "Obstruction of ampulla of Vater",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all recognized causes of pancreatitis, unlike hypokalemia…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia."
         },
         {
           "letter": "E",
           "text": "Thiazides",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all recognized causes of pancreatitis, unlike hypokalemia…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia."
         }
       ]
     },

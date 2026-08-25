@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Superior thyroid artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the external carotid. يصبح صحيحًا في سؤال يصف Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are all genuine external carotid branches, unlike the inferior thyroid artery, which actually arises from the thyrocervical trunk (a branch of the subclavian artery). الخيار B، Ascending pharyngeal artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the external carotid. يصبح صحيحًا في سؤال يصف Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are all genuine external carotid branches, unlike the inferior thyroid artery, which actually arises from the thyrocervical trunk (a branch of the subclavian artery). الخيار C، Lingual artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the external carotid. يصبح صحيحًا في سؤال يصف Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are all genuine external carotid branches, unlike the inferior thyroid artery, which actually arises from the thyrocervical trunk (a branch of the subclavian artery). الخيار E، Facial artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the external carotid. يصبح صحيحًا في سؤال يصف Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are all genuine external carotid branches, unlike the inferior thyroid artery, which actually arises from the thyrocervical trunk (a branch of the subclavian artery).",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Superior thyroid artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery. الخيار B، Ascending pharyngeal artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery. الخيار C، Lingual artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery. الخيار E، Facial artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Superior thyroid artery",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the external carotid.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are all genuine external carotid branches, unlike the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery."
         },
         {
           "letter": "B",
           "text": "Ascending pharyngeal artery",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the external carotid.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are all genuine external carotid branches, unlike the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery."
         },
         {
           "letter": "C",
           "text": "Lingual artery",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the external carotid.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are all genuine external carotid branches, unlike the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Facial artery",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the external carotid.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are all genuine external carotid branches, unlike the…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery."
         }
       ]
     },

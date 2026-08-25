@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Upper Gl endoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper abdominal ultrasound examination. يصبح صحيحًا في سؤال يصف Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all legitimate diagnostic tools for evaluating dysphagia, unlike upper abdominal ultrasound which has limited utility for esophageal pathology. الخيار B، Barium swallow examination: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper abdominal ultrasound examination. يصبح صحيحًا في سؤال يصف Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all legitimate diagnostic tools for evaluating dysphagia, unlike upper abdominal ultrasound which has limited utility for esophageal pathology. الخيار D، CT examination of the chest: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper abdominal ultrasound examination. يصبح صحيحًا في سؤال يصف Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all legitimate diagnostic tools for evaluating dysphagia, unlike upper abdominal ultrasound which has limited utility for esophageal pathology. الخيار E، Esophageal manometry: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper abdominal ultrasound examination. يصبح صحيحًا في سؤال يصف Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all legitimate diagnostic tools for evaluating dysphagia, unlike upper abdominal ultrasound which has limited utility for esophageal pathology.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Upper Gl endoscopy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination. الخيار B، Barium swallow examination: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination. الخيار D، CT examination of the chest: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination. الخيار E، Esophageal manometry: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Upper Gl endoscopy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper abdominal ultrasound examination.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all legitimate diagnostic tools for evaluating dysphagia…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination."
         },
         {
           "letter": "B",
           "text": "Barium swallow examination",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper abdominal ultrasound examination.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all legitimate diagnostic tools for evaluating dysphagia…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "CT examination of the chest",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper abdominal ultrasound examination.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all legitimate diagnostic tools for evaluating dysphagia…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination."
         },
         {
           "letter": "E",
           "text": "Esophageal manometry",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper abdominal ultrasound examination.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all legitimate diagnostic tools for evaluating dysphagia…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination."
         }
       ]
     },

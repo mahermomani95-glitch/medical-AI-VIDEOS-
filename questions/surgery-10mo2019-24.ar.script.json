@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypothermia (<36 C): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Documented infection. يصبح صحيحًا في سؤال يصف Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all genuine SIRS criteria. الخيار B، White cell count (WCC) < 4 x1000/dL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Documented infection. يصبح صحيحًا في سؤال يصف Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all genuine SIRS criteria. الخيار D، Tachycardia (>90/min): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Documented infection. يصبح صحيحًا في سؤال يصف Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all genuine SIRS criteria. الخيار E، Tachypnoea (>20/min): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Documented infection. يصبح صحيحًا في سؤال يصف Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all genuine SIRS criteria.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypothermia (<36 C): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection. الخيار B، White cell count (WCC) < 4 x1000/dL: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection. الخيار D، Tachycardia (>90/min): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection. الخيار E، Tachypnoea (>20/min): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Hypothermia (<36 C)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Documented infection.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all genuine SIRS criteria."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection."
         },
         {
           "letter": "B",
           "text": "White cell count (WCC) < 4 x1000/dL",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Documented infection.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all genuine SIRS criteria."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Tachycardia (>90/min)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Documented infection.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all genuine SIRS criteria."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection."
         },
         {
           "letter": "E",
           "text": "Tachypnoea (>20/min)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Documented infection.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all genuine SIRS criteria."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection."
         }
       ]
     },

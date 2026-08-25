@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Graves disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا produce excess thyroid hormone (it secretes calcitonin instead) and Hashimoto's, which causes hypothyroidism, not hyper. يصبح صحيحًا في سؤال يصف Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii (D, ectopic thyroid tissue in an ovarian teratoma) are all recognized causes of hyperthyroidism, unlike medullary thyroid cancer, which. الخيار C، Plummer disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا produce excess thyroid hormone (it secretes calcitonin instead) and Hashimoto's, which causes hypothyroidism, not hyper. يصبح صحيحًا في سؤال يصف Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii (D, ectopic thyroid tissue in an ovarian teratoma) are all recognized causes of hyperthyroidism, unlike medullary thyroid cancer, which. الخيار D، Struma ovarii: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا produce excess thyroid hormone (it secretes calcitonin instead) and Hashimoto's, which causes hypothyroidism, not hyper. يصبح صحيحًا في سؤال يصف Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii (D, ectopic thyroid tissue in an ovarian teratoma) are all recognized causes of hyperthyroidism, unlike medullary thyroid cancer, which. الخيار E، Hashimoto disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا produce excess thyroid hormone (it secretes calcitonin instead) and Hashimoto's, which causes hypothyroidism, not hyper. يصبح صحيحًا في سؤال يصف Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii (D, ectopic thyroid tissue in an ovarian teratoma) are all recognized causes of hyperthyroidism, unlike medullary thyroid cancer, which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Graves disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Medullary thyroid cancer. الخيار C، Plummer disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Medullary thyroid cancer. الخيار D، Struma ovarii: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Medullary thyroid cancer. الخيار E، Hashimoto disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Medullary thyroid cancer.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Graves disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا produce excess thyroid hormone (it secretes calcitonin instead) and Hashimoto's, which causes hypothyroidism, not hyper.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii (D, ectopic thyroid tissue in an ovarian teratoma) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Medullary thyroid cancer."
         },
         {
           "letter": "C",
           "text": "Plummer disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا produce excess thyroid hormone (it secretes calcitonin instead) and Hashimoto's, which causes hypothyroidism, not hyper.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii (D, ectopic thyroid tissue in an ovarian teratoma) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Medullary thyroid cancer."
         },
         {
           "letter": "D",
           "text": "Struma ovarii",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا produce excess thyroid hormone (it secretes calcitonin instead) and Hashimoto's, which causes hypothyroidism, not hyper.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii (D, ectopic thyroid tissue in an ovarian teratoma) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Medullary thyroid cancer."
         },
         {
           "letter": "E",
           "text": "Hashimoto disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا produce excess thyroid hormone (it secretes calcitonin instead) and Hashimoto's, which causes hypothyroidism, not hyper.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii (D, ectopic thyroid tissue in an ovarian teratoma) are all recognized…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Graves' disease, Plummer's disease/toxic nodular goiter, and struma ovarii…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Medullary thyroid cancer."
         }
       ]
     },

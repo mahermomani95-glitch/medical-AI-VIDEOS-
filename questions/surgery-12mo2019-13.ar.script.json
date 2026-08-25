@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tetanus prophylaxis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prophylactic antibiotics. يصبح صحيحًا في سؤال يصف Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention), and fluid resuscitation are all appropriate measures in this scenario. الخيار B، Intubation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prophylactic antibiotics. يصبح صحيحًا في سؤال يصف Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention), and fluid resuscitation are all appropriate measures in this scenario. الخيار C، Proton pump inhibitors: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prophylactic antibiotics. يصبح صحيحًا في سؤال يصف Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention), and fluid resuscitation are all appropriate measures in this scenario. الخيار E، Fluid resuscitation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prophylactic antibiotics. يصبح صحيحًا في سؤال يصف Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention), and fluid resuscitation are all appropriate measures in this scenario.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tetanus prophylaxis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics. الخيار B، Intubation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics. الخيار C، Proton pump inhibitors: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics. الخيار E، Fluid resuscitation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Tetanus prophylaxis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prophylactic antibiotics.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention), and fluid resuscitation are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics."
         },
         {
           "letter": "B",
           "text": "Intubation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prophylactic antibiotics.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention), and fluid resuscitation are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics."
         },
         {
           "letter": "C",
           "text": "Proton pump inhibitors",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prophylactic antibiotics.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention), and fluid resuscitation are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Fluid resuscitation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prophylactic antibiotics.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention), and fluid resuscitation are all appropriate…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics."
         }
       ]
     },

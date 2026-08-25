@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Chemical burns: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا meet the severity threshold for transfer. يصبح صحيحًا في سؤال يصف Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital burns all meet burn center transfer criteria, unlike a minor first-degree burn to 15% TBSA, which. الخيار B، Burns involving inhalation injury: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا meet the severity threshold for transfer. يصبح صحيحًا في سؤال يصف Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital burns all meet burn center transfer criteria, unlike a minor first-degree burn to 15% TBSA, which. الخيار C، Circumferential burns of the extremities: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا meet the severity threshold for transfer. يصبح صحيحًا في سؤال يصف Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital burns all meet burn center transfer criteria, unlike a minor first-degree burn to 15% TBSA, which. الخيار D، Third-degree burn to the genital organs: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا meet the severity threshold for transfer. يصبح صحيحًا في سؤال يصف Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital burns all meet burn center transfer criteria, unlike a minor first-degree burn to 15% TBSA, which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Chemical burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man. الخيار B، Burns involving inhalation injury: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man. الخيار C، Circumferential burns of the extremities: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man. الخيار D، Third-degree burn to the genital organs: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Chemical burns",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا meet the severity threshold for transfer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital burns all meet burn center transfer criteria, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man."
         },
         {
           "letter": "B",
           "text": "Burns involving inhalation injury",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا meet the severity threshold for transfer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital burns all meet burn center transfer criteria, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man."
         },
         {
           "letter": "C",
           "text": "Circumferential burns of the extremities",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا meet the severity threshold for transfer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital burns all meet burn center transfer criteria, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man."
         },
         {
           "letter": "D",
           "text": "Third-degree burn to the genital organs",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا meet the severity threshold for transfer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital burns all meet burn center transfer criteria, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man."
         },
         {
           "letter": "E",

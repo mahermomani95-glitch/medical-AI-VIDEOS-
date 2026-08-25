@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Weight loss: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoglycemia. يصبح صحيحًا في سؤال يصف Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome) are all classic presenting features of pancreatic adenocarcinoma. الخيار B، Epigastric pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoglycemia. يصبح صحيحًا في سؤال يصف Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome) are all classic presenting features of pancreatic adenocarcinoma. الخيار D، Jaundice: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoglycemia. يصبح صحيحًا في سؤال يصف Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome) are all classic presenting features of pancreatic adenocarcinoma. الخيار E، Trousseau syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoglycemia. يصبح صحيحًا في سؤال يصف Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome) are all classic presenting features of pancreatic adenocarcinoma.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia. الخيار B، Epigastric pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia. الخيار D، Jaundice: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia. الخيار E، Trousseau syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Weight loss",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoglycemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome) are all classic presenting features of pancreatic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia."
         },
         {
           "letter": "B",
           "text": "Epigastric pain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoglycemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome) are all classic presenting features of pancreatic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Jaundice",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoglycemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome) are all classic presenting features of pancreatic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia."
         },
         {
           "letter": "E",
           "text": "Trousseau syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoglycemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome) are all classic presenting features of pancreatic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia."
         }
       ]
     },

@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor. يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin use, which is actually protective (chemopreventive) against colorectal cancer. الخيار C، Crohn disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor. يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin use, which is actually protective (chemopreventive) against colorectal cancer. الخيار D، FAP: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor. يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin use, which is actually protective (chemopreventive) against colorectal cancer. الخيار E، Gardner syndrome: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor. يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin use, which is actually protective (chemopreventive) against colorectal cancer.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ulcerative colitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin. الخيار C، Crohn disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin. الخيار D، FAP: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin. الخيار E، Gardner syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Ulcerative colitis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Crohn disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin."
         },
         {
           "letter": "D",
           "text": "FAP",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin."
         },
         {
           "letter": "E",
           "text": "Gardner syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin."
         }
       ]
     },

@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ultraviolet (UV) exposure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Furosemide long-term use. يصبح صحيحًا في سؤال يصف UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use are all recognized risk factors for basal cell carcinoma (rodent ulcer). الخيار B، Arsenic exposure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Furosemide long-term use. يصبح صحيحًا في سؤال يصف UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use are all recognized risk factors for basal cell carcinoma (rodent ulcer). الخيار C، Xeroderma pigmentosum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Furosemide long-term use. يصبح صحيحًا في سؤال يصف UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use are all recognized risk factors for basal cell carcinoma (rodent ulcer). الخيار D، Hydrochlorothiazide long-term use: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Furosemide long-term use. يصبح صحيحًا في سؤال يصف UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use are all recognized risk factors for basal cell carcinoma (rodent ulcer).",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ultraviolet (UV) exposure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use. الخيار B، Arsenic exposure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use. الخيار C، Xeroderma pigmentosum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use. الخيار D، Hydrochlorothiazide long-term use: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Ultraviolet (UV) exposure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Furosemide long-term use.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use are all recognized risk factors for basal cell…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use."
         },
         {
           "letter": "B",
           "text": "Arsenic exposure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Furosemide long-term use.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use are all recognized risk factors for basal cell…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use."
         },
         {
           "letter": "C",
           "text": "Xeroderma pigmentosum",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Furosemide long-term use.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use are all recognized risk factors for basal cell…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use."
         },
         {
           "letter": "D",
           "text": "Hydrochlorothiazide long-term use",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Furosemide long-term use.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use are all recognized risk factors for basal cell…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use."
         },
         {
           "letter": "E",

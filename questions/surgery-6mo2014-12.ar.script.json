@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Head of bed elevation to ~ 30°: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hypotonic saline. يصبح صحيحًا في سؤال يصف Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol are all recognized methods to reduce ICP, unlike hypotonic IV saline, which can worsen cerebral edema by lowering serum osmolality — hypertonic (not hypotonic) saline is used instead. الخيار C، Intubation and mechanical ventilation to achieve a normal ABGs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hypotonic saline. يصبح صحيحًا في سؤال يصف Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol are all recognized methods to reduce ICP, unlike hypotonic IV saline, which can worsen cerebral edema by lowering serum osmolality — hypertonic (not hypotonic) saline is used instead. الخيار D، Temperature management: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hypotonic saline. يصبح صحيحًا في سؤال يصف Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol are all recognized methods to reduce ICP, unlike hypotonic IV saline, which can worsen cerebral edema by lowering serum osmolality — hypertonic (not hypotonic) saline is used instead. الخيار E، IV mannitol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hypotonic saline. يصبح صحيحًا في سؤال يصف Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol are all recognized methods to reduce ICP, unlike hypotonic IV saline, which can worsen cerebral edema by lowering serum osmolality — hypertonic (not hypotonic) saline is used instead.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Head of bed elevation to ~ 30°: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline. الخيار C، Intubation and mechanical ventilation to achieve a normal ABGs: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline. الخيار D، Temperature management: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline. الخيار E، IV mannitol: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Head of bed elevation to ~ 30°",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hypotonic saline.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol are all recognized methods to reduce ICP, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline."
         },
         {
           "letter": "C",
           "text": "Intubation and mechanical ventilation to achieve a normal ABGs",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hypotonic saline.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol are all recognized methods to reduce ICP, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline."
         },
         {
           "letter": "D",
           "text": "Temperature management",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hypotonic saline.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol are all recognized methods to reduce ICP, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline."
         },
         {
           "letter": "E",
           "text": "IV mannitol",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hypotonic saline.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol are all recognized methods to reduce ICP, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline."
         }
       ]
     },

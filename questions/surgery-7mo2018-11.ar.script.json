@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Papillary carcinoma _best prognosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic carcinoma _ Multiple endocrine neoplasia. يصبح صحيحًا في سؤال يصف Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread, lymphoma's treatment with chemoradiotherapy, and medullary carcinoma secreting calcitonin are all correct. الخيار B، Follicular carcinoma_ blood spread: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic carcinoma _ Multiple endocrine neoplasia. يصبح صحيحًا في سؤال يصف Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread, lymphoma's treatment with chemoradiotherapy, and medullary carcinoma secreting calcitonin are all correct. الخيار D، Lymphoma _ treatment chemoradiotherapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic carcinoma _ Multiple endocrine neoplasia. يصبح صحيحًا في سؤال يصف Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread, lymphoma's treatment with chemoradiotherapy, and medullary carcinoma secreting calcitonin are all correct. الخيار E، Medullary carcinoma _ secrete calcitonin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic carcinoma _ Multiple endocrine neoplasia. يصبح صحيحًا في سؤال يصف Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread, lymphoma's treatment with chemoradiotherapy, and medullary carcinoma secreting calcitonin are all correct.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Papillary carcinoma _best prognosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia. الخيار B، Follicular carcinoma_ blood spread: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia. الخيار D، Lymphoma _ treatment chemoradiotherapy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia. الخيار E، Medullary carcinoma _ secrete calcitonin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Papillary carcinoma _best prognosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic carcinoma _ Multiple endocrine neoplasia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread, lymphoma's treatment with chemoradiotherapy, and medullary…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia."
         },
         {
           "letter": "B",
           "text": "Follicular carcinoma_ blood spread",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic carcinoma _ Multiple endocrine neoplasia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread, lymphoma's treatment with chemoradiotherapy, and medullary…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Lymphoma _ treatment chemoradiotherapy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic carcinoma _ Multiple endocrine neoplasia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread, lymphoma's treatment with chemoradiotherapy, and medullary…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia."
         },
         {
           "letter": "E",
           "text": "Medullary carcinoma _ secrete calcitonin",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaplastic carcinoma _ Multiple endocrine neoplasia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread, lymphoma's treatment with chemoradiotherapy, and medullary…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia."
         }
       ]
     },

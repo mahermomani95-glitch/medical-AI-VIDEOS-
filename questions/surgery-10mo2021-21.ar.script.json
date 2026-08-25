@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Minimum number of staff: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Higher risk patients are intubated and extubated outside theatre. يصبح صحيحًا في سؤال يصف Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive pressure ventilation were all true recommendations. الخيار B، Appropriate personal protective equipment for all staff: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Higher risk patients are intubated and extubated outside theatre. يصبح صحيحًا في سؤال يصف Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive pressure ventilation were all true recommendations. الخيار C، Smoke evacuation for diathermy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Higher risk patients are intubated and extubated outside theatre. يصبح صحيحًا في سؤال يصف Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive pressure ventilation were all true recommendations. الخيار D، Avoid positive pressure ventilation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Higher risk patients are intubated and extubated outside theatre. يصبح صحيحًا في سؤال يصف Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive pressure ventilation were all true recommendations.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Minimum number of staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre. الخيار B، Appropriate personal protective equipment for all staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre. الخيار C، Smoke evacuation for diathermy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre. الخيار D، Avoid positive pressure ventilation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Minimum number of staff",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Higher risk patients are intubated and extubated outside theatre.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive pressure ventilation were all true recommendations."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre."
         },
         {
           "letter": "B",
           "text": "Appropriate personal protective equipment for all staff",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Higher risk patients are intubated and extubated outside theatre.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive pressure ventilation were all true recommendations."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre."
         },
         {
           "letter": "C",
           "text": "Smoke evacuation for diathermy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Higher risk patients are intubated and extubated outside theatre.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive pressure ventilation were all true recommendations."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre."
         },
         {
           "letter": "D",
           "text": "Avoid positive pressure ventilation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Higher risk patients are intubated and extubated outside theatre.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive pressure ventilation were all true recommendations."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre."
         },
         {
           "letter": "E",

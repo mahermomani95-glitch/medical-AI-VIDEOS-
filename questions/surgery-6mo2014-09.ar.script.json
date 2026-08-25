@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute renal failure: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct described consequence in this context (rather, reduced bowel perfusion and ileus are more typical). يصبح صحيحًا في سؤال يصف Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure (E, used to measure/diagnose it) are all recognized effects of abdominal compartment syndrome, unlike intestinal obstruction, which. الخيار B، Hypoxia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct described consequence in this context (rather, reduced bowel perfusion and ileus are more typical). يصبح صحيحًا في سؤال يصف Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure (E, used to measure/diagnose it) are all recognized effects of abdominal compartment syndrome, unlike intestinal obstruction, which. الخيار D، Hypercarbia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct described consequence in this context (rather, reduced bowel perfusion and ileus are more typical). يصبح صحيحًا في سؤال يصف Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure (E, used to measure/diagnose it) are all recognized effects of abdominal compartment syndrome, unlike intestinal obstruction, which. الخيار E، Elevated urinary bladder pressure: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct described consequence in this context (rather, reduced bowel perfusion and ileus are more typical). يصبح صحيحًا في سؤال يصف Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure (E, used to measure/diagnose it) are all recognized effects of abdominal compartment syndrome, unlike intestinal obstruction, which.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acute renal failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intestinal obsruction. الخيار B، Hypoxia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intestinal obsruction. الخيار D، Hypercarbia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intestinal obsruction. الخيار E، Elevated urinary bladder pressure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intestinal obsruction.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Acute renal failure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct described consequence in this context (rather, reduced bowel perfusion and ileus are more typical).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure (E, used to measure/diagnose it) are all recognized effects of abdominal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intestinal obsruction."
         },
         {
           "letter": "B",
           "text": "Hypoxia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct described consequence in this context (rather, reduced bowel perfusion and ileus are more typical).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure (E, used to measure/diagnose it) are all recognized effects of abdominal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intestinal obsruction."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Hypercarbia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct described consequence in this context (rather, reduced bowel perfusion and ileus are more typical).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure (E, used to measure/diagnose it) are all recognized effects of abdominal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intestinal obsruction."
         },
         {
           "letter": "E",
           "text": "Elevated urinary bladder pressure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct described consequence in this context (rather, reduced bowel perfusion and ileus are more typical).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure (E, used to measure/diagnose it) are all recognized effects of abdominal…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acute renal failure, hypoxia, hypercarbia, and elevated bladder pressure…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intestinal obsruction."
         }
       ]
     },

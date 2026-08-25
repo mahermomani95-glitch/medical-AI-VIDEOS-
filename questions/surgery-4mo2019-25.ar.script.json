@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Refractory urine retention: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prostate size > 100 g. يصبح صحيحًا في سؤال يصف Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria are all genuine absolute surgical indications in BPH. الخيار B، Refractory UTI: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prostate size > 100 g. يصبح صحيحًا في سؤال يصف Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria are all genuine absolute surgical indications in BPH. الخيار D، Renal insufficiency: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prostate size > 100 g. يصبح صحيحًا في سؤال يصف Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria are all genuine absolute surgical indications in BPH. الخيار E، Refractory hematuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prostate size > 100 g. يصبح صحيحًا في سؤال يصف Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria are all genuine absolute surgical indications in BPH.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Refractory urine retention: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g. الخيار B، Refractory UTI: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g. الخيار D، Renal insufficiency: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g. الخيار E، Refractory hematuria: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Refractory urine retention",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prostate size > 100 g.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria are all genuine absolute surgical indications in BPH."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g."
         },
         {
           "letter": "B",
           "text": "Refractory UTI",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prostate size > 100 g.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria are all genuine absolute surgical indications in BPH."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Renal insufficiency",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prostate size > 100 g.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria are all genuine absolute surgical indications in BPH."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g."
         },
         {
           "letter": "E",
           "text": "Refractory hematuria",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prostate size > 100 g.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria are all genuine absolute surgical indications in BPH."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g."
         }
       ]
     },

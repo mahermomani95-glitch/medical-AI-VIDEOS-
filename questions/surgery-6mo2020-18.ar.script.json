@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acidosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperthermia. يصبح صحيحًا في سؤال يصف Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with hypercoagulable states. الخيار B، Uremia with end-stage renal disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperthermia. يصبح صحيحًا في سؤال يصف Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with hypercoagulable states. الخيار C، Disseminated intravascular coagulation (DIC): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperthermia. يصبح صحيحًا في سؤال يصف Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with hypercoagulable states. الخيار E، Hepatic failure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperthermia. يصبح صحيحًا في سؤال يصف Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with hypercoagulable states.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia. الخيار B، Uremia with end-stage renal disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia. الخيار C، Disseminated intravascular coagulation (DIC): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia. الخيار E، Hepatic failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Acidosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperthermia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with hypercoagulable states."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia."
         },
         {
           "letter": "B",
           "text": "Uremia with end-stage renal disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperthermia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with hypercoagulable states."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia."
         },
         {
           "letter": "C",
           "text": "Disseminated intravascular coagulation (DIC)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperthermia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with hypercoagulable states."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Hepatic failure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperthermia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with hypercoagulable states."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia."
         }
       ]
     },

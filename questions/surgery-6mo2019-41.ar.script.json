@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Congestive heart failure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Arterial Injury. يصبح صحيحًا في سؤال يصف Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma (compressing venous/lymphatic drainage), and liver cirrhosis are all genuine causes of bilateral lower limb edema. الخيار B، Nephrotic Syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Arterial Injury. يصبح صحيحًا في سؤال يصف Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma (compressing venous/lymphatic drainage), and liver cirrhosis are all genuine causes of bilateral lower limb edema. الخيار C، Retroperitoneal Sarcoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Arterial Injury. يصبح صحيحًا في سؤال يصف Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma (compressing venous/lymphatic drainage), and liver cirrhosis are all genuine causes of bilateral lower limb edema. الخيار E، Liver Cirrhosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Arterial Injury. يصبح صحيحًا في سؤال يصف Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma (compressing venous/lymphatic drainage), and liver cirrhosis are all genuine causes of bilateral lower limb edema.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Congestive heart failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury. الخيار B، Nephrotic Syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury. الخيار C، Retroperitoneal Sarcoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury. الخيار E، Liver Cirrhosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Congestive heart failure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Arterial Injury.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma (compressing venous/lymphatic drainage), and liver cirrhosis are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury."
         },
         {
           "letter": "B",
           "text": "Nephrotic Syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Arterial Injury.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma (compressing venous/lymphatic drainage), and liver cirrhosis are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury."
         },
         {
           "letter": "C",
           "text": "Retroperitoneal Sarcoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Arterial Injury.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma (compressing venous/lymphatic drainage), and liver cirrhosis are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Liver Cirrhosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Arterial Injury.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma (compressing venous/lymphatic drainage), and liver cirrhosis are all…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury."
         }
       ]
     },

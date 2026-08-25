@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Papillary thyroid cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer. يصبح صحيحًا في سؤال يصف Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or hematogenously. الخيار C، Anaplastic thyroid cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer. يصبح صحيحًا في سؤال يصف Papillary thyroid cancer → classically spreads via lymphatics instead. الخيار D، Medullary Thyroid Cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer. يصبح صحيحًا في سؤال يصف Papillary thyroid cancer → classically spreads via lymphatics instead. الخيار E، Hürthle cell cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer. يصبح صحيحًا في سؤال يصف Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or hematogenously.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Papillary thyroid cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer. الخيار C، Anaplastic thyroid cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. medullary cancer also spreads via lymphatics — anaplastic thyroid cancer is unique in that it… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer. الخيار D، Medullary Thyroid Cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. medullary cancer also spreads via lymphatics — anaplastic thyroid cancer is unique in that it… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer. الخيار E، Hürthle cell cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Papillary thyroid cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or hematogenously."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer."
         },
         {
           "letter": "C",
           "text": "Anaplastic thyroid cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary thyroid cancer → classically spreads via lymphatics instead."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. medullary cancer also spreads via lymphatics — anaplastic thyroid cancer is unique in that it…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer."
         },
         {
           "letter": "D",
           "text": "Medullary Thyroid Cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary thyroid cancer → classically spreads via lymphatics instead."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. medullary cancer also spreads via lymphatics — anaplastic thyroid cancer is unique in that it…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer."
         },
         {
           "letter": "E",
           "text": "Hürthle cell cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or hematogenously."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer."
         }
       ]
     },

@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hepatitis B infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatitis A infection. يصبح صحيحًا في سؤال يصف Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk factors for HCC through chronic liver injury/cirrhosis. الخيار C، Wilson disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatitis A infection. يصبح صحيحًا في سؤال يصف Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk factors for HCC through chronic liver injury/cirrhosis. الخيار D، Fatty liver: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatitis A infection. يصبح صحيحًا في سؤال يصف Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk factors for HCC through chronic liver injury/cirrhosis. الخيار E، Hepatitis C infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatitis A infection. يصبح صحيحًا في سؤال يصف Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk factors for HCC through chronic liver injury/cirrhosis.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Hepatitis B infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection. الخيار C، Wilson disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection. الخيار D، Fatty liver: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection. الخيار E، Hepatitis C infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,29 +91,29 @@
           "letter": "B",
           "text": "Hepatitis B infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatitis A infection.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk factors for HCC through chronic liver injury/cirrhosis."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection."
         },
         {
           "letter": "C",
           "text": "Wilson disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatitis A infection.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk factors for HCC through chronic liver injury/cirrhosis."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection."
         },
         {
           "letter": "D",
           "text": "Fatty liver",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatitis A infection.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk factors for HCC through chronic liver injury/cirrhosis."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection."
         },
         {
           "letter": "E",
           "text": "Hepatitis C infection",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatitis A infection.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk factors for HCC through chronic liver injury/cirrhosis."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection."
         }
       ]
     },

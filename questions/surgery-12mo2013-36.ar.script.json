@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pulmonary laceration: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause systemic hypovolemic shock (except rarely in infants). يصبح صحيحًا في سؤال يصف Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause significant blood loss leading to hypovolemic shock, unlike extradural hemorrhage, which is an intracranial bleed that. الخيار C، Pelvic fracture: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause systemic hypovolemic shock (except rarely in infants). يصبح صحيحًا في سؤال يصف Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause significant blood loss leading to hypovolemic shock, unlike extradural hemorrhage, which is an intracranial bleed that. الخيار D، Femur fracture: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause systemic hypovolemic shock (except rarely in infants). يصبح صحيحًا في سؤال يصف Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause significant blood loss leading to hypovolemic shock, unlike extradural hemorrhage, which is an intracranial bleed that. الخيار E، Laceration to scalp: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause systemic hypovolemic shock (except rarely in infants). يصبح صحيحًا في سؤال يصف Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause significant blood loss leading to hypovolemic shock, unlike extradural hemorrhage, which is an intracranial bleed that.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pulmonary laceration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage. الخيار C، Pelvic fracture: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage. الخيار D، Femur fracture: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage. الخيار E، Laceration to scalp: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Pulmonary laceration",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause systemic hypovolemic shock (except rarely in infants).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause significant blood loss leading to hypovolemic shock…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Pelvic fracture",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause systemic hypovolemic shock (except rarely in infants).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause significant blood loss leading to hypovolemic shock…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage."
         },
         {
           "letter": "D",
           "text": "Femur fracture",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause systemic hypovolemic shock (except rarely in infants).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause significant blood loss leading to hypovolemic shock…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage."
         },
         {
           "letter": "E",
           "text": "Laceration to scalp",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause systemic hypovolemic shock (except rarely in infants).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause significant blood loss leading to hypovolemic shock…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage."
         }
       ]
     },

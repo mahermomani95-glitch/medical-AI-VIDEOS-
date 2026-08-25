@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Give blood: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevate systolic pressure above 110 mmHg. يصبح صحيحًا في سؤال يصف Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling sepsis/contamination are all appropriate management priorities. الخيار B، Stop hemorrhage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevate systolic pressure above 110 mmHg. يصبح صحيحًا في سؤال يصف Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling sepsis/contamination are all appropriate management priorities. الخيار C، Correct coagulopathy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevate systolic pressure above 110 mmHg. يصبح صحيحًا في سؤال يصف Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling sepsis/contamination are all appropriate management priorities. الخيار E، Control sepsis or major contamination: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevate systolic pressure above 110 mmHg. يصبح صحيحًا في سؤال يصف Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling sepsis/contamination are all appropriate management priorities.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Give blood: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg. الخيار B، Stop hemorrhage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg. الخيار C، Correct coagulopathy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg. الخيار E، Control sepsis or major contamination: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Give blood",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevate systolic pressure above 110 mmHg.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling sepsis/contamination are all appropriate management priorities."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg."
         },
         {
           "letter": "B",
           "text": "Stop hemorrhage",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevate systolic pressure above 110 mmHg.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling sepsis/contamination are all appropriate management priorities."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg."
         },
         {
           "letter": "C",
           "text": "Correct coagulopathy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevate systolic pressure above 110 mmHg.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling sepsis/contamination are all appropriate management priorities."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Control sepsis or major contamination",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevate systolic pressure above 110 mmHg.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling sepsis/contamination are all appropriate management priorities."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg."
         }
       ]
     },

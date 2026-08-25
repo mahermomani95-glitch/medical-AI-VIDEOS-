@@ -79,35 +79,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Nicotine use is a risk factor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Palpable tumor in the epigastric region could be detected in the early stages. يصبح صحيحًا في سؤال يصف Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all correct statements about stomach cancer. الخيار B، Partial gastrectomy is a risk factor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Palpable tumor in the epigastric region could be detected in the early stages. يصبح صحيحًا في سؤال يصف Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all correct statements about stomach cancer. الخيار C، The patient may present with weight loss: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Palpable tumor in the epigastric region could be detected in the early stages. يصبح صحيحًا في سؤال يصف Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all correct statements about stomach cancer. الخيار D، The patient may present gastric bleeding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Palpable tumor in the epigastric region could be detected in the early stages. يصبح صحيحًا في سؤال يصف Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all correct statements about stomach cancer.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Nicotine use is a risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages. الخيار B، Partial gastrectomy is a risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages. الخيار C، The patient may present with weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages. الخيار D، The patient may present gastric bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Nicotine use is a risk factor",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Palpable tumor in the epigastric region could be detected in the early stages.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all correct statements about stomach cancer."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages."
         },
         {
           "letter": "B",
           "text": "Partial gastrectomy is a risk factor",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Palpable tumor in the epigastric region could be detected in the early stages.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all correct statements about stomach cancer."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages."
         },
         {
           "letter": "C",
           "text": "The patient may present with weight loss",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Palpable tumor in the epigastric region could be detected in the early stages.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all correct statements about stomach cancer."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages."
         },
         {
           "letter": "D",
           "text": "The patient may present gastric bleeding",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Palpable tumor in the epigastric region could be detected in the early stages.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all correct statements about stomach cancer."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages."
         },
         {
           "letter": "E",

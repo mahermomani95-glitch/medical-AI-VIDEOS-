@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Medullary thyroid cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insulinoma. يصبح صحيحًا في سؤال يصف Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all classically associated with diarrhea through different secretory mechanisms. الخيار B، Gastrinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insulinoma. يصبح صحيحًا في سؤال يصف Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all classically associated with diarrhea through different secretory mechanisms. الخيار D، VIPoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insulinoma. يصبح صحيحًا في سؤال يصف Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all classically associated with diarrhea through different secretory mechanisms. الخيار E، Carcinoid Tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insulinoma. يصبح صحيحًا في سؤال يصف Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all classically associated with diarrhea through different secretory mechanisms.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Medullary thyroid cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma. الخيار B، Gastrinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma. الخيار D، VIPoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma. الخيار E، Carcinoid Tumor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Medullary thyroid cancer",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insulinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all classically associated with diarrhea through different…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma."
         },
         {
           "letter": "B",
           "text": "Gastrinoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insulinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all classically associated with diarrhea through different…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "VIPoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insulinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all classically associated with diarrhea through different…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma."
         },
         {
           "letter": "E",
           "text": "Carcinoid Tumor",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insulinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all classically associated with diarrhea through different…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma."
         }
       ]
     },

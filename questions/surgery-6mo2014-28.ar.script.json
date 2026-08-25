@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، acidosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike hypercalcemia — citrate in stored blood actually binds calcium causing HYPOcalcemia. الخيار B، alkalosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike hypercalcemia — citrate in stored blood actually binds calcium causing HYPOcalcemia. الخيار D، hypothermia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike hypercalcemia — citrate in stored blood actually binds calcium causing HYPOcalcemia. الخيار E، coagulopathy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike hypercalcemia — citrate in stored blood actually binds calcium causing HYPOcalcemia.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، acidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو hypercalcemia. الخيار B، alkalosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو hypercalcemia. الخيار D، hypothermia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو hypercalcemia. الخيار E، coagulopathy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو hypercalcemia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "acidosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو hypercalcemia."
         },
         {
           "letter": "B",
           "text": "alkalosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو hypercalcemia."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "hypothermia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو hypercalcemia."
         },
         {
           "letter": "E",
           "text": "coagulopathy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو hypercalcemia."
         }
       ]
     },

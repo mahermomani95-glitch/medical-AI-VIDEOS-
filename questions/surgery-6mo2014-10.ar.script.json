@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acidosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypomagnesemia. يصبح صحيحًا في سؤال يستهدف Acidosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Insulin deficiency: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypomagnesemia. يصبح صحيحًا في سؤال يستهدف Insulin deficiency تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Cell lysis syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypomagnesemia. يصبح صحيحًا في سؤال يستهدف Cell lysis syndrome تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Renal failure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypomagnesemia. يصبح صحيحًا في سؤال يصف renal failure are all genuine causes of hyperkalemia — hypomagnesemia is more classically associated with hypokalemia.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia. الخيار B، Insulin deficiency: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia. الخيار D، Cell lysis syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia. الخيار E، Renal failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Acidosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypomagnesemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Acidosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia."
         },
         {
           "letter": "B",
           "text": "Insulin deficiency",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypomagnesemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Insulin deficiency تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Cell lysis syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypomagnesemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Cell lysis syndrome تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia."
         },
         {
           "letter": "E",
           "text": "Renal failure",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypomagnesemia.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف renal failure are all genuine causes of hyperkalemia — hypomagnesemia is more classically associated with hypokalemia."
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia."
         }
       ]
     },

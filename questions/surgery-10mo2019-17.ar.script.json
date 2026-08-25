@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Facial swelling: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing syndrome. يصبح صحيحًا في سؤال يصف Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve), and arm/hand muscle atrophy (brachial plexus involvement) are all classic associated findings of a Pancoast tumor. الخيار B، Horner's syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing syndrome. يصبح صحيحًا في سؤال يصف Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve), and arm/hand muscle atrophy (brachial plexus involvement) are all classic associated findings of a Pancoast tumor. الخيار D، Hoarseness of voice: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing syndrome. يصبح صحيحًا في سؤال يصف Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve), and arm/hand muscle atrophy (brachial plexus involvement) are all classic associated findings of a Pancoast tumor. الخيار E، Atrophy of arm and hand muscles: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing syndrome. يصبح صحيحًا في سؤال يصف Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve), and arm/hand muscle atrophy (brachial plexus involvement) are all classic associated findings of a Pancoast tumor.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Facial swelling: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome. الخيار B، Horner's syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome. الخيار D، Hoarseness of voice: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome. الخيار E، Atrophy of arm and hand muscles: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Facial swelling",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing syndrome.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve), and arm/hand muscle atrophy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome."
         },
         {
           "letter": "B",
           "text": "Horner's syndrome",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing syndrome.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve), and arm/hand muscle atrophy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Hoarseness of voice",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing syndrome.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve), and arm/hand muscle atrophy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome."
         },
         {
           "letter": "E",
           "text": "Atrophy of arm and hand muscles",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing syndrome.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve), and arm/hand muscle atrophy…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome."
         }
       ]
     },

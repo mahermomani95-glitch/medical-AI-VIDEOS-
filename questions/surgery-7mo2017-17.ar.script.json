@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Peau'd Orange appearance of the breast indicate advanced stage: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard recommendation (mammography is the standard population screening tool, with ultrasound as an adjunct in specific situations like dense breasts), making B the false statement. يصبح صحيحًا في سؤال يصف Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign causes of bloody discharge, and axillary involvement suggesting hematogenous spread risk are all true statements — however, routine breast ultrasound screening starting at age 30 for ALL women. الخيار C، Trucut biopsy is more accurate than the needle aspiration (FNA): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard recommendation (mammography is the standard population screening tool, with ultrasound as an adjunct in specific situations like dense breasts), making B the false statement. يصبح صحيحًا في سؤال يصف Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign causes of bloody discharge, and axillary involvement suggesting hematogenous spread risk are all true statements — however, routine breast ultrasound screening starting at age 30 for ALL women. الخيار D، Bloody nipple discharge could be due to a benign cause: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard recommendation (mammography is the standard population screening tool, with ultrasound as an adjunct in specific situations like dense breasts), making B the false statement. يصبح صحيحًا في سؤال يصف Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign causes of bloody discharge, and axillary involvement suggesting hematogenous spread risk are all true statements — however, routine breast ultrasound screening starting at age 30 for ALL women. الخيار E، Axillary lymph node involvement suggests that hematogenic spread has already occurred: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard recommendation (mammography is the standard population screening tool, with ultrasound as an adjunct in specific situations like dense breasts), making B the false statement. يصبح صحيحًا في سؤال يصف Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign causes of bloody discharge, and axillary involvement suggesting hematogenous spread risk are all true statements — however, routine breast ultrasound screening starting at age 30 for ALL women.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peau'd Orange appearance of the breast indicate advanced stage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Woman ≥ 30 years of age should undergo breast ultrasound. الخيار C، Trucut biopsy is more accurate than the needle aspiration (FNA): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Woman ≥ 30 years of age should undergo breast ultrasound. الخيار D، Bloody nipple discharge could be due to a benign cause: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Woman ≥ 30 years of age should undergo breast ultrasound. الخيار E، Axillary lymph node involvement suggests that hematogenic spread has already occurred: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Woman ≥ 30 years of age should undergo breast ultrasound.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Peau'd Orange appearance of the breast indicate advanced stage",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard recommendation…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign causes of bloody discharge, and axillary…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Woman ≥ 30 years of age should undergo breast ultrasound."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Trucut biopsy is more accurate than the needle aspiration (FNA)",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard recommendation…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign causes of bloody discharge, and axillary…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Woman ≥ 30 years of age should undergo breast ultrasound."
         },
         {
           "letter": "D",
           "text": "Bloody nipple discharge could be due to a benign cause",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard recommendation…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign causes of bloody discharge, and axillary…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Woman ≥ 30 years of age should undergo breast ultrasound."
         },
         {
           "letter": "E",
           "text": "Axillary lymph node involvement suggests that hematogenic spread has already occurred",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard recommendation…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign causes of bloody discharge, and axillary…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peau d'orange indicating advanced disease, Trucut biopsy being more accurate than FNA, benign…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Woman ≥ 30 years of age should undergo breast ultrasound."
         }
       ]
     },

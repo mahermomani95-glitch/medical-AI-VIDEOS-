@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hepatitis C virus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Smoking. يصبح صحيحًا في سؤال يصف Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all well-established major risk factors for HCC through chronic liver injury or direct carcinogenesis. الخيار B، Chronic alcoholism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Smoking. يصبح صحيحًا في سؤال يصف Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all well-established major risk factors for HCC through chronic liver injury or direct carcinogenesis. الخيار D، Wilson's disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Smoking. يصبح صحيحًا في سؤال يصف Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all well-established major risk factors for HCC through chronic liver injury or direct carcinogenesis. الخيار E، Aflatoxins: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Smoking. يصبح صحيحًا في سؤال يصف Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all well-established major risk factors for HCC through chronic liver injury or direct carcinogenesis.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hepatitis C virus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار B، Chronic alcoholism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار D، Wilson's disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار E، Aflatoxins: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Hepatitis C virus",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Smoking.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all well-established major risk factors for HCC through chronic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking."
         },
         {
           "letter": "B",
           "text": "Chronic alcoholism",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Smoking.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all well-established major risk factors for HCC through chronic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Wilson's disease",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Smoking.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all well-established major risk factors for HCC through chronic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking."
         },
         {
           "letter": "E",
           "text": "Aflatoxins",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Smoking.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all well-established major risk factors for HCC through chronic…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis C, chronic alcoholism, Wilson's disease, and aflatoxin exposure are all…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking."
         }
       ]
     },

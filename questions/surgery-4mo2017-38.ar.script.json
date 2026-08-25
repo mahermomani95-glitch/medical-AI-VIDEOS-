@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Malformed erythrocytes: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something the spleen 'filters out' the way it removes defective cells/particles. يصبح صحيحًا في سؤال يصف Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and old/damaged platelets are all filtered by the spleen, unlike T lymphocytes, which circulate through and are processed in the spleen's white pulp but. الخيار C، Malarial parasites: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something the spleen 'filters out' the way it removes defective cells/particles. يصبح صحيحًا في سؤال يصف Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and old/damaged platelets are all filtered by the spleen, unlike T lymphocytes, which circulate through and are processed in the spleen's white pulp but. الخيار D، Streptococcus pneumonia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something the spleen 'filters out' the way it removes defective cells/particles. يصبح صحيحًا في سؤال يصف Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and old/damaged platelets are all filtered by the spleen, unlike T lymphocytes, which circulate through and are processed in the spleen's white pulp but. الخيار E، Platelets: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something the spleen 'filters out' the way it removes defective cells/particles. يصبح صحيحًا في سؤال يصف Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and old/damaged platelets are all filtered by the spleen, unlike T lymphocytes, which circulate through and are processed in the spleen's white pulp but.",
+      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Malformed erythrocytes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes. الخيار C، Malarial parasites: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes. الخيار D، Streptococcus pneumonia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes. الخيار E، Platelets: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Malformed erythrocytes",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something the spleen 'filters out' the way it removes defective cells/particles.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and old/damaged platelets are all filtered by the spleen…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "Malarial parasites",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something the spleen 'filters out' the way it removes defective cells/particles.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and old/damaged platelets are all filtered by the spleen…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes."
         },
         {
           "letter": "D",
           "text": "Streptococcus pneumonia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something the spleen 'filters out' the way it removes defective cells/particles.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and old/damaged platelets are all filtered by the spleen…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes."
         },
         {
           "letter": "E",
           "text": "Platelets",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا something the spleen 'filters out' the way it removes defective cells/particles.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and old/damaged platelets are all filtered by the spleen…"
+          "reason": "عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and…",
+          "elsewhere": "يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes."
         }
       ]
     },
