@@ -86,7 +86,13 @@ def build_data(bank):
     return courses
 
 
-PAGE = """<title>Surgery Board Video Bank</title>
+# charset MUST come first. Without it a browser opening this file directly
+# (rather than over a server that sends a Content-Type header) guesses the
+# encoding, decodes UTF-8 Arabic as Latin-1, and every Arabic stem renders as
+# mojibake -- "ما هو" becomes "Ù...Ø§ Ù‡Ù".
+PAGE = """<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Surgery Board Video Bank</title>
 __FONTS__
 <style>
 :root{
@@ -226,7 +232,7 @@ footer a{color:var(--accent)}
     <div class="phead">
       <span class="ptitle" id="ptitle"></span>
       <a class="pdl" id="pdl" href="#" target="_blank" rel="noopener">Open full size</a>
-      <span class="pmiss" id="pmiss" hidden>Couldn&rsquo;t play &mdash; this video may not be downloaded yet</span>
+      <span class="pmiss" id="pmiss" hidden></span>
       <button class="pclose" id="pclose" type="button">Close</button>
     </div>
     <video id="pvid" controls preload="metadata" playsinline></video>
@@ -313,8 +319,16 @@ list.addEventListener('click', e => {
 });
 // Offline, a missing file is the normal case mid-download -- say so instead
 // of leaving a silent black rectangle.
+// Playback can fail for reasons the page cannot control: the file isn't
+// downloaded yet (offline), or the page is inside a sandbox that blocks
+// external media. Say which is likely and always offer the direct link,
+// rather than leaving a silent black rectangle.
 pvid.addEventListener('error', () => {
-  if (OFFLINE) document.getElementById('pmiss').hidden = false;
+  const m = document.getElementById('pmiss');
+  m.textContent = OFFLINE
+    ? "Couldn't play - this video may not be downloaded yet"
+    : "Couldn't play here - use \u201cOpen full size\u201d";
+  m.hidden = false;
 });
 function closePlayer(){ pvid.pause(); pvid.removeAttribute('src'); pvid.load(); dlg.close(); }
 document.getElementById('pclose').addEventListener('click', closePlayer);
