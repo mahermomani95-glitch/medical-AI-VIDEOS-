@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Heparin, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It's heterogeneous mixture of sulfated polypeptidves",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بالهيبارين باستثناء؟ أمامك هذه الخيارات: It's heterogeneous mixture of sulfated polypeptidves، أو Potentiates the actions of antithrombin 3، أو Has a half life of a 90 minutes، أو Can be reversed by protamine sulphate، أو Can induce an idiosyncratic thrombocytopenia. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "It's heterogeneous mixture of sulfated",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It's heterogeneous mixture of sulfated polypeptidves",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الهيبارين خليط عديدات سكاريد مكبرتة، لا ببتيدات كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الهيبارين خليط عديدات سكاريد مكبرتة، لا ببتيدات كما بالعبارة الخاطئة. حرف S المزدوج يذكرك بالتركيب الكيميائي السكري الصحيح."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. It's heterogeneous mixture of sulfated polypepti",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Heparin: made of Sulfated Sugars, not peptides"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Acute pyelonephritis, best diagnosed by",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Chills, fever and flank pain",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يتم تشخيص التهاب الحويضة والكلية الحاد بشكل أفضل من خلال؟ أمامك هذه الخيارات: Vesicoureteral reflux، أو Bacteriuria and pyuria، أو Delayed renal function، أو Focal scar in renal cortex، أو Chills, fever and flank pain. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Chills, fever and flank pain",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Chills, fever and flank pain",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "ثلاثية القشعريرة والحمى وألم الخاصرة هي الأساس السريري لهذا التشخيص.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ثلاثية القشعريرة والحمى وألم الخاصرة هي الأساس السريري لهذا التشخيص. الأحرف الثلاثة C-F-F تلخص الثلاثية الكلاسيكية لهذا التشخيص."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Chills, fever and flank pain",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Pyelonephritis: Chills, Fever, Flank pain tria"
       ],

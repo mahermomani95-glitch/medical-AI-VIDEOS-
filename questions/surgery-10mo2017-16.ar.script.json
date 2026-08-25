@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "True, basal cell carcinoma",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Metastasis to lymph node is very rare",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح بالنسبة لسرطان الخلايا القاعدية؟ أمامك هذه الخيارات: A painful ulcer is the usual presentation، أو Metastasis to lymph node is very rare، أو UV light is not a cause، أو The growth is rapid، أو Treatment of choice is radiotherapy'. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Metastasis to lymph node is very rare",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Metastasis to lymph node is very rare",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "انتقال السرطانة القاعدية للعقد اللمفاوية نادر جدًا (غزو موضعي فقط).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. انتقال السرطانة القاعدية للعقد اللمفاوية نادر جدًا (غزو موضعي فقط). حرف B المزدوج يذكرك بندرة انتشار هذا السرطان."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Metastasis to lymph node is very rare",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "BCC: Barely metastasizes"
       ],

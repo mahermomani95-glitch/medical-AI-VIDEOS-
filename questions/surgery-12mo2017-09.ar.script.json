@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Principles of PHC, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Use of sophisticated technology",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. وفيما يلي مبادئ الرعاية الصحية الأولية باستثناء:؟ (سؤال مكرر، راجع السؤال رقم 514) أمامك هذه الخيارات: Equity، أو Community participation، أو Use of sophisticated technology، أو Integrated comprehensive services، أو Multi-sectoral approach. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Use of sophisticated technology",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Use of sophisticated technology",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التقنية المعقدة ليست مبدأً أساسيًا للرعاية الصحية الأولية المبنية على البساطة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التقنية المعقدة ليست مبدأً أساسيًا للرعاية الصحية الأولية المبنية على البساطة. حرف S المزدوج يذكرك أن البساطة لا التعقيد هي الأساس."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Use of sophisticated technology",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "PHC principles: doesn't require Sophisticated "
       ],

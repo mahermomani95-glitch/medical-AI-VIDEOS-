@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Causes of Hyperkalemia, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypomagnesemia",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي يمكن أن يسبب ارتفاع بوتاسيوم الدم باستثناء؟ أمامك هذه الخيارات: Acidosis، أو Insulin deficiency، أو Hypomagnesemia، أو Cell lysis syndrome، أو Renal failure. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hypomagnesemia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypomagnesemia",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "نقص المغنيزيوم يرتبط بنقص البوتاسيوم، لا فرطه كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نقص المغنيزيوم يرتبط بنقص البوتاسيوم، لا فرطه كما بالعبارة الخاطئة. حرف H المزدوج يذكرك أن الاتجاه الصحيح هو النقص لا الفرط."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Hypomagnesemia",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hypomagnesemia: Hints at Hypokalemia, not hype"
       ],

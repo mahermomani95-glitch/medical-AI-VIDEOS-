@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Says random words + eyes open to pain + localizes pain — GCS",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "10"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 8، أو 9، أو 10، أو 11، أو 12. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "10",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "10"
       },
       "card_text": "فتح العين للألم (2) + كلمات غير ملائمة (3) + توطين الألم (5) = مجموع GCS يساوي 10.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فتح العين للألم (2) + كلمات غير ملائمة (3) + توطين الألم (5) = مجموع GCS يساوي 10. فتح العين للألم يمنح 2، الكلام العشوائي غير الملائم يمنح 3، توطين الألم يمنح 5 — المجموع 2+3+5=10."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. 10",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "10"
       },
       "pills": [
         "\"2 + 3 + 5 = 10\""

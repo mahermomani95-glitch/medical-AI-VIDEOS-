@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "BMI and obesity definitions — NOT correct",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Normal weight BMI is 25 - 30",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: BMI is calculated by weight in Kilogram divided by the square of height in meters، أو Obese individuals have a BMI of 30 or more، أو Normal weight BMI is 25 - 30، أو Morbid obesity is a BMI of 40 or more، أو Morbid obesity is defined as either 100lb above ideal body weight or twice ideal body weight. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Normal weight BMI is 25 - 30",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Normal weight BMI is 25 - 30",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "مؤشر كتلة الجسم الطبيعي هو 18.5-25، وليس 25-30 — المدى 25-30 يمثل فعليًا \"زيادة الوزن\"، وليس الوزن الطبيعي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مؤشر كتلة الجسم الطبيعي هو 18.5-25، وليس 25-30 — المدى 25-30 يمثل فعليًا \"زيادة الوزن\"، وليس الوزن الطبيعي. تصنيف BMI: نقص وزن (<18.5)، طبيعي (18.5-25)، زيادة وزن (25-30)، سمنة (≥30)، سمنة مفرطة (≥40)."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Normal weight BMI is 25 - 30",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Normal BMI = 18.5-25, Overweight = 25-30\""
       ],

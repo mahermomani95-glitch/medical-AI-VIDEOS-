@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Bacteriostatic antibiotics, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Gentamycin",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل من المضادات الحيوية التالية مضادة للبكتيريا باستثناء؟ أمامك هذه الخيارات: Sulfonamides، أو Tetracycline، أو Erythromycin، أو Gentamycin، أو Azithromycin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Gentamycin",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Gentamycin",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الجنتاميسين مبيد جرثومي فعليًا، لا كابح نمو كباقي القائمة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الجنتاميسين مبيد جرثومي فعليًا، لا كابح نمو كباقي القائمة. حرف G المزدوج يذكرك أن هذا الدواء مبيد لا كابح."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Gentamycin",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Gentamicin: Genuinely bactericidal, not bacter"
       ],

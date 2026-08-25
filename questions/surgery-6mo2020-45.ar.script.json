@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Assessing/treating acute cholecystitis — LEAST essential",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Size and numbers of gallstones"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Gallbladder distension، أو Gallbladder wall thickness، أو Other hepatobiliary pathology، أو Size and numbers of gallstones، أو Jaundice. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Size and numbers of gallstones",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Size and numbers of gallstones"
       },
       "card_text": "الحجم والعدد الدقيق للحصى لا يغيّران التدبير الحاد — ما يهم سريريًا هو الالتهاب نفسه (سماكة الجدار، التمدد، اليرقان)، وليس عدّ الحصى.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الحجم والعدد الدقيق للحصى لا يغيّران التدبير الحاد — ما يهم سريريًا هو الالتهاب نفسه (سماكة الجدار، التمدد، اليرقان)، وليس عدّ الحصى. عند تقييم التهاب المرارة الحاد، تركّز القرارات العلاجية على درجة الالتهاب (سماكة الجدار، التمدد، اليرقان، أمراض كبدية صفراوية أخرى)، بينما حجم وعدد الحصى بالذات له أهمية أقل بكثير للتدبير الفوري."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Size and numbers of gallstones",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Size and numbers of gallstones"
       },
       "pills": [
         "\"Stone size/number = least clinically actionab"

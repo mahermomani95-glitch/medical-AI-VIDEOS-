@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Shock, definition",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypoperfusion at the tissue level",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يتم تعريف الصدمة على أنها؟ أمامك هذه الخيارات: Bradycardia، أو Hypothermia، أو Hypoperfusion at the tissue level، أو Hypotension، أو Loss of consciousness. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hypoperfusion at the tissue level",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypoperfusion at the tissue level",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي. حرف S و P يذكرانك بجوهر تعريف الصدمة النسيجي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Hypoperfusion at the tissue level",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Shock: Shortage of tissue Perfusion"
       ],

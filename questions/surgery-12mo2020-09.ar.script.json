@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Differentiating branchial cyst from abscess",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cholesterol crystals",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Palpable thrill، أو Translumination، أو Cholesterol crystals، أو x-ray، أو US. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cholesterol crystals",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cholesterol crystals",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "سحب بلورات كوليسترول من السائل موجود نوعي يؤكد كيس الشق الخيشومي، ويميّزه عن خراج بسيط مصاب.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. سحب بلورات كوليسترول من السائل موجود نوعي يؤكد كيس الشق الخيشومي، ويميّزه عن خراج بسيط مصاب. وجود بلورات كوليسترول في السائل المسحوب من كتلة رقبية جانبية هو الدليل المخبري النوعي الذي يؤكد كيس الشق الخيشومي ويميّزه عن خراج جرثومي بسيط."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Cholesterol crystals",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Cholesterol crystals = Branchial cyst signatu"
       ],

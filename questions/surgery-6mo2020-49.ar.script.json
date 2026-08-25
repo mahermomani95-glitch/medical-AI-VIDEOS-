@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best definition of shock",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Decreased tissue perfusion",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Increased tissue perfusion، أو Decreased tissue perfusion، أو Inability of the heart to circulate blood، أو Low circulating volume، أو Abnormal vascular resistance. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Decreased tissue perfusion",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Decreased tissue perfusion",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الصدمة في جوهرها هي نقص تروية النسج — وليست سببًا محددًا واحدًا، لأن آليات مختلفة كثيرة قد تؤدي جميعها لنفس النتيجة النهائية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الصدمة في جوهرها هي نقص تروية النسج — وليست سببًا محددًا واحدًا، لأن آليات مختلفة كثيرة قد تؤدي جميعها لنفس النتيجة النهائية. التعريف الأشمل والأدق للصدمة هو نقص التروية النسيجية، بغض النظر عن السبب الأساسي (نقص حجم، قلبي، توزيعي، انسدادي) — فكل هذه الأنواع تشترك بهذه النتيجة النهائية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Decreased tissue perfusion",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Shock = Decreased tissue perfusion (the unive"
       ],

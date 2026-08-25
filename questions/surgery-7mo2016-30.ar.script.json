@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Most sensitive/specific test, Gastrinoma",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Secretin stimulation test",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الاختبار التشخيصي الأكثر حساسية وتحديدًا لورم الغاسترينوما هو؟ أمامك هذه الخيارات: Octreotide scan، أو Fasting serum gastrin، أو Secretin stimulation test، أو Basal and stimulated gastric acid outputs. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Secretin stimulation test",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Secretin stimulation test",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اختبار تحفيز السيكرتين يكشف الاستجابة الغاسترينية المتناقضة المميزة لهذا الورم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اختبار تحفيز السيكرتين يكشف الاستجابة الغاسترينية المتناقضة المميزة لهذا الورم. حرف S المزدوج يربط هذا الاختبار بدقته التشخيصية العالية."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Secretin stimulation test",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Gastrinoma diagnosis: Secretin stimulation tes"
       ],

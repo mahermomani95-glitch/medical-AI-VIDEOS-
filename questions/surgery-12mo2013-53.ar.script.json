@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Perioperative DVT risk factors, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Young age",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. فيما يلي عوامل الخطر للإصابة بجلطات الأوردة العميقة أثناء الجراحةباستثناء:؟ أمامك هذه الخيارات: Obesity، أو Operation with long duration، أو Patient with malignancy، أو Pelvic operations، أو Young age. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Young age",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Young age",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "العمر الصغير عامل وقائي نسبي ضد التخثر الوريدي حول الجراحة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العمر الصغير عامل وقائي نسبي ضد التخثر الوريدي حول الجراحة. حرف Y المزدوج يذكرك أن العمر الصغير وقائي لا خطر."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Young age",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Young age: Yields protection against DVT, not "
       ],

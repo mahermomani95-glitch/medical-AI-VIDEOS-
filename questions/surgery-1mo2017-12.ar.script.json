@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Normal urine output",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "0.5 to 1.5 cc/kg/hour"
       },
       "narration": "لنبدأ بهذا السؤال. معدل إخراج البول الطبيعي هو؟ أمامك هذه الخيارات: 0.5 to 1.5 cc/kg/hour، أو < 0.5 cc/kg/hour in children، أو < 500 cc/day in adults، أو < 100 mL/day in adults، أو < 1.0 cc/kg/hour in infants. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "0.5 to 1.5 cc/kg/hour",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "0.5 to 1.5 cc/kg/hour"
       },
       "card_text": "إخراج البول الطبيعي يتراوح بين 0.5 و1.5 مل لكل كيلوغرام بالساعة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إخراج البول الطبيعي يتراوح بين 0.5 و1.5 مل لكل كيلوغرام بالساعة. حرف H يذكرك بالمدى الرقمي الكامل الطبيعي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. 0.5 to 1.5 cc/kg/hour",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "0.5 to 1.5 cc/kg/hour"
       },
       "pills": [
         "Normal urine output: Half to one-and-a-half mL"

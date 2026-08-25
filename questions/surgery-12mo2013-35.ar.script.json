@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Cardinal feature, compartment syndrome",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain"
       },
       "narration": "لنبدأ بهذا السؤال. السمة الأساسية لمتلازمة الحيز هي؟ أمامك هذه الخيارات: Pain، أو Hyperthermia، أو Rubor، أو Ecchymosis، أو Limb hyperactivity. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pain",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain"
       },
       "card_text": "الألم غير المتناسب هو السمة المحورية الأبكر لمتلازمة الحيز.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الألم غير المتناسب هو السمة المحورية الأبكر لمتلازمة الحيز. حرف P و C يذكرانك بأهمية الألم كسمة محورية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Pain",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain"
       },
       "pills": [
         "Compartment syndrome: Pain is the Cardinal sig"

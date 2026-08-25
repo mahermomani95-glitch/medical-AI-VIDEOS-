@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "84yo, small ulcer on nose bridge, present long time (implied",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Rodent ulcer"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 84 عامًا يعاني من قرحة صغيرة على جسر أنفه. استمرتالقرحة لعدة أشهر. عند الفحص، كانت حوافها بيضاء لؤلؤية. نوع القرحة هو:؟ أمامك هذه الخيارات: Curling ulcer، أو Cushing ulcer، أو Marjolin ulcer، أو Rodent ulcer، أو Venous ulcer. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Rodent ulcer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Rodent ulcer"
       },
       "card_text": "القرحة القارضة توقيع كلاسيكي للسرطان القاعدي الخلايا الجلدي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. القرحة القارضة توقيع كلاسيكي للسرطان القاعدي الخلايا الجلدي. حرف R المزدوج يذكرك بهذا التوقيف الكلاسيكي لهذا الورم."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Rodent ulcer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Rodent ulcer"
       },
       "pills": [
         "Slow, long-standing nose ulcer: Rodent ulcer"

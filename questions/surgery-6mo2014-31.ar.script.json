@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Single most avoidable factor responsible for deaths",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cigarette smoking",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. ما هو العامل الوحيد الذي يمكن تجنبه والذي يتسبب في الوفيات؟ أمامك هذه الخيارات: Cigarette smoking، أو Diabetes، أو End stage renal disease، أو Dyslipedemia، أو Depression. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cigarette smoking",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cigarette smoking",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التدخين هو العامل الأكثر قابلية للتجنب المسؤول عن الوفيات عالميًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التدخين هو العامل الأكثر قابلية للتجنب المسؤول عن الوفيات عالميًا. حرف S المزدوج يربط التدخين بموقعه كالعامل الأشيع القابل للتجنب."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Cigarette smoking",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Avoidable death: mostly Smoking"
       ],

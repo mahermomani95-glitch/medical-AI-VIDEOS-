@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best method, prevent first bleed, known varices",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "ß-blockers"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي هو أفضل طريقة لمنع النزيف الأول في مريض مصاب بدواليالمريء المعروفة؟ أمامك هذه الخيارات: ß-blockers، أو TIPS surgery، أو Sclerotherapy، أو Endoscopic ligation، أو Nitrate. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "ß-blockers",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "ß-blockers"
       },
       "card_text": "حاصرات بيتا تخفض الضغط البابي وقائيًا لمنع النزف الأول من الدوالي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. حاصرات بيتا تخفض الضغط البابي وقائيًا لمنع النزف الأول من الدوالي. حرف B المزدوج يربط هذه الأدوية بدورها الوقائي الأولي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. ß-blockers",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "ß-blockers"
       },
       "pills": [
         "First variceal bleed prevention: Beta-blockers"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Severe electrical burn, true statement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Requires treatment guided by the full "
       },
       "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالحروق الكهربائية الشديدة، هناك حقيقة واحدة؟ أمامك هذه الخيارات: Causes most of its damage of the exit site، أو Is usually more severe when caused by direct current (DC) rather than alternating current (AC)، أو Rarely causes significant deep muscle injury because skin has the highest resistance، أو Tends to resolve quickly in patients who survive the initial injury ​، أو Requires treatment guided by the full extent of both visible thermal damage and underlying deep tissue injury. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Requires treatment guided by the full ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Requires treatment guided by the full "
       },
       "card_text": "علاج الحرق الكهربائي يُوجَّه بالإصابة الكاملة الظاهرة والخفية معًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. علاج الحرق الكهربائي يُوجَّه بالإصابة الكاملة الظاهرة والخفية معًا. حرف F المزدوج يذكرك بضرورة تقييم الإصابة الكاملة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Requires treatment guided by the full extent of ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Requires treatment guided by the full "
       },
       "pills": [
         "Electrical burn: guided by Full (visible + hid"

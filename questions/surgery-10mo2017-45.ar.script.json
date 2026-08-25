@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Imaging in surgery, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Gallstones are usually seen on Xray",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. التصوير في الجراحة، كلها صحيحة باستثناء؟ أمامك هذه الخيارات: In abdominal Xray, the transverse colon can be seen in various locations in the centre of the abdomen because it is a totally intra-peritoneal organ، أو Gallstones are usually seen on Xray، أو The presence of gas in the small bowel raise the suspicion of bowel obstruction، أو Ultrasound is better than CT scan for gallstones detection، أو Ultrasound can assess solid organs better than gas-filled organs. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Gallstones are usually seen on Xray",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Gallstones are usually seen on Xray",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة. حرف V يذكرك أن معظم الحصى غير مرئية بهذا الفحص."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Gallstones are usually seen on Xray",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Gallstones: mostly not Visible on X-ray"
       ],

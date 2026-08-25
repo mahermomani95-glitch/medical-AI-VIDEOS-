@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best treatment for perianal abscess",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Drainage"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Hot application، أو Bed rest، أو Drainage، أو Antibiotics، أو Observation. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Drainage",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Drainage"
       },
       "card_text": "الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه. أي خراج (بما فيه الخراج حول الشرج) علاجه الأساسي هو التصريف الجراحي؛ المضادات الحيوية وحدها لا تخترق جيب الصديد بفعالية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Drainage",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Drainage"
       },
       "pills": [
         "\"Abscess = Drain it, don't just treat it with "

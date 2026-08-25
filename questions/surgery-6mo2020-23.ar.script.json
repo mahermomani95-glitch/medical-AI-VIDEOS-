@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Cholesterol gallstones — LEAST likely association",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Sickle cell disease",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Rapid weight loss، أو Colon resection، أو Sickle cell disease، أو Oral contraceptive pills، أو Obesity. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Sickle cell disease",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Sickle cell disease",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "فقر الدم المنجلي يسبب انحلالًا دمويًا مزمنًا، مؤديًا لحصى الصباغ (البيليروبين) — وليس مسار حصى الكوليسترول المسؤول عنه هذا السؤال.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فقر الدم المنجلي يسبب انحلالًا دمويًا مزمنًا، مؤديًا لحصى الصباغ (البيليروبين) — وليس مسار حصى الكوليسترول المسؤول عنه هذا السؤال. الانحلال الدموي المزمن كما في فقر الدم المنجلي يرفع البيليروبين وينتج حصى صباغية، بينما عوامل الخطر المذكورة الأخرى (نقص وزن سريع، استئصال قولون، حبوب منع حمل، سمنة) ترتبط بحصى الكوليسترول تحديدًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Sickle cell disease",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Sickle cell = Pigment stones, not cholesterol"
       ],

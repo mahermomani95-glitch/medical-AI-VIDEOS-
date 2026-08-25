@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Intussusception signs — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Fever"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل علامات وأعراض الانغلاف كل ما يلي باستثناء أمامك هذه الخيارات: Red currant stool، أو Vomiting، أو Abdominal pain، أو Fever، أو Palpable abdominal mass. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Fever",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Fever"
       },
       "card_text": "الحمى ليست علامة أساسية للانغلاف المعوي — الثلاثية الكلاسيكية هي الألم والقيء والبراز الجيلاتيني الأحمر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الحمى ليست علامة أساسية للانغلاف المعوي — الثلاثية الكلاسيكية هي الألم والقيء والبراز الجيلاتيني الأحمر. الثلاثية الكلاسيكية للانغلاف المعوي (ألم نوبي، قيء، براز جيلي الكشمش) لا تتضمن الحمى كعرض أساسي، رغم إمكانية ظهورها إذا تطورت مضاعفات."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Fever",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Fever"
       },
       "pills": [
         "\"Intussusception triad: pain, vomiting, curran"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "COVID-19 theater guidance — FALSE statement",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Higher risk patients are intubated and extubated outside theatre",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. وفقًا لتوجيهات جراحة عامة بين الكليات بخصوص كوفيد-19 داخل غرفة العمليات، أي مما يلي خاطئ: أمامك هذه الخيارات: Minimum number of staff، أو Appropriate personal protective equipment for all staff، أو Smoke evacuation for diathermy، أو Avoid positive pressure ventilation، أو Higher risk patients are intubated and extubated outside theatre. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Higher risk patients are intubated and",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Higher risk patients are intubated and extubated outside theatre",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المرضى عالي الخطورة يجب أن يُنبَّبوا وتُزال أنابيبهم داخل غرفة العمليات مع احتياطات كاملة، وليس خارجها.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المرضى عالي الخطورة يجب أن يُنبَّبوا وتُزال أنابيبهم داخل غرفة العمليات مع احتياطات كاملة، وليس خارجها. التنبيب وإزالة الأنبوب من أكثر الإجراءات المولدة للهباء الجوي المعدي؛ يجب أن يتما داخل غرفة العمليات المجهزة باحتياطات خاصة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Higher risk patients are intubated and extubated",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"High-risk patients: intubate/extubate INSIDE "
       ],

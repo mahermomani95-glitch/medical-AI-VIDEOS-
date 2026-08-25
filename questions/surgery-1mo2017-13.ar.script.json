@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Causes of Hypocalcemia, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Thiazide diuretics"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي من أسباب نقص الكالسيوم في الدم ما عدا:؟ أمامك هذه الخيارات: Chronic kidney disease، أو Post-gastric bypass surgery، أو parathyroidectomy، أو End-stage liver disease and cirrhosis، أو Thiazide diuretics. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Thiazide diuretics",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Thiazide diuretics"
       },
       "card_text": "مدرات الثيازيد ترفع الكالسيوم فعليًا، لا تخفضه كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مدرات الثيازيد ترفع الكالسيوم فعليًا، لا تخفضه كما بالعبارة الخاطئة. حرف T المزدوج يذكرك أن هذا المدر يحتفظ لا يطرح الكالسيوم."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Thiazide diuretics",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Thiazide diuretics"
       },
       "pills": [
         "Thiazides: Retain calcium, don't cause its def"

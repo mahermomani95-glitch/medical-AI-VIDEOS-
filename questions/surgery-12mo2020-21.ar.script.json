@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Management of perianal abscess",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Incision and drainage"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: IV Antibiotic، أو Conservative with hot paths، أو Incision and drainage، أو Oral Meronizole. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Incision and drainage",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Incision and drainage"
       },
       "card_text": "الخراج يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل بفعالية لجيب الصديد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الخراج يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل بفعالية لجيب الصديد. أي خراج (بما فيه المحيط بالشرج) علاجه الأساسي التصريف الجراحي؛ المضادات الحيوية دور مساعد فقط وليس بديلًا."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "C. Incision and drainage",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Incision and drainage"
       },
       "pills": [
         "\"Abscess = drain it\""

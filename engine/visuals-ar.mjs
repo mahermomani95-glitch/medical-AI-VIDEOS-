@@ -159,6 +159,26 @@ export function genericIconSvg() {
   </svg>`;
 }
 
+// Key-term card: the informative fallback for questions with no anatomical
+// region or sequence to draw. A big decorative cross tells the viewer
+// nothing; the term under discussion is at least real content, and it keeps
+// the English medical terminology on screen as the project requires.
+export function keyTermSvg(label = "", sub = "") {
+  const lines = wrapWords(label, 18).slice(0, 3);
+  const lineH = 40;
+  const boxH = Math.max(140, 70 + lines.length * lineH + (sub ? 44 : 0));
+  const w = 520, h = boxH + 40;
+  const tspans = lines
+    .map((l, i) => `<tspan x="${w / 2}" dy="${i === 0 ? 0 : lineH}">${esc(l)}</tspan>`)
+    .join("");
+  return `<svg viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">
+    <rect x="14" y="20" width="${w - 28}" height="${boxH}" rx="24" fill="#B9F0FD" stroke="#111" stroke-width="4"/>
+    <rect x="26" y="32" width="${w - 28}" height="${boxH}" rx="24" fill="none" stroke="#111" stroke-width="0"/>
+    <text text-anchor="middle" font-family="Anton, Arial" font-size="34" fill="#111" y="${86}">${tspans}</text>
+    ${sub ? `<text x="${w / 2}" y="${20 + boxH - 26}" text-anchor="middle" font-family="Cairo, Arial" font-weight="700" font-size="19" fill="#3a3a3a">${esc(sub)}</text>` : ""}
+  </svg>`;
+}
+
 export function illustrationSvg(illustration) {
   if (!illustration || !illustration.type) return genericIconSvg();
   switch (illustration.type) {
@@ -166,6 +186,7 @@ export function illustrationSvg(illustration) {
     case "ladder": return ladderSvg(illustration.items || []);
     case "comparison": return comparisonDiagramSvg(illustration.left || {}, illustration.right || {});
     case "body": return bodyRegionSvg(illustration.region, illustration.label);
+    case "keyterm": return keyTermSvg(illustration.label, illustration.sub);
     case "icon":
     default: return genericIconSvg();
   }

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Early signs of compartment syndrome — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pulseless"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل العلامات والأعراض المبكرة لمتلازمة الحيز كل ما يلي باستثناء أمامك هذه الخيارات: Pain، أو Paraesthesia، أو Tense swelling، أو Pulseless، أو Pressure increased. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pulseless",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pulseless"
       },
       "card_text": "غياب النبض علامة متأخرة جدًا لمتلازمة الحيز — عندما يغيب النبض تكون الأذية قد أصبحت شديدة بالفعل.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. غياب النبض علامة متأخرة جدًا لمتلازمة الحيز — عندما يغيب النبض تكون الأذية قد أصبحت شديدة بالفعل. الخمسة Ps لمتلازمة الحيز (Pain, Paresthesia, Pallor, Pressure, Pulselessness) مرتبة تقريبًا حسب التسلسل الزمني، و Pulselessness هي الأخيرة والأشد تأخرًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Pulseless",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pulseless"
       },
       "pills": [
         "\"5 P's: Pulse is the LAST one\""

@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "40yo, RUQ pain, CT finding (implied hydatid cyst), treatment",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Albendazole followed by surgical resec"
       },
       "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 40 عامًا تعاني من شكوى رئيسية تتمثل في ألم فيالبطن في منطقة الربع العلوي الأيمن، ويظهر فحص التصوير المقطعيالمحوسب للبطن وجود كيس متكلس يبلغ قطره 14 سم في الكبد، ولديها اختباركاسوني إيجابي، وأفضل خطوة تالية هي؟ أمامك هذه الخيارات: Percutaneous aspiration، أو Albendazole، أو Albendazole followed by surgical resection، أو Metronidazole. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Albendazole followed by surgical resec",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Albendazole followed by surgical resec"
       },
       "card_text": "الألبيندازول يسبق الجراحة لعلاج الكيسة العدارية الكبدية بأمان أكبر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الألبيندازول يسبق الجراحة لعلاج الكيسة العدارية الكبدية بأمان أكبر. حرف A يذكرك بأولوية العلاج الدوائي قبل الجراحة."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "C. Albendazole followed by surgical resection",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Albendazole followed by surgical resec"
       },
       "pills": [
         "Hydatid cyst: Albendazole, then surgery"

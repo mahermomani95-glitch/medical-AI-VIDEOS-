@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Treatment of choice, Hypovolemic shock",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "0.9% Normal saline",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. العلاج المختار في حالة صدمة نقص حجم الدم هو؟ أمامك هذه الخيارات: 0.45% Normal saline، أو Albumin، أو Blood products، أو 0.9% Normal saline، أو Hypertonic saline. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "0.9% Normal saline",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "0.9% Normal saline",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المحلول الملحي الطبيعي هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المحلول الملحي الطبيعي هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم. حرف N و S يذكرانك بالسائل الأول القياسي لهذه الصدمة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. 0.9% Normal saline",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hypovolemic shock: Normal Saline first"
       ],

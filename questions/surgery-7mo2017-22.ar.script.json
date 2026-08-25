@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Hirschsprung disease, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It is more common in girls",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بمرض هيرشسبرونج باستثناء؟ أمامك هذه الخيارات: There is no ganglion cells in Auerbach plexus، أو There is an increased incidence of Down syndrome، أو It is more common in girls، أو On X-ray the affected bowel is narrowed distally, while the normal bowel is dilated proximally، أو Tight anal sphincter. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "It is more common in girls",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It is more common in girls",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة. حرف H و B يذكرانك بغلبة الذكور الصحيحة بهذا الداء."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. It is more common in girls",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hirschsprung: Hits Boys more often"
       ],

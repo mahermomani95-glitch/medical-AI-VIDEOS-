@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "28yo, severe 2nd/3rd degree burns, intubated, next step",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Escharotomy"
       },
       "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 28 عامًا، يعاني من حروق شديدة من الدرجة الثانيةوالثالثة، وقد وُضع له أنبوب تنفس وبدأ إنعاشه بالسوائل الوريدية. يعانيالمريض من حرق محيطي في ذراعه اليمنى، مع لون أزرق باهت. أفضل خطوةتالية هي:؟ أمامك هذه الخيارات: Fasciotomy، أو Arm elevation، أو Thrombectomy، أو Streptokinase، أو Escharotomy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Escharotomy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Escharotomy"
       },
       "card_text": "بضع الخشكريشة يُحرر الضغط الميكانيكي المهدد للتروية بالحروق العميقة المحيطية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بضع الخشكريشة يُحرر الضغط الميكانيكي المهدد للتروية بالحروق العميقة المحيطية. حرف E المزدوج يذكرك بضرورة تحرير الضغط الميكانيكي فورًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Escharotomy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Escharotomy"
       },
       "pills": [
         "Constricting deep burn: needs Escharotomy"

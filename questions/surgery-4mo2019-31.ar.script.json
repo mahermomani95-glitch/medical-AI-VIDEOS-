@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Post-splenectomy trauma patient + fever + productive cough 4",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Streptococcus pneumonia",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. حضرت مريضة مصابة بصدمة، تبلغ من العمر 70 عامًا، إلى قسم الطوارئوهي تعاني من صدمة شديدة في البطن. بعد الإنعاش والفحص الأولي، وُجدأنها تعاني من إصابة شديدة في الطحال، فخضعت لعملية استئصال طحالطارئة. بعد أربعة أسابيع (أثناء وجود المريضة في منزلها)، أصيبت بحمىشديدة، وزيادة في عدد كريات الدم البيضاء، وسعال مصحوب ببلغم. فيتصوير الصدر بالأشعة السينية، يوجد ارتشاح في الفص السفلي الأيمن. العامل الممرض الأكثر شيوعًا المسؤول عن هذه النتيجة هو أمامك هذه الخيارات: Staphylococcus aureus، أو Streptococcus pyogenes، أو Streptococcus pneumonia، أو Chlamydia pneumonia، أو Neisseria meningitides. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Streptococcus pneumonia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Streptococcus pneumonia",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المريض المستأصل الطحال يفقد أفضل خط دفاع ضد الجراثيم المغلفة — العقدية الرئوية هي السبب الأشيع لإنتان ما بعد استئصال الطحال الطاغي (OPSI).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المريض المستأصل الطحال يفقد أفضل خط دفاع ضد الجراثيم المغلفة — العقدية الرئوية هي السبب الأشيع لإنتان ما بعد استئصال الطحال الطاغي (OPSI). الطحال مسؤول عن تصفية الجراثيم المغلفة بمحفظة عبر الأضداد؛ غيابه يجعل العقدية الرئوية (و H. influenzae و N. meningitidis) أخطر مسببات الإنتان الطاغي بعد استئصاله."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Streptococcus pneumonia",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"No spleen = no defense against encapsulated b"
       ],

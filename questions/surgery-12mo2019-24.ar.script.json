@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Maintenance fluid rate — 50kg patient",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "90 mL/hr",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. معدل السوائل الصيانة لمريض يزن 50 كجم هو أمامك هذه الخيارات: 80 mL/hr، أو 90 mL/hr، أو 100 mL/hr، أو 120 mL/hr، أو 130 mL/hr. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "90 mL/hr",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "90 mL/hr",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "بتطبيق قاعدة 4-2-1 على وزن 50 كغ نحصل على 90 مل/ساعة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بتطبيق قاعدة 4-2-1 على وزن 50 كغ نحصل على 90 مل/ساعة. قاعدة 4-2-1: 4مل/كغ لأول 10كغ، 2مل/كغ للـ10كغ التالية، 1مل/كغ لكل كغ فوق 20 — سهلة التذكر بترتيب الأرقام التنازلي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. 90 mL/hr",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"4-2-1 rule\""
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Hypervolemia manifestations, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Slow and weak pulse"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي هو مظاهر فرط حجم الدم باستثناء؟ أمامك هذه الخيارات: Confusion or lethargy، أو Peripheral edema، أو Slow and weak pulse، أو Dyspnea and crackles in lungs، أو Weight gain. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Slow and weak pulse",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Slow and weak pulse"
       },
       "card_text": "فرط حجم الدم يترافق بنبض قوي واضح، لا بطيء وضعيف.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فرط حجم الدم يترافق بنبض قوي واضح، لا بطيء وضعيف. حرف H المزدوج يذكرك أن الوصف الصحيح معاكس تمامًا لما بالعبارة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Slow and weak pulse",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Slow and weak pulse"
       },
       "pills": [
         "Hypervolemia: Has a bounding pulse, not slow/w"

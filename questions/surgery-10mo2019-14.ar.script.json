@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "60yo + foul-smelling urine + pneumaturia + E. coli bacteriur",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diverticular disease"
       },
       "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 60 عامًا يشكو من كثرة التبول، وانزعاج أثناء التبول،ورائحة كريهة جدًا، وأحيانًا يحتوي على مادة بنية اللون. عند استجوابه، أقربوجود فقاعات هوائية في بوله، وأنه يعاني مؤخرًا من إمساك. عند فحص بطنه،لم يُعثر على أي شيء. أظهر فحص البول نموًا كثيفًا لبكتيريا الإشريكيةالقولونية. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Diverticular disease، أو Crohn's disease، أو Ulcerative colitis، أو Carcinoma of the caecum، أو Colon cancer. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Diverticular disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diverticular disease"
       },
       "card_text": "فقاعات هواء بالبول (pneumaturia) مع عدوى شديدة بجرثومة القولون توجّه لناسور بين المثانة والقولون — غالبًا ناتج عن داء الرتوج.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فقاعات هواء بالبول (pneumaturia) مع عدوى شديدة بجرثومة القولون توجّه لناسور بين المثانة والقولون — غالبًا ناتج عن داء الرتوج. فقاعات هواء أو مواد برازية بالبول (pneumaturia/fecaluria) هي العلامة الكلاسيكية لناسور بين القولون والمثانة، وأشيع سبب له عند كبار السن هو داء الرتوج."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Diverticular disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diverticular disease"
       },
       "pills": [
         "\"Pneumaturia + fecaluria = Colovesical fistula"

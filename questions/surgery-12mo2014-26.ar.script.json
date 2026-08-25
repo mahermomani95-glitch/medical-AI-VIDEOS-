@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Most common cause, wound infection",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Staphylococcus aureus",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لعدوى الجروح هو؟ (سؤال مكرر، راجع السؤال رقم 176) أمامك هذه الخيارات: Streptococcus pyogen، أو E.coli، أو Bacteroid fragilis، أو Staphylococcus aureus. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Staphylococcus aureus",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Staphylococcus aureus",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح. حرف S المزدوج يربط هذه الجرثومة بموقعها كالسبب الأشيع."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Staphylococcus aureus",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Wound infection: mostly Staph aureus"
       ],

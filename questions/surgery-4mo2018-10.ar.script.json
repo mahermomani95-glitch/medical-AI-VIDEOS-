@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "TTP — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "decreased platelet adhesion",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالبرفرية الخثارية قليلة الصفائح الدمويةباستثناء أمامك هذه الخيارات: splenomegaly، أو decreased platelet adhesion، أو deficiency or inhibition of metalloproteinase ADAMTS13، أو The primary therapy is plasmapheresis، أو Thrombosis'. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "decreased platelet adhesion",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "decreased platelet adhesion",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "فرفرية نقص الصفيحات الخثارية (TTP) تعني تكدس الصفيحات وتكوّن خثرات صغيرة منتشرة، وليس نقص التصاقها — لذلك هذه هي العبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فرفرية نقص الصفيحات الخثارية (TTP) تعني تكدس الصفيحات وتكوّن خثرات صغيرة منتشرة، وليس نقص التصاقها — لذلك هذه هي العبارة الخاطئة. حرفا T في TTP يذكّران بـ Tiny clots (خثرات صغيرة منتشرة)، وهذا يوضح أن المشكلة هي زيادة التصاق والتصاق الصفائح، لا نقصانه."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. decreased platelet adhesion",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"TTP = Too many Tiny clots, not too little adh"
       ],

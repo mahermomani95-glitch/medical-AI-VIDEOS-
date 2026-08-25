@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Corticosteroid wound healing impairment, reversed by",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vit A",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يمكن عكس ضعف التئام الجروح الناجم عن تناول الكورتيكوستيرويد عن طريق؟ أمامك هذه الخيارات: Vit A، أو Vit C، أو Vit K، أو Vit B12، أو Zinc. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Vit A",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vit A",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "فيتامين A يعاكس تثبيط الستيرويدات لالتئام الجروح تحديدًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فيتامين A يعاكس تثبيط الستيرويدات لالتئام الجروح تحديدًا. حرف A المزدوج يذكرك بالفيتامين النوعي المعاكس لهذا التأثير."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Vit A",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Steroid healing impairment: reversed by vitami"
       ],

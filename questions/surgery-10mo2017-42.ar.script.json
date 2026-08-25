@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Differentiation, Keloid vs Hypertrophic scars",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Keloid scars occur when scar cross joints at the right angle",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية فيما يتعلق بالتمييز بين ندبات الجدرة والندباتالضخامية خاطئة؟ أمامك هذه الخيارات: Keloid scars are most often seen in dark-skinned people، أو Hypertrophic scars respond better to treatment than Keloid scars، أو Keloid scars occur when scar cross joints at the right angle، أو Keloid scars outgrow the wound area، أو Keloid scars have a familial predisposition. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Keloid scars occur when scar cross joi",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Keloid scars occur when scar cross joints at the right angle",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الندبة الجدرة تمتد خارج حدود الجرح الأصلي، بخلاف الضخامية المحصورة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الندبة الجدرة تمتد خارج حدود الجرح الأصلي، بخلاف الضخامية المحصورة. حرف K يذكرك بهذه السمة التمييزية الأساسية للندبة الجدرة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Keloid scars occur when scar cross joints at the",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Keloid: Keeps growing beyond original wound ma"
       ],

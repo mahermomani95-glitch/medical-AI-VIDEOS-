@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Post-splenectomy trauma, optimal pneumococcal vaccine timing",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "14",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. بعد استئصال الطحال بسبب الصدمة، يكون التوقيت الأمثل لإعطاء لقاحالمكورات الرئوية هو اليوم التالي للجراحة؟ أمامك هذه الخيارات: 1، أو 4، أو 7، أو 10، أو 14. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "14",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "14",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الانتظار 14 يومًا بعد استئصال الطحال الرضحي يحسّن استجابة اللقاح.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الانتظار 14 يومًا بعد استئصال الطحال الرضحي يحسّن استجابة اللقاح. حرف F يذكرك بالعدد الدقيق للأيام الموصى بانتظارها."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. 14",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Post-splenectomy vaccine: wait Fourteen days"
       ],

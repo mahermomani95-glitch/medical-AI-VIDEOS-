@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause, anal stricture",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Post hemorrhoidectomy"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لتضيق الشرج هو؟ أمامك هذه الخيارات: Post hemorrhoidectomy، أو Hemorrhoids، أو Anal fissure، أو Perianal abscess، أو Perianal hematoma. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Post hemorrhoidectomy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Post hemorrhoidectomy"
       },
       "card_text": "التضيق الشرجي غالبًا ما يلي استئصال البواسير كسبب أشيع.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التضيق الشرجي غالبًا ما يلي استئصال البواسير كسبب أشيع. حرف P المزدوج يربط التضيق بهذا الإجراء الجراحي السابق."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Post hemorrhoidectomy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Post hemorrhoidectomy"
       },
       "pills": [
         "Anal stricture: mostly Post-hemorrhoidectomy"

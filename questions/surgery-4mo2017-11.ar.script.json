@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Electrolyte concentration, Hartmann's solution",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Sodium 131 mmol/L",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية صحيح فيما يتعلق بتركيز الإلكتروليت في محلول هارتمان؟ أمامك هذه الخيارات: Chloride 200 mmol/L، أو Lactate 70 mmol/L، أو Sodium 131 mmol/L، أو Potassium 40 mmol /L، أو Calcium 15 mmol/L. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Sodium 131 mmol/L",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Sodium 131 mmol/L",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "محلول هارتمان يحتوي صوديومًا بتركيز 131، أقل من المحلول الملحي الطبيعي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. محلول هارتمان يحتوي صوديومًا بتركيز 131، أقل من المحلول الملحي الطبيعي. حرف H يذكرك بالرقم الدقيق المميز لهذا المحلول."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Sodium 131 mmol/L",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hartmann's solution: Sodium at One-thirty-one"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Main energy source during critical illness/injury",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Adipose tissue",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Skeletal muscles، أو Liver، أو Adipose tissue، أو Kidney، أو Gut. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Adipose tissue",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Adipose tissue",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "مخازن الدهون بالنسيج الشحمي تُعبَّأ كمصدر الوقود الأساسي أثناء الاستجابة الاستقلابية المفرطة للمرض أو الإصابة الحرجة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مخازن الدهون بالنسيج الشحمي تُعبَّأ كمصدر الوقود الأساسي أثناء الاستجابة الاستقلابية المفرطة للمرض أو الإصابة الحرجة. أثناء الشدة الاستقلابية الحرجة (رضح، إنتان، حروق)، يعبّئ الجسم مخازن الدهون بالنسيج الشحمي كمصدر الطاقة الأساسي، مع تكسير بروتيني عضلي مصاحب لكنه ليس المصدر الرئيسي للطاقة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Adipose tissue",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Critical illness = Fat (adipose tissue) is th"
       ],

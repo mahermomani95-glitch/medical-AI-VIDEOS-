@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Post-op day 5, hepatic resection, fever finding",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "UTI"
       },
       "narration": "لنبدأ بهذا السؤال. في اليوم الخامس بعد استئصال الكبد، لوحظت حمى لدى مريض سليم يبلغمن العمر 55 عامًا بلغت 38.6 درجة مئوية. أي مما يلي هو الأكثر شيوعًا:؟ أمامك هذه الخيارات: UTI، أو Wound infection، أو Pneumonia، أو Intra_abdominal abscess، أو Intravenous catheter related infection. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "UTI",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "UTI"
       },
       "card_text": "عدوى المسالك البولية سبب شائع للحمى حتى باليوم الخامس بعد الجراحة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عدوى المسالك البولية سبب شائع للحمى حتى باليوم الخامس بعد الجراحة. حرف U يذكرك بهذا السبب الشائع حتى بهذا التوقيت."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. UTI",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "UTI"
       },
       "pills": [
         "Post-op day 5 fever: UTI remains a common caus"

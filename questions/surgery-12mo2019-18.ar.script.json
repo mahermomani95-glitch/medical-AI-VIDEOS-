@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "37yo + periumbilical pain + irregularly irregular pulse + mi",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mesenteric ischemia"
       },
       "narration": "لنبدأ بهذا السؤال. تم تقييم حالة رجل يبلغ من العمر 37 عامًا، مقيم في المستشفى، بسبب ظهورألم حاد في البطن حول السرة مصحوب بغثيان وقيء. وقد تغوط مرتين منذبداية الألم. عند الفحص، بدا المريض في حالة من الضيق الشديد والقلق. درجةحرارته 37.5 درجة مئوية (99.5 فهرنهايت)، وضغط دمه 150/90 ملم زئبق،ونبضه 145/دقيقة، وهو غير منتظم، ومعدل التنفس 18/دقيقة. عند جس البطن،لوحظ ألم خفيف منتشر. لا يوجد تصلب أو ارتداد. أصوات الأمعاء منخفضة. تُظهر الأشعة السينية للبطن عدم وجود هواء حر أو انسداد. أي مما يلي هو التشخيص الأكثر احتمالًا؟ أمامك هذه الخيارات: Acalculous cholecystitis، أو Acute pancreatitis، أو Intraabdominal abscess، أو Mesenteric ischemia، أو Papillary muscle rupture. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Mesenteric ischemia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mesenteric ischemia"
       },
       "card_text": "ألم لا يتناسب مع موجودات الفحص السريري الخفيفة، مع نبض غير منتظم (رجفان أذيني كمصدر صمّي)، هو العلامة الإنذارية الكلاسيكية لنقص التروية المساريقية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ألم لا يتناسب مع موجودات الفحص السريري الخفيفة، مع نبض غير منتظم (رجفان أذيني كمصدر صمّي)، هو العلامة الإنذارية الكلاسيكية لنقص التروية المساريقية. \"ألم شديد لا يتناسب مع موجودات الفحص\" هي العبارة الكلاسيكية التي تصف نقص التروية المساريقية، خصوصًا عند وجود مصدر صمّي محتمل كالرجفان الأذيني."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Mesenteric ischemia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mesenteric ischemia"
       },
       "pills": [
         "\"Pain out of proportion to exam + AFib = Mesen"

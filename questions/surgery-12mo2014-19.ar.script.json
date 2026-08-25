@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Second-degree burn, source of new epithelium",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Epidermal appendeges"
       },
       "narration": "لنبدأ بهذا السؤال. قد يُشفى الحرق من الدرجة الثانية دون الحاجة إلى ترقيع. أيٌّ مما يلي يُعدّمصدرًا لخلايا الجلد الجديدة؟ (سؤال مكرر، راجع السؤال رقم 169) أمامك هذه الخيارات: Inrtadermal macrophages، أو Migratory dendritic cell، أو Dermatocyte، أو Melanocytes، أو Epidermal appendeges. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Epidermal appendeges",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Epidermal appendeges"
       },
       "card_text": "الزوائد الجلدية العميقة هي مصدر تجدد الظهارة بحرق الدرجة الثانية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الزوائد الجلدية العميقة هي مصدر تجدد الظهارة بحرق الدرجة الثانية. حرف E المزدوج يربط هذه الزوائد بدورها التجديدي الأساسي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Epidermal appendeges",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Epidermal appendeges"
       },
       "pills": [
         "Second-degree burn healing: from Epidermal app"

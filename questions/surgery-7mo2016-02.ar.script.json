@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most likely present, severe magnesium deficiency",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Tetany",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. من المرجح أن يكون أحد الأعراض التالية موجودًا لدى المريض الذي يعاني مننقص شديد في المغنيسيوم؟ أمامك هذه الخيارات: Respiratory depression، أو Short PR interval، أو Tetany، أو Short QRS complexes، أو Loss of patellar reflex. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Tetany",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Tetany",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "نقص المغنيزيوم الشديد يرفع الاستثارة العصبية العضلية فيسبب تكززًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نقص المغنيزيوم الشديد يرفع الاستثارة العصبية العضلية فيسبب تكززًا. حرف T المزدوج يربط نقص المغنيزيوم بهذا العرض العصبي العضلي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Tetany",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Severe Mg deficiency: causes Tetany"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Which vaccine is live",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "OPV"
       },
       "narration": "لنبدأ بهذا السؤال. أي من اللقاحات التالية هو لقاح حي؟ أمامك هذه الخيارات: H influenza type B، أو Diphtheria، أو OPV، أو Hepatitis B، أو influenza A. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "OPV",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "OPV"
       },
       "card_text": "لقاح شلل الأطفال الفموي حي مضعف، بخلاف الحقني المعطل.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. لقاح شلل الأطفال الفموي حي مضعف، بخلاف الحقني المعطل. حرف O المزدوج يذكرك أن الشكل الفموي تحديدًا هو الحي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. OPV",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "OPV"
       },
       "pills": [
         "OPV: the live Oral Polio Vaccine"

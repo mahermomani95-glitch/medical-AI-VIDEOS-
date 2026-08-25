@@ -294,15 +294,28 @@ def describe_choice(clause, choice_text):
 BODY_KEYWORDS = [
     (("abdom", "bowel", "colon", "gastric", "stomach", "liver", "biliary",
       "pancrea", "spleen", "appendic", "hernia", "peritone", "ileum",
-      "duoden", "rectal", "rectum", "gallbladder"), "abdomen"),
+      "duoden", "rectal", "rectum", "gallbladder", "jejun", "caecum",
+      "cecum", "sigmoid", "anal", "anus", "hepat", "cholecyst", "splenic",
+      "mesenter", "omentum", "gastro", "volvulus", "intussuscept",
+      "diverticul", "ulcer", "varice", "ascites", "portal", "bariatric",
+      "pyloric", "meckel", "fistula-in-ano", "haemorrhoid", "hemorrhoid"), "abdomen"),
     (("chest", "lung", "thorax", "pulmon", "pleural", "cardiac", "heart",
-      "aortic", "esophag", "mediastin", "breast"), "chest"),
+      "aortic", "esophag", "oesophag", "mediastin", "breast", "rib",
+      "pneumothorax", "empyema", "bronch", "trachea", "thoracic",
+      "myocard", "coronary", "valve", "mastectomy", "nipple"), "chest"),
     (("pelvi", "inguinal", "scrotal", "testic", "prostat", "bladder",
-      "urethra", "femoral", "groin"), "pelvis"),
+      "urethra", "femoral", "groin", "renal", "kidney", "ureter",
+      "urolog", "hydrocele", "varicocele", "phimosis", "circumcis",
+      "uterus", "ovarian", "penile", "perineal", "hypospadias"), "pelvis"),
     (("limb", "leg", "arm", "hand", "foot", "fracture", "tibia", "femur",
-      "humerus", "digit", "vascular", "varicose", "claudicat"), "limb"),
+      "humerus", "digit", "vascular", "varicose", "claudicat", "ankle",
+      "knee", "shoulder", "wrist", "elbow", "toe", "finger", "carpal",
+      "amputat", "gangrene", "ischaemi", "ischemi", "arterial", "venous",
+      "thrombos", "embol", "compartment", "nerve palsy", "burn"), "limb"),
     (("neck", "thyroid", "head", "skull", "brain", "cranial", "scalp",
-      "parotid", "facial", "intracranial"), "head"),
+      "parotid", "facial", "intracranial", "salivary", "tongue", "oral",
+      "larynx", "pharyn", "tonsil", "cervical", "goitre", "goiter",
+      "parathyroid", "eye", "ear", "nasal", "sinus", "meningi", "glasgow"), "head"),
 ]
 
 
@@ -331,7 +344,10 @@ def build_illustration(q, label_en):
     region = pick_region(q.get("trigger_en"), q.get("correct_text"), q.get("connection_en"))
     if region != "generic":
         return {"type": "body", "region": region, "label": label_en}
-    return {"type": "icon"}
+    # No anatomical region and no sequence: show the key term itself rather
+    # than a decorative icon, which carries no information.
+    return {"type": "keyterm", "label": clean(q.get("correct_text") or label_en),
+            "sub": "الإجابة الصحيحة"}
 
 
 # ------------------------------------------------------------- narration
@@ -506,7 +522,9 @@ def build_script(course, q, course_index, total_in_course):
             "id": "WHY_CORRECT",
             "visual": "correct_gold",
             "caption": f"{correct['letter']}. {clean(correct['text'])[:48]}" if correct else "الإجابة الصحيحة",
-            "illustration": illo,
+            # A keyterm card here would just restate the gold banner directly
+            # above it, so only carry a genuinely different visual through.
+            "illustration": None if illo.get("type") == "keyterm" else illo,
             "pills": [p for p in [mnem[:46] if mnem else None] if p],
             "narration": n_correct,
         },

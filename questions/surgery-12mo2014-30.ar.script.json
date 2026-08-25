@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Calf pressure requiring fasciotomy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "30 cm H20"
       },
       "narration": "لنبدأ بهذا السؤال. إن ضغط الساق الذي يجب أن يدفع الجراح إلى إجراء عملية قطع اللفافة هو؟ (سؤال مكرر، راجع السؤال رقم 181) أمامك هذه الخيارات: 10 cm H20، أو 20 cm H20، أو 30 cm H20، أو 40 cm H20، أو 50 cm H20. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "30 cm H20",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "30 cm H20"
       },
       "card_text": "ضغط 30 سم ماء بالحيز الساقي هو العتبة القياسية لبضع اللفافة العاجل.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ضغط 30 سم ماء بالحيز الساقي هو العتبة القياسية لبضع اللفافة العاجل. حرف T يذكرك بالرقم الدقيق (30) لهذه العتبة القياسية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. 30 cm H20",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "30 cm H20"
       },
       "pills": [
         "Fasciotomy threshold: Thirty cm H2O"

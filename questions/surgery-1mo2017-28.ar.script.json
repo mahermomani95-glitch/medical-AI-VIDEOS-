@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "First step, hypercalcemia management",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "IV hydration normal saline 0.9%"
       },
       "narration": "لنبدأ بهذا السؤال. الخطوة الأولى في إدارة فرط كالسيوم الدم هي؟ أمامك هذه الخيارات: IV hydration normal saline 0.9%، أو Hydrocortisone، أو Dialysis، أو Administration of Furosemide، أو Administration of mithramycin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "IV hydration normal saline 0.9%",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "IV hydration normal saline 0.9%"
       },
       "card_text": "الإماهة الوريدية بالمحلول الملحي هي الخطوة الأولى القياسية لفرط الكالسيوم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الإماهة الوريدية بالمحلول الملحي هي الخطوة الأولى القياسية لفرط الكالسيوم. حرف H المزدوج يذكرك بأولوية الإماهة الوريدية أولاً."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. IV hydration normal saline 0.9%",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "IV hydration normal saline 0.9%"
       },
       "pills": [
         "Hypercalcemia: Hydrate first with normal salin"

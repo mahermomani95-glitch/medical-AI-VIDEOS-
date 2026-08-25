@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause of delayed wound healing",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Infection",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لتأخر التئام الجروح هو أمامك هذه الخيارات: Diabetes mellitus، أو Smoking، أو Infection، أو Stress، أو Radiation. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Infection",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Infection",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "العدوى تُعطّل الالتئام أكثر من أي عامل منفرد آخر — تستهلك الموارد وتُطيل مرحلة الالتهاب.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العدوى تُعطّل الالتئام أكثر من أي عامل منفرد آخر — تستهلك الموارد وتُطيل مرحلة الالتهاب. من بين كل الأسباب المذكورة (سكري، تدخين، توتر، أشعة)، تبقى العدوى الموضعية هي السبب الأشيع لتأخر التئام الجروح عمومًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Infection",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Infection = wound healing's #1 saboteur\""
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most sensitive imaging — urinary tract stones",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Unenhanced urinary tract CT",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الصورة الأكثر حساسية لحصوات المسالك البولية هي أمامك هذه الخيارات: MRI، أو Ultrasound، أو Intravenous pyelogram، أو Enhanced urinary tract CT، أو Unenhanced urinary tract CT. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Unenhanced urinary tract CT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Unenhanced urinary tract CT",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الأشعة المقطعية غير المحقونة بالصبغة تكشف الحصى التي تفوتها الموجات فوق الصوتية والأشعة السينية — الفحص الأكثر حساسية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الأشعة المقطعية غير المحقونة بالصبغة تكشف الحصى التي تفوتها الموجات فوق الصوتية والأشعة السينية — الفحص الأكثر حساسية. الأشعة المقطعية غير المحقونة (Unenhanced) هي المعيار الذهبي الحديث لتشخيص حصى المسالك البولية بأعلى حساسية ودون الحاجة لصبغة قد تُخفي الحصاة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Unenhanced urinary tract CT",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Unenhanced CT sees it all\""
       ],

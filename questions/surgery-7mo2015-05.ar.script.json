@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Erythema multiforme, most commonly associated antibiotic",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cotrimoxazole (TMP/SMX)",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يرتبط الحمامي المتعددة الأشكال عادةً بأي من المضادات الحيوية التالية؟ أمامك هذه الخيارات: Quinolones، أو Cotrimoxazole (TMP/SMX)، أو Erythromycin، أو Ciprofloxacin، أو Vancomycin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cotrimoxazole (TMP/SMX)",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cotrimoxazole (TMP/SMX)",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الكوتريموكسازول هو المضاد الحيوي الأكثر ارتباطًا بالحمامى متعددة الأشكال.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الكوتريموكسازول هو المضاد الحيوي الأكثر ارتباطًا بالحمامى متعددة الأشكال. حرف C المزدوج يربط هذا الدواء بارتباطه التوثيقي بهذا التفاعل."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Cotrimoxazole (TMP/SMX)",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Erythema multiforme: linked to Cotrimoxazole"
       ],

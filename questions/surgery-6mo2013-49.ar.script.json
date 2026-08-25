@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common site, ischemic colitis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Splenic flexure"
       },
       "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعا لالتهاب القولون الإقفاري هو؟ أمامك هذه الخيارات: Splenic flexure، أو Hepatic flexure، أو Ascending colon، أو Transverse colon، أو iliocecal valve. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Splenic flexure",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Splenic flexure"
       },
       "card_text": "الزاوية الطحالية منطقة حدية التروية، الأكثر عرضة للإقفار القولوني.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الزاوية الطحالية منطقة حدية التروية، الأكثر عرضة للإقفار القولوني. حرف S المزدوج يربط الزاوية الطحالية بموقعها الحدي الضعيف التروية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Splenic flexure",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Splenic flexure"
       },
       "pills": [
         "Ischemic colitis: Strikes the Splenic flexure"

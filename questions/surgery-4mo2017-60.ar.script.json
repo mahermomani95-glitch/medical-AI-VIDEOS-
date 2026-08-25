@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Supports diagnosis of Hypovolemia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fe Na< 1"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي يدعم تشخيص نقص حجم الدم؟ أمامك هذه الخيارات: Urine sodium 28 mea/L، أو Urine chloride 15 meq/L، أو Fe Na< 1، أو Urine / serum creatinine ratio of 20، أو Urine Osmolarity of 350 mosm/ Kg. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Fe Na< 1",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fe Na< 1"
       },
       "card_text": "كسر طرح صوديوم أقل من 1٪ يدعم تشخيص نقص حجم الدم الحقيقي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. كسر طرح صوديوم أقل من 1٪ يدعم تشخيص نقص حجم الدم الحقيقي. حرف F المزدوج يذكرك بانخفاض هذا المؤشر بنقص الحجم الحقيقي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Fe Na< 1",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fe Na< 1"
       },
       "pills": [
         "Hypovolemia: FeNa Falls under one percent"

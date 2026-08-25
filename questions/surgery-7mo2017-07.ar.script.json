@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Preoperative management, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالإدارة قبل الجراحة، جميع الجمل صحيحة باستثناء؟ أمامك هذه الخيارات: A recent myocardial infarction is the most important risk factor for perioperative myocardial infarction، أو Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery، أو You should obtain surgical consent، أو LMWH is used in venous thromboembolism prophylaxis، أو Poorly controlled blood sugar in the preoperative period increases the risk for surgical site infections. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Patients should take their regular ACE",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Patients should take their regular ACE inhibitors Antihypertensive drug's even on the day of surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "مثبطات الإنزيم المحول تُوقف عادة قبل الجراحة لخطر هبوط الضغط.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مثبطات الإنزيم المحول تُوقف عادة قبل الجراحة لخطر هبوط الضغط. حرف A و C يذكرانك بضرورة إيقاف هذا الدواء قبل الجراحة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Patients should take their regular ACE inhibitor",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "ACE inhibitors: Are Ceased before surgery, not"
       ],

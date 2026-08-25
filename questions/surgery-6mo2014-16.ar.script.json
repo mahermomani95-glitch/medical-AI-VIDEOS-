@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Undescended testes, management",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Best treated surgically at the age of "
       },
       "narration": "لنبدأ بهذا السؤال. الخصيتين غير النازلتين؟ أمامك هذه الخيارات: Best treated surgically at the age of one year، أو Best managed conservatively with hormons، أو Best corrected at or around puberty، أو Have no malignat potential، أو Are usually bilateral. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Best treated surgically at the age of ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Best treated surgically at the age of "
       },
       "card_text": "التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة. حرف O يذكرك بالعمر القياسي الأمثل لهذا التدخل."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Best treated surgically at the age of one year",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Best treated surgically at the age of "
       },
       "pills": [
         "Undescended testis: Treated surgically at One "

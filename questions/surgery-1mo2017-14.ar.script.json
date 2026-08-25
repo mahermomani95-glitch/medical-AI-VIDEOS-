@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause, postoperative fever day 3",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Urinary tract infection",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا للحمى بعد الجراحة في اليوم الثالث؟ أمامك هذه الخيارات: Pneumonia، أو Urinary tract infection، أو Infection of the surgical incision، أو Deep vein thrombosis، أو Bloodstream infection. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urinary tract infection",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Urinary tract infection",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اليوم الثالث بعد الجراحة يوجه كلاسيكيًا لعدوى المسالك البولية كسبب حمى.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اليوم الثالث بعد الجراحة يوجه كلاسيكيًا لعدوى المسالك البولية كسبب حمى. حرف U يذكرك بالسبب النمطي للحمى بهذا اليوم تحديدًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Urinary tract infection",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Postop day 3 fever: Urinary tract infection"
       ],

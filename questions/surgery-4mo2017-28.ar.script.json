@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "62yo, watery diarrhea, cramps, recent antibiotics (implied),",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pseudomembranous colitis",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 62 عامًا حضر يشكو من إسهال مائي وتقلصات، وقدبدأ مؤخرًا بتناول الكليندامايسين لعلاج التهاب المفاصل الإنتاني. يعاني منحساسية تجاه البنسلين. أي مما يلي هو التشخيص الأكثر احتمالًا:؟ أمامك هذه الخيارات: Campylobacter jujeni diarrhea، أو Pseudomembranous colitis، أو Salmonella typhi diarrhea، أو Rectal cancer، أو Hemorrhoids. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pseudomembranous colitis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pseudomembranous colitis",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "إسهال مائي بعد مضادات حيوية حديثة يوجه لالتهاب القولون الغشائي الكاذب.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إسهال مائي بعد مضادات حيوية حديثة يوجه لالتهاب القولون الغشائي الكاذب. حرف P المزدوج يذكرك بهذا التشخيص المرتبط بالسياق الدوائي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Pseudomembranous colitis",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Post-antibiotic diarrhea: Pseudomembranous col"
       ],

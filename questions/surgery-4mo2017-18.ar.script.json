@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "45yo, ED follow-up (implied resistant HTN, hypokalemia), dia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Primary hyperaldosteronism",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. راجع رجل يبلغ من العمر 45 عامًا الطبيب للمتابعة بعد زيارة حديثة لقسمالطوارئ بسبب ألم في البطن. خف الألم باستخدام المسكنات. ومع ذلك، وُجدارتفاع في ضغط الدم ووجود كتلة عرضية في الغدة الكظرية اليمنى فيتصوير البطن. يبلغ ضغط دم المريض اليوم 160/94 ملم زئبق. يبلغ البوتاسيومفي المصل 3.0 ملي مكافئ/لتر والصوديوم 146 ملي مكافئ/لتر. أظهرتالفحوصات الإضافية أن نسبة نشاط الألدوستيرون في البلازما إلى نشاطالرينين في البلازما تبلغ 45. التشخيص الأكثر احتمالًا هو...؟ أمامك هذه الخيارات: Myelolipoma، أو Cushing disease، أو Primary hyperaldosteronism، أو Pheochromocytoma، أو Carcinoid tumor. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Primary hyperaldosteronism",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Primary hyperaldosteronism",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "ضغط مقاوم مع نقص بوتاسيوم غير مفسر يوجه لفرط الألدوستيرونية الأولي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ضغط مقاوم مع نقص بوتاسيوم غير مفسر يوجه لفرط الألدوستيرونية الأولي. حرف H المزدوج يذكرك بهذا التشخيص المحتمل بهذا التوليف."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Primary hyperaldosteronism",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Resistant HTN + low K: think Hyperaldosteronis"
       ],

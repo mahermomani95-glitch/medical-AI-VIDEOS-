@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Burn, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Full-thickness burns extend into deep "
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالحرق صحيحة باستثناء؟ (سؤال مكرر، راجع السؤال رقم 526) أمامك هذه الخيارات: Burn area's can be calculated by the rule of nines، أو Fluid resuscitation is calculated based on the burn area، أو IV fluid resuscitation is necessary for a child with 10% partial thickness burn، أو Prophylactic might be indicated in inhalation burn، أو Full-thickness burns extend into deep reticular dermis, yellow-white appearance, fairly dry texture, painful, needs 3-8 weeks for healing. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Full-thickness burns extend into deep ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Full-thickness burns extend into deep "
       },
       "card_text": "مظهر الحرق كامل السماكة له وصف محدد دقيق يجب مطابقته بعناية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مظهر الحرق كامل السماكة له وصف محدد دقيق يجب مطابقته بعناية. حرف F المزدوج يذكرك بأهمية الدقة بوصف هذه الدرجة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Full-thickness burns extend into deep reticular ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Full-thickness burns extend into deep "
       },
       "pills": [
         "Full-thickness burn: Fixed distinctive appeara"

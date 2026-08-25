@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Trauma, EXCEPT (repeat GCS coma definition)",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Coma correspond to a GCS of more than 8",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالصدمة صحيحة باستثناء؟ أمامك هذه الخيارات: The term triage is generally used in acute trauma life support (ATLS)، أو The rationale behind triage is for the benefit of the majority، أو The role of the designated triage person is only to triage and not to treat، أو The triage process must be constantly repeated، أو Coma correspond to a GCS of more than 8. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Coma correspond to a GCS of more than ",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Coma correspond to a GCS of more than 8",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8. حرف C و E يذكرانك بالاتجاه الصحيح لهذه العتبة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Coma correspond to a GCS of more than 8",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Coma: GCS Eight or below, not above"
       ],

@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Glucose intolerance caused by deficiency of",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Chromium",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. عدم تحمل الجلوكوز الناجم عن نقص أمامك هذه الخيارات: Vitamine d، أو Manganese، أو Cooper، أو Chromium. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Chromium",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Chromium",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر. الكروم عنصر نادر ضروري يعزّز فعالية الإنسولين على مستقبلاته الخلوية؛ نقصه (خصوصًا عند مرضى التغذية الوريدية الكاملة طويلة الأمد) يسبب عدم تحمل سكري واضح."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Chromium",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Chromium = insulin's helper\""
       ],

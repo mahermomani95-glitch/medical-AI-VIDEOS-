@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "TTP, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It does not lead to Hemolysis",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بـالبرفرية الخثارية قليلة الصفائح الدمويةباستثناء؟ أمامك هذه الخيارات: It does not lead to Hemolysis، أو The Coombs test is negative، أو Lower limbs petechiae are the most common presentation، أو Seizures and coma are common complications، أو The first line of treatment is plasma exchange. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "It does not lead to Hemolysis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It does not lead to Hemolysis",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "TTP يسبب انحلالاً دمويًا فعليًا كأحد مكوناته الأساسية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. TTP يسبب انحلالاً دمويًا فعليًا كأحد مكوناته الأساسية. حرف T المزدوج يذكرك أن الانحلال جزء أساسي من هذه المتلازمة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. It does not lead to Hemolysis",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "TTP: Truly causes hemolysis, doesn't exclude i"
       ],

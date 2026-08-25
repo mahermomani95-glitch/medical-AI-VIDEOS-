@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Congenital anomalies — WRONG statement",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Undescended testis requires immediate repair",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Esophageal atresia present with cyanosis at birth، أو Pyloric stenosis usually presents at one month، أو Undescended testis requires immediate repair، أو Imperforate anus could be associated with perianal fistula، أو Double bubble sign is seen in duodenal atresia. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Undescended testis requires immediate ",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Undescended testis requires immediate repair",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الخصية غير النازلة تُعالَج بتثبيتها جراحيًا حوالي عمر السنة، وليس إصلاحًا فوريًا — الانتظار قليلًا يعطي فرصة للنزول التلقائي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الخصية غير النازلة تُعالَج بتثبيتها جراحيًا حوالي عمر السنة، وليس إصلاحًا فوريًا — الانتظار قليلًا يعطي فرصة للنزول التلقائي. التوصية القياسية هي مراقبة الخصية غير النازلة حتى عمر سنة تقريبًا لإعطاء فرصة للنزول التلقائي، ثم التدخل الجراحي (orchidopexy) إن لم تنزل، وليس إصلاحًا فوريًا عند الولادة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Undescended testis requires immediate repair",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Undescended testis = fix around age 1, not im"
       ],

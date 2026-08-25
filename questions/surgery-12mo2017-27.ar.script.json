@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Spot diagnosis, differentiate lipoma from sebaceous cyst",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Slippery edge of the lipoma and the punctum of the sebaceous cyst",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. التشخيص الموضعي للتمييز بين الورم الشحمي والأكياس الدهنية هو؟ (سؤال مكرر، راجع السؤال رقم 547) أمامك هذه الخيارات: Consistency، أو Compressibility، أو Fluctuation، أو Attachment to deep muscle، أو Slippery edge of the lipoma and the punctum of the sebaceous cyst. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Slippery edge of the lipoma and the pu",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Slippery edge of the lipoma and the punctum of the sebaceous cyst",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "حافة زلقة للشحمومة ونقطة مركزية للكيسة الدهنية — علامتان تمييزيتان بسيطتان.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. حافة زلقة للشحمومة ونقطة مركزية للكيسة الدهنية — علامتان تمييزيتان بسيطتان. حرف S و P يذكرانك بالعلامة الصحيحة لكل حالة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Slippery edge of the lipoma and the punctum of t",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Lipoma: Slippery edge; Sebaceous cyst: has a P"
       ],

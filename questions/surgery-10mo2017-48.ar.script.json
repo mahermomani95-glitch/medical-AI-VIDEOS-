@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "NOT part of Glasgow Coma Scale",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "pupils size"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس جزءًا من مقياس غلاسكو للغيبوبة؟ أمامك هذه الخيارات: obey commands، أو Localizes painful stimuli، أو Open eyes to calling، أو Incomprehensible sounds، أو pupils size. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "pupils size",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "pupils size"
       },
       "card_text": "حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. حرف G و E و M يذكرانك بالمكونات الثلاثة الحقيقية لهذا المقياس."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. pupils size",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "pupils size"
       },
       "pills": [
         "GCS: Gauges Eye, verbal, Motor — not pupil siz"

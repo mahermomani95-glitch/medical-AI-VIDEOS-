@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Gram-negative organism",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pseudomonas aeruginosa",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي هو كائن حي سلبي الجرام؟ أمامك هذه الخيارات: Group A Streptococcus، أو MRSA، أو Pseudomonas aeruginosa، أو Clostridium tetani، أو Listeria. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pseudomonas aeruginosa",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pseudomonas aeruginosa",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الزائفة الزنجارية جرثومة سالبة الغرام معروفة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الزائفة الزنجارية جرثومة سالبة الغرام معروفة. حرف N يذكرك بالتصنيف الجرثومي الصحيح لهذه الجرثومة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Pseudomonas aeruginosa",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Pseudomonas: gram-Negative rod"
       ],

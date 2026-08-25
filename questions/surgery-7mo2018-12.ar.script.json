@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Branchial cleft remnant — most common complication",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Infection",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تظهر بقايا الشق الخيشومي غالبًا بسبب أي من المضاعفات التالية أمامك هذه الخيارات: Airway obstruction، أو Hemorrhage، أو Malignancy، أو Pain، أو Infection. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Infection",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Infection",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "بقايا الشق الخيشومي عبارة عن نفق باتجاه الجلد، فتجد البكتيريا طريقها للدخول وتسبب العدوى.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بقايا الشق الخيشومي عبارة عن نفق باتجاه الجلد، فتجد البكتيريا طريقها للدخول وتسبب العدوى. أي نفق أو مسار جيبي متبقٍ من التطور الجنيني يُعد طريقًا سهلًا لدخول البكتيريا، فتكون العدوى المتكررة أشيع مضاعفاته."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Infection",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Branchial tract = tunnel for infection\""
       ],

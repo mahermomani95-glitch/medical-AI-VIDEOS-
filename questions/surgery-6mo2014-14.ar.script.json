@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most important indicator, population health",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Infant mortality rate",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. المؤشر الأهم لصحة السكان هو؟ أمامك هذه الخيارات: Crude birth rate، أو Crude mortality rate، أو Infant mortality rate، أو Maternal mortality rate، أو Total fertality rate. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Infant mortality rate",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Infant mortality rate",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "معدل وفيات الرضع هو المؤشر الأكثر استخدامًا لتقييم صحة المجتمع.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. معدل وفيات الرضع هو المؤشر الأكثر استخدامًا لتقييم صحة المجتمع. حرف I المزدوج يربط هذا المعدل بموقعه كالمؤشر الأهم."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Infant mortality rate",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Population health: Infant mortality rate leads"
       ],

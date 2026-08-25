@@ -122,7 +122,7 @@ function sceneCorrectGold(scene) {
       <div class="k">الإجابة الصحيحة</div>
       <div class="v">${esc(data.correct_letter)}) ${esc(data.correct_text)}</div>
     </div>
-    ${scene.illustration ? `<div class="illustration" style="top:120px">${illustrationSvg(scene.illustration)}</div>` : ""}
+    ${scene.illustration ? `<div class="illustration" style="top:250px">${illustrationSvg(scene.illustration)}</div>` : ""}
     ${pills ? `<div class="card" style="max-width:820px;margin-top:36px">
       <div class="card-title">نقاط أساسية</div>
       <div class="pills">${pills}</div>

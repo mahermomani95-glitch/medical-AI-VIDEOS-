@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Caloric requirement — moderately ill patient",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "30-35 kcal/kg/day",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كم كيلو كالوري/كجم يحتاج المريض الذي يعاني من مرض متوسط؟ أمامك هذه الخيارات: 15-20 kcal/kg/day، أو 20-25 kcal/kg/day، أو 25-30 kcal/kg/day، أو 30-35 kcal/kg/day، أو 35-40 kcal/kg/day. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "30-35 kcal/kg/day",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "30-35 kcal/kg/day",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة. الاحتياج السعري التقريبي لمريض بشدة مرضية متوسطة هو 25-30 كيلو كالوري/كغ/يوم، أعلى من الحاجة الأساسية للشخص السليم لكن أقل من حالات الشدة الشديدة كالحروق الكبرى."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. 30-35 kcal/kg/day",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Moderate illness ≈ 25-30 kcal/kg/day\""
       ],

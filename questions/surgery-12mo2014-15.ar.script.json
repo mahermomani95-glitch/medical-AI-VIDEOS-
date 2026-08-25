@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Surgical treatment of gallstones indications, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cholesterol stones that are 0.5 cm",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل مؤشرات العلاج الجراحي لحصوة المرارة كل ما يلي باستثناء:؟ (سؤال مكرر، راجع السؤال رقم 165) أمامك هذه الخيارات: Non-functioning gallbladder، أو Porcelain gallbladder، أو Emphysematous gallblader، أو Cholesterol stones that are 0.5 cm، أو Gallstones ≥ 3 cm. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cholesterol stones that are 0.5 cm",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cholesterol stones that are 0.5 cm",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الحصى الصغيرة الصامتة ليست مؤشرًا جراحيًا حتميًا بذاتها.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الحصى الصغيرة الصامتة ليست مؤشرًا جراحيًا حتميًا بذاتها. حرف S المزدوج يذكرك أن الحصى الصغيرة الصامتة لا تستدعي جراحة فورية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Cholesterol stones that are 0.5 cm",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Small silent stones: Skip surgery, just observ"
       ],

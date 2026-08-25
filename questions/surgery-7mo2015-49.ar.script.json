@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Most common organism, burn wound sepsis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pseudomonas"
       },
       "narration": "لنبدأ بهذا السؤال. الكائن الحي الأكثر شيوعًا المتورط في تعفن جروح الحروق هو؟ أمامك هذه الخيارات: Staphylococcus aureus، أو Pseudomonas، أو Streptococcus viridans، أو Klebsiella. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pseudomonas",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pseudomonas"
       },
       "card_text": "الزائفة الزنجارية هي الجرثومة الأشيع المسببة لإنتان جرح الحرق.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الزائفة الزنجارية هي الجرثومة الأشيع المسببة لإنتان جرح الحرق. حرف P المزدوج يربط هذه الجرثومة بموقعها كالسبب الأشيع."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "B. Pseudomonas",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pseudomonas"
       },
       "pills": [
         "Burn wound sepsis: mostly Pseudomonas"

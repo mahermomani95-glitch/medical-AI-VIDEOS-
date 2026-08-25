@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Capillary refill time, elicited by",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pressing over the skin for 5 seconds, normally return perfusion by 2 seconds",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يتم استنباط وقت إعادة ملء الشعيرات الدموية بواسطة؟ أمامك هذه الخيارات: Pressing over the skin for 3 seconds, normally return perfusion by 2 seconds، أو Pressing over the skin for 5 seconds, normally return perfusion by 2 seconds، أو Pressing over the skin for 5 seconds, normally return perfusion by 5 seconds، أو Pressing over the skin 10 seconds, normally return perfusion by 5 seconds، أو Pressing over the skin for 2 seconds, normally return perfusion by 5 seconds. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pressing over the skin for 5 seconds, ",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pressing over the skin for 5 seconds, normally return perfusion by 2 seconds",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اختبار الامتلاء الشعري يُجرى بالضغط على الجلد لمدة 5 ثوانٍ.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اختبار الامتلاء الشعري يُجرى بالضغط على الجلد لمدة 5 ثوانٍ. حرف F يذكرك بالمدة الدقيقة القياسية لهذا الاختبار."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Pressing over the skin for 5 seconds, normally r",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Capillary refill: Press for Five seconds"
       ],

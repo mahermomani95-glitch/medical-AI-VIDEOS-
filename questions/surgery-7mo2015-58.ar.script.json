@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "26yo, RTA, hypotensive BP 85/40, tachycardic, next step",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Exploratory laparotomy",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 26 عامًا، تعاني من انخفاض ضغط الدم. ضغط دمها85/40، ومعدل ضربات قلبها 120. تم تركيب أنبوب تنفس لها، ولديها بطنمنتفخ. أعطيتها لترين من محلول رينجر لاكتات وبدأت بتكوين خلايا دم حمراء. مع ذلك، لا تزال تعاني من انخفاض ضغط الدم، وهي الخطوة التالية الأفضل.؟ أمامك هذه الخيارات: Abdomen CT scan، أو Angiogram، أو FAST scan، أو Exploratory laparotomy. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Exploratory laparotomy",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Exploratory laparotomy",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "عدم الاستقرار الدموي الشديد بعد حادث سير يستدعي بضع بطن إسعافيًا فوريًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عدم الاستقرار الدموي الشديد بعد حادث سير يستدعي بضع بطن إسعافيًا فوريًا. حرف E المزدوج يذكرك بضرورة التدخل الجراحي الفوري."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Exploratory laparotomy",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Unstable trauma patient: Exploratory laparotom"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Congenital anomaly, most frequent with imperforate anus",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urological anomaly"
       },
       "narration": "لنبدأ بهذا السؤال. أي من التشوهات الخلقية التالية تحدث بشكل متكرر في المرضى الذين يعانونمن فتحة شرج غير مثقوبة؟ أمامك هذه الخيارات: Esophageal atresia، أو Presacral dermoid، أو Urological anomaly، أو Tethered spinal cord، أو Cleft palate. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urological anomaly",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urological anomaly"
       },
       "card_text": "شذوذات المسالك البولية هي الأشيع ترافقًا مع انسداد فتحة الشرج الخلقي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. شذوذات المسالك البولية هي الأشيع ترافقًا مع انسداد فتحة الشرج الخلقي. حرف U المزدوج يربط هذا التشوه بارتباطه البولي الجنيني."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Urological anomaly",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urological anomaly"
       },
       "pills": [
         "Imperforate anus: Usually paired with urologic"

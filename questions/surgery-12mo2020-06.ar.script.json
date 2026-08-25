@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best definition of shock",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Low tissue perfusion to the vital organs",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Low tissue perfusion to the vital organs، أو High tissue perfusion and low oxygen delivery to vital organs، أو Diastolic blood pressure less than 60، أو Systolic blood pressure less than 90، أو Abnormal vascular resistance. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Low tissue perfusion to the vital orga",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Low tissue perfusion to the vital organs",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الصدمة في جوهرها نقص تروية النسج الحيوية — وليست مرتبطة برقم ضغط دم محدد، لأن آليات كثيرة قد تسببها.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الصدمة في جوهرها نقص تروية النسج الحيوية — وليست مرتبطة برقم ضغط دم محدد، لأن آليات كثيرة قد تسببها. التعريف الأشمل والأدق للصدمة هو نقص تروية الأعضاء الحيوية، وليس رقمًا محددًا لضغط الدم الانقباضي أو الانبساطي وحده."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Low tissue perfusion to the vital organs",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Shock = Low tissue perfusion to vital organs\""
       ],

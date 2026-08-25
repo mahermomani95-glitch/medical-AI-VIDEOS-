@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common type of gallstones",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cholesterol gallstones",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. النوع الأكثر شيوعا من حصوات المرارة هو؟ أمامك هذه الخيارات: Pigment gallstones، أو Cholesterol gallstones، أو Cystine stones، أو Calcium oxalate stones، أو Calcium phosphate stones. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cholesterol gallstones",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cholesterol gallstones",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الحصى الكوليسترولية هي الأشيع بين أنواع حصى المرارة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الحصى الكوليسترولية هي الأشيع بين أنواع حصى المرارة. حرف C المزدوج يربط هذا النوع بموقعه كالأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Cholesterol gallstones",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Gallstones: mostly Cholesterol type"
       ],

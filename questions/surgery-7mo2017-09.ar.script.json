@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Shock pathophysiology, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Serum lactate decreases in shock",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالناسور الشرياني الوريدي صحيحة باستثناء؟ أمامك هذه الخيارات: Shock means inadequate oxygen delivery to meet metabolic demands، أو Shock may occur without loss in the circulating volume، أو Severe infection may lead to decreased cardiac preload، أو Serum lactate decreases in shock، أو Shock may present with tachycardia. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Serum lactate decreases in shock",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Serum lactate decreases in shock",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اللاكتات يرتفع بالصدمة بسبب الاستقلاب اللاهوائي لنقص التروية، لا ينخفض.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اللاكتات يرتفع بالصدمة بسبب الاستقلاب اللاهوائي لنقص التروية، لا ينخفض. حرف L المزدوج يذكرك أن اللاكتات يرتفع لا ينخفض بالصدمة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Serum lactate decreases in shock",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Shock: Lactate Levels rise, don't fall"
       ],

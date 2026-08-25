@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Cause of lateral located anal fissure",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn disease"
       },
       "narration": "لنبدأ بهذا السؤال. أحد الأسباب التالية هو سبب الشق الشرجي الجانبي؟ أمامك هذه الخيارات: Crohn disease، أو Ulcerative colitis، أو Gardner syndrome، أو FAP. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Crohn disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn disease"
       },
       "card_text": "شق شرجي بموقع جانبي غير نمطي يوجه لداء كرون كسبب كامن.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. شق شرجي بموقع جانبي غير نمطي يوجه لداء كرون كسبب كامن. حرف L المزدوج يذكرك أن الموقع الجانبي يوجه لسبب مرضي كامن."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "A. Crohn disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn disease"
       },
       "pills": [
         "Lateral fissure: Linked to Crohn's"

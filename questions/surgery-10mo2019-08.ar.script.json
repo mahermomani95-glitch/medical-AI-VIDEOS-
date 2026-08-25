@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Brown discoloration + induration + ulcer above medial malleo",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Venous ulcer"
       },
       "narration": "لنبدأ بهذا السؤال. التشخيص الأكثر احتمالا هو أمامك هذه الخيارات: Diabetic ulcer، أو Marjolin's ulcer، أو Arterial ulcer، أو Venous ulcer، أو Neuropathic ulcer. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Venous ulcer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Venous ulcer"
       },
       "card_text": "فرط التصبغ والتصلب حول الكعب الإنسي مع قرحة في هذا الموقع بالتحديد هو الموقع والمظهر الكلاسيكي للقرحة الوريدية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فرط التصبغ والتصلب حول الكعب الإنسي مع قرحة في هذا الموقع بالتحديد هو الموقع والمظهر الكلاسيكي للقرحة الوريدية. فرط التصبغ البني (haemosiderin deposition) والتصلب فوق الكعب الإنسي مباشرة هو التوقيع الكلاسيكي لقصور الأوردة المزمن المسبب للقرحة الوريدية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Venous ulcer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Venous ulcer"
       },
       "pills": [
         "\"Medial malleolus + brown skin = Venous ulcer\""

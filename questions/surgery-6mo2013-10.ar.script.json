@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Glasgow coma scale components, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pupil reaction to light"
       },
       "narration": "لنبدأ بهذا السؤال. يتضمن مقياس غلاسكو للغيبوبة كل ما يلي باستثناء:؟ أمامك هذه الخيارات: Motor response، أو Eye opening، أو Verbal response، أو Pain response، أو Pupil reaction to light. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pupil reaction to light",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pupil reaction to light"
       },
       "card_text": "رد فعل الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. رد فعل الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. حرف G و E و M يذكرانك بالمكونات الثلاثة الحقيقية لهذا المقياس."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Pupil reaction to light",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pupil reaction to light"
       },
       "pills": [
         "GCS: Gauges Eye, verbal, Motor — not pupils"

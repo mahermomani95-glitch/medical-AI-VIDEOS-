@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Back pain, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Most common cause is disc prolapse",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما قيل صحيح عن آلام الظهر باستثناء؟ أمامك هذه الخيارات: Most common cause is disc prolapse، أو Prevalence is almost 100% in a life time، أو In elderly and very young patients should warrant investigation، أو Most patients improve without investigation on pain killers and muscle relaxants، أو When persists more than 4 weeks should be investigated. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Most common cause is disc prolapse",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Most common cause is disc prolapse",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الألم الميكانيكي العضلي، لا انزلاق القرص، هو السبب الأشيع لألم الظهر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الألم الميكانيكي العضلي، لا انزلاق القرص، هو السبب الأشيع لألم الظهر. حرف M المزدوج يذكرك أن السبب الميكانيكي هو الأشيع فعليًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Most common cause is disc prolapse",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Back pain: Mostly Mechanical, not disc prolaps"
       ],

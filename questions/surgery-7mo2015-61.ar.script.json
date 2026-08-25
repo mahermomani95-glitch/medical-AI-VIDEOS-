@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Most predominant cell type, first 24h of wound",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "PMNS"
       },
       "narration": "لنبدأ بهذا السؤال. النوع الأكثر انتشارًا من الخلايا في أول 24 ساعة من الجرح؟ أمامك هذه الخيارات: PMNS، أو Macrophages، أو Lymphocytes، أو Fibroblasts. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "PMNS",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "PMNS"
       },
       "card_text": "العدلات هي النوع الخلوي المهيمن بأول 24 ساعة من الجرح.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العدلات هي النوع الخلوي المهيمن بأول 24 ساعة من الجرح. حرف P المزدوج يربط العدلات بهيمنتها المبكرة."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "A. PMNS",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "PMNS"
       },
       "pills": [
         "First 24 hours: PMNs Predominate"

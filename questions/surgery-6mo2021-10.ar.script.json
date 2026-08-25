@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Preoperative antibiotics NOT indicated for",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Mastectomy"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Perforated appendix، أو Mastectomy، أو Open fracture of the humerus، أو Traumatic colonic perforation، أو Cholecystectomy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Mastectomy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Mastectomy"
       },
       "card_text": "استئصال الثدي جراحة نظيفة لا تفتح أي جهاز مخاطي — المضادات الوقائية ليست مطلوبة روتينيًا كما في الجراحات الملوثة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. استئصال الثدي جراحة نظيفة لا تفتح أي جهاز مخاطي — المضادات الوقائية ليست مطلوبة روتينيًا كما في الجراحات الملوثة. استئصال الثدي جراحة نظيفة بحتة، بعكس استئصال الزائدة المثقوبة، الكسر المفتوح، ثقب القولون الرضحي، واستئصال المرارة التي تتطلب مضادات وقائية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Mastectomy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Mastectomy"
       },
       "pills": [
         "\"Mastectomy = clean surgery, no routine antibi"

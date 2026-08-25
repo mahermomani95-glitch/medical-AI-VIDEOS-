@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "First systemic complication — major burn injury",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Hemodynamic instability"
       },
       "narration": "لنبدأ بهذا السؤال. المضاعفات الجهازية الأولى بعد الإصابة بحروق كبيرة هي أمامك هذه الخيارات: Hemodynamic instability، أو Metabolic acidosis، أو Renal failure، أو Hyperkalemia، أو Sepsis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hemodynamic instability",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Hemodynamic instability"
       },
       "card_text": "التحولات السائلية الهائلة تصيب الدورة الدموية أولًا — عدم الاستقرار الهيموديناميكي هو أول تهديد جهازي بعد الحرق الكبير.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التحولات السائلية الهائلة تصيب الدورة الدموية أولًا — عدم الاستقرار الهيموديناميكي هو أول تهديد جهازي بعد الحرق الكبير. أول ما يحدث بعد الحرق الكبير هو تسرّب هائل للسوائل من الأوعية للنسج المحيطة، فينخفض الحجم داخل الأوعية ويهدد استقرار الدورة الدموية فورًا قبل أي مضاعفة أخرى."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Hemodynamic instability",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Hemodynamic instability"
       },
       "pills": [
         "\"Burns: fluid shift first, hits circulation\""

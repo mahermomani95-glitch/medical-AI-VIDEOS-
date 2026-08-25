@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Parkland formula — 70kg + 50% TBSA burn — first 8 hours",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "7 liters"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 4.2 liters، أو 1.4 liters، أو 2.8 liters، أو 5.6 liters، أو 7 liters. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "7 liters",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "7 liters"
       },
       "card_text": "نصف الكمية الكلية لمعادلة باركلاند خلال 24 ساعة يُعطى في أول 8 ساعات — احسب الكمية الكاملة ثم خذ نصفها.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نصف الكمية الكلية لمعادلة باركلاند خلال 24 ساعة يُعطى في أول 8 ساعات — احسب الكمية الكاملة ثم خذ نصفها. معادلة باركلاند: 4 مل × 70كغ × 50% = 14000 مل خلال 24 ساعة، نصفها (7000 مل = 7 لتر) يُعطى في أول 8 ساعات."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. 7 liters",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "7 liters"
       },
       "pills": [
         "\"Parkland: 4 x weight x %TBSA, HALF in first 8"

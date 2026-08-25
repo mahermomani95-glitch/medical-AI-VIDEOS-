@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "NOT true, sepsis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Sepsis and hypotension is defined as septic shock",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي غير صحيح فيما يتعلق بالإنتان؟ أمامك هذه الخيارات: Tachycardia and / or tachypnea may be a sign، أو Sepsis is defined as systemic inflammatory response syndrome in the presence of infection، أو Leukocytosis or leukopenia may be a sign، أو Sepsis and hypotension is defined as septic shock، أو Temperature greater than 38 or less than 36 may be a sign. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Sepsis and hypotension is defined as s",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Sepsis and hypotension is defined as septic shock",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الصدمة الإنتانية تُعرَّف بمعايير أدق من مجرد إنتان مع هبوط ضغط بسيط.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الصدمة الإنتانية تُعرَّف بمعايير أدق من مجرد إنتان مع هبوط ضغط بسيط. حرف M و P يذكرانك بضرورة معايير أدق لهذا التعريف."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Sepsis and hypotension is defined as septic shoc",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Septic shock: needs More Precise criteria than"
       ],

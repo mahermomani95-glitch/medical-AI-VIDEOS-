@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Hirschsprung disease, NOT true",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It is more in giris",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية غير صحيحة فيما يتعلق بمرض هيرشسبرونج؟ أمامك هذه الخيارات: It is more in giris، أو It may involve the small bowel، أو It may be associated with enterocolitis، أو There is an increased incidence of Downs syndrome، أو There are no ganglionic cells seen in Auerbach plexus. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "It is more in giris",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It is more in giris",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة. حرف H و B يذكرانك بغلبة الذكور الصحيحة بهذا الداء."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. It is more in giris",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hirschsprung: Hits Boys more often"
       ],

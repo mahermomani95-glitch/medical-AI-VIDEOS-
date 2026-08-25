@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Gold standard investigation — osteomyelitis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Bone Biopsy",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. المعيار الذهبي للتحقيق لتشخيص التهاب العظم والنقي هو أمامك هذه الخيارات: Blood Culture، أو Bone Biopsy، أو Bone MRI، أو Technetium-99 Scan، أو Bone Cl. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Bone Biopsy",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Bone Biopsy",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "خزعة العظم تحصل على النسيج والجرثومة الفعلية — الطريقة القاطعة لتأكيد التهاب العظم والنقي وتوجيه العلاج الحيوي النوعي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. خزعة العظم تحصل على النسيج والجرثومة الفعلية — الطريقة القاطعة لتأكيد التهاب العظم والنقي وتوجيه العلاج الحيوي النوعي. خزعة العظم مع الزرع النسيجي هي المعيار الذهبي لتشخيص التهاب العظم والنقي لأنها تحصل على العينة الفعلية من موقع العدوى، بخلاف الفحوص التصويرية غير المباشرة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Bone Biopsy",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Bone biopsy = gold standard, gets the actual "
       ],

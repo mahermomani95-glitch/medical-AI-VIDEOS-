@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common risk factor, spontaneous venous thromboembolism",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Factor 5 Leiden"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي هو عامل الخطر الأكثر شيوعًا للانصمام الخثاري الوريديالتلقائي؟ أمامك هذه الخيارات: Antithrombin 3 deficiency، أو Factor 5 Leiden، أو Protein C deficiency، أو Protein S deficiency، أو Antiphospholipid syndrome. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Factor 5 Leiden",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Factor 5 Leiden"
       },
       "card_text": "عامل V ليدن هو أشيع اضطراب تخثري وراثي مسبب لانصمام وريدي تلقائي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عامل V ليدن هو أشيع اضطراب تخثري وراثي مسبب لانصمام وريدي تلقائي. حرف F المزدوج يربط هذا العامل بموقعه كالأشيع وراثيًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Factor 5 Leiden",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Factor 5 Leiden"
       },
       "pills": [
         "Spontaneous VTE: mostly Factor V Leiden"

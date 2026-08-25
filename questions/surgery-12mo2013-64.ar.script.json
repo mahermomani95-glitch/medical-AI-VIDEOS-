@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Achalasia, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Treatment of choice is total gasterectomy",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بالخلل في الارتخاء العضلي باستثناء؟ أمامك هذه الخيارات: Dysphagia to both solids and liquid is classic، أو Barium swallow reveals a birdlike narrowing in the distal esophagus، أو Treatment of choice is total gasterectomy، أو Usually associated with weight loss، أو The underlying defect is failure of the lower esophageal sphincter to relax. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Treatment of choice is total gasterect",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Treatment of choice is total gasterectomy",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "استئصال المعدة الكامل ليس علاج الأكالازيا، فهي مشكلة مريئية لا معدية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. استئصال المعدة الكامل ليس علاج الأكالازيا، فهي مشكلة مريئية لا معدية. حرف A و G يذكرانك بعلاج الأكالازيا الحقيقي المختلف تمامًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Treatment of choice is total gasterectomy",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Achalasia: Addressed by myotomy, not Gastrecto"
       ],

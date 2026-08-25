@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "True composition of normal saline",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "NA 154, CL 154",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. التركيب الحقيقي للمحلول الملحي العادي هو؟ أمامك هذه الخيارات: Na 154, CL 154, K4، أو NA 154, CL 154، أو NA 130, CL 109, K 4, Ca 2.7، أو NA 130, CL 130. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "NA 154, CL 154",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "NA 154, CL 154",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المحلول الملحي الطبيعي يحتوي 154 صوديوم و154 كلور بالتساوي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المحلول الملحي الطبيعي يحتوي 154 صوديوم و154 كلور بالتساوي. الرقمان المتساويان يذكرانك بتركيب هذا المحلول البسيط."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. NA 154, CL 154",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Normal saline: 154-154, Na and Cl equal"
       ],

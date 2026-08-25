@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "High-risk features for nevus-to-melanoma transformation — EX",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Uniform pigmentation",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل عوامل الخطورة العالية لتحويل الشامة إلى ورم ميلانيني خبيث كل مايلي باستثناء أمامك هذه الخيارات: Asymmetric shape، أو Ulceration or bleeding، أو Increase in size، أو Uniform pigmentation، أو itching. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Uniform pigmentation",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Uniform pigmentation",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التصبغ المنتظم مطمئن — التصبغ المتفاوت وغير المنتظم هو ما يثير الشك بالتحول للميلانوما.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التصبغ المنتظم مطمئن — التصبغ المتفاوت وغير المنتظم هو ما يثير الشك بالتحول للميلانوما. من قاعدة ABCDE الشهيرة لتقييم الشامات: C تعني Color variation (تفاوت اللون)، وليس Uniform color (لون منتظم) كما ورد في الخيار D."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Uniform pigmentation",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"ABCDE of melanoma: Color VARIATION, not unifo"
       ],

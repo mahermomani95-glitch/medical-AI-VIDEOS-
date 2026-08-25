@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "65yo + colicky pain + distension + inverted U sign + periphe",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid Volvulus"
       },
       "narration": "لنبدأ بهذا السؤال. حضر مريض يبلغ من العمر 65 عامًا إلى قسم الطوارئ يشكو من ألم شديدفي البطن مصحوب بمغص وقيء مصحوب بتمدد بطني لمدة يومين. في الأشعةالسينية البسيطة للبطن، وُجدت علامة \"يو\" مقلوبة في الربع السفلي الأيسر من البطن، وارتفاع كبير في مستوياتالهواء والسوائل الطرفية. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Colon Cancer، أو Adhesional Intestinal obstruction، أو Strangulated Inguinal Hernia، أو Sigmoid Volvulus، أو ileus. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Sigmoid Volvulus",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid Volvulus"
       },
       "card_text": "حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني. علامة \"U المقلوبة\" أو \"حبة القهوة\" (coffee bean sign) على الأشعة العادية للبطن هي التوقيع الكلاسيكي لالتواء القولون السيني."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Sigmoid Volvulus",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid Volvulus"
       },
       "pills": [
         "\"Inverted U = Sigmoid volvulus\""

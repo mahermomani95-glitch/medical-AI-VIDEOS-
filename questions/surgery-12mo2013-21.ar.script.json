@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Initial response to vessel injury",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vasoconstriction",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الاستجابة الأولية لإصابة الأوعية هي؟ أمامك هذه الخيارات: Vasodilatation، أو Vasoconstriction، أو Platelet aggregation، أو Platelet plug formation، أو Thromboxane A2 production. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Vasoconstriction",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vasoconstriction",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر. حرف V المزدوج يذكرك بأولوية هذه الاستجابة الفورية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Vasoconstriction",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Vessel injury: Vasoconstriction comes first"
       ],

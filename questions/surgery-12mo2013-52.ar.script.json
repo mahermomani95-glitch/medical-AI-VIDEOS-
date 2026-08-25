@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best policy, postoperative pain treatment",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Multimodal analgesia"
       },
       "narration": "لنبدأ بهذا السؤال. أفضل سياسة لعلاج الألم بعد الجراحة هي إعطاء؟ أمامك هذه الخيارات: NSAIDS، أو Subcutaneous morphine، أو Paracetamol، أو Regional anesthesia، أو Multimodal analgesia. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Multimodal analgesia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Multimodal analgesia"
       },
       "card_text": "التسكين متعدد الأنماط يجمع آليات مختلفة لتحكم أفضل بالألم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التسكين متعدد الأنماط يجمع آليات مختلفة لتحكم أفضل بالألم. حرف M المزدوج يربط هذا النهج بفعاليته الأفضل."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Multimodal analgesia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Multimodal analgesia"
       },
       "pills": [
         "Postoperative pain: Multimodal approach Maximi"

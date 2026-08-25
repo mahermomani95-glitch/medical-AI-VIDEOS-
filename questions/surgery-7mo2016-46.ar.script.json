@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Carcinoma of lip, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Radiation therapy is the treatment of choice",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بسرطان الشفة باستثناء؟ أمامك هذه الخيارات: 95% of lip carcinoma in the lower lip، أو Sun exposure and smoking are risk factors، أو More common in elderly white men، أو Radiation therapy is the treatment of choice، أو The majority presents as an ulcerative lesion. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Radiation therapy is the treatment of ",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Radiation therapy is the treatment of choice",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الاستئصال الجراحي، لا الإشعاع، هو علاج الاختيار الأول لسرطان الشفة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الاستئصال الجراحي، لا الإشعاع، هو علاج الاختيار الأول لسرطان الشفة. حرف S المزدوج يذكرك أن الجراحة هي الخيار الأول القياسي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Radiation therapy is the treatment of choice",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Lip carcinoma: Surgery is the Standard choice"
       ],

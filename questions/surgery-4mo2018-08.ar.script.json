@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Lateral anal fissure — rule out",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn disease"
       },
       "narration": "لنبدأ بهذا السؤال. إذا كان الشق الشرجي يقع جانبيًا، ما هو المرض الذي يجب استبعاده؟ أمامك هذه الخيارات: Crohn disease، أو Ulcerative colitis، أو Gardner disease، أو FAP، أو Anal cancer. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Crohn disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn disease"
       },
       "card_text": "الشق الشرجي الجانبي (بعيدًا عن خط الوسط) ليس النموذج المعتاد، ويجب استبعاد داء كرون فورًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الشق الشرجي الجانبي (بعيدًا عن خط الوسط) ليس النموذج المعتاد، ويجب استبعاد داء كرون فورًا. كلمتا Lateral و Look تبدآن بنفس الحرف L ، للتذكير بأن الموقع الجانبي غير النمطي يستدعي البحث عن داء كرون."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Crohn disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn disease"
       },
       "pills": [
         "\"Lateral = Look for Crohn's\""

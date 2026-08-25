@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "BMI — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It is equal Height in meter quadrant over the weight in kilograms",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بمؤشر كتلة الجسم باستثناء أمامك هذه الخيارات: BMI 15 represents underweight، أو BMI 20 represents optimal weight، أو It is equal Height in meter quadrant over the weight in kilograms، أو BMI 26 represents overweight، أو BMI 41 is indication for weight loss surgery. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "It is equal Height in meter quadrant o",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It is equal Height in meter quadrant over the weight in kilograms",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "مؤشر كتلة الجسم هو الوزن مقسومًا على مربع الطول، وليس العكس — قلب الكسر هو الفخ هنا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مؤشر كتلة الجسم هو الوزن مقسومًا على مربع الطول، وليس العكس — قلب الكسر هو الفخ هنا. الصيغة الصحيحة لمؤشر كتلة الجسم هي الوزن بالكيلوغرام مقسومًا على مربع الطول بالمتر — الوزن دائمًا في البسط وليس المقام."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. It is equal Height in meter quadrant over the we",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"BMI = kg / m² (weight ON TOP)\""
       ],

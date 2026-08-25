@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Ringer lactate components, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "28-29 mEq of calcium ion (1.5 mmol)",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تتضمن مكونات لاكتات رينجر كل ما يلي باستثناء؟ أمامك هذه الخيارات: 130-131 mEq of sodium ion (130 mmol)، أو 28-29 mEq of calcium ion (1.5 mmol)، أو 109-111 mEq of chloride ion (109 mmol)، أو 28-29 mEq of lactate ion (28 mmol)، أو 4-5 mEq of potassium ion (4 mmol). لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "28-29 mEq of calcium ion (1.5 mmol)",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "28-29 mEq of calcium ion (1.5 mmol)",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "تركيز الكالسيوم برينغر لاكتات منخفض جدًا، لا 28-29 كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تركيز الكالسيوم برينغر لاكتات منخفض جدًا، لا 28-29 كما بالعبارة الخاطئة. حرف R و L يذكرانك أن التركيز الحقيقي أقل بكثير من الرقم المذكور."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. 28-29 mEq of calcium ion (1.5 mmol)",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Ringer lactate calcium: Really much Lower than"
       ],

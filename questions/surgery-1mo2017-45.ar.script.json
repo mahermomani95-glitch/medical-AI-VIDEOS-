@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "20yo, bloody single duct discharge, palpable areolar mass",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Intraductal papilloma"
       },
       "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر عشرين عامًا تعاني من إفرازات دموية من قناة واحدةوكتلة ملموسة في الهالة، ولا توجد خلايا خبيثة، ومعزولة عن الإفرازات. التشخيص المحتمل هو:؟ أمامك هذه الخيارات: Ductal carcinoma، أو Duct ectasia، أو Intraductal papilloma، أو Prolactinoma، أو Periductal mastitis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Intraductal papilloma",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Intraductal papilloma"
       },
       "card_text": "إفراز دموي من قناة واحدة مع كتلة هالية يوجه للورم الحليمي داخل القناة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إفراز دموي من قناة واحدة مع كتلة هالية يوجه للورم الحليمي داخل القناة. حرف I المزدوج يذكرك بهذا التشخيص الحميد الشائع عند الشابات."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Intraductal papilloma",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Intraductal papilloma"
       },
       "pills": [
         "Bloody single-duct discharge: Intraductal papi"

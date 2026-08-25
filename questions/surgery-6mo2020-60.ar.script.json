@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "60F + RLQ pain — possible causes EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mittelschmerz"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Ovarian torsion، أو Mittelschmerz، أو Crohn's disease، أو Pelvic inflammatory disease، أو Acute appendicitis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Mittelschmerz",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mittelschmerz"
       },
       "card_text": "ألم منتصف الدورة (Mittelschmerz) يتطلب مبايض فعّالة مع إباضة نشطة — امرأة بعمر 60 سنة بعد سن اليأس لم تعد تبيض، مما يستبعد هذا التشخيص.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ألم منتصف الدورة (Mittelschmerz) يتطلب مبايض فعّالة مع إباضة نشطة — امرأة بعمر 60 سنة بعد سن اليأس لم تعد تبيض، مما يستبعد هذا التشخيص. ألم منتصف الدورة (Mittelschmerz) مرتبط مباشرة بالإباضة الشهرية النشطة، وهي عملية تتوقف بعد سن اليأس، مما يجعل هذا التشخيص مستبعدًا منطقيًا عند امرأة بعمر 60 سنة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Mittelschmerz",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mittelschmerz"
       },
       "pills": [
         "\"Mittelschmerz needs active ovulation — postme"

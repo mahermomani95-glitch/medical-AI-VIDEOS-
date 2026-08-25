@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Commonest cause, ascending Cholangitis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Stone impaction in CBD",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لالتهاب القناة الصفراوية الصاعد هو؟ أمامك هذه الخيارات: Stone impaction in CBD، أو Cancer head of the pancreas، أو Cholangiocarcinoma، أو Lymphadenopathy of the porta hepatis، أو Ruptured Hydatid cyst into the biliary tree. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Stone impaction in CBD",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Stone impaction in CBD",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "انحشار حصاة بالقناة الصفراوية المشتركة هو السبب الأشيع لهذا الالتهاب.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. انحشار حصاة بالقناة الصفراوية المشتركة هو السبب الأشيع لهذا الالتهاب. حرف S المزدوج يربط انحشار الحصاة بموقعه كالسبب الأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Stone impaction in CBD",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Ascending cholangitis: mostly CBD Stone impact"
       ],

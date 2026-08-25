@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Pyloric stenosis management, true statement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hypokalemia should be corrected"
       },
       "narration": "لنبدأ بهذا السؤال. في علاج تضيق البواب، أي مما يلي صحيح؟ أمامك هذه الخيارات: Acidosis should be corrected first، أو Chloride level is normal in spite alkalosis، أو Hypokalemia should be corrected، أو Usually there is compensatory hypocarbia، أو Paradoxical aciduria is not a feature. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hypokalemia should be corrected",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hypokalemia should be corrected"
       },
       "card_text": "تصحيح نقص البوتاسيوم واجب قبل جراحة تضيق البواب لسلامة التخدير.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تصحيح نقص البوتاسيوم واجب قبل جراحة تضيق البواب لسلامة التخدير. حرف C يذكرك بأولوية التصحيح الاستقلابي قبل الجراحة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Hypokalemia should be corrected",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hypokalemia should be corrected"
       },
       "pills": [
         "Pyloric stenosis: Correct hypokalemia before s"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Postop, subtotal colectomy, ICU, magnesium sulfate infusion ",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "May cause Hypercalcemia",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. مريضة تخضع للعلاج في وحدة العناية المركزة بعد استئصال جزئي للقولون. أظهرت نتائج فحص الدم أن مستوى الفوسفات هو 0.25 مليمول/لتر. أي منالعبارات التالية المتعلقة بالفوسفات الوريدي غير صحيحة؟ أمامك هذه الخيارات: May cause Hypercalcemia، أو Should never be given at rate greater than 30 mmol over 6 hours، أو Should preferentially be given via a central line، أو May cause metastatic calcification، أو Should be used even if the patient is asymptomatic. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "May cause Hypercalcemia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "May cause Hypercalcemia",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "تسريب كبريتات المغنيسيوم قد يرفع الكالسيوم أيضًا بتفاعلات كهرلية معقدة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تسريب كبريتات المغنيسيوم قد يرفع الكالسيوم أيضًا بتفاعلات كهرلية معقدة. حرف M و C يذكرانك بهذا التفاعل الكهرلي المحتمل."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. May cause Hypercalcemia",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Mg infusion, ICU: May raise Calcium too"
       ],

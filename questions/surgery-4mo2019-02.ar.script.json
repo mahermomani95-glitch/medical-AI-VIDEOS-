@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Prevalence — what it measures",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Proportion of individuals in a population having a disease",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الانتشار هو معيار لـ أمامك هذه الخيارات: Incidence rate، أو Mortality rate، أو Birth rate، أو Proportion of individuals in a population having a disease، أو Disease probability. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Proportion of individuals in a populat",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Proportion of individuals in a population having a disease",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "معدل الانتشار هو صورة لحظية: نسبة السكان المصابين بمرض معين في وقت محدد، تجمع الحالات القديمة والجديدة معًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. معدل الانتشار هو صورة لحظية: نسبة السكان المصابين بمرض معين في وقت محدد، تجمع الحالات القديمة والجديدة معًا. كلمة Prevalence قريبة من Present (حاضر)، للتذكير بأنها تقيس كل الحالات الموجودة حاليًا وليس الحالات الجديدة فقط."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Proportion of individuals in a population having",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Prevalence = Present total\""
       ],

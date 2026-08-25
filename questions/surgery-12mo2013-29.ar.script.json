@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause of constipation",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Inadequate dietary fiber and fluids",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا للإمساك هو؟ أمامك هذه الخيارات: Slow transit constipation، أو Hypothyroidism، أو Rectocele، أو Obstruction from colorectal cancer، أو Inadequate dietary fiber and fluids. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Inadequate dietary fiber and fluids",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Inadequate dietary fiber and fluids",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "نقص الألياف والسوائل هو السبب الأشيع للإمساك عمومًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نقص الألياف والسوائل هو السبب الأشيع للإمساك عمومًا. حرف F المزدوج يربط الألياف والسوائل بموقعهما كالسبب الأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Inadequate dietary fiber and fluids",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Constipation: mostly from low Fiber and Fluids"
       ],

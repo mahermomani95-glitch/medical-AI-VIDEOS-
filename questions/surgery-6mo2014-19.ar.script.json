@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "NOT part of Hesselbach triangle",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pubic tubercle"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يشكل المثلث الإربي (هسلباخ)؟ أمامك هذه الخيارات: Rectus abdominis medially، أو Inguinal ligament، أو Pubic tubercle، أو Inferior epigastric vessels. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pubic tubercle",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pubic tubercle"
       },
       "card_text": "الحدبة العانية ليست أحد الحدود الثلاثة الحقيقية لمثلث هيسلباخ.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الحدبة العانية ليست أحد الحدود الثلاثة الحقيقية لمثلث هيسلباخ. حرف P المزدوج يذكرك أن هذه البنية خارج حدود المثلث الثلاثة."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "C. Pubic tubercle",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pubic tubercle"
       },
       "pills": [
         "Hesselbach triangle: doesn't include the Pubic"

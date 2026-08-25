@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Least common cause, RIF pain in pregnant woman",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Adenopathy",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. ما هو السبب الأقل شيوعاً لألم الحفرة الحرقفية اليمنى عند المرأة الحامل؟ أمامك هذه الخيارات: Acute appendicitis، أو Ectopic pregnancy، أو Right acute pyelonephritis، أو Adenopathy، أو Twisting ovarian cyst. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Adenopathy",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Adenopathy",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اعتلال العقد اللمفاوية سبب نادر نسبيًا لهذا الألم مقارنة بأسباب أخرى.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اعتلال العقد اللمفاوية سبب نادر نسبيًا لهذا الألم مقارنة بأسباب أخرى. حرف A المزدوج يذكرك أن هذا السبب هو الأقل شيوعًا بين القائمة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Adenopathy",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "RIF pain in pregnancy: Adenopathy is Atypical "
       ],

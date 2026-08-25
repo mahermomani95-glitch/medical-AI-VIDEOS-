@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "2 days post-MVC, 30yo, otherwise recovering, next step (impl",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Operative exploration"
       },
       "narration": "لنبدأ بهذا السؤال. بعد يومين من حادث سيارة، يتعافى رجل في الثلاثين من عمره، يتمتع بصحةجيدة، في وحدة العناية المركزة من كسور في الضلع الأيمن، ونزيف داخلالبطن، وكدمة رئوية دون استرواح صدري، وتمزق في الكبد. يشكو من ألممتزايد في الربع العلوي الأيمن من البطن، ويتقيأ دمًا أحمر فاتحًا. أظهرالتقييم المُركّز بالموجات فوق الصوتية للصدمات عدم وجود انصباب تاموري،ولكن كمية كبيرة من السوائل الحرة داخل الصفاق. أي من الطرق التالية هوالأفضل؟ أمامك هذه الخيارات: Operative exploration، أو Admission for serial hematocrits، أو Discharge home with close follow-up ) D. ERCP with sphincterotomy، أو Retrograde cystourethrography. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Operative exploration",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Operative exploration"
       },
       "card_text": "تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر. حرف D و E يذكرانك بضرورة التدخل الجراحي الفوري بهذا السيناريو."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "A. Operative exploration",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Operative exploration"
       },
       "pills": [
         "Delayed post-trauma deterioration: Demands Exp"

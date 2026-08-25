@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "10 food poisoning cases, 2 developed [severe symptoms], conc",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pathogenicity",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تم الإبلاغ عن عشر حالات تسمم غذائي في المستشفى، ظهرت على حالتينمنها أعراض متوسطة في الجهاز الهضمي، وأربع حالات جفاف متوسط ​​لكنهمتعافوا، وحالتان متأثرتان بالمرض. السمة المميزة للتسمم الغذائي الذي يسببأشد أنواع المرض هي:؟ أمامك هذه الخيارات: Infectivity، أو Resistibility، أو Transmission، أو Communicability، أو Pathogenicity. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pathogenicity",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pathogenicity",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "تفاوت شدة المرض بين المتعرضين لنفس المصدر يوضح مفهوم الإمراضية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تفاوت شدة المرض بين المتعرضين لنفس المصدر يوضح مفهوم الإمراضية. حرف P المزدوج يذكرك بهذا المفهوم الوبائي الموضح بالسيناريو."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Pathogenicity",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Variable illness among exposed: illustrates Pa"
       ],

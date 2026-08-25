@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Preoperative management, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Patients should stop taking their regular antihypertensive drugs on the day of surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالإدارة قبل الجراحة، جميع الجمل صحيحة باستثناء؟ (سؤال مكرر، راجع السؤال رقم 466) أمامك هذه الخيارات: A recent myocardial infarction is the most important risk factor for perioperative myocardial infarction، أو Patients should stop taking their regular antihypertensive drugs on the day of surgery، أو History and examination alone are usually sufficient in evaluating the risk of bleeding، أو Low molecular weight heparin is used in venous thromboembolism prophylaxis، أو Poorly controlled blood sugar in the pre-operative period increases the risk for surgical site infection. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Patients should stop taking their regu",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Patients should stop taking their regular antihypertensive drugs on the day of surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "مثبطات الإنزيم المحول تُوقف عادة قبل الجراحة لخطر هبوط الضغط.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مثبطات الإنزيم المحول تُوقف عادة قبل الجراحة لخطر هبوط الضغط. حرف A و C يذكرانك بضرورة إيقاف هذا الدواء قبل الجراحة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Patients should stop taking their regular antihy",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "ACE inhibitors: Are Ceased before surgery, not"
       ],

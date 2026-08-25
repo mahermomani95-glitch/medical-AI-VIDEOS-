@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause of late death in burn patients",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Sepsis"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا للوفاة المتأخرة لدى مرضى الحروق هو أمامك هذه الخيارات: Sepsis، أو Hypovolemia، أو Contractures، أو Neurogenic shock، أو Hypothermia. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Sepsis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Sepsis"
       },
       "card_text": "بعد اجتياز أزمة السوائل الأولى، يصبح الإنتان الناتج عن عدوى جرح الحرق هو القاتل الأول خلال الأسابيع التالية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بعد اجتياز أزمة السوائل الأولى، يصبح الإنتان الناتج عن عدوى جرح الحرق هو القاتل الأول خلال الأسابيع التالية. الموت المبكر بعد الحرق سببه فقد السوائل (نقص حجم)، بينما الموت المتأخر سببه الإنتان الناتج عن عدوى جرح الحرق الواسع."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Sepsis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Sepsis"
       },
       "pills": [
         "\"Early death = fluid loss, Late death = Sepsis"

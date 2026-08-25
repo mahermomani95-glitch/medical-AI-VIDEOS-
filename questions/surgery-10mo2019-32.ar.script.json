@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Seizure + eyes open only to pain + mumbling + cannot localiz",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Intubation and ventilation"
       },
       "narration": "لنبدأ بهذا السؤال. انهارت فتاة تبلغ من العمر 19 عامًا في حفل موسيقي، وشُوهدت وهي تعانيمن نوبة تشنجية ارتجاجية استمرت دقيقتين. عندما وصل المسعفون وسألوها،تمتمت، لكن لم يفهم أحد ما تقوله. فقط عندما ضغط المسعف على ظفرها،فتحت عينيها، لكنها لم تستطع مد يدها الأخرى لفرك ظفرها ثم دفعه بعيدًا. ماهي الخطوة التالية الأنسب في العلاج؟ أمامك هذه الخيارات: Brain CT scan، أو Skull X-ray، أو Intubation and ventilation، أو Emergency craniotomy، أو IV fluid therapy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Intubation and ventilation",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Intubation and ventilation"
       },
       "card_text": "فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء. عندما لا يستطيع المريض توطين الألم (فقط ينسحب أو لا يستجيب حركيًا بشكل هادف)، مع فتح عين للألم فقط وكلام غير مفهوم، يكون المجموع منخفضًا بما يكفي (≤8) ليستدعي تأمين مجرى الهواء فورًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Intubation and ventilation",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Intubation and ventilation"
       },
       "pills": [
         "\"GCS ≤8 = protect the airway (intubate)\""

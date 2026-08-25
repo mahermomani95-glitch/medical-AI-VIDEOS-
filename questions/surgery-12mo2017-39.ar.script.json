@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Skin cancers, EXCEPT (repeat BCC vs SCC growth rate)",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "BCC are faster growing than SCC",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بسرطان الجلد صحيحة باستثناء؟ أمامك هذه الخيارات: BCC are faster growing than SCC، أو Malignant melanoma is the most aggressive skin tumors، أو SCC is often seen in areas exposed to sunlight such as a scalp and face، أو Rodent ulcer is a BCC، أو Marjolin ulcer is a SCC. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "BCC are faster growing than SCC",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "BCC are faster growing than SCC",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "السرطانة القاعدية تنمو أبطأ من الحرشفية، لا أسرع.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. السرطانة القاعدية تنمو أبطأ من الحرشفية، لا أسرع. حرف S المزدوج يذكرك بالاتجاه الصحيح لمقارنة سرعة النمو."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. BCC are faster growing than SCC",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "BCC: grows Slower than SCC"
       ],

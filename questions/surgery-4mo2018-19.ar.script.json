@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "TIA + carotid stenosis 80%",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Carotid endarterectomy",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 60 عامًا يُصاب بنوبة نقص تروية عابرة، وأظهر فحصبالموجات فوق الصوتية للشريان السباتي تضيقًا بنسبة 80%. الخطوة التاليةالمناسبة هي: أمامك هذه الخيارات: Plavix، أو ASA، أو Warfarin، أو Carotid endarterectomy، أو Observation. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Carotid endarterectomy",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Carotid endarterectomy",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التضيق السباتي الشديد المصحوب بأعراض (نوبات إقفارية عابرة) يعني وجوب استئصال اللويحة جراحيًا الآن.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التضيق السباتي الشديد المصحوب بأعراض (نوبات إقفارية عابرة) يعني وجوب استئصال اللويحة جراحيًا الآن. حرف S المتكرر في Symptomatic و Severe و Surgery للتذكير بأن اجتماع الأعراض مع التضيق الشديد (فوق 70%) يستوجب التدخل الجراحي مباشرة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Carotid endarterectomy",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Symptomatic + severe = surgery\""
       ],

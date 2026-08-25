@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Drug for Pseudomembranous colitis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Metronidazole"
       },
       "narration": "لنبدأ بهذا السؤال. يستخدم أحد الأدوية التالية لعلاج التهاب القولون الغشائي الكاذب؟ أمامك هذه الخيارات: Cephalosporins (Cefixime)، أو Clindamycin، أو Penicillins، أو Metronidazole، أو Fluoroquinolones (Ciprofloxacin). لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Metronidazole",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Metronidazole"
       },
       "card_text": "الميترونيدازول يستهدف المطثية العسيرة المسببة للالتهاب الغشائي الكاذب.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الميترونيدازول يستهدف المطثية العسيرة المسببة للالتهاب الغشائي الكاذب. حرف M المزدوج يربط هذا الدواء بعلاجه لهذه الحالة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Metronidazole",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Metronidazole"
       },
       "pills": [
         "Pseudomembranous colitis: treated with Metroni"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best screening method, DDH in infants",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "U/S",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أفضل طريقة لفحص خلل التنسج النمائي للورك عند الرضع هي؟ أمامك هذه الخيارات: X-ray، أو Bone scan، أو U/S، أو MRI، أو CT scan. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "U/S",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "U/S",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك بالرضع.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك بالرضع. حرف U يذكرك بملاءمة هذا الفحص لعظام الرضيع غير المتعظمة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. U/S",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "DDH screening in infants: Ultrasound preferred"
       ],

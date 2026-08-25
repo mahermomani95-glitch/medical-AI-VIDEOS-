@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Portal hypertension complication requiring surgery in >25% o",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Variceal hemorrhage"
       },
       "narration": "لنبدأ بهذا السؤال. أي من مضاعفات ارتفاع ضغط الوريد البابي غالبًا ما تتطلب تدخلًا جراحيًا لأكثر من 25% من المرضى؟ أمامك هذه الخيارات: Hypersplenism، أو Variceal hemorrhage، أو Ascites، أو Encephalopathy، أو Hemorrhoids. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Variceal hemorrhage",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Variceal hemorrhage"
       },
       "card_text": "نزف الدوالي مهدد للحياة ويفشل السيطرة عليه تنظيريًا في نسبة كبيرة، مما يدفع نسبة معتبرة من المرضى نحو إجراءات تحويلة جراحية أو شعاعية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نزف الدوالي مهدد للحياة ويفشل السيطرة عليه تنظيريًا في نسبة كبيرة، مما يدفع نسبة معتبرة من المرضى نحو إجراءات تحويلة جراحية أو شعاعية. من بين كل مضاعفات ارتفاع الضغط البابي (فرط الطحالة، الاستسقاء، اعتلال الدماغ، البواسير)، يبقى نزف الدوالي هو الأكثر استدعاءً لتدخل جراحي أو شعاعي تدخلي بنسبة عالية من الحالات."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Variceal hemorrhage",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Variceal hemorrhage"
       },
       "pills": [
         "\"Variceal hemorrhage = highest surgical interv"

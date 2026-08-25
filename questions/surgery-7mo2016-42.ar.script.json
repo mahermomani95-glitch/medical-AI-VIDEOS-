@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most useful lab test, assess bleeding risk/response to thera",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Bleeding time",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الاختبار المعملي الأكثر فائدة لتقييم خطر النزيف والاستجابة للعلاج فيالمرضى الذين يعانون من داء البولينا هو؟ أمامك هذه الخيارات: Bleeding time، أو Platelet count، أو INR، أو PTT، أو Thrombin time. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Bleeding time",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Bleeding time",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "زمن النزف يقيّم الوظيفة الفعلية للصفيحات لا عددها فقط.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. زمن النزف يقيّم الوظيفة الفعلية للصفيحات لا عددها فقط. حرف B المزدوج يربط هذا الفحص بتقييمه الوظيفي الحقيقي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Bleeding time",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Platelet function assessment: Bleeding time"
       ],

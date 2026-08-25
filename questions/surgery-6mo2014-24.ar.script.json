@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Extra adrenal pheochromocytomas predominantly secrete",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Norepinephrine"
       },
       "narration": "لنبدأ بهذا السؤال. تفرز أورام القواتم الكظرية الإضافية بشكل رئيسي؟ أمامك هذه الخيارات: Epinephrine، أو Norepinephrine، أو Dopamine، أو Metanephrine، أو Vanillymandelic acid. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Norepinephrine",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Norepinephrine"
       },
       "card_text": "أورام القواتم خارج الكظرية تفرز نورإبينفرين مهيمن بخلاف الكظرية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. أورام القواتم خارج الكظرية تفرز نورإبينفرين مهيمن بخلاف الكظرية. حرف N المزدوج يربط هذا الموقع بإفرازه الهرموني المميز."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Norepinephrine",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Norepinephrine"
       },
       "pills": [
         "Extra-adrenal pheo: secretes Norepinephrine ma"

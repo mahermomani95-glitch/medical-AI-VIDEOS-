@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Earliest cell type involved, wound healing",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Platelets"
       },
       "narration": "لنبدأ بهذا السؤال. أقدم نوع من الخلايا شارك في التئام الجروح؟ أمامك هذه الخيارات: PMNS، أو Macrophages، أو Platelets، أو Lymphocytes، أو Fibroblasts. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Platelets",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Platelets"
       },
       "card_text": "الصفيحات هي أول نوع خلوي يتدخل ببدء عملية التئام الجرح.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الصفيحات هي أول نوع خلوي يتدخل ببدء عملية التئام الجرح. حرف P المزدوج يربط الصفيحات بموقعها كأول خلية متدخلة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Platelets",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Platelets"
       },
       "pills": [
         "Wound healing: Platelets arrive first"

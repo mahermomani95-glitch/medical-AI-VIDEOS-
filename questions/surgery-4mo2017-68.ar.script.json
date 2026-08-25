@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "65yo, jejunal entero-cutaneous fistula, treatment fluid",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ringer lactate"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 65 عامًا يعاني من ناسور معوي جلدي ينشأ من الصائم،ويعاني من مرض التهاب الأمعاء، أي مما يلي سيكون الاستبدال الأكثر ملاءمةلخسائره؟ أمامك هذه الخيارات: DW5%، أو N/S 3%، أو Ringer lactate، أو 0.9% sodium chloride، أو 6% sodium bicarbonate solution. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Ringer lactate",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ringer lactate"
       },
       "card_text": "رينغر لاكتات يعوض الفقد السائل الغني بالكهارل من ناسور صائمي عالي الإخراج.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. رينغر لاكتات يعوض الفقد السائل الغني بالكهارل من ناسور صائمي عالي الإخراج. حرف R المزدوج يذكرك بهذا المحلول الأنسب لهذا النوع من الفقد."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Ringer lactate",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ringer lactate"
       },
       "pills": [
         "Jejunal fistula losses: Replace with Ringer la"

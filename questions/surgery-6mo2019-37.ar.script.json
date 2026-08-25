@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "8-month-old + growing strawberry hemangioma since 3 weeks af",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Observation",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أحضرت أم طفل يبلغ من العمر 8 أشهر لفحصه بسبب ورم وعائي على شكلفراولة بحجم 3 سم في الرقبة، وذكرت أن الآفة ظهرت بعد 3 أسابيع من الولادةوازداد حجمها، وأفضل علاج هو أمامك هذه الخيارات: Systemic steroid therapy، أو Laser، أو Surgical excision، أو Ebmolization، أو Observation. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Observation",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Observation",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الأورام الوعائية الدموية عند الرضّع تنمو لأشهر ثم تتراجع تلقائيًا بشكل موثوق — الإدارة الافتراضية هي المراقبة الحذرة وليس التدخل.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الأورام الوعائية الدموية عند الرضّع تنمو لأشهر ثم تتراجع تلقائيًا بشكل موثوق — الإدارة الافتراضية هي المراقبة الحذرة وليس التدخل. الأورام الوعائية الدموية عند الرضّع تمر بمرحلة نمو تليها مرحلة تراجع تلقائي (involution) خلال سنوات الطفولة الأولى، لذلك المراقبة هي الإدارة الافتراضية في الحالات غير المعقدة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Observation",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Infantile hemangioma = grows then involutes o"
       ],

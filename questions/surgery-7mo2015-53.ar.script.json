@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Treatment of choice, severe burn with myoglobinuria",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fluid resuscitation and bicarb"
       },
       "narration": "لنبدأ بهذا السؤال. العلاج المختار للحروق الشديدة المصحوبة ببيلة ميوغلوبينية هو؟ أمامك هذه الخيارات: Broad spectrum antibiotic، أو Inotropic support، أو Fluid resuscitation and bicarb، أو Lasix. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Fluid resuscitation and bicarb",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fluid resuscitation and bicarb"
       },
       "card_text": "الإنعاش بالسوائل مع البيكربونات يحمي الكلى من ترسب الميوغلوبين.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الإنعاش بالسوائل مع البيكربونات يحمي الكلى من ترسب الميوغلوبين. حرف F و B يذكرانك بالثنائي العلاجي الحامي للكلى."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "C. Fluid resuscitation and bicarb",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fluid resuscitation and bicarb"
       },
       "pills": [
         "Burn + myoglobinuria: Fluids plus Bicarb"

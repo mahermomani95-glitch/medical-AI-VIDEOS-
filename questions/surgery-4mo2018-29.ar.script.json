@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Anuria post-op — EXCEPT (prerenal criteria)",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Urine osmolality = 200 mosm/ L"
       },
       "narration": "لنبدأ بهذا السؤال. توقف مريض عن إنتاج البول بعد الجراحة. جميع القيم التالية متوافقة معالفشل الكلوي السابق باستثناء: أمامك هذه الخيارات: Urine Na 5 meq/L، أو BUN/cr ratio 35، أو Fe Na = 0.3%، أو Urine osmolality = 200 mosm/ L، أو Urine specific gravity = 1.050. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urine osmolality = 200 mosm/ L",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Urine osmolality = 200 mosm/ L"
       },
       "card_text": "الفشل الكلوي قبل الكلوي يعني أن الكلية تعمل بجهد للاحتفاظ بكل شيء، فينتج بول مركّز وليس مخففًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الفشل الكلوي قبل الكلوي يعني أن الكلية تعمل بجهد للاحتفاظ بكل شيء، فينتج بول مركّز وليس مخففًا. حرف P المشترك في Prerenal و Precious (ثمين) للتذكير بأن الكلية ‘تدّخر' الصوديوم والماء، فينتج بول مركّز قليل الصوديوم — وليس بولًا مخففًا منخفض الأسمولية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Urine osmolality = 200 mosm/ L",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Urine osmolality = 200 mosm/ L"
       },
       "pills": [
         "\"Prerenal = Precious urine (concentrated, low "

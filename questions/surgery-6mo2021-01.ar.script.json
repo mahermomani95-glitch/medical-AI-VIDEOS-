@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Burn admission criteria — NOT indicated",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Partial-thickness burns more than 10% "
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Full-thickness burns more than 5% of total body surface area (TBSA)، أو Partial-thickness burns more than 10% in adultsb، أو Partial-thickness burns more than 10% in children، أو Inhalations burns، أو Electric burns. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Partial-thickness burns more than 10% ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Partial-thickness burns more than 10% "
       },
       "card_text": "الحروق الجزئية السماكة فوق 10% عند البالغين هي فعليًا استطباب للقبول — هذه العبارة صحيحة، مما يجعلها الاستثناء لـ\"ليست استطبابًا\".",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الحروق الجزئية السماكة فوق 10% عند البالغين هي فعليًا استطباب للقبول — هذه العبارة صحيحة، مما يجعلها الاستثناء لـ\"ليست استطبابًا\". معايير القبول للحروق تشمل: الحروق الكاملة السماكة فوق 5%، الجزئية فوق 10% بالبالغين أو فوق أي نسبة صغيرة بالأطفال، حروق الاستنشاق، والحروق الكهربائية — كلها استطبابات حقيقية للقبول."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Partial-thickness burns more than 10% in adultsb",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Partial-thickness burns more than 10% "
       },
       "pills": [
         "\"Partial-thickness >10% adults = DOES need adm"

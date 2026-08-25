@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Elective surgery + arrhythmia on warfarin — correct approach",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Replace it with LMWH 5 days before surgery and stop warfarin",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Surgery can be done directly، أو If PT is normal, stop warfarin at night before surgery and do it، أو Replace it with LMWH 5 days before surgery and stop warfarin، أو If PTT is normal, stop warfarin at night before surgery and do it، أو Stop warfarin the night before surgery. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Replace it with LMWH 5 days before sur",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Replace it with LMWH 5 days before surgery and stop warfarin",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة. عند مريض بحاجة لمضاد تخثر مستمر (كالرجفان الأذيني)، يُستبدَل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بحوالي 5 أيام، للسماح لـ INR بالتطبيع دون ترك المريض دون حماية من التخثر."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Replace it with LMWH 5 days before surgery and s",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Bridge with LMWH, stop warfarin 5 days before"
       ],

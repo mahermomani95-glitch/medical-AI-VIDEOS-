@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "LES pressure, rest and during swallow",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "15-35 mmHg and 5-10 mmHg",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. ضغط المريء السفلي في حالة الراحة وأثناء البلع عند الشخص الطبيعي هو؟ أمامك هذه الخيارات: 60-70 mmHg and 10-15 mmHg، أو 10-15 mmHg and 50-70 mmHg، أو 15-35 mmHg and 5-10 mmHg، أو 0-5 mmHg and 10-15 mmHg. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "15-35 mmHg and 5-10 mmHg",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "15-35 mmHg and 5-10 mmHg",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "ضغط العضلة العاصرة السفلية 15-35 بالراحة وينخفض لـ5-10 أثناء البلع.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ضغط العضلة العاصرة السفلية 15-35 بالراحة وينخفض لـ5-10 أثناء البلع. القيمتان المتتاليتان تذكرانك بحالتي الراحة والبلع المختلفتين."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. 15-35 mmHg and 5-10 mmHg",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "LES pressure: Fifteen-thirty-five Rest, Five-t"
       ],

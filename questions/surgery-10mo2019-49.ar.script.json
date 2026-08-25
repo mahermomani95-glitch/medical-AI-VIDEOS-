@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "No sensation below the nipple line — spinal cord injury leve",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "T4 level"
       },
       "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 50 عامًا حضرت إلى قسم الطوارئ كحالة طارئة. بالفحص السريري، وُجد أنها لا تشعر بأي إحساس أسفل خط الحلمة. منالمرجح أن يكون مستوى إصابة الحبل الشوكي أمامك هذه الخيارات: C4 level، أو C8 level، أو T1 level، أو T4 level، أو T10 level. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "T4 level",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "T4 level"
       },
       "card_text": "خط الحلمة يقابل الدرماتوم T4 — معلم مهم لتحديد مستوى الإصابة النخاعية أثناء الفحص السريري.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. خط الحلمة يقابل الدرماتوم T4 — معلم مهم لتحديد مستوى الإصابة النخاعية أثناء الفحص السريري. من المعالم الجلدية الحسية الأساسية الواجب حفظها: خط الحلمة يقابل T4، السرة تقابل T10 — تُستخدم لتحديد مستوى الإصابة النخاعية سريريًا بسرعة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. T4 level",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "T4 level"
       },
       "pills": [
         "\"T4 at the nipples\""

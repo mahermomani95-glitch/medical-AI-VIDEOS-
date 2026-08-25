@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common blood transfusion reaction",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Febrile reaction",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. رد فعل نقل الدم الأكثر شيوعًا هو أمامك هذه الخيارات: Clerical error، أو ABO incompatibility، أو Delayed hemolysis، أو Febrile reaction، أو Transfusion related acute lung injury. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Febrile reaction",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Febrile reaction",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التفاعل الحموي غير الانحلالي الناتج عن السيتوكينات المتبقية من الكريات البيض هو أشيع تفاعل نقل دم على الإطلاق.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التفاعل الحموي غير الانحلالي الناتج عن السيتوكينات المتبقية من الكريات البيض هو أشيع تفاعل نقل دم على الإطلاق. حرف F المشترك في Febrile و Frequent (متكرر) للتذكير بأن التفاعل الحموي غير الانحلالي هو الأشيع بين كل تفاعلات نقل الدم."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Febrile reaction",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Febrile = Frequent\""
       ],

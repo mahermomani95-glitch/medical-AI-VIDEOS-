@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "First symptom of compartment syndrome",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain upon passive movement"
       },
       "narration": "لنبدأ بهذا السؤال. أول أعراض متلازمة الحيز هي أمامك هذه الخيارات: Weakness، أو Paralysis، أو Pain upon passive movement، أو Paresthesia، أو Pallor. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pain upon passive movement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain upon passive movement"
       },
       "card_text": "الألم غير المتناسب مع الإصابة، والمتفاقم بالتمدد السلبي، هو أول وأحسس علامة تحذيرية لمتلازمة الحيز.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الألم غير المتناسب مع الإصابة، والمتفاقم بالتمدد السلبي، هو أول وأحسس علامة تحذيرية لمتلازمة الحيز. من بين الخمسة Ps ، الألم (خصوصًا عند التمدد السلبي للعضلة) هو دائمًا العلامة الأولى والأكثر حساسية للتشخيص المبكر."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Pain upon passive movement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain upon passive movement"
       },
       "pills": [
         "\"Pain on passive stretch = the earliest 5 P\""

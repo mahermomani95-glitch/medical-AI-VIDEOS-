@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Shunt infection treatment, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Immdediate replacement of shunt"
       },
       "narration": "لنبدأ بهذا السؤال. يشمل علاج عدوى التحويلة كل ما يلي باستثناء؟ أمامك هذه الخيارات: Intraventricular antibiotic، أو Systemic antibiotic، أو Immdediate replacement of shunt، أو External drainage، أو Removal of infected shunt. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Immdediate replacement of shunt",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Immdediate replacement of shunt"
       },
       "card_text": "لا يُستبدل التحويلة المصابة فورًا، بل تُعالج العدوى أولاً.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. لا يُستبدل التحويلة المصابة فورًا، بل تُعالج العدوى أولاً. حرف S المزدوج يذكرك بضرورة السيطرة على العدوى أولاً."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Immdediate replacement of shunt",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Immdediate replacement of shunt"
       },
       "pills": [
         "Shunt infection: Sequence matters, Sterilize b"

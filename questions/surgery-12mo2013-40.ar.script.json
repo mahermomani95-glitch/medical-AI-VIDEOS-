@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Etiology of anal fistula",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anal gland infection"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل أسباب الناسور الشرجي ما يلي:؟ أمامك هذه الخيارات: Anal gland infection، أو Ulcerative colitis، أو Ischemic colitis، أو Anal warts، أو Levator ani syndrome. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Anal gland infection",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anal gland infection"
       },
       "card_text": "عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية. حرف G المزدوج يربط العدوى الغدية بموقعها كالمنشأ الأشيع."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Anal gland infection",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anal gland infection"
       },
       "pills": [
         "Anal fistula: mostly from Gland infection"

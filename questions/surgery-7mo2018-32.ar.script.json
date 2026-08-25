@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Tetanus — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Culture is essential for diagnosis"
       },
       "narration": "لنبدأ بهذا السؤال. الكزاز، كلها صحيحة ما عدا أمامك هذه الخيارات: Tetanus is a serious toxin-mediated disease، أو Tetanus is with a mortality of up to 50% in adults، أو Gram-positive anaerobic organism، أو Culture is essential for diagnosis، أو Causes diffuse muscle rigidity. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Culture is essential for diagnosis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Culture is essential for diagnosis"
       },
       "card_text": "الكزاز تشخيص سريري بحت — الزرع غير موثوق وغير ضروري للتشخيص.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الكزاز تشخيص سريري بحت — الزرع غير موثوق وغير ضروري للتشخيص. يُشخَّص الكزاز سريريًا بالكامل بناءً على التشنجات المميزة والقصة المرضية، ولا يُعتمد على الزرع الذي غالبًا ما يكون سلبيًا حتى في حالات مؤكدة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Culture is essential for diagnosis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Culture is essential for diagnosis"
       },
       "pills": [
         "\"Tetanus = Clinical diagnosis, not culture\""

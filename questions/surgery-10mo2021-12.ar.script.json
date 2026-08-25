@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Differentiating branchial cyst from cold abscess",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Contains cholesterol crystals",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يُفرَّق الكيس الغلصمي (الخيشومي) عن الخراج البارد بشكل أفضل بواسطة: أمامك هذه الخيارات: Fluctuation، أو Transillumination، أو Contains cholesterol crystals، أو Contains blood، أو Location as midline swelling. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Contains cholesterol crystals",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Contains cholesterol crystals",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "سحب بلورات كوليسترول من السائل موجود نوعي يؤكد كيس الشق الخيشومي، ويميّزه عن الخراج البارد (السلي).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. سحب بلورات كوليسترول من السائل موجود نوعي يؤكد كيس الشق الخيشومي، ويميّزه عن الخراج البارد (السلي). وجود بلورات كوليسترول في السائل المسحوب من كتلة رقبية جانبية هو الدليل المخبري النوعي الذي يؤكد كيس الشق الخيشومي ويميّزه عن الخراج البارد."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Contains cholesterol crystals",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Cholesterol crystals = Branchial cyst signatu"
       ],

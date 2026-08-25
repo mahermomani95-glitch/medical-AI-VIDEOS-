@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Long-term warfarin monitoring test",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Prothrombin Time",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 35 عامًا إلى قسم الطوارئ تعاني من تورم فيساقها اليمنى واحمرار لمدة 3 أيام قبل موعدها. خضعت لفحص دوبلر بالموجاتفوق الصوتية، وشُخِّصت بإصابتها بتخثر وريدي عميق، ووُصف لها علاجوارفارين طويل الأمد. أفضل فحص لمتابعة المريضة خلال فترة علاجهابالوارفارين طويل الأمد هو: أمامك هذه الخيارات: Bleeding time، أو Partial Thromboplastin Time، أو Cloting Time، أو Prothrombin Time، أو platelets Count. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Prothrombin Time",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Prothrombin Time",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الوارفارين يثبط العوامل المعتمدة على فيتامين K التي تغذي المسار الخارجي — يُقاس بزمن البروثرومبين (INR).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الوارفارين يثبط العوامل المعتمدة على فيتامين K التي تغذي المسار الخارجي — يُقاس بزمن البروثرومبين (INR). قاعدة الحفظ الأشهر: الوارفارين يُتابَع بزمن البروثرومبين (PT/INR)، بينما الهيبارين يُتابَع بزمن الثرومبوبلاستين الجزئي (PTT)."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Prothrombin Time",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Warfarin = PT/INR, Heparin = PTT\""
       ],

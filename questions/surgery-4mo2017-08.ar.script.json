@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Palpable radial pulse indicates systolic BP greater than",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "80 mmhg",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يشير النبض الشعاعي الملموس إلى ضغط دم انقباضي أكبر من؟ أمامك هذه الخيارات: 40 mmhg، أو 60 mmhg، أو 80 mmhg، أو 100 mmhg، أو 120 mmhg. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "80 mmhg",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "80 mmhg",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "وجود نبض كعبري مجسوس يوحي بضغط انقباضي أعلى من 80 ملم زئبقي تقريبًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. وجود نبض كعبري مجسوس يوحي بضغط انقباضي أعلى من 80 ملم زئبقي تقريبًا. حرف E يذكرك بالرقم التقريبي المرتبط بهذا النبض المحدد."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. 80 mmhg",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Radial pulse palpable: BP above Eighty"
       ],

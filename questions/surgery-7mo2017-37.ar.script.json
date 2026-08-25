@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "9yo boy, burns to [body part], classification",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Superficial partial thickness burn"
       },
       "narration": "لنبدأ بهذا السؤال. نُقل طفل يبلغ من العمر تسع سنوات إلى قسم الطوارئ إثر إصابته بحروق فيجذعه قبل 40 دقيقة. أفادت والدته أنها كانت تطبخ وتشرب فنجانًا من القهوةبينما كان الطفل يلعب على طاولة المطبخ. بعد فترة، ذهبت إلى الحمام، وعندماعادت كان الطفل يصرخ ويبكي، وقد انسكبت القهوة على بيجامته. علاماتهالحيوية ضمن المعدلات الطبيعية. أظهر الفحص أن المريض يبكي من الألم. يوجد جرح أحمر غير مبيض، ذو مظهر رطب، مع بعض البثور سميكة الجدران،مؤلمة عند اللمس على صدره. لا توجد أي حروق أخرى على المريض. أي ممايلي هو التشخيص الأكثر احتمالًا.؟ أمامك هذه الخيارات: Deep partial-thickness burn، أو First degree burn، أو Full Thickness Burn، أو Superficial burn، أو Superficial partial thickness burn. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Superficial partial thickness burn",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Superficial partial thickness burn"
       },
       "card_text": "الوصف السريري بهذا السؤال يوافق حرقًا سطحيًا جزئي السماكة تحديدًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الوصف السريري بهذا السؤال يوافق حرقًا سطحيًا جزئي السماكة تحديدًا. حرف S يذكرك بهذه الدرجة المحددة الموافقة للوصف."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Superficial partial thickness burn",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Superficial partial thickness burn"
       },
       "pills": [
         "This burn description: matches Superficial par"

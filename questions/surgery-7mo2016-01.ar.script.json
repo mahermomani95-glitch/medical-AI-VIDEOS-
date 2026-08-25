@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Appropriate definition of shock",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Inadequate tissue perfusion",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي هو التعريف المناسب للصدمة؟ أمامك هذه الخيارات: Low blood pressure، أو Low cardiac output، أو Low circulating volumes، أو Inadequate tissue perfusion، أو Abnormal vascular resistance. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Inadequate tissue perfusion",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Inadequate tissue perfusion",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الصدمة تُعرَّف بنقص التروية النسيجية، لا انخفاض الضغط وحده.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الصدمة تُعرَّف بنقص التروية النسيجية، لا انخفاض الضغط وحده. حرف S و P يذكرانك بجوهر تعريف الصدمة النسيجي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Inadequate tissue perfusion",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Shock: Shortage of tissue Perfusion"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Pyloric stenosis metabolic abnormalities, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hyperkalemia"
       },
       "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتشوهات الأيضية في تضيق البواب، كلها صحيحة باستثناء؟ أمامك هذه الخيارات: Hyponatremia، أو Hypochloremia، أو Hyperkalemia، أو Primary metabolic alkalosis، أو Compensatory respiratory acidosis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hyperkalemia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hyperkalemia"
       },
       "card_text": "تضيق البواب يخفض البوتاسيوم بالقيء المستمر، لا يرفعه.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تضيق البواب يخفض البوتاسيوم بالقيء المستمر، لا يرفعه. حرف H المزدوج يذكرك أن الاتجاه الصحيح هو النقص لا الفرط."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Hyperkalemia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hyperkalemia"
       },
       "pills": [
         "Pyloric stenosis: Hypokalemia, not hyper"

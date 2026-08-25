@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "More associated with ulcerative colitis, NOT Crohn's",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crypt abscess"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Skip lesions، أو Crypt abscess، أو Stenosis، أو Involvement from mouth to anus، أو Cobblestone appearance. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Crypt abscess",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crypt abscess"
       },
       "card_text": "خراجات الخبايا تتشكل بالمخاطية الملتهبة باستمرار المميزة لالتهاب القولون التقرحي — موجود محدود بالمخاطية، بعكس نمط كرون كامل السماكة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. خراجات الخبايا تتشكل بالمخاطية الملتهبة باستمرار المميزة لالتهاب القولون التقرحي — موجود محدود بالمخاطية، بعكس نمط كرون كامل السماكة. خراجات الخبايا (Crypt abscesses) هي الموجود النسيجي المميز لالتهاب القولون التقرحي، مقابل الأورام الحبيبية والمخاطية الحصوية المميزة لكرون."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Crypt abscess",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crypt abscess"
       },
       "pills": [
         "\"Crypt abscess = UC's mucosal signature\""

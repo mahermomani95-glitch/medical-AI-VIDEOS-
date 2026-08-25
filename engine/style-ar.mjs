@@ -53,7 +53,12 @@ html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--i
 .split .box h3{font-family:Anton,Arial,sans-serif;font-size:34px;margin:0 0 6px}
 .split .box p{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:24px;margin:6px 0 0;line-height:1.5}
 .vs-badge{align-self:center;font-family:Anton,Arial,sans-serif;background:var(--ink);color:var(--white);border-radius:999px;width:64px;height:64px;display:flex;align-items:center;justify-content:center;font-size:22px}
-.caption-bar{position:absolute;left:50%;bottom:56px;transform:translateX(-50%);background:var(--ink);color:var(--white);border:3px solid var(--ink);border-radius:999px;padding:16px 40px;font-family:Cairo,Arial,sans-serif;font-weight:800;font-size:26px;box-shadow:8px 8px 0 var(--pink);direction:rtl;white-space:nowrap}
+/* unicode-bidi:plaintext picks the base direction from the first strong
+   character of the text itself. Hard-coding direction:rtl here reversed
+   Latin-only captions -- "30 mL" rendered as "mL 30" -- and most captions in
+   this deck are English medical terms. plaintext keeps Arabic captions RTL
+   and English captions LTR without needing to tag each one. */
+.caption-bar{position:absolute;left:50%;bottom:56px;transform:translateX(-50%);background:var(--ink);color:var(--white);border:3px solid var(--ink);border-radius:999px;padding:16px 40px;font-family:Cairo,Arial,sans-serif;font-weight:800;font-size:26px;box-shadow:8px 8px 0 var(--pink);unicode-bidi:plaintext;white-space:nowrap}
 .badge-course{position:absolute;left:90px;bottom:56px;background:var(--white);border:3px solid var(--ink);border-radius:10px;padding:10px 22px;font-family:Anton,Arial,sans-serif;font-size:22px;box-shadow:6px 6px 0 var(--gold)}
 .pills{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px}
 .pill{background:var(--cyan);border:3px solid var(--ink);border-radius:999px;padding:10px 22px;font-family:Cairo,Arial,sans-serif;font-weight:700;font-size:22px}

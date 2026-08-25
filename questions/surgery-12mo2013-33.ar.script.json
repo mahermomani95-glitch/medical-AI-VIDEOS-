@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "NOT part of primary survey, trauma patient",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Deep cut wound exploration and suturing",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي من الخطوات التالية لا تعتبر جزءًا من المسح الأولي لمريض الصدمة؟ أمامك هذه الخيارات: Insuring adequate ventilatory support، أو Measurement of blood pressure and pulse، أو Neurologic evaluation، أو Protection of the cervical spine، أو Deep cut wound exploration and suturing. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Deep cut wound exploration and suturin",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Deep cut wound exploration and suturing",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي. حرف S المزدوج يذكرك أن هذا الإجراء يخص المسح الثانوي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Deep cut wound exploration and suturing",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Primary survey: Skips wound Suturing details"
       ],

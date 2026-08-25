@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most difficult transmission mode to prevent",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Airborne spread",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أصعب طريقة للانتقال يمكن الوقاية منها هي؟ أمامك هذه الخيارات: Person to person spread، أو Droplet spread، أو Vector spread، أو Vehicle spread، أو Airborne spread. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Airborne spread",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Airborne spread",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الانتشار عبر الهواء هو الأصعب منعًا بين طرق انتقال العدوى.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الانتشار عبر الهواء هو الأصعب منعًا بين طرق انتقال العدوى. حرف A المزدوج يذكرك بصعوبة السيطرة على هذا النمط."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Airborne spread",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hardest to prevent: Airborne spread"
       ],

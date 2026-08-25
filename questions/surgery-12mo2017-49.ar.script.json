@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Preoperative management, EXCEPT (repeat antihypertensives)",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Patients should stop taking their regular antihypertensive drugs on the day of surgery except for ACE inhibitors, ARBs, and Diuretics which must be continued",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالإدارة قبل الجراحة، جميع الجمل صحيحة باستثناء؟ أمامك هذه الخيارات: A recent MI is the most important risk factor to preoperative MI، أو Patients should stop taking their regular antihypertensive drugs on the day of surgery except for ACE inhibitors, ARBs, and Diuretics which must be continued، أو History and examination alone are usually sufficient in evaluating the risk of bleeding in healthy individuals، أو LMWH is used in venous thromboembolism prophylaxis، أو Poorly controlled blood sugar in the preoperative period increases the risk for surgical site infection. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Patients should stop taking their regu",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Patients should stop taking their regular antihypertensive drugs on the day of surgery except for ACE inhibitors, ARBs, and Diuretics which must be continued",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "معظم أدوية الضغط تُستمر قبل الجراحة، باستثناءات محددة فقط كمثبطات الإنزيم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. معظم أدوية الضغط تُستمر قبل الجراحة، باستثناءات محددة فقط كمثبطات الإنزيم. حرف C المزدوج يذكرك أن معظم الأدوية تُستمر لا تُوقف."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Patients should stop taking their regular antihy",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Preop antihypertensives: mostly Continued, not"
       ],

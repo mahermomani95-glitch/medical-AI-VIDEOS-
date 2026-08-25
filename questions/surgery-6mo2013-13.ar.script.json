@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Morphine side effects, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cough",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي من الآثار الجانبية للمورفين ما عدا:؟ أمامك هذه الخيارات: Nausea، أو Vomiting، أو Cough، أو Myosis، أو Respiratory depression. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cough",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Cough",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المورفين يُثبّط السعال، لا يسببه كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المورفين يُثبّط السعال، لا يسببه كما بالعبارة الخاطئة. حرف M المزدوج يذكرك أن المورفين يثبط لا يسبب السعال."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Cough",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Morphine: Muffles cough, doesn't cause it"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause, wound infection",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Staphylococcus aureus",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أصعب طريقة للانتقال يمكن الوقاية منها هي؟ أمامك هذه الخيارات: Streptoccuspyogen، أو E.coli، أو Bacteroidfragilis، أو Staphylococcus aureus، أو Staphylococcus epidemis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Staphylococcus aureus",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Staphylococcus aureus",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح. حرف S المزدوج يربط هذه الجرثومة بموقعها كالسبب الأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Staphylococcus aureus",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Wound infection: mostly Staph aureus"
       ],

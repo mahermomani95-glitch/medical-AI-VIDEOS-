@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Hemorrhoids — NOT true",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Pain is often associated with uncompli"
       },
       "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية غير صحيحة فيما يتعلق بالبواسير؟ أمامك هذه الخيارات: Hemorrhoids are specialized \"cushions\" present in everyone، أو External hemorrhoids are covered by skin whereas internal hemorrhoids are covered by mucosa، أو Pain is often associated with uncomplicated hemorrhoids، أو Hemorrhoidectomy is reserved for third and fourth degreehemorrhoids، أو Hemorrhoid is most common cause of lower Gl bleeding in middle age adults. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pain is often associated with uncompli",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Pain is often associated with uncompli"
       },
       "card_text": "البواسير غير المعقدة غير مؤلمة عادة — الألم غالبًا يشير لتخثر أو مضاعفة، وليس للبواسير البسيطة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. البواسير غير المعقدة غير مؤلمة عادة — الألم غالبًا يشير لتخثر أو مضاعفة، وليس للبواسير البسيطة. البواسير الداخلية غير المعقدة تفتقر للتعصيب الحسي الجسدي (فوق خط المسنن)، لذلك هي غير مؤلمة عادة ما لم تتعقد أو تتخثر أو تكن خارجية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Pain is often associated with uncomplicated hemo",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Pain is often associated with uncompli"
       },
       "pills": [
         "\"Uncomplicated hemorrhoids = usually painless\""

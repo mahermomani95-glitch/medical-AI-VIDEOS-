@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common organism — acute osteomyelitis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Staphylococcus aureus",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الكائن الدقيق المسبب الأكثر شيوعًا لالتهاب العظم والنقي الحاد هو أمامك هذه الخيارات: Streptococcus pyogenes، أو Staphylococcus aureus، أو Salmonella، أو E coli، أو Hemophilus influenzae. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Staphylococcus aureus",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Staphylococcus aureus",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المكورات العنقودية الذهبية هي الجرثومة الكلاسيكية المسببة لالتهاب العظم والنقي الحاد عند الأطفال والبالغين على حد سواء.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المكورات العنقودية الذهبية هي الجرثومة الكلاسيكية المسببة لالتهاب العظم والنقي الحاد عند الأطفال والبالغين على حد سواء. المكورات العنقودية الذهبية (Staph aureus) هي العدو رقم واحد للعظم في كل أعمار التهاب العظم والنقي الحاد."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Staphylococcus aureus",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Staph aureus = bone's #1 enemy\""
       ],

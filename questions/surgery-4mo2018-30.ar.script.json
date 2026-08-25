@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "GCS calculation — eyes to pain, mumbles, withdraws",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "8"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 25 عامًا تعرض لحادث سيارة، يفتح عينيه فقط للمحفزاتالمؤلمة، ولا يُكوّن كلمات بل يتمتم، وينسحب إلى الألم. أمامك هذه الخيارات: 10، أو 8، أو 7، أو 6، أو 4. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "8",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "8"
       },
       "card_text": "فتح العينين للألم (2) + أصوات غير مفهومة (2) + انسحاب للألم (4) = مجموع GCS يساوي 8.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فتح العينين للألم (2) + أصوات غير مفهومة (2) + انسحاب للألم (4) = مجموع GCS يساوي 8. جمع 2+2+4=8 سهل الحفظ، و GCS من 8 أو أقل هو الخط الفاصل الشهير الذي يستدعي التفكير بحماية مجرى الهواء (التنبيب)."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. 8",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "8"
       },
       "pills": [
         "\"2 + 2 + 4 = 8, the intubation line\""

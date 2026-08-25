@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Red man syndrome if given rapid IV",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vancomycin",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي من المضادات الحيوية التالية يمكن أن يسبب متلازمة الرجل الأحمر إذا تمإعطاؤه عن طريق الوريد السريع؟ أمامك هذه الخيارات: Clindamycin، أو Gentamicin، أو Levofloxacin، أو Vancomycin، أو Ciprofloxacin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Vancomycin",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vancomycin",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الفانكومايسين يسبب متلازمة الرجل الأحمر إن أُعطي وريديًا بسرعة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الفانكومايسين يسبب متلازمة الرجل الأحمر إن أُعطي وريديًا بسرعة. حرف R و V يذكرانك بالدواء والتفاعل النوعي المرتبطين."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Vancomycin",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Rapid IV: Reddens the man with Vancomycin"
       ],

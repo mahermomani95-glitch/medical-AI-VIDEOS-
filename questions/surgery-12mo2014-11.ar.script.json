@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Massive transfusion complications, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypercalcemia",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل مضاعفات نقل الدم الضخم كل ما يلي باستثناء؟ (سؤال مكرر، راجع السؤال رقم 160) أمامك هذه الخيارات: Acidosis، أو Coagulopathy، أو Hypercalcemia، أو Hypothermia، أو Coagulopathy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hypercalcemia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypercalcemia",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه. حرف H المزدوج يذكرك أن الاتجاه الصحيح هو النقص لا الفرط."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Hypercalcemia",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Massive transfusion: causes Hypocalcemia via c"
       ],

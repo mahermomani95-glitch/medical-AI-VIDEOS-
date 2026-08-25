@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Stab wound + ipsilateral weakness/vibration loss + contralat",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Brown-Séquard syndrome",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. نُقل مريض يبلغ من العمر 33 عامًا إلى قسم الطوارئ بعد طعنه في ظهره. يعاني من ألم في الرقبة، وشلل نصفي في الجانب الأيمن، وفقدان الإحساسبالاهتزاز في الأطراف اليمنى، وفقدان الإحساس بالألم والحرارة في الأطرافاليسرى. ما هو التشخيص الأكثر احتمالًا؟ أمامك هذه الخيارات: Post-traumatic syringomyelia، أو Anterior cord syndrome، أو Brown-Séquard syndrome، أو Post- traumatic posterior cord syndrome، أو Post- traumatic CVA. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Brown-Séquard syndrome",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Brown-Séquard syndrome",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "نصف قطع النخاع الشوكي يسبب فقدان الحركة والاهتزاز في نفس الجانب المصاب، وفقدان الألم والحرارة في الجانب المقابل — متلازمة براون سيكارد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نصف قطع النخاع الشوكي يسبب فقدان الحركة والاهتزاز في نفس الجانب المصاب، وفقدان الألم والحرارة في الجانب المقابل — متلازمة براون سيكارد. متلازمة براون سيكارد سهلة التذكر بأنها \"متقاطعة\": حركة واهتزاز بنفس الجانب، ألم وحرارة بالجانب المقابل."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Brown-Séquard syndrome",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Brown-Séquard = crossed sensory loss\""
       ],

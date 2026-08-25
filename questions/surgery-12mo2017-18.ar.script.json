@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "70yo woman, 3-day symptoms, ER, diagnosis (repeat context)",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastroenteritis"
       },
       "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 70 عامًا إلى قسم الطوارئ، وهي تعاني منتاريخ مرضي لثلاثة أيام من تفاقم آلام البطن، والتقيؤ، والإمساك. عندالفحص، لاحظت وجود انتفاخ في البطن، وألم عام، وأصوات أمعاء حادة. جميع ما يلي يُعد تشخيصًا تفريقيًا مهمًا باستثناء:؟ أمامك هذه الخيارات: Colorectal cancer، أو Sigmoid diverticulitis، أو Gastroenteritis، أو Sigmoid volvulus، أو Complicated femoral hernia. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Gastroenteritis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastroenteritis"
       },
       "card_text": "التهاب المعدة والأمعاء تشخيص شائع معقول حتى عند المسنين بأعراض قصيرة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التهاب المعدة والأمعاء تشخيص شائع معقول حتى عند المسنين بأعراض قصيرة. حرف G المزدوج يذكرك بشيوع هذا التشخيص حتى بهذه الفئة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Gastroenteritis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastroenteritis"
       },
       "pills": [
         "Short GI symptom history: consider Gastroenter"

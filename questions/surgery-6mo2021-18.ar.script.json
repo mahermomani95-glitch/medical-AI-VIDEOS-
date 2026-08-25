@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Treatment of choice for perianal abscess",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Drainage"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Rest in bed، أو Observation and repeated examination، أو Proper antibiotics، أو Hot application، أو Drainage. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Drainage",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Drainage"
       },
       "card_text": "الخراج يحتاج فتحًا وتصريفًا — المضادات الحيوية أو المراقبة وحدهما لا تكفيان.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الخراج يحتاج فتحًا وتصريفًا — المضادات الحيوية أو المراقبة وحدهما لا تكفيان. أي خراج علاجه الأساسي التصريف الجراحي؛ المضادات الحيوية دور مساعد فقط."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Drainage",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Drainage"
       },
       "pills": [
         "\"Abscess = drain it\""

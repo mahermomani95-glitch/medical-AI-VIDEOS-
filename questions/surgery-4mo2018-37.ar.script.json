@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Chemotherapy — ototoxicity",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Cisplatin"
       },
       "narration": "لنبدأ بهذا السؤال. السمية الأذنية هي سمة مميزة لأي من العلاجات الكيميائية التالية أمامك هذه الخيارات: Bleomycin، أو Cisplatin، أو Cyclophosphamide، أو Vincristine، أو Adriamycin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cisplatin",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Cisplatin"
       },
       "card_text": "سيسبلاتين معروف بسميته للأذن إلى جانب سميته الكلوية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. سيسبلاتين معروف بسميته للأذن إلى جانب سميته الكلوية. حرف C في Cisplatin وحرف C في Cochlea (القوقعة) للتذكير بسميته المميزة على الأذن الداخلية بجانب سميته الكلوية والعصبية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Cisplatin",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Cisplatin"
       },
       "pills": [
         "\"CisPLATIN Plays havoc on hearing\""

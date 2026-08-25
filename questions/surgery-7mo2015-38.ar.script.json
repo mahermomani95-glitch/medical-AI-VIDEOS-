@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "65yo cachectic smoker, Pancoast tumor, symptoms",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Invasive CA to the sympathetic chain at T1",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. رجل مدخن، يبلغ من العمر 65 عامًا، يعاني من سرطان الرئة القمي (ورمبانكوست)، يعاني من تدلي الجفن، وتضييق حدقة العين، وانعدام الترطيب. السبب الأكثر احتمالًا هو:؟ أمامك هذه الخيارات: Paraneoplastic syndrome، أو Invasive CA to brachial plexus، أو Invasive CA to SVC، أو Invasive CA to the sympathetic chain at T1. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Invasive CA to the sympathetic chain a",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Invasive CA to the sympathetic chain at T1",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "غزو ورم بانكوست للسلسلة الودية عند T1 يسبب متلازمة هورنر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. غزو ورم بانكوست للسلسلة الودية عند T1 يسبب متلازمة هورنر. حرف T1 يذكرك بالمستوى التشريحي المحدد لهذا الغزو."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Invasive CA to the sympathetic chain at T1",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Pancoast tumor: invades sympathetic chain at T"
       ],

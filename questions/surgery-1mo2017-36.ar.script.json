@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "True statement, Crohn disease drug therapy",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Azathioprine and immunosuppressive drugs for remission",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بالعلاج الدوائي لمرض كرون؟ أمامك هذه الخيارات: Corticosteroids effective treat acute attack and to prolong remission، أو Sulfasalazine for Acute attack involving small bowel، أو Azathioprine and immunosuppressive drugs for remission، أو Low dose Cyclosporine for patients with both low and high disease activity، أو All of the above. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Azathioprine and immunosuppressive dru",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Azathioprine and immunosuppressive drugs for remission",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الآزاثيوبرين ومثبطات المناعة تُستخدم فعليًا للحفاظ على هدأة كرون.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الآزاثيوبرين ومثبطات المناعة تُستخدم فعليًا للحفاظ على هدأة كرون. حرف A المزدوج يذكرك بالدور العلاجي الحقيقي لهذا الدواء."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Azathioprine and immunosuppressive drugs for rem",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Crohn's remission: Azathioprine helps maintain"
       ],

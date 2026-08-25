@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "BCG vaccine storage temperature",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "+2 to +8C",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. لقاح \" بي سي جي\" مخزن في؟ أمامك هذه الخيارات: +18 °C and +24 °C، أو -10 °C and -25 °C، أو +2 to +8C، أو 0 °C، أو -25 °C. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "+2 to +8C",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "+2 to +8C",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "لقاح BCG يُخزَّن بين +2 و+8 درجة مئوية للحفاظ على فعاليته.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. لقاح BCG يُخزَّن بين +2 و+8 درجة مئوية للحفاظ على فعاليته. حرف T و E يذكرانك بالمدى الحراري الدقيق لهذا اللقاح."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. +2 to +8C",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "BCG storage: Two to Eight degrees"
       ],

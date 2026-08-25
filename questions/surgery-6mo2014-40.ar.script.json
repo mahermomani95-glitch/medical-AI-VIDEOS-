@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Acute mesenteric ischemia, most likely when patient has",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diffuse pain out of proportion to tend"
       },
       "narration": "لنبدأ بهذا السؤال. من المرجح أن يتم تشخيص نقص تروية المساريقا الحاد عندما يكون لدىالمريض؟ أمامك هذه الخيارات: Elevation of WBC، أو Elevation of serum amylase level، أو Bloody stool in the rectum، أو Diffuse pain out of proportion to tenderness، أو Gas in cecum on abdominal X ray. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Diffuse pain out of proportion to tend",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diffuse pain out of proportion to tend"
       },
       "card_text": "الألم غير المتناسب مع فحص بطني هادئ يوجه لإقفار الأمعاء المساريقي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الألم غير المتناسب مع فحص بطني هادئ يوجه لإقفار الأمعاء المساريقي. حرف P المزدوج يذكرك بهذا التناقض التشخيصي المميز."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Diffuse pain out of proportion to tenderness",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diffuse pain out of proportion to tend"
       },
       "pills": [
         "Mesenteric ischemia: Pain out of Proportion"

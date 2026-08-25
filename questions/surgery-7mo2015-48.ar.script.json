@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Best test, adrenal medulla tumor diagnosis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "24-hour urine metanephrines and catech"
       },
       "narration": "لنبدأ بهذا السؤال. أفضل اختبار لتشخيص ورم نخاع الغدة الكظرية هو؟ أمامك هذه الخيارات: 24-hour urine epinephrine، أو 24-hour urine cortisol، أو 24-hour urine Aldosterone، أو 24-hour urine metanephrines and catecholamines. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "24-hour urine metanephrines and catech",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "24-hour urine metanephrines and catech"
       },
       "card_text": "تجميع بول 24 ساعة يلتقط الإفراز المتقطع لورم القواتم بموثوقية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تجميع بول 24 ساعة يلتقط الإفراز المتقطع لورم القواتم بموثوقية. حرف 24 يذكرك بمدة التجميع الضرورية لموثوقية الفحص."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "D. 24-hour urine metanephrines and catecholamines",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "24-hour urine metanephrines and catech"
       },
       "pills": [
         "Pheochromocytoma diagnosis: 24-hour urine Test"

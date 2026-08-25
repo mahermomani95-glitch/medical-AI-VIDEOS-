@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Element of health promotion",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "health education",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي يعد من عناصر تعزيز الصحة؟ أمامك هذه الخيارات: early diagnosis، أو proper treatment، أو health education، أو disability limitation، أو rehabilitation. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "health education",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "health education",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التثقيف الصحي عنصر أساسي حقيقي من عناصر تعزيز الصحة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التثقيف الصحي عنصر أساسي حقيقي من عناصر تعزيز الصحة. حرف E المزدوج يربط التثقيف بموقعه كعنصر تعزيز أساسي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. health education",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Health promotion: built on Education"
       ],

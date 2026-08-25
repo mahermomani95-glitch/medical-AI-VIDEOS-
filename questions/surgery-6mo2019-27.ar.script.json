@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "70kg + 40% TBSA burn + inhalation injury — fluid resuscitati",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Lactated Ringer's solution at 700 ml/h"
       },
       "narration": "لنبدأ بهذا السؤال. رجل وزنه 70 كجم، حضر إلى قسم الطوارئ مصابًا بحروق من الدرجة الثانية،بلغت 40% من إجمالي مساحة الجسم، وإصابة ناتجة عن استنشاق السوائل. عملية الإنعاش بالسوائل التي يجب البدء بها هي: أمامك هذه الخيارات: Lactated Ringer's solution at 350 ml/hr، أو Lactated Ringer's solution at 700 ml/hr، أو Lactated Ringer's solution at 100 ml/hr، أو Normal saline solution at 700 ml/hr، أو Dextrose 5% in water. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Lactated Ringer's solution at 700 ml/h",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Lactated Ringer's solution at 700 ml/h"
       },
       "card_text": "بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي. معادلة باركلاند: 4 مل × 70كغ × 40% = 11200 مل خلال 24 ساعة، نصفها (5600 مل) يُعطى بأول 8 ساعات، أي 700 مل/ساعة تقريبًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Lactated Ringer's solution at 700 ml/hr",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Lactated Ringer's solution at 700 ml/h"
       },
       "pills": [
         "\"Parkland: 4 x weight x %TBSA, half in first 8"

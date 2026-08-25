@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Lateral internal sphincterotomy, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "LIS is inferior to fissurectomy and posterior midline sphincterotomy with respect to healing rates, pain relief, and incontinence",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميع العبارات التالية صحيحة فيما يتعلق باستئصال العضلة العاصرةالداخلية الجانبية باستثناء؟ أمامك هذه الخيارات: Overall healing rates of 90-100%، أو Recurrence rate is low, the majority in the range of 1-3%، أو The treatment of choice for anal fissure refractory to non-surgical therapy، أو Incontinence sufficient to cause any measurable impairment quality of life is uncommon، أو LIS is inferior to fissurectomy and posterior midline sphincterotomy with respect to healing rates, pain relief, and incontinence. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "LIS is inferior to fissurectomy and po",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "LIS is inferior to fissurectomy and posterior midline sphincterotomy with respect to healing rates, pain relief, and incontinence",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "القطع الجانبي أفضل نتائجًا من البدائل الأخرى، لا أدنى منها.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. القطع الجانبي أفضل نتائجًا من البدائل الأخرى، لا أدنى منها. حرف L و S يذكرانك أن هذا الإجراء متفوق لا أدنى."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. LIS is inferior to fissurectomy and posterior mi",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "LIS: Leads in Superiority over alternatives"
       ],

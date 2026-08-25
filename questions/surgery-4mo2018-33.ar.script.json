@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Keloid scar — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "They are confined to the original scar area",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بندبة الجدرة باستثناء أمامك هذه الخيارات: They are confined to the original scar area، أو Can be treated with silicon, steroid or radiotherapy، أو Occur mainly on the ear lobe, shoulders, sternal notch, rare across joints، أو More common in dark skin، أو More common in females than males. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "They are confined to the original scar",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "They are confined to the original scar area",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الندبة الجدرية (الكيلويد) لا تلتزم بحدود الندبة الأصلية بل تتجاوزها، على عكس الندبة الضخامية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الندبة الجدرية (الكيلويد) لا تلتزم بحدود الندبة الأصلية بل تتجاوزها، على عكس الندبة الضخامية. حرف K المشترك في Keloid و Keeps growing (تستمر بالنمو) للتذكير بأن الكيلويد يتجاوز حدود الجرح الأصلي، بعكس الندبة الضخامية المحصورة ضمن الحدود."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. They are confined to the original scar area",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Keloid = Keeps growing beyond borders\""
       ],

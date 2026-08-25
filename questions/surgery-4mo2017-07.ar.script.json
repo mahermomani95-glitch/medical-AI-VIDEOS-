@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Main reason for measles eradication delay in Jordan",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Migration or refugee from neighbor Arab countries (Iraq, Syria) due to unstable conditions in their countries",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الرئيسي لتأخر القضاء على مرض الحصبة في الأردن هو؟ أمامك هذه الخيارات: Migration or refugee from neighbor Arab countries (Iraq, Syria) due to unstable conditions in their countries، أو Immunization coverage rate is low in Jordan، أو High cost of vaccine، أو Cold chain of vaccine is not accurate. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Migration or refugee from neighbor Ara",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Migration or refugee from neighbor Arab countries (Iraq, Syria) due to unstable conditions in their countries",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "حركة اللجوء والهجرة من دول الجوار تُصعّب القضاء على الحصبة بالأردن.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. حركة اللجوء والهجرة من دول الجوار تُصعّب القضاء على الحصبة بالأردن. حرف M المزدوج يذكرك بهذا العامل الإقليمي الرئيسي."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Migration or refugee from neighbor Arab countrie",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Measles eradication delay: Migration is the Ma"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "35yo female, perianal abscess I&D 2mo ago, current complaint",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Perianal fistula"
       },
       "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 35 عامًا خضعت لشق وتصريف خراج حول الشرج قبلشهرين. الآن، راجعت عيادتكم تعاني من ألم متقطع وإفرازات كريهة الرائحةمن موقع الجراحة السابقة. ما هي المشكلة الأكثر شيوعًا التي يمكن توقعها،وما الذي يجب عليك التحقق منه؟ (سؤال مكرر، راجع السؤال رقم 521) أمامك هذه الخيارات: Perianal fistula، أو Anal fissure، أو Incontinence، أو A complication of her haemorrhoids، أو Necrotizing fasclitis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Perianal fistula",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Perianal fistula"
       },
       "card_text": "خراج شرجي مصرَّف قد يتطور لناسور شرجي كمضاعفة متأخرة كلاسيكية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. خراج شرجي مصرَّف قد يتطور لناسور شرجي كمضاعفة متأخرة كلاسيكية. حرف F المزدوج يذكرك بهذه المضاعفة المتأخرة الشائعة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Perianal fistula",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Perianal fistula"
       },
       "pills": [
         "Post-abscess drainage complication: Fistula fo"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Cryoprecipitate high concentrations, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Factor 11",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تحتوي الرواسب المبردة على تركيزات عالية من كل ما يلي باستثناء؟ أمامك هذه الخيارات: Fibrinogen، أو Factor 8، أو VWF، أو Fibronectin، أو Factor 11. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Factor 11",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Factor 11",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "العامل 11 ليس من المكونات المركزة الحقيقية بالراسب البردي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العامل 11 ليس من المكونات المركزة الحقيقية بالراسب البردي. حرف F11 يذكرك أن هذا العامل غريب عن مكونات الراسب البردي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Factor 11",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Cryoprecipitate: doesn't concentrate Factor 11"
       ],

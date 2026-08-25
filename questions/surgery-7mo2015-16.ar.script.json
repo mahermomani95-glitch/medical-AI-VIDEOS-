@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Posterior hip dislocation, most commonly injures",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Sciatic nerve",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الخلع الخلفي للورك هو الأكثر شيوعاً في إصابة؟ أمامك هذه الخيارات: Femoral artery، أو Femoral vein، أو Femoral nerve، أو Sciatic nerve. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Sciatic nerve",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Sciatic nerve",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "العصب الوركي هو الأكثر عرضة للإصابة بخلع الورك الخلفي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العصب الوركي هو الأكثر عرضة للإصابة بخلع الورك الخلفي. حرف S المزدوج يربط هذا العصب بموقعه الخلفي المعرض للإصابة."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Sciatic nerve",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Posterior hip dislocation: injures the Sciatic"
       ],

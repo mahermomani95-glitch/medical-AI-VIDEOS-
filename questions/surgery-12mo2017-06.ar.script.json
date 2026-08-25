@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Documented DVT episode, most significant long-term consequen",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Development of stasis ulcer"
       },
       "narration": "لنبدأ بهذا السؤال. في المريض الذي يصاب بحلقة موثقة من تجلط الأوردة العميقة ، فإن العواقبالأكثر أهمية على المدى الطويل هي؟ أمامك هذه الخيارات: Claudication، أو Recurrent foot infection، أو Development of stasis ulcer، أو Pulmonary embolization، أو Diminished arterial perfusion. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Development of stasis ulcer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Development of stasis ulcer"
       },
       "card_text": "الأذى الوريدي المزمن من DVT قد يسبب قرحة ركود جلدية طويلة الأمد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الأذى الوريدي المزمن من DVT قد يسبب قرحة ركود جلدية طويلة الأمد. حرف S المزدوج يذكرك بهذه المضاعفة المزمنة طويلة الأمد."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Development of stasis ulcer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Development of stasis ulcer"
       },
       "pills": [
         "DVT long-term: Stasis ulcer develops"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "UC transformation to malignancy, related to",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Duration of disease"
       },
       "narration": "لنبدأ بهذا السؤال. تحول التهاب القولون التقرحي إلى خباثة مرتبط بـ؟ أمامك هذه الخيارات: Activity of disease، أو Race of the patients، أو Immunity of the patients، أو Duration of disease، أو Drugs administration. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Duration of disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Duration of disease"
       },
       "card_text": "مدة الإصابة بالتهاب القولون التقرحي هي العامل الأهم لخطر التحول الخبيث.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مدة الإصابة بالتهاب القولون التقرحي هي العامل الأهم لخطر التحول الخبيث. حرف D المزدوج يربط خطر السرطنة بمدة المرض التراكمية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Duration of disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Duration of disease"
       },
       "pills": [
         "UC malignancy risk: Determined by Duration"

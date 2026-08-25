@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Laparoscopy disadvantages vs laparotomy, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Poorer visualization of the operative fields",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل عيوب تنظير البطن، عند مقارنتها بفتح البطن، كل ما يلي باستثناء؟ أمامك هذه الخيارات: Difficulty controlling severe bleeding، أو Poorer visualization of the operative fields، أو Greater difficulty placing sutures، أو Loss of tactile sensation، أو Higher operating room costs. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Poorer visualization of the operative ",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Poorer visualization of the operative fields",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "المنظار يوفر رؤية أفضل بفضل التكبير، لا أسوأ كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المنظار يوفر رؤية أفضل بفضل التكبير، لا أسوأ كما بالعبارة الخاطئة. حرف B المزدوج يذكرك أن الرؤية تتحسن لا تسوء بالمنظار."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Poorer visualization of the operative fields",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Laparoscopy: provides Better, not poorer, visu"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best prophylaxis against infection, dirty wounds",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Removing foreign bodies and devitalized tissues",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أفضل الوقاية من العدوى في الجروح المتسخة يتم تحقيقها من خلال؟ أمامك هذه الخيارات: Avoiding the use of local anesthesia، أو Inserting a drain into the wound، أو Administrating a large dose of an appropriate antibiotic، أو Administrating tetanus antitoxin، أو Removing foreign bodies and devitalized tissues. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Removing foreign bodies and devitalize",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Removing foreign bodies and devitalized tissues",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "إزالة الأجسام الغريبة والنسيج الميت هي الوقاية الأفضل من عدوى الجروح الملوثة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إزالة الأجسام الغريبة والنسيج الميت هي الوقاية الأفضل من عدوى الجروح الملوثة. حرف R المزدوج يذكرك بأولوية التنظيف الميكانيكي الفعلي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Removing foreign bodies and devitalized tissues",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Dirty wound prophylaxis: Remove debris First"
       ],

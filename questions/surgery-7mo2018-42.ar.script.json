@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Diverticulosis complications — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cancer"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي من مضاعفات التهاب الرتوج القولوني ما عدا: أمامك هذه الخيارات: Hemorrhage، أو Fistula، أو Cancer، أو Abscesses. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cancer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cancer"
       },
       "card_text": "الرتوج نفسها لا ترفع خطر السرطان — النزيف والناسور والخراج هي المضاعفات الحقيقية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الرتوج نفسها لا ترفع خطر السرطان — النزيف والناسور والخراج هي المضاعفات الحقيقية. الرتوج القولونية مرض التهابي/ميكانيكي، وليست آفة سابقة للتسرطن كالسلائل الغدية — لذلك لا ترتبط بزيادة خطر السرطان."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "D. Cancer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cancer"
       },
       "pills": [
         "\"Diverticulosis ≠ Cancer risk\""

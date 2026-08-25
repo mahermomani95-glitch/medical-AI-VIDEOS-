@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "First sign of compartment syndrome",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain"
       },
       "narration": "لنبدأ بهذا السؤال. العلامة الأولى لمتلازمة الحيز هي؟ أمامك هذه الخيارات: Pallor and pulselessness، أو Coldness، أو Tingling and Paresthesia، أو Pain، أو Paralysis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pain",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain"
       },
       "card_text": "الألم غير المتناسب هو أول علامة إنذارية لمتلازمة الحيز.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الألم غير المتناسب هو أول علامة إنذارية لمتلازمة الحيز. حرف P المزدوج يذكرك بأولوية الألم كأول علامة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Pain",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Pain"
       },
       "pills": [
         "Compartment syndrome: Pain comes first"

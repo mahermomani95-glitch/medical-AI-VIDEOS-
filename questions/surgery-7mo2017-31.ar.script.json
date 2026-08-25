@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Routine tracheostomy level",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Second ring and third ring"
       },
       "narration": "لنبدأ بهذا السؤال. يتم إجراء عملية فتح القصبة الهوائية الروتينية، مع بعض الاستثناءات، عادةًعلى مستوى؟ أمامك هذه الخيارات: Cricoid cartilage، أو Cricothyroid membrane، أو Cricoid and first ring، أو Second ring and third ring، أو Fifth and sixth tracheal ring. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Second ring and third ring",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Second ring and third ring"
       },
       "card_text": "بضع الرغامى الروتيني يُجرى بين الحلقتين الثانية والثالثة تحديدًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بضع الرغامى الروتيني يُجرى بين الحلقتين الثانية والثالثة تحديدًا. حرف T2-3 يذكرك بالمستوى القياسي الدقيق لهذا الإجراء."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Second ring and third ring",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Second ring and third ring"
       },
       "pills": [
         "Routine tracheostomy: between rings Two and Th"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Flank pain + hematuria + normal creatinine — best next step",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "non-contrast-enhanced computed tomogra"
       },
       "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر ٢٥ عامًا، يُعاني من ألمٍ شديدٍ في الخاصرة استمر لمدة٦ ساعات، مصحوبًا بغثيان وقيء. أظهر تحليل البول ٢٠٠ خلية دم حمراء/السائل اللمفاوي، وكرياتينين المصل ٠.٩ ملغ/ديسيلتر. أفضل علاجٍ في هذهالمرحلة هو: أمامك هذه الخيارات: KUB radiography، أو Renal ultrasonography، أو Intravenous Pyelography، أو non-contrast-enhanced computed tomography، أو Kidney MRI. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "non-contrast-enhanced computed tomogra",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "non-contrast-enhanced computed tomogra"
       },
       "card_text": "الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة. الأشعة المقطعية غير المحقونة أصبحت الفحص المفضل الأول لأي ألم خاصرة حاد مشتبه بحصاة كلوية، لسرعتها العالية وحساسيتها الممتازة دون حاجة لصبغة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. non-contrast-enhanced computed tomography",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "non-contrast-enhanced computed tomogra"
       },
       "pills": [
         "\"Acute flank pain = Non-contrast CT\""

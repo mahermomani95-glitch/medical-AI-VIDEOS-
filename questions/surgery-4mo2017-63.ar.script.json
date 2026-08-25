@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause, non-pitting edema",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Lymph node resection surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا للوذمة غير المنقّرة؟ أمامك هذه الخيارات: latrogenic، أو Filariasis، أو Lymph node resection surgery، أو Leptospirosis، أو Chagas disease. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Lymph node resection surgery",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Lymph node resection surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية. حرف L المزدوج يربط الاستئصال اللمفاوي بموقعه كالسبب الأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Lymph node resection surgery",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Non-pitting edema: mostly from Lymph node rese"
       ],

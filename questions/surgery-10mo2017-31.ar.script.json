@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Causes bilious vomiting in infant/child, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Pyloric stenosis"
       },
       "narration": "لنبدأ بهذا السؤال. يمكن أن يسبب ما يلي القيء الصفراوي عند الرضيع أو الطفل باستثناء؟ أمامك هذه الخيارات: Intestinal malrotation and volvulus، أو Pyloric stenosis، أو Duodenal atresia، أو Small bowel obstruction، أو Ulcerative colitis with colonic obstruction. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pyloric stenosis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Pyloric stenosis"
       },
       "card_text": "تضيق البواب يسبب قيئًا غير صفراوي، فيُستبعد من أسباب القيء الصفراوي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تضيق البواب يسبب قيئًا غير صفراوي، فيُستبعد من أسباب القيء الصفراوي. حرف P المزدوج يذكرك أن هذا التضيق لا يسبب قيئًا صفراويًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Pyloric stenosis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Pyloric stenosis"
       },
       "pills": [
         "Bilious vomiting causes: exclude Pyloric steno"

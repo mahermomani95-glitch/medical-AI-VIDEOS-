@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "SIRS criteria — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Documented infection",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يمكن رؤية كل ما يلي في متلازمة الاستجابة الالتهابية الجهازية باستثناء أمامك هذه الخيارات: Hypothermia (<36 C)، أو White cell count (WCC) < 4 x1000/dL، أو Documented infection، أو Tachycardia (>90/min)، أو Tachypnoea (>20/min). لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Documented infection",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Documented infection",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "متلازمة الاستجابة الالتهابية الجهازية هي نمط استجابة فيزيولوجية قد تحدث دون أي عدوى موثقة — وهذا بالضبط ما يميزها عن الإنتان.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. متلازمة الاستجابة الالتهابية الجهازية هي نمط استجابة فيزيولوجية قد تحدث دون أي عدوى موثقة — وهذا بالضبط ما يميزها عن الإنتان. SIRS مجرد نمط استجابة فيزيولوجي (حرارة، نبض، تنفس، كريات بيض) قد ينتج عن الرضح أو الحروق أو التهاب البنكرياس دون أي عدوى، وعندما تترافق مع عدوى موثقة تصبح إنتانًا (Sepsis)."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Documented infection",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"SIRS ≠ requires infection (that's Sepsis)\""
       ],

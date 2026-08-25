@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Highest potassium concentration in",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Saliva",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أعلى تركيز للبوتاسيوم في؟ أمامك هذه الخيارات: Saliva، أو Gastric juice، أو Bile، أو Ileal، أو Duodenum. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Saliva",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Saliva",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اللعاب يحمل أعلى تركيز بوتاسيوم نسبيًا بين سوائل الجسم المقارنة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اللعاب يحمل أعلى تركيز بوتاسيوم نسبيًا بين سوائل الجسم المقارنة. حرف S المزدوج يذكرك بهذا السائل كالأعلى تركيزًا نسبيًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Saliva",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Highest potassium: found in Saliva"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Brachial plexus branches — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Long thoracic nerve"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل فروع الضفيرة العضدية كل ما يلي باستثناء أمامك هذه الخيارات: Medial pectoral nerve، أو Axillary nerve، أو Long thoracic nerve، أو Ulnar nerve، أو Medial root of median nerve. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Long thoracic nerve",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Long thoracic nerve"
       },
       "card_text": "العصب الصدري الطويل ينشأ مباشرة من جذور الضفيرة العضدية، وليس كأحد الفروع الطرفية أو فروع الحبال القياسية المذكورة هنا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العصب الصدري الطويل ينشأ مباشرة من جذور الضفيرة العضدية، وليس كأحد الفروع الطرفية أو فروع الحبال القياسية المذكورة هنا. العصب الصدري الطويل ينشأ من الجذور مباشرة (C5-C7) قبل تشكل الحبال، ويغذي العضلة المسننة الأمامية مسببًا لوح الكتف المجنّح عند إصابته."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Long thoracic nerve",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Long thoracic nerve"
       },
       "pills": [
         "\"Long thoracic = root-level branch\""

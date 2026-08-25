@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "TTP, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "The primary therapy is steroids",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بالبرفرية الخثارية قليلة الصفائح الدموية باستثناء؟ أمامك هذه الخيارات: Loss of platelet inhibition and thrombosis formation، أو Splenomegaly، أو Splenectomy is rarely indicated، أو The primary therapy is steroids، أو Associated with HUS. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "The primary therapy is steroids",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "The primary therapy is steroids",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "تبديل البلازما، لا الستيرويدات وحدها، هو العلاج الأساسي المنقذ لـ TTP.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تبديل البلازما، لا الستيرويدات وحدها، هو العلاج الأساسي المنقذ لـ TTP. حرف T و P يذكرانك بالعلاج الأساسي الحقيقي المنقذ للحياة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. The primary therapy is steroids",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "TTP: Treated Primarily by Plasma exchange"
       ],

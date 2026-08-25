@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "72F + LIF pain + fever + LIF peritonism",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute diverticulitis"
       },
       "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 72 عامًا تعاني من ألم في الحفرة الحرقفية اليسرى، ووُجد لديها حمى وتهيج بريتوني في الحفرة الحرقفية اليسرى. التشخيص الأكثر احتمالاً هو: أمامك هذه الخيارات: Left ureteric calculus، أو Tubo-ovarian abscess، أو Irritable bowel syndrome، أو Acute diverticulitis، أو Sigmoid volvulus. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Acute diverticulitis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute diverticulitis"
       },
       "card_text": "ألم بالحفرة الحرقفية اليسرى مع حمى وتهيج بريتوني موضعي عند مريضة مسنّة هو العرض الكلاسيكي لالتهاب الرتوج الحاد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ألم بالحفرة الحرقفية اليسرى مع حمى وتهيج بريتوني موضعي عند مريضة مسنّة هو العرض الكلاسيكي لالتهاب الرتوج الحاد. يُلقَّب التهاب الرتوج أحيانًا بـ\"التهاب الزائدة الأيسر\" لأن صورته السريرية تشبه التهاب الزائدة لكن بالجانب الأيسر."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Acute diverticulitis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute diverticulitis"
       },
       "pills": [
         "\"LIF pain + fever + peritonism = Diverticuliti"

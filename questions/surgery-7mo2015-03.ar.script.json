@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common malignancy, following organ transplantation",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Skin cancer",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الورم الخبيث الأكثر شيوعا بعد زراعة الأعضاء هو؟ أمامك هذه الخيارات: Lung cancer، أو Prostatic cancer، أو Skin cancer، أو Breast cancer، أو Colon cancer. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Skin cancer",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Skin cancer",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "سرطان الجلد هو الورم الأشيع بعد زراعة الأعضاء بفارق كبير.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. سرطان الجلد هو الورم الأشيع بعد زراعة الأعضاء بفارق كبير. حرف S المزدوج يربط سرطان الجلد بموقعه كالأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Skin cancer",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Post-transplant malignancy: mostly Skin cancer"
       ],

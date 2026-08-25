@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "68F + non-healing chin ulcer + raised everted indurated edge",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Squamous cell carcinoma (SCC)"
       },
       "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 68 عامًا حضرت إلى عيادة طبيب عام تشكو من قرحةمزمنة في وجهها. بالفحص السريري، وُجدت آفة جلدية متقرحة استمرتلبضعة أشهر في الذقن الأيسر، مع منطقة محيطة مرتفعة ومقلوبة ومتصلبةوملتهبة، بالإضافة إلى تضخم عقد لمفاوية إقليمية. التشخيص الأكثر احتمالًاهو: أمامك هذه الخيارات: Bowen's disease، أو Extramammary Paget's disease، أو Basal cell carcinoma (BCC)، أو Squamous cell carcinoma (SCC)، أو Malignant melanoma (MM). لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Squamous cell carcinoma (SCC)",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Squamous cell carcinoma (SCC)"
       },
       "card_text": "آفة جلدية متقرحة بحواف مرتفعة متقلبة للخارج ومتصلبة مع انتشار للعقد اللمفاوية المجاورة هي الصورة الكلاسيكية للسرطان الخلوي الحرشفي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. آفة جلدية متقرحة بحواف مرتفعة متقلبة للخارج ومتصلبة مع انتشار للعقد اللمفاوية المجاورة هي الصورة الكلاسيكية للسرطان الخلوي الحرشفي. الحواف المتقلبة للخارج (Everted ، بعكس المرتفعة اللؤلؤية لـ BCC) مع انتشار للعقد اللمفاوية الإقليمية هي التوقيع الأكثر تحديدًا للسرطان الخلوي الحرشفي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Squamous cell carcinoma (SCC)",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Squamous cell carcinoma (SCC)"
       },
       "pills": [
         "\"Everted edge + nodal spread = SCC\""

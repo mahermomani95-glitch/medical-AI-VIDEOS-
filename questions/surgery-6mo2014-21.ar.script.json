@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Elevated serum gastrin, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Antral G cell hypoplasia",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تم العثور على ارتفاع مستوى الجاسترين في المصل في كل ما يلي باستثناء؟ أمامك هذه الخيارات: H. pylori infection، أو Retained antrum syndrome، أو Gastric outlet obstruction، أو Antral G cell hypoplasia، أو Vagotomy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Antral G cell hypoplasia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Antral G cell hypoplasia",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "نقص تنسج خلايا G يخفض الغاسترين، لا يرفعه كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نقص تنسج خلايا G يخفض الغاسترين، لا يرفعه كما بالعبارة الخاطئة. حرف G المزدوج يذكرك أن نقص الخلايا يخفض لا يرفع الهرمون."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Antral G cell hypoplasia",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "G-cell hypoplasia: Gives lower gastrin, not hi"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Management of nasopharyngeal carcinoma, primarily by",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Combined chemo_radio"
       },
       "narration": "لنبدأ بهذا السؤال. تتكون إدارة سرطان البلعوم الأنفي في المقام الأول من:؟ أمامك هذه الخيارات: Radiation، أو Chemotherapy، أو Surgical excision، أو Combined chemo_radio، أو Combined chemo radio followed by surgery. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Combined chemo_radio",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Combined chemo_radio"
       },
       "card_text": "العلاج الكيميائي الإشعاعي المشترك هو النهج الأساسي لسرطان البلعوم الأنفي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العلاج الكيميائي الإشعاعي المشترك هو النهج الأساسي لسرطان البلعوم الأنفي. حرف C المزدوج يربط هذا السرطان بنهجه العلاجي الأساسي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Combined chemo_radio",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Combined chemo_radio"
       },
       "pills": [
         "Nasopharyngeal carcinoma: managed by Chemo-rad"

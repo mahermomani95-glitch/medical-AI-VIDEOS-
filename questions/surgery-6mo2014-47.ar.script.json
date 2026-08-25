@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Major method, data collection from the community",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Civil registry",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الطرق الرئيسية لجمع البيانات من المجتمع هي؟ أمامك هذه الخيارات: Observation, interview, examinations، أو Observation only، أو Morbidity and mortality data، أو Civil registry، أو Health information. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Civil registry",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Civil registry",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "السجل المدني هو الطريقة المنهجية الأساسية لجمع بيانات المجتمع الصحية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. السجل المدني هو الطريقة المنهجية الأساسية لجمع بيانات المجتمع الصحية. حرف C المزدوج يربط السجل المدني بموقعه كالطريقة الأساسية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Civil registry",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Community data collection: mainly via Civil re"
       ],

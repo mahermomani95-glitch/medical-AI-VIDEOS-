@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Negative cough/Rovsing/obturator + positive psoas sign — app",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Retrocecal over the psoas muscle",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 27 عامًا يُشتبه بإصابته بالتهاب الزائدة الدودية الحاد. عند الفحص السريري بطنه لين وغير منتفخ. لا يشعر بألم عند السعال أو عند إحداث إيلام في الربع السفلي الأيمن عند الجس في الربع السفلي الأيسر. يشعر بألم بطني عند بسط الفخذ الأيمن وهو مستلقٍ على جانبه الأيسر. لا يشعر بألم عند التدوير السلبي لوركه الأيمن في وضعية الانثناء. أين تشتبه بموقع طرف الزائدة الدودية؟ أمامك هذه الخيارات: Displaced to the upper quadrant، أو Extraperitoneal and lying anterior to the cecum، أو In the pelvis، أو In the left lower quadrant، أو Retrocecal over the psoas muscle. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Retrocecal over the psoas muscle",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Retrocecal over the psoas muscle",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "علامة العضلة القطنية الإيجابية (ألم عند مد الفخذ) مع علامتي السدادية وروفسينغ السلبيتين توجّه لزائدة خلف الأعور مستلقية على العضلة القطنية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. علامة العضلة القطنية الإيجابية (ألم عند مد الفخذ) مع علامتي السدادية وروفسينغ السلبيتين توجّه لزائدة خلف الأعور مستلقية على العضلة القطنية. العضلة القطنية تقع خلف الصفاق قرب الزائدة الدودية عندما تكون بموقع خلف الأعور؛ لذلك مد الفخذ (الذي يمدد هذه العضلة) يهيّج الزائدة الملتهبة المستلقية عليها مباشرة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Retrocecal over the psoas muscle",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Positive psoas sign = Retrocecal appendix (ov"
       ],

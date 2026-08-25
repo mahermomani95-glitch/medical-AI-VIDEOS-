@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Goal of primary prevention",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Prevent disease Onest",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الهدف من الوقاية الأولية هو أمامك هذه الخيارات: Early detection of disease، أو Minimize the complication of disease، أو Prevent disease Onest، أو Rehabilitation of disease، أو Prevent progression of disease. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Prevent disease Onest",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Prevent disease Onest",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الوقاية الأولية تمنع ظهور المرض من الأساس قبل حدوثه، كاللقاحات، وليست علاجًا بعد التشخيص.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الوقاية الأولية تمنع ظهور المرض من الأساس قبل حدوثه، كاللقاحات، وليست علاجًا بعد التشخيص. حرف P المشترك بين Primary و Prevent للتذكير بأن هدف الوقاية الأولية هو منع حدوث المرض أصلًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Prevent disease Onest",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Primary = Prevent from the start\""
       ],

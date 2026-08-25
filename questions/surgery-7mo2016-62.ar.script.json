@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Principal cells, acute organ rejection",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "T-cell",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الخلايا الرئيسية المشاركة في الرفض الحاد للعضو هي؟ أمامك هذه الخيارات: B-cell، أو T-cell، أو Macrophages، أو Platelets، أو Monocyte. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "T-cell",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "T-cell",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الخلايا التائية هي المحرك الأساسي للرفض الحاد للعضو المزروع.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الخلايا التائية هي المحرك الأساسي للرفض الحاد للعضو المزروع. حرف T المزدوج يربط هذه الخلايا بدورها الأساسي بالرفض الحاد."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. T-cell",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Acute rejection: driven by T-cells"
       ],

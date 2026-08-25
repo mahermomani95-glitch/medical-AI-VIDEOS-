@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Circle of Willis components — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Middle cerebral artery",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تتكون دائرة ويليس من جميع الشرايين التالية باستثناء أمامك هذه الخيارات: Anterior communicating artery، أو Posterior communicating artery، أو Internal carotid artery، أو Middle cerebral artery، أو Anterior cerebral artery. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Middle cerebral artery",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Middle cerebral artery",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الشريان الدماغي الأوسط يتفرع من الدائرة، لكنه ليس جزءًا من حلقة دائرة ويليس نفسها.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الشريان الدماغي الأوسط يتفرع من الدائرة، لكنه ليس جزءًا من حلقة دائرة ويليس نفسها. الشريان الدماغي الأوسط هو أكبر فرع ينطلق من الدائرة، لكنه ليس جزءًا من تكوين الحلقة نفسها كباقي الشرايين المذكورة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Middle cerebral artery",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Middle cerebral = branch, not ring\""
       ],

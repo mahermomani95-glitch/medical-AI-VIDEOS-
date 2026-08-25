@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "60yo, ER, RUQ pain, fever (implied acute cholecystitis), ini",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "IV fluid and IV antibiotics"
       },
       "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 60 عامًا إلى قسم الطوارئ بشكوى رئيسية منألم في منطقة أسفل الظهر (الربع العلوي الأيمن) وحمى، وتبين من الفحصالسريري أنها مصابة باليرقان. ضغط دمها الحيوي 85/40، ومعدل ضرباتقلبها 125، ودرجة حرارتها 39. أفضل خطوة تالية هي:؟ أمامك هذه الخيارات: Emergency Cholecystectomy، أو Emergency ERCP، أو Emergency PTC placement، أو IV fluid and IV antibiotics. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "IV fluid and IV antibiotics",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "IV fluid and IV antibiotics"
       },
       "card_text": "السوائل والمضادات الحيوية الوريدية تسبق أي جراحة بالتهاب المرارة الحاد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. السوائل والمضادات الحيوية الوريدية تسبق أي جراحة بالتهاب المرارة الحاد. حرف F و A يذكرانك بأولوية التثبيت الطبي قبل الجراحة."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "D. IV fluid and IV antibiotics",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "IV fluid and IV antibiotics"
       },
       "pills": [
         "Acute cholecystitis: Fluids and Antibiotics fi"

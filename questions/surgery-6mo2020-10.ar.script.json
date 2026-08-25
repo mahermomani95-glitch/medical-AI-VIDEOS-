@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "COVID-19 surgical precautions — WRONG statement",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Intubate and extubate outside the theater",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Intubate and extubate outside the theater، أو Use smoke evacuation machine، أو PPE for all medical staff، أو Use less number of staff، أو Elective in-person appointments should be delayed or conducted via telemedicine. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Intubate and extubate outside the thea",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Intubate and extubate outside the theater",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التنبيب وإزالة الأنبوب يجب أن يتما داخل غرفة العمليات (مع احتياطات الهباء الجوي المناسبة)، وليس خارجها — لأن ذلك يخاطر بانتشار غير محكوم للهباء في أماكن أخرى.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التنبيب وإزالة الأنبوب يجب أن يتما داخل غرفة العمليات (مع احتياطات الهباء الجوي المناسبة)، وليس خارجها — لأن ذلك يخاطر بانتشار غير محكوم للهباء في أماكن أخرى. التنبيب وإزالة الأنبوب من أكثر الإجراءات المولدة للهباء الجوي المعدي؛ لذلك يجب أن يتما داخل غرفة العمليات المجهزة باحتياطات خاصة، وليس في ممرات أو مناطق أخرى غير محكومة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Intubate and extubate outside the theater",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Intubate/extubate INSIDE theater with precaut"
       ],

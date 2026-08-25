@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most reliable indicator, adequacy of burn resuscitation",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Urine output"
       },
       "narration": "لنبدأ بهذا السؤال. المؤشر الأكثر موثوقية لمدى كفاية إنعاش الحروق هو؟ أمامك هذه الخيارات: CVP، أو PCWP، أو Urine output، أو Blood pressure، أو Heart rate per minute. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urine output",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Urine output"
       },
       "card_text": "إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق. حرف U المزدوج يذكرك بأهمية هذا المؤشر العملي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Urine output",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Urine output"
       },
       "pills": [
         "Burn resuscitation adequacy: Urine output lead"

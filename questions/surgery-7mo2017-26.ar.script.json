@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Skin cancer can result from exposure to",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Solar ultraviolet A",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يمكن أن ينتج سرطان الجلد عن التعرض لأحد المواد التالية؟ أمامك هذه الخيارات: Microwave، أو lonizing radiation، أو Solar ultraviolet A، أو X ray، أو Infrared rays. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Solar ultraviolet A",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Solar ultraviolet A",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الأشعة فوق البنفسجية الشمسية هي العامل البيئي الأشيع لسرطان الجلد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الأشعة فوق البنفسجية الشمسية هي العامل البيئي الأشيع لسرطان الجلد. حرف U المزدوج يذكرك بهذا العامل البيئي الرئيسي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Solar ultraviolet A",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Skin cancer: linked to UV solar exposure"
       ],

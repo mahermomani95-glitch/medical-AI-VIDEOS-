@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause, bleeding per nipple",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Intraductal papilloma"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا للنزيف في كل حلمة هو؟ أمامك هذه الخيارات: Fibrocystic disease of breast، أو Intraductal papilloma، أو Breast cancer، أو Paget disease، أو Fibroadenoma. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Intraductal papilloma",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Intraductal papilloma"
       },
       "card_text": "الورم الحليمي داخل القناة هو السبب الأشيع لنزف الحلمة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الورم الحليمي داخل القناة هو السبب الأشيع لنزف الحلمة. حرف I المزدوج يربط هذا الورم بموقعه كالسبب الأشيع."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Intraductal papilloma",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Intraductal papilloma"
       },
       "pills": [
         "Bloody nipple discharge: mostly Intraductal pa"

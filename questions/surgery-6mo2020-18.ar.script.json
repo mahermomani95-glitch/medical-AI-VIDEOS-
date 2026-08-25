@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Causes of hypercoagulability — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hyperthermia",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Acidosis، أو Uremia with end-stage renal disease، أو Disseminated intravascular coagulation (DIC)، أو Hyperthermia، أو Hepatic failure. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hyperthermia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hyperthermia",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "فرط الحرارة ليس محرّكًا معروفًا لفرط التخثر — إن وُجد ارتباط حراري، فنقص الحرارة هو المرتبط باعتلال التخثر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فرط الحرارة ليس محرّكًا معروفًا لفرط التخثر — إن وُجد ارتباط حراري، فنقص الحرارة هو المرتبط باعتلال التخثر. انخفاض حرارة الجسم (وليس ارتفاعها) هو ما يرتبط باعتلال التخثر ونزفًا سريريًا، بينما فرط الحرارة ليس من عوامل فرط التخثر المعروفة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Hyperthermia",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Hypothermia (not hyperthermia) impairs clotti"
       ],

@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "HNPCC, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Patient has thousands of polyps",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بسرطان القولون الوراثي غير البوليبي باستثناء؟ أمامك هذه الخيارات: Colon cancer are right sided، أو Associated with ovarian, breast, stomach cancer، أو Patient has thousands of polyps، أو Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50 years old at the time of diagnosis. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Patient has thousands of polyps",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Patient has thousands of polyps",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا). حرف H المزدوج يذكرك أن HNPCC مختلف عن FAP بعدد البوليبات."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Patient has thousands of polyps",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "HNPCC: Has few polyps, unlike FAP's thousands"
       ],

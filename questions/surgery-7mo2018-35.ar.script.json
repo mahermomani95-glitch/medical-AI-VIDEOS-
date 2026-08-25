@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Erysipelas — most reliable distinguishing feature",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Increased margin of infection"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي يميز بشكل موثوق الحمرة عن الأسباب الأخرى لعدوى الجلد؟ أمامك هذه الخيارات: Associated abscess، أو Increased margin of infection، أو Patients non-toxic appearance، أو Usually caused by group B Streptococcus، أو Usually seem on chest. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Increased margin of infection",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Increased margin of infection"
       },
       "card_text": "الحمرة تتميز بحافة مرتفعة وواضحة الحدود بشكل حاد — وهذا الوضوح الحدّي هو ما يميزها عن التهاب النسيج الخلوي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الحمرة تتميز بحافة مرتفعة وواضحة الحدود بشكل حاد — وهذا الوضوح الحدّي هو ما يميزها عن التهاب النسيج الخلوي. حرف E المشترك بين Erysipelas و Elevated Edge (الحافة المرتفعة) للتذكير بأن الحافة الواضحة المرتفعة هي العلامة المميزة للحمرة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Increased margin of infection",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Increased margin of infection"
       },
       "pills": [
         "\"Erysipelas = Elevated, sharp Edge\""

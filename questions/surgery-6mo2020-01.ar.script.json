@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Urgent surgery + chronic warfarin + normal INR",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Proceed with surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Proceed with surgery، أو Give FFP and do the surgery، أو Postpone the surgery for 24 hr and stop warfarin، أو Give heparin and do the surgery، أو Postpone the surgery for 12 hr and stop warfarin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Proceed with surgery",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Proceed with surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير. INR الطبيعي هو الدليل الموضوعي على أن تأثير الوارفارين التخثري قد زال، فلا داعٍ لتأخير الجراحة أو عكس التأثير."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Proceed with surgery",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Normal INR = safe to operate\""
       ],

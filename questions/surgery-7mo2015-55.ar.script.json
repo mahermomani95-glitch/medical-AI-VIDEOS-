@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Consistent with prerenal ARF, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Urine osmolality 200"
       },
       "narration": "لنبدأ بهذا السؤال. جميع القيم التالية متوافقة مع الفشل الكلوي الحاد قبل الكلوي باستثناء؟ أمامك هذه الخيارات: Urine NA 10، أو BUN/creatinine ratio 30:1، أو Fe Na 0.5%، أو Urine osmolality 200، أو Creatinine/creatinine plasma 50. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urine osmolality 200",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Urine osmolality 200"
       },
       "card_text": "بول مركز جدًا (أسمولية مرتفعة) هو المتوقع بالفشل ما قبل الكلوي، لا 200 منخفضة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بول مركز جدًا (أسمولية مرتفعة) هو المتوقع بالفشل ما قبل الكلوي، لا 200 منخفضة. حرف H يذكرك أن الأسمولية المتوقعة مرتفعة لا منخفضة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Urine osmolality 200",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Urine osmolality 200"
       },
       "pills": [
         "Prerenal ARF: expects High urine osmolality, n"

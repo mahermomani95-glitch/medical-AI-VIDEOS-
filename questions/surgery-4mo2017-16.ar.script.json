@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "ABG: pH 7.56, PCO2 50, PO2 85, HCO3 40",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Metabolic alkalosis with respiratory compensation",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. لدى مريض نسبة سكر الدم الشرياني التالية: الرقم الهيدروجيني = 7.56،ثاني أكسيد الكربون الزائد = 50 مم زئبق، الأكسجين الزائد = 85 مم زئبق،ثاني أكسيد الكربون الهيدروجيني = 40 ملي مكافئ/لتر. ما هو خلل الحمضوالقاعدة؟ أمامك هذه الخيارات: Uncompensated metabolic alkalosis، أو Respiratory acidosis with metabolic compensation، أو Combined metabolic and respiratory alkalosis، أو Metabolic alkalosis with respiratory compensation، أو Mixed respiratory and metabolic alkalosis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Metabolic alkalosis with respiratory c",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Metabolic alkalosis with respiratory compensation",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "pH مرتفع مع HCO3 مرتفع يوجه لقلاء استقلابي أولي مع تعويض تنفسي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. pH مرتفع مع HCO3 مرتفع يوجه لقلاء استقلابي أولي مع تعويض تنفسي. حرف M و C يذكرانك بالاضطراب الأساسي وآلية التعويض."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Metabolic alkalosis with respiratory compensatio",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "High pH + high HCO3: Metabolic alkalosis, resp"
       ],

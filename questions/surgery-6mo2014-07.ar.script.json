@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "LMWH primary mechanism, inhibits which factor",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "10a",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. ينتج الهيبارين منخفض الوزن الجزيئي تأثيراته الأساسية بسبب تثبيطهللعامل الذي؟ أمامك هذه الخيارات: 2a، أو 9a، أو 10a، أو 11a، أو 12a. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "10a",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "10a",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الهيبارين منخفض الوزن الجزيئي يثبط العامل 10a تحديدًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الهيبارين منخفض الوزن الجزيئي يثبط العامل 10a تحديدًا. حرف T يذكرك بالعامل النوعي المستهدف بهذا الدواء."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. 10a",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "LMWH: targets factor Ten-a"
       ],

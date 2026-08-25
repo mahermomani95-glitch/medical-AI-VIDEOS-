@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Gallstones, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Most gallstones are seen on X-Ray",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل التالية عن حصوات المرارة صحيحة باستثناء؟ (سؤال مكرر، راجع السؤال رقم 545) أمامك هذه الخيارات: Obesity and bariatric surgery are risk factors for gallstones formation، أو Cholecystectomy can be performed in pregnant women، أو Every patient undergoing Cholecystectomy should be consented about bile leak، أو Extracorporeal shock wave lithotripsy is not an effective treatment for gallstones، أو Most gallstones are seen on X-Ray. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Most gallstones are seen on X-Ray",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Most gallstones are seen on X-Ray",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة. حرف V يذكرك أن معظم الحصى غير مرئية بهذا الفحص البسيط."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Most gallstones are seen on X-Ray",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Gallstones: mostly not Visible on plain X-ray"
       ],

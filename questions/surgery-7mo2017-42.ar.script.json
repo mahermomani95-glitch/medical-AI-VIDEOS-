@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Central line insertion consent, main risk to discuss",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hemorrhage",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. لقد طُلب منك الموافقة على إدخال خط مركزي لمريض، وقد نصحته بشأن سببالإجراء، وما هي المضاعفات الفورية الأكثر شيوعًا لإدخال الخط المركزي؟ أمامك هذه الخيارات: Infection، أو Thrombus، أو Hemorrhage، أو Nerve injury، أو Catheter migration. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hemorrhage",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hemorrhage",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "النزف خطر حقيقي واجب مناقشته صراحة قبل تركيب القسطرة المركزية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. النزف خطر حقيقي واجب مناقشته صراحة قبل تركيب القسطرة المركزية. حرف H المزدوج يذكرك بأهمية ذكر هذا الخطر الحقيقي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Hemorrhage",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Central line consent: Hemorrhage risk must be "
       ],

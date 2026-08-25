@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Mallory Weiss syndrome, true statement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Forceful vomiting followed by hemateme"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بمتلازمة مالوري فايس؟ أمامك هذه الخيارات: Spontaneous perforation of the esophagus، أو Forceful vomiting followed by hematemesis، أو It's usually associated with air in the mediastinum، أو Endoscopy is contraindicated، أو Prompt surgical management is the best. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Forceful vomiting followed by hemateme",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Forceful vomiting followed by hemateme"
       },
       "card_text": "القيء الشديد المتكرر يسبق النزف الدموي بمتلازمة مالوري-فايس.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. القيء الشديد المتكرر يسبق النزف الدموي بمتلازمة مالوري-فايس. حرف V المزدوج يذكرك بالتسلسل الزمني الدقيق لهذه المتلازمة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Forceful vomiting followed by hematemesis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Forceful vomiting followed by hemateme"
       },
       "pills": [
         "Mallory-Weiss: Vomiting, then Vessel tear blee"

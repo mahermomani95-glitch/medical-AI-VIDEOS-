@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Cancer surgery, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Neoadjuvant chemo- or radio-therapy are always required before cancer surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بجراحة السرطان صحيحة باستثناء؟ أمامك هذه الخيارات: It is called preventive when it removes a potential source of malignancy، أو It is called curative or primary when it is the definitive treatment for the present tumor، أو It is called palliative when the aim is to relieve symptoms and improve the quality of life rather than prolong survival، أو It is called emergency when it deals with problems such as obstruction or perforation، أو Neoadjuvant chemo- or radio-therapy are always required before cancer surgery. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Neoadjuvant chemo- or radio-therapy ar",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Neoadjuvant chemo- or radio-therapy are always required before cancer surgery",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "العلاج المساعد قبل الجراحة ليس مطلوبًا حتميًا بكل حالات سرطان.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العلاج المساعد قبل الجراحة ليس مطلوبًا حتميًا بكل حالات سرطان. حرف N المزدوج يذكرك أن هذا القرار يعتمد على الحالة الفردية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Neoadjuvant chemo- or radio-therapy are always r",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Neoadjuvant therapy: Not always Needed before "
       ],

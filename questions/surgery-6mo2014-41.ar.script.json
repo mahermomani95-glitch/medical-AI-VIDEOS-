@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common complication, post hemorrhoidectomy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urine retention"
       },
       "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا بعد استئصال البواسير هي؟ أمامك هذه الخيارات: Bleeding، أو Urine retention، أو Anal stenosis، أو Incontinence، أو Infection. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urine retention",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urine retention"
       },
       "card_text": "احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير. حرف U المزدوج يربط احتباس البول بموقعه كالمضاعفة الأشيع."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Urine retention",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urine retention"
       },
       "pills": [
         "Post-hemorrhoidectomy: mostly Urinary retentio"

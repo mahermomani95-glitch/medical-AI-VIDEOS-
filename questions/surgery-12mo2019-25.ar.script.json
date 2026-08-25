@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "25yo + penetrating trauma bleeding + tachypneic — systolic p",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "90 mmHg",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 25 عامًا حضر إلى قسم الطوارئ يعاني من نزيفنتيجة صدمة نافذة. المريض يعاني من سرعة التنفس. عند أي ضغط انقباضييُعتبر هذا المريض مصابًا بانخفاض ضغط الدم؟ أمامك هذه الخيارات: 50 mmHg، أو 60 mmHg، أو 70 mmHg، أو 80 mmHg، أو 90 mmHg. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "90 mmHg",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "90 mmHg",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "ضغط انقباضي دون 90 ملم زئبق هو العتبة القياسية المستخدمة لتعريف هبوط الضغط في تقييم الرضوض.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ضغط انقباضي دون 90 ملم زئبق هو العتبة القياسية المستخدمة لتعريف هبوط الضغط في تقييم الرضوض. 90 ملم زئبق هو الرقم المعياري المحفوظ لتعريف هبوط الضغط الانقباضي في تقييم مرضى الرضوض والصدمة النزفية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. 90 mmHg",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"SBP <90 = Hypotension threshold in trauma\""
       ],

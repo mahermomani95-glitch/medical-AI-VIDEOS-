@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Gallstones, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Extracorporeal shock wave lithotripsy "
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل التالية عن حصوات المرارة صحيحة باستثناء؟ أمامك هذه الخيارات: Gallstones in diabetic patients are more dangerous due to silent cholecystiti، أو Obesity and sickle cell anemia are risk factors for gallstones formation، أو Cholecystectomy can be performed in pregnant woman، أو Associated with right upper quadrant pain، أو Extracorporeal shock wave lithotripsy is one of the first treatments for gallstones. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Extracorporeal shock wave lithotripsy ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Extracorporeal shock wave lithotripsy "
       },
       "card_text": "تفتيت الحصى ليس علاجًا أول الخط لحصى المرارة، الاستئصال هو الأساسي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تفتيت الحصى ليس علاجًا أول الخط لحصى المرارة، الاستئصال هو الأساسي. حرف C المزدوج يذكرك بالعلاج القياسي الحقيقي لحصى المرارة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Extracorporeal shock wave lithotripsy is one of ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Extracorporeal shock wave lithotripsy "
       },
       "pills": [
         "Gallstones: Cholecystectomy, not ESWL, is firs"

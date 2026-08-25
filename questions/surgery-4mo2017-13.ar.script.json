@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Pathology thought to have no malignant potential",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hyperplastic polyps",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي من الأمراض التالية يُعتقد أنه ليس لها أي إمكانية للتحول إلى أمراضخبيثة؟ أمامك هذه الخيارات: Ulcerative colitis، أو Villous adenoma، أو FAP، أو Hyperplastic polyps، أو Crohn disease. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hyperplastic polyps",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hyperplastic polyps",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي. حرف H المزدوج يذكرك أن هذا النوع آمن تمامًا من الخباثة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Hyperplastic polyps",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hyperplastic polyps: Harmless, no malignant po"
       ],

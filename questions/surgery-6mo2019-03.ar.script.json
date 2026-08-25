@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Fluid therapy — FALSE statement",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالعلاج بالسوائل، أحد الأمور التالية خاطئ أمامك هذه الخيارات: It is classified into crystaloid and colloid types، أو Normal Saline contents are Na 154 meq/L and Cl 154 meq/L and osmolarity is 308 mOsm/L، أو Ringer lactate contents are Na 130 meq/L,K 4 meq/L,Ca 3 meq/L,Cl 109meq/L,lactate 28meq/L and Osmolarity is 274 mOsm/L، أو Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L، أو Normal Saline and Ringer lactate are isotonic solutions. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Dextrose 5 water contents are glucose ",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "أسمولية محلول الدكستروز 5% تأتي بالكامل من الغلوكوز (5% تعني 50غ/لتر وليس 5غ/لتر) — خطأ بعامل عشرة يغيّر كل شيء.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. أسمولية محلول الدكستروز 5% تأتي بالكامل من الغلوكوز (5% تعني 50غ/لتر وليس 5غ/لتر) — خطأ بعامل عشرة يغيّر كل شيء. التركيز 5% يعني 5 غرام لكل 100 مل، أي 50 غرام لكل لتر — وليس 5 غرام لكل لتر كما ورد خطأً في الخيار D."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Dextrose 5 water contents are glucose 5 gram/L a",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"D5W = 50g/L glucose, not 5g/L\""
       ],

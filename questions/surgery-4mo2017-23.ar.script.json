@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "False regarding crystalloid solutions",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Ringer lactate contain 154 meq/L sodium",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية خاطئ فيما يتعلق بالمحاليل البلورية؟ أمامك هذه الخيارات: Osmolarity of Ringer lactate solution 273 mosm L، أو Ringer lactate contain 154 meq/L sodium، أو Readily pass through semi_ permeable membrane, therefore they are considered extravascular space expanders، أو Have poor capillary perfusion and no allergic reaction and short intravascular half life 20_30 minutes، أو Hartmann solution, 0.9% NaCl solution, 5% Dextrose in water are isotonic crystalloid solutions. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Ringer lactate contain 154 meq/L sodiu",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Ringer lactate contain 154 meq/L sodium",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "رينغر لاكتات يحتوي صوديومًا أقل من 154 (الرقم الخاص بالمحلول الملحي فقط).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. رينغر لاكتات يحتوي صوديومًا أقل من 154 (الرقم الخاص بالمحلول الملحي فقط). حرف R المزدوج يذكرك بضرورة تمييز تركيز كل محلول."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Ringer lactate contain 154 meq/L sodium",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Ringer lactate sodium: Really lower than 154"
       ],

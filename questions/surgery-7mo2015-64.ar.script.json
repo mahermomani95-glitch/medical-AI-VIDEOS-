@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Maintenance fluid rate, 50kg medically free boy",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "90 ml/hour",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. ما هو معدل السوائل الصيانة لصبي وزنه 50 كجم خالي من الأمراض؟ أمامك هذه الخيارات: 120 ml/hour، أو 90 ml/hour، أو 60 ml/hour، أو 30 ml/hour. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "90 ml/hour",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "90 ml/hour",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "قاعدة 4-2-1 تُحسب السوائل الصيانية بتدرج حسب فئات الوزن.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. قاعدة 4-2-1 تُحسب السوائل الصيانية بتدرج حسب فئات الوزن. الأرقام 4-2-1 تذكرك بالقاعدة التدريجية لحساب معدل السوائل."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. 90 ml/hour",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Maintenance fluids: apply the 4-2-1 rule"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common soft tissue tumor",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Lipoma",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الورم الأكثر شيوعا في الأنسجة الرخوة هو؟ أمامك هذه الخيارات: Osteoma، أو Epithelioma، أو Lipoma، أو Rodent ulcer، أو Melanoma. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Lipoma",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Lipoma",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الشحمومة هي الورم النسيجي الرخو الأشيع مطلقًا بفارق كبير.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الشحمومة هي الورم النسيجي الرخو الأشيع مطلقًا بفارق كبير. حرف L المزدوج يربط الشحمومة بموقعها كالورم الأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Lipoma",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Soft tissue tumor: mostly Lipoma"
       ],

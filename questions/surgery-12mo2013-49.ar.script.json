@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "45yo, progressive cervical lymphadenopathy, 4 months, next s",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Lymph node biopsy"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 45 عامًا يعاني من تضخم تدريجي في الغدد الليمفاويةالعنقية، لمدة 4 أشهر، الفحص الأكثر ملاءمة هو؟ أمامك هذه الخيارات: X-Ray soft tissue، أو FNAC، أو Lymph node biopsy، أو Thyroid isotope scan، أو Tuberculin test. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Lymph node biopsy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Lymph node biopsy"
       },
       "card_text": "تضخم عقدي تقدمي مستمر لأشهر يستدعي خزعة نسيجية قاطعة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تضخم عقدي تقدمي مستمر لأشهر يستدعي خزعة نسيجية قاطعة. حرف P و B يذكرانك بضرورة التشخيص النسيجي عند الاستمرار."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Lymph node biopsy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Lymph node biopsy"
       },
       "pills": [
         "Progressive lymphadenopathy: Proceed to Biopsy"

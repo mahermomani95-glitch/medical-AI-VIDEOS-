@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "False about acute epiglottitis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "hoarsenness is presenting symptom",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. ما هو الخطأ في التهاب لسان المزمار الحاد؟ أمامك هذه الخيارات: common in children، أو caused by H.influenzae، أو hoarsenness is presenting symptom، أو painfull swallowing، أو orooling of saliva. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "hoarsenness is presenting symptom",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "hoarsenness is presenting symptom",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "سيلان اللعاب والصرير، لا البحة، هما العرضان المقدمان النمطيان لالتهاب لسان المزمار.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. سيلان اللعاب والصرير، لا البحة، هما العرضان المقدمان النمطيان لالتهاب لسان المزمار. حرف D المزدوج يذكرك بالعرض المقدم الصحيح لهذه الحالة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. hoarsenness is presenting symptom",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Epiglottitis: presents with Drooling, not hoar"
       ],

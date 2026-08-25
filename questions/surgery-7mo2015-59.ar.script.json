@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Vitamin preventing negative effects of steroids on wound hea",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vitamin A",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الفيتامين الذي يمنع التأثيرات السلبية للستيرويدات على التئام الجروح؟ أمامك هذه الخيارات: Vitamin B12، أو Vitamin A، أو Vitamin D، أو Vitamin C، أو Vitamin E. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Vitamin A",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vitamin A",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "فيتامين A يعاكس تأثير الستيرويد السلبي على التئام الجروح تحديدًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فيتامين A يعاكس تأثير الستيرويد السلبي على التئام الجروح تحديدًا. حرف A المزدوج يذكرك بالفيتامين النوعي المعاكس لهذا التأثير."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Vitamin A",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Steroid wound impairment: reversed by vitamin "
       ],

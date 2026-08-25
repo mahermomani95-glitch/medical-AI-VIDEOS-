@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Glasgow coma scale, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Glasgow Coma Scale assesses Eyes, Moto"
       },
       "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بمقياس غلاسكو للغيبوبة باستثناء؟ أمامك هذه الخيارات: A severe brain injury is defined as GCS 3-8، أو moderate brain injury is defined as GCS between 9-12، أو the score between 3-15، أو Glasgow Coma Scale assesses Eyes, Motor, Memory، أو According to the Glasgow Coma Scale (GCS), The patient's eyes open to sound indicates E3. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Glasgow Coma Scale assesses Eyes, Moto",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Glasgow Coma Scale assesses Eyes, Moto"
       },
       "card_text": "غلاسكو يقيّم الاستجابة اللفظية لا الذاكرة كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. غلاسكو يقيّم الاستجابة اللفظية لا الذاكرة كما بالعبارة الخاطئة. حرف V يذكرك بالمكون الصحيح الثالث (اللفظي لا الذاكرة)."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Glasgow Coma Scale assesses Eyes, Motor, Memory",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Glasgow Coma Scale assesses Eyes, Moto"
       },
       "pills": [
         "GCS: Eyes, Verbal, Motor — not memory"

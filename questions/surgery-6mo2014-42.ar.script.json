@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "False about Clostridium tetani",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Causes gas gangrene"
       },
       "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية غير صحيحة بشأن كلوستريديوم تيتاني؟ أمامك هذه الخيارات: Causes gas gangrene، أو Produces an exotoxin، أو Has a terminal spore، أو Is an obligatory anaerobe، أو Is motile. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Causes gas gangrene",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Causes gas gangrene"
       },
       "card_text": "المطثية الكزازية تسبب الكزاز، لا الغرغرينا الغازية (سببها مطثية أخرى).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المطثية الكزازية تسبب الكزاز، لا الغرغرينا الغازية (سببها مطثية أخرى). حرف T المزدوج يذكرك بالمرض الصحيح المرتبط بهذه الجرثومة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Causes gas gangrene",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Causes gas gangrene"
       },
       "pills": [
         "C. tetani: Triggers Tetanus, not gas gangrene"

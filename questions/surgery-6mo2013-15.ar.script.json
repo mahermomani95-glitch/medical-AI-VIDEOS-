@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Gas used in laparoscopic operations",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Co2",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الغاز المستخدم في العمليات الجراحية بالمنظار هو:؟ أمامك هذه الخيارات: O2، أو N2O، أو N2، أو Co2، أو Не. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Co2",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Co2",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "ثاني أكسيد الكربون هو الغاز القياسي الآمن لنفخ البطن بالمنظار.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ثاني أكسيد الكربون هو الغاز القياسي الآمن لنفخ البطن بالمنظار. حرف C المزدوج يربط CO2 بكونه الخيار القياسي الآمن."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Co2",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Laparoscopy gas: CO2, Consistently chosen"
       ],

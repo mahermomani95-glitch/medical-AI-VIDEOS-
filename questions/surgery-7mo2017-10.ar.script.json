@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Assessment of bleeding, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Taking blood sample at the time of bleeding gives an accurate level of haemoglobin",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بتقييم النزيف باستثناء؟ أمامك هذه الخيارات: Taking blood sample at the time of bleeding gives an accurate level of haemoglobin، أو Hypovolemia increase the risk of tissue hypoxia and multi organ failure، أو Blood loss could be estimated from the size of blood clot and the weight of swabs used، أو Any thirsty patient should be considered Hypovolemic، أو Arterial blood gas is a quick method to measure hemoglobin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Taking blood sample at the time of ble",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Taking blood sample at the time of bleeding gives an accurate level of haemoglobin",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "عينة دم وحيدة لحظة النزف لا تعطي صورة دقيقة كاملة للحالة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عينة دم وحيدة لحظة النزف لا تعطي صورة دقيقة كاملة للحالة. حرف S المزدوج يذكرك بضرورة المتابعة المتسلسلة لا اللحظية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Taking blood sample at the time of bleeding give",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Bleeding assessment: needs Serial samples, not"
       ],

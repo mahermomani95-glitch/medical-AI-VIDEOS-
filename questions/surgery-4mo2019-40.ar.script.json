@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Alvarado score components — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Rovsing sign",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تتضمن درجة ألفارادو لالتهاب الزائدة الدودية الحاد كل ما يلي باستثناء أمامك هذه الخيارات: Abdominal pain that migrates to the right iliac fossa، أو Anorexia، أو Nausea or vomiting، أو Rovsing sign، أو Tenderness in the right iliac fossa. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Rovsing sign",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Rovsing sign",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "علامة روفسينغ هي موجودة سريرية منفصلة، وليست أحد المكونات الثمانية التي تُحسب ضمن مقياس الفارادو.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. علامة روفسينغ هي موجودة سريرية منفصلة، وليست أحد المكونات الثمانية التي تُحسب ضمن مقياس الفارادو. مقياس الفارادو يُختصر أحيانًا بـ MANTRELS ، ولا يحتوي هذا الاختصار على حرف يمثل علامة روفسينغ لأنها ليست من مكوناته الرسمية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Rovsing sign",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"MANTRELS — no Rovsing in the acronym\""
       ],

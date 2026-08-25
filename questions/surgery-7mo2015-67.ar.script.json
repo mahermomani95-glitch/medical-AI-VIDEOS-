@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Severe Diazepam overdose, treated with",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Flumazenil",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يتم علاج الجرعة الزائدة الشديدة من الديازيبام بـ؟ أمامك هذه الخيارات: Flumazenil، أو Naloxone، أو Neostigmine، أو Atropine. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Flumazenil",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Flumazenil",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الفلومازينيل هو الترياق النوعي لتسمم البنزوديازيبينات كالديازيبام.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الفلومازينيل هو الترياق النوعي لتسمم البنزوديازيبينات كالديازيبام. حرف F المزدوج يذكرك بالترياق النوعي لهذه الفئة الدوائية."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Flumazenil",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Diazepam overdose: reversed by Flumazenil"
       ],

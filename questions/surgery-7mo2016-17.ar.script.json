@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Peripheral neuropathy with prolonged use, most associated wi",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Metronidazole",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يرتبط الاعتلال العصبي المحيطي مع الاستخدام لفترات طويلة في أغلبالأحيان بـ؟ أمامك هذه الخيارات: Clindamycin، أو Metronidazole، أو Ciprofloxacin، أو Gentamicin، أو Vancomycin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Metronidazole",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Metronidazole",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الميترونيدازول يسبب اعتلالاً عصبيًا محيطيًا مع الاستخدام المطول.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الميترونيدازول يسبب اعتلالاً عصبيًا محيطيًا مع الاستخدام المطول. حرف M المزدوج يذكرك بهذا الأثر الجانبي الموثق."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Metronidazole",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Prolonged metronidazole: Provokes neuropathy"
       ],

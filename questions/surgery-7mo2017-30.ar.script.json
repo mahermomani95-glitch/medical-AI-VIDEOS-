@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Child with HTN, past UTI history, likely diagnosis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Reflux nephropathy"
       },
       "narration": "لنبدأ بهذا السؤال. أي من التشخيصات التالية هو الأكثر احتمالا في الطفل المصاب بارتفاعضغط الدم وتاريخ سابق من التهاب المسالك البولية؟ أمامك هذه الخيارات: Ureteropelvic junction obstruction، أو Reflux nephropathy، أو Wilms tumor، أو Renal artery stenosis، أو Posterior urethral valve. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Reflux nephropathy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Reflux nephropathy"
       },
       "card_text": "عدوى بولية متكررة عند طفل قد تُندّب الكلية فيرتفع الضغط لاحقًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عدوى بولية متكررة عند طفل قد تُندّب الكلية فيرتفع الضغط لاحقًا. حرف R المزدوج يذكرك بهذا التشخيص المرتبط بهذا التاريخ."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Reflux nephropathy",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Reflux nephropathy"
       },
       "pills": [
         "Childhood UTIs + later HTN: Reflux nephropathy"

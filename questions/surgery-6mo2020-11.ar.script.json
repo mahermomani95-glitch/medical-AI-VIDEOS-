@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "GCS — eyes to voice + inappropriate words + abnormal flexion",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "9"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 8، أو 9، أو 10، أو 11، أو 12. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "9",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "9"
       },
       "card_text": "فتح العين للصوت (3) + كلمات غير ملائمة (3) + انثناء غير طبيعي للألم (3) = مجموع GCS يساوي 9.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فتح العين للصوت (3) + كلمات غير ملائمة (3) + انثناء غير طبيعي للألم (3) = مجموع GCS يساوي 9. ثلاث درجات متطابقة (3 لكل من فتح العين للصوت، الكلمات غير الملائمة، والانثناء غير الطبيعي) تجمع بسهولة لتعطي 9."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. 9",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "9"
       },
       "pills": [
         "\"3+3+3 = 9\""

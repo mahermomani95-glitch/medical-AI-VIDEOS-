@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "50yo, on warfarin, severe bleeding/bruising, treatment",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "FFP and vitamin K",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. رجل في الخمسين من عمره دخل المستشفى مصابًا بنزيف حاد وكدمات. يتناول الوارفارين، والنسبة المعيارية الدولية لديه 10، لعكس مفعوله بسرعةوكاملة. الأفضل هو:؟ أمامك هذه الخيارات: Platelets، أو FFP and vitamin K، أو IV vitamin K، أو Whole blood and vitamin K، أو FFP and vitamin C. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "FFP and vitamin K",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "FFP and vitamin K",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "FFP يعوض عوامل التخثر فورًا بينما فيتامين K يصحح السبب الكامن.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. FFP يعوض عوامل التخثر فورًا بينما فيتامين K يصحح السبب الكامن. حرف F و K يذكرانك بالثنائي العلاجي الفوري لهذه الحالة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. FFP and vitamin K",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Warfarin reversal, active bleeding: FFP plus v"
       ],

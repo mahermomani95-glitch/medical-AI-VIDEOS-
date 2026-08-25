@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Oxygen dissociation curve, true statement",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Is ideally 50% saturated at a PO2 of 28 mmhg",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. فيما يتعلق بمنحنى تفكك الأكسجين، هناك حقيقة واحدة؟ أمامك هذه الخيارات: Is shifted to the left by increase 2.3 _ DPG، أو Is Sigmoid shape for both hemoglobin and myoglobin، أو Is shifted to the left when one ascends to high altitude، أو Is shifted to the right by an increase in the PH، أو Is ideally 50% saturated at a PO2 of 28 mmhg. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Is ideally 50% saturated at a PO2 of 2",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Is ideally 50% saturated at a PO2 of 28 mmhg",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "نقطة إشباع 50٪ على منحنى الهيموغلوبين تقع عند PO2 حوالي 26-28.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نقطة إشباع 50٪ على منحنى الهيموغلوبين تقع عند PO2 حوالي 26-28. حرف P50 يذكرك بهذه النقطة المرجعية المحددة على المنحنى."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Is ideally 50% saturated at a PO2 of 28 mmhg",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "P50: about Twenty-eight mmHg"
       ],

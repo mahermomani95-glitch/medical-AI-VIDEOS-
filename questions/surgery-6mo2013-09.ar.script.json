@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Water-borne disease",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Typhoid fever",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أحد الأمراض التالية هو مرض منقول بالمياه:؟ أمامك هذه الخيارات: Scabies، أو Mycoplasma، أو Chlamydia، أو Typhoid fever، أو Hepatitis C. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Typhoid fever",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Typhoid fever",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "حمى التيفوئيد عدوى منقولة بالماء الملوث كلاسيكيًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. حمى التيفوئيد عدوى منقولة بالماء الملوث كلاسيكيًا. حرف T و W يربطان التيفوئيد بطريق انتقالها المائي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Typhoid fever",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Typhoid: Transmitted by Water"
       ],

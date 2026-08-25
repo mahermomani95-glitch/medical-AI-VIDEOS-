@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Skin cancers, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Basal cell carcinomas are faster growing than squamous carcinomas",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بسرطان الجلد صحيحة باستثناء؟ أمامك هذه الخيارات: Basal cell carcinomas are faster growing than squamous carcinomas، أو Malignant melanomas are the most aggressive skin tumors، أو Squamous cell carcinoma is often seen in areas exposed to sunlight such as scalp and face، أو Rodent ulcer is a basal cell carcinoma، أو Marjolin's ulcer is a squamous cell carcinoma. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Basal cell carcinomas are faster growi",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Basal cell carcinomas are faster growing than squamous carcinomas",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "السرطانة القاعدية تنمو أبطأ من الحرشفية، لا أسرع كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. السرطانة القاعدية تنمو أبطأ من الحرشفية، لا أسرع كما بالعبارة الخاطئة. حرف S المزدوج يذكرك بالاتجاه الصحيح لمقارنة سرعة النمو."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Basal cell carcinomas are faster growing than sq",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "BCC: grows Slower than SCC"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common site, SCC of lips",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Lower lip laterally",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لسرطان الخلايا الحرشفية في الشفاه هو؟ أمامك هذه الخيارات: Upper lip midline، أو Upper lip laterally، أو Lower and upper lips have the same percentage، أو Lower lip laterally، أو Oral commissure. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Lower lip laterally",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Lower lip laterally",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الشفة السفلى الجانبية أكثر تعرضًا للشمس فترتفع فيها نسبة السرطان الحرشفي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الشفة السفلى الجانبية أكثر تعرضًا للشمس فترتفع فيها نسبة السرطان الحرشفي. حرف L المزدوج يذكرك بالموقع الأشيع لهذا السرطان."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Lower lip laterally",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Lip SCC: mostly the Lower lip Laterally"
       ],

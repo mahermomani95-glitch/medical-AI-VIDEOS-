@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Volume of blood loss at which first hypotension is recorded",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "1500 ml"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 200 ml، أو 500 ml، أو 1000 ml، أو 1500 ml، أو 2000 ml. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "1500 ml",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "1500 ml"
       },
       "card_text": "هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم. الجسم يعوّض جيدًا في الدرجتين الأولى والثانية من النزف (حتى 1500مل)، ولا يظهر هبوط الضغط الفعلي إلا في الدرجة الثالثة فما فوق."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. 1500 ml",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "1500 ml"
       },
       "pills": [
         "\"Hypotension first appears at Class III (~1500"

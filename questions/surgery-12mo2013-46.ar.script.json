@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Expected in Pheochromocytoma, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Anhydrosis",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. من المتوقع حدوث كل ما يلي في المريض المصاب بورم القواتم باستثناء؟ أمامك هذه الخيارات: HTN، أو Palpitations، أو Headache، أو Anhydrosis، أو Nausea and vomiting. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Anhydrosis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Anhydrosis",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "ورم القواتم يسبب فرط تعرق (تفعيل ودي)، لا انعدامه.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ورم القواتم يسبب فرط تعرق (تفعيل ودي)، لا انعدامه. حرف A المزدوج يذكرك أن الاتجاه الصحيح هو فرط التعرق لا غيابه."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Anhydrosis",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Pheochromocytoma: Produces sweating, not Anhid"
       ],

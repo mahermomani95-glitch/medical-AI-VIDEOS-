@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Pre-op cholecystectomy patient + sudden hypotension/tachycar",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anaphylaxis"
       },
       "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 45 عامًا، حضرت إلى المستشفى مصابة بالتهاب حادفي المرارة، لإجراء عملية استئصال مرارة اختيارية بالمنظار. أُدخلت إلىالمستشفى وبدأت العلاج بالسوائل الوريدية، ومسكنات الألم، ومضادات القيء،والمضادات الحيوية. بعد ساعتين من بدء هذا العلاج، شعرت المريضة بضيقفي التنفس، وكانت المؤشرات الحيوية: ضغط الدم 80/40، و\"ت\"=36.6،ومعدل ضربات القلب 125، ومعدل الرجفان 25. بالفحص السريري، لوحظاحمرار واضح حول القنية الوريدية الطرفية، والتشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Hypovolemic Shock، أو Septic Shock، أو Cardiogenic Shock، أو Anaphylaxis، أو Pulmonary Embolism. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Anaphylaxis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anaphylaxis"
       },
       "card_text": "الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة. ظهور الاحمرار موضعيًا حول قسطرة وريدية بعد بدء تسريب دواء جديد (مضاد حيوي أو غيره)، مترافقًا بهبوط ضغط مفاجئ، يوجّه بقوة لتفاعل تحسسي تأقي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Anaphylaxis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anaphylaxis"
       },
       "pills": [
         "\"Redness at IV site + sudden shock = Anaphylax"

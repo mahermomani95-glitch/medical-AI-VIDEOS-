@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Hemorrhoids — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Internal hemorrhoids can originate bel"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Internal hemorrhoids originate above the dentate line، أو Sphincter damage can result as a postoperative complication، أو Internal hemorrhoids can originate below the dentate line، أو Can be caused by portal HTN and rectal cancer، أو Bleeding internal hemorrhoids is best treated by surgical excision. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Internal hemorrhoids can originate bel",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Internal hemorrhoids can originate bel"
       },
       "card_text": "البواسير الداخلية تنشأ فوق خط المسنن بحكم التعريف — لا يمكن أن تنشأ تحته (وإلا لكانت بحكم التعريف بواسير خارجية).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. البواسير الداخلية تنشأ فوق خط المسنن بحكم التعريف — لا يمكن أن تنشأ تحته (وإلا لكانت بحكم التعريف بواسير خارجية). التعريف نفسه للبواسير الداخلية هو نشوؤها فوق خط المسنن (من الضفيرة الوريدية الداخلية)؛ أي نشوء تحت خط المسنن يُصنَّف بواسير خارجية بحكم التعريف."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Internal hemorrhoids can originate below the den",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Internal hemorrhoids can originate bel"
       },
       "pills": [
         "\"Internal hemorrhoids = ABOVE dentate line, by"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "35yo + 80kg + 50% TBSA electrical burn — considerations EXCE",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fluid resuscitation with goal of 20cc "
       },
       "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 35 عامًا وصل إلى الطوارئ بحروق تشمل 50% من مساحة سطح الجسم الكلية بسبب إصابة كهربائية. وزنه 80 كغ. الاعتبارات المهمة لهذا المريض تشمل جميع ما يلي ما عدا: أمامك هذه الخيارات: Monitor ECG for arrhythmias، أو Observe for hemoglobinuria، أو Fluid resuscitation with goal of 20cc urine output per hour، أو Monitor for compartment syndrome، أو Consider 8 liters fluid resuscitation in the first 8 hours. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Fluid resuscitation with goal of 20cc ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fluid resuscitation with goal of 20cc "
       },
       "card_text": "هدف إخراج البول في الحروق الكهربائية مع خطر بيلة الميوغلوبين أعلى بكثير (75-100 مل/ساعة) من الهدف القياسي للحروق — 20 مل/ساعة منخفض جدًا لغسل الميوغلوبين ومنع أذية كلوية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. هدف إخراج البول في الحروق الكهربائية مع خطر بيلة الميوغلوبين أعلى بكثير (75-100 مل/ساعة) من الهدف القياسي للحروق — 20 مل/ساعة منخفض جدًا لغسل الميوغلوبين ومنع أذية كلوية. عند خطر بيلة الميوغلوبين (كما بالحروق الكهربائية عالية الفولتية)، يُرفَع هدف إخراج البول لـ75-100 مل/ساعة (بدل 0.5-1 مل/كغ/ساعة القياسي) لغسل الميوغلوبين السام للكلية ومنع الفشل الكلوي الحاد."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Fluid resuscitation with goal of 20cc urine outp",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Fluid resuscitation with goal of 20cc "
       },
       "pills": [
         "\"Electrical burn + myoglobinuria = higher urin"

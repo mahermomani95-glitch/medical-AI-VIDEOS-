@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "7yo, submental swelling, hot, red, painful",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Submental abscess",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر 7 سنوات يعاني من تورم تحت الذقن وسخونة واحمراروكان مؤلمًا للغاية والتشخيص الأكثر احتمالاً هو؟ أمامك هذه الخيارات: Cystic hygroma، أو Thyroglossal cyst، أو Lipoma، أو Dental caries، أو Submental abscess. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Submental abscess",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Submental abscess",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد. حرف H المزدوج يربط العلامات الالتهابية الحادة بتشخيص الخراج."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Submental abscess",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hot, red, painful: Hints at Abscess"
       ],

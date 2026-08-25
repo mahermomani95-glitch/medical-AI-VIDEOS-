@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best test, confirm H. pylori eradication",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Urea breath test",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أفضل اختبار لتأكيد القضاء على جرثومة المعدة بعد العلاج هو:؟ أمامك هذه الخيارات: H pylori serology، أو Urea breath test، أو Histologic biopsy، أو Rapid urease test، أو Antral mucosal biopsy and culture. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urea breath test",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Urea breath test",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اختبار اليوريا بالتنفس هو الفحص الأفضل لتأكيد استئصال الملوية البوابية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اختبار اليوريا بالتنفس هو الفحص الأفضل لتأكيد استئصال الملوية البوابية. حرف U المزدوج يربط هذا الفحص بدوره التأكيدي المباشر."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Urea breath test",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "H. pylori eradication check: Urea breath test"
       ],

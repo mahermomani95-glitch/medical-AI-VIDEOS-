@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Blood transfusion complications — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypercalcemia",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Febrile reaction، أو Hyperkalemia، أو Hypercalcemia، أو Hypocalcemia، أو Hypothermia. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hypercalcemia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypercalcemia",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "نقل الدم الضخم يسبب نقص كالسيوم (السيترات في الدم المحفوظ يرتبط بالكالسيوم)، وليس فرط كالسيوم — نقطة خلط شائعة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نقل الدم الضخم يسبب نقص كالسيوم (السيترات في الدم المحفوظ يرتبط بالكالسيوم)، وليس فرط كالسيوم — نقطة خلط شائعة. مضاد التخثر السيترات المستخدم بحفظ الدم يرتبط بالكالسيوم الحر في دم المريض المتلقي، مما يسبب نقص كالسيوم (وليس فرطه) خصوصًا عند نقل كميات كبيرة وسريعة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Hypercalcemia",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Citrate binds calcium = Hypocalcemia, not hyp"
       ],

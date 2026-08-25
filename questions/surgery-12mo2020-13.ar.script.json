@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Cirrhosis + hypotension + ascites + melena — treatment EXCEP",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "IV Diuretic"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Lactulose، أو IV Diuretic، أو Antibiotics، أو IV fluids. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "IV Diuretic",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "IV Diuretic"
       },
       "card_text": "المدرات الوريدية القوية ليست الأولوية عند مريض متشمع الكبد هبوط ضغطه ولديه نزف فعّال — الإرواء والسيطرة على النزف يأتيان أولًا، وليس الإدرار الذي قد يفاقم هبوط الضغط.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المدرات الوريدية القوية ليست الأولوية عند مريض متشمع الكبد هبوط ضغطه ولديه نزف فعّال — الإرواء والسيطرة على النزف يأتيان أولًا، وليس الإدرار الذي قد يفاقم هبوط الضغط. مريض متشمع الكبد بنزف هضمي فعّال (براز أسود) وهبوط ضغط يحتاج إرواءً وريديًا ومضادات حيوية ولاكتولوز لمنع اعتلال الدماغ الكبدي، وليس مدرات وريدية قوية قد تفاقم هبوط الضغط."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "B. IV Diuretic",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "IV Diuretic"
       },
       "pills": [
         "\"Active GI bleed + hypotension = don't diurese"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Gas produced by transport vehicles",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "cо2",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الغاز الذي تنتجه مركبات النقل يسمى أمامك هذه الخيارات: Co، أو cо2، أو NO، أو N20، أو O2. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "cо2",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "cо2",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "عادم المركبات يغلب عليه ثاني أكسيد الكربون الناتج عن احتراق الوقود.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عادم المركبات يغلب عليه ثاني أكسيد الكربون الناتج عن احتراق الوقود. احتراق الوقود في محركات المركبات ينتج بشكل رئيسي ثاني أكسيد الكربون (CO2) كمنتج نهائي للاحتراق الكامل."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. cо2",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Vehicles = CO2 combustion product\""
       ],

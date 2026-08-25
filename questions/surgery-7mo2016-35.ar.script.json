@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common presentation, Pheochromocytoma",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "HTN",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الشكل الأكثر شيوعًا لورم القواتم؟ أمامك هذه الخيارات: Excess sweating، أو Palpitations، أو Chest pain، أو Headache، أو HTN. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "HTN",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "HTN",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم. حرف H المزدوج يربط ارتفاع الضغط بموقعه كالتظاهر الأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. HTN",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Pheochromocytoma: mostly presents with HTN"
       ],

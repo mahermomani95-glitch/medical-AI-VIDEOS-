@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Wound, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "The final strength of a healed wound is greater than that of the surrounding skin",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالجرح صحيحة باستثناء؟ أمامك هذه الخيارات: The final strength of a healed wound is greater than that of the surrounding skin، أو Presence of a foreign body delays the wound healing، أو The surgical wound of a thyroid operation is considered a clean wound، أو Staphylococcus aureus is the most common cause of wound infection following surgery، أو Hand wash and Hygiene decrease community and hospital-acquired wounds infections. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "The final strength of a healed wound i",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "The final strength of a healed wound is greater than that of the surrounding skin",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "قوة الجرح الملتئم لا تصل أبدًا لكامل قوة النسيج السليم الأصلي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. قوة الجرح الملتئم لا تصل أبدًا لكامل قوة النسيج السليم الأصلي. حرف F المزدوج يذكرك أن القوة النهائية أقل لا أكبر."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. The final strength of a healed wound is greater ",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Healed wound strength: Falls short of original"
       ],

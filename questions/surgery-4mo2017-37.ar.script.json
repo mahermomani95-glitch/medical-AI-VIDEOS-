@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "NOT a feature of Crohn disease",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Risk of flare up is decreased with smoking",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس من سمات مرض كرون؟ أمامك هذه الخيارات: Involvement from mouth to anus، أو Risk of flare up is decreased with smoking، أو Macroscopically demonstrates cobblestone، أو Endoscopically demonstrates skip lesions، أو Histologically demonstrates transmural granulomatous inflammation. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Risk of flare up is decreased with smo",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Risk of flare up is decreased with smoking",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التدخين يرفع خطر انتكاس كرون، لا يخفضه كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التدخين يرفع خطر انتكاس كرون، لا يخفضه كما بالعبارة الخاطئة. حرف S و I يذكرانك أن التدخين يزيد لا يقلل خطر كرون."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Risk of flare up is decreased with smoking",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Smoking + Crohn's: Increases flares, unlike in"
       ],

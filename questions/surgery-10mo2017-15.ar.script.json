@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "40yo, UC exacerbation, severity assessment tool",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Truelove and Witts' severity index"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 40 عامًا يعاني من التهاب القولون التقرحي، ويعاني الآنمن تفاقم أعراض التهاب القولون التقرحي. قيّم شدته بـ؟ أمامك هذه الخيارات: Erythema nodosum، أو Anemia، أو Dose of salazopyrine، أو Ankylosing spondylitis، أو Truelove and Witts' severity index. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Truelove and Witts' severity index",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Truelove and Witts' severity index"
       },
       "card_text": "مؤشر ترولوف وويتس هو الأداة القياسية لتقييم شدة نوبة التهاب القولون التقرحي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. مؤشر ترولوف وويتس هو الأداة القياسية لتقييم شدة نوبة التهاب القولون التقرحي. حرف T و W يذكرانك بهذه الأداة النوعية المصممة لهذا الغرض."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Truelove and Witts' severity index",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Truelove and Witts' severity index"
       },
       "pills": [
         "UC flare severity: Truelove-Witts index"

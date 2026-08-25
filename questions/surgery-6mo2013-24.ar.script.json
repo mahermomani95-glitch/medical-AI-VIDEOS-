@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "First step, multiple trauma patient",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Airway obscure",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أول ما يتم فعله في مرضى الصدمات المتعددة هو؟ أمامك هذه الخيارات: Immobilization، أو Breathing، أو Blood pressure، أو Pupil reaction، أو Airway obscure. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Airway obscure",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Airway obscure",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "تأمين مجرى الهواء هو الخطوة الأولى المطلقة بمريض الرضوض المتعددة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تأمين مجرى الهواء هو الخطوة الأولى المطلقة بمريض الرضوض المتعددة. حرف A المزدوج يذكرك أن مجرى الهواء يسبق كل خطوة أخرى."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Airway obscure",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Trauma priority: Airway Always first"
       ],

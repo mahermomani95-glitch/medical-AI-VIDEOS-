@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Fistulas unlikely to close spontaneously, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Fistulas with long track",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. من غير المرجح أن تغلق جميع الناسور التالية تلقائيًا باستثناء؟ أمامك هذه الخيارات: Fistulas secondary to malignancy، أو Fistulas due to Crohn disease، أو Fistulas with epithelized track، أو Fistulas with long track، أو Fistulas with foreign bodies. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Fistulas with long track",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Fistulas with long track",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "النواسير ذات المسار الطويل أقل احتمالاً للانغلاق التلقائي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. النواسير ذات المسار الطويل أقل احتمالاً للانغلاق التلقائي. حرف L المزدوج يذكرك أن طول المسار يمنع الانغلاق التلقائي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Fistulas with long track",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Long-tract fistula: Less likely to close spont"
       ],

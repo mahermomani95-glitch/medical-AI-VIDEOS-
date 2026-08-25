@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Outbreak crossing international borders",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pandemic",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تفشي أو معدل مفرط من المرض الذي ينتشر بسرعة على مساحة واسعة،ويتجاوز الحدود الدولية يسمى أمامك هذه الخيارات: Epidemic، أو Pandemic، أو Endemic، أو Outbreak، أو Virulence. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pandemic",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Pandemic",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "عندما يتجاوز الوباء الحدود الدولية وينتشر عالميًا، يرتقي من \"وباء محلي\" إلى \"جائحة\".",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عندما يتجاوز الوباء الحدود الدولية وينتشر عالميًا، يرتقي من \"وباء محلي\" إلى \"جائحة\". حرف P المشترك بين Pandemic و Planet للتذكير بأن الجائحة تعني انتشارًا عابرًا للحدود يشمل عدة قارات."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Pandemic",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Pandemic = Planet-wide\""
       ],

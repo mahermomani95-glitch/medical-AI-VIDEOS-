@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "First step, hemostasis process after vessel injury",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vasoconstriction",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الخطوة الأولى في عملية وقف النزيف بعد إصابة الأوعية الدموية هي؟ أمامك هذه الخيارات: Platelet adherence، أو Platelet aggregation، أو Vasoconstriction، أو Release of thromboxane، أو Thrombus activation. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Vasoconstriction",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Vasoconstriction",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التضيق الوعائي هو الخطوة الأولى بالإرقاء بعد إصابة الوعاء.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التضيق الوعائي هو الخطوة الأولى بالإرقاء بعد إصابة الوعاء. حرف V المزدوج يذكرك بأولوية هذه الاستجابة الفورية."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Vasoconstriction",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Hemostasis: Vasoconstriction comes first"
       ],

@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Most common nerve injured, carotid endarterectomy",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypoglossal",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. العصب الأكثر شيوعاً الذي يتعرض للإصابة أثناء استئصال بطانة الشريانالسباتي هو؟ أمامك هذه الخيارات: Vagus، أو Hypoglossal، أو Lingual، أو Glossopharyngeal. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hypoglossal",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Hypoglossal",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "العصب تحت اللسان هو الأكثر عرضة للإصابة باستئصال بطانة السباتي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. العصب تحت اللسان هو الأكثر عرضة للإصابة باستئصال بطانة السباتي. حرف H المزدوج يربط هذا العصب بموقعه القريب من حقل الجراحة."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Hypoglossal",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Carotid endarterectomy: risks the Hypoglossal "
       ],

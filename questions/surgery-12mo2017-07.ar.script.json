@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "40yo, UC exacerbation, GI symptoms, associated lab finding",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anemia"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 40 عامًا يعاني من التهاب القولون التقرحي، ويعاني الآنمن تفاقم أعراض الجهاز الهضمي. يمكنك تقييم شدته بناءً على مؤشر شدةترولوف وويتس.؟ أمامك هذه الخيارات: Erythema nodosum، أو Anemia، أو Dose of Salazopyrin، أو Ankylosing spondylitis، أو Dysplasia on colonoscopy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Anemia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anemia"
       },
       "card_text": "نوبة تفاقم التهاب القولون التقرحي غالبًا ترافقها فقر دم من النزف المزمن.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نوبة تفاقم التهاب القولون التقرحي غالبًا ترافقها فقر دم من النزف المزمن. حرف A المزدوج يذكرك بهذا الترافق الشائع مع نوبات التفاقم."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Anemia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anemia"
       },
       "pills": [
         "UC exacerbation: often brings Anemia"

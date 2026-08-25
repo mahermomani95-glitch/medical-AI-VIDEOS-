@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common cause, lower GI bleeding",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diverticular disease"
       },
       "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا لنزيف الجلوكوز المنخفض هو؟ أمامك هذه الخيارات: Colorectal cancer، أو Ischemic colitis، أو Angiodysplasia، أو Diverticular disease، أو Hemorrhoids. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Diverticular disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diverticular disease"
       },
       "card_text": "داء الرتوج هو السبب الأشيع للنزف الهضمي السفلي المهم سريريًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. داء الرتوج هو السبب الأشيع للنزف الهضمي السفلي المهم سريريًا. حرف D المزدوج يربط الرتوج بموقعها كالسبب الأشيع."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Diverticular disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diverticular disease"
       },
       "pills": [
         "Lower GI bleeding: mostly Diverticular disease"

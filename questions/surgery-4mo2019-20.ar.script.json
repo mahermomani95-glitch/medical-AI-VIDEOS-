@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Age for orchidopexy — newborn with unilateral undescended te",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "1 year"
       },
       "narration": "لنبدأ بهذا السؤال. في أي عمر ينصح بإجراء عملية تثبيت الخصية جراحيًا لحديثي الولادة الذينيعانون من عدم نزول الخصية من جانب واحد؟ أمامك هذه الخيارات: Promptly upon discovery، أو 6 months، أو 1 year، أو At any time prior to puberty، أو 4-5 year. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "1 year",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "1 year"
       },
       "card_text": "عمر السنة الواحدة يوازن بين إعطاء فرصة للنزول التلقائي وحماية الخصوبة من الأذية النسيجية المستمرة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. عمر السنة الواحدة يوازن بين إعطاء فرصة للنزول التلقائي وحماية الخصوبة من الأذية النسيجية المستمرة. عمر السنة هو الرقم المحوري الذي يجب حفظه لتوقيت تثبيت الخصية الجراحي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. 1 year",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "1 year"
       },
       "pills": [
         "\"1 year = the fertility window\""

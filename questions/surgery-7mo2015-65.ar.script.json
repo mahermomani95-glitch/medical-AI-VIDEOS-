@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "3-month-old, persistent vomiting, Pyloric stenosis, common m",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hypochloremic hypokalemic metabolic al"
       },
       "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر ثلاثة أشهر يعاني من قيء مستمر مرتبط بتضيق البواب. التغيير الأيضي الشائع هو؟ أمامك هذه الخيارات: Hypochloremic hypokalemic metabolic alkalosis، أو Hypochloremic hyperkalemic metabolic alkalosis، أو Hyperchloremic hyperkalemic metabolic alkalosis، أو Hypochloremic hypokalemic metabolic acidosis. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hypochloremic hypokalemic metabolic al",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hypochloremic hypokalemic metabolic al"
       },
       "card_text": "القيء المستمر بتضيق البواب يسبب قلاء مع نقص كلور وبوتاسيوم معًا.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. القيء المستمر بتضيق البواب يسبب قلاء مع نقص كلور وبوتاسيوم معًا. الأحرف الثلاثة تذكرك بالتوصيف الاستقلابي الكامل الدقيق."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "A. Hypochloremic hypokalemic metabolic alkalosis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hypochloremic hypokalemic metabolic al"
       },
       "pills": [
         "Pyloric stenosis: Hypochloremic Hypokalemic Al"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "HCC risk factors — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hepatitis A infection"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل عوامل خطر الإصابة بسرطان الخلايا الكبدية كل ما يلي باستثناء أمامك هذه الخيارات: Hepatitis A infection، أو Hepatitis B infection، أو Wilson disease، أو Fatty liver، أو Hepatitis C infection. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hepatitis A infection",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hepatitis A infection"
       },
       "card_text": "التهاب الكبد A يسبب مرضًا حادًا ذاتي الشفاء — لا يتحول لمزمن كما B و C ، لذلك لا يرفع خطر سرطان الخلايا الكبدية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التهاب الكبد A يسبب مرضًا حادًا ذاتي الشفاء — لا يتحول لمزمن كما B و C ، لذلك لا يرفع خطر سرطان الخلايا الكبدية. حرف A في Hepatitis A و Actue (حاد) للتذكير بأنه لا يتحول لالتهاب مزمن أبدًا، وبالتالي لا يرفع خطر التليف أو سرطان الخلايا الكبدية على عكس B و C."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Hepatitis A infection",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hepatitis A infection"
       },
       "pills": [
         "\"Hepatitis A = Acute only, no chronic HCC risk"

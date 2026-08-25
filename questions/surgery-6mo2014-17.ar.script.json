@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Post-renal causes of ARF, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Myoglobinuria"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل الأسباب ما بعد الكلوية للفشل الكلوي الحاد كل ما يلي باستثناء؟ أمامك هذه الخيارات: Ureteral obstruction due to stones، أو Urethral obstruction due to prostatic enlargement، أو Blocked foley catheter، أو Bladder dysfunction due to nerve injury، أو Myoglobinuria. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Myoglobinuria",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Myoglobinuria"
       },
       "card_text": "بيلة الميوغلوبين سبب كلوي داخلي مباشر، لا انسداد ما بعد كلوي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بيلة الميوغلوبين سبب كلوي داخلي مباشر، لا انسداد ما بعد كلوي. حرف M المزدوج يذكرك أن هذا السبب داخلي لا انسدادي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Myoglobinuria",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Myoglobinuria"
       },
       "pills": [
         "Myoglobinuria: Marks intrinsic injury, not obs"

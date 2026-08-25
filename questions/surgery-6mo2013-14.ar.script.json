@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Anesthetic with both analgesic and anesthetic effect",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ketamine"
       },
       "narration": "لنبدأ بهذا السؤال. المخدر الذي له تأثير مسكن ومخدر هو:؟ أمامك هذه الخيارات: Isoflurane، أو Sevoflurane، أو Thiopental sodium، أو Suxamethonium، أو Ketamine. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Ketamine",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ketamine"
       },
       "card_text": "الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد. حرف K المزدوج يربط الكيتامين بخاصيتيه المزدوجتين."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Ketamine",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ketamine"
       },
       "pills": [
         "Ketamine: Kills pain AND induces anesthesia"

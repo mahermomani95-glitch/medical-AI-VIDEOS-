@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Basal cell carcinoma — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It usually metastasizes",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بسرطان الخلايا القاعدية باستثناء أمامك هذه الخيارات: It affects individuals with light skin، أو Common locations are areas of skin exposed to sun، أو It usually metastasizes، أو Sun exposure is the main risk factor، أو Surgical excision is the gold standard therapy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "It usually metastasizes",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "It usually metastasizes",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "السرطان الخلوي القاعدي نادرًا ما ينتشر — فهو غازٍ موضعيًا لكنه ليس ورمًا منتشرًا كالميلانوما.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. السرطان الخلوي القاعدي نادرًا ما ينتشر — فهو غازٍ موضعيًا لكنه ليس ورمًا منتشرًا كالميلانوما. حرف B المشترك بين BCC و Barely (نادرًا) للتذكير بأن هذا الورم شديد الغزو الموضعي لكن نادرًا جدًا ما ينتشر جهازيًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. It usually metastasizes",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"BCC = Barely metastasizes\""
       ],

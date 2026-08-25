@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Warfarin — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Half-life is 4 hours"
       },
       "narration": "لنبدأ بهذا السؤال. جميع العبارات التالية عن الوارفارين صحيحة باستثناء: أمامك هذه الخيارات: Half-life is 4 hours، أو Warfarin crosses the placenta, causing teratogenicity and fetal bleeding، أو INR is used to monitor warfarin، أو Vitamin K is a warfarin antidote، أو fresh frozen plasma is a warfarin antidote. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Half-life is 4 hours",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Half-life is 4 hours"
       },
       "card_text": "نصف عمر الوارفارين يقارب 36-42 ساعة، وليس 4 ساعات — لهذا تحتاج آثاره أيامًا لتظهر وأيامًا لتزول.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. نصف عمر الوارفارين يقارب 36-42 ساعة، وليس 4 ساعات — لهذا تحتاج آثاره أيامًا لتظهر وأيامًا لتزول. نصف عمر الوارفارين طويل نسبيًا (36-42 ساعة)، ولهذا يحتاج عدة أيام للوصول لتأثيره الكامل وعدة أيام أخرى ليزول تأثيره بعد الإيقاف."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Half-life is 4 hours",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Half-life is 4 hours"
       },
       "pills": [
         "\"Warfarin half-life ≈ 36-42 hours, not 4\""

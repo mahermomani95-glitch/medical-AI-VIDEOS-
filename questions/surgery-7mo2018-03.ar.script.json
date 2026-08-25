@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Ideal screening test criteria — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Low sensitivity",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. المعايير المثالية لاختبار الفحص في كل مما يلي باستثناء أمامك هذه الخيارات: High specificity، أو Low sensitivity، أو Safe, rapid and easy، أو Cost-effective، أو For significant suffering disease. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Low sensitivity",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Low sensitivity",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اختبار الفرز الجيد يحتاج حساسية عالية لالتقاط أكبر عدد من الحالات، وليس حساسية منخفضة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اختبار الفرز الجيد يحتاج حساسية عالية لالتقاط أكبر عدد من الحالات، وليس حساسية منخفضة. حرف S المشترك بين Screening و Sensitive للتذكير بأن اختبار الفرز يجب أن يكون شديد الحساسية حتى لا يفوّت أي حالة مصابة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Low sensitivity",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Screening = Sensitive, not Selective\""
       ],

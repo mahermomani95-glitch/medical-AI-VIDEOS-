@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Postoperative DVT prevention — NOT associated with decreased",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Starting warfarin at the day of surger"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Starting warfarin at the day of surgery، أو Prophylactic heparin، أو Early ambulation، أو Adequate hydration، أو Intermittent pneumatic compression. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Starting warfarin at the day of surger",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Starting warfarin at the day of surger"
       },
       "card_text": "الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة. الوارفارين يحتاج عدة أيام ليصل لتأثيره التخثري الكامل، فلا يوفر حماية سريعة كافية إذا بدئ فقط يوم الجراحة، بعكس الهيبارين الوقائي أو ضغط التمعّج المتقطع الأسرع تأثيرًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Starting warfarin at the day of surgery",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Starting warfarin at the day of surger"
       },
       "pills": [
         "\"Warfarin alone on day of surgery = too slow t"

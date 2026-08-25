@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Hypovolemic shock class II — estimated blood loss",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "750-1500mL",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 1500-2000mL، أو 750-1500mL، أو < 50 mL، أو > 2500 mL، أو Not determind. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "750-1500mL",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "750-1500mL",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الصدمة النزفية من الدرجة الثانية تقابل تقريبًا فقد دم 750-1500 مل (15-30% من حجم الدم).",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الصدمة النزفية من الدرجة الثانية تقابل تقريبًا فقد دم 750-1500 مل (15-30% من حجم الدم). تصنيف ATLS للصدمة النزفية: الدرجة 1 (<750مل)، الدرجة 2 (750-1500مل)، الدرجة 3 (1500-2000مل)، الدرجة 4 (>2000مل)."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. 750-1500mL",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Class II shock ≈ 750-1500 mL blood loss\""
       ],

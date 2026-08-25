@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "External carotid artery branches — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mandibular artery"
       },
       "narration": "لنبدأ بهذا السؤال. كل ما يلي فروع من الشريان السباتي الخارجي باستثناء أمامك هذه الخيارات: Posterior auricular artery، أو Ascending pharyngeal artery، أو Mandibular artery، أو Maxillary artery، أو Superior thyroid artery. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Mandibular artery",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mandibular artery"
       },
       "card_text": "لا يوجد شريان باسم \"الشريان الفكي السفلي\" أصلًا — الشريان الفكي العلوي هو الفرع الطرفي الحقيقي القريب من الفك.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. لا يوجد شريان باسم \"الشريان الفكي السفلي\" أصلًا — الشريان الفكي العلوي هو الفرع الطرفي الحقيقي القريب من الفك. السؤال يعتمد على معرفة أن اسم \"الشريان الفكي السفلي\" غير موجود أصلًا في التسمية التشريحية القياسية — الفرع الحقيقي هو الفكي العلوي (Maxillary)."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Mandibular artery",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mandibular artery"
       },
       "pills": [
         "\"No such artery as 'Mandibular'\""

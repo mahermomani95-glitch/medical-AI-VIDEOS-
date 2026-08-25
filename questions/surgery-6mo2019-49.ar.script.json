@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Total body water and distribution — FALSE statement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "It increses with age"
       },
       "narration": "لنبدأ بهذا السؤال. أحد المعلومات التالية غير صحيح فيما يتعلق بإجمالي الماء في جسم الإنسانوتوزيعه أمامك هذه الخيارات: It is more in males than in females، أو It increses with age، أو It is mainly occupied in the intracellular comprtment، أو The extracellular fluid (ECF) contains about one-third of total body water.، أو Total body fluid in 70 kg male adult is 42 L,ECF is 14 L and ICF is 28 L. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "It increses with age",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "It increses with age"
       },
       "card_text": "إجمالي ماء الجسم ينخفض فعليًا مع التقدم بالعمر (دهون أكثر، كتلة عضلية أقل، ماء أقل) — وليس يزداد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إجمالي ماء الجسم ينخفض فعليًا مع التقدم بالعمر (دهون أكثر، كتلة عضلية أقل، ماء أقل) — وليس يزداد. مع التقدم بالعمر تزداد نسبة الدهون وتنخفض الكتلة العضلية الخالية من الدهون، وبما أن الدهون تحتوي ماءً أقل من العضلات، فإن إجمالي ماء الجسم ينخفض وليس يزداد."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. It increses with age",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "It increses with age"
       },
       "pills": [
         "\"Body water DECREASES with age (more fat, less"

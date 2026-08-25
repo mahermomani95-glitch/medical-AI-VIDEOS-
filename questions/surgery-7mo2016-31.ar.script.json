@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Diagnosis of Carcinoid syndrome, best by",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "24 hour urinary 5-HIAA",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يتم تشخيص متلازمة الكارسينويد بشكل أفضل من خلال؟ أمامك هذه الخيارات: Serum Serotonin level، أو Serum substance P levels، أو 24 hour urinary 5-HIAA، أو Serum Neurotensin levels، أو Serum Neurokinin A levels. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "24 hour urinary 5-HIAA",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "24 hour urinary 5-HIAA",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "قياس 5-HIAA ببول 24 ساعة هو الفحص الأفضل لتشخيص متلازمة الكارسينويد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. قياس 5-HIAA ببول 24 ساعة هو الفحص الأفضل لتشخيص متلازمة الكارسينويد. حرف 5-HIAA يذكرك بالمستقلب النوعي المقاس بهذا الفحص."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. 24 hour urinary 5-HIAA",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Carcinoid syndrome: diagnosed via 24-hour 5-HI"
       ],

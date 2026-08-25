@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Mechanism of action, Fluoroquinolones",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Inhibition of DNA gyrase",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. آلية عمل الفلوروكينولونات هي:؟ أمامك هذه الخيارات: Inhibition of RNA polymerase، أو Inhibition of DNA gyrase، أو Inhibition of ribosomes، أو Production of oxygen radicals. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Inhibition of DNA gyrase",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Inhibition of DNA gyrase",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الفلوروكينولونات تثبط إنزيم DNA gyrase الضروري لتضاعف الجرثومة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الفلوروكينولونات تثبط إنزيم DNA gyrase الضروري لتضاعف الجرثومة. حرف F و G يذكرانك بالإنزيم المستهدف تحديدًا بهذه الفئة."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Inhibition of DNA gyrase",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Fluoroquinolones: block DNA Gyrase"
       ],

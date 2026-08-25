@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Cystine kidney stone — characteristic shape",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Hexagonal shape"
       },
       "narration": "لنبدأ بهذا السؤال. السمة المميزة لحصوات الكلى السيستينية هي أمامك هذه الخيارات: Coffin lid shaped، أو Rhomboid shaped، أو Dumbbell shaped، أو Rosette shaped، أو Hexagonal shape. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Hexagonal shape",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Hexagonal shape"
       },
       "card_text": "بلورات السيستين تتخذ شكلًا سداسيًا مميزًا تحت المجهر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. بلورات السيستين تتخذ شكلًا سداسيًا مميزًا تحت المجهر. سيستين يبدأ بحرف S وله ستة أضلاع (سداسي) — للربط بين اسم الحصاة وشكلها المميز."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Hexagonal shape",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Hexagonal shape"
       },
       "pills": [
         "\"Cystine = Six-sided (hexagonal)\""

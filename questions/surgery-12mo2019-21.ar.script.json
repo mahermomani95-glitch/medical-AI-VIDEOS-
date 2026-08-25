@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Inhalation burn management — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Antibiotic administration is required"
       },
       "narration": "لنبدأ بهذا السؤال. مريضٌ حضر إلى قسم الطوارئ بعد إصابته بحروقٍ في شقته. فيما يتعلقبإدارة الحروق الاستنشاقية، جميع ما يلي صحيح باستثناء: أمامك هذه الخيارات: Early airway intubation may be needed، أو Antibiotic administration is required، أو IV fluid replacement is a must، أو Monitoring of urine output. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Antibiotic administration is required",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Antibiotic administration is required"
       },
       "card_text": "المضادات الحيوية الوقائية ليست جزءًا معياريًا من إدارة إصابة الاستنشاق — تُحفظ لعدوى موثقة، تمامًا كما في حروق الجلد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. المضادات الحيوية الوقائية ليست جزءًا معياريًا من إدارة إصابة الاستنشاق — تُحفظ لعدوى موثقة، تمامًا كما في حروق الجلد. مثل إدارة حروق الجلد، لا تُعطى المضادات الحيوية وقائيًا بشكل روتيني في إصابة الاستنشاق الحراري؛ تُحفظ لعلاج عدوى تنفسية موثقة فقط."
@@ -115,7 +119,9 @@
       "visual": "correct_gold",
       "caption": "B. Antibiotic administration is required",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Antibiotic administration is required"
       },
       "pills": [
         "\"Inhalation injury: no routine prophylactic an"

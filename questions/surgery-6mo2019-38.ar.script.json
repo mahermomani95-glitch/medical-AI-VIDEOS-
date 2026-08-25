@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Diarrhea as a characteristic feature — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Insulinoma",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الإسهال هو السمة المميزة لجميع الحالات التالية باستثناء أمامك هذه الخيارات: Medullary thyroid cancer، أو Gastrinoma، أو Insulinoma، أو VIPoma، أو Carcinoid Tumor. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Insulinoma",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Insulinoma",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الإنسولينوما تسبب نوبات نقص سكر الدم، وليس إسهالًا — أعراضها عصبية سكرية وليست إفرازية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الإنسولينوما تسبب نوبات نقص سكر الدم، وليس إسهالًا — أعراضها عصبية سكرية وليست إفرازية. من بين كل الأورام الصماوية المذكورة (النخاعي، الغاسترينوما، VIPoma ، السرطاوي) التي تسبب جميعها إسهالًا بآليات مختلفة، تبقى الإنسولينوما الاستثناء لأنها تسبب نقص سكر الدم وليس الإسهال."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Insulinoma",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Insulinoma = Hypoglycemia, not diarrhea\""
       ],

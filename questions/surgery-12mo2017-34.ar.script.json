@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Deaths due to measles relative to [total cases], rate name",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Case fatality rate",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. عندما يتم عرض العدد الإجمالي للوفيات بسبب الحصبة فيما يتعلق بإجماليحالات الحصبة، فمن الأفضل تسميتها بـ؟ أمامك هذه الخيارات: Cause-specific death rate، أو Incidence rate، أو Prevalence rate، أو Case fatality rate، أو Proportional mortality. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Case fatality rate",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Case fatality rate",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "معدل قاتلية الحالة يُحسب بنسبة الوفيات للمصابين تحديدًا لا السكان الكلي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. معدل قاتلية الحالة يُحسب بنسبة الوفيات للمصابين تحديدًا لا السكان الكلي. حرف C و F يذكرانك بهذا المعدل الوبائي المحدد."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Case fatality rate",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Deaths per Cases: Case Fatality rate"
       ],

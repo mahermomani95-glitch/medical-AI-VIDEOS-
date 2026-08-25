@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "75yo diabetic + pain out of proportion + induration + tiny d",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Necrotizing fasciitis",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. مريض ذكر مسن يبلغ 75 عامًا مصاب بالسكري يراجع الطوارئ بألم شديد في جدار البطن لا يتناسب مع نتائج الفحص السريري، مصحوب بتصلب ونقطة تصريف صغيرة مع انتفاخ هوائي تحت الجلد. التشخيص هو: أمامك هذه الخيارات: Erysipelas، أو Necrotizing fasciitis، أو Lymphangitis، أو Abdominal wall abscess، أو Enterocutaneous fistula. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Necrotizing fasciitis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Necrotizing fasciitis",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الانتفاخ تحت الجلد (غاز بالنسيج من جراثيم مولّدة للغاز) مع ألم لا يتناسب مع الفحص وعلامات جهازية يؤكد تشخيص التهاب اللفافة الناخر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الانتفاخ تحت الجلد (غاز بالنسيج من جراثيم مولّدة للغاز) مع ألم لا يتناسب مع الفحص وعلامات جهازية يؤكد تشخيص التهاب اللفافة الناخر. وجود انتفاخ تحت الجلد (فرقعة عند الجس بسبب غاز بالنسيج) هو علامة إضافية شديدة الدلالة على التهاب اللفافة الناخر الناتج عن جراثيم مولّدة للغاز."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Necrotizing fasciitis",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Subcutaneous emphysema = gas-forming bacteria"
       ],

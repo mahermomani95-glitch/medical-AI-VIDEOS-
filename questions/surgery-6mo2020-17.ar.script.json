@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Necrotizing fasciitis — FALSE statement",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Usually caused by E.coli",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Usually caused by E.coli، أو May present with extensive necrosis and normal overlying skin، أو Debridement and antibiotics are important، أو Mortality is high، أو Can be misdiagnosed early as abscess. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Usually caused by E.coli",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Usually caused by E.coli",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التهاب اللفافة الناخر غالبًا متعدد الجراثيم (هوائية ولاهوائية مختلطة) أو ناتج عن العقديات المقيحة، وليس بشكل أساسي عن جرثومة القولون.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التهاب اللفافة الناخر غالبًا متعدد الجراثيم (هوائية ولاهوائية مختلطة) أو ناتج عن العقديات المقيحة، وليس بشكل أساسي عن جرثومة القولون. التهاب اللفافة الناخر ينتج غالبًا عن خليط جراثيم هوائية ولاهوائية (Type I) أو عن العقديات المقيحة من المجموعة A منفردة (Type II)، وليس E. coli بشكل أساسي كما ورد خطأً بالخيار A."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Usually caused by E.coli",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Necrotizing fasciitis = polymicrobial or Stre"
       ],

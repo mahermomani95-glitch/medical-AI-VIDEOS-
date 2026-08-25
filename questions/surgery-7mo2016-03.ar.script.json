@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Definitive management, Hyperkalemia",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Dialysis",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الإدارة النهائية لفرط بوتاسيوم الدم هي؟ أمامك هذه الخيارات: Calcium chloride، أو Dextrose، أو Dialysis، أو Fluid hydration، أو Salbutamol. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Dialysis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Dialysis",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الغسيل الكلوي هو العلاج النهائي الوحيد الذي يزيل البوتاسيوم فعليًا من الجسم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الغسيل الكلوي هو العلاج النهائي الوحيد الذي يزيل البوتاسيوم فعليًا من الجسم. حرف D المزدوج يربط الغسيل الكلوي بموقعه كالحل النهائي الحقيقي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Dialysis",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Definitive hyperkalemia treatment: Dialysis"
       ],

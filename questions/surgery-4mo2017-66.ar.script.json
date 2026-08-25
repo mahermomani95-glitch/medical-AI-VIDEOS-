@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common skin tumor in whites",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "BCC",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي من الأورام الجلدية التالية هو الأكثر شيوعًا في البشرة البيضاء؟ أمامك هذه الخيارات: SCC، أو BCC، أو Malignant melanoma، أو Merkel cell tumor، أو Dermatofibrosarcoma. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "BCC",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "BCC",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "السرطانة القاعدية هي الأشيع بين أورام الجلد عند ذوي البشرة الفاتحة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. السرطانة القاعدية هي الأشيع بين أورام الجلد عند ذوي البشرة الفاتحة. حرف B المزدوج يربط هذا السرطان بموقعه كالأشيع جلديًا."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. BCC",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Most common skin tumor: BCC"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Oxygen-hemoglobin curve shifts left, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Acidosis",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يتم تحويل منحنى تفكك الأكسجين والهيموجلوبين نحو اليسار بواسطة جميعالعوامل التالية باستثناء؟ أمامك هذه الخيارات: Hypothermia، أو Decreased PacO2، أو Acidosis، أو Increased PH، أو Dcreased (2,3-DPG). لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Acidosis",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Acidosis",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الحماض يزيح المنحنى يمينًا (بور)، لا يسارًا كما بالعبارة الخاطئة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الحماض يزيح المنحنى يمينًا (بور)، لا يسارًا كما بالعبارة الخاطئة. حرف A و R يذكرانك بالاتجاه الصحيح لتأثير الحماض على المنحنى."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Acidosis",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Acidosis: shifts the curve Right, not left"
       ],

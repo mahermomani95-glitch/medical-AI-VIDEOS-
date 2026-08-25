@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "42yo, seizure post-lipoma excision under anesthesia, likely ",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "40-50 ml 1% lidocaine with epinephrine",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. بعد استئصال عدة أورام شحمية تحت التخدير، أصيب رجل يبلغ من العمر 42 عامًا بنوبة. يجب أن يكون الجراح على دراية بالجرعة القصوى الآمنة منالمخدر الموضعي لمريض وزنه 70 كجم.؟ أمامك هذه الخيارات: 10-20 ml 1% lidocaine، أو 40-50 ml 2% lidocaine with epinephrine، أو 40-50 ml 1% lidocaine with epinephrine، أو 40-50 ml 0.5% lidocaine، أو 40-50 ml 1% lidocaine without epinephrine. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "40-50 ml 1% lidocaine with epinephrine",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "40-50 ml 1% lidocaine with epinephrine",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "جرعة ليدوكايين تراكمية زائدة بعمليات متعددة قد تسبب تسممًا جهازيًا مع نوبات.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. جرعة ليدوكايين تراكمية زائدة بعمليات متعددة قد تسبب تسممًا جهازيًا مع نوبات. حرف L المزدوج يذكرك بخطر تراكم جرعة التخدير الموضعي."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. 40-50 ml 1% lidocaine with epinephrine",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Post-multiple-excision seizure: Lidocaine toxi"
       ],

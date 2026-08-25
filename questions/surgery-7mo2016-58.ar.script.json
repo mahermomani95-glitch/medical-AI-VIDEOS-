@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Coarctation of aorta, most common location",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Thoracic aorta just distal to left Sub"
       },
       "narration": "لنبدأ بهذا السؤال. يحدث تضيق الأبهر عادة في؟ أمامك هذه الخيارات: Ascending thoracic aorta، أو Transverse thoracic aorta، أو Thoracic aorta just proximal to left Subclavian artery، أو Thoracic aorta just distal to left Subclavian artery، أو Descending thoracic aorta just above the diaphragm. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Thoracic aorta just distal to left Sub",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Thoracic aorta just distal to left Sub"
       },
       "card_text": "تضيق برزخ الأبهر يحدث أشيع بعد الشريان تحت الترقوة الأيسر مباشرة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تضيق برزخ الأبهر يحدث أشيع بعد الشريان تحت الترقوة الأيسر مباشرة. حرف L المزدوج يذكرك بالموقع الدقيق الأشيع لهذا التضيق."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Thoracic aorta just distal to left Subclavian ar",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "chest",
+        "label": "Thoracic aorta just distal to left Sub"
       },
       "pills": [
         "Coarctation: just past the Left subclavian"

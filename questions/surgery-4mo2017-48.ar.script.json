@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "18yo, urticaria/wheezing after IV injection, treatment",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Epinephrine",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 18 عامًا تُصاب بالشرى وأزيز الصدر بعد حقنها بمادةتباين وريدية لإجراء فحص مقطعي محوسب للبطن. ضغط دمها 80/50، معدلضربات القلب 155/دقيقة، معدل التنفس 28/دقيقة، أي مما يلي هو العلاجالفوري الأنسب؟ أمامك هذه الخيارات: Intubation، أو Epinephrine، أو B-blockers، أو lodine، أو Fluid challenge. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Epinephrine",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Epinephrine",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الإبينفرين هو العلاج الفوري المنقذ للحياة لتفاعل التأق التحسسي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الإبينفرين هو العلاج الفوري المنقذ للحياة لتفاعل التأق التحسسي. حرف E المزدوج يذكرك بأولوية هذا الدواء المنقذ للحياة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Epinephrine",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Anaphylaxis (urticaria + wheezing): Epinephrin"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "NOT part of GCS (repeat)",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pupils size"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس جزءًا من عصية كالميت غيران ؟ أمامك هذه الخيارات: Obey commands، أو Localizes painful stimuli، أو Open eyes to calling، أو Incomprehensible sounds، أو Pupils size. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Pupils size",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pupils size"
       },
       "card_text": "حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. حرف G و E و M يذكرانك بالمكونات الثلاثة الحقيقية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Pupils size",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Pupils size"
       },
       "pills": [
         "GCS: Gauges Eye, verbal, Motor — not pupil siz"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Massive trauma + hypotension management — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Elevate systolic pressure above 110 mmHg",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. في إدارة مريض مصاب برضح شديد وانخفاض ضغط الدم، جميع ما يلي يجب فعله ما عدا: أمامك هذه الخيارات: Give blood، أو Stop hemorrhage، أو Correct coagulopathy، أو Elevate systolic pressure above 110 mmHg، أو Control sepsis or major contamination. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Elevate systolic pressure above 110 mm",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Elevate systolic pressure above 110 mmHg",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الضغط المسموح المنخفض هو المفضل أثناء النزف الفعّال — رفع الضغط الانقباضي فوق 110 بسوائل عدوانية قبل السيطرة على النزف قد يزيد النزف بتفكيك الخثرات وتخفيف عوامل التخثر.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الضغط المسموح المنخفض هو المفضل أثناء النزف الفعّال — رفع الضغط الانقباضي فوق 110 بسوائل عدوانية قبل السيطرة على النزف قد يزيد النزف بتفكيك الخثرات وتخفيف عوامل التخثر. محاولة رفع الضغط الانقباضي لفوق 110 بسوائل عدوانية قبل السيطرة على مصدر النزف قد \"يفجّر\" الخثرات المتشكلة حديثًا ويخفف عوامل التخثر، فيزيد النزف سوءًا — لذلك يُفضَّل \"الضغط المسموح المنخفض\" حتى السيطرة على النزف."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Elevate systolic pressure above 110 mmHg",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Permissive hypotension in active hemorrhage —"
       ],

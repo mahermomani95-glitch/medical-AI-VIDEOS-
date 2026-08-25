@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common perianal fistula type",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Intersphincteric fistulae"
       },
       "narration": "لنبدأ بهذا السؤال. النوع الأكثر شيوعا من الناسور حول الشرج هو؟ أمامك هذه الخيارات: Transsphincteric fistulae، أو Extrasphincteric fistulae، أو Intersphincteric fistulae، أو Suprasphincteric fistulae، أو Infrasphincteric fistulae. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Intersphincteric fistulae",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Intersphincteric fistulae"
       },
       "card_text": "الناسور بين العضلتين العاصرتين هو النوع الأشيع من النواسير الشرجية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الناسور بين العضلتين العاصرتين هو النوع الأشيع من النواسير الشرجية. حرف I المزدوج يربط هذا النوع بموقعه كالأشيع."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Intersphincteric fistulae",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Intersphincteric fistulae"
       },
       "pills": [
         "Perianal fistula: mostly Intersphincteric"

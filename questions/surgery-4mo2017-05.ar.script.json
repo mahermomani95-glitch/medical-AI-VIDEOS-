@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "5-HIAA tested in which disease",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Carcinoid tumor",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يتم اختبار حمض 5-هيدروكسي إندول الأسيتيك في أي من هذه الأمراض؟ أمامك هذه الخيارات: Medullary carcinoma of the breast، أو Papillary thyroid carcinoma، أو Giant cell carcinoma of the pancreas، أو Carcinoid tumor، أو Ganglioneuromas. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Carcinoid tumor",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Carcinoid tumor",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "5-HIAA فحص نوعي للورم الكارسينويدي المفرز للسيروتونين.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. 5-HIAA فحص نوعي للورم الكارسينويدي المفرز للسيروتونين. حرف C المزدوج يربط هذا الفحص بالورم النوعي المرتبط."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Carcinoid tumor",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "5-HIAA: tests for Carcinoid tumor"
       ],

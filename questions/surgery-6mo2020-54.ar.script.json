@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "COVID-19 era, high viral load patient — FALSE statement",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Risk-reducing strategies as stroma rather than primary anastomosis",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Risk-reducing strategies as stroma rather than primary anastomosis، أو Treat all patient as being COVID-19 positive، أو Mortality rate ranges from ~ 0.5 to 3%، أو Full personal protective equipment for all staff، أو Cholecystitis can be treated conservatively or by cholecystectomy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Risk-reducing strategies as stroma rat",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Risk-reducing strategies as stroma rather than primary anastomosis",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الفغرة (بدل المفاغرة الأولية) هي فعليًا استراتيجية مخفِّضة للخطر عند مرضى كوفيد عالي الخطورة (لتجنّب مضاعفات تسرب المفاغرة أثناء مرض جهازي) — وليست شيئًا يجب تجنّبه.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الفغرة (بدل المفاغرة الأولية) هي فعليًا استراتيجية مخفِّضة للخطر عند مرضى كوفيد عالي الخطورة (لتجنّب مضاعفات تسرب المفاغرة أثناء مرض جهازي) — وليست شيئًا يجب تجنّبه. اختيار الفغرة بدل المفاغرة الأولية عند مريض عالي الخطورة (كمريض كوفيد بحمل فيروسي عالٍ) هو فعليًا استراتيجية لتقليل الخطر الجراحي الكلي، وليس ممارسة خاطئة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Risk-reducing strategies as stroma rather than p",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Stoma over anastomosis = risk-REDUCING in hig"
       ],

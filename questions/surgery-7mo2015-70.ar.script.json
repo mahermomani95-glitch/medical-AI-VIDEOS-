@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common blood transfusion reaction",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Febrile non Hemolytic reaction",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. رد فعل نقل الدم الأكثر شيوعًا هو؟ أمامك هذه الخيارات: ABO incompatibility reaction، أو Acute lung injury، أو Delayed Hemolytic reaction، أو Febrile non Hemolytic reaction، أو Hypocalcemia. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Febrile non Hemolytic reaction",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Febrile non Hemolytic reaction",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "التفاعل الحموي غير الانحلالي هو الأشيع بين تفاعلات نقل الدم.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. التفاعل الحموي غير الانحلالي هو الأشيع بين تفاعلات نقل الدم. حرف F المزدوج يربط هذا التفاعل بموقعه كالأشيع."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Febrile non Hemolytic reaction",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Transfusion reaction: mostly Febrile non-hemol"
       ],

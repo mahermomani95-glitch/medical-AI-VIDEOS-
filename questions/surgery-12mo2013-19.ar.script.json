@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Initiating event, acute calculous Cholecystitis",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cystic duct"
       },
       "narration": "لنبدأ بهذا السؤال. الحدث المبدئي الذي يؤدي إلى التهاب المرارة الحصوي الحاد هو انسداد؟ أمامك هذه الخيارات: Common bile duct، أو Common hepatic duct، أو Cystic duct، أو Right hepatic duct، أو Left hepatic duct. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cystic duct",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cystic duct"
       },
       "card_text": "انسداد القناة المرارية هو الحدث المبدئي لالتهاب المرارة الحصوي الحاد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. انسداد القناة المرارية هو الحدث المبدئي لالتهاب المرارة الحصوي الحاد. حرف C المزدوج يربط القناة المرارية بموقعها كنقطة البدء."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Cystic duct",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cystic duct"
       },
       "pills": [
         "Acute cholecystitis: starts with Cystic duct o"

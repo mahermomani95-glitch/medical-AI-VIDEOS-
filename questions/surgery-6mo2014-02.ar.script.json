@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most important prognostic determinant, survival after treatm",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Lymph node involvement",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي هو أهم عامل تنبؤي للبقاء على قيد الحياة بعد العلاج من سرطانالقولون والمستقيم؟ أمامك هذه الخيارات: Lymph node involvement، أو Transumural extension، أو Tumor size، أو Histologic differentiation، أو DNA content. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Lymph node involvement",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Lymph node involvement",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد العلاج.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد العلاج. حرف L المزدوج يذكرك بأهمية العقد اللمفاوية التنبؤية الفائقة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "A. Lymph node involvement",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Cancer prognosis: Lymph node status Leads"
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Lateral internal sphincterotomy, treatment of choice for",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anal fissure"
       },
       "narration": "لنبدأ بهذا السؤال. إن استئصال العضلة العاصرة الداخلية الجانبية هو العلاج المفضل لـ؟ أمامك هذه الخيارات: Hemorrhoids، أو Anal fissure، أو Perianal abscess، أو Perianal hematoma، أو Intrasphincteric abscess. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Anal fissure",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anal fissure"
       },
       "card_text": "قطع العضلة العاصرة الجانبي يُخفف تشنج الشق الشرجي المزمن.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. قطع العضلة العاصرة الجانبي يُخفف تشنج الشق الشرجي المزمن. حرف L المزدوج يربط هذا الإجراء بعلاج الشق الشرجي المزمن."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Anal fissure",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anal fissure"
       },
       "pills": [
         "LIS: treats the Lingering fissure"

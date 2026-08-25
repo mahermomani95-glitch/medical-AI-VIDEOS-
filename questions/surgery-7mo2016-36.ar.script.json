@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Initial step, SIADH management",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Restriction of free water",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. الخطوة الأولى في إدارة متلازمة إفراز هرمون مضاد لإدرار البول بشكل غيرمناسب؟ أمامك هذه الخيارات: Furosemide، أو Hypertonic saline، أو Demeclocycline، أو Isotonic saline، أو Restriction of free water. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Restriction of free water",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Restriction of free water",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH. حرف R المزدوج يذكرك بهذه الخطوة الأولى البسيطة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Restriction of free water",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "SIADH: Start with water Restriction"
       ],

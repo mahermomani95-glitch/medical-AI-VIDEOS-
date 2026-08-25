@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best guide, fluid replacement in burn patient",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Urine output"
       },
       "narration": "لنبدأ بهذا السؤال. أي مما يلي هو أفضل دليل لاستبدال السوائل في مريض الحروق؟ أمامك هذه الخيارات: Hemoglobin and haematocrit، أو Urine output، أو Urine osmolality، أو Plasma volume، أو Specific gravity. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urine output",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Urine output"
       },
       "card_text": "إخراج البول هو الدليل الأفضل والأسرع لضبط سوائل مريض الحروق.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إخراج البول هو الدليل الأفضل والأسرع لضبط سوائل مريض الحروق. حرف U المزدوج يذكرك بأهمية هذا المؤشر العملي المباشر."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Urine output",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Urine output"
       },
       "pills": [
         "Burn fluid guide: Urine output leads the way"

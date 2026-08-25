@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "32yo, hematuria, staghorn calculus, composition",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Calcium phosphate"
       },
       "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 32 عامًا يعاني من بيلة دموية. كشفت الأشعة السينية للكلى والحالب والمثانة عن وجود حصوة قرنية في الكلية اليمنى وفي منتصفمجرى البول، ونمو بروتيوس في العينة. النوع الأكثر احتمالًا للحصوات هو؟ أمامك هذه الخيارات: Bile pigment stone، أو Calcium oxalate، أو Calcium phosphate، أو Cholesterol stone، أو Cystine stone. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Calcium phosphate",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Calcium phosphate"
       },
       "card_text": "فوسفات الكالسيوم من التركيبات الكلاسيكية للحصى العرنينية الكلوية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. فوسفات الكالسيوم من التركيبات الكلاسيكية للحصى العرنينية الكلوية. حرف C المزدوج يذكرك بهذا التركيب المرتبط بالحصى العرنينية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Calcium phosphate",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "pelvis",
+        "label": "Calcium phosphate"
       },
       "pills": [
         "Staghorn calculus: often Calcium phosphate"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "First anatomical structure compressed, compartment syndrome",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Veins"
       },
       "narration": "لنبدأ بهذا السؤال. أول بنية تشريحية تم ضغطها في متلازمة الحيز؟ أمامك هذه الخيارات: Fascia، أو Muscles، أو Arteries، أو Veins، أو Nerves. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Veins",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Veins"
       },
       "card_text": "الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي. حرف V المزدوج يذكرك أن الأوردة هي أول بنية متأثرة."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. Veins",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "limb",
+        "label": "Veins"
       },
       "pills": [
         "Compartment syndrome: Veins compressed first"

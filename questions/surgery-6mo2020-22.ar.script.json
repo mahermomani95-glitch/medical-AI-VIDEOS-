@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Anal cancer — WRONG statement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mostly associated with benign anal con"
       },
       "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Mostly associated with benign anal condition، أو Lymphatic spread to the inguinal area، أو Patients may present with rectal bleeding، أو The most common type is squamous cell carcinoma، أو May cause fecal incontinence. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Mostly associated with benign anal con",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mostly associated with benign anal con"
       },
       "card_text": "سرطان الشرج مرتبط غالبًا بعدوى HPV ، وليس بحالات شرجية حميدة كالبواسير أو الشقوق — هذا فرق مهم ومختبر بكثرة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. سرطان الشرج مرتبط غالبًا بعدوى HPV ، وليس بحالات شرجية حميدة كالبواسير أو الشقوق — هذا فرق مهم ومختبر بكثرة. سرطان الشرج مرتبط بشكل أساسي بعدوى فيروس الورم الحليمي البشري (HPV)، وليس بحالات شرجية حميدة شائعة كالبواسير أو الشقوق كما قد يُظن."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Mostly associated with benign anal condition",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mostly associated with benign anal con"
       },
       "pills": [
         "\"Anal cancer = HPV-related, not from benign an"

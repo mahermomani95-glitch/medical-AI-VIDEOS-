@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Major component of bile",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Water",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. المكون الرئيسي للصفراء؟ أمامك هذه الخيارات: Bilirubin، أو Bile acid، أو Water، أو Cholesterol، أو Lecithin. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Water",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Water",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الماء هو المكون الأساسي الأكبر للصفراء بنسبة كتلته.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الماء هو المكون الأساسي الأكبر للصفراء بنسبة كتلته. حرف W المزدوج يربط الماء بموقعه كالمكون الأكبر للصفراء."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Water",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Bile: mostly Water"
       ],

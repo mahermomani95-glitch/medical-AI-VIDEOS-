@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Infantile hypertrophic pyloric stenosis, false statement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Usually, ultrasound is not sufficient "
       },
       "narration": "لنبدأ بهذا السؤال. في تضيق البواب الضخامي عند الأطفال، يكون أحد الخيارات التالية خاطئًا؟ (سؤال مكرر، راجع السؤال رقم 544) أمامك هذه الخيارات: The infant usually presents with projectile non-bilious vomiting، أو The treatment is surgical by Ramstedt operation، أو Symptoms commence at age of 3-4 weeks، أو A palpable olive-shaped mass is usually felt in the epigastric region in the classical case، أو Usually, ultrasound is not sufficient for diagnosis. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Usually, ultrasound is not sufficient ",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Usually, ultrasound is not sufficient "
       },
       "card_text": "الموجات فوق الصوتية كافية عادة لتشخيص تضيق البواب.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الموجات فوق الصوتية كافية عادة لتشخيص تضيق البواب. حرف U و S يذكرانك بكفاية هذا الفحص التشخيصي."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "E. Usually, ultrasound is not sufficient for diagno",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Usually, ultrasound is not sufficient "
       },
       "pills": [
         "Pyloric stenosis: Ultrasound Usually Sufficien"

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Obstructive jaundice, bleeding tendency, deficient factor",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "8",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. في اليرقان الانسدادي، يكون الميل إلى النزيف بسبب نقص عوامل التخثرالتالية باستثناء؟ أمامك هذه الخيارات: 2، أو 7، أو 8، أو 9، أو 10. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "8",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "8",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "اليرقان الانسدادي يمنع امتصاص فيتامين K فيؤثر على عوامل تخثر معتمدة عليه.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. اليرقان الانسدادي يمنع امتصاص فيتامين K فيؤثر على عوامل تخثر معتمدة عليه. حرف O و V يذكرانك بآلية نقص عوامل التخثر بهذه الحالة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. 8",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Obstructive jaundice: Obstructs Vitamin K-depe"
       ],

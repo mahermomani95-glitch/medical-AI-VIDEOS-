@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Bloody diarrhea + oral aphthous ulcers + skip lesions + gran",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn's Disease"
       },
       "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 40 عامًا حضرت إلى العيادة تشكو من إسهال دمويمتكرر وألم مغص في البطن لأكثر من 3 أشهر. بالفحص السريري، وُجدت قرحقلاعية متعددة في الفم، والتهاب زاوية الفم، والتهاب الشفة، وكتلة بطنية. أظهرتنظير القولون آفات قفزية في القولون مع ورم حبيبي ظهاري. التشخيصالأكثر احتمالًا هو: أمامك هذه الخيارات: Colon Cancer، أو Rectal Cancer، أو Crohn's Disease، أو Ulcerative Colitis، أو Diverticular Disease. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Crohn's Disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn's Disease"
       },
       "card_text": "الآفات المتقطعة (skip lesions) مع الأورام الحبيبية غير المتجبنة على الخزعة هي التوقيع المميز لداء كرون — متقطع، عابر لكل طبقات الجدار.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الآفات المتقطعة (skip lesions) مع الأورام الحبيبية غير المتجبنة على الخزعة هي التوقيع المميز لداء كرون — متقطع، عابر لكل طبقات الجدار. وجود آفات متقطعة (تصيب أجزاء وتترك أخرى سليمة بينها) مع أورام حبيبية ظهارية على الخزعة هو التوقيع المرضي النسيجي الكلاسيكي لداء كرون، يميزه عن التهاب القولون التقرحي المستمر."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "C. Crohn's Disease",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Crohn's Disease"
       },
       "pills": [
         "\"Skip lesions + granuloma = Crohn's\""

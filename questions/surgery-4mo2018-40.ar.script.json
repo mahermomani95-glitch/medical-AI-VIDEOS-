@@ -37,7 +37,9 @@
       "visual": "question_card",
       "caption": "Ringer lactate composition",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Na 130, Cl 109, K 4, Ca 2.7, HCO3 28",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. تكوين لاكتات رينجر هو أمامك هذه الخيارات: Na 145, Cl 109, K 4, Ca 2.7, HCO3 28، أو Na 130, Cl 103, K 4, Ca 2.7, HCO3 28، أو Na 154, Cl 109, K 4, Ca 4, HCO3 28، أو Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. لنحللها معًا."
     },
@@ -61,7 +63,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Na 130, Cl 109, K 4, Ca 2.7, HCO3 28",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Na 130, Cl 109, K 4, Ca 2.7, HCO3 28",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "محلول لاكتات رينجر يحاكي بلازما الدم إلى حد كبير — صوديوم منخفض قليلًا نسبيًا مع دارئ لاكتات بدل البيكربونات المباشرة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. محلول لاكتات رينجر يحاكي بلازما الدم إلى حد كبير — صوديوم منخفض قليلًا نسبيًا مع دارئ لاكتات بدل البيكربونات المباشرة. الرقم 130 هو الأسهل للتذكر كصوديوم لاكتات رينجر (أقل من صوديوم البلازما الطبيعي 135-145)، مع بيكربونات ‘مستعارة' من اللاكتات المُستقلب كبديل."
@@ -114,9 +118,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "D. Na 130, Cl 109, K 4, Ca 2.7, HCO3 28",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Ringer's = 130 Sodium, borrowed bicarbonate\""
       ],

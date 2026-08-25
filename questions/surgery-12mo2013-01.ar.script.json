@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Hourly urine output, 60kg patient",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "30 mL",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. في مراقبة الناتج البولي كل ساعة لمريض يزن 60 كجم، فإن كمية البول التيتعتبر مقبولة بالحد الأدنى هي؟ أمامك هذه الخيارات: 60 mL، أو 45 mL، أو 30 mL، أو 100 mL، أو 75 mL. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "30 mL",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "30 mL",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "إخراج البول الطبيعي يقارب 0.5 مل لكل كيلوغرام بالساعة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. إخراج البول الطبيعي يقارب 0.5 مل لكل كيلوغرام بالساعة. حرف H يذكرك بالمعدل القياسي 0.5 مل/كغ المستخدم بالحساب."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. 30 mL",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Urine output: Half a mL per kg"
       ],

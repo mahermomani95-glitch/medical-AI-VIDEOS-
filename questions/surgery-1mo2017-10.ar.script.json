@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Best diagnostic test, Carcinoid tumor",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Urinary 5-hydroxyindoleacetic acid",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. أفضل اختبار تشخيصي للورم الكارسينويدي؟ أمامك هذه الخيارات: CT scan، أو Chromogranin A (CgA)، أو Urinary 5-hydroxyindoleacetic acid، أو Endoscopy، أو Biopsy. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Urinary 5-hydroxyindoleacetic acid",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Urinary 5-hydroxyindoleacetic acid",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "قياس 5-HIAA بالبول هو الفحص الأفضل تشخيصًا للورم الكارسينويدي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. قياس 5-HIAA بالبول هو الفحص الأفضل تشخيصًا للورم الكارسينويدي. حرف 5-HIAA يذكرك بالمستقلب النوعي المقاس بهذا الفحص."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Urinary 5-hydroxyindoleacetic acid",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Carcinoid tumor: diagnosed via urinary 5-HIAA"
       ],

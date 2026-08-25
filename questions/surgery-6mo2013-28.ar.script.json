@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common salivary gland cancer",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mucoepidermoid carcinoma"
       },
       "narration": "لنبدأ بهذا السؤال. سرطان الغدد اللعابية الأكثر شيوعا هو:؟ أمامك هذه الخيارات: Warthin tumors، أو Mucoepidermoid carcinoma، أو Adenoidcystic cancer، أو Adenocarcinoma، أو Malignant mixed cancer. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Mucoepidermoid carcinoma",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mucoepidermoid carcinoma"
       },
       "card_text": "السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية. حرف M المزدوج يربط هذا السرطان بموقعه كالأشيع خبيثًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "B. Mucoepidermoid carcinoma",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "Mucoepidermoid carcinoma"
       },
       "pills": [
         "Salivary gland cancer: mostly Mucoepidermoid"

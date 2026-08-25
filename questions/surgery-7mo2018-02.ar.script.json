@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Mortality per 1000 population — all causes",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Crude death rate",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. معدل الوفيات من جميع أسباب الوفاة لكل 1000 من السكان يسمى أمامك هذه الخيارات: Life expectancy، أو Infant mortality rate، أو Crude death rate، أو Crude death radio، أو Total death rate. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Crude death rate",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Crude death rate",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام. كلمة Crude تعني \"خام/غير منقّى\"، أي أنه يحسب كل الوفيات دون تصنيف حسب السبب أو العمر."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Crude death rate",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "\"Crude = Counts everyone\""
       ],

@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Achalasia, EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Calcium channel blockers (CCB) exacerbate this condition",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بالخلل الارتخائي باستثناء؟ أمامك هذه الخيارات: It can be congenital or acquired، أو In young patients, myotomy is the best treatment، أو Calcium channel blockers (CCB) exacerbate this condition، أو Caused by neurogenic degeneration، أو Dysphagia, regurgitation, weight loss. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Calcium channel blockers (CCB) exacerb",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Calcium channel blockers (CCB) exacerbate this condition",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "حاصرات الكالسيوم تُحسّن الأكالازيا بإرخاء العضلة العاصرة، لا تُفاقمها.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. حاصرات الكالسيوم تُحسّن الأكالازيا بإرخاء العضلة العاصرة، لا تُفاقمها. حرف C المزدوج يذكرك أن هذه الأدوية علاجية لا مُفاقمة."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "C. Calcium channel blockers (CCB) exacerbate this c",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "CCBs: Calm the LES in achalasia, don't worsen "
       ],

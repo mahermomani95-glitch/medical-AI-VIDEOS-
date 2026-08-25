@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Initial treatment, acute GI bleeding",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Aggressive volume resuscitation",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. يتضمن العلاج الأولي للنزيف الحاد في الجهاز الهضمي ما يلي:؟ أمامك هذه الخيارات: H2- receptor antagonist، أو Angiography، أو Sucralfate، أو Gastrointestinal endoscopy، أو Aggressive volume resuscitation. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Aggressive volume resuscitation",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Aggressive volume resuscitation",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد. حرف R المزدوج يذكرك بأولوية الإنعاش الحجمي قبل كل شيء."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "E. Aggressive volume resuscitation",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Acute GI bleeding: Resuscitate first"
       ],

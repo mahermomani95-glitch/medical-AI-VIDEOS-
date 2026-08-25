@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Most common blood product with bacterial contamination",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Platelets",
+        "sub": "الإجابة الصحيحة"
       },
       "narration": "لنبدأ بهذا السؤال. المنتج الدموي الأكثر شيوعًا الذي يحتوي على تلوث بكتيري هو؟ أمامك هذه الخيارات: Red blood cells، أو Platelets، أو Cryoprecipitate، أو Fresh frozen plasma، أو WBC. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Platelets",
       "illustration": {
-        "type": "icon"
+        "type": "keyterm",
+        "label": "Platelets",
+        "sub": "الإجابة الصحيحة"
       },
       "card_text": "الصفيحات تُحفظ بحرارة الغرفة فتكون الأكثر عرضة للتلوث الجرثومي.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الصفيحات تُحفظ بحرارة الغرفة فتكون الأكثر عرضة للتلوث الجرثومي. حرف P المزدوج يذكرك بظروف الحفظ الدافئة المسببة لهذا الخطر."
@@ -125,9 +129,7 @@
       "id": "WHY_CORRECT",
       "visual": "correct_gold",
       "caption": "B. Platelets",
-      "illustration": {
-        "type": "icon"
-      },
+      "illustration": null,
       "pills": [
         "Platelets: kept warm, most Prone to bacterial "
       ],

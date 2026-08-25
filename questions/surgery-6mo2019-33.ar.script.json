@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Causes of splenomegaly — EXCEPT",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cyst"
       },
       "narration": "لنبدأ بهذا السؤال. تشمل الأسباب الشائعة لتضخم الطحال كل ما يلي باستثناء أمامك هذه الخيارات: Cyst، أو Portal HTN، أو Thalassemia Major، أو Lymphoma، أو Felty Synarome. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "Cyst",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cyst"
       },
       "card_text": "الكيس الطحالي البسيط هو آفة كتلية موضعية، وليس سببًا لتضخم طحالي حقيقي منتشر كالأسباب الجهازية الأخرى المذكورة.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الكيس الطحالي البسيط هو آفة كتلية موضعية، وليس سببًا لتضخم طحالي حقيقي منتشر كالأسباب الجهازية الأخرى المذكورة. الكيس هو آفة موضعية محددة داخل الطحال، بينما التضخم الطحالي الحقيقي (splenomegaly) ينتج عن أسباب جهازية كارتفاع الضغط البابي أو أمراض الدم أو أمراض المناعة الذاتية."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "A. Cyst",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "abdomen",
+        "label": "Cyst"
       },
       "pills": [
         "\"Cyst = mass lesion, not a splenomegaly cause\""

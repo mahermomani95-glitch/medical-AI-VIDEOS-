@@ -41,7 +41,9 @@
       "visual": "question_card",
       "caption": "Pituitary adenoma — FALSE statement",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "They often present with a binasal hemi"
       },
       "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن أورام الغدة النخامية خاطئة؟ أمامك هذه الخيارات: In their early stages, they may cause a Frontal headache، أو They may present with galactorrhoea، أو They can cause reduced cortisol production، أو They often present with a binasal hemianopia، أو They can cause increased cortisol production. لنحللها معًا."
     },
@@ -65,7 +67,9 @@
       "heading_ar": "الفكرة الطبية",
       "caption": "They often present with a binasal hemi",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "They often present with a binasal hemi"
       },
       "card_text": "الورم الغدي النخامي المضغوط على التصالب البصري يسبب كلاسيكيًا عمى نصفي ثنائي الصدغ (وليس ثنائي الأنف) — تتأثر الحقول البصرية الجانبية الخارجية.",
       "narration": "لنفهم الفكرة الطبية وراء السؤال. الورم الغدي النخامي المضغوط على التصالب البصري يسبب كلاسيكيًا عمى نصفي ثنائي الصدغ (وليس ثنائي الأنف) — تتأثر الحقول البصرية الجانبية الخارجية. الألياف البصرية الأنفية (المسؤولة عن الرؤية الصدغية) هي التي تتصالب في التصالب البصري، فضغط الورم النخامي عليها من الأسفل يسبب عمى نصفي ثنائي الصدغ تحديدًا."
@@ -126,7 +130,9 @@
       "visual": "correct_gold",
       "caption": "D. They often present with a binasal hemianopia",
       "illustration": {
-        "type": "icon"
+        "type": "body",
+        "region": "head",
+        "label": "They often present with a binasal hemi"
       },
       "pills": [
         "\"Pituitary tumor = BItemporal hemianopia\""
