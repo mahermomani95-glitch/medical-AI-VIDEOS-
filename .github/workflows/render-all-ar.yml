@@ -155,8 +155,13 @@ jobs:
           fi
           ls -la out-videos || true
 
+      # NOT `always()`: a cancelled job is killed mid-render-loop, so its
+      # working directory still holds half-written per-scene clips. Publishing
+      # those uploaded fragments as if they were finished videos (observed
+      # after cancelling the pilot: 11 stray scene clips across two chunks).
+      # success() || failure() covers real outcomes without publishing wreckage.
       - name: Publish videos to this course's Release
-        if: always()
+        if: success() || failure()
         env:
           GH_TOKEN: ${{ github.token }}
           CHUNK: ${{ toJson(matrix.chunk) }}
@@ -165,7 +170,15 @@ jobs:
           SLUG=$(echo "$CHUNK" | python3 -c 'import json,sys; print(json.load(sys.stdin)["slug"])')
           TAG="videos-${SLUG}"
           shopt -s nullglob
-          FILES=(out-videos/*.mp4)
+          # Belt and braces: only ever upload finished per-question videos.
+          # Per-scene clips are intermediates and must never become assets,
+          # whatever state the render loop was left in.
+          rm -f out-videos/*.scene*.mp4
+          FILES=()
+          for f in out-videos/*-ar.mp4; do
+            case "$f" in *.scene*) continue ;; esac
+            [ -s "$f" ] && FILES+=("$f")
+          done
           if [ ${#FILES[@]} -eq 0 ]; then
             echo "No videos produced in this chunk; nothing to upload."
             exit 0
