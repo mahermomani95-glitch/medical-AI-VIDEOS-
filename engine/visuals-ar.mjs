@@ -82,18 +82,47 @@ export function ladderSvg(items = []) {
   </svg>`;
 }
 
+// Greedy word-wrap for SVG <text> (which never wraps on its own) -- splits
+// on spaces so long Arabic/English notes render as multiple short lines
+// instead of overflowing the card horizontally.
+function wrapWords(str = "", maxChars = 20) {
+  const words = String(str).split(" ").filter(Boolean);
+  const lines = [];
+  let cur = "";
+  for (const word of words) {
+    const test = cur ? `${cur} ${word}` : word;
+    if (test.length > maxChars && cur) { lines.push(cur); cur = word; }
+    else cur = test;
+  }
+  if (cur) lines.push(cur);
+  return lines;
+}
+
 // Two side-by-side boxes (normal vs. disease, option vs. option, before vs. after).
+// Box height grows with the wrapped note length so longer explanations (any
+// of the 1031 questions' own wording, not just short demo text) never spill
+// out of the card.
 export function comparisonDiagramSvg(left = {}, right = {}) {
-  const w = 560, h = 300;
-  const box = (x, data, good) => `
-    <rect x="${x}" y="30" width="250" height="240" rx="20" fill="${good === true ? "#DFF5E1" : good === false ? "#FFD9D9" : "#F3E9FB"}" stroke="#111" stroke-width="3.5"/>
+  const boxW = 250;
+  const leftLines = wrapWords(left.note, 20);
+  const rightLines = wrapWords(right.note, 20);
+  const maxLines = Math.max(leftLines.length, rightLines.length, 1);
+  const boxH = Math.min(340, 150 + maxLines * 24);
+  const w = 560, h = boxH + 60;
+  const box = (x, data, good, lines) => {
+    const noteTop = boxH - (lines.length - 1) * 24 - 34;
+    const noteTspans = lines.map((line, i) =>
+      `<tspan x="${x + boxW - 20}" dy="${i === 0 ? 0 : 24}">${esc(line)}</tspan>`).join("");
+    return `
+    <rect x="${x}" y="30" width="${boxW}" height="${boxH}" rx="20" fill="${good === true ? "#DFF5E1" : good === false ? "#FFD9D9" : "#F3E9FB"}" stroke="#111" stroke-width="3.5"/>
     <text x="${x + 20}" y="70" font-family="Anton, Arial" font-size="22" fill="#111">${esc(data.title || "")}</text>
-    <text x="${x + 20}" y="${h - 40}" font-family="Cairo, Arial" font-weight="700" font-size="18" fill="#333" style="direction:rtl">${esc(data.note || "")}</text>
-    ${good !== undefined ? `<text x="${x + 210}" y="70" font-family="Anton, Arial" font-size="26" fill="${good ? "#2e7a45" : "#a02a2a"}">${good ? "✓" : "✕"}</text>` : ""}
+    <text text-anchor="end" font-family="Cairo, Arial" font-weight="700" font-size="17" fill="#333" y="${30 + noteTop}">${noteTspans}</text>
+    ${good !== undefined ? `<text x="${x + boxW - 40}" y="70" font-family="Anton, Arial" font-size="26" fill="${good ? "#2e7a45" : "#a02a2a"}">${good ? "✓" : "✕"}</text>` : ""}
   `;
+  };
   return `<svg viewBox="0 0 ${w} ${h}" xmlns="http://www.w3.org/2000/svg">
-    ${box(20, left, left.good)}
-    ${box(290, right, right.good)}
+    ${box(20, left, left.good, leftLines)}
+    ${box(290, right, right.good, rightLines)}
   </svg>`;
 }
 

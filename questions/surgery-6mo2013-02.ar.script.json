@@ -1,0 +1,113 @@
+{
+  "id": "surgery-6mo2013-02-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 2 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Inguinal hernia, true statement",
+  "question_ar": "واحدة مما يلي صحيحة فيما يتعلق بالفتق الإربي:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 2,
+  "options": [
+    { "letter": "A", "text": "Femoral hernia is more common than inguinal" },
+    { "letter": "B", "text": "Direct hernia is more common than indirect" },
+    { "letter": "C", "text": "Treatment of choice is Herniorrhaphy" },
+    { "letter": "D", "text": "Most common seen in females" },
+    { "letter": "E", "text": "Direct inguinal hernia is a congenital hernia" }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Treatment of choice is Herniorrhaphy",
+  "purpose_ar": "يريد التأكيد أن الإصلاح الجراحي (Herniorrhaphy) هو العلاج القياسي المفضل للفتق الإربي.",
+  "trap_ar": "الطالب قد يختار عبارة أخرى أقل دقة، متناسيًا أن الإصلاح الجراحي يبقى المعيار الذهبي لعلاج هذا الفتق.",
+  "summary_ar": "الفتق الإربي غير المباشر هو الأشيع عمومًا وهو خلقي المنشأ، بينما المباشر مكتسب ويمر ضمن مثلث هيسلباخ. الفتق الإربي أشيع عند الذكور لا الإناث. والعلاج القياسي المفضل، بغض النظر عن النوع، هو الإصلاح الجراحي Herniorrhaphy.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Inguinal Hernia",
+      "illustration": { "type": "body", "region": "pelvis", "label": "Inguinal Region" },
+      "narration": "هذا هو السؤال. المطلوب هو تحديد العبارة الصحيحة من بين خمس عبارات عن الفتق الإربي، أي Inguinal Hernia. أمامك خمسة خيارات: الأول أن الفتق الفخذي Femoral Hernia أشيع من الإربي، والثاني أن الفتق المباشر Direct أشيع من غير المباشر Indirect، والثالث أن العلاج القياسي هو Herniorrhaphy، والرابع أنه أشيع عند الإناث، والخامس أن الفتق الإربي المباشر خلقي المنشأ. لنحدد العبارة الصحيحة معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر العبارة الصحيحة",
+      "narration": "إليك الخيارات الخمسة أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الإصلاح الجراحي (Herniorrhaphy) هو العلاج القياسي المفضل للفتق الإربي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الإصلاح الجراحي، أي Herniorrhaphy، هو العلاج القياسي المفضل للفتق الإربي."
+    },
+    {
+      "id": "ANATOMY",
+      "heading_ar": "التشريح — القناة الإربية",
+      "visual": "mechanism_card",
+      "caption": "Inguinal Canal",
+      "illustration": { "type": "sequence", "steps": ["Deep Ring", "Inguinal Canal", "Superficial Ring"] },
+      "card_text": "القناة الإربية Inguinal Canal تمتد من الحلقة العميقة Deep Ring إلى الحلقة السطحية Superficial Ring، وتحمل الحبل المنوي عند الذكور.",
+      "narration": "لنفهم التشريح أولًا. القناة الإربية Inguinal Canal تمتد من الحلقة الإربية العميقة Deep Inguinal Ring إلى الحلقة السطحية Superficial Inguinal Ring، وتحمل الحبل المنوي Spermatic Cord عند الذكور. وخلف هذه القناة يقع مثلث هيسلباخ Hesselbach's Triangle، وهو منطقة ضعف نسبي في الجدار الخلفي للبطن، تحدّه الأوعية الشرسوفية السفلية Inferior Epigastric Vessels من الجهة الوحشية، وحافة عضلة المستقيمة من الجهة الإنسية، والرباط الإربي من الأسفل."
+    },
+    {
+      "id": "DIRECT_VS_INDIRECT",
+      "heading_ar": "الفرق بين الفتق المباشر وغير المباشر",
+      "visual": "mechanism_card",
+      "caption": "Direct vs Indirect",
+      "illustration": { "type": "comparison",
+        "left": { "title": "Direct", "note": "يمر ضمن مثلث هيسلباخ — مكتسب، إنسي للأوعية الشرسوفية." },
+        "right": { "title": "Indirect", "note": "يمر عبر الحلقة العميقة — خلقي، وحشي للأوعية الشرسوفية." }
+      },
+      "card_text": "غير المباشر Indirect هو الأشيع عمومًا وسببه بقاء الناتئ البريتوني مفتوحًا Patent Processus Vaginalis — أي أنه خلقي. أما المباشر Direct فمكتسب بسبب ضعف الجدار الخلفي، ويمر ضمن مثلث هيسلباخ مباشرة.",
+      "narration": "وهنا الفرق الجوهري بين النوعين. الفتق الإربي غير المباشر Indirect Inguinal Hernia يمر عبر الحلقة العميقة، وحشيًا للأوعية الشرسوفية السفلية، وسببه بقاء الناتئ البريتوني مفتوحًا Patent Processus Vaginalis منذ الحياة الجنينية — أي أنه خلقي المنشأ Congenital. وهو أيضًا الأشيع بين نوعي الفتق الإربي بشكل عام. أما الفتق المباشر Direct Inguinal Hernia فيمر مباشرة ضمن مثلث هيسلباخ نفسه، إنسيًا للأوعية الشرسوفية، وينشأ بسبب ضعف مكتسب في الجدار الخلفي للقناة يتطور مع التقدم بالعمر والإجهاد المزمن على جدار البطن — أي أنه مكتسب Acquired وليس خلقيًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "heading_ar": "لماذا كل خيار آخر خاطئ",
+      "visual": "verdict_list",
+      "caption": "A, B, D, E كلها معلومات مقلوبة",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A: الفتق الفخذي Femoral Hernia أشيع من الإربي — هذا معكوس، فالفتق الإربي هو الأشيع عمومًا بفارق كبير. الخيار B: الفتق المباشر Direct أشيع من غير المباشر Indirect — هذا أيضًا معكوس، فغير المباشر هو الأشيع بين نوعي الفتق الإربي. الخيار D: الفتق الإربي أشيع عند الإناث — هذا خاطئ، فهو أشيع بكثير عند الذكور بنسبة تقارب تسعة إلى واحد. الخيار E: الفتق الإربي المباشر خلقي المنشأ — هذا معكوس أيضًا، فالمباشر مكتسب، وغير المباشر هو الخلقي. يبقى الخيار C: العلاج القياسي هو Herniorrhaphy، وهذه هي العبارة الصحيحة الوحيدة.",
+      "verdicts": [
+        { "letter": "A", "text": "Femoral hernia is more common than inguinal", "verdict": "wrong", "reason": "معكوس: الفتق الإربي هو الأشيع عمومًا وليس الفخذي.", "elsewhere": "يصح فقط عند مقارنة الجنسين في الفتق الفخذي تحديدًا: هو أشيع نسبيًا عند الإناث منه عند الذكور، وله خطر اختناق أعلى — لكنه يبقى أقل شيوعًا من الإربي حتى عند النساء." },
+        { "letter": "B", "text": "Direct hernia is more common than indirect", "verdict": "wrong", "reason": "معكوس: الفتق غير المباشر Indirect هو الأشيع بين نوعي الفتق الإربي، لا المباشر.", "elsewhere": "يصح فقط عند الحديث عن الاتجاه العام لزيادة نسبة الفتق المباشر النسبية مع التقدم بالعمر بسبب ضعف الجدار الخلفي — لكنه يبقى أقل شيوعًا من غير المباشر في كل الأعمار." },
+        { "letter": "C", "text": "Treatment of choice is Herniorrhaphy", "verdict": "correct", "reason": "الإصلاح الجراحي Herniorrhaphy هو العلاج القياسي المفضل والمعيار الذهبي لعلاج الفتق الإربي." },
+        { "letter": "D", "text": "Most common seen in females", "verdict": "wrong", "reason": "معكوس: الفتق الإربي أشيع بكثير عند الذكور، بنسبة تقارب تسعة إلى واحد.", "elsewhere": "يصح عند الحديث عن الفتق الفخذي Femoral Hernia تحديدًا، فهو الأشيع نسبيًا عند الإناث مقارنة بالذكور — لكن هذا لا ينطبق على الفتق الإربي." },
+        { "letter": "E", "text": "Direct inguinal hernia is a congenital hernia", "verdict": "wrong", "reason": "معكوس: الفتق المباشر مكتسب بسبب ضعف الجدار الخلفي، وليس خلقيًا.", "elsewhere": "يصح عند وصف الفتق الإربي غير المباشر Indirect، الناتج عن بقاء الناتئ البريتوني مفتوحًا Patent Processus Vaginalis — وهو الفتق الخلقي فعليًا." }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار عبارة أخرى أقل دقة، متناسيًا أن الإصلاح الجراحي يبقى المعيار الذهبي لعلاج هذا الفتق.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب عبارة أخرى أقل دقة من بين الخيارات، متناسيًا أن الإصلاح الجراحي يبقى المعيار الذهبي لعلاج هذا الفتق، بغض النظر عن نوعه المباشر أو غير المباشر."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "heading_ar": "لماذا C هو الصحيح",
+      "visual": "correct_gold",
+      "caption": "C. Treatment of choice is Herniorrhaphy",
+      "illustration": { "type": "sequence", "steps": ["Inguinal Hernia", "Herniorrhaphy", "Definitive Repair"] },
+      "pills": ["Herniorrhaphy = surgical repair", "Gold standard", "Not observation"],
+      "narration": "الخيار C — العلاج القياسي هو Herniorrhaphy — هو العبارة الصحيحة. الفتق الإربي، سواء كان مباشرًا أو غير مباشر، لا يُشفى تلقائيًا لأن العيب في الجدار العضلي أو اللفافي يبقى قائمًا. لذلك فإن الإصلاح الجراحي Herniorrhaphy، وهو إعادة تقوية الجدار الخلفي للقناة الإربية جراحيًا، يبقى العلاج القياسي والمعيار الذهبي، لأنه العلاج الوحيد الذي يزيل خطر المضاعفات المستقبلية مثل الانحباس Incarceration أو الاختناق Strangulation."
+    },
+    {
+      "id": "CLINICAL_PEARL",
+      "heading_ar": "فائدة سريرية — متى نراقب بدل أن نُجري الجراحة؟",
+      "visual": "pearl_card",
+      "caption": "المراقبة محدودة الاستطباب",
+      "illustration": { "type": "icon" },
+      "card_text": "المراقبة Watchful Waiting تُقتصر على الفتق قليل الأعراض عند مرضى مرتفعي الخطورة الجراحية — أما الأعراضي منه فيُصلح جراحيًا لتفادي الانحباس والاختناق.",
+      "narration": "هذه المعلومة ليست مجرد حفظ نظري، بل تُغيّر القرار الفعلي عند السرير. المراقبة التوقعية Watchful Waiting قد تكون خيارًا مقبولًا فقط في حالات محددة، مثل فتق إربي قليل الأعراض عند مريض مرتفع الخطورة الجراحية. لكن بمجرد ظهور الأعراض، أو وجود خطر الانحباس Incarceration أو الاختناق Strangulation، يصبح الإصلاح الجراحي Herniorrhaphy هو الخيار الصحيح دائمًا، لأن الفتق لا يزول من تلقاء نفسه."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الفتق الإربي غير المباشر هو الأشيع عمومًا، وهو خلقي المنشأ بسبب بقاء الناتئ البريتوني مفتوحًا. أما المباشر فمكتسب، ويمر ضمن مثلث هيسلباخ. والفتق الإربي أشيع عند الذكور لا عند الإناث. لكن مهما كان النوع، العلاج القياسي المفضل يبقى واحدًا: الإصلاح الجراحي Herniorrhaphy. والإجابة الصحيحة هي C."
+    }
+  ]
+}
