@@ -41,6 +41,10 @@ ONLINE_FOOT = ('Videos are published as GitHub Release assets on '
                '<a href="https://github.com/__REPO__">__REPO__</a>. Question numbering follows the '
                'original source exactly. Three questions have no confirmed answer in the source '
                'document and are flagged rather than guessed.')
+STREAM_SUB = ("Every question from the 2013&ndash;2021 surgery board bank, rebuilt as a narrated "
+              "teaching video &mdash; Arabic explanation, English medical terminology, and every "
+              "answer choice worked through: why it&rsquo;s right or wrong here, and where it "
+              "would be the right answer instead. Search a topic and press play.")
 OFFLINE_FOOT = ("Works entirely offline once the videos are downloaded. Question numbering follows "
                 "the original source exactly. Three questions have no confirmed answer in the "
                 "source document and are flagged rather than guessed.")
@@ -246,10 +250,18 @@ footer a{color:var(--accent)}
 <script>
 const DATA = __DATA__;
 const OFFLINE = __OFFLINE__;
+// archive.org serves these as real video/mp4 with byte-range support, so they
+// stream on tap. GitHub Releases cannot: it sends every asset as
+// content-disposition: attachment, which no <video> element will play.
+const STREAM = __STREAM__;
 const REL = "https://github.com/__REPO__/releases/download/videos-";
+const IA  = "https://archive.org/download/surgery-board-videos-";
 // Offline builds sit beside the downloaded course folders, so a video is
 // addressed by its local path rather than fetched over the network.
-const srcFor = (c, q) => OFFLINE ? `${c.dir}/${q.vid}` : `${REL}${c.slug}/${q.vid}`;
+const srcFor = (c, q) =>
+  OFFLINE ? `${c.dir}/${q.vid}`
+          : STREAM ? `${IA}${c.slug}/${q.vid}`
+                   : `${REL}${c.slug}/${q.vid}`;
 const list = document.getElementById('list');
 const qIn = document.getElementById('q');
 const cIn = document.getElementById('course');
@@ -268,7 +280,7 @@ list.innerHTML = DATA.map(c => `
         ${q.ar ? `<div class="stem-ar">${esc(q.ar)}</div>` : '<div class="stem-ar"></div>'}
         ${q.ans ? `<div class="ans"><span class="chip">${q.let}</span>${esc(q.ans)}</div>`
                 : `<div class="ans">No confirmed answer in the source &mdash; not guessed</div>`}
-        ${q.vid ? (OFFLINE
+        ${q.vid ? ((OFFLINE || STREAM)
              ? `<button class="watch" type="button" data-src="${srcFor(c, q)}"
                   data-title="${esc(c.name)} &middot; Q${q.n}">Play</button>`
              : `<a class="watch" href="${srcFor(c, q)}">Save video</a>`)
@@ -347,7 +359,8 @@ apply();
 
 def main():
     offline = "--offline" in sys.argv
-    argv = [a for a in sys.argv if a != "--offline"]
+    stream = "--stream" in sys.argv
+    argv = [a for a in sys.argv if a not in ("--offline", "--stream")]
     bank = json.loads(Path(argv[1]).read_text(encoding="utf-8"))
     out = Path(argv[2])
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -368,9 +381,10 @@ def main():
             .replace("__NV__", f"{nv:,}")
             .replace("__NF__", str(nf))
             .replace("__FONTS__", NO_WEBFONTS if offline else WEBFONTS)
-            .replace("__SUB__", OFFLINE_SUB if offline else ONLINE_SUB)
+            .replace("__SUB__", OFFLINE_SUB if offline else (STREAM_SUB if stream else ONLINE_SUB))
             .replace("__FOOT__", OFFLINE_FOOT if offline else ONLINE_FOOT)
             .replace("__OFFLINE__", "true" if offline else "false")
+            .replace("__STREAM__", "true" if stream else "false")
             .replace("__REPO__", REPO))
     out.write_text(html, encoding="utf-8")
     print(f"Wrote {out}  ({out.stat().st_size/1024:.0f} KB) "

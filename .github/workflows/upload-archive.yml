@@ -1,0 +1,128 @@
+name: Upload Videos to Internet Archive
+
+# Copies the rendered videos to archive.org so they can be STREAMED.
+#
+# Why this exists: GitHub Releases serves assets with
+#   content-disposition: attachment
+#   content-type: application/octet-stream
+# so a browser must download them and no <video> element can ever play one.
+# Releases is a file-download service. archive.org serves the same files as
+# real video with byte-range support, so they play on tap -- and it is free,
+# permanent, and has no storage cap for public collections.
+#
+# Uploads run from CI rather than a developer machine because 6 GB over a
+# home connection is painful, and the videos are already here.
+#
+# Requires two repository secrets, from https://archive.org/account/s3.php
+#   IA_ACCESS_KEY
+#   IA_SECRET_KEY
+
+on:
+  workflow_dispatch:
+    inputs:
+      course:
+        description: "Course slug to upload (e.g. 6mo2013). Blank = all courses."
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      slugs: ${{ steps.list.outputs.slugs }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: list
+        run: |
+          python3 - << 'PY' >> "$GITHUB_OUTPUT"
+          import glob, json, os, re
+          want = "${{ inputs.course }}".strip()
+          slugs = sorted({re.match(r"surgery-(.+)-\d+$", os.path.basename(p)[:-len(".ar.script.json")]).group(1)
+                          for p in glob.glob("questions/*.ar.script.json")
+                          if re.match(r"surgery-(.+)-\d+$", os.path.basename(p)[:-len(".ar.script.json")])})
+          if want:
+              slugs = [s for s in slugs if s == want]
+          print(f"slugs={json.dumps(slugs)}")
+          PY
+
+  upload:
+    needs: plan
+    if: ${{ needs.plan.outputs.slugs != '[]' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      # archive.org throttles aggressive parallel writes; a few at a time is
+      # both faster overall and far less likely to be rate limited.
+      max-parallel: 4
+      matrix:
+        slug: ${{ fromJson(needs.plan.outputs.slugs) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check credentials are present
+        env:
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+        run: |
+          if [ -z "$IA_ACCESS_KEY" ] || [ -z "$IA_SECRET_KEY" ]; then
+            echo "::error::IA_ACCESS_KEY / IA_SECRET_KEY repository secrets are not set."
+            echo "Get them from https://archive.org/account/s3.php and add them under"
+            echo "Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+
+      - name: Fetch this course's videos from the Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p videos
+          gh release download "videos-${{ matrix.slug }}" \
+            --repo "${{ github.repository }}" --dir videos --pattern '*-ar.mp4'
+          ls videos | wc -l
+
+      - name: Upload to archive.org
+        env:
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+          SLUG: ${{ matrix.slug }}
+        run: |
+          set -uo pipefail
+          ITEM="surgery-board-videos-${SLUG}"
+          echo "Uploading to archive.org item: $ITEM"
+          total=0; ok=0; fail=0
+          for f in videos/*.mp4; do
+            total=$((total+1))
+            name=$(basename "$f")
+            # First file also creates the item and sets its metadata.
+            EXTRA=()
+            if [ "$total" -eq 1 ]; then
+              EXTRA=(
+                -H "x-archive-auto-make-bucket:1"
+                -H "x-archive-meta-mediatype:movies"
+                -H "x-archive-meta-collection:opensource_movies"
+                -H "x-archive-meta-title:Surgery Board Teaching Videos - ${SLUG}"
+                -H "x-archive-meta-language:ara"
+                -H "x-archive-meta-licenseurl:https://creativecommons.org/licenses/by/4.0/"
+                -H "x-archive-meta-description:Arabic-narrated surgery board question explanations. English medical terminology. One video per question."
+              )
+            fi
+            code=$(curl -sS -o /tmp/out.txt -w "%{http_code}" \
+              --retry 5 --retry-delay 5 --retry-all-errors \
+              -H "authorization: LOW ${IA_ACCESS_KEY}:${IA_SECRET_KEY}" \
+              "${EXTRA[@]}" \
+              --upload-file "$f" \
+              "https://s3.us.archive.org/${ITEM}/${name}")
+            if [ "$code" = "200" ] || [ "$code" = "201" ]; then
+              ok=$((ok+1)); echo "  [$total] $name ok"
+            else
+              fail=$((fail+1)); echo "  [$total] $name FAILED (HTTP $code): $(head -c 200 /tmp/out.txt)"
+            fi
+          done
+          echo "Uploaded $ok/$total (failed: $fail) to $ITEM"
+          echo "Stream at: https://archive.org/download/${ITEM}/"
+          [ "$fail" -eq 0 ]
