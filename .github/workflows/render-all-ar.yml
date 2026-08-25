@@ -126,19 +126,26 @@ jobs:
               FAILED="$FAILED $id"; echo "::endgroup::"; continue
             fi
 
-            if ! python engine/generate_video_ar.py \
-                  "$script" scenes-tmp \
-                  "ar-EG-ShakirNeural" "en-US-ChristopherNeural" \
-                  out-videos > "logs/${id}.render.log" 2>&1; then
-              echo "::error::generate_video_ar failed for $id"
-              tail -c 2000 "logs/${id}.render.log"
-              FAILED="$FAILED $id"; echo "::endgroup::"; continue
-            fi
+            RC=0
+            python engine/generate_video_ar.py \
+              "$script" scenes-tmp \
+              "ar-EG-ShakirNeural" "en-US-ChristopherNeural" \
+              out-videos > "logs/${id}.render.log" 2>&1 || RC=$?
 
-            # Scene stills and per-scene clips are intermediates; keep only
-            # the finished video so the upload stays small.
+            # Clean intermediates UNCONDITIONALLY. Per-scene clips are written
+            # as the render progresses, so a mid-render failure leaves partial
+            # ones behind; cleaning only on success published those fragments
+            # as release assets (seen in the first pilot: a failed question
+            # contributed 3 stray scene clips and no actual video).
             rm -f scenes-tmp/${id}-ar.scene*.png scenes-tmp/${id}-ar.scene*.html
             rm -f out-videos/${id}-ar.scene*.mp4
+
+            if [ "$RC" -ne 0 ] || [ ! -s "out-videos/${id}-ar.mp4" ]; then
+              echo "::error::generate_video_ar failed for $id (exit $RC)"
+              tail -c 2000 "logs/${id}.render.log"
+              rm -f "out-videos/${id}-ar.mp4"
+              FAILED="$FAILED $id"; echo "::endgroup::"; continue
+            fi
             echo "::endgroup::"
           done
 

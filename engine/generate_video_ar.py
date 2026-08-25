@@ -28,9 +28,11 @@ Usage: python generate_video_ar.py <script.ar.json> <scene_png_dir> <ar_voice_na
   rate_percent is an edge-tts --rate value, e.g. "-10%" (negative = slower). Defaults to the script's "rate_percent" field or "-10%".
 """
 import json
+import random
 import re
 import subprocess
 import sys
+import time
 from pathlib import Path
 
 AR_CHAR = re.compile(r"[؀-ۿݐ-ݿ]")
@@ -106,21 +108,53 @@ def run_checked(cmd, label):
     return proc
 
 
+TTS_ATTEMPTS = 4
+
+
 def synth(text, voice, rate_percent, out_mp3):
+    """Synthesize one run, retrying transient edge-tts failures.
+
+    edge-tts is a free network service and rendering the full bank makes tens
+    of thousands of calls across many concurrent jobs, so occasional failures
+    (rate limiting, dropped connections) are a certainty rather than an edge
+    case. A single unretried failure used to abort the whole question --
+    observed in the first pilot, where one question died mid-render and left
+    partial scene clips behind while its 13 neighbours succeeded on identical
+    text patterns.
+
+    Returns True on success, False if the run could not be synthesized after
+    all attempts (the caller substitutes silence rather than losing the whole
+    video for one short run).
+    """
     # NOTE: must be "--rate=<value>" (one token), not "--rate" "<value>" as two
     # separate argv entries -- argparse sees a value like "-10%" (starts with
     # '-', doesn't match its negative-number regex because of the trailing
     # '%') and misparses it as an unrecognized option instead of --rate's
     # argument, failing with "argument --rate: expected one argument".
     # Confirmed locally: "--rate -10%" fails immediately, "--rate=-10%" works.
-    proc = subprocess.run(
-        ["edge-tts", "--voice", voice, f"--rate={rate_percent}", "--text", text, "--write-media", str(out_mp3)],
-        capture_output=True,
-    )
-    if proc.returncode != 0 or not out_mp3.exists() or out_mp3.stat().st_size == 0:
-        detail = proc.stderr.decode(errors="replace")[:800].replace("\n", " ")
-        print(f"::error::edge-tts failed (exit {proc.returncode}) on text '{text[:60]}...' voice={voice}: {detail}")
-        sys.exit(1)
+    last_detail = ""
+    for attempt in range(1, TTS_ATTEMPTS + 1):
+        proc = subprocess.run(
+            ["edge-tts", "--voice", voice, f"--rate={rate_percent}", "--text", text,
+             "--write-media", str(out_mp3)],
+            capture_output=True,
+        )
+        ok = proc.returncode == 0 and out_mp3.exists() and out_mp3.stat().st_size > 0
+        if ok:
+            if attempt > 1:
+                print(f"[tts] recovered on attempt {attempt} for '{text[:40]}'")
+            return True
+        last_detail = proc.stderr.decode(errors="replace")[:400].replace("\n", " ")
+        if attempt < TTS_ATTEMPTS:
+            # Exponential backoff with a floor, to ride out rate limiting.
+            delay = 2 ** attempt + random.uniform(0, 1.5)
+            print(f"[tts] attempt {attempt}/{TTS_ATTEMPTS} failed for '{text[:40]}' "
+                  f"({last_detail[:120]}); retrying in {delay:.1f}s")
+            time.sleep(delay)
+
+    print(f"::warning::edge-tts gave up after {TTS_ATTEMPTS} attempts on "
+          f"'{text[:60]}' voice={voice}: {last_detail}")
+    return False
 
 
 def make_silence(seconds, out_wav):
@@ -168,15 +202,28 @@ def synth_scene_narration(narration, ar_voice, en_voice, rate_percent, out_wav, 
         return
 
     pieces = []
+    dropped = 0
     for i, (chunk, is_ar) in enumerate(runs):
         voice = ar_voice if is_ar else en_voice
         mp3 = tmp_dir / f"{tag}.run{i}.mp3"
-        synth(chunk, voice, rate_percent, mp3)
-        pieces.append(mp3)
+        if synth(chunk, voice, rate_percent, mp3):
+            pieces.append(mp3)
+        else:
+            # Losing one short run (often a single spoken letter) is far
+            # better than losing the whole question's video. Substitute a
+            # brief silence and keep going; the warning above records it.
+            dropped += 1
+            miss = tmp_dir / f"{tag}.miss{i}.wav"
+            make_silence(0.25, miss)
+            pieces.append(miss)
         # small breath between runs (slightly longer between AR<->EN switches)
         gap = tmp_dir / f"{tag}.gap{i}.wav"
         make_silence(0.18, gap)
         pieces.append(gap)
+
+    if dropped:
+        print(f"::warning::{tag}: {dropped}/{len(runs)} narration run(s) "
+              f"could not be synthesized and were replaced with silence")
 
     # A slightly longer pause at the end of the scene (part of the "slow it down a bit" fix)
     end_gap = tmp_dir / f"{tag}.endgap.wav"
