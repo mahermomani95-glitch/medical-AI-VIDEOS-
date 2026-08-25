@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2019-16-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 16 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Circumferential 3rd-degree burn — arm/forearm — monitor most closely",
+  "question_ar": "حرق محيطي من الدرجة الثالثة في منطقة الذراع والساعد، أي مما يلي هوالأكثر أهمية للمراقبة؟",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 16,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Blood gases"
+    },
+    {
+      "letter": "B",
+      "text": "Carboxy-oxygen level"
+    },
+    {
+      "letter": "C",
+      "text": "Macroglobiunria cryoglobinuria"
+    },
+    {
+      "letter": "D",
+      "text": "Peripheral pulse and circulation"
+    },
+    {
+      "letter": "E",
+      "text": "Body Tempruture"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Peripheral pulse and circulation",
+  "purpose_ar": "معرفة أن الحرق المحيطي الكامل بالطرف يهدد بمتلازمة الحيز والعاصبة الوظيفية، لذلك أهم مراقبة هي النبض المحيطي والتروية، مع احتمال الحاجة لبضع القشرة الاسترخائي (escharotomy).",
+  "trap_ar": "قد يختار الطالب غازات الدم (A) لأنها فحص عام مهم لأي حرق شديد، متجاهلاً أن السؤال يسأل تحديدًا عن مراقبة طرف محاط بحرق محيطي، حيث الأولوية القصوى هي النبض والتروية المحلية.",
+  "summary_ar": "الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Circumferential 3rd-degree burn — arm/forearm — monitor most",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Peripheral pulse and circulation"
+      },
+      "narration": "لنبدأ بهذا السؤال. حرق محيطي من الدرجة الثالثة في منطقة الذراع والساعد، أي مما يلي هوالأكثر أهمية للمراقبة؟ أمامك هذه الخيارات: Blood gases، أو Carboxy-oxygen level، أو Macroglobiunria cryoglobinuria، أو Peripheral pulse and circulation، أو Body Tempruture. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "معرفة أن الحرق المحيطي الكامل بالطرف يهدد بمتلازمة الحيز والعاصبة الوظيفية، لذلك أهم مراقبة هي النبض المحيطي والتروية، مع احتمال الحاجة لبضع القشرة الاسترخائي (escharotomy).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: معرفة أن الحرق المحيطي الكامل بالطرف يهدد بمتلازمة الحيز والعاصبة الوظيفية، لذلك أهم مراقبة هي النبض المحيطي والتروية، مع احتمال الحاجة لبضع القشرة الاسترخائي (escharotomy)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Peripheral pulse and circulation",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Peripheral pulse and circulation"
+      },
+      "card_text": "الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا. الحرق المحيطي يشكل قشرة صلبة غير قابلة للتمدد (eschar)، فيضغط على الأوعية والأعصاب مع تراكم الوذمة تحتها — لذلك مراقبة النبض والتروية الطرفية أولوية قصوى."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Blood gases: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation. يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation monitoring is specifically the priority for a circumferential limb burn. الخيار B، Carboxy-oxygen level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation. يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation monitoring is specifically the priority for a circumferential limb burn. الخيار C، Macroglobiunria cryoglobinuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation. يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation monitoring is specifically the priority for a circumferential limb burn. الخيار E، Body Tempruture: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the specific limb-focused monitoring needed here. يصبح صحيحًا في سؤال يصف body temperature is a general vital sign.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Blood gases",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation…"
+        },
+        {
+          "letter": "B",
+          "text": "Carboxy-oxygen level",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation…"
+        },
+        {
+          "letter": "C",
+          "text": "Macroglobiunria cryoglobinuria",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation…"
+        },
+        {
+          "letter": "D",
+          "text": "Peripheral pulse and circulation",
+          "verdict": "correct",
+          "reason": "الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا."
+        },
+        {
+          "letter": "E",
+          "text": "Body Tempruture",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the specific limb-focused monitoring needed here.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف body temperature is a general vital sign."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب غازات الدم (A) لأنها فحص عام مهم لأي حرق شديد، متجاهلاً أن السؤال يسأل تحديدًا عن مراقبة طرف محاط بحرق محيطي، حيث الأولوية القصوى هي النبض والتروية المحلية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب غازات الدم (A) لأنها فحص عام مهم لأي حرق شديد، متجاهلاً أن السؤال يسأل تحديدًا عن مراقبة طرف محاط بحرق محيطي، حيث الأولوية القصوى هي النبض والتروية المحلية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Peripheral pulse and circulation",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Peripheral pulse and circulation"
+      },
+      "pills": [
+        "\"Circumferential burn = watch the pulse (tourn"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Peripheral pulse and circulation. الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا. وتذكّر القاعدة: \"Circumferential burn = watch the pulse (tourniquet effect)\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

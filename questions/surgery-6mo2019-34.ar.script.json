@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2019-34-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 34 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Major risk factor for OPSS after splenectomy",
+  "question_ar": "حول استئصال الطحال، أحد الحالات التالية هو عامل خطر رئيسي للإصابةبمتلازمة الإنتان الساحقة بعد استئصال الطحال",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 34,
+  "options": [
+    {
+      "letter": "A",
+      "text": "ITP"
+    },
+    {
+      "letter": "B",
+      "text": "TTP"
+    },
+    {
+      "letter": "C",
+      "text": "Trauma patient"
+    },
+    {
+      "letter": "D",
+      "text": "Thalassemia"
+    },
+    {
+      "letter": "E",
+      "text": "Heridatiry Spherosytosis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Thalassemia",
+  "purpose_ar": "معرفة أن مرضى الثلاسيميا هم الأعلى خطرًا لتطوير إنتان ما بعد استئصال الطحال الطاغي (OPSS) بين مختلف استطبابات استئصال الطحال.",
+  "trap_ar": "قد يختار الطالب مريض الرضح (C) لأنه سبب شائع لاستئصال الطحال، متجاهلاً أن الخطر الحقيقي لـ OPSS يرتبط أكثر بالحالات ذات الخلل المناعي الأساسي كالثلاسيميا، وليس الاستئصال الرضحي البسيط.",
+  "summary_ar": "مرضى الثلاسيميا غالبًا لديهم خلل مناعي مستمر يتجاوز مجرد فقدان الطحال، مما يجعلهم عرضة بشكل خاص لإنتان ما بعد استئصال الطحال الطاغي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Major risk factor for OPSS after splenectomy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Thalassemia"
+      },
+      "narration": "لنبدأ بهذا السؤال. حول استئصال الطحال، أحد الحالات التالية هو عامل خطر رئيسي للإصابةبمتلازمة الإنتان الساحقة بعد استئصال الطحال أمامك هذه الخيارات: ITP، أو TTP، أو Trauma patient، أو Thalassemia، أو Heridatiry Spherosytosis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "معرفة أن مرضى الثلاسيميا هم الأعلى خطرًا لتطوير إنتان ما بعد استئصال الطحال الطاغي (OPSS) بين مختلف استطبابات استئصال الطحال.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: معرفة أن مرضى الثلاسيميا هم الأعلى خطرًا لتطوير إنتان ما بعد استئصال الطحال الطاغي (OPSS) بين مختلف استطبابات استئصال الطحال."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Thalassemia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Thalassemia"
+      },
+      "card_text": "مرضى الثلاسيميا غالبًا لديهم خلل مناعي مستمر يتجاوز مجرد فقدان الطحال، مما يجعلهم عرضة بشكل خاص لإنتان ما بعد استئصال الطحال الطاغي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. مرضى الثلاسيميا غالبًا لديهم خلل مناعي مستمر يتجاوز مجرد فقدان الطحال، مما يجعلهم عرضة بشكل خاص لإنتان ما بعد استئصال الطحال الطاغي. مرضى الثلاسيميا الكبرى المستأصلة طحالهم معرضون بشكل خاص لإنتان ما بعد استئصال الطحال الطاغي (OPSS) مقارنة بأسباب استئصال الطحال الأخرى كالرضح أو ITP."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، ITP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thalassemia. يصبح صحيحًا في سؤال يصف ITP, trauma, and hereditary spherocytosis are common indications for splenectomy but don't carry the same elevated OPSS risk profile as an underlying chronic hemolytic/immune disorder like thalassemia. الخيار B، TTP: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا splenectomy, as first-line treatment. يصبح صحيحًا في سؤال يصف TTP is typically managed with plasmapheresis. الخيار C، Trauma patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thalassemia. يصبح صحيحًا في سؤال يصف ITP, trauma, and hereditary spherocytosis are common indications for splenectomy but don't carry the same elevated OPSS risk profile as an underlying chronic hemolytic/immune disorder like thalassemia. الخيار E، Heridatiry Spherosytosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thalassemia. يصبح صحيحًا في سؤال يصف ITP, trauma, and hereditary spherocytosis are common indications for splenectomy but don't carry the same elevated OPSS risk profile as an underlying chronic hemolytic/immune disorder like thalassemia.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "ITP",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thalassemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ITP, trauma, and hereditary spherocytosis are common indications for splenectomy but don't carry the same elevated OPSS risk profile as an…"
+        },
+        {
+          "letter": "B",
+          "text": "TTP",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا splenectomy, as first-line treatment.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف TTP is typically managed with plasmapheresis."
+        },
+        {
+          "letter": "C",
+          "text": "Trauma patient",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thalassemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ITP, trauma, and hereditary spherocytosis are common indications for splenectomy but don't carry the same elevated OPSS risk profile as an…"
+        },
+        {
+          "letter": "D",
+          "text": "Thalassemia",
+          "verdict": "correct",
+          "reason": "مرضى الثلاسيميا غالبًا لديهم خلل مناعي مستمر يتجاوز مجرد فقدان الطحال، مما يجعلهم عرضة بشكل خاص لإنتان ما بعد استئصال الطحال الطاغي."
+        },
+        {
+          "letter": "E",
+          "text": "Heridatiry Spherosytosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thalassemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ITP, trauma, and hereditary spherocytosis are common indications for splenectomy but don't carry the same elevated OPSS risk profile as an…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب مريض الرضح (C) لأنه سبب شائع لاستئصال الطحال، متجاهلاً أن الخطر الحقيقي لـ OPSS يرتبط أكثر بالحالات ذات الخلل المناعي الأساسي كالثلاسيميا، وليس الاستئصال الرضحي البسيط.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب مريض الرضح (C) لأنه سبب شائع لاستئصال الطحال، متجاهلاً أن الخطر الحقيقي لـ OPSS يرتبط أكثر بالحالات ذات الخلل المناعي الأساسي كالثلاسيميا، وليس الاستئصال الرضحي البسيط."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Thalassemia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Thalassemia"
+      },
+      "pills": [
+        "\"Thalassemia = highest OPSS risk among splenec"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Thalassemia. مرضى الثلاسيميا غالبًا لديهم خلل مناعي مستمر يتجاوز مجرد فقدان الطحال، مما يجعلهم عرضة بشكل خاص لإنتان ما بعد استئصال الطحال الطاغي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. مرضى الثلاسيميا غالبًا لديهم خلل مناعي مستمر يتجاوز مجرد فقدان الطحال، مما يجعلهم عرضة بشكل خاص لإنتان ما بعد استئصال الطحال الطاغي. وتذكّر القاعدة: \"Thalassemia = highest OPSS risk among splenectomy indications\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

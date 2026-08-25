@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2019-43-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2019 Course, Question 43 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Least common cause of large bowel obstruction",
+  "question_ar": "أي مما يلي هو السبب الأقل شيوعًا لانسداد الأمعاء الغليظة",
+  "course_label": "Course: Surgery — 4th Month 2019 Course",
+  "question_number": 43,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Neoplasm"
+    },
+    {
+      "letter": "B",
+      "text": "Diverticulitis"
+    },
+    {
+      "letter": "C",
+      "text": "Volvulus"
+    },
+    {
+      "letter": "D",
+      "text": "Adhesions"
+    },
+    {
+      "letter": "E",
+      "text": "Fecal impaction"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Adhesions",
+  "purpose_ar": "التفريق بين أسباب انسداد الأمعاء الدقيقة (الأشيع: الالتصاقات) وأسباب انسداد الأمعاء الغليظة (الأشيع: الأورام)، ومعرفة أن الالتصاقات نادرة كسبب لانسداد القولون تحديدًا.",
+  "trap_ar": "قد يظن الطالب أن الالتصاقات سبب شائع لانسداد الأمعاء بشكل عام (كما هي فعلاً للأمعاء الدقيقة)، فينقل هذه المعلومة خطأً على انسداد الأمعاء الغليظة تحديدًا.",
+  "summary_ar": "الالتصاقات تسبب انسدادًا في الأمعاء الدقيقة بشكل ساحق، وليس الغليظة — لذلك هي الأقل شيوعًا كسبب لانسداد القولون.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Least common cause of large bowel obstruction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Adhesions"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو السبب الأقل شيوعًا لانسداد الأمعاء الغليظة أمامك هذه الخيارات: Neoplasm، أو Diverticulitis، أو Volvulus، أو Adhesions، أو Fecal impaction. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التفريق بين أسباب انسداد الأمعاء الدقيقة (الأشيع: الالتصاقات) وأسباب انسداد الأمعاء الغليظة (الأشيع: الأورام)، ومعرفة أن الالتصاقات نادرة كسبب لانسداد القولون تحديدًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التفريق بين أسباب انسداد الأمعاء الدقيقة (الأشيع: الالتصاقات) وأسباب انسداد الأمعاء الغليظة (الأشيع: الأورام)، ومعرفة أن الالتصاقات نادرة كسبب لانسداد القولون تحديدًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Adhesions",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Adhesions"
+      },
+      "card_text": "الالتصاقات تسبب انسدادًا في الأمعاء الدقيقة بشكل ساحق، وليس الغليظة — لذلك هي الأقل شيوعًا كسبب لانسداد القولون.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الالتصاقات تسبب انسدادًا في الأمعاء الدقيقة بشكل ساحق، وليس الغليظة — لذلك هي الأقل شيوعًا كسبب لانسداد القولون. الالتصاقات هي السبب الأشيع لانسداد الأمعاء الدقيقة تحديدًا، بينما انسداد الأمعاء الغليظة سببه الأشيع الأورام، فالالتصاقات نادرة كسبب لانسداد القولون."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Neoplasm: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا large bowel) obstruction. يصبح صحيحًا في سؤال يصف Neoplasm, diverticulitis, volvulus, and fecal impaction are all recognized causes of large bowel obstruction, but adhesions are far more classically the leading cause of small bowel (. الخيار B، Diverticulitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا large bowel) obstruction. يصبح صحيحًا في سؤال يصف Neoplasm, diverticulitis, volvulus, and fecal impaction are all recognized causes of large bowel obstruction, but adhesions are far more classically the leading cause of small bowel (. الخيار C، Volvulus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا large bowel) obstruction. يصبح صحيحًا في سؤال يصف Neoplasm, diverticulitis, volvulus, and fecal impaction are all recognized causes of large bowel obstruction, but adhesions are far more classically the leading cause of small bowel (. الخيار E، Fecal impaction: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا large bowel) obstruction. يصبح صحيحًا في سؤال يصف Neoplasm, diverticulitis, volvulus, and fecal impaction are all recognized causes of large bowel obstruction, but adhesions are far more classically the leading cause of small bowel (.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Neoplasm",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا large bowel) obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Neoplasm, diverticulitis, volvulus, and fecal impaction are all recognized causes of large bowel obstruction, but adhesions are far more…"
+        },
+        {
+          "letter": "B",
+          "text": "Diverticulitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا large bowel) obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Neoplasm, diverticulitis, volvulus, and fecal impaction are all recognized causes of large bowel obstruction, but adhesions are far more…"
+        },
+        {
+          "letter": "C",
+          "text": "Volvulus",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا large bowel) obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Neoplasm, diverticulitis, volvulus, and fecal impaction are all recognized causes of large bowel obstruction, but adhesions are far more…"
+        },
+        {
+          "letter": "D",
+          "text": "Adhesions",
+          "verdict": "correct",
+          "reason": "الالتصاقات تسبب انسدادًا في الأمعاء الدقيقة بشكل ساحق، وليس الغليظة — لذلك هي الأقل شيوعًا كسبب لانسداد القولون."
+        },
+        {
+          "letter": "E",
+          "text": "Fecal impaction",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا large bowel) obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Neoplasm, diverticulitis, volvulus, and fecal impaction are all recognized causes of large bowel obstruction, but adhesions are far more…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن الالتصاقات سبب شائع لانسداد الأمعاء بشكل عام (كما هي فعلاً للأمعاء الدقيقة)، فينقل هذه المعلومة خطأً على انسداد الأمعاء الغليظة تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن الالتصاقات سبب شائع لانسداد الأمعاء بشكل عام (كما هي فعلاً للأمعاء الدقيقة)، فينقل هذه المعلومة خطأً على انسداد الأمعاء الغليظة تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Adhesions",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Adhesions"
+      },
+      "pills": [
+        "\"Adhesions = small bowel's problem, not large "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Adhesions. الالتصاقات تسبب انسدادًا في الأمعاء الدقيقة بشكل ساحق، وليس الغليظة — لذلك هي الأقل شيوعًا كسبب لانسداد القولون."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الالتصاقات تسبب انسدادًا في الأمعاء الدقيقة بشكل ساحق، وليس الغليظة — لذلك هي الأقل شيوعًا كسبب لانسداد القولون. وتذكّر القاعدة: \"Adhesions = small bowel's problem, not large bowel's\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

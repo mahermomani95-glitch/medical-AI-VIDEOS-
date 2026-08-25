@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-34-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 34 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "High-voltage electrical burn complications — EXCEPT",
+  "question_ar": "تشمل مضاعفات الحروق الكهربائية عالية الجهد كل ما يلي باستثناء:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 34,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Peripheral nerve injury"
+    },
+    {
+      "letter": "B",
+      "text": "Cardiac arrest"
+    },
+    {
+      "letter": "C",
+      "text": "High serum creatine phosphokinase (CPK)"
+    },
+    {
+      "letter": "D",
+      "text": "Cushing ulcer"
+    },
+    {
+      "letter": "E",
+      "text": "Compartment syndrome"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Cushing ulcer",
+  "purpose_ar": "حفظ المضاعفات الحقيقية للحرق الكهربائي عالي الجهد (أذية عصبية طرفية، سكتة قلبية، ارتفاع CPK ، متلازمة الحيز) واستبعاد قرحة كوشينغ التي لها آلية مختلفة تمامًا.",
+  "trap_ar": "قد يظن الطالب أن أي حرق شديد يمكن أن يسبب قرحة إجهادية (Curling أو Cushing) كمضاعفة عامة، متجاهلاً أن قرحة كوشينغ مرتبطة تحديدًا بأمراض داخل الجمجمة وليست الحروق الكهربائية.",
+  "summary_ar": "قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "High-voltage electrical burn complications — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Cushing ulcer"
+      },
+      "narration": "لنبدأ بهذا السؤال. تشمل مضاعفات الحروق الكهربائية عالية الجهد كل ما يلي باستثناء: أمامك هذه الخيارات: Peripheral nerve injury، أو Cardiac arrest، أو High serum creatine phosphokinase (CPK)، أو Cushing ulcer، أو Compartment syndrome. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ المضاعفات الحقيقية للحرق الكهربائي عالي الجهد (أذية عصبية طرفية، سكتة قلبية، ارتفاع CPK ، متلازمة الحيز) واستبعاد قرحة كوشينغ التي لها آلية مختلفة تمامًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ المضاعفات الحقيقية للحرق الكهربائي عالي الجهد (أذية عصبية طرفية، سكتة قلبية، ارتفاع CPK ، متلازمة الحيز) واستبعاد قرحة كوشينغ التي لها آلية مختلفة تمامًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Cushing ulcer",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Cushing ulcer"
+      },
+      "card_text": "قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي. قرحة كوشينغ تنتج عن ارتفاع الضغط داخل الجمجمة (كإصابات الرأس)، وهي غير مرتبطة مباشرة بآلية الأذية النسيجية العميقة التي يسببها الحرق الكهربائي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Peripheral nerve injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing ulcer. يصبح صحيحًا في سؤال يصف Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment syndrome are all well-recognized complications of high-voltage electrical injury. الخيار B، Cardiac arrest: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing ulcer. يصبح صحيحًا في سؤال يصف Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment syndrome are all well-recognized complications of high-voltage electrical injury. الخيار C، High serum creatine phosphokinase (CPK): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing ulcer. يصبح صحيحًا في سؤال يصف Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment syndrome are all well-recognized complications of high-voltage electrical injury. الخيار E، Compartment syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing ulcer. يصبح صحيحًا في سؤال يصف Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment syndrome are all well-recognized complications of high-voltage electrical injury.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Peripheral nerve injury",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing ulcer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment syndrome are all well-recognized complications of…"
+        },
+        {
+          "letter": "B",
+          "text": "Cardiac arrest",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing ulcer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment syndrome are all well-recognized complications of…"
+        },
+        {
+          "letter": "C",
+          "text": "High serum creatine phosphokinase (CPK)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing ulcer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment syndrome are all well-recognized complications of…"
+        },
+        {
+          "letter": "D",
+          "text": "Cushing ulcer",
+          "verdict": "correct",
+          "reason": "قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي."
+        },
+        {
+          "letter": "E",
+          "text": "Compartment syndrome",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cushing ulcer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment syndrome are all well-recognized complications of…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن أي حرق شديد يمكن أن يسبب قرحة إجهادية (Curling أو Cushing) كمضاعفة عامة، متجاهلاً أن قرحة كوشينغ مرتبطة تحديدًا بأمراض داخل الجمجمة وليست الحروق الكهربائية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن أي حرق شديد يمكن أن يسبب قرحة إجهادية (Curling أو Cushing) كمضاعفة عامة، متجاهلاً أن قرحة كوشينغ مرتبطة تحديدًا بأمراض داخل الجمجمة وليست الحروق الكهربائية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Cushing ulcer",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Cushing ulcer"
+      },
+      "pills": [
+        "\"Cushing ulcer = intracranial stress, not elec"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Cushing ulcer. قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي. وتذكّر القاعدة: \"Cushing ulcer = intracranial stress, not electrical burn pathway\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-20-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 20 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Causes of persistent Hypotension, EXCEPT",
+  "question_ar": "كلها أسباب لانخفاض ضغط الدم المستمر باستثناء؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 20,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Heart failure stage 4"
+    },
+    {
+      "letter": "B",
+      "text": "Tension Pneumothorax"
+    },
+    {
+      "letter": "C",
+      "text": "Hypothyroidism"
+    },
+    {
+      "letter": "D",
+      "text": "Persistent external bleeding"
+    },
+    {
+      "letter": "E",
+      "text": "Hidden internal bleeding"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Hypothyroidism",
+  "purpose_ar": "يريد استبعاد قصور الدرقية من أسباب هبوط الضغط المستمر الحقيقية (غالبًا حالة مزمنة لا حادة).",
+  "trap_ar": "الطالب قد يظن أي اضطراب غدي عامل خطر لهبوط الضغط الحاد، متناسيًا أن قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهذا العرض.",
+  "summary_ar": "قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Causes of persistent Hypotension, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Hypothyroidism"
+      },
+      "narration": "لنبدأ بهذا السؤال. كلها أسباب لانخفاض ضغط الدم المستمر باستثناء؟ أمامك هذه الخيارات: Heart failure stage 4، أو Tension Pneumothorax، أو Hypothyroidism، أو Persistent external bleeding، أو Hidden internal bleeding. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد استبعاد قصور الدرقية من أسباب هبوط الضغط المستمر الحقيقية (غالبًا حالة مزمنة لا حادة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد استبعاد قصور الدرقية من أسباب هبوط الضغط المستمر الحقيقية (غالبًا حالة مزمنة لا حادة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Hypothyroidism",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Hypothyroidism"
+      },
+      "card_text": "قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر. حرف H المزدوج يذكرك أن هذا الاضطراب ليس سببًا حادًا كلاسيكيًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Heart failure stage 4: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension. يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both hypovolemic) are all genuine causes of persistent hypotension through different shock mechanisms, unlike hypothyroidism which. الخيار B، Tension Pneumothorax: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension. يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both hypovolemic) are all genuine causes of persistent hypotension through different shock mechanisms, unlike hypothyroidism which. الخيار D، Persistent external bleeding: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension. يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both hypovolemic) are all genuine causes of persistent hypotension through different shock mechanisms, unlike hypothyroidism which. الخيار E، Hidden internal bleeding: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension. يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both hypovolemic) are all genuine causes of persistent hypotension through different shock mechanisms, unlike hypothyroidism which.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Heart failure stage 4",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both…"
+        },
+        {
+          "letter": "B",
+          "text": "Tension Pneumothorax",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both…"
+        },
+        {
+          "letter": "C",
+          "text": "Hypothyroidism",
+          "verdict": "correct",
+          "reason": "قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر."
+        },
+        {
+          "letter": "D",
+          "text": "Persistent external bleeding",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both…"
+        },
+        {
+          "letter": "E",
+          "text": "Hidden internal bleeding",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause significant hypotension.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent external bleeding and hidden internal bleeding (E, both…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي اضطراب غدي عامل خطر لهبوط الضغط الحاد، متناسيًا أن قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهذا العرض.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي اضطراب غدي عامل خطر لهبوط الضغط الحاد، متناسيًا أن قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهذا العرض."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Hypothyroidism",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Hypothyroidism"
+      },
+      "pills": [
+        "Hypothyroidism: Hardly causes acute persistent"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Hypothyroidism. قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر. وتذكّر القاعدة: Hypothyroidism: Hardly causes acute persistent hypotension. والإجابة الصحيحة هي C."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2014-48-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 48 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common complication, acute appendicitis",
+  "question_ar": "المضاعفات الأكثر شيوعا لالتهاب الزائدة الدودية الحاد هي؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 48,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Intra abdominal abscess"
+    },
+    {
+      "letter": "B",
+      "text": "Pneumonia"
+    },
+    {
+      "letter": "C",
+      "text": "Wound infecion"
+    },
+    {
+      "letter": "D",
+      "text": "Bowel obstruction secondary to adhesion"
+    },
+    {
+      "letter": "E",
+      "text": "Incisional hernia"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Intra abdominal abscess",
+  "purpose_ar": "يريد التأكيد أن الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد.",
+  "trap_ar": "الطالب قد يختار الانثقاب الحر بالتهاب الصفاق المعمم، متناسيًا أن الخراج المحاط الموضعي أشيع إحصائيًا من الانتشار الصفاقي الكامل.",
+  "summary_ar": "الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common complication, acute appendicitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Intra abdominal abscess"
+      },
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا لالتهاب الزائدة الدودية الحاد هي؟ أمامك هذه الخيارات: Intra abdominal abscess، أو Pneumonia، أو Wound infecion، أو Bowel obstruction secondary to adhesion، أو Incisional hernia. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Intra abdominal abscess",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Intra abdominal abscess"
+      },
+      "card_text": "الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد. حرف I المزدوج يربط الخراج بموقعه كالمضاعفة الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Pneumonia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess. يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess remains the most common complication, especially after perforated appendicitis. الخيار C، Wound infecion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess. يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess remains the most common complication, especially after perforated appendicitis. الخيار D، Bowel obstruction secondary to adhesion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess. يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess remains the most common complication, especially after perforated appendicitis. الخيار E، Incisional hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess. يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess remains the most common complication, especially after perforated appendicitis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Intra abdominal abscess",
+          "verdict": "correct",
+          "reason": "الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد."
+        },
+        {
+          "letter": "B",
+          "text": "Pneumonia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess…"
+        },
+        {
+          "letter": "C",
+          "text": "Wound infecion",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess…"
+        },
+        {
+          "letter": "D",
+          "text": "Bowel obstruction secondary to adhesion",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess…"
+        },
+        {
+          "letter": "E",
+          "text": "Incisional hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الانثقاب الحر بالتهاب الصفاق المعمم، متناسيًا أن الخراج المحاط الموضعي أشيع إحصائيًا من الانتشار الصفاقي الكامل.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الانثقاب الحر بالتهاب الصفاق المعمم، متناسيًا أن الخراج المحاط الموضعي أشيع إحصائيًا من الانتشار الصفاقي الكامل."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Intra abdominal abscess",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Intra abdominal abscess"
+      },
+      "pills": [
+        "Appendicitis complication: mostly Intra-abdomi"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Intra abdominal abscess. الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد. وتذكّر القاعدة: Appendicitis complication: mostly Intra-abdominal abscess. والإجابة الصحيحة هي A."
+    }
+  ]
+}

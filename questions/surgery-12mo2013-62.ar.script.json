@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2013-62-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 62 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most reliable method, locating upper GI bleeding site",
+  "question_ar": "ما هي الطريقة الأكثر موثوقية لتحديد موقع نزيف الشريان التاجي العلويبدقة؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 62,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Barium meal study"
+    },
+    {
+      "letter": "B",
+      "text": "Exploratory laparotomy"
+    },
+    {
+      "letter": "C",
+      "text": "Arteriography"
+    },
+    {
+      "letter": "D",
+      "text": "Upper endoscopy"
+    },
+    {
+      "letter": "E",
+      "text": "Radionuclide scanning"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Upper endoscopy",
+  "purpose_ar": "يريد التأكيد أن التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف الهضمي العلوي بدقة.",
+  "trap_ar": "الطالب قد يختار التصوير الوعائي، متناسيًا أن التنظير المباشر بالرؤية العينية يبقى الأكثر دقة وموثوقية لتحديد الموقع.",
+  "summary_ar": "التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف بدقة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most reliable method, locating upper GI bleeding site",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. ما هي الطريقة الأكثر موثوقية لتحديد موقع نزيف الشريان التاجي العلويبدقة؟ أمامك هذه الخيارات: Barium meal study، أو Exploratory laparotomy، أو Arteriography، أو Upper endoscopy، أو Radionuclide scanning. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف الهضمي العلوي بدقة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف الهضمي العلوي بدقة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Upper endoscopy",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف بدقة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف بدقة. حرف E المزدوج يذكرك بدقة الرؤية المباشرة بهذا الفحص."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Barium meal study: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper endoscopy. يصبح صحيحًا في سؤال يصف Barium meal can miss active bleeding sites and interferes with other studies. الخيار B، Exploratory laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper endoscopy. يصبح صحيحًا في سؤال يصف exploratory laparotomy is invasive and used when other methods fail. الخيار C، Arteriography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper endoscopy. يصبح صحيحًا في سؤال يصف arteriography is useful for active brisk bleeding. الخيار E، Radionuclide scanning: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper endoscopy. يصبح صحيحًا في سؤال يصف radionuclide scanning is more sensitive for intermittent/slow bleeding — upper endoscopy remains the most reliable initial method for both diagnosis and often treatment of upper GI bleeding sources.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Barium meal study",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper endoscopy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Barium meal can miss active bleeding sites and interferes with other studies."
+        },
+        {
+          "letter": "B",
+          "text": "Exploratory laparotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper endoscopy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف exploratory laparotomy is invasive and used when other methods fail."
+        },
+        {
+          "letter": "C",
+          "text": "Arteriography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper endoscopy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف arteriography is useful for active brisk bleeding."
+        },
+        {
+          "letter": "D",
+          "text": "Upper endoscopy",
+          "verdict": "correct",
+          "reason": "التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف بدقة."
+        },
+        {
+          "letter": "E",
+          "text": "Radionuclide scanning",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Upper endoscopy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف radionuclide scanning is more sensitive for intermittent/slow bleeding — upper endoscopy remains the most reliable initial method for both…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار التصوير الوعائي، متناسيًا أن التنظير المباشر بالرؤية العينية يبقى الأكثر دقة وموثوقية لتحديد الموقع.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار التصوير الوعائي، متناسيًا أن التنظير المباشر بالرؤية العينية يبقى الأكثر دقة وموثوقية لتحديد الموقع."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Upper endoscopy",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Upper GI bleed localization: Endoscopy is most"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Upper endoscopy. التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف بدقة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التنظير العلوي هو الأداة الأكثر موثوقية لتحديد موقع النزف بدقة. وتذكّر القاعدة: Upper GI bleed localization: Endoscopy is most Exact. والإجابة الصحيحة هي D."
+    }
+  ]
+}

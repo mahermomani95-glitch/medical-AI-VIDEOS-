@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2019-27-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 27 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "70kg + 40% TBSA burn + inhalation injury — fluid resuscitation rate",
+  "question_ar": "رجل وزنه 70 كجم، حضر إلى قسم الطوارئ مصابًا بحروق من الدرجة الثانية،بلغت 40% من إجمالي مساحة الجسم، وإصابة ناتجة عن استنشاق السوائل. عملية الإنعاش بالسوائل التي يجب البدء بها هي:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 27,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Lactated Ringer's solution at 350 ml/hr"
+    },
+    {
+      "letter": "B",
+      "text": "Lactated Ringer's solution at 700 ml/hr"
+    },
+    {
+      "letter": "C",
+      "text": "Lactated Ringer's solution at 100 ml/hr"
+    },
+    {
+      "letter": "D",
+      "text": "Normal saline solution at 700 ml/hr"
+    },
+    {
+      "letter": "E",
+      "text": "Dextrose 5% in water"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Lactated Ringer's solution at 700 ml/hr",
+  "purpose_ar": "التدرب على تطبيق معادلة باركلاند لحساب معدل الإرواء الوريدي الأولي بلاكتات رينجر بعد حرق كبير.",
+  "trap_ar": "قد ينسى الطالب قسمة الكمية الكلية على 8 ساعات (وليس 24) لحساب المعدل الساعي الأولي، فيحصل على رقم أقل بكثير من الصحيح.",
+  "summary_ar": "بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "70kg + 40% TBSA burn + inhalation injury — fluid resuscitati",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل وزنه 70 كجم، حضر إلى قسم الطوارئ مصابًا بحروق من الدرجة الثانية،بلغت 40% من إجمالي مساحة الجسم، وإصابة ناتجة عن استنشاق السوائل. عملية الإنعاش بالسوائل التي يجب البدء بها هي: أمامك هذه الخيارات: Lactated Ringer's solution at 350 ml/hr، أو Lactated Ringer's solution at 700 ml/hr، أو Lactated Ringer's solution at 100 ml/hr، أو Normal saline solution at 700 ml/hr، أو Dextrose 5% in water. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التدرب على تطبيق معادلة باركلاند لحساب معدل الإرواء الوريدي الأولي بلاكتات رينجر بعد حرق كبير.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التدرب على تطبيق معادلة باركلاند لحساب معدل الإرواء الوريدي الأولي بلاكتات رينجر بعد حرق كبير."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Lactated Ringer's solution at 700 ml/h",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي. معادلة باركلاند: 4 مل × 70كغ × 40% = 11200 مل خلال 24 ساعة، نصفها (5600 مل) يُعطى بأول 8 ساعات، أي 700 مل/ساعة تقريبًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Lactated Ringer's solution at 350 ml/hr: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. يصبح صحيحًا في سؤال يصف Lactated Ringer's at 350 mL/hr and 100 mL/hr don't match the correct Parkland calculation. الخيار C، Lactated Ringer's solution at 100 ml/hr: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. يصبح صحيحًا في سؤال يصف Lactated Ringer's at 350 mL/hr and 100 mL/hr don't match the correct Parkland calculation. الخيار D، Normal saline solution at 700 ml/hr: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred fluid for burn resuscitation (lactated Ringer's is standard). يصبح صحيحًا في سؤال يصف normal saline. الخيار E، Dextrose 5% in water: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. يصبح صحيحًا في سؤال يصف D5W is inappropriate for burn fluid resuscitation since it lacks adequate electrolytes.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Lactated Ringer's solution at 350 ml/hr",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lactated Ringer's at 350 mL/hr and 100 mL/hr don't match the correct Parkland calculation."
+        },
+        {
+          "letter": "B",
+          "text": "Lactated Ringer's solution at 700 ml/hr",
+          "verdict": "correct",
+          "reason": "بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي."
+        },
+        {
+          "letter": "C",
+          "text": "Lactated Ringer's solution at 100 ml/hr",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lactated Ringer's at 350 mL/hr and 100 mL/hr don't match the correct Parkland calculation."
+        },
+        {
+          "letter": "D",
+          "text": "Normal saline solution at 700 ml/hr",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred fluid for burn resuscitation (lactated Ringer's is standard).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف normal saline."
+        },
+        {
+          "letter": "E",
+          "text": "Dextrose 5% in water",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف D5W is inappropriate for burn fluid resuscitation since it lacks adequate electrolytes."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد ينسى الطالب قسمة الكمية الكلية على 8 ساعات (وليس 24) لحساب المعدل الساعي الأولي، فيحصل على رقم أقل بكثير من الصحيح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد ينسى الطالب قسمة الكمية الكلية على 8 ساعات (وليس 24) لحساب المعدل الساعي الأولي، فيحصل على رقم أقل بكثير من الصحيح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Lactated Ringer's solution at 700 ml/hr",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Parkland: 4 x weight x %TBSA, half in first 8"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Lactated Ringer's solution at 700 ml/hr. بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي. وتذكّر القاعدة: \"Parkland: 4 x weight x %TBSA, half in first 8 hours\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

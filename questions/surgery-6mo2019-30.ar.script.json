@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2019-30-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 30 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "65yo + colicky pain + distension + inverted U sign + peripheral air-fluid levels",
+  "question_ar": "حضر مريض يبلغ من العمر 65 عامًا إلى قسم الطوارئ يشكو من ألم شديدفي البطن مصحوب بمغص وقيء مصحوب بتمدد بطني لمدة يومين. في الأشعةالسينية البسيطة للبطن، وُجدت علامة \"يو\" مقلوبة في الربع السفلي الأيسر من البطن، وارتفاع كبير في مستوياتالهواء والسوائل الطرفية. التشخيص الأكثر احتمالًا هو:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 30,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Colon Cancer"
+    },
+    {
+      "letter": "B",
+      "text": "Adhesional Intestinal obstruction"
+    },
+    {
+      "letter": "C",
+      "text": "Strangulated Inguinal Hernia"
+    },
+    {
+      "letter": "D",
+      "text": "Sigmoid Volvulus"
+    },
+    {
+      "letter": "E",
+      "text": "ileus"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Sigmoid Volvulus",
+  "purpose_ar": "التعرف على الالتواء السيني من علامته الشعاعية الكلاسيكية (U مقلوبة/حبة القهوة) عند مريض مسنّ بألم بطني نوبي وانتفاخ.",
+  "trap_ar": "قد يختار الطالب انسداد معوي التصاقي (B) لأنه السبب الأشيع عمومًا لانسداد الأمعاء، متجاهلاً أن العلامة الشعاعية المحددة هنا (U مقلوبة) توجّه بدقة نحو الالتواء السيني تحديدًا.",
+  "summary_ar": "حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "65yo + colicky pain + distension + inverted U sign + periphe",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضر مريض يبلغ من العمر 65 عامًا إلى قسم الطوارئ يشكو من ألم شديدفي البطن مصحوب بمغص وقيء مصحوب بتمدد بطني لمدة يومين. في الأشعةالسينية البسيطة للبطن، وُجدت علامة \"يو\" مقلوبة في الربع السفلي الأيسر من البطن، وارتفاع كبير في مستوياتالهواء والسوائل الطرفية. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Colon Cancer، أو Adhesional Intestinal obstruction، أو Strangulated Inguinal Hernia، أو Sigmoid Volvulus، أو ileus. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على الالتواء السيني من علامته الشعاعية الكلاسيكية (U مقلوبة/حبة القهوة) عند مريض مسنّ بألم بطني نوبي وانتفاخ.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على الالتواء السيني من علامته الشعاعية الكلاسيكية (U مقلوبة/حبة القهوة) عند مريض مسنّ بألم بطني نوبي وانتفاخ."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Sigmoid Volvulus",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني. علامة \"U المقلوبة\" أو \"حبة القهوة\" (coffee bean sign) على الأشعة العادية للبطن هي التوقيع الكلاسيكي لالتواء القولون السيني."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colon Cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus. يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction. الخيار B، Adhesional Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus. يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction. الخيار C، Strangulated Inguinal Hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus. يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction. الخيار E، ileus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus. يصبح صحيحًا في سؤال يصف ileus is a functional (non-mechanical) problem, distinct from true obstruction.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Colon Cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically…"
+        },
+        {
+          "letter": "B",
+          "text": "Adhesional Intestinal obstruction",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically…"
+        },
+        {
+          "letter": "C",
+          "text": "Strangulated Inguinal Hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically…"
+        },
+        {
+          "letter": "D",
+          "text": "Sigmoid Volvulus",
+          "verdict": "correct",
+          "reason": "حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني."
+        },
+        {
+          "letter": "E",
+          "text": "ileus",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ileus is a functional (non-mechanical) problem, distinct from true obstruction."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب انسداد معوي التصاقي (B) لأنه السبب الأشيع عمومًا لانسداد الأمعاء، متجاهلاً أن العلامة الشعاعية المحددة هنا (U مقلوبة) توجّه بدقة نحو الالتواء السيني تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب انسداد معوي التصاقي (B) لأنه السبب الأشيع عمومًا لانسداد الأمعاء، متجاهلاً أن العلامة الشعاعية المحددة هنا (U مقلوبة) توجّه بدقة نحو الالتواء السيني تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Sigmoid Volvulus",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Inverted U = Sigmoid volvulus\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Sigmoid Volvulus. حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني. وتذكّر القاعدة: \"Inverted U = Sigmoid volvulus\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

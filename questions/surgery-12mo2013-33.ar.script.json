@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2013-33-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 33 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "NOT part of primary survey, trauma patient",
+  "question_ar": "أي من الخطوات التالية لا تعتبر جزءًا من المسح الأولي لمريض الصدمة؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 33,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Insuring adequate ventilatory support"
+    },
+    {
+      "letter": "B",
+      "text": "Measurement of blood pressure and pulse"
+    },
+    {
+      "letter": "C",
+      "text": "Neurologic evaluation"
+    },
+    {
+      "letter": "D",
+      "text": "Protection of the cervical spine"
+    },
+    {
+      "letter": "E",
+      "text": "Deep cut wound exploration and suturing"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Deep cut wound exploration and suturing",
+  "purpose_ar": "يريد التأكيد أن استكشاف الجروح وخياطتها بالتفصيل ليس جزءًا من المسح الأولي لمريض الرضوض (يخص المسح الثانوي).",
+  "trap_ar": "الطالب قد يظن أي فحص جرح جزءًا من التقييم الأولي، متناسيًا أن المسح الأولي يركز على تهديدات الحياة الفورية (ABCDE) لا تفاصيل الجروح.",
+  "summary_ar": "استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "NOT part of primary survey, trauma patient",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي من الخطوات التالية لا تعتبر جزءًا من المسح الأولي لمريض الصدمة؟ أمامك هذه الخيارات: Insuring adequate ventilatory support، أو Measurement of blood pressure and pulse، أو Neurologic evaluation، أو Protection of the cervical spine، أو Deep cut wound exploration and suturing. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن استكشاف الجروح وخياطتها بالتفصيل ليس جزءًا من المسح الأولي لمريض الرضوض (يخص المسح الثانوي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن استكشاف الجروح وخياطتها بالتفصيل ليس جزءًا من المسح الأولي لمريض الرضوض (يخص المسح الثانوي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Deep cut wound exploration and suturin",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي. حرف S المزدوج يذكرك أن هذا الإجراء يخص المسح الثانوي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Insuring adequate ventilatory support: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey. يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey, unlike detailed wound exploration and suturing, which belongs to the secondary survey. الخيار B، Measurement of blood pressure and pulse: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey. يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey, unlike detailed wound exploration and suturing, which belongs to the secondary survey. الخيار C، Neurologic evaluation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey. يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey, unlike detailed wound exploration and suturing, which belongs to the secondary survey. الخيار D، Protection of the cervical spine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey. يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey, unlike detailed wound exploration and suturing, which belongs to the secondary survey.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Insuring adequate ventilatory support",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey…"
+        },
+        {
+          "letter": "B",
+          "text": "Measurement of blood pressure and pulse",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey…"
+        },
+        {
+          "letter": "C",
+          "text": "Neurologic evaluation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey…"
+        },
+        {
+          "letter": "D",
+          "text": "Protection of the cervical spine",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary survey.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection are all core components of the primary survey…"
+        },
+        {
+          "letter": "E",
+          "text": "Deep cut wound exploration and suturing",
+          "verdict": "correct",
+          "reason": "استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي فحص جرح جزءًا من التقييم الأولي، متناسيًا أن المسح الأولي يركز على تهديدات الحياة الفورية (ABCDE) لا تفاصيل الجروح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي فحص جرح جزءًا من التقييم الأولي، متناسيًا أن المسح الأولي يركز على تهديدات الحياة الفورية (ABCDE) لا تفاصيل الجروح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Deep cut wound exploration and suturing",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Primary survey: Skips wound Suturing details"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Deep cut wound exploration and suturing. استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي. وتذكّر القاعدة: Primary survey: Skips wound Suturing details. والإجابة الصحيحة هي E."
+    }
+  ]
+}

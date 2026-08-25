@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2021-17-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2021 Course, Question 17 of 31",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "19F + 2mo pain/bleeding with defecation + sentinel tag + cluster headache history — best to improve symptoms",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2021 Course",
+  "question_number": 17,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Topical nifedipine"
+    },
+    {
+      "letter": "B",
+      "text": "Colonoscopy and random mucosal biopsies"
+    },
+    {
+      "letter": "C",
+      "text": "Lateral internal anal sphincterotomy"
+    },
+    {
+      "letter": "D",
+      "text": "Tract curettage"
+    },
+    {
+      "letter": "E",
+      "text": "Gradual dilation of the sphincter"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Topical nifedipine",
+  "purpose_ar": "اختيار العلاج الأنسب للشق الشرجي المزمن مع مراعاة القصة المرضية الفردية (تاريخ صداع عنقودي) — نيفيديبين الموضعي بدل النيتروغليسرين الذي قد يفاقم الصداع.",
+  "trap_ar": "قد يختار الطالب النيتروغليسرين الموضعي (غير مذكور هنا كخيار مباشر) أو بضع المصرة الجراحي (C) كخط أول تلقائي، متجاهلاً أن العلاج الموضعي المحافظ (نيفيديبين هنا تحديدًا بسبب تاريخ الصداع) هو الخط الأول قبل الجراحة.",
+  "summary_ar": "نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "19F + 2mo pain/bleeding with defecation + sentinel tag + clu",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Topical nifedipine"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Topical nifedipine، أو Colonoscopy and random mucosal biopsies، أو Lateral internal anal sphincterotomy، أو Tract curettage، أو Gradual dilation of the sphincter. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "اختيار العلاج الأنسب للشق الشرجي المزمن مع مراعاة القصة المرضية الفردية (تاريخ صداع عنقودي) — نيفيديبين الموضعي بدل النيتروغليسرين الذي قد يفاقم الصداع.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: اختيار العلاج الأنسب للشق الشرجي المزمن مع مراعاة القصة المرضية الفردية (تاريخ صداع عنقودي) — نيفيديبين الموضعي بدل النيتروغليسرين الذي قد يفاقم الصداع."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Topical nifedipine",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Topical nifedipine"
+      },
+      "card_text": "نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع. النيتروغليسرين الموضعي (GTN) قد يسبب صداعًا شديدًا كأثر جانبي شائع بسبب توسيع الأوعية الجهازي، لذلك يُفضَّل نيفيديبين الموضعي عند مريض لديه تاريخ صداع (كالصداع العنقودي) لتجنّب تفاقم هذا العرض."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Colonoscopy and random mucosal biopsies: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا treatment. يصبح صحيحًا في سؤال يصف Colonoscopy with random biopsies is a diagnostic tool. الخيار C، Lateral internal anal sphincterotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا perianal abscess. يصبح صحيحًا في سؤال يصف lateral internal sphincterotomy treats fissures. الخيار D، Tract curettage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Topical nifedipine. يصبح صحيحًا في سؤال يصف tract curettage is used for fistula management, a different condition. الخيار E، Gradual dilation of the sphincter: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Topical nifedipine. يصبح صحيحًا في سؤال يصف gradual sphincter dilation is an older, less definitive approach — incision and drainage remains the definitive treatment for a perianal abscess.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Topical nifedipine",
+          "verdict": "correct",
+          "reason": "نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع."
+        },
+        {
+          "letter": "B",
+          "text": "Colonoscopy and random mucosal biopsies",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا treatment.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Colonoscopy with random biopsies is a diagnostic tool."
+        },
+        {
+          "letter": "C",
+          "text": "Lateral internal anal sphincterotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا perianal abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف lateral internal sphincterotomy treats fissures."
+        },
+        {
+          "letter": "D",
+          "text": "Tract curettage",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Topical nifedipine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف tract curettage is used for fistula management, a different condition."
+        },
+        {
+          "letter": "E",
+          "text": "Gradual dilation of the sphincter",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Topical nifedipine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف gradual sphincter dilation is an older, less definitive approach — incision and drainage remains the definitive treatment for a perianal abscess."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب النيتروغليسرين الموضعي (غير مذكور هنا كخيار مباشر) أو بضع المصرة الجراحي (C) كخط أول تلقائي، متجاهلاً أن العلاج الموضعي المحافظ (نيفيديبين هنا تحديدًا بسبب تاريخ الصداع) هو الخط الأول قبل الجراحة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب النيتروغليسرين الموضعي (غير مذكور هنا كخيار مباشر) أو بضع المصرة الجراحي (C) كخط أول تلقائي، متجاهلاً أن العلاج الموضعي المحافظ (نيفيديبين هنا تحديدًا بسبب تاريخ الصداع) هو الخط الأول قبل الجراحة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Topical nifedipine",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Topical nifedipine"
+      },
+      "pills": [
+        "\"Nifedipine over GTN when there's a headache h"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Topical nifedipine. نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع. وتذكّر القاعدة: \"Nifedipine over GTN when there's a headache history\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

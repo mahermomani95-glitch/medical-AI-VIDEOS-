@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-55-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 55 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Ulcerative colitis and colon cancer, true statement",
+  "question_ar": "أي مما يلي صحيح فيما يتعلق بالتهاب القولون التقرحي وسرطان القولون؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 55,
+  "options": [
+    {
+      "letter": "A",
+      "text": "The risk of cancer unrelated to the extent of inflammation"
+    },
+    {
+      "letter": "B",
+      "text": "The malignancy typically develops in a polyp"
+    },
+    {
+      "letter": "C",
+      "text": "The risk of cancer related to disease duration"
+    },
+    {
+      "letter": "D",
+      "text": "Random endoscopy and biopsies ineffective"
+    },
+    {
+      "letter": "E",
+      "text": "CEA level are useful Guid_ when to perform a colonoscopy"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "The risk of cancer related to disease duration",
+  "purpose_ar": "يريد التأكيد المتكرر أن مدة الإصابة بالتهاب القولون التقرحي هي العامل المحدد لخطر السرطنة.",
+  "trap_ar": "الطالب قد يختار شدة الأعراض كعامل أهم، متناسيًا أن المدة التراكمية هي المحدد الأساسي الموثق لخطر التحول الخبيث.",
+  "summary_ar": "خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Ulcerative colitis and colon cancer, true statement",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The risk of cancer related to disease "
+      },
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بالتهاب القولون التقرحي وسرطان القولون؟ أمامك هذه الخيارات: The risk of cancer unrelated to the extent of inflammation، أو The malignancy typically develops in a polyp، أو The risk of cancer related to disease duration، أو Random endoscopy and biopsies ineffective، أو CEA level are useful Guid_ when to perform a colonoscopy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد المتكرر أن مدة الإصابة بالتهاب القولون التقرحي هي العامل المحدد لخطر السرطنة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد المتكرر أن مدة الإصابة بالتهاب القولون التقرحي هي العامل المحدد لخطر السرطنة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "The risk of cancer related to disease ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The risk of cancer related to disease "
+      },
+      "card_text": "خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية. حرف D المزدوج يربط خطر السرطنة بمدة المرض التراكمية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The risk of cancer unrelated to the extent of inflammation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف The risk of cancer actually IS related to the extent of inflammation (A is false, contrary to what's stated). الخيار B، The malignancy typically develops in a polyp: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a discrete polyp (B is false). يصبح صحيحًا في سؤال يصف malignancy in UC typically develops from flat dysplasia. الخيار D، Random endoscopy and biopsies ineffective: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف random biopsies during surveillance ARE effective and standard practice (D is false). الخيار E، CEA level are useful Guid_ when to perform a colonoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف CEA is not a reliable guide for colonoscopy timing (E is false) — the true statement is that cancer risk correlates with disease duration.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "The risk of cancer unrelated to the extent of inflammation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The risk of cancer actually IS related to the extent of inflammation (A is false, contrary to what's stated)."
+        },
+        {
+          "letter": "B",
+          "text": "The malignancy typically develops in a polyp",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a discrete polyp (B is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف malignancy in UC typically develops from flat dysplasia."
+        },
+        {
+          "letter": "C",
+          "text": "The risk of cancer related to disease duration",
+          "verdict": "correct",
+          "reason": "خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية."
+        },
+        {
+          "letter": "D",
+          "text": "Random endoscopy and biopsies ineffective",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف random biopsies during surveillance ARE effective and standard practice (D is false)."
+        },
+        {
+          "letter": "E",
+          "text": "CEA level are useful Guid_ when to perform a colonoscopy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CEA is not a reliable guide for colonoscopy timing (E is false) — the true statement is that cancer risk correlates with disease duration."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار شدة الأعراض كعامل أهم، متناسيًا أن المدة التراكمية هي المحدد الأساسي الموثق لخطر التحول الخبيث.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار شدة الأعراض كعامل أهم، متناسيًا أن المدة التراكمية هي المحدد الأساسي الموثق لخطر التحول الخبيث."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. The risk of cancer related to disease duration",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The risk of cancer related to disease "
+      },
+      "pills": [
+        "UC cancer risk: Determined by Duration"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: The risk of cancer related to disease duration. خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية. وتذكّر القاعدة: UC cancer risk: Determined by Duration. والإجابة الصحيحة هي C."
+    }
+  ]
+}

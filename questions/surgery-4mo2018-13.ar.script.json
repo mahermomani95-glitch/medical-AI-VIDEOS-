@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2018-13-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 13 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Jaundice + RUQ pain + fever + hypotension — first step",
+  "question_ar": "امرأة تبلغ من العمر 60 عامًا، ليس لديها أي مشاكل طبية سابقة. حضرت إلىقسم الطوارئ وهي تعاني من اليرقان، وألم في منطقة ما حول الركبة، وحمى. ضغط دمها 80/40، ومعدل ضربات قلبها 120، والخطوة التالية الأنسب هي:",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 13,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Emergent Cholecystectomy"
+    },
+    {
+      "letter": "B",
+      "text": "Emergent ERCP"
+    },
+    {
+      "letter": "C",
+      "text": "Emergent PTC placement"
+    },
+    {
+      "letter": "D",
+      "text": "Volume resuscitation and IV antibiotics"
+    },
+    {
+      "letter": "E",
+      "text": "Emergency laparotomy"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Volume resuscitation and IV antibiotics",
+  "purpose_ar": "تطبيق مبدأ ABC في مريض تريا شاركوت (يرقان، ألم، حمى) مع صدمة إنتانية — الخطوة الأولى دائمًا إنعاش وليس تدخلًا نهائيًا فوريًا.",
+  "trap_ar": "قد يختار الطالب ERCP الطارئ (B) لأنه العلاج النهائي المعروف لالتهاب الطرق الصفراوية الصاعد، متجاهلاً أن المريضة غير مستقرة همودينامكيًا (ضغط 80/40، نبض 120) وتحتاج إنعاشًا أولاً.",
+  "summary_ar": "قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Jaundice + RUQ pain + fever + hypotension — first step",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 60 عامًا، ليس لديها أي مشاكل طبية سابقة. حضرت إلىقسم الطوارئ وهي تعاني من اليرقان، وألم في منطقة ما حول الركبة، وحمى. ضغط دمها 80/40، ومعدل ضربات قلبها 120، والخطوة التالية الأنسب هي: أمامك هذه الخيارات: Emergent Cholecystectomy، أو Emergent ERCP، أو Emergent PTC placement، أو Volume resuscitation and IV antibiotics، أو Emergency laparotomy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق مبدأ ABC في مريض تريا شاركوت (يرقان، ألم، حمى) مع صدمة إنتانية — الخطوة الأولى دائمًا إنعاش وليس تدخلًا نهائيًا فوريًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق مبدأ ABC في مريض تريا شاركوت (يرقان، ألم، حمى) مع صدمة إنتانية — الخطوة الأولى دائمًا إنعاش وليس تدخلًا نهائيًا فوريًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Volume resuscitation and IV antibiotic",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً. القافية بين Resuscitate و Operate للتذكير بأن الإنعاش دائمًا يسبق أي تدخل جراحي أو تنظيري."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Emergent Cholecystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable, unresuscitated patient — resuscitation must come first regardless of the eventual procedure chosen. الخيار B، Emergent ERCP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. يصبح صحيحًا في سؤال يستهدف Emergent ERCP تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Emergent PTC placement: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable, unresuscitated patient — resuscitation must come first regardless of the eventual procedure chosen. الخيار E، Emergency laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable, unresuscitated patient — resuscitation must come first regardless of the eventual procedure chosen.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Emergent Cholecystectomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable…"
+        },
+        {
+          "letter": "B",
+          "text": "Emergent ERCP",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Emergent ERCP تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "Emergent PTC placement",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable…"
+        },
+        {
+          "letter": "D",
+          "text": "Volume resuscitation and IV antibiotics",
+          "verdict": "correct",
+          "reason": "قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً."
+        },
+        {
+          "letter": "E",
+          "text": "Emergency laparotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب ERCP الطارئ (B) لأنه العلاج النهائي المعروف لالتهاب الطرق الصفراوية الصاعد، متجاهلاً أن المريضة غير مستقرة همودينامكيًا (ضغط 80/40، نبض 120) وتحتاج إنعاشًا أولاً.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب ERCP الطارئ (B) لأنه العلاج النهائي المعروف لالتهاب الطرق الصفراوية الصاعد، متجاهلاً أن المريضة غير مستقرة همودينامكيًا (ضغط 80/40، نبض 120) وتحتاج إنعاشًا أولاً."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Volume resuscitation and IV antibiotics",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Resuscitate before you operate\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Volume resuscitation and IV antibiotics. قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً. وتذكّر القاعدة: \"Resuscitate before you operate\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

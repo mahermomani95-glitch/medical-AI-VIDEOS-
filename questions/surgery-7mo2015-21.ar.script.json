@@ -1,0 +1,138 @@
+{
+  "id": "surgery-7mo2015-21-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 21 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Amoebic abscess, best treated with",
+  "question_ar": "يتم علاج الخراج الأميبي بشكل أفضل بـ؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 21,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Percutaneous drainage and antibiotics"
+    },
+    {
+      "letter": "B",
+      "text": "Levofloxacin"
+    },
+    {
+      "letter": "C",
+      "text": "Praziquantel"
+    },
+    {
+      "letter": "D",
+      "text": "Metronidazole"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Metronidazole",
+  "purpose_ar": "يريد التأكيد أن الميترونيدازول هو العلاج الأفضل للخراج الأميبي.",
+  "trap_ar": "الطالب قد يختار الصرف الجراحي كخط أول، متناسيًا أن الميترونيدازول دوائيًا كافٍ لمعظم الحالات دون حاجة لتدخل جراحي مباشر.",
+  "summary_ar": "الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Amoebic abscess, best treated with",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Metronidazole"
+      },
+      "narration": "لنبدأ بهذا السؤال. يتم علاج الخراج الأميبي بشكل أفضل بـ؟ أمامك هذه الخيارات: Percutaneous drainage and antibiotics، أو Levofloxacin، أو Praziquantel، أو Metronidazole. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الميترونيدازول هو العلاج الأفضل للخراج الأميبي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الميترونيدازول هو العلاج الأفضل للخراج الأميبي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Metronidazole",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Metronidazole"
+      },
+      "card_text": "الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي. حرف M المزدوج يربط الميترونيدازول بموقعه كالعلاج الأفضل."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Percutaneous drainage and antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole. يصبح صحيحًا في سؤال يصف Percutaneous drainage with antibiotics is reserved for large or refractory abscesses. الخيار B، Levofloxacin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole. يصبح صحيحًا في سؤال يصف levofloxacin and praziquantel (C, used for other parasites like schistosomiasis/flukes) aren't the standard treatment — metronidazole is the first-line treatment for amoebic liver abscess. الخيار C، Praziquantel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole. يصبح صحيحًا في سؤال يستهدف Praziquantel تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Percutaneous drainage and antibiotics",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Percutaneous drainage with antibiotics is reserved for large or refractory abscesses."
+        },
+        {
+          "letter": "B",
+          "text": "Levofloxacin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف levofloxacin and praziquantel (C, used for other parasites like schistosomiasis/flukes) aren't the standard treatment — metronidazole is the…"
+        },
+        {
+          "letter": "C",
+          "text": "Praziquantel",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Praziquantel تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Metronidazole",
+          "verdict": "correct",
+          "reason": "الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الصرف الجراحي كخط أول، متناسيًا أن الميترونيدازول دوائيًا كافٍ لمعظم الحالات دون حاجة لتدخل جراحي مباشر.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الصرف الجراحي كخط أول، متناسيًا أن الميترونيدازول دوائيًا كافٍ لمعظم الحالات دون حاجة لتدخل جراحي مباشر."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Metronidazole",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Metronidazole"
+      },
+      "pills": [
+        "Amoebic abscess: treated with Metronidazole"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Metronidazole. الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي. وتذكّر القاعدة: Amoebic abscess: treated with Metronidazole. والإجابة الصحيحة هي D."
+    }
+  ]
+}

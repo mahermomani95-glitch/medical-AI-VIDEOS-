@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-52-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 52 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "First parameter to change, early hypovolemic shock",
+  "question_ar": "ما هو أول معيار يتغير في حالة الصدمة المبكرة لنقص حجم الدم؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 52,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Systolic blood pressure"
+    },
+    {
+      "letter": "B",
+      "text": "Pulse rate"
+    },
+    {
+      "letter": "C",
+      "text": "Diastolic blood pressure"
+    },
+    {
+      "letter": "D",
+      "text": "Respiratory rate"
+    },
+    {
+      "letter": "E",
+      "text": "Level of consciousness"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Pulse rate",
+  "purpose_ar": "يريد التأكيد أن معدل النبض هو أول مؤشر يتغير بالصدمة نقص الحجم المبكرة (تعويض قبل هبوط الضغط).",
+  "trap_ar": "الطالب قد يختار ضغط الدم كأول مؤشر متغير، متناسيًا أن الجسم يعوض أولاً بتسريع النبض قبل أن يهبط الضغط فعليًا.",
+  "summary_ar": "النبض يتسارع أولاً كتعويض قبل أن يهبط الضغط فعليًا بالصدمة المبكرة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "First parameter to change, early hypovolemic shock",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Pulse rate"
+      },
+      "narration": "لنبدأ بهذا السؤال. ما هو أول معيار يتغير في حالة الصدمة المبكرة لنقص حجم الدم؟ أمامك هذه الخيارات: Systolic blood pressure، أو Pulse rate، أو Diastolic blood pressure، أو Respiratory rate، أو Level of consciousness. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن معدل النبض هو أول مؤشر يتغير بالصدمة نقص الحجم المبكرة (تعويض قبل هبوط الضغط).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن معدل النبض هو أول مؤشر يتغير بالصدمة نقص الحجم المبكرة (تعويض قبل هبوط الضغط)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Pulse rate",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Pulse rate"
+      },
+      "card_text": "النبض يتسارع أولاً كتعويض قبل أن يهبط الضغط فعليًا بالصدمة المبكرة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. النبض يتسارع أولاً كتعويض قبل أن يهبط الضغط فعليًا بالصدمة المبكرة. حرف P و F يذكرانك بأولوية هذا التغير التعويضي المبكر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Systolic blood pressure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulse rate. يصبح صحيحًا في سؤال يصف Systolic BP, diastolic BP, respiratory rate, and level of consciousness change later as compensatory mechanisms fail — pulse rate (tachycardia) is typically the first parameter to change in early/compensated hypovolemic shock. الخيار C، Diastolic blood pressure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulse rate. يصبح صحيحًا في سؤال يصف Systolic BP, diastolic BP, respiratory rate, and level of consciousness change later as compensatory mechanisms fail — pulse rate (tachycardia) is typically the first parameter to change in early/compensated hypovolemic shock. الخيار D، Respiratory rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulse rate. يصبح صحيحًا في سؤال يصف Systolic BP, diastolic BP, respiratory rate, and level of consciousness change later as compensatory mechanisms fail — pulse rate (tachycardia) is typically the first parameter to change in early/compensated hypovolemic shock. الخيار E، Level of consciousness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulse rate. يصبح صحيحًا في سؤال يصف Systolic BP, diastolic BP, respiratory rate, and level of consciousness change later as compensatory mechanisms fail — pulse rate (tachycardia) is typically the first parameter to change in early/compensated hypovolemic shock.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Systolic blood pressure",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulse rate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Systolic BP, diastolic BP, respiratory rate, and level of consciousness change later as compensatory mechanisms fail — pulse rate (tachycardia)…"
+        },
+        {
+          "letter": "B",
+          "text": "Pulse rate",
+          "verdict": "correct",
+          "reason": "النبض يتسارع أولاً كتعويض قبل أن يهبط الضغط فعليًا بالصدمة المبكرة."
+        },
+        {
+          "letter": "C",
+          "text": "Diastolic blood pressure",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulse rate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Systolic BP, diastolic BP, respiratory rate, and level of consciousness change later as compensatory mechanisms fail — pulse rate (tachycardia)…"
+        },
+        {
+          "letter": "D",
+          "text": "Respiratory rate",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulse rate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Systolic BP, diastolic BP, respiratory rate, and level of consciousness change later as compensatory mechanisms fail — pulse rate (tachycardia)…"
+        },
+        {
+          "letter": "E",
+          "text": "Level of consciousness",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulse rate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Systolic BP, diastolic BP, respiratory rate, and level of consciousness change later as compensatory mechanisms fail — pulse rate (tachycardia)…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار ضغط الدم كأول مؤشر متغير، متناسيًا أن الجسم يعوض أولاً بتسريع النبض قبل أن يهبط الضغط فعليًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار ضغط الدم كأول مؤشر متغير، متناسيًا أن الجسم يعوض أولاً بتسريع النبض قبل أن يهبط الضغط فعليًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Pulse rate",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Pulse rate"
+      },
+      "pills": [
+        "Early shock: Pulse rate changes First"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Pulse rate. النبض يتسارع أولاً كتعويض قبل أن يهبط الضغط فعليًا بالصدمة المبكرة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. النبض يتسارع أولاً كتعويض قبل أن يهبط الضغط فعليًا بالصدمة المبكرة. وتذكّر القاعدة: Early shock: Pulse rate changes First. والإجابة الصحيحة هي B."
+    }
+  ]
+}

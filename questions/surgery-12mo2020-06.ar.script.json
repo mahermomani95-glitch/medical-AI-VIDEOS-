@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2020-06-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 6 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Best definition of shock",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Low tissue perfusion to the vital organs"
+    },
+    {
+      "letter": "B",
+      "text": "High tissue perfusion and low oxygen delivery to vital organs"
+    },
+    {
+      "letter": "C",
+      "text": "Diastolic blood pressure less than 60"
+    },
+    {
+      "letter": "D",
+      "text": "Systolic blood pressure less than 90"
+    },
+    {
+      "letter": "E",
+      "text": "Abnormal vascular resistance"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Low tissue perfusion to the vital organs",
+  "purpose_ar": "حفظ التعريف الوظيفي الشامل للصدمة (نقص تروية الأعضاء الحيوية) بدل تعريف ضيق مرتبط برقم ضغط دم واحد.",
+  "trap_ar": "قد يختار الطالب \"ضغط انقباضي أقل من 90\" (D) ظنًا أنه التعريف الدقيق، متجاهلاً أن الصدمة قد تحدث حتى مع ضغط طبيعي ظاهريًا (كما بالمراحل المبكرة المعوّضة).",
+  "summary_ar": "الصدمة في جوهرها نقص تروية النسج الحيوية — وليست مرتبطة برقم ضغط دم محدد، لأن آليات كثيرة قد تسببها.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Best definition of shock",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Low tissue perfusion to the vital organs، أو High tissue perfusion and low oxygen delivery to vital organs، أو Diastolic blood pressure less than 60، أو Systolic blood pressure less than 90، أو Abnormal vascular resistance. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ التعريف الوظيفي الشامل للصدمة (نقص تروية الأعضاء الحيوية) بدل تعريف ضيق مرتبط برقم ضغط دم واحد.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ التعريف الوظيفي الشامل للصدمة (نقص تروية الأعضاء الحيوية) بدل تعريف ضيق مرتبط برقم ضغط دم واحد."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Low tissue perfusion to the vital orga",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الصدمة في جوهرها نقص تروية النسج الحيوية — وليست مرتبطة برقم ضغط دم محدد، لأن آليات كثيرة قد تسببها.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الصدمة في جوهرها نقص تروية النسج الحيوية — وليست مرتبطة برقم ضغط دم محدد، لأن آليات كثيرة قد تسببها. التعريف الأشمل والأدق للصدمة هو نقص تروية الأعضاء الحيوية، وليس رقمًا محددًا لضغط الدم الانقباضي أو الانبساطي وحده."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، High tissue perfusion and low oxygen delivery to vital organs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low tissue perfusion to the vital organs. يصبح صحيحًا في سؤال يصف High perfusion with low oxygen delivery is an unusual/incorrect description. الخيار C، Diastolic blood pressure less than 60: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low tissue perfusion to the vital organs. يصبح صحيحًا في سؤال يصف diastolic BP under 60 isn't the standard definition. الخيار D، Systolic blood pressure less than 90: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا capture all types of shock. يصبح صحيحًا في سؤال يصف systolic BP under 90 is a common criterion but. الخيار E، Abnormal vascular resistance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low tissue perfusion to the vital organs. يصبح صحيحًا في سؤال يصف abnormal vascular resistance describes only distributive shock specifically — the comprehensive definition of decreased tissue perfusion to vital organs best encompasses all shock types.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Low tissue perfusion to the vital organs",
+          "verdict": "correct",
+          "reason": "الصدمة في جوهرها نقص تروية النسج الحيوية — وليست مرتبطة برقم ضغط دم محدد، لأن آليات كثيرة قد تسببها."
+        },
+        {
+          "letter": "B",
+          "text": "High tissue perfusion and low oxygen delivery to vital organs",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low tissue perfusion to the vital organs.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف High perfusion with low oxygen delivery is an unusual/incorrect description."
+        },
+        {
+          "letter": "C",
+          "text": "Diastolic blood pressure less than 60",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low tissue perfusion to the vital organs.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف diastolic BP under 60 isn't the standard definition."
+        },
+        {
+          "letter": "D",
+          "text": "Systolic blood pressure less than 90",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا capture all types of shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف systolic BP under 90 is a common criterion but."
+        },
+        {
+          "letter": "E",
+          "text": "Abnormal vascular resistance",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low tissue perfusion to the vital organs.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف abnormal vascular resistance describes only distributive shock specifically — the comprehensive definition of decreased tissue perfusion to vital…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب \"ضغط انقباضي أقل من 90\" (D) ظنًا أنه التعريف الدقيق، متجاهلاً أن الصدمة قد تحدث حتى مع ضغط طبيعي ظاهريًا (كما بالمراحل المبكرة المعوّضة).",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب \"ضغط انقباضي أقل من 90\" (D) ظنًا أنه التعريف الدقيق، متجاهلاً أن الصدمة قد تحدث حتى مع ضغط طبيعي ظاهريًا (كما بالمراحل المبكرة المعوّضة)."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Low tissue perfusion to the vital organs",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Shock = Low tissue perfusion to vital organs\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Low tissue perfusion to the vital organs. الصدمة في جوهرها نقص تروية النسج الحيوية — وليست مرتبطة برقم ضغط دم محدد، لأن آليات كثيرة قد تسببها."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الصدمة في جوهرها نقص تروية النسج الحيوية — وليست مرتبطة برقم ضغط دم محدد، لأن آليات كثيرة قد تسببها. وتذكّر القاعدة: \"Shock = Low tissue perfusion to vital organs\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

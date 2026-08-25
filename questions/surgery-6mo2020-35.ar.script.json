@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2020-35-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2020 Course, Question 35 of 60",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "25yo + RLQ pain + low-grade fever + rebound tenderness + WBC 12.5",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2020 Course",
+  "question_number": 35,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Appendicitis"
+    },
+    {
+      "letter": "B",
+      "text": "Complicated pyelonephritis"
+    },
+    {
+      "letter": "C",
+      "text": "Inflammatory bowel disease"
+    },
+    {
+      "letter": "D",
+      "text": "Parasitic colitis"
+    },
+    {
+      "letter": "E",
+      "text": "Ectopic pregnancy"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Appendicitis",
+  "purpose_ar": "التعرف على التوليفة السريرية والمخبرية الكلاسيكية لالتهاب الزائدة الدودية الحاد (ألم، حمى، ألم ارتدادي، كريات بيض مرتفعة قليلًا).",
+  "trap_ar": "قد يختار الطالب التهاب الحويضة والكلية المعقد (B) لأنه أيضًا يسبب حمى وألمًا بطنيًا، متجاهلاً أن الألم الموضعي بالحفرة الحرقفية اليمنى مع الألم الارتدادي يوجّه بدقة أكبر نحو التهاب الزائدة.",
+  "summary_ar": "ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "25yo + RLQ pain + low-grade fever + rebound tenderness + WBC",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Appendicitis"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Appendicitis، أو Complicated pyelonephritis، أو Inflammatory bowel disease، أو Parasitic colitis، أو Ectopic pregnancy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على التوليفة السريرية والمخبرية الكلاسيكية لالتهاب الزائدة الدودية الحاد (ألم، حمى، ألم ارتدادي، كريات بيض مرتفعة قليلًا).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على التوليفة السريرية والمخبرية الكلاسيكية لالتهاب الزائدة الدودية الحاد (ألم، حمى، ألم ارتدادي، كريات بيض مرتفعة قليلًا)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Appendicitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Appendicitis"
+      },
+      "card_text": "ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد. التوليفة الكلاسيكية لالتهاب الزائدة الحاد: ألم بالحفرة الحرقفية اليمنى، حمى خفيفة، ألم ارتدادي، وارتفاع خفيف إلى متوسط بكريات الدم البيضاء."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Complicated pyelonephritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis. يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary symptoms in some contexts, but diverticulitis irritating the adjacent bladder fits best given the sterile pyuria pattern (positive leukocyte esterase, negative nitrite). الخيار C، Inflammatory bowel disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis. يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary symptoms in some contexts, but diverticulitis irritating the adjacent bladder fits best given the sterile pyuria pattern (positive leukocyte esterase, negative nitrite). الخيار D، Parasitic colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis. يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary symptoms in some contexts, but diverticulitis irritating the adjacent bladder fits best given the sterile pyuria pattern (positive leukocyte esterase, negative nitrite). الخيار E، Ectopic pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis. يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary symptoms in some contexts, but diverticulitis irritating the adjacent bladder fits best given the sterile pyuria pattern (positive leukocyte esterase, negative nitrite).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Appendicitis",
+          "verdict": "correct",
+          "reason": "ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد."
+        },
+        {
+          "letter": "B",
+          "text": "Complicated pyelonephritis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary…"
+        },
+        {
+          "letter": "C",
+          "text": "Inflammatory bowel disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary…"
+        },
+        {
+          "letter": "D",
+          "text": "Parasitic colitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary…"
+        },
+        {
+          "letter": "E",
+          "text": "Ectopic pregnancy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب التهاب الحويضة والكلية المعقد (B) لأنه أيضًا يسبب حمى وألمًا بطنيًا، متجاهلاً أن الألم الموضعي بالحفرة الحرقفية اليمنى مع الألم الارتدادي يوجّه بدقة أكبر نحو التهاب الزائدة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب التهاب الحويضة والكلية المعقد (B) لأنه أيضًا يسبب حمى وألمًا بطنيًا، متجاهلاً أن الألم الموضعي بالحفرة الحرقفية اليمنى مع الألم الارتدادي يوجّه بدقة أكبر نحو التهاب الزائدة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Appendicitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Appendicitis"
+      },
+      "pills": [
+        "\"RLQ pain + fever + rebound + mild leukocytosi"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Appendicitis. ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد. وتذكّر القاعدة: \"RLQ pain + fever + rebound + mild leukocytosis = Appendicitis\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

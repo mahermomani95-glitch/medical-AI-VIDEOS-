@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-30-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 30 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Contraindication for varicose vein surgery",
+  "question_ar": "أحد الأمور التالية يعد من موانع العلاج الجراحي للدوالي؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 30,
+  "options": [
+    {
+      "letter": "A",
+      "text": "DVT"
+    },
+    {
+      "letter": "B",
+      "text": "Old age"
+    },
+    {
+      "letter": "C",
+      "text": "Pregnancy"
+    },
+    {
+      "letter": "D",
+      "text": "Bilaterally"
+    },
+    {
+      "letter": "E",
+      "text": "Peripheral vascular disease"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "DVT",
+  "purpose_ar": "يريد التأكيد أن التخثر الوريدي العميق النشط مانع حقيقي لجراحة الدوالي (قد يكون الوريد العميق طريق التصريف الأساسي).",
+  "trap_ar": "الطالب قد يظن أي مرض وعائي مزمن مانعًا للجراحة، متناسيًا أن DVT النشط تحديدًا هو المانع الحقيقي الخطير لهذا الإجراء.",
+  "summary_ar": "التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Contraindication for varicose vein surgery",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "DVT"
+      },
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية يعد من موانع العلاج الجراحي للدوالي؟ أمامك هذه الخيارات: DVT، أو Old age، أو Pregnancy، أو Bilaterally، أو Peripheral vascular disease. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن التخثر الوريدي العميق النشط مانع حقيقي لجراحة الدوالي (قد يكون الوريد العميق طريق التصريف الأساسي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن التخثر الوريدي العميق النشط مانع حقيقي لجراحة الدوالي (قد يكون الوريد العميق طريق التصريف الأساسي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "DVT",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "DVT"
+      },
+      "card_text": "التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي. حرف D المزدوج يذكرك بخطورة هذه الحالة تحديدًا لهذه الجراحة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Old age: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active DVT is the clearest contraindication given the risk of dislodging a clot during venous surgery. يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery. الخيار C، Pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي DVT. يصبح صحيحًا في سؤال يستهدف Pregnancy تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Bilaterally: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active DVT is the clearest contraindication given the risk of dislodging a clot during venous surgery. يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery. الخيار E، Peripheral vascular disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active DVT is the clearest contraindication given the risk of dislodging a clot during venous surgery. يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "DVT",
+          "verdict": "correct",
+          "reason": "التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي."
+        },
+        {
+          "letter": "B",
+          "text": "Old age",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery."
+        },
+        {
+          "letter": "C",
+          "text": "Pregnancy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي DVT.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Pregnancy تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Bilaterally",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery."
+        },
+        {
+          "letter": "E",
+          "text": "Peripheral vascular disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي مرض وعائي مزمن مانعًا للجراحة، متناسيًا أن DVT النشط تحديدًا هو المانع الحقيقي الخطير لهذا الإجراء.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي مرض وعائي مزمن مانعًا للجراحة، متناسيًا أن DVT النشط تحديدًا هو المانع الحقيقي الخطير لهذا الإجراء."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. DVT",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "DVT"
+      },
+      "pills": [
+        "DVT: Definitely a varicose surgery block"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: DVT. التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي. وتذكّر القاعدة: DVT: Definitely a varicose surgery block. والإجابة الصحيحة هي A."
+    }
+  ]
+}

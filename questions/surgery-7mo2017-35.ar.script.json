@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2017-35-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2017 Course, Question 35 of 45",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "56yo woman, severe upper abdominal pain radiating to back, initial management",
+  "question_ar": "حضرت امرأة تبلغ من العمر 56 عامًا تعاني من ألم شديد في أعلى البطنمرتبط بالظهر، مصحوبًا بغثيان وقيء، وكان مستوى الليباز في مصل الدملديها 6300 وحدة دولية/لتر. أُعطيت المريضة مسكنًا وريديًا. ما هي أفضلوأهم خطوة تالية في العلاج؟",
+  "course_label": "Course: Surgery — 7th Month 2017 Course",
+  "question_number": 35,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Begin intravenous fluid resuscitation and oxygen supplement"
+    },
+    {
+      "letter": "B",
+      "text": "Begin prophylactic antibiotics to minimize the risk of pancreatic infection"
+    },
+    {
+      "letter": "C",
+      "text": "Change her diet to clear liquids by mouth only"
+    },
+    {
+      "letter": "D",
+      "text": "Obtain a contrast enhanced CT scan of the abdomen"
+    },
+    {
+      "letter": "E",
+      "text": "Obtain a right upper quadrant ultrasound"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Begin intravenous fluid resuscitation and oxygen supplement",
+  "purpose_ar": "يريد التأكيد أن الإنعاش بالسوائل الوريدية والأكسجين هو الخطوة الأولى القياسية لألم بطني علوي شديد منتشر للظهر (اشتباه التهاب بنكرياس).",
+  "trap_ar": "الطالب قد يختار تصويرًا تشخيصيًا مباشرة، متناسيًا أن التثبيت الداعم بالسوائل والأكسجين يسبق أي فحص تشخيصي متقدم.",
+  "summary_ar": "الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "56yo woman, severe upper abdominal pain radiating to back, i",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Begin intravenous fluid resuscitation "
+      },
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 56 عامًا تعاني من ألم شديد في أعلى البطنمرتبط بالظهر، مصحوبًا بغثيان وقيء، وكان مستوى الليباز في مصل الدملديها 6300 وحدة دولية/لتر. أُعطيت المريضة مسكنًا وريديًا. ما هي أفضلوأهم خطوة تالية في العلاج؟ أمامك هذه الخيارات: Begin intravenous fluid resuscitation and oxygen supplement، أو Begin prophylactic antibiotics to minimize the risk of pancreatic infection، أو Change her diet to clear liquids by mouth only، أو Obtain a contrast enhanced CT scan of the abdomen، أو Obtain a right upper quadrant ultrasound. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الإنعاش بالسوائل الوريدية والأكسجين هو الخطوة الأولى القياسية لألم بطني علوي شديد منتشر للظهر (اشتباه التهاب بنكرياس).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الإنعاش بالسوائل الوريدية والأكسجين هو الخطوة الأولى القياسية لألم بطني علوي شديد منتشر للظهر (اشتباه التهاب بنكرياس)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Begin intravenous fluid resuscitation ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Begin intravenous fluid resuscitation "
+      },
+      "card_text": "الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد. حرف F و O يذكرانك بأولوية التثبيت الداعم أولاً."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Begin prophylactic antibiotics to minimize the risk of pancreatic infection: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routinely recommended without evidence of infection in early acute pancreatitis. يصبح صحيحًا في سؤال يصف Prophylactic antibiotics. الخيار C، Change her diet to clear liquids by mouth only: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Begin intravenous fluid resuscitation and oxygen supplement. يصبح صحيحًا في سؤال يصف clear liquids only is outdated compared to modern early-feeding approaches when tolerated. الخيار D، Obtain a contrast enhanced CT scan of the abdomen: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the FIRST priority — aggressive IV fluid resuscitation and oxygen supplementation remain the essential initial management step. يصبح صحيحًا في سؤال يصف a contrast CT and RUQ ultrasound are useful diagnostic tools but. الخيار E، Obtain a right upper quadrant ultrasound: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the FIRST priority — aggressive IV fluid resuscitation and oxygen supplementation remain the essential initial management step. يصبح صحيحًا في سؤال يصف a contrast CT and RUQ ultrasound are useful diagnostic tools but.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Begin intravenous fluid resuscitation and oxygen supplement",
+          "verdict": "correct",
+          "reason": "الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد."
+        },
+        {
+          "letter": "B",
+          "text": "Begin prophylactic antibiotics to minimize the risk of pancreatic infection",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routinely recommended without evidence of infection in early acute pancreatitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Prophylactic antibiotics."
+        },
+        {
+          "letter": "C",
+          "text": "Change her diet to clear liquids by mouth only",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Begin intravenous fluid resuscitation and oxygen supplement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف clear liquids only is outdated compared to modern early-feeding approaches when tolerated."
+        },
+        {
+          "letter": "D",
+          "text": "Obtain a contrast enhanced CT scan of the abdomen",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the FIRST priority — aggressive IV fluid resuscitation and oxygen supplementation remain the essential initial management…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف a contrast CT and RUQ ultrasound are useful diagnostic tools but."
+        },
+        {
+          "letter": "E",
+          "text": "Obtain a right upper quadrant ultrasound",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the FIRST priority — aggressive IV fluid resuscitation and oxygen supplementation remain the essential initial management…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف a contrast CT and RUQ ultrasound are useful diagnostic tools but."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار تصويرًا تشخيصيًا مباشرة، متناسيًا أن التثبيت الداعم بالسوائل والأكسجين يسبق أي فحص تشخيصي متقدم.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار تصويرًا تشخيصيًا مباشرة، متناسيًا أن التثبيت الداعم بالسوائل والأكسجين يسبق أي فحص تشخيصي متقدم."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Begin intravenous fluid resuscitation and oxygen",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Begin intravenous fluid resuscitation "
+      },
+      "pills": [
+        "Severe epigastric pain: Fluids and Oxygen firs"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Begin intravenous fluid resuscitation and oxygen supplement. الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد. وتذكّر القاعدة: Severe epigastric pain: Fluids and Oxygen first. والإجابة الصحيحة هي A."
+    }
+  ]
+}

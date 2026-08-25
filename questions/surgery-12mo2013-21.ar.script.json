@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2013-21-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 21 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Initial response to vessel injury",
+  "question_ar": "الاستجابة الأولية لإصابة الأوعية هي؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 21,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Vasodilatation"
+    },
+    {
+      "letter": "B",
+      "text": "Vasoconstriction"
+    },
+    {
+      "letter": "C",
+      "text": "Platelet aggregation"
+    },
+    {
+      "letter": "D",
+      "text": "Platelet plug formation"
+    },
+    {
+      "letter": "E",
+      "text": "Thromboxane A2 production"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Vasoconstriction",
+  "purpose_ar": "يريد التأكيد أن التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء الدموي، قبل بدء التخثر.",
+  "trap_ar": "الطالب قد يختار التصاق الصفيحات كخطوة أولى، متناسيًا أن التضيق الوعائي المنعكس يسبق حتى بدء عمليات التخثر الخلوية.",
+  "summary_ar": "التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Initial response to vessel injury",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. الاستجابة الأولية لإصابة الأوعية هي؟ أمامك هذه الخيارات: Vasodilatation، أو Vasoconstriction، أو Platelet aggregation، أو Platelet plug formation، أو Thromboxane A2 production. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء الدموي، قبل بدء التخثر.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء الدموي، قبل بدء التخثر."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Vasoconstriction",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر. حرف V المزدوج يذكرك بأولوية هذه الاستجابة الفورية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Vasodilatation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف Vasodilatation is the opposite of the actual response. الخيار C، Platelet aggregation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the very first, immediate response to vessel injury. الخيار D، Platelet plug formation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the very first, immediate response to vessel injury. الخيار E، Thromboxane A2 production: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the very first, immediate response to vessel injury.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Vasodilatation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Vasodilatation is the opposite of the actual response."
+        },
+        {
+          "letter": "B",
+          "text": "Vasoconstriction",
+          "verdict": "correct",
+          "reason": "التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر."
+        },
+        {
+          "letter": "C",
+          "text": "Platelet aggregation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the…"
+        },
+        {
+          "letter": "D",
+          "text": "Platelet plug formation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the…"
+        },
+        {
+          "letter": "E",
+          "text": "Thromboxane A2 production",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار التصاق الصفيحات كخطوة أولى، متناسيًا أن التضيق الوعائي المنعكس يسبق حتى بدء عمليات التخثر الخلوية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار التصاق الصفيحات كخطوة أولى، متناسيًا أن التضيق الوعائي المنعكس يسبق حتى بدء عمليات التخثر الخلوية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Vasoconstriction",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Vessel injury: Vasoconstriction comes first"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Vasoconstriction. التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر. وتذكّر القاعدة: Vessel injury: Vasoconstriction comes first. والإجابة الصحيحة هي B."
+    }
+  ]
+}

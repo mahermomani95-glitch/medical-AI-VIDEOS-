@@ -1,0 +1,132 @@
+{
+  "id": "surgery-7mo2015-38-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 38 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "65yo cachectic smoker, Pancoast tumor, symptoms",
+  "question_ar": "رجل مدخن، يبلغ من العمر 65 عامًا، يعاني من سرطان الرئة القمي (ورمبانكوست)، يعاني من تدلي الجفن، وتضييق حدقة العين، وانعدام الترطيب. السبب الأكثر احتمالًا هو:؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 38,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Paraneoplastic syndrome"
+    },
+    {
+      "letter": "B",
+      "text": "Invasive CA to brachial plexus"
+    },
+    {
+      "letter": "C",
+      "text": "Invasive CA to SVC"
+    },
+    {
+      "letter": "D",
+      "text": "Invasive CA to the sympathetic chain at T1"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Invasive CA to the sympathetic chain at T1",
+  "purpose_ar": "يريد ربط ورم بانكوست بغزو السلسلة الودية عند T1 (متلازمة هورنر: تدلي جفن، تضيق حدقة، انعدام تعرق).",
+  "trap_ar": "الطالب قد يختار غزوًا للضفيرة العضدية وحدها، متناسيًا أن الغزو الودي عند T1 تحديدًا هو المسؤول عن الصورة السريرية الكاملة (متلازمة هورنر).",
+  "summary_ar": "غزو ورم بانكوست للسلسلة الودية عند T1 يسبب متلازمة هورنر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "65yo cachectic smoker, Pancoast tumor, symptoms",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل مدخن، يبلغ من العمر 65 عامًا، يعاني من سرطان الرئة القمي (ورمبانكوست)، يعاني من تدلي الجفن، وتضييق حدقة العين، وانعدام الترطيب. السبب الأكثر احتمالًا هو:؟ أمامك هذه الخيارات: Paraneoplastic syndrome، أو Invasive CA to brachial plexus، أو Invasive CA to SVC، أو Invasive CA to the sympathetic chain at T1. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط ورم بانكوست بغزو السلسلة الودية عند T1 (متلازمة هورنر: تدلي جفن، تضيق حدقة، انعدام تعرق).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط ورم بانكوست بغزو السلسلة الودية عند T1 (متلازمة هورنر: تدلي جفن، تضيق حدقة، انعدام تعرق)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Invasive CA to the sympathetic chain a",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "غزو ورم بانكوست للسلسلة الودية عند T1 يسبب متلازمة هورنر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. غزو ورم بانكوست للسلسلة الودية عند T1 يسبب متلازمة هورنر. حرف T1 يذكرك بالمستوى التشريحي المحدد لهذا الغزو."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Paraneoplastic syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Invasive CA to the sympathetic chain at T1. يصبح صحيحًا في سؤال يستهدف Paraneoplastic syndrome تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Invasive CA to brachial plexus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا Horner's specifically. يصبح صحيحًا في سؤال يصف Brachial plexus invasion alone → causes different symptoms (arm weakness/pain). الخيار C، Invasive CA to SVC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Invasive CA to the sympathetic chain at T1. يصبح صحيحًا في سؤال يستهدف Invasive CA to SVC تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Paraneoplastic syndrome",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Invasive CA to the sympathetic chain at T1.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Paraneoplastic syndrome تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "B",
+          "text": "Invasive CA to brachial plexus",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا Horner's specifically.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Brachial plexus invasion alone → causes different symptoms (arm weakness/pain)."
+        },
+        {
+          "letter": "C",
+          "text": "Invasive CA to SVC",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Invasive CA to the sympathetic chain at T1.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Invasive CA to SVC تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Invasive CA to the sympathetic chain at T1",
+          "verdict": "correct",
+          "reason": "غزو ورم بانكوست للسلسلة الودية عند T1 يسبب متلازمة هورنر."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار غزوًا للضفيرة العضدية وحدها، متناسيًا أن الغزو الودي عند T1 تحديدًا هو المسؤول عن الصورة السريرية الكاملة (متلازمة هورنر).",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار غزوًا للضفيرة العضدية وحدها، متناسيًا أن الغزو الودي عند T1 تحديدًا هو المسؤول عن الصورة السريرية الكاملة (متلازمة هورنر)."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Invasive CA to the sympathetic chain at T1",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Pancoast tumor: invades sympathetic chain at T"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Invasive CA to the sympathetic chain at T1. غزو ورم بانكوست للسلسلة الودية عند T1 يسبب متلازمة هورنر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. غزو ورم بانكوست للسلسلة الودية عند T1 يسبب متلازمة هورنر. وتذكّر القاعدة: Pancoast tumor: invades sympathetic chain at T1. والإجابة الصحيحة هي D."
+    }
+  ]
+}

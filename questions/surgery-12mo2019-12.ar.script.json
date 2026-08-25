@@ -1,0 +1,132 @@
+{
+  "id": "surgery-12mo2019-12-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 12 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Glucose intolerance caused by deficiency of",
+  "question_ar": "عدم تحمل الجلوكوز الناجم عن نقص",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 12,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Vitamine d"
+    },
+    {
+      "letter": "B",
+      "text": "Manganese"
+    },
+    {
+      "letter": "C",
+      "text": "Cooper"
+    },
+    {
+      "letter": "D",
+      "text": "Chromium"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Chromium",
+  "purpose_ar": "حفظ أن نقص عنصر الكروم (وليس فيتامين D أو المنغنيز أو النحاس) هو السبب المرتبط تحديدًا بعدم تحمل الغلوكوز، خصوصًا عند مرضى التغذية الوريدية الكاملة المطوّلة.",
+  "trap_ar": "قد يختار الطالب فيتامين D (A) لارتباطه العام بالاستقلاب، متجاهلاً أن الكروم تحديدًا هو العنصر النادر المعروف بارتباطه المباشر بتحمل الغلوكوز وحساسية الإنسولين.",
+  "summary_ar": "الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Glucose intolerance caused by deficiency of",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. عدم تحمل الجلوكوز الناجم عن نقص أمامك هذه الخيارات: Vitamine d، أو Manganese، أو Cooper، أو Chromium. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ أن نقص عنصر الكروم (وليس فيتامين D أو المنغنيز أو النحاس) هو السبب المرتبط تحديدًا بعدم تحمل الغلوكوز، خصوصًا عند مرضى التغذية الوريدية الكاملة المطوّلة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ أن نقص عنصر الكروم (وليس فيتامين D أو المنغنيز أو النحاس) هو السبب المرتبط تحديدًا بعدم تحمل الغلوكوز، خصوصًا عند مرضى التغذية الوريدية الكاملة المطوّلة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Chromium",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر. الكروم عنصر نادر ضروري يعزّز فعالية الإنسولين على مستقبلاته الخلوية؛ نقصه (خصوصًا عند مرضى التغذية الوريدية الكاملة طويلة الأمد) يسبب عدم تحمل سكري واضح."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Vitamine d: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium. يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the one classically linked to impaired glucose tolerance. الخيار B، Manganese: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium. يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the one classically linked to impaired glucose tolerance. الخيار C، Cooper: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium. يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the one classically linked to impaired glucose tolerance.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Vitamine d",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the…"
+        },
+        {
+          "letter": "B",
+          "text": "Manganese",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the…"
+        },
+        {
+          "letter": "C",
+          "text": "Cooper",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the…"
+        },
+        {
+          "letter": "D",
+          "text": "Chromium",
+          "verdict": "correct",
+          "reason": "الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب فيتامين D (A) لارتباطه العام بالاستقلاب، متجاهلاً أن الكروم تحديدًا هو العنصر النادر المعروف بارتباطه المباشر بتحمل الغلوكوز وحساسية الإنسولين.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب فيتامين D (A) لارتباطه العام بالاستقلاب، متجاهلاً أن الكروم تحديدًا هو العنصر النادر المعروف بارتباطه المباشر بتحمل الغلوكوز وحساسية الإنسولين."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Chromium",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Chromium = insulin's helper\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Chromium. الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر. وتذكّر القاعدة: \"Chromium = insulin's helper\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

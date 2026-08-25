@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-78-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 78 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Hypothyroidism symptoms and signs, EXCEPT",
+  "question_ar": "كل ما يلي هو أعراض وعلامات لقصور الغدة الدرقية باستثناء؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 78,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Amenorrhea"
+    },
+    {
+      "letter": "B",
+      "text": "Tachycardia"
+    },
+    {
+      "letter": "C",
+      "text": "Constipation"
+    },
+    {
+      "letter": "D",
+      "text": "Weight gain"
+    },
+    {
+      "letter": "E",
+      "text": "Cold intolerance"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Tachycardia",
+  "purpose_ar": "يريد التأكيد أن قصور الدرقية يُبطئ القلب (بطء)، لا يُسرّعه كما بالعبارة الخاطئة (المرتبطة بفرط الدرقية).",
+  "trap_ar": "الطالب قد يقبل تسرع القلب كعرض حقيقي، متناسيًا أن التباطؤ الاستقلابي الشامل بقصور الدرقية يشمل معدل القلب أيضًا لا تسريعه.",
+  "summary_ar": "قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Hypothyroidism symptoms and signs, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Tachycardia"
+      },
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو أعراض وعلامات لقصور الغدة الدرقية باستثناء؟ أمامك هذه الخيارات: Amenorrhea، أو Tachycardia، أو Constipation، أو Weight gain، أو Cold intolerance. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن قصور الدرقية يُبطئ القلب (بطء)، لا يُسرّعه كما بالعبارة الخاطئة (المرتبطة بفرط الدرقية).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن قصور الدرقية يُبطئ القلب (بطء)، لا يُسرّعه كما بالعبارة الخاطئة (المرتبطة بفرط الدرقية)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Tachycardia",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Tachycardia"
+      },
+      "card_text": "قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة. حرف H المزدوج يذكرك أن التباطؤ يشمل معدل القلب أيضًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Amenorrhea: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a feature of hyperthyroidism — hypothyroidism typically causes bradycardia. الخيار C، Constipation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a feature of hyperthyroidism — hypothyroidism typically causes bradycardia. الخيار D، Weight gain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a feature of hyperthyroidism — hypothyroidism typically causes bradycardia. الخيار E، Cold intolerance: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia. يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a feature of hyperthyroidism — hypothyroidism typically causes bradycardia.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Amenorrhea",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a…"
+        },
+        {
+          "letter": "B",
+          "text": "Tachycardia",
+          "verdict": "correct",
+          "reason": "قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة."
+        },
+        {
+          "letter": "C",
+          "text": "Constipation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a…"
+        },
+        {
+          "letter": "D",
+          "text": "Weight gain",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a…"
+        },
+        {
+          "letter": "E",
+          "text": "Cold intolerance",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tachycardia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism symptoms, unlike tachycardia, which is actually a…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل تسرع القلب كعرض حقيقي، متناسيًا أن التباطؤ الاستقلابي الشامل بقصور الدرقية يشمل معدل القلب أيضًا لا تسريعه.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل تسرع القلب كعرض حقيقي، متناسيًا أن التباطؤ الاستقلابي الشامل بقصور الدرقية يشمل معدل القلب أيضًا لا تسريعه."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Tachycardia",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Tachycardia"
+      },
+      "pills": [
+        "Hypothyroidism: Heart slows, doesn't speed up"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Tachycardia. قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة. وتذكّر القاعدة: Hypothyroidism: Heart slows, doesn't speed up. والإجابة الصحيحة هي B."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "surgery-1mo2017-32-ar",
+  "source": "Surgery Board Question Bank -- 1st Month 2017 Course, Question 32 of 46",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Post-mastectomy, axillary clearance, found complication",
+  "question_ar": "بعد استئصال الثدي وإزالة الإبط لمريضة مصابة بسرطان الثدي، وجد أنالمريضة تعاني من لوح كتف مجنح، وهو السبب الأكثر احتمالاً؟",
+  "course_label": "Course: Surgery — 1st Month 2017 Course",
+  "question_number": 32,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Patient suffered a TIA"
+    },
+    {
+      "letter": "B",
+      "text": "Damage to thoracodorsal nerve during surgery"
+    },
+    {
+      "letter": "C",
+      "text": "Damage to long thoracic nerve during surgery"
+    },
+    {
+      "letter": "D",
+      "text": "Damage to serratus anterior muscle"
+    },
+    {
+      "letter": "E",
+      "text": "Dislocated scapula"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Damage to long thoracic nerve during surgery",
+  "purpose_ar": "يريد ربط تنظيف الإبط بعد استئصال الثدي بإصابة العصب الصدري الطويل وتوقيعها الحركي المميز (اللوح المجنح).",
+  "trap_ar": "الطالب قد يختار إصابة عصب آخر بالمنطقة، متناسيًا أن هذا العصب تحديدًا هو الأكثر عرضة أثناء تنظيف الإبط بهذه الجراحة.",
+  "summary_ar": "تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Post-mastectomy, axillary clearance, found complication",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. بعد استئصال الثدي وإزالة الإبط لمريضة مصابة بسرطان الثدي، وجد أنالمريضة تعاني من لوح كتف مجنح، وهو السبب الأكثر احتمالاً؟ أمامك هذه الخيارات: Patient suffered a TIA، أو Damage to thoracodorsal nerve during surgery، أو Damage to long thoracic nerve during surgery، أو Damage to serratus anterior muscle، أو Dislocated scapula. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط تنظيف الإبط بعد استئصال الثدي بإصابة العصب الصدري الطويل وتوقيعها الحركي المميز (اللوح المجنح).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط تنظيف الإبط بعد استئصال الثدي بإصابة العصب الصدري الطويل وتوقيعها الحركي المميز (اللوح المجنح)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Damage to long thoracic nerve during s",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا. حرف L المزدوج يربط هذا العصب بموقعه المعرض للإصابة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Patient suffered a TIA: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery. يصبح صحيحًا في سؤال يصف A TIA is unrelated to axillary surgery directly. الخيار B، Damage to thoracodorsal nerve during surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery. يصبح صحيحًا في سؤال يصف thoracodorsal nerve injury causes weak adduction, a different deficit. الخيار D، Damage to serratus anterior muscle: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a separate primary injury. يصبح صحيحًا في سؤال يصف serratus anterior damage results FROM long thoracic nerve injury. الخيار E، Dislocated scapula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery. يصبح صحيحًا في سؤال يصف scapular dislocation isn't a real described entity here — long thoracic nerve injury causing winged scapula is the classic complication of axillary dissection.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Patient suffered a TIA",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A TIA is unrelated to axillary surgery directly."
+        },
+        {
+          "letter": "B",
+          "text": "Damage to thoracodorsal nerve during surgery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف thoracodorsal nerve injury causes weak adduction, a different deficit."
+        },
+        {
+          "letter": "C",
+          "text": "Damage to long thoracic nerve during surgery",
+          "verdict": "correct",
+          "reason": "تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا."
+        },
+        {
+          "letter": "D",
+          "text": "Damage to serratus anterior muscle",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a separate primary injury.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف serratus anterior damage results FROM long thoracic nerve injury."
+        },
+        {
+          "letter": "E",
+          "text": "Dislocated scapula",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف scapular dislocation isn't a real described entity here — long thoracic nerve injury causing winged scapula is the classic complication of…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار إصابة عصب آخر بالمنطقة، متناسيًا أن هذا العصب تحديدًا هو الأكثر عرضة أثناء تنظيف الإبط بهذه الجراحة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار إصابة عصب آخر بالمنطقة، متناسيًا أن هذا العصب تحديدًا هو الأكثر عرضة أثناء تنظيف الإبط بهذه الجراحة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Damage to long thoracic nerve during surgery",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Axillary clearance: risks Long thoracic nerve"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Damage to long thoracic nerve during surgery. تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا. وتذكّر القاعدة: Axillary clearance: risks Long thoracic nerve. والإجابة الصحيحة هي C."
+    }
+  ]
+}

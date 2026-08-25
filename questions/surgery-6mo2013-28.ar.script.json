@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2013-28-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 28 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common salivary gland cancer",
+  "question_ar": "سرطان الغدد اللعابية الأكثر شيوعا هو:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 28,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Warthin tumors"
+    },
+    {
+      "letter": "B",
+      "text": "Mucoepidermoid carcinoma"
+    },
+    {
+      "letter": "C",
+      "text": "Adenoidcystic cancer"
+    },
+    {
+      "letter": "D",
+      "text": "Adenocarcinoma"
+    },
+    {
+      "letter": "E",
+      "text": "Malignant mixed cancer"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Mucoepidermoid carcinoma",
+  "purpose_ar": "يريد التأكيد أن السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية.",
+  "trap_ar": "الطالب قد يختار الورم الغدي متعدد الأشكال (حميد لا خبيث)، متناسيًا أن السؤال يطلب السرطان الأشيع لا الورم الحميد الأشيع.",
+  "summary_ar": "السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common salivary gland cancer",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. سرطان الغدد اللعابية الأكثر شيوعا هو:؟ أمامك هذه الخيارات: Warthin tumors، أو Mucoepidermoid carcinoma، أو Adenoidcystic cancer، أو Adenocarcinoma، أو Malignant mixed cancer. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Mucoepidermoid carcinoma",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية. حرف M المزدوج يربط هذا السرطان بموقعه كالأشيع خبيثًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Warthin tumors: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the cancer being asked about. يصبح صحيحًا في سؤال يصف Warthin tumor is benign. الخيار C، Adenoidcystic cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma. يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than mucoepidermoid carcinoma, which is the most common salivary gland cancer. الخيار D، Adenocarcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma. يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than mucoepidermoid carcinoma, which is the most common salivary gland cancer. الخيار E، Malignant mixed cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma. يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than mucoepidermoid carcinoma, which is the most common salivary gland cancer.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Warthin tumors",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the cancer being asked about.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Warthin tumor is benign."
+        },
+        {
+          "letter": "B",
+          "text": "Mucoepidermoid carcinoma",
+          "verdict": "correct",
+          "reason": "السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية."
+        },
+        {
+          "letter": "C",
+          "text": "Adenoidcystic cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than…"
+        },
+        {
+          "letter": "D",
+          "text": "Adenocarcinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than…"
+        },
+        {
+          "letter": "E",
+          "text": "Malignant mixed cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الورم الغدي متعدد الأشكال (حميد لا خبيث)، متناسيًا أن السؤال يطلب السرطان الأشيع لا الورم الحميد الأشيع.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الورم الغدي متعدد الأشكال (حميد لا خبيث)، متناسيًا أن السؤال يطلب السرطان الأشيع لا الورم الحميد الأشيع."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Mucoepidermoid carcinoma",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Salivary gland cancer: mostly Mucoepidermoid"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Mucoepidermoid carcinoma. السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية. وتذكّر القاعدة: Salivary gland cancer: mostly Mucoepidermoid. والإجابة الصحيحة هي B."
+    }
+  ]
+}

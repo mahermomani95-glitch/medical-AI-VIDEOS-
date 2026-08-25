@@ -1,0 +1,132 @@
+{
+  "id": "surgery-7mo2017-14-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2017 Course, Question 14 of 45",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "2 days post-MVC, 30yo, otherwise recovering, next step (implied delayed splenic rupture)",
+  "question_ar": "بعد يومين من حادث سيارة، يتعافى رجل في الثلاثين من عمره، يتمتع بصحةجيدة، في وحدة العناية المركزة من كسور في الضلع الأيمن، ونزيف داخلالبطن، وكدمة رئوية دون استرواح صدري، وتمزق في الكبد. يشكو من ألممتزايد في الربع العلوي الأيمن من البطن، ويتقيأ دمًا أحمر فاتحًا. أظهرالتقييم المُركّز بالموجات فوق الصوتية للصدمات عدم وجود انصباب تاموري،ولكن كمية كبيرة من السوائل الحرة داخل الصفاق. أي من الطرق التالية هوالأفضل؟",
+  "course_label": "Course: Surgery — 7th Month 2017 Course",
+  "question_number": 14,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Operative exploration"
+    },
+    {
+      "letter": "B",
+      "text": "Admission for serial hematocrits"
+    },
+    {
+      "letter": "C",
+      "text": "Discharge home with close follow-up ) D. ERCP with sphincterotomy"
+    },
+    {
+      "letter": "E",
+      "text": "Retrograde cystourethrography"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Operative exploration",
+  "purpose_ar": "يريد ربط تدهور مفاجئ بعد يومين من رض مركبة بانفجار طحال متأخر يستدعي استكشافًا جراحيًا.",
+  "trap_ar": "الطالب قد يختار المراقبة الإضافية فقط، متناسيًا أن التدهور السريري المفاجئ بهذا التوقيت المتأخر يستدعي تدخلاً جراحيًا فوريًا لا انتظارًا.",
+  "summary_ar": "تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "2 days post-MVC, 30yo, otherwise recovering, next step (impl",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. بعد يومين من حادث سيارة، يتعافى رجل في الثلاثين من عمره، يتمتع بصحةجيدة، في وحدة العناية المركزة من كسور في الضلع الأيمن، ونزيف داخلالبطن، وكدمة رئوية دون استرواح صدري، وتمزق في الكبد. يشكو من ألممتزايد في الربع العلوي الأيمن من البطن، ويتقيأ دمًا أحمر فاتحًا. أظهرالتقييم المُركّز بالموجات فوق الصوتية للصدمات عدم وجود انصباب تاموري،ولكن كمية كبيرة من السوائل الحرة داخل الصفاق. أي من الطرق التالية هوالأفضل؟ أمامك هذه الخيارات: Operative exploration، أو Admission for serial hematocrits، أو Discharge home with close follow-up ) D. ERCP with sphincterotomy، أو Retrograde cystourethrography. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط تدهور مفاجئ بعد يومين من رض مركبة بانفجار طحال متأخر يستدعي استكشافًا جراحيًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط تدهور مفاجئ بعد يومين من رض مركبة بانفجار طحال متأخر يستدعي استكشافًا جراحيًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Operative exploration",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر. حرف D و E يذكرانك بضرورة التدخل الجراحي الفوري بهذا السيناريو."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Admission for serial hematocrits: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration. يصبح صحيحًا في سؤال يصف Admission for serial hematocrits and discharge with follow-up risk missing ongoing/delayed bleeding requiring intervention. الخيار C، Discharge home with close follow-up ) D. ERCP with sphincterotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration. يصبح صحيحًا في سؤال يصف Admission for serial hematocrits and discharge with follow-up risk missing ongoing/delayed bleeding requiring intervention. الخيار E، Retrograde cystourethrography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration. يصبح صحيحًا في سؤال يصف ERCP and cystourethrography are unrelated to splenic injury — operative exploration is indicated given signs suggesting delayed splenic rupture/deterioration.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Operative exploration",
+          "verdict": "correct",
+          "reason": "تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر."
+        },
+        {
+          "letter": "B",
+          "text": "Admission for serial hematocrits",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Admission for serial hematocrits and discharge with follow-up risk missing ongoing/delayed bleeding requiring intervention."
+        },
+        {
+          "letter": "C",
+          "text": "Discharge home with close follow-up ) D. ERCP with sphincterotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Admission for serial hematocrits and discharge with follow-up risk missing ongoing/delayed bleeding requiring intervention."
+        },
+        {
+          "letter": "E",
+          "text": "Retrograde cystourethrography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ERCP and cystourethrography are unrelated to splenic injury — operative exploration is indicated given signs suggesting delayed splenic…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار المراقبة الإضافية فقط، متناسيًا أن التدهور السريري المفاجئ بهذا التوقيت المتأخر يستدعي تدخلاً جراحيًا فوريًا لا انتظارًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار المراقبة الإضافية فقط، متناسيًا أن التدهور السريري المفاجئ بهذا التوقيت المتأخر يستدعي تدخلاً جراحيًا فوريًا لا انتظارًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Operative exploration",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Delayed post-trauma deterioration: Demands Exp"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Operative exploration. تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر. وتذكّر القاعدة: Delayed post-trauma deterioration: Demands Exploration. والإجابة الصحيحة هي A."
+    }
+  ]
+}

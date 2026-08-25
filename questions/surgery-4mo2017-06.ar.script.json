@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-06-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 6 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "True regarding electric burns",
+  "question_ar": "واحد صحيح فيما يتعلق بالحروق الكهربائية؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Injuries are generally more superficial than those with thermal burns"
+    },
+    {
+      "letter": "B",
+      "text": "Intravenous fluid replacement is based on the percentage of body surface area burnt"
+    },
+    {
+      "letter": "C",
+      "text": "Electric burns often result in transient traumatic optic neuropathy"
+    },
+    {
+      "letter": "D",
+      "text": "Evaluation for fracture of the other extremities and visceral injury is indicated"
+    },
+    {
+      "letter": "E",
+      "text": "Cardiac conduction abnormalities are unlikely"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Evaluation for fracture of the other extremities and visceral injury is indicated",
+  "purpose_ar": "يريد التأكيد أن تقييم كسور الأطراف الأخرى والأعضاء الداخلية ضروري بحروق الكهرباء (إصابات خفية عميقة).",
+  "trap_ar": "الطالب قد يكتفي بتقييم الحرق الجلدي الظاهر، متناسيًا أن التيار الكهربائي قد يسبب أذى داخليًا عميقًا غير ظاهر بالفحص السطحي.",
+  "summary_ar": "حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "True regarding electric burns",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Evaluation for fracture of the other e"
+      },
+      "narration": "لنبدأ بهذا السؤال. واحد صحيح فيما يتعلق بالحروق الكهربائية؟ أمامك هذه الخيارات: Injuries are generally more superficial than those with thermal burns، أو Intravenous fluid replacement is based on the percentage of body surface area burnt، أو Electric burns often result in transient traumatic optic neuropathy، أو Evaluation for fracture of the other extremities and visceral injury is indicated، أو Cardiac conduction abnormalities are unlikely. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن تقييم كسور الأطراف الأخرى والأعضاء الداخلية ضروري بحروق الكهرباء (إصابات خفية عميقة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن تقييم كسور الأطراف الأخرى والأعضاء الداخلية ضروري بحروق الكهرباء (إصابات خفية عميقة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Evaluation for fracture of the other e",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Evaluation for fracture of the other e"
+      },
+      "card_text": "حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية. حرف E المزدوج يذكرك بضرورة التقييم الشامل لا السطحي فقط."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Injuries are generally more superficial than those with thermal burns: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more superficial) than thermal burns (A is false). يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (. الخيار B، Intravenous fluid replacement is based on the percentage of body surface area burnt: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just BSA percentage as with thermal burns (B is false). يصبح صحيحًا في سؤال يصف fluid replacement in electric burns is based on actual tissue damage/myoglobinuria. الخيار C، Electric burns often result in transient traumatic optic neuropathy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more superficial) than thermal burns (A is false). يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (. الخيار E، Cardiac conduction abnormalities are unlikely: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unlikely) given current passing through the body (E is false) — the true statement is that associated fractures and internal organ injury must be evaluated given the violent muscle contractions/falls associated with electric shock. يصبح صحيحًا في سؤال يصف cardiac conduction abnormalities are actually COMMON (.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Injuries are generally more superficial than those with thermal burns",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more superficial) than thermal burns (A is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (."
+        },
+        {
+          "letter": "B",
+          "text": "Intravenous fluid replacement is based on the percentage of body surface area burnt",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just BSA percentage as with thermal burns (B is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف fluid replacement in electric burns is based on actual tissue damage/myoglobinuria."
+        },
+        {
+          "letter": "C",
+          "text": "Electric burns often result in transient traumatic optic neuropathy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more superficial) than thermal burns (A is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (."
+        },
+        {
+          "letter": "D",
+          "text": "Evaluation for fracture of the other extremities and visceral injury is indicated",
+          "verdict": "correct",
+          "reason": "حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية."
+        },
+        {
+          "letter": "E",
+          "text": "Cardiac conduction abnormalities are unlikely",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unlikely) given current passing through the body (E is false) — the true statement is that associated fractures and internal…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف cardiac conduction abnormalities are actually COMMON (."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يكتفي بتقييم الحرق الجلدي الظاهر، متناسيًا أن التيار الكهربائي قد يسبب أذى داخليًا عميقًا غير ظاهر بالفحص السطحي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يكتفي بتقييم الحرق الجلدي الظاهر، متناسيًا أن التيار الكهربائي قد يسبب أذى داخليًا عميقًا غير ظاهر بالفحص السطحي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Evaluation for fracture of the other extremities",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Evaluation for fracture of the other e"
+      },
+      "pills": [
+        "Electric burns: Evaluate deeply, beyond skin"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Evaluation for fracture of the other extremities and visceral injury is indicated. حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية. وتذكّر القاعدة: Electric burns: Evaluate deeply, beyond skin. والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "surgery-12mo2020-29-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 29 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Peptic ulcer — EXCEPT",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 29,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Anterior duodenal ulcer tends to bleed and posterior tends to perforate"
+    },
+    {
+      "letter": "B",
+      "text": "Duodenal ulcer more common than gastric"
+    },
+    {
+      "letter": "C",
+      "text": "Can cause gastric outlet obstruction"
+    },
+    {
+      "letter": "D",
+      "text": "Multiple ulcers in uncommon areas may be associated with Zollinger Ellison syndrome"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Anterior duodenal ulcer tends to bleed and posterior tends to perforate",
+  "purpose_ar": "تصحيح مفهوم أساسي معكوس بالسؤال — القرحة الخلفية تنزف (قرب الشريان)، والأمامية تنثقب (قرب التجويف الحر)، وليس العكس كما ورد بالخيار A.",
+  "trap_ar": "قد يقرأ الطالب الخيار A بسرعة ويظنه صحيحًا لأنه يذكر \"نزف وانثقاب\" بشكل عام دون ملاحظة أن الاتجاه (أمامي/خلفي) معكوس تمامًا عن الحقيقة.",
+  "summary_ar": "الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر).",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Peptic ulcer — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anterior duodenal ulcer tends to bleed"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Anterior duodenal ulcer tends to bleed and posterior tends to perforate، أو Duodenal ulcer more common than gastric، أو Can cause gastric outlet obstruction، أو Multiple ulcers in uncommon areas may be associated with Zollinger Ellison syndrome. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تصحيح مفهوم أساسي معكوس بالسؤال — القرحة الخلفية تنزف (قرب الشريان)، والأمامية تنثقب (قرب التجويف الحر)، وليس العكس كما ورد بالخيار A.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تصحيح مفهوم أساسي معكوس بالسؤال — القرحة الخلفية تنزف (قرب الشريان)، والأمامية تنثقب (قرب التجويف الحر)، وليس العكس كما ورد بالخيار A."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Anterior duodenal ulcer tends to bleed",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anterior duodenal ulcer tends to bleed"
+      },
+      "card_text": "الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر).",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر). القرحة الخلفية تتآكل باتجاه الشريان المعدي الاثني عشري خلفها فتنزف، بينما القرحة الأمامية ليس خلفها سوى التجويف البريتوني الحر، فتنثقب إليه مباشرة — عكس ما ورد بالخيار A تمامًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Duodenal ulcer more common than gastric: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anterior duodenal ulcer tends to bleed and posterior tends to perforate. يصبح صحيحًا في سؤال يصف Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and multiple ulcers in unusual locations suggesting Zollinger-Ellison are all true statements. الخيار C، Can cause gastric outlet obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anterior duodenal ulcer tends to bleed and posterior tends to perforate. يصبح صحيحًا في سؤال يصف Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and multiple ulcers in unusual locations suggesting Zollinger-Ellison are all true statements. الخيار D، Multiple ulcers in uncommon areas may be associated with Zollinger Ellison syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anterior duodenal ulcer tends to bleed and posterior tends to perforate. يصبح صحيحًا في سؤال يصف Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and multiple ulcers in unusual locations suggesting Zollinger-Ellison are all true statements.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Anterior duodenal ulcer tends to bleed and posterior tends to perforate",
+          "verdict": "correct",
+          "reason": "الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر)."
+        },
+        {
+          "letter": "B",
+          "text": "Duodenal ulcer more common than gastric",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anterior duodenal ulcer tends to bleed and posterior tends to perforate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and multiple ulcers in unusual locations suggesting…"
+        },
+        {
+          "letter": "C",
+          "text": "Can cause gastric outlet obstruction",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anterior duodenal ulcer tends to bleed and posterior tends to perforate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and multiple ulcers in unusual locations suggesting…"
+        },
+        {
+          "letter": "D",
+          "text": "Multiple ulcers in uncommon areas may be associated with Zollinger Ellison syndrome",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anterior duodenal ulcer tends to bleed and posterior tends to perforate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and multiple ulcers in unusual locations suggesting…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يقرأ الطالب الخيار A بسرعة ويظنه صحيحًا لأنه يذكر \"نزف وانثقاب\" بشكل عام دون ملاحظة أن الاتجاه (أمامي/خلفي) معكوس تمامًا عن الحقيقة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يقرأ الطالب الخيار A بسرعة ويظنه صحيحًا لأنه يذكر \"نزف وانثقاب\" بشكل عام دون ملاحظة أن الاتجاه (أمامي/خلفي) معكوس تمامًا عن الحقيقة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Anterior duodenal ulcer tends to bleed and poste",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Anterior duodenal ulcer tends to bleed"
+      },
+      "pills": [
+        "\"Posterior ulcer = Bleeds (artery behind), Ant"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Anterior duodenal ulcer tends to bleed and posterior tends to perforate. الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر)."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر). وتذكّر القاعدة: \"Posterior ulcer = Bleeds (artery behind), Anterior ulcer = Perforates (free cavity)\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

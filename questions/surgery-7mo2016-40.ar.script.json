@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-40-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 40 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "45yo female, intermittent vague RUQ pain, jaundice, likely tumor",
+  "question_ar": "امرأة تبلغ من العمر 45 عامًا تعاني من ألم متقطع وغامض في الربع العلويالأيمن من البطن ويرقان. بالإضافة إلى ذلك، لاحظت وجود براز دهني عائم. الموجات فوق الصوتية: حصوة في المرارة وكتلة في رأس البنكرياس. التشخيصالأكثر احتمالًا؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 40,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Vipoma"
+    },
+    {
+      "letter": "B",
+      "text": "Glucagonoma"
+    },
+    {
+      "letter": "C",
+      "text": "Somatostatinoma"
+    },
+    {
+      "letter": "D",
+      "text": "Gastrinoma"
+    },
+    {
+      "letter": "E",
+      "text": "Insulinoma"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Somatostatinoma",
+  "purpose_ar": "يريد ربط ألم مبهم متقطع بالربع العلوي الأيمن مع يرقان بورم السوماتوستاتين (يثبط إفراغ المرارة).",
+  "trap_ar": "الطالب قد يختار حصى المرارة البسيطة، متناسيًا أن السياق الكامل يوجه لورم غدد صماء نادر لا حالة مرارية شائعة.",
+  "summary_ar": "ورم السوماتوستاتين يثبط إفراغ المرارة فيسبب ألمًا مبهمًا ويرقانًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "45yo female, intermittent vague RUQ pain, jaundice, likely t",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Somatostatinoma"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 45 عامًا تعاني من ألم متقطع وغامض في الربع العلويالأيمن من البطن ويرقان. بالإضافة إلى ذلك، لاحظت وجود براز دهني عائم. الموجات فوق الصوتية: حصوة في المرارة وكتلة في رأس البنكرياس. التشخيصالأكثر احتمالًا؟ أمامك هذه الخيارات: Vipoma، أو Glucagonoma، أو Somatostatinoma، أو Gastrinoma، أو Insulinoma. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط ألم مبهم متقطع بالربع العلوي الأيمن مع يرقان بورم السوماتوستاتين (يثبط إفراغ المرارة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط ألم مبهم متقطع بالربع العلوي الأيمن مع يرقان بورم السوماتوستاتين (يثبط إفراغ المرارة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Somatostatinoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Somatostatinoma"
+      },
+      "card_text": "ورم السوماتوستاتين يثبط إفراغ المرارة فيسبب ألمًا مبهمًا ويرقانًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ورم السوماتوستاتين يثبط إفراغ المرارة فيسبب ألمًا مبهمًا ويرقانًا. حرف S المزدوج يذكرك بهذا الورم النادر كتشخيص محتمل."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Vipoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Somatostatinoma. يصبح صحيحًا في سؤال يصف VIPoma causes watery diarrhea. الخيار B، Glucagonoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Somatostatinoma. يصبح صحيحًا في سؤال يصف glucagonoma causes migratory erythema/diabetes. الخيار D، Gastrinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Somatostatinoma. يصبح صحيحًا في سؤال يصف gastrinoma causes refractory ulcers. الخيار E، Insulinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Somatostatinoma. يصبح صحيحًا في سؤال يصف insulinoma causes hypoglycemia — somatostatinoma classically presents with the triad of diabetes, gallstones (causing RUQ pain/jaundice), and steatorrhea.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Vipoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Somatostatinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف VIPoma causes watery diarrhea."
+        },
+        {
+          "letter": "B",
+          "text": "Glucagonoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Somatostatinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف glucagonoma causes migratory erythema/diabetes."
+        },
+        {
+          "letter": "C",
+          "text": "Somatostatinoma",
+          "verdict": "correct",
+          "reason": "ورم السوماتوستاتين يثبط إفراغ المرارة فيسبب ألمًا مبهمًا ويرقانًا."
+        },
+        {
+          "letter": "D",
+          "text": "Gastrinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Somatostatinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف gastrinoma causes refractory ulcers."
+        },
+        {
+          "letter": "E",
+          "text": "Insulinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Somatostatinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف insulinoma causes hypoglycemia — somatostatinoma classically presents with the triad of diabetes, gallstones (causing RUQ pain/jaundice), and…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار حصى المرارة البسيطة، متناسيًا أن السياق الكامل يوجه لورم غدد صماء نادر لا حالة مرارية شائعة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار حصى المرارة البسيطة، متناسيًا أن السياق الكامل يوجه لورم غدد صماء نادر لا حالة مرارية شائعة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Somatostatinoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Somatostatinoma"
+      },
+      "pills": [
+        "Vague RUQ pain + jaundice: consider Somatostat"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Somatostatinoma. ورم السوماتوستاتين يثبط إفراغ المرارة فيسبب ألمًا مبهمًا ويرقانًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ورم السوماتوستاتين يثبط إفراغ المرارة فيسبب ألمًا مبهمًا ويرقانًا. وتذكّر القاعدة: Vague RUQ pain + jaundice: consider Somatostatinoma. والإجابة الصحيحة هي C."
+    }
+  ]
+}

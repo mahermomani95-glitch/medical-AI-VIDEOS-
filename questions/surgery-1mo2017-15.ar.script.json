@@ -1,0 +1,149 @@
+{
+  "id": "surgery-1mo2017-15-ar",
+  "source": "Surgery Board Question Bank -- 1st Month 2017 Course, Question 15 of 46",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common site of Volvulus",
+  "question_ar": "الموقع الأكثر شيوعا للانفتال هو؟",
+  "course_label": "Course: Surgery — 1st Month 2017 Course",
+  "question_number": 15,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Small bowel"
+    },
+    {
+      "letter": "B",
+      "text": "Splenic flexure"
+    },
+    {
+      "letter": "C",
+      "text": "Transverse colon"
+    },
+    {
+      "letter": "D",
+      "text": "Sigmoid volvulus"
+    },
+    {
+      "letter": "E",
+      "text": "Cecum"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Sigmoid volvulus",
+  "purpose_ar": "يريد التأكيد أن الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء.",
+  "trap_ar": "الطالب قد يختار الأعور، متناسيًا أن السيني يتصدر إحصائيًا كموقع الالتواء الأشيع لطول مساريقه ومرونته العالية.",
+  "summary_ar": "الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common site of Volvulus",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid volvulus"
+      },
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعا للانفتال هو؟ أمامك هذه الخيارات: Small bowel، أو Splenic flexure، أو Transverse colon، أو Sigmoid volvulus، أو Cecum. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Sigmoid volvulus",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid volvulus"
+      },
+      "card_text": "الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه. حرف S المزدوج يربط الالتواء السيني بموقعه كالأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Small bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus. يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most common site of colonic volvulus overall. الخيار B، Splenic flexure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus. يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most common site of colonic volvulus overall. الخيار C، Transverse colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus. يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most common site of colonic volvulus overall. الخيار E، Cecum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus. يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most common site of colonic volvulus overall.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Small bowel",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most…"
+        },
+        {
+          "letter": "B",
+          "text": "Splenic flexure",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most…"
+        },
+        {
+          "letter": "C",
+          "text": "Transverse colon",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most…"
+        },
+        {
+          "letter": "D",
+          "text": "Sigmoid volvulus",
+          "verdict": "correct",
+          "reason": "الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه."
+        },
+        {
+          "letter": "E",
+          "text": "Cecum",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الأعور، متناسيًا أن السيني يتصدر إحصائيًا كموقع الالتواء الأشيع لطول مساريقه ومرونته العالية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الأعور، متناسيًا أن السيني يتصدر إحصائيًا كموقع الالتواء الأشيع لطول مساريقه ومرونته العالية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Sigmoid volvulus",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid volvulus"
+      },
+      "pills": [
+        "Volvulus: mostly Sigmoid"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Sigmoid volvulus. الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه. وتذكّر القاعدة: Volvulus: mostly Sigmoid. والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-41-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 41 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Small bowel obstruction causes, EXCEPT",
+  "question_ar": "كل ما يلي من الأسباب الشائعة لانسداد الأمعاء الدقيقة باستثناء؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 41,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Post surgical adhesion"
+    },
+    {
+      "letter": "B",
+      "text": "Inguinal hernia"
+    },
+    {
+      "letter": "C",
+      "text": "Incisional hernia"
+    },
+    {
+      "letter": "D",
+      "text": "Small bowel tumor"
+    },
+    {
+      "letter": "E",
+      "text": "Fecal impaction"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Fecal impaction",
+  "purpose_ar": "يريد التأكيد أن انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة كما بالعبارة الخاطئة.",
+  "trap_ar": "الطالب قد يظن أي مشكلة بالبراز تسبب انسدادًا للأمعاء الدقيقة بالتساوي، متناسيًا أن انحشار البراز يحدث بالقولون تحديدًا لا الأمعاء الدقيقة.",
+  "summary_ar": "انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Small bowel obstruction causes, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Fecal impaction"
+      },
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي من الأسباب الشائعة لانسداد الأمعاء الدقيقة باستثناء؟ أمامك هذه الخيارات: Post surgical adhesion، أو Inguinal hernia، أو Incisional hernia، أو Small bowel tumor، أو Fecal impaction. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة كما بالعبارة الخاطئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Fecal impaction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Fecal impaction"
+      },
+      "card_text": "انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة. حرف F المزدوج يذكرك بموقع الانسداد الصحيح (القولون)."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Post surgical adhesion: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا small bowel) obstruction. يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike fecal impaction, which typically causes large bowel (. الخيار B، Inguinal hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا small bowel) obstruction. يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike fecal impaction, which typically causes large bowel (. الخيار C، Incisional hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا small bowel) obstruction. يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike fecal impaction, which typically causes large bowel (. الخيار D، Small bowel tumor: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا small bowel) obstruction. يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike fecal impaction, which typically causes large bowel (.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Post surgical adhesion",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا small bowel) obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike…"
+        },
+        {
+          "letter": "B",
+          "text": "Inguinal hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا small bowel) obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike…"
+        },
+        {
+          "letter": "C",
+          "text": "Incisional hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا small bowel) obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike…"
+        },
+        {
+          "letter": "D",
+          "text": "Small bowel tumor",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا small bowel) obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all mechanical causes of small bowel obstruction, unlike…"
+        },
+        {
+          "letter": "E",
+          "text": "Fecal impaction",
+          "verdict": "correct",
+          "reason": "انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي مشكلة بالبراز تسبب انسدادًا للأمعاء الدقيقة بالتساوي، متناسيًا أن انحشار البراز يحدث بالقولون تحديدًا لا الأمعاء الدقيقة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي مشكلة بالبراز تسبب انسدادًا للأمعاء الدقيقة بالتساوي، متناسيًا أن انحشار البراز يحدث بالقولون تحديدًا لا الأمعاء الدقيقة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Fecal impaction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Fecal impaction"
+      },
+      "pills": [
+        "Fecal impaction: Fills the large bowel, not sm"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Fecal impaction. انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة. وتذكّر القاعدة: Fecal impaction: Fills the large bowel, not small. والإجابة الصحيحة هي E."
+    }
+  ]
+}

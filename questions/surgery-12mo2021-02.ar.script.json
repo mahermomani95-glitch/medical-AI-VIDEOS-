@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2021-02-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2021 Course, Question 2 of 18",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Negative cough/Rovsing/obturator + positive psoas sign — appendix tip location",
+  "question_ar": "رجل يبلغ من العمر 27 عامًا يُشتبه بإصابته بالتهاب الزائدة الدودية الحاد. عند الفحص السريري بطنه لين وغير منتفخ. لا يشعر بألم عند السعال أو عند إحداث إيلام في الربع السفلي الأيمن عند الجس في الربع السفلي الأيسر. يشعر بألم بطني عند بسط الفخذ الأيمن وهو مستلقٍ على جانبه الأيسر. لا يشعر بألم عند التدوير السلبي لوركه الأيمن في وضعية الانثناء. أين تشتبه بموقع طرف الزائدة الدودية؟",
+  "course_label": "Course: Surgery — 12th Month 2021 Course",
+  "question_number": 2,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Displaced to the upper quadrant"
+    },
+    {
+      "letter": "B",
+      "text": "Extraperitoneal and lying anterior to the cecum"
+    },
+    {
+      "letter": "C",
+      "text": "In the pelvis"
+    },
+    {
+      "letter": "D",
+      "text": "In the left lower quadrant"
+    },
+    {
+      "letter": "E",
+      "text": "Retrocecal over the psoas muscle"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Retrocecal over the psoas muscle",
+  "purpose_ar": "ربط علامة العضلة القطنية الإيجابية بموقع الزائدة خلف الأعور فوق العضلة القطنية تحديدًا، وتمييزها عن علامة السدادية (زائدة حوضية) وعلامة روفسينغ (زائدة بموقع نموذجي).",
+  "trap_ar": "قد يخلط الطالب بين علامة العضلة القطنية (موقع خلف الأعور) وعلامة السدادية (موقع حوضي)، متجاهلاً أن كل علامة ترتبط بموقع تشريحي مختلف للزائدة الملتهبة.",
+  "summary_ar": "علامة العضلة القطنية الإيجابية (ألم عند مد الفخذ) مع علامتي السدادية وروفسينغ السلبيتين توجّه لزائدة خلف الأعور مستلقية على العضلة القطنية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Negative cough/Rovsing/obturator + positive psoas sign — app",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 27 عامًا يُشتبه بإصابته بالتهاب الزائدة الدودية الحاد. عند الفحص السريري بطنه لين وغير منتفخ. لا يشعر بألم عند السعال أو عند إحداث إيلام في الربع السفلي الأيمن عند الجس في الربع السفلي الأيسر. يشعر بألم بطني عند بسط الفخذ الأيمن وهو مستلقٍ على جانبه الأيسر. لا يشعر بألم عند التدوير السلبي لوركه الأيمن في وضعية الانثناء. أين تشتبه بموقع طرف الزائدة الدودية؟ أمامك هذه الخيارات: Displaced to the upper quadrant، أو Extraperitoneal and lying anterior to the cecum، أو In the pelvis، أو In the left lower quadrant، أو Retrocecal over the psoas muscle. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "ربط علامة العضلة القطنية الإيجابية بموقع الزائدة خلف الأعور فوق العضلة القطنية تحديدًا، وتمييزها عن علامة السدادية (زائدة حوضية) وعلامة روفسينغ (زائدة بموقع نموذجي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: ربط علامة العضلة القطنية الإيجابية بموقع الزائدة خلف الأعور فوق العضلة القطنية تحديدًا، وتمييزها عن علامة السدادية (زائدة حوضية) وعلامة روفسينغ (زائدة بموقع نموذجي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Retrocecal over the psoas muscle",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "علامة العضلة القطنية الإيجابية (ألم عند مد الفخذ) مع علامتي السدادية وروفسينغ السلبيتين توجّه لزائدة خلف الأعور مستلقية على العضلة القطنية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. علامة العضلة القطنية الإيجابية (ألم عند مد الفخذ) مع علامتي السدادية وروفسينغ السلبيتين توجّه لزائدة خلف الأعور مستلقية على العضلة القطنية. العضلة القطنية تقع خلف الصفاق قرب الزائدة الدودية عندما تكون بموقع خلف الأعور؛ لذلك مد الفخذ (الذي يمدد هذه العضلة) يهيّج الزائدة الملتهبة المستلقية عليها مباشرة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Displaced to the upper quadrant: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Retrocecal over the psoas muscle. يصبح صحيحًا في سؤال يصف A displaced upper quadrant appendix, an extraperitoneal one anterior to the cecum, a pelvic location, and a left lower quadrant location would each produce different physical exam findings (positive obturator sign for pelvic, atypical presentations for others). الخيار B، Extraperitoneal and lying anterior to the cecum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Retrocecal over the psoas muscle. يصبح صحيحًا في سؤال يصف A displaced upper quadrant appendix, an extraperitoneal one anterior to the cecum, a pelvic location, and a left lower quadrant location would each produce different physical exam findings (positive obturator sign for pelvic, atypical presentations for others). الخيار C، In the pelvis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Retrocecal over the psoas muscle. يصبح صحيحًا في سؤال يصف A displaced upper quadrant appendix, an extraperitoneal one anterior to the cecum, a pelvic location, and a left lower quadrant location would each produce different physical exam findings (positive obturator sign for pelvic, atypical presentations for others). الخيار D، In the left lower quadrant: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Retrocecal over the psoas muscle. يصبح صحيحًا في سؤال يصف A displaced upper quadrant appendix, an extraperitoneal one anterior to the cecum, a pelvic location, and a left lower quadrant location would each produce different physical exam findings (positive obturator sign for pelvic, atypical presentations for others).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Displaced to the upper quadrant",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Retrocecal over the psoas muscle.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A displaced upper quadrant appendix, an extraperitoneal one anterior to the cecum, a pelvic location, and a left lower quadrant location would…"
+        },
+        {
+          "letter": "B",
+          "text": "Extraperitoneal and lying anterior to the cecum",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Retrocecal over the psoas muscle.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A displaced upper quadrant appendix, an extraperitoneal one anterior to the cecum, a pelvic location, and a left lower quadrant location would…"
+        },
+        {
+          "letter": "C",
+          "text": "In the pelvis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Retrocecal over the psoas muscle.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A displaced upper quadrant appendix, an extraperitoneal one anterior to the cecum, a pelvic location, and a left lower quadrant location would…"
+        },
+        {
+          "letter": "D",
+          "text": "In the left lower quadrant",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Retrocecal over the psoas muscle.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A displaced upper quadrant appendix, an extraperitoneal one anterior to the cecum, a pelvic location, and a left lower quadrant location would…"
+        },
+        {
+          "letter": "E",
+          "text": "Retrocecal over the psoas muscle",
+          "verdict": "correct",
+          "reason": "علامة العضلة القطنية الإيجابية (ألم عند مد الفخذ) مع علامتي السدادية وروفسينغ السلبيتين توجّه لزائدة خلف الأعور مستلقية على العضلة القطنية."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يخلط الطالب بين علامة العضلة القطنية (موقع خلف الأعور) وعلامة السدادية (موقع حوضي)، متجاهلاً أن كل علامة ترتبط بموقع تشريحي مختلف للزائدة الملتهبة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يخلط الطالب بين علامة العضلة القطنية (موقع خلف الأعور) وعلامة السدادية (موقع حوضي)، متجاهلاً أن كل علامة ترتبط بموقع تشريحي مختلف للزائدة الملتهبة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Retrocecal over the psoas muscle",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Positive psoas sign = Retrocecal appendix (ov"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Retrocecal over the psoas muscle. علامة العضلة القطنية الإيجابية (ألم عند مد الفخذ) مع علامتي السدادية وروفسينغ السلبيتين توجّه لزائدة خلف الأعور مستلقية على العضلة القطنية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. علامة العضلة القطنية الإيجابية (ألم عند مد الفخذ) مع علامتي السدادية وروفسينغ السلبيتين توجّه لزائدة خلف الأعور مستلقية على العضلة القطنية. وتذكّر القاعدة: \"Positive psoas sign = Retrocecal appendix (over psoas muscle)\". والإجابة الصحيحة هي E."
+    }
+  ]
+}

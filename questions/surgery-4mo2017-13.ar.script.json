@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2017-13-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 13 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Pathology thought to have no malignant potential",
+  "question_ar": "أي من الأمراض التالية يُعتقد أنه ليس لها أي إمكانية للتحول إلى أمراضخبيثة؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 13,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Ulcerative colitis"
+    },
+    {
+      "letter": "B",
+      "text": "Villous adenoma"
+    },
+    {
+      "letter": "C",
+      "text": "FAP"
+    },
+    {
+      "letter": "D",
+      "text": "Hyperplastic polyps"
+    },
+    {
+      "letter": "E",
+      "text": "Crohn disease"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Hyperplastic polyps",
+  "purpose_ar": "يريد التأكيد أن البوليبات مفرطة التنسج تُعد حميدة تمامًا بلا احتمال خباثة حقيقي (بخلاف الغدية).",
+  "trap_ar": "الطالب قد يظن أي بوليب قولوني يحمل خطرًا خبيثًا محتملاً بالتساوي، متناسيًا أن مفرطة التنسج تحديدًا تُعد آمنة تمامًا من هذه الناحية.",
+  "summary_ar": "البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Pathology thought to have no malignant potential",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي من الأمراض التالية يُعتقد أنه ليس لها أي إمكانية للتحول إلى أمراضخبيثة؟ أمامك هذه الخيارات: Ulcerative colitis، أو Villous adenoma، أو FAP، أو Hyperplastic polyps، أو Crohn disease. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن البوليبات مفرطة التنسج تُعد حميدة تمامًا بلا احتمال خباثة حقيقي (بخلاف الغدية).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن البوليبات مفرطة التنسج تُعد حميدة تمامًا بلا احتمال خباثة حقيقي (بخلاف الغدية)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Hyperplastic polyps",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي. حرف H المزدوج يذكرك أن هذا النوع آمن تمامًا من الخباثة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps. يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are generally considered to have no significant malignant potential. الخيار B، Villous adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps. يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are generally considered to have no significant malignant potential. الخيار C، FAP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps. يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are generally considered to have no significant malignant potential. الخيار E، Crohn disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps. يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are generally considered to have no significant malignant potential.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Ulcerative colitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are…"
+        },
+        {
+          "letter": "B",
+          "text": "Villous adenoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are…"
+        },
+        {
+          "letter": "C",
+          "text": "FAP",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are…"
+        },
+        {
+          "letter": "D",
+          "text": "Hyperplastic polyps",
+          "verdict": "correct",
+          "reason": "البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي."
+        },
+        {
+          "letter": "E",
+          "text": "Crohn disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي بوليب قولوني يحمل خطرًا خبيثًا محتملاً بالتساوي، متناسيًا أن مفرطة التنسج تحديدًا تُعد آمنة تمامًا من هذه الناحية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي بوليب قولوني يحمل خطرًا خبيثًا محتملاً بالتساوي، متناسيًا أن مفرطة التنسج تحديدًا تُعد آمنة تمامًا من هذه الناحية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Hyperplastic polyps",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Hyperplastic polyps: Harmless, no malignant po"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Hyperplastic polyps. البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي. وتذكّر القاعدة: Hyperplastic polyps: Harmless, no malignant potential. والإجابة الصحيحة هي D."
+    }
+  ]
+}

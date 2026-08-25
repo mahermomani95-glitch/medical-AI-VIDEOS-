@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-35-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 35 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "50yo, severe epigastric pain 5hr, WBC finding (implied atypical pancreatitis lab)",
+  "question_ar": "حضر رجل يبلغ من العمر 50 عامًا إلى قسم الطوارئ يشكو من ألم شديد فيالمنطقة الشرسوفية استمر لمدة 5 ساعات. ينتشر الألم إلى ظهره مصحوبًابتقيؤ متكرر. مستوى الأميليز لديه 2017 وحدة/لتر. تُستخدم جميع المعاييرالتالية للتنبؤ بشدة الحالة أثناء الدخول باستثناء:؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 35,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Age over 55 years"
+    },
+    {
+      "letter": "B",
+      "text": "Blood sugar more than 200 mg/dI"
+    },
+    {
+      "letter": "C",
+      "text": "AST more than 250 u/ L"
+    },
+    {
+      "letter": "D",
+      "text": "WBC less than 5000 U/ L"
+    },
+    {
+      "letter": "E",
+      "text": "LDH more than 350 u/L"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "WBC less than 5000 U/ L",
+  "purpose_ar": "يريد التأكيد أن تعداد كريات بيضاء أقل من 5000 موجودة غير نمطية بحالة تلتهابية حادة متوقع ارتفاع الكريات بها.",
+  "trap_ar": "الطالب قد يظن ارتفاع الكريات البيضاء هو المتوقع دومًا بأي التهاب حاد، متناسيًا أن هذا السؤال يبرز استثناءً رقميًا غير متوقع تحديدًا.",
+  "summary_ar": "كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "50yo, severe epigastric pain 5hr, WBC finding (implied atypi",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "WBC less than 5000 U/ L"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 50 عامًا إلى قسم الطوارئ يشكو من ألم شديد فيالمنطقة الشرسوفية استمر لمدة 5 ساعات. ينتشر الألم إلى ظهره مصحوبًابتقيؤ متكرر. مستوى الأميليز لديه 2017 وحدة/لتر. تُستخدم جميع المعاييرالتالية للتنبؤ بشدة الحالة أثناء الدخول باستثناء:؟ أمامك هذه الخيارات: Age over 55 years، أو Blood sugar more than 200 mg/dI، أو AST more than 250 u/ L، أو WBC less than 5000 U/ L، أو LDH more than 350 u/L. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن تعداد كريات بيضاء أقل من 5000 موجودة غير نمطية بحالة تلتهابية حادة متوقع ارتفاع الكريات بها.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن تعداد كريات بيضاء أقل من 5000 موجودة غير نمطية بحالة تلتهابية حادة متوقع ارتفاع الكريات بها."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "WBC less than 5000 U/ L",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "WBC less than 5000 U/ L"
+      },
+      "card_text": "كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية. حرف W يذكرك بهذا الرقم غير النمطي المميز لهذه الحالة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Age over 55 years: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا leukopenia) as a poor prognostic sign. يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER 5000 — the actual Ranson criterion is WBC OVER 16,000 (leukocytosis. الخيار B، Blood sugar more than 200 mg/dI: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا leukopenia) as a poor prognostic sign. يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER 5000 — the actual Ranson criterion is WBC OVER 16,000 (leukocytosis. الخيار C، AST more than 250 u/ L: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا leukopenia) as a poor prognostic sign. يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER 5000 — the actual Ranson criterion is WBC OVER 16,000 (leukocytosis. الخيار E، LDH more than 350 u/L: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا leukopenia) as a poor prognostic sign. يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER 5000 — the actual Ranson criterion is WBC OVER 16,000 (leukocytosis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Age over 55 years",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا leukopenia) as a poor prognostic sign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER…"
+        },
+        {
+          "letter": "B",
+          "text": "Blood sugar more than 200 mg/dI",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا leukopenia) as a poor prognostic sign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER…"
+        },
+        {
+          "letter": "C",
+          "text": "AST more than 250 u/ L",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا leukopenia) as a poor prognostic sign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER…"
+        },
+        {
+          "letter": "D",
+          "text": "WBC less than 5000 U/ L",
+          "verdict": "correct",
+          "reason": "كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية."
+        },
+        {
+          "letter": "E",
+          "text": "LDH more than 350 u/L",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا leukopenia) as a poor prognostic sign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن ارتفاع الكريات البيضاء هو المتوقع دومًا بأي التهاب حاد، متناسيًا أن هذا السؤال يبرز استثناءً رقميًا غير متوقع تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن ارتفاع الكريات البيضاء هو المتوقع دومًا بأي التهاب حاد، متناسيًا أن هذا السؤال يبرز استثناءً رقميًا غير متوقع تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. WBC less than 5000 U/ L",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "WBC less than 5000 U/ L"
+      },
+      "pills": [
+        "Atypical finding: WBC below Five thousand"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: WBC less than 5000 U/ L. كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية. وتذكّر القاعدة: Atypical finding: WBC below Five thousand. والإجابة الصحيحة هي D."
+    }
+  ]
+}

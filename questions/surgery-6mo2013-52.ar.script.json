@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-52-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 52 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common cause, acute pancreatitis in children",
+  "question_ar": "السبب الأكثر شيوعا لالتهاب البنكرياس الحاد عند الأطفال هو؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 52,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Alcohol"
+    },
+    {
+      "letter": "B",
+      "text": "Congenital"
+    },
+    {
+      "letter": "C",
+      "text": "Drugs"
+    },
+    {
+      "letter": "D",
+      "text": "Blunt trauma"
+    },
+    {
+      "letter": "E",
+      "text": "Gallbladder stone"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Blunt trauma",
+  "purpose_ar": "يريد التأكيد أن الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس الحاد عند الأطفال (بخلاف البالغين).",
+  "trap_ar": "الطالب قد يختار حصى المرارة أو الكحول (أسباب أشيع بالبالغين)، متناسيًا أن الرض هو السبب المهيمن عند الأطفال تحديدًا.",
+  "summary_ar": "الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس عند الأطفال.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common cause, acute pancreatitis in children",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Blunt trauma"
+      },
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لالتهاب البنكرياس الحاد عند الأطفال هو؟ أمامك هذه الخيارات: Alcohol، أو Congenital، أو Drugs، أو Blunt trauma، أو Gallbladder stone. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس الحاد عند الأطفال (بخلاف البالغين).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس الحاد عند الأطفال (بخلاف البالغين)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Blunt trauma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Blunt trauma"
+      },
+      "card_text": "الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس عند الأطفال.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس عند الأطفال. حرف B المزدوج يربط الرض بموقعه كالسبب الأشيع بالأطفال."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Alcohol: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا children. يصبح صحيحًا في سؤال يصف Alcohol and gallstones are the leading causes in adults. الخيار B، Congenital: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blunt trauma. يصبح صحيحًا في سؤال يصف congenital anomalies and drugs are less common causes overall — blunt abdominal trauma is the most common cause of acute pancreatitis specifically in children. الخيار C، Drugs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blunt trauma. يصبح صحيحًا في سؤال يصف congenital anomalies and drugs are less common causes overall — blunt abdominal trauma is the most common cause of acute pancreatitis specifically in children. الخيار E، Gallbladder stone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا children. يصبح صحيحًا في سؤال يصف Alcohol and gallstones are the leading causes in adults.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Alcohol",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا children.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol and gallstones are the leading causes in adults."
+        },
+        {
+          "letter": "B",
+          "text": "Congenital",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blunt trauma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف congenital anomalies and drugs are less common causes overall — blunt abdominal trauma is the most common cause of acute pancreatitis…"
+        },
+        {
+          "letter": "C",
+          "text": "Drugs",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blunt trauma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف congenital anomalies and drugs are less common causes overall — blunt abdominal trauma is the most common cause of acute pancreatitis…"
+        },
+        {
+          "letter": "D",
+          "text": "Blunt trauma",
+          "verdict": "correct",
+          "reason": "الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس عند الأطفال."
+        },
+        {
+          "letter": "E",
+          "text": "Gallbladder stone",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا children.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol and gallstones are the leading causes in adults."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار حصى المرارة أو الكحول (أسباب أشيع بالبالغين)، متناسيًا أن الرض هو السبب المهيمن عند الأطفال تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار حصى المرارة أو الكحول (أسباب أشيع بالبالغين)، متناسيًا أن الرض هو السبب المهيمن عند الأطفال تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Blunt trauma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Blunt trauma"
+      },
+      "pills": [
+        "Pediatric pancreatitis: mostly Blunt trauma"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Blunt trauma. الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس عند الأطفال."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الرض البطني الكليل هو السبب الأشيع لالتهاب البنكرياس عند الأطفال. وتذكّر القاعدة: Pediatric pancreatitis: mostly Blunt trauma. والإجابة الصحيحة هي D."
+    }
+  ]
+}

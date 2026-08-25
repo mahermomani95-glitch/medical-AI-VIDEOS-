@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-03-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 3 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Hernia that may close spontaneously in children",
+  "question_ar": "أي من الفتوق التالية قد تغلق تلقائيًا عند الأطفال؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 3,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Inguinal hernia"
+    },
+    {
+      "letter": "B",
+      "text": "Umbilical hernia"
+    },
+    {
+      "letter": "C",
+      "text": "Incisional hernia"
+    },
+    {
+      "letter": "D",
+      "text": "Bochdalek hernia"
+    },
+    {
+      "letter": "E",
+      "text": "Paraumbilical hernia"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Umbilical hernia",
+  "purpose_ar": "يريد التأكيد أن الفتق السري عند الأطفال قد ينغلق تلقائيًا مع نمو جدار البطن، بخلاف الفتق الإربي.",
+  "trap_ar": "الطالب قد يختار الفتق الإربي، متناسيًا أنه لا ينغلق تلقائيًا أبدًا ويحتاج إصلاحًا جراحيًا دومًا خلافًا للسري.",
+  "summary_ar": "الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Hernia that may close spontaneously in children",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Umbilical hernia"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي من الفتوق التالية قد تغلق تلقائيًا عند الأطفال؟ أمامك هذه الخيارات: Inguinal hernia، أو Umbilical hernia، أو Incisional hernia، أو Bochdalek hernia، أو Paraumbilical hernia. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الفتق السري عند الأطفال قد ينغلق تلقائيًا مع نمو جدار البطن، بخلاف الفتق الإربي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الفتق السري عند الأطفال قد ينغلق تلقائيًا مع نمو جدار البطن، بخلاف الفتق الإربي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Umbilical hernia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Umbilical hernia"
+      },
+      "card_text": "الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل. حرف U المزدوج يذكرك بإمكانية الانغلاق التلقائي لهذا الفتق."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia. يصبح صحيحًا في سؤال يصف Inguinal hernia rarely closes spontaneously and usually needs repair. الخيار C، Incisional hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia. يصبح صحيحًا في سؤال يصف incisional hernia and paraumbilical hernia don't close on their own. الخيار D، Bochdalek hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia. يصبح صحيحًا في سؤال يصف Bochdalek hernia is a congenital diaphragmatic hernia requiring surgical repair — umbilical hernia is the one that commonly closes spontaneously in children by age 2-5. الخيار E، Paraumbilical hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia. يصبح صحيحًا في سؤال يصف incisional hernia and paraumbilical hernia don't close on their own.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Inguinal hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Inguinal hernia rarely closes spontaneously and usually needs repair."
+        },
+        {
+          "letter": "B",
+          "text": "Umbilical hernia",
+          "verdict": "correct",
+          "reason": "الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل."
+        },
+        {
+          "letter": "C",
+          "text": "Incisional hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف incisional hernia and paraumbilical hernia don't close on their own."
+        },
+        {
+          "letter": "D",
+          "text": "Bochdalek hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bochdalek hernia is a congenital diaphragmatic hernia requiring surgical repair — umbilical hernia is the one that commonly closes spontaneously…"
+        },
+        {
+          "letter": "E",
+          "text": "Paraumbilical hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف incisional hernia and paraumbilical hernia don't close on their own."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الفتق الإربي، متناسيًا أنه لا ينغلق تلقائيًا أبدًا ويحتاج إصلاحًا جراحيًا دومًا خلافًا للسري.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الفتق الإربي، متناسيًا أنه لا ينغلق تلقائيًا أبدًا ويحتاج إصلاحًا جراحيًا دومًا خلافًا للسري."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Umbilical hernia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Umbilical hernia"
+      },
+      "pills": [
+        "Umbilical hernia: Usually closes on its own"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Umbilical hernia. الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل. وتذكّر القاعدة: Umbilical hernia: Usually closes on its own. والإجابة الصحيحة هي B."
+    }
+  ]
+}

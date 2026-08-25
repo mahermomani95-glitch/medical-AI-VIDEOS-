@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2014-24-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 24 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Extra adrenal pheochromocytomas predominantly secrete",
+  "question_ar": "تفرز أورام القواتم الكظرية الإضافية بشكل رئيسي؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 24,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Epinephrine"
+    },
+    {
+      "letter": "B",
+      "text": "Norepinephrine"
+    },
+    {
+      "letter": "C",
+      "text": "Dopamine"
+    },
+    {
+      "letter": "D",
+      "text": "Metanephrine"
+    },
+    {
+      "letter": "E",
+      "text": "Vanillymandelic acid"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Norepinephrine",
+  "purpose_ar": "يريد التأكيد أن أورام القواتم خارج الكظرية تفرز نورإبينفرين بشكل مهيمن (بخلاف الكظرية التي تفرز إبينفرين أكثر).",
+  "trap_ar": "الطالب قد يختار الإبينفرين، متناسيًا أن الأورام خارج الكظرية تفتقر لإنزيم تحويل النورإبينفرين لإبينفرين الموجود بالكظر فقط.",
+  "summary_ar": "أورام القواتم خارج الكظرية تفرز نورإبينفرين مهيمن بخلاف الكظرية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Extra adrenal pheochromocytomas predominantly secrete",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. تفرز أورام القواتم الكظرية الإضافية بشكل رئيسي؟ أمامك هذه الخيارات: Epinephrine، أو Norepinephrine، أو Dopamine، أو Metanephrine، أو Vanillymandelic acid. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن أورام القواتم خارج الكظرية تفرز نورإبينفرين بشكل مهيمن (بخلاف الكظرية التي تفرز إبينفرين أكثر).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن أورام القواتم خارج الكظرية تفرز نورإبينفرين بشكل مهيمن (بخلاف الكظرية التي تفرز إبينفرين أكثر)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Norepinephrine",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "أورام القواتم خارج الكظرية تفرز نورإبينفرين مهيمن بخلاف الكظرية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. أورام القواتم خارج الكظرية تفرز نورإبينفرين مهيمن بخلاف الكظرية. حرف N المزدوج يربط هذا الموقع بإفرازه الهرموني المميز."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Epinephrine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Norepinephrine. يصبح صحيحًا في سؤال يصف Epinephrine is predominantly secreted by the adrenal medulla itself (which has the enzyme to convert norepinephrine to epinephrine). الخيار C، Dopamine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the main secreted product. يصبح صحيحًا في سؤال يصف dopamine is a precursor. الخيار D، Metanephrine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary hormone — extra-adrenal pheochromocytomas (paragangliomas) predominantly secrete norepinephrine since they lack the enzyme needed to convert it further. يصبح صحيحًا في سؤال يصف metanephrine and VMA are metabolites. الخيار E، Vanillymandelic acid: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary hormone — extra-adrenal pheochromocytomas (paragangliomas) predominantly secrete norepinephrine since they lack the enzyme needed to convert it further. يصبح صحيحًا في سؤال يصف metanephrine and VMA are metabolites.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Epinephrine",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Norepinephrine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Epinephrine is predominantly secreted by the adrenal medulla itself (which has the enzyme to convert norepinephrine to epinephrine)."
+        },
+        {
+          "letter": "B",
+          "text": "Norepinephrine",
+          "verdict": "correct",
+          "reason": "أورام القواتم خارج الكظرية تفرز نورإبينفرين مهيمن بخلاف الكظرية."
+        },
+        {
+          "letter": "C",
+          "text": "Dopamine",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the main secreted product.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف dopamine is a precursor."
+        },
+        {
+          "letter": "D",
+          "text": "Metanephrine",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary hormone — extra-adrenal pheochromocytomas (paragangliomas) predominantly secrete norepinephrine since they lack…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف metanephrine and VMA are metabolites."
+        },
+        {
+          "letter": "E",
+          "text": "Vanillymandelic acid",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary hormone — extra-adrenal pheochromocytomas (paragangliomas) predominantly secrete norepinephrine since they lack…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف metanephrine and VMA are metabolites."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الإبينفرين، متناسيًا أن الأورام خارج الكظرية تفتقر لإنزيم تحويل النورإبينفرين لإبينفرين الموجود بالكظر فقط.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الإبينفرين، متناسيًا أن الأورام خارج الكظرية تفتقر لإنزيم تحويل النورإبينفرين لإبينفرين الموجود بالكظر فقط."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Norepinephrine",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Extra-adrenal pheo: secretes Norepinephrine ma"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Norepinephrine. أورام القواتم خارج الكظرية تفرز نورإبينفرين مهيمن بخلاف الكظرية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. أورام القواتم خارج الكظرية تفرز نورإبينفرين مهيمن بخلاف الكظرية. وتذكّر القاعدة: Extra-adrenal pheo: secretes Norepinephrine mainly. والإجابة الصحيحة هي B."
+    }
+  ]
+}

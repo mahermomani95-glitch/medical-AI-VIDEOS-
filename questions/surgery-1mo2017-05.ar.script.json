@@ -1,0 +1,149 @@
+{
+  "id": "surgery-1mo2017-05-ar",
+  "source": "Surgery Board Question Bank -- 1st Month 2017 Course, Question 5 of 46",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Thyroid cancer spread by lymph, EXCEPT",
+  "question_ar": "جميع سرطانات الغدة الدرقية التالية تنتشر عن طريق الليمف باستثناء؟",
+  "course_label": "Course: Surgery — 1st Month 2017 Course",
+  "question_number": 5,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Follicular thyroid cancer"
+    },
+    {
+      "letter": "B",
+      "text": "Papillary thyroid cancer"
+    },
+    {
+      "letter": "C",
+      "text": "Anaplastic thyroid cancer"
+    },
+    {
+      "letter": "D",
+      "text": "Medullary Thyroid Cancer"
+    },
+    {
+      "letter": "E",
+      "text": "Hürthle cell cancer"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Follicular thyroid cancer",
+  "purpose_ar": "يريد التأكيد أن السرطانة الجريبية تنتشر دمويًا لا لمفاويًا (بخلاف الحليمية)، فتُستبعد من قائمة الانتشار اللمفاوي.",
+  "trap_ar": "الطالب قد يظن كل سرطانات الدرقية تنتشر لمفاويًا بالتساوي، متناسيًا أن الجريبية تحديدًا تفضل الانتشار الدموي لا اللمفاوي.",
+  "summary_ar": "السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Thyroid cancer spread by lymph, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Follicular thyroid cancer"
+      },
+      "narration": "لنبدأ بهذا السؤال. جميع سرطانات الغدة الدرقية التالية تنتشر عن طريق الليمف باستثناء؟ أمامك هذه الخيارات: Follicular thyroid cancer، أو Papillary thyroid cancer، أو Anaplastic thyroid cancer، أو Medullary Thyroid Cancer، أو Hürthle cell cancer. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن السرطانة الجريبية تنتشر دمويًا لا لمفاويًا (بخلاف الحليمية)، فتُستبعد من قائمة الانتشار اللمفاوي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن السرطانة الجريبية تنتشر دمويًا لا لمفاويًا (بخلاف الحليمية)، فتُستبعد من قائمة الانتشار اللمفاوي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Follicular thyroid cancer",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Follicular thyroid cancer"
+      },
+      "card_text": "السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية. حرف F المزدوج يذكرك أن هذا النوع ينتشر دمويًا لا لمفاويًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Papillary thyroid cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer. يصبح صحيحًا في سؤال يصف Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or hematogenously. الخيار C، Anaplastic thyroid cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer. يصبح صحيحًا في سؤال يصف Papillary thyroid cancer → classically spreads via lymphatics instead. الخيار D، Medullary Thyroid Cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer. يصبح صحيحًا في سؤال يصف Papillary thyroid cancer → classically spreads via lymphatics instead. الخيار E، Hürthle cell cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer. يصبح صحيحًا في سؤال يصف Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or hematogenously.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Follicular thyroid cancer",
+          "verdict": "correct",
+          "reason": "السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية."
+        },
+        {
+          "letter": "B",
+          "text": "Papillary thyroid cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or hematogenously."
+        },
+        {
+          "letter": "C",
+          "text": "Anaplastic thyroid cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary thyroid cancer → classically spreads via lymphatics instead."
+        },
+        {
+          "letter": "D",
+          "text": "Medullary Thyroid Cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary thyroid cancer → classically spreads via lymphatics instead."
+        },
+        {
+          "letter": "E",
+          "text": "Hürthle cell cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Follicular thyroid cancer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or hematogenously."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن كل سرطانات الدرقية تنتشر لمفاويًا بالتساوي، متناسيًا أن الجريبية تحديدًا تفضل الانتشار الدموي لا اللمفاوي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن كل سرطانات الدرقية تنتشر لمفاويًا بالتساوي، متناسيًا أن الجريبية تحديدًا تفضل الانتشار الدموي لا اللمفاوي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Follicular thyroid cancer",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Follicular thyroid cancer"
+      },
+      "pills": [
+        "Follicular cancer: spreads via Flow of blood, "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Follicular thyroid cancer. السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية. وتذكّر القاعدة: Follicular cancer: spreads via Flow of blood, not lymph. والإجابة الصحيحة هي A."
+    }
+  ]
+}

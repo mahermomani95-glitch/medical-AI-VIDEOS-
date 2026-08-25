@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2014-06-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 6 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Initial treatment, acute GI bleeding",
+  "question_ar": "يتضمن العلاج الأولي للنزيف الحاد في الجهاز الهضمي ما يلي:؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "H2- receptor antagonist"
+    },
+    {
+      "letter": "B",
+      "text": "Angiography"
+    },
+    {
+      "letter": "C",
+      "text": "Sucralfate"
+    },
+    {
+      "letter": "D",
+      "text": "Gastrointestinal endoscopy"
+    },
+    {
+      "letter": "E",
+      "text": "Aggressive volume resuscitation"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Aggressive volume resuscitation",
+  "purpose_ar": "يريد التأكيد أن الإنعاش الحجمي المكثف هو الخطوة العلاجية الأولى لأي نزف هضمي حاد.",
+  "trap_ar": "الطالب قد يختار التنظير العاجل كخطوة أولى، متناسيًا أن تثبيت الدوران بالسوائل يسبق أي إجراء تشخيصي أو علاجي آخر.",
+  "summary_ar": "الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Initial treatment, acute GI bleeding",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. يتضمن العلاج الأولي للنزيف الحاد في الجهاز الهضمي ما يلي:؟ أمامك هذه الخيارات: H2- receptor antagonist، أو Angiography، أو Sucralfate، أو Gastrointestinal endoscopy، أو Aggressive volume resuscitation. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الإنعاش الحجمي المكثف هو الخطوة العلاجية الأولى لأي نزف هضمي حاد.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الإنعاش الحجمي المكثف هو الخطوة العلاجية الأولى لأي نزف هضمي حاد."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Aggressive volume resuscitation",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد. حرف R المزدوج يذكرك بأولوية الإنعاش الحجمي قبل كل شيء."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، H2- receptor antagonist: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation. يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized. الخيار B، Angiography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation. يصبح صحيحًا في سؤال يصف angiography is for localization/embolization in select cases — but aggressive volume resuscitation is always the essential first step in any acute significant GI bleed. الخيار C، Sucralfate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation. يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized. الخيار D، Gastrointestinal endoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation. يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "H2- receptor antagonist",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized."
+        },
+        {
+          "letter": "B",
+          "text": "Angiography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف angiography is for localization/embolization in select cases — but aggressive volume resuscitation is always the essential first step in any…"
+        },
+        {
+          "letter": "C",
+          "text": "Sucralfate",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized."
+        },
+        {
+          "letter": "D",
+          "text": "Gastrointestinal endoscopy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized."
+        },
+        {
+          "letter": "E",
+          "text": "Aggressive volume resuscitation",
+          "verdict": "correct",
+          "reason": "الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار التنظير العاجل كخطوة أولى، متناسيًا أن تثبيت الدوران بالسوائل يسبق أي إجراء تشخيصي أو علاجي آخر.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار التنظير العاجل كخطوة أولى، متناسيًا أن تثبيت الدوران بالسوائل يسبق أي إجراء تشخيصي أو علاجي آخر."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Aggressive volume resuscitation",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Acute GI bleeding: Resuscitate first"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Aggressive volume resuscitation. الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد. وتذكّر القاعدة: Acute GI bleeding: Resuscitate first. والإجابة الصحيحة هي E."
+    }
+  ]
+}

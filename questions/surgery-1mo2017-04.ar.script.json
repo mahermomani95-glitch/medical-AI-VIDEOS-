@@ -1,0 +1,149 @@
+{
+  "id": "surgery-1mo2017-04-ar",
+  "source": "Surgery Board Question Bank -- 1st Month 2017 Course, Question 4 of 46",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common benign tumor, small bowel",
+  "question_ar": "الورم الحميد الأكثر شيوعا في الأمعاء الدقيقة هو؟",
+  "course_label": "Course: Surgery — 1st Month 2017 Course",
+  "question_number": 4,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Leiomyosarcoma"
+    },
+    {
+      "letter": "B",
+      "text": "Adenomas"
+    },
+    {
+      "letter": "C",
+      "text": "Leiomyoma"
+    },
+    {
+      "letter": "D",
+      "text": "Lipoma"
+    },
+    {
+      "letter": "E",
+      "text": "Hemangioma"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Leiomyoma",
+  "purpose_ar": "يريد التأكيد أن الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة.",
+  "trap_ar": "الطالب قد يختار الورم الغدي، متناسيًا أن الورم العضلي الأملس يتصدر إحصائيًا كل الأورام الحميدة بهذا الموقع.",
+  "summary_ar": "الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common benign tumor, small bowel",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Leiomyoma"
+      },
+      "narration": "لنبدأ بهذا السؤال. الورم الحميد الأكثر شيوعا في الأمعاء الدقيقة هو؟ أمامك هذه الخيارات: Leiomyosarcoma، أو Adenomas، أو Leiomyoma، أو Lipoma، أو Hemangioma. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Leiomyoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Leiomyoma"
+      },
+      "card_text": "الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة. حرف L المزدوج يربط هذا الورم بموقعه كالأشيع حميدًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Leiomyosarcoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا benign. يصبح صحيحًا في سؤال يصف Leiomyosarcoma is malignant. الخيار B، Adenomas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Leiomyoma. يصبح صحيحًا في سؤال يصف adenomas and hemangiomas are less common — leiomyoma remains the most common benign small bowel tumor overall. الخيار D، Lipoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Leiomyoma. يصبح صحيحًا في سؤال يستهدف Lipoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Hemangioma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Leiomyoma. يصبح صحيحًا في سؤال يصف adenomas and hemangiomas are less common — leiomyoma remains the most common benign small bowel tumor overall.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Leiomyosarcoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا benign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Leiomyosarcoma is malignant."
+        },
+        {
+          "letter": "B",
+          "text": "Adenomas",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Leiomyoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف adenomas and hemangiomas are less common — leiomyoma remains the most common benign small bowel tumor overall."
+        },
+        {
+          "letter": "C",
+          "text": "Leiomyoma",
+          "verdict": "correct",
+          "reason": "الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة."
+        },
+        {
+          "letter": "D",
+          "text": "Lipoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Leiomyoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Lipoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "E",
+          "text": "Hemangioma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Leiomyoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف adenomas and hemangiomas are less common — leiomyoma remains the most common benign small bowel tumor overall."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الورم الغدي، متناسيًا أن الورم العضلي الأملس يتصدر إحصائيًا كل الأورام الحميدة بهذا الموقع.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الورم الغدي، متناسيًا أن الورم العضلي الأملس يتصدر إحصائيًا كل الأورام الحميدة بهذا الموقع."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Leiomyoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Leiomyoma"
+      },
+      "pills": [
+        "Small bowel benign tumor: mostly Leiomyoma"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Leiomyoma. الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الورم العضلي الأملس هو الأشيع بين الأورام الحميدة بالأمعاء الدقيقة. وتذكّر القاعدة: Small bowel benign tumor: mostly Leiomyoma. والإجابة الصحيحة هي C."
+    }
+  ]
+}

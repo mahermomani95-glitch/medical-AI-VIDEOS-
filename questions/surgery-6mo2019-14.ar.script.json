@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2019-14-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 14 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "70-year-old + HTN/DM/CKD + massive bright red rectal bleed",
+  "question_ar": "مريض يبلغ من العمر 70 عامًا، معروف بإصابته بارتفاع ضغط الدم وداءالسكري ومرض الكلى المزمن، حضر إلى قسم الطوارئ مصابًا باحمرار شديدفي المستقيم. التشخيص الأكثر احتمالًا هو:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 14,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Ascending colon Talaengectasia"
+    },
+    {
+      "letter": "B",
+      "text": "Sigmoid Volvolus"
+    },
+    {
+      "letter": "C",
+      "text": "Sigmoid Diverticulosis"
+    },
+    {
+      "letter": "D",
+      "text": "Internal Hemorroids"
+    },
+    {
+      "letter": "E",
+      "text": "Puptic Ulcer Disease"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Sigmoid Diverticulosis",
+  "purpose_ar": "حفظ أن رتوج القولون هي السبب الأشيع للنزيف الهضمي السفلي الغزير المفاجئ وغير المؤلم عند المسنّين، رغم أن الأوعية غير الطبيعية بالقولون الأيمن أيضًا سبب معروف.",
+  "trap_ar": "قد يختار الطالب البواسير الداخلية (D) لأنها السبب الأشيع للنزيف المستقيمي عمومًا، متجاهلاً أن النزيف \"الغزير جدًا\" عند مسنّ يوجّه أكثر نحو الرتوج القولونية وليس البواسير التي تسبب عادة نزيفًا أخف.",
+  "summary_ar": "عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "70-year-old + HTN/DM/CKD + massive bright red rectal bleed",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid Diverticulosis"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 70 عامًا، معروف بإصابته بارتفاع ضغط الدم وداءالسكري ومرض الكلى المزمن، حضر إلى قسم الطوارئ مصابًا باحمرار شديدفي المستقيم. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Ascending colon Talaengectasia، أو Sigmoid Volvolus، أو Sigmoid Diverticulosis، أو Internal Hemorroids، أو Puptic Ulcer Disease. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ أن رتوج القولون هي السبب الأشيع للنزيف الهضمي السفلي الغزير المفاجئ وغير المؤلم عند المسنّين، رغم أن الأوعية غير الطبيعية بالقولون الأيمن أيضًا سبب معروف.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ أن رتوج القولون هي السبب الأشيع للنزيف الهضمي السفلي الغزير المفاجئ وغير المؤلم عند المسنّين، رغم أن الأوعية غير الطبيعية بالقولون الأيمن أيضًا سبب معروف."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Sigmoid Diverticulosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid Diverticulosis"
+      },
+      "card_text": "عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم. رتوج القولون (خصوصًا الأيسر/السيني) هي السبب الأشيع للنزيف الهضمي السفلي الغزير المفاجئ غير المؤلم عند كبار السن."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ascending colon Talaengectasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis. يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid diverticulosis remains the classic cause of massive, sudden, painless lower GI bleeding in the elderly described here. الخيار B، Sigmoid Volvolus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis. يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid diverticulosis remains the classic cause of massive, sudden, painless lower GI bleeding in the elderly described here. الخيار D، Internal Hemorroids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis. يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid diverticulosis remains the classic cause of massive, sudden, painless lower GI bleeding in the elderly described here. الخيار E، Puptic Ulcer Disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis. يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid diverticulosis remains the classic cause of massive, sudden, painless lower GI bleeding in the elderly described here.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Ascending colon Talaengectasia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid…"
+        },
+        {
+          "letter": "B",
+          "text": "Sigmoid Volvolus",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid…"
+        },
+        {
+          "letter": "C",
+          "text": "Sigmoid Diverticulosis",
+          "verdict": "correct",
+          "reason": "عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم."
+        },
+        {
+          "letter": "D",
+          "text": "Internal Hemorroids",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid…"
+        },
+        {
+          "letter": "E",
+          "text": "Puptic Ulcer Disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب البواسير الداخلية (D) لأنها السبب الأشيع للنزيف المستقيمي عمومًا، متجاهلاً أن النزيف \"الغزير جدًا\" عند مسنّ يوجّه أكثر نحو الرتوج القولونية وليس البواسير التي تسبب عادة نزيفًا أخف.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب البواسير الداخلية (D) لأنها السبب الأشيع للنزيف المستقيمي عمومًا، متجاهلاً أن النزيف \"الغزير جدًا\" عند مسنّ يوجّه أكثر نحو الرتوج القولونية وليس البواسير التي تسبب عادة نزيفًا أخف."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Sigmoid Diverticulosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Sigmoid Diverticulosis"
+      },
+      "pills": [
+        "\"Elderly + massive painless LGIB = Diverticulo"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Sigmoid Diverticulosis. عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم. وتذكّر القاعدة: \"Elderly + massive painless LGIB = Diverticulosis\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

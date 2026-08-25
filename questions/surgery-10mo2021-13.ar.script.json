@@ -1,0 +1,143 @@
+{
+  "id": "surgery-10mo2021-13-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2021 Course, Question 13 of 21",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "GCS — eyes to pain + localizes pain + inappropriate words",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 10th Month 2021 Course",
+  "question_number": 13,
+  "options": [
+    {
+      "letter": "A",
+      "text": "8"
+    },
+    {
+      "letter": "B",
+      "text": "9"
+    },
+    {
+      "letter": "C",
+      "text": "10"
+    },
+    {
+      "letter": "D",
+      "text": "11"
+    },
+    {
+      "letter": "E",
+      "text": "12"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "10",
+  "purpose_ar": "التدرب على حساب GCS بدقة من وصف سريري مباشر.",
+  "trap_ar": "قد يخلط الطالب بين توطين الألم (5) والانسحاب من الألم (4).",
+  "summary_ar": "فتح العين للألم (2) + توطين الألم (5) + كلمات غير ملائمة (3) = مجموع GCS يساوي 10.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "GCS — eyes to pain + localizes pain + inappropriate words",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 8، أو 9، أو 10، أو 11، أو 12. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التدرب على حساب GCS بدقة من وصف سريري مباشر.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التدرب على حساب GCS بدقة من وصف سريري مباشر."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "10",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "فتح العين للألم (2) + توطين الألم (5) + كلمات غير ملائمة (3) = مجموع GCS يساوي 10.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فتح العين للألم (2) + توطين الألم (5) + كلمات غير ملائمة (3) = مجموع GCS يساوي 10. فتح العين للألم يمنح 2، توطين الألم يمنح 5، الكلمات غير الملائمة تمنح 3 — المجموع 10."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 8: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10. يصبح صحيحًا في سؤال يصف GCS totals of 8, 9, 11, and 12 don't match the correct calculation summing to 10 (2+5+3). الخيار B، 9: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10. يصبح صحيحًا في سؤال يصف GCS totals of 8, 9, 11, and 12 don't match the correct calculation summing to 10 (2+5+3). الخيار D، 11: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10. يصبح صحيحًا في سؤال يصف GCS totals of 8, 9, 11, and 12 don't match the correct calculation summing to 10 (2+5+3). الخيار E، 12: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10. يصبح صحيحًا في سؤال يصف GCS totals of 8, 9, 11, and 12 don't match the correct calculation summing to 10 (2+5+3).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "8",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 8, 9, 11, and 12 don't match the correct calculation summing to 10 (2+5+3)."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 8, 9, 11, and 12 don't match the correct calculation summing to 10 (2+5+3)."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "verdict": "correct",
+          "reason": "فتح العين للألم (2) + توطين الألم (5) + كلمات غير ملائمة (3) = مجموع GCS يساوي 10."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 8, 9, 11, and 12 don't match the correct calculation summing to 10 (2+5+3)."
+        },
+        {
+          "letter": "E",
+          "text": "12",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 8, 9, 11, and 12 don't match the correct calculation summing to 10 (2+5+3)."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يخلط الطالب بين توطين الألم (5) والانسحاب من الألم (4).",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يخلط الطالب بين توطين الألم (5) والانسحاب من الألم (4)."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. 10",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"2 + 5 + 3 = 10\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: 10. فتح العين للألم (2) + توطين الألم (5) + كلمات غير ملائمة (3) = مجموع GCS يساوي 10."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فتح العين للألم (2) + توطين الألم (5) + كلمات غير ملائمة (3) = مجموع GCS يساوي 10. وتذكّر القاعدة: \"2 + 5 + 3 = 10\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

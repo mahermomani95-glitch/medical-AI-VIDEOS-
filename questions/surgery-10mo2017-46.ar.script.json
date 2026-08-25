@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2017-46-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2017 Course, Question 46 of 48",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "50yo female, groin pain after lifting heavy box, diagnosis",
+  "question_ar": "شعرت امرأة في الخمسين من عمرها بألم في فخذها بعد رفع صندوق ثقيل. نُصحت بإجراء عملية جراحية. أثناء الجراحة، وُجد كيس فتق مع مفصل صغيرمن الأمعاء بارزًا أسفل الرباط الإربي مباشرةً. شُخِّص الفتق بأنه؟",
+  "course_label": "Course: Surgery — 10th Month 2017 Course",
+  "question_number": 46,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Congenital inguinal hernia"
+    },
+    {
+      "letter": "B",
+      "text": "Direct inguinal hernia"
+    },
+    {
+      "letter": "C",
+      "text": "Femoral hernia"
+    },
+    {
+      "letter": "D",
+      "text": "Incisional hernia"
+    },
+    {
+      "letter": "E",
+      "text": "Indirect inguinal hernia"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Femoral hernia",
+  "purpose_ar": "يريد ربط ألم إربي مفاجئ عند سيدة بعد رفع وزن ثقيل بالفتق الفخذي.",
+  "trap_ar": "الطالب قد يختار الفتق الإربي، متناسيًا أن الفتق الفخذي أشيع نسبيًا بالنساء وهذا السياق (رفع ثقيل، سيدة) يوجه له تحديدًا.",
+  "summary_ar": "ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "50yo female, groin pain after lifting heavy box, diagnosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Femoral hernia"
+      },
+      "narration": "لنبدأ بهذا السؤال. شعرت امرأة في الخمسين من عمرها بألم في فخذها بعد رفع صندوق ثقيل. نُصحت بإجراء عملية جراحية. أثناء الجراحة، وُجد كيس فتق مع مفصل صغيرمن الأمعاء بارزًا أسفل الرباط الإربي مباشرةً. شُخِّص الفتق بأنه؟ أمامك هذه الخيارات: Congenital inguinal hernia، أو Direct inguinal hernia، أو Femoral hernia، أو Incisional hernia، أو Indirect inguinal hernia. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط ألم إربي مفاجئ عند سيدة بعد رفع وزن ثقيل بالفتق الفخذي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط ألم إربي مفاجئ عند سيدة بعد رفع وزن ثقيل بالفتق الفخذي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Femoral hernia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Femoral hernia"
+      },
+      "card_text": "ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا. حرف F المزدوج يذكرك بهذا التشخيص المناسب لهذا السياق."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Congenital inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف A congenital inguinal hernia would typically present earlier in life. الخيار B، Direct inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف direct and indirect inguinal hernias present above the inguinal ligament. الخيار D، Incisional hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف incisional hernia requires a prior surgical scar — sudden groin pain after heavy lifting in a woman classically points to femoral hernia. الخيار E، Indirect inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف direct and indirect inguinal hernias present above the inguinal ligament.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Congenital inguinal hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A congenital inguinal hernia would typically present earlier in life."
+        },
+        {
+          "letter": "B",
+          "text": "Direct inguinal hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف direct and indirect inguinal hernias present above the inguinal ligament."
+        },
+        {
+          "letter": "C",
+          "text": "Femoral hernia",
+          "verdict": "correct",
+          "reason": "ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا."
+        },
+        {
+          "letter": "D",
+          "text": "Incisional hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف incisional hernia requires a prior surgical scar — sudden groin pain after heavy lifting in a woman classically points to femoral hernia."
+        },
+        {
+          "letter": "E",
+          "text": "Indirect inguinal hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف direct and indirect inguinal hernias present above the inguinal ligament."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الفتق الإربي، متناسيًا أن الفتق الفخذي أشيع نسبيًا بالنساء وهذا السياق (رفع ثقيل، سيدة) يوجه له تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الفتق الإربي، متناسيًا أن الفتق الفخذي أشيع نسبيًا بالنساء وهذا السياق (رفع ثقيل، سيدة) يوجه له تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Femoral hernia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Femoral hernia"
+      },
+      "pills": [
+        "Woman, heavy lifting, groin pain: Femoral hern"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Femoral hernia. ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا. وتذكّر القاعدة: Woman, heavy lifting, groin pain: Femoral hernia. والإجابة الصحيحة هي C."
+    }
+  ]
+}

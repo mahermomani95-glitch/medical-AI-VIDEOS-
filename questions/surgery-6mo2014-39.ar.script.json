@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2014-39-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 39 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Hypovolemic shock signs, EXCEPT",
+  "question_ar": "جميع العلامات التالية لصدمة نقص حجم الدم باستثناء؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 39,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hypothermia"
+    },
+    {
+      "letter": "B",
+      "text": "Tachypnea"
+    },
+    {
+      "letter": "C",
+      "text": "Pulsus paradoxus"
+    },
+    {
+      "letter": "D",
+      "text": "Cool skin"
+    },
+    {
+      "letter": "E",
+      "text": "Hypotension"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Pulsus paradoxus",
+  "purpose_ar": "يريد استبعاد نبض متناقض (علامة اندحاس تاموري) من علامات الصدمة نقص الحجم الحقيقية.",
+  "trap_ar": "الطالب قد يظن أي علامة قلبية وعائية شديدة مرتبطة بأي صدمة، متناسيًا أن النبض المتناقض علامة نوعية تخص الاندحاس التاموري لا نقص الحجم.",
+  "summary_ar": "النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Hypovolemic shock signs, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Pulsus paradoxus"
+      },
+      "narration": "لنبدأ بهذا السؤال. جميع العلامات التالية لصدمة نقص حجم الدم باستثناء؟ أمامك هذه الخيارات: Hypothermia، أو Tachypnea، أو Pulsus paradoxus، أو Cool skin، أو Hypotension. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد استبعاد نبض متناقض (علامة اندحاس تاموري) من علامات الصدمة نقص الحجم الحقيقية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد استبعاد نبض متناقض (علامة اندحاس تاموري) من علامات الصدمة نقص الحجم الحقيقية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Pulsus paradoxus",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Pulsus paradoxus"
+      },
+      "card_text": "النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم. حرف P المزدوج يذكرك أن هذه العلامة تخص حالة قلبية مختلفة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypothermia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypovolemic shock. يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more specifically associated with cardiac tamponade or severe asthma/COPD. الخيار B، Tachypnea: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypovolemic shock. يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more specifically associated with cardiac tamponade or severe asthma/COPD. الخيار D، Cool skin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypovolemic shock. يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more specifically associated with cardiac tamponade or severe asthma/COPD. الخيار E، Hypotension: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypovolemic shock. يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more specifically associated with cardiac tamponade or severe asthma/COPD.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Hypothermia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypovolemic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more…"
+        },
+        {
+          "letter": "B",
+          "text": "Tachypnea",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypovolemic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more…"
+        },
+        {
+          "letter": "C",
+          "text": "Pulsus paradoxus",
+          "verdict": "correct",
+          "reason": "النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم."
+        },
+        {
+          "letter": "D",
+          "text": "Cool skin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypovolemic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more…"
+        },
+        {
+          "letter": "E",
+          "text": "Hypotension",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypovolemic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock, unlike pulsus paradoxus, which is more…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي علامة قلبية وعائية شديدة مرتبطة بأي صدمة، متناسيًا أن النبض المتناقض علامة نوعية تخص الاندحاس التاموري لا نقص الحجم.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي علامة قلبية وعائية شديدة مرتبطة بأي صدمة، متناسيًا أن النبض المتناقض علامة نوعية تخص الاندحاس التاموري لا نقص الحجم."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Pulsus paradoxus",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Pulsus paradoxus"
+      },
+      "pills": [
+        "Hypovolemic shock: doesn't feature Pulsus para"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Pulsus paradoxus. النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم. وتذكّر القاعدة: Hypovolemic shock: doesn't feature Pulsus paradoxus. والإجابة الصحيحة هي C."
+    }
+  ]
+}

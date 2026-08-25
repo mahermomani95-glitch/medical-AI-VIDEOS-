@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-25-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 25 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "SCC of esophagus risk factors, EXCEPT",
+  "question_ar": "كل ما يلي هو عوامل خطر للإصابة بسرطان الخلايا الحرشفية في المريءباستثناء؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 25,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Alcohol"
+    },
+    {
+      "letter": "B",
+      "text": "Tobacco"
+    },
+    {
+      "letter": "C",
+      "text": "Achalasia"
+    },
+    {
+      "letter": "D",
+      "text": "Plummer Vinson syndrome"
+    },
+    {
+      "letter": "E",
+      "text": "Barrett esophagus"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Barrett esophagus",
+  "purpose_ar": "يريد التأكيد أن مريء باريت مرتبط بالسرطانة الغدية للمريء، لا الحرشفية كما بالعبارة الخاطئة.",
+  "trap_ar": "الطالب قد يقبل باريت كعامل خطر للسرطانة الحرشفية، متناسيًا أن التغير الغدي بباريت يرتبط بالسرطان الغدي تحديدًا لا الحرشفي.",
+  "summary_ar": "مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "SCC of esophagus risk factors, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Barrett esophagus"
+      },
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الخلايا الحرشفية في المريءباستثناء؟ أمامك هذه الخيارات: Alcohol، أو Tobacco، أو Achalasia، أو Plummer Vinson syndrome، أو Barrett esophagus. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن مريء باريت مرتبط بالسرطانة الغدية للمريء، لا الحرشفية كما بالعبارة الخاطئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن مريء باريت مرتبط بالسرطانة الغدية للمريء، لا الحرشفية كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Barrett esophagus",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Barrett esophagus"
+      },
+      "card_text": "مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء. حرف B و A يذكرانك بالنوع النسيجي الصحيح المرتبط بباريت."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Alcohol: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC. يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically, unlike Barrett's esophagus which is a risk factor for adenocarcinoma. الخيار B، Tobacco: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC. يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically, unlike Barrett's esophagus which is a risk factor for adenocarcinoma. الخيار C، Achalasia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC. يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically, unlike Barrett's esophagus which is a risk factor for adenocarcinoma. الخيار D، Plummer Vinson syndrome: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC. يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically, unlike Barrett's esophagus which is a risk factor for adenocarcinoma.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Alcohol",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically…"
+        },
+        {
+          "letter": "B",
+          "text": "Tobacco",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically…"
+        },
+        {
+          "letter": "C",
+          "text": "Achalasia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically…"
+        },
+        {
+          "letter": "D",
+          "text": "Plummer Vinson syndrome",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا SCC.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for esophageal squamous cell carcinoma specifically…"
+        },
+        {
+          "letter": "E",
+          "text": "Barrett esophagus",
+          "verdict": "correct",
+          "reason": "مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل باريت كعامل خطر للسرطانة الحرشفية، متناسيًا أن التغير الغدي بباريت يرتبط بالسرطان الغدي تحديدًا لا الحرشفي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل باريت كعامل خطر للسرطانة الحرشفية، متناسيًا أن التغير الغدي بباريت يرتبط بالسرطان الغدي تحديدًا لا الحرشفي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Barrett esophagus",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Barrett esophagus"
+      },
+      "pills": [
+        "Barrett's: Bound to Adenocarcinoma, not squamo"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Barrett esophagus. مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء. وتذكّر القاعدة: Barrett's: Bound to Adenocarcinoma, not squamous. والإجابة الصحيحة هي E."
+    }
+  ]
+}

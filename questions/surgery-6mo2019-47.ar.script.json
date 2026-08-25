@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2019-47-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 47 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Flank pain + hematuria + normal creatinine — best next step",
+  "question_ar": "مريض يبلغ من العمر ٢٥ عامًا، يُعاني من ألمٍ شديدٍ في الخاصرة استمر لمدة٦ ساعات، مصحوبًا بغثيان وقيء. أظهر تحليل البول ٢٠٠ خلية دم حمراء/السائل اللمفاوي، وكرياتينين المصل ٠.٩ ملغ/ديسيلتر. أفضل علاجٍ في هذهالمرحلة هو:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 47,
+  "options": [
+    {
+      "letter": "A",
+      "text": "KUB radiography"
+    },
+    {
+      "letter": "B",
+      "text": "Renal ultrasonography"
+    },
+    {
+      "letter": "C",
+      "text": "Intravenous Pyelography"
+    },
+    {
+      "letter": "D",
+      "text": "non-contrast-enhanced computed tomography"
+    },
+    {
+      "letter": "E",
+      "text": "Kidney MRI"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "non-contrast-enhanced computed tomography",
+  "purpose_ar": "حفظ أن الأشعة المقطعية غير المحقونة هي الفحص التصويري الأول المفضل لألم الخاصرة الحاد المشتبه بحصاة كلوية، متفوقة على الأشعة العادية والتصوير الوريدي.",
+  "trap_ar": "قد يختار الطالب الموجات فوق الصوتية (B) لأنها فحص آمن وسريع أيضًا، متجاهلاً أن الأشعة المقطعية غير المحقونة أصبحت الفحص الأول المفضل حديثًا لحساسيتها الأعلى بكثير لتشخيص الحصى وتحديد موقعها وحجمها بدقة.",
+  "summary_ar": "الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Flank pain + hematuria + normal creatinine — best next step",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر ٢٥ عامًا، يُعاني من ألمٍ شديدٍ في الخاصرة استمر لمدة٦ ساعات، مصحوبًا بغثيان وقيء. أظهر تحليل البول ٢٠٠ خلية دم حمراء/السائل اللمفاوي، وكرياتينين المصل ٠.٩ ملغ/ديسيلتر. أفضل علاجٍ في هذهالمرحلة هو: أمامك هذه الخيارات: KUB radiography، أو Renal ultrasonography، أو Intravenous Pyelography، أو non-contrast-enhanced computed tomography، أو Kidney MRI. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ أن الأشعة المقطعية غير المحقونة هي الفحص التصويري الأول المفضل لألم الخاصرة الحاد المشتبه بحصاة كلوية، متفوقة على الأشعة العادية والتصوير الوريدي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ أن الأشعة المقطعية غير المحقونة هي الفحص التصويري الأول المفضل لألم الخاصرة الحاد المشتبه بحصاة كلوية، متفوقة على الأشعة العادية والتصوير الوريدي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "non-contrast-enhanced computed tomogra",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة. الأشعة المقطعية غير المحقونة أصبحت الفحص المفضل الأول لأي ألم خاصرة حاد مشتبه بحصاة كلوية، لسرعتها العالية وحساسيتها الممتازة دون حاجة لصبغة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، KUB radiography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography. يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of non-contrast CT specifically for stone detection. الخيار B، Renal ultrasonography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography. يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of non-contrast CT specifically for stone detection. الخيار C، Intravenous Pyelography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography. يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of non-contrast CT specifically for stone detection. الخيار E، Kidney MRI: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography. يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of non-contrast CT specifically for stone detection.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "KUB radiography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of…"
+        },
+        {
+          "letter": "B",
+          "text": "Renal ultrasonography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of…"
+        },
+        {
+          "letter": "C",
+          "text": "Intravenous Pyelography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of…"
+        },
+        {
+          "letter": "D",
+          "text": "non-contrast-enhanced computed tomography",
+          "verdict": "correct",
+          "reason": "الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة."
+        },
+        {
+          "letter": "E",
+          "text": "Kidney MRI",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الموجات فوق الصوتية (B) لأنها فحص آمن وسريع أيضًا، متجاهلاً أن الأشعة المقطعية غير المحقونة أصبحت الفحص الأول المفضل حديثًا لحساسيتها الأعلى بكثير لتشخيص الحصى وتحديد موقعها وحجمها بدقة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الموجات فوق الصوتية (B) لأنها فحص آمن وسريع أيضًا، متجاهلاً أن الأشعة المقطعية غير المحقونة أصبحت الفحص الأول المفضل حديثًا لحساسيتها الأعلى بكثير لتشخيص الحصى وتحديد موقعها وحجمها بدقة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. non-contrast-enhanced computed tomography",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Acute flank pain = Non-contrast CT\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: non-contrast-enhanced computed tomography. الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة. وتذكّر القاعدة: \"Acute flank pain = Non-contrast CT\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

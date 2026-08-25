@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2020-14-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2020 Course, Question 14 of 60",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Elective surgery + arrhythmia on warfarin — correct approach",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2020 Course",
+  "question_number": 14,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Surgery can be done directly"
+    },
+    {
+      "letter": "B",
+      "text": "If PT is normal, stop warfarin at night before surgery and do it"
+    },
+    {
+      "letter": "C",
+      "text": "Replace it with LMWH 5 days before surgery and stop warfarin"
+    },
+    {
+      "letter": "D",
+      "text": "If PTT is normal, stop warfarin at night before surgery and do it"
+    },
+    {
+      "letter": "E",
+      "text": "Stop warfarin the night before surgery"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Replace it with LMWH 5 days before surgery and stop warfarin",
+  "purpose_ar": "حفظ بروتوكول \"الجسر\" الصحيح لمريض على وارفارين مزمن يحتاج جراحة اختيارية — استبداله بـ LMWH قبل الجراحة بأيام كافية.",
+  "trap_ar": "قد يختار الطالب إيقاف الوارفارين ليلة الجراحة فقط (E) ظنًا أنه كافٍ، متجاهلاً أن نصف عمر الوارفارين الطويل يستلزم إيقافه قبل أيام مع تغطية جسرية بـ LMWH.",
+  "summary_ar": "استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Elective surgery + arrhythmia on warfarin — correct approach",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Surgery can be done directly، أو If PT is normal, stop warfarin at night before surgery and do it، أو Replace it with LMWH 5 days before surgery and stop warfarin، أو If PTT is normal, stop warfarin at night before surgery and do it، أو Stop warfarin the night before surgery. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ بروتوكول \"الجسر\" الصحيح لمريض على وارفارين مزمن يحتاج جراحة اختيارية — استبداله بـ LMWH قبل الجراحة بأيام كافية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ بروتوكول \"الجسر\" الصحيح لمريض على وارفارين مزمن يحتاج جراحة اختيارية — استبداله بـ LMWH قبل الجراحة بأيام كافية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Replace it with LMWH 5 days before sur",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة. عند مريض بحاجة لمضاد تخثر مستمر (كالرجفان الأذيني)، يُستبدَل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بحوالي 5 أيام، للسماح لـ INR بالتطبيع دون ترك المريض دون حماية من التخثر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Surgery can be done directly: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Replace it with LMWH 5 days before surgery and stop warfarin. يصبح صحيحًا في سؤال يصف Doing surgery directly without any adjustment risks bleeding complications. الخيار B، If PT is normal, stop warfarin at night before surgery and do it: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reflect the correct bridging protocol. يصبح صحيحًا في سؤال يصف using PT normalization alone or PTT normalization as the trigger to stop warfarin. الخيار D، If PTT is normal, stop warfarin at night before surgery and do it: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reflect the correct bridging protocol. يصبح صحيحًا في سؤال يصف using PT normalization alone or PTT normalization as the trigger to stop warfarin. الخيار E، Stop warfarin the night before surgery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا allow adequate INR normalization given warfarin's long half-life — bridging with LMWH and stopping warfarin 5 days prior is correct. يصبح صحيحًا في سؤال يصف simply stopping the night before.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Surgery can be done directly",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Replace it with LMWH 5 days before surgery and stop warfarin.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Doing surgery directly without any adjustment risks bleeding complications."
+        },
+        {
+          "letter": "B",
+          "text": "If PT is normal, stop warfarin at night before surgery and do it",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reflect the correct bridging protocol.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف using PT normalization alone or PTT normalization as the trigger to stop warfarin."
+        },
+        {
+          "letter": "C",
+          "text": "Replace it with LMWH 5 days before surgery and stop warfarin",
+          "verdict": "correct",
+          "reason": "استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة."
+        },
+        {
+          "letter": "D",
+          "text": "If PTT is normal, stop warfarin at night before surgery and do it",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reflect the correct bridging protocol.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف using PT normalization alone or PTT normalization as the trigger to stop warfarin."
+        },
+        {
+          "letter": "E",
+          "text": "Stop warfarin the night before surgery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا allow adequate INR normalization given warfarin's long half-life — bridging with LMWH and stopping warfarin 5 days prior is…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف simply stopping the night before."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب إيقاف الوارفارين ليلة الجراحة فقط (E) ظنًا أنه كافٍ، متجاهلاً أن نصف عمر الوارفارين الطويل يستلزم إيقافه قبل أيام مع تغطية جسرية بـ LMWH.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب إيقاف الوارفارين ليلة الجراحة فقط (E) ظنًا أنه كافٍ، متجاهلاً أن نصف عمر الوارفارين الطويل يستلزم إيقافه قبل أيام مع تغطية جسرية بـ LMWH."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Replace it with LMWH 5 days before surgery and s",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Bridge with LMWH, stop warfarin 5 days before"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Replace it with LMWH 5 days before surgery and stop warfarin. استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة. وتذكّر القاعدة: \"Bridge with LMWH, stop warfarin 5 days before surgery\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

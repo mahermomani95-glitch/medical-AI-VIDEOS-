@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2018-38-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 38 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Ileal resection — EXCEPT",
+  "question_ar": "يمكن أن يؤدي استئصال اللفائفي إلى كل ما يلي باستثناء",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 38,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Decreased B12 and folate uptake"
+    },
+    {
+      "letter": "B",
+      "text": "Decreased bile salt uptake"
+    },
+    {
+      "letter": "C",
+      "text": "Decreased iron uptake"
+    },
+    {
+      "letter": "D",
+      "text": "Diarrhea, steatorrhea"
+    },
+    {
+      "letter": "E",
+      "text": "Gallstones formation"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Decreased iron uptake",
+  "purpose_ar": "معرفة أن استئصال اللفائفي النهائي يسبب سوء امتصاص B12 والأملاح الصفراوية (إسهال دهني وحصى مرارية)، بينما امتصاص الحديد يحدث في الاثني عشر وليس اللفائفي، فلا يتأثر مباشرة.",
+  "trap_ar": "قد يفترض الطالب أن أي استئصال معوي يقلل امتصاص كل العناصر الغذائية بالتساوي، فيختار نقص الحديد كنتيجة منطقية لاستئصال أي جزء من الأمعاء، متجاهلاً خصوصية موقع امتصاص كل عنصر.",
+  "summary_ar": "اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Ileal resection — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Decreased iron uptake"
+      },
+      "narration": "لنبدأ بهذا السؤال. يمكن أن يؤدي استئصال اللفائفي إلى كل ما يلي باستثناء أمامك هذه الخيارات: Decreased B12 and folate uptake، أو Decreased bile salt uptake، أو Decreased iron uptake، أو Diarrhea, steatorrhea، أو Gallstones formation. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "معرفة أن استئصال اللفائفي النهائي يسبب سوء امتصاص B12 والأملاح الصفراوية (إسهال دهني وحصى مرارية)، بينما امتصاص الحديد يحدث في الاثني عشر وليس اللفائفي، فلا يتأثر مباشرة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: معرفة أن استئصال اللفائفي النهائي يسبب سوء امتصاص B12 والأملاح الصفراوية (إسهال دهني وحصى مرارية)، بينما امتصاص الحديد يحدث في الاثني عشر وليس اللفائفي، فلا يتأثر مباشرة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Decreased iron uptake",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Decreased iron uptake"
+      },
+      "card_text": "اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي. اللفائفي مسؤول عن B12 والأملاح الصفراوية (Bile)، وليس الحديد (Iron) الذي يُمتص أعلى بكثير في الاثني عشر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Decreased B12 and folate uptake: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake. يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal ileal resection. الخيار B، Decreased bile salt uptake: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake. يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal ileal resection. الخيار D، Diarrhea, steatorrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake. يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal ileal resection. الخيار E، Gallstones formation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake. يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal ileal resection.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Decreased B12 and folate uptake",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal…"
+        },
+        {
+          "letter": "B",
+          "text": "Decreased bile salt uptake",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal…"
+        },
+        {
+          "letter": "C",
+          "text": "Decreased iron uptake",
+          "verdict": "correct",
+          "reason": "اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي."
+        },
+        {
+          "letter": "D",
+          "text": "Diarrhea, steatorrhea",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal…"
+        },
+        {
+          "letter": "E",
+          "text": "Gallstones formation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased iron uptake.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone formation are all well-known results of terminal…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يفترض الطالب أن أي استئصال معوي يقلل امتصاص كل العناصر الغذائية بالتساوي، فيختار نقص الحديد كنتيجة منطقية لاستئصال أي جزء من الأمعاء، متجاهلاً خصوصية موقع امتصاص كل عنصر.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يفترض الطالب أن أي استئصال معوي يقلل امتصاص كل العناصر الغذائية بالتساوي، فيختار نقص الحديد كنتيجة منطقية لاستئصال أي جزء من الأمعاء، متجاهلاً خصوصية موقع امتصاص كل عنصر."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Decreased iron uptake",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Decreased iron uptake"
+      },
+      "pills": [
+        "\"Ileum = B12 + Bile, not ironclad\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Decreased iron uptake. اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي. وتذكّر القاعدة: \"Ileum = B12 + Bile, not ironclad\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2018-12-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 12 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Pancreatic tail mass + watery diarrhea + hypokalemia",
+  "question_ar": "امرأة تبلغ من العمر 50 عامًا، تعاني من كتلة بنكرياسية في ذيل البنكرياس،تُصاب بإسهال مائي ونقص بوتاسيوم الدم. التشخيص الأكثر احتمالًا هو:",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 12,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Glucagonoma"
+    },
+    {
+      "letter": "B",
+      "text": "Gastrinoma"
+    },
+    {
+      "letter": "C",
+      "text": "Somatostatinoma"
+    },
+    {
+      "letter": "D",
+      "text": "Vipoma"
+    },
+    {
+      "letter": "E",
+      "text": "Insulinoma"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Vipoma",
+  "purpose_ar": "التعرف على متلازمة WDHA (إسهال مائي، نقص بوتاسيوم، لا حموضة معدية) المرتبطة بورم VIPoma ، وتمييزها عن أورام البنكرياس الصماوية الأخرى.",
+  "trap_ar": "قد يختار الطالب الغاسترينوما (B) لأنها الأشيع ذكرًا في المقررات، لكن الغاسترينوما تسبب قرحًا مقاومة للعلاج وليس إسهالاً مائيًا مع نقص بوتاسيوم شديد كهذا.",
+  "summary_ar": "ببتيد VIP يُغرق الأمعاء بإفراز الماء ويسبب فقدان البوتاسيوم — وهذا ما يُعرف بالكوليرا البنكرياسية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Pancreatic tail mass + watery diarrhea + hypokalemia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Vipoma"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 50 عامًا، تعاني من كتلة بنكرياسية في ذيل البنكرياس،تُصاب بإسهال مائي ونقص بوتاسيوم الدم. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Glucagonoma، أو Gastrinoma، أو Somatostatinoma، أو Vipoma، أو Insulinoma. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على متلازمة WDHA (إسهال مائي، نقص بوتاسيوم، لا حموضة معدية) المرتبطة بورم VIPoma ، وتمييزها عن أورام البنكرياس الصماوية الأخرى.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على متلازمة WDHA (إسهال مائي، نقص بوتاسيوم، لا حموضة معدية) المرتبطة بورم VIPoma ، وتمييزها عن أورام البنكرياس الصماوية الأخرى."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Vipoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Vipoma"
+      },
+      "card_text": "ببتيد VIP يُغرق الأمعاء بإفراز الماء ويسبب فقدان البوتاسيوم — وهذا ما يُعرف بالكوليرا البنكرياسية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ببتيد VIP يُغرق الأمعاء بإفراز الماء ويسبب فقدان البوتاسيوم — وهذا ما يُعرف بالكوليرا البنكرياسية. حرف V وحرف P في VIPoma يذكّران بـ Very watery diarrhea و Low Potassium ، وهما العرضان الأساسيان."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Glucagonoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vipoma. يصبح صحيحًا في سؤال يستهدف Glucagonoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Gastrinoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the watery diarrhea and hypokalemia pattern described here. يصبح صحيحًا في سؤال يصف Gastrinoma causes Zollinger-Ellison syndrome with refractory peptic ulcers. الخيار C، Somatostatinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vipoma. يصبح صحيحًا في سؤال يستهدف Somatostatinoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Insulinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vipoma. يصبح صحيحًا في سؤال يستهدف Insulinoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Glucagonoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vipoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Glucagonoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "B",
+          "text": "Gastrinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the watery diarrhea and hypokalemia pattern described here.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastrinoma causes Zollinger-Ellison syndrome with refractory peptic ulcers."
+        },
+        {
+          "letter": "C",
+          "text": "Somatostatinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vipoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Somatostatinoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Vipoma",
+          "verdict": "correct",
+          "reason": "ببتيد VIP يُغرق الأمعاء بإفراز الماء ويسبب فقدان البوتاسيوم — وهذا ما يُعرف بالكوليرا البنكرياسية."
+        },
+        {
+          "letter": "E",
+          "text": "Insulinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vipoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Insulinoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الغاسترينوما (B) لأنها الأشيع ذكرًا في المقررات، لكن الغاسترينوما تسبب قرحًا مقاومة للعلاج وليس إسهالاً مائيًا مع نقص بوتاسيوم شديد كهذا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الغاسترينوما (B) لأنها الأشيع ذكرًا في المقررات، لكن الغاسترينوما تسبب قرحًا مقاومة للعلاج وليس إسهالاً مائيًا مع نقص بوتاسيوم شديد كهذا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Vipoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Vipoma"
+      },
+      "pills": [
+        "\"VIPoma = Very watery, low Potassium\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Vipoma. ببتيد VIP يُغرق الأمعاء بإفراز الماء ويسبب فقدان البوتاسيوم — وهذا ما يُعرف بالكوليرا البنكرياسية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ببتيد VIP يُغرق الأمعاء بإفراز الماء ويسبب فقدان البوتاسيوم — وهذا ما يُعرف بالكوليرا البنكرياسية. وتذكّر القاعدة: \"VIPoma = Very watery, low Potassium\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

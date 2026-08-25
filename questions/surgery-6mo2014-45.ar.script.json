@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2014-45-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 45 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Increased gastric cancer risk, EXCEPT",
+  "question_ar": "وقد تم الإبلاغ عن أن كل ما يلي يزيد من خطر الإصابة بسرطان المعدةباستثناء؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 45,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Smoking"
+    },
+    {
+      "letter": "B",
+      "text": "Alcohol"
+    },
+    {
+      "letter": "C",
+      "text": "H. Pylori infection"
+    },
+    {
+      "letter": "D",
+      "text": "Chronic atrophic gastritis"
+    },
+    {
+      "letter": "E",
+      "text": "Blood type O"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Blood type O",
+  "purpose_ar": "يريد التأكيد أن فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطان المعدة كما بالعبارة الخاطئة (فصيلة A هي المرتبطة بالسرطان).",
+  "trap_ar": "الطالب قد يقبل فصيلة O كعامل خطر سرطاني، متناسيًا أن الفصيلة المرتبطة بسرطان المعدة تحديدًا هي A لا O.",
+  "summary_ar": "فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطانها (فصيلة A هي المرتبطة).",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Increased gastric cancer risk, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Blood type O"
+      },
+      "narration": "لنبدأ بهذا السؤال. وقد تم الإبلاغ عن أن كل ما يلي يزيد من خطر الإصابة بسرطان المعدةباستثناء؟ أمامك هذه الخيارات: Smoking، أو Alcohol، أو H. Pylori infection، أو Chronic atrophic gastritis، أو Blood type O. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطان المعدة كما بالعبارة الخاطئة (فصيلة A هي المرتبطة بالسرطان).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطان المعدة كما بالعبارة الخاطئة (فصيلة A هي المرتبطة بالسرطان)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Blood type O",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Blood type O"
+      },
+      "card_text": "فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطانها (فصيلة A هي المرتبطة).",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطانها (فصيلة A هي المرتبطة). حرف O يذكرك أن هذه الفصيلة ليست المرتبطة بسرطان المعدة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Smoking: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood type O. يصبح صحيحًا في سؤال يصف Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established gastric cancer risk factors, unlike blood type O, which is actually associated with LOWER gastric cancer risk (blood type A is the one linked to increased risk). الخيار B، Alcohol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood type O. يصبح صحيحًا في سؤال يصف Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established gastric cancer risk factors, unlike blood type O, which is actually associated with LOWER gastric cancer risk (blood type A is the one linked to increased risk). الخيار C، H. Pylori infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood type O. يصبح صحيحًا في سؤال يصف Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established gastric cancer risk factors, unlike blood type O, which is actually associated with LOWER gastric cancer risk (blood type A is the one linked to increased risk). الخيار D، Chronic atrophic gastritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood type O. يصبح صحيحًا في سؤال يصف Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established gastric cancer risk factors, unlike blood type O, which is actually associated with LOWER gastric cancer risk (blood type A is the one linked to increased risk).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Smoking",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood type O.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established gastric cancer risk factors, unlike blood type O, which…"
+        },
+        {
+          "letter": "B",
+          "text": "Alcohol",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood type O.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established gastric cancer risk factors, unlike blood type O, which…"
+        },
+        {
+          "letter": "C",
+          "text": "H. Pylori infection",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood type O.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established gastric cancer risk factors, unlike blood type O, which…"
+        },
+        {
+          "letter": "D",
+          "text": "Chronic atrophic gastritis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood type O.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, alcohol, H. pylori infection, and chronic atrophic gastritis are all established gastric cancer risk factors, unlike blood type O, which…"
+        },
+        {
+          "letter": "E",
+          "text": "Blood type O",
+          "verdict": "correct",
+          "reason": "فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطانها (فصيلة A هي المرتبطة)."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل فصيلة O كعامل خطر سرطاني، متناسيًا أن الفصيلة المرتبطة بسرطان المعدة تحديدًا هي A لا O.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل فصيلة O كعامل خطر سرطاني، متناسيًا أن الفصيلة المرتبطة بسرطان المعدة تحديدًا هي A لا O."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Blood type O",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Blood type O"
+      },
+      "pills": [
+        "Blood type O: Ordinarily linked to ulcer, not "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Blood type O. فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطانها (فصيلة A هي المرتبطة)."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فصيلة الدم O ترتبط بقرحة المعدة، لا بزيادة خطر سرطانها (فصيلة A هي المرتبطة). وتذكّر القاعدة: Blood type O: Ordinarily linked to ulcer, not gastric cancer. والإجابة الصحيحة هي E."
+    }
+  ]
+}

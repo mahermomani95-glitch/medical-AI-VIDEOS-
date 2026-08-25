@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2014-16-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 16 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Undescended testes, management",
+  "question_ar": "الخصيتين غير النازلتين؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 16,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Best treated surgically at the age of one year"
+    },
+    {
+      "letter": "B",
+      "text": "Best managed conservatively with hormons"
+    },
+    {
+      "letter": "C",
+      "text": "Best corrected at or around puberty"
+    },
+    {
+      "letter": "D",
+      "text": "Have no malignat potential"
+    },
+    {
+      "letter": "E",
+      "text": "Are usually bilateral"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Best treated surgically at the age of one year",
+  "purpose_ar": "يريد حفظ العمر القياسي الأمثل للتدخل الجراحي بالخصية غير النازلة (عمر سنة واحدة).",
+  "trap_ar": "الطالب قد يختار عمرًا أصغر أو أكبر، متناسيًا أن عمر السنة تحديدًا يوازن بين احتمال النزول التلقائي وحماية الخصوبة المستقبلية.",
+  "summary_ar": "التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Undescended testes, management",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. الخصيتين غير النازلتين؟ أمامك هذه الخيارات: Best treated surgically at the age of one year، أو Best managed conservatively with hormons، أو Best corrected at or around puberty، أو Have no malignat potential، أو Are usually bilateral. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ العمر القياسي الأمثل للتدخل الجراحي بالخصية غير النازلة (عمر سنة واحدة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ العمر القياسي الأمثل للتدخل الجراحي بالخصية غير النازلة (عمر سنة واحدة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Best treated surgically at the age of ",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة. حرف O يذكرك بالعمر القياسي الأمثل لهذا التدخل."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Best managed conservatively with hormons: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يصف Conservative hormonal management has limited long-term efficacy. الخيار C، Best corrected at or around puberty: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يصف waiting until puberty risks fertility damage. الخيار D، Have no malignat potential: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يستهدف Have no malignat potential تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Are usually bilateral: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral, in most cases (E is false) — surgical correction (orchidopexy) around age 1 remains the standard. يصبح صحيحًا في سؤال يصف they are usually unilateral.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Best treated surgically at the age of one year",
+          "verdict": "correct",
+          "reason": "التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة."
+        },
+        {
+          "letter": "B",
+          "text": "Best managed conservatively with hormons",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Conservative hormonal management has limited long-term efficacy."
+        },
+        {
+          "letter": "C",
+          "text": "Best corrected at or around puberty",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف waiting until puberty risks fertility damage."
+        },
+        {
+          "letter": "D",
+          "text": "Have no malignat potential",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Have no malignat potential تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "E",
+          "text": "Are usually bilateral",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral, in most cases (E is false) — surgical correction (orchidopexy) around age 1 remains the standard.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف they are usually unilateral."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار عمرًا أصغر أو أكبر، متناسيًا أن عمر السنة تحديدًا يوازن بين احتمال النزول التلقائي وحماية الخصوبة المستقبلية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار عمرًا أصغر أو أكبر، متناسيًا أن عمر السنة تحديدًا يوازن بين احتمال النزول التلقائي وحماية الخصوبة المستقبلية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Best treated surgically at the age of one year",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Undescended testis: Treated surgically at One "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Best treated surgically at the age of one year. التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة. وتذكّر القاعدة: Undescended testis: Treated surgically at One year. والإجابة الصحيحة هي A."
+    }
+  ]
+}

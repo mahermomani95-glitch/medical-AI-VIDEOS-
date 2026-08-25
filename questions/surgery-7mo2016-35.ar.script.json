@@ -1,0 +1,143 @@
+{
+  "id": "surgery-7mo2016-35-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 35 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common presentation, Pheochromocytoma",
+  "question_ar": "الشكل الأكثر شيوعًا لورم القواتم؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 35,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Excess sweating"
+    },
+    {
+      "letter": "B",
+      "text": "Palpitations"
+    },
+    {
+      "letter": "C",
+      "text": "Chest pain"
+    },
+    {
+      "letter": "D",
+      "text": "Headache"
+    },
+    {
+      "letter": "E",
+      "text": "HTN"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "HTN",
+  "purpose_ar": "يريد التأكيد أن ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم.",
+  "trap_ar": "الطالب قد يختار الصداع أو التعرق، متناسيًا أن ارتفاع الضغط يتصدر إحصائيًا كل الأعراض الأخرى المرافقة لهذا الورم.",
+  "summary_ar": "ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common presentation, Pheochromocytoma",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. الشكل الأكثر شيوعًا لورم القواتم؟ أمامك هذه الخيارات: Excess sweating، أو Palpitations، أو Chest pain، أو Headache، أو HTN. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "HTN",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم. حرف H المزدوج يربط ارتفاع الضغط بموقعه كالتظاهر الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Excess sweating: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just paroxysmal) remains the most common overall presentation. يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often sustained. الخيار B، Palpitations: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just paroxysmal) remains the most common overall presentation. يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often sustained. الخيار C، Chest pain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just paroxysmal) remains the most common overall presentation. يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often sustained. الخيار D، Headache: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just paroxysmal) remains the most common overall presentation. يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often sustained.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Excess sweating",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just paroxysmal) remains the most common overall presentation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often…"
+        },
+        {
+          "letter": "B",
+          "text": "Palpitations",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just paroxysmal) remains the most common overall presentation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often…"
+        },
+        {
+          "letter": "C",
+          "text": "Chest pain",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just paroxysmal) remains the most common overall presentation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often…"
+        },
+        {
+          "letter": "D",
+          "text": "Headache",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just paroxysmal) remains the most common overall presentation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often…"
+        },
+        {
+          "letter": "E",
+          "text": "HTN",
+          "verdict": "correct",
+          "reason": "ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الصداع أو التعرق، متناسيًا أن ارتفاع الضغط يتصدر إحصائيًا كل الأعراض الأخرى المرافقة لهذا الورم.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الصداع أو التعرق، متناسيًا أن ارتفاع الضغط يتصدر إحصائيًا كل الأعراض الأخرى المرافقة لهذا الورم."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. HTN",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Pheochromocytoma: mostly presents with HTN"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: HTN. ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم. وتذكّر القاعدة: Pheochromocytoma: mostly presents with HTN. والإجابة الصحيحة هي E."
+    }
+  ]
+}

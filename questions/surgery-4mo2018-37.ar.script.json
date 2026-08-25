@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2018-37-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 37 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Chemotherapy — ototoxicity",
+  "question_ar": "السمية الأذنية هي سمة مميزة لأي من العلاجات الكيميائية التالية",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 37,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Bleomycin"
+    },
+    {
+      "letter": "B",
+      "text": "Cisplatin"
+    },
+    {
+      "letter": "C",
+      "text": "Cyclophosphamide"
+    },
+    {
+      "letter": "D",
+      "text": "Vincristine"
+    },
+    {
+      "letter": "E",
+      "text": "Adriamycin"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Cisplatin",
+  "purpose_ar": "حفظ الأعراض الجانبية النوعية لأدوية الكيماوي الشائعة — سيسبلاتين يرتبط بسمية الأذن (ototoxicity) والكلى واعتلال الأعصاب المحيطية.",
+  "trap_ar": "قد يختار الطالب بليوميسين (A) لأنه أشهر دواء مرتبط بسمية معروفة (رئوية)، فيخلط بين سمية بليوميسين الرئوية وسمية سيسبلاتين السمعية.",
+  "summary_ar": "سيسبلاتين معروف بسميته للأذن إلى جانب سميته الكلوية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Chemotherapy — ototoxicity",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. السمية الأذنية هي سمة مميزة لأي من العلاجات الكيميائية التالية أمامك هذه الخيارات: Bleomycin، أو Cisplatin، أو Cyclophosphamide، أو Vincristine، أو Adriamycin. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ الأعراض الجانبية النوعية لأدوية الكيماوي الشائعة — سيسبلاتين يرتبط بسمية الأذن (ototoxicity) والكلى واعتلال الأعصاب المحيطية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ الأعراض الجانبية النوعية لأدوية الكيماوي الشائعة — سيسبلاتين يرتبط بسمية الأذن (ototoxicity) والكلى واعتلال الأعصاب المحيطية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Cisplatin",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "سيسبلاتين معروف بسميته للأذن إلى جانب سميته الكلوية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. سيسبلاتين معروف بسميته للأذن إلى جانب سميته الكلوية. حرف C في Cisplatin وحرف C في Cochlea (القوقعة) للتذكير بسميته المميزة على الأذن الداخلية بجانب سميته الكلوية والعصبية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bleomycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cisplatin. يصبح صحيحًا في سؤال يستهدف Bleomycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Cyclophosphamide: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cisplatin. يصبح صحيحًا في سؤال يستهدف Cyclophosphamide تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Vincristine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا ototoxicity, distinguishing it from cisplatin's hearing-related side effect. يصبح صحيحًا في سؤال يصف Vincristine is classically associated with peripheral neuropathy. الخيار E، Adriamycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cisplatin. يصبح صحيحًا في سؤال يستهدف Adriamycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Bleomycin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cisplatin.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Bleomycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "B",
+          "text": "Cisplatin",
+          "verdict": "correct",
+          "reason": "سيسبلاتين معروف بسميته للأذن إلى جانب سميته الكلوية."
+        },
+        {
+          "letter": "C",
+          "text": "Cyclophosphamide",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cisplatin.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Cyclophosphamide تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Vincristine",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا ototoxicity, distinguishing it from cisplatin's hearing-related side effect.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Vincristine is classically associated with peripheral neuropathy."
+        },
+        {
+          "letter": "E",
+          "text": "Adriamycin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cisplatin.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Adriamycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب بليوميسين (A) لأنه أشهر دواء مرتبط بسمية معروفة (رئوية)، فيخلط بين سمية بليوميسين الرئوية وسمية سيسبلاتين السمعية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب بليوميسين (A) لأنه أشهر دواء مرتبط بسمية معروفة (رئوية)، فيخلط بين سمية بليوميسين الرئوية وسمية سيسبلاتين السمعية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Cisplatin",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"CisPLATIN Plays havoc on hearing\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Cisplatin. سيسبلاتين معروف بسميته للأذن إلى جانب سميته الكلوية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. سيسبلاتين معروف بسميته للأذن إلى جانب سميته الكلوية. وتذكّر القاعدة: \"CisPLATIN Plays havoc on hearing\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

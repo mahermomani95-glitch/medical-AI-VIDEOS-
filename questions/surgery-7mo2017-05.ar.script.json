@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2017-05-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2017 Course, Question 5 of 45",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "73yo female, crampy abdominal pain 4 days, groin exam, statement",
+  "question_ar": "حضرت امرأة تبلغ من العمر 73 عامًا كحالة طارئة تعاني من ألم بطنيتشنجي لمدة 4 أيام مصحوبًا بالقيء وانتفاخ البطن والإمساك. تنكر المريضةفقدان الوزن. كان تاريخها المرضي السابق ذا دلالة إحصائية فقط فيما يتعلقباستئصال الزائدة الدودية المفتوح واستئصال المرارة المفتوح السابقين. أظهر الفحص الفموي جفاف الأغشية المخاطية. لم يكشف الفحص القلبيالرئوي عن أي تشوهات. البطن طري وغير مؤلم. توجد كتلة في الفخذ بقطر 2 سم أسفل الرباط الإربي الأيمن، وهو وسطيالشريان الفخذي الأيمن؛ لا يوجد ألم أو نبض أو احمرار فوقها. الكتلة طبليةالشكل إلى قرع. أصوات الأمعاء متزايدة وعالية النبرة. أظهر فحص المستقيمعدم وجود براز في قبو المستقيم وعدم وجود كتل. جميع الجمل التالية صحيحةباستثناء:؟",
+  "course_label": "Course: Surgery — 7th Month 2017 Course",
+  "question_number": 5,
+  "options": [
+    {
+      "letter": "A",
+      "text": "She should be admitted for intravenous fluid hydration and electrolyte replacement"
+    },
+    {
+      "letter": "B",
+      "text": "As a female patient, groin examination can be postponed for a few days"
+    },
+    {
+      "letter": "C",
+      "text": "Previous abdominal surgeries might be a cause"
+    },
+    {
+      "letter": "D",
+      "text": "It is essential is to obtain an upright chest x Ray"
+    },
+    {
+      "letter": "E",
+      "text": "It is essential is to obtain an abdominal x Ray (upright and supine)"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "As a female patient, groin examination can be postponed for a few days",
+  "purpose_ar": "يريد التأكيد أن فحص المنطقة الإربية لا يجب تأجيله عند مريضة مسنة بألم بطني (قد يخفي فتقًا فخذيًا مختنقًا).",
+  "trap_ar": "الطالب قد يقبل تأجيل الفحص كخطوة منطقية، متناسيًا أن الفتق الفخذي أشيع بالنساء ويجب استبعاده فورًا لخطر الاختناق.",
+  "summary_ar": "فحص المنطقة الإربية ضروري فورًا عند مسنة بألم بطني لاستبعاد فتق فخذي مختنق.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "73yo female, crampy abdominal pain 4 days, groin exam, state",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "As a female patient, groin examination"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 73 عامًا كحالة طارئة تعاني من ألم بطنيتشنجي لمدة 4 أيام مصحوبًا بالقيء وانتفاخ البطن والإمساك. تنكر المريضةفقدان الوزن. كان تاريخها المرضي السابق ذا دلالة إحصائية فقط فيما يتعلقباستئصال الزائدة الدودية المفتوح واستئصال المرارة المفتوح السابقين. أظهر الفحص الفموي جفاف الأغشية المخاطية. لم يكشف الفحص القلبيالرئوي عن أي تشوهات. البطن طري وغير مؤلم. توجد كتلة في الفخذ بقطر 2 سم أسفل الرباط الإربي الأيمن، وهو وسطيالشريان الفخذي الأيمن؛ لا يوجد ألم أو نبض أو احمرار فوقها. الكتلة طبليةالشكل إلى قرع. أصوات الأمعاء متزايدة وعالية النبرة. أظهر فحص المستقيمعدم وجود براز في قبو المستقيم وعدم وجود كتل. جميع الجمل التالية صحيحةباستثناء:؟ أمامك هذه الخيارات: She should be admitted for intravenous fluid hydration and electrolyte replacement، أو As a female patient, groin examination can be postponed for a few days، أو Previous abdominal surgeries might be a cause، أو It is essential is to obtain an upright chest x Ray، أو It is essential is to obtain an abdominal x Ray (upright and supine). لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن فحص المنطقة الإربية لا يجب تأجيله عند مريضة مسنة بألم بطني (قد يخفي فتقًا فخذيًا مختنقًا).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن فحص المنطقة الإربية لا يجب تأجيله عند مريضة مسنة بألم بطني (قد يخفي فتقًا فخذيًا مختنقًا)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "As a female patient, groin examination",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "As a female patient, groin examination"
+      },
+      "card_text": "فحص المنطقة الإربية ضروري فورًا عند مسنة بألم بطني لاستبعاد فتق فخذي مختنق.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فحص المنطقة الإربية ضروري فورًا عند مسنة بألم بطني لاستبعاد فتق فخذي مختنق. حرف G المزدوج يذكرك بضرورة هذا الفحص الفوري لا المؤجل."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، She should be admitted for intravenous fluid hydration and electrolyte replacement: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days. يصبح صحيحًا في سؤال يصف Admission for IV fluids/electrolytes, previous surgery as a possible cause, and obtaining chest/abdominal X-rays are all appropriate and true management steps for suspected bowel obstruction — however, groin examination should NEVER be postponed since an incarcerated/strangulated hernia is a critical, time-sensitive cause of obstruction that must be ruled out immediately, making B the false statement. الخيار C، Previous abdominal surgeries might be a cause: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days. يصبح صحيحًا في سؤال يصف Admission for IV fluids/electrolytes, previous surgery as a possible cause, and obtaining chest/abdominal X-rays are all appropriate and true management steps for suspected bowel obstruction — however, groin examination should NEVER be postponed since an incarcerated/strangulated hernia is a critical, time-sensitive cause of obstruction that must be ruled out immediately, making B the false statement. الخيار D، It is essential is to obtain an upright chest x Ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days. يصبح صحيحًا في سؤال يصف Admission for IV fluids/electrolytes, previous surgery as a possible cause, and obtaining chest/abdominal X-rays are all appropriate and true management steps for suspected bowel obstruction — however, groin examination should NEVER be postponed since an incarcerated/strangulated hernia is a critical, time-sensitive cause of obstruction that must be ruled out immediately, making B the false statement. الخيار E، It is essential is to obtain an abdominal x Ray (upright and supine): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days. يصبح صحيحًا في سؤال يصف Admission for IV fluids/electrolytes, previous surgery as a possible cause, and obtaining chest/abdominal X-rays are all appropriate and true management steps for suspected bowel obstruction — however, groin examination should NEVER be postponed since an incarcerated/strangulated hernia is a critical, time-sensitive cause of obstruction that must be ruled out immediately, making B the false statement.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "She should be admitted for intravenous fluid hydration and electrolyte replacement",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Admission for IV fluids/electrolytes, previous surgery as a possible cause, and obtaining chest/abdominal X-rays are all appropriate and true…"
+        },
+        {
+          "letter": "B",
+          "text": "As a female patient, groin examination can be postponed for a few days",
+          "verdict": "correct",
+          "reason": "فحص المنطقة الإربية ضروري فورًا عند مسنة بألم بطني لاستبعاد فتق فخذي مختنق."
+        },
+        {
+          "letter": "C",
+          "text": "Previous abdominal surgeries might be a cause",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Admission for IV fluids/electrolytes, previous surgery as a possible cause, and obtaining chest/abdominal X-rays are all appropriate and true…"
+        },
+        {
+          "letter": "D",
+          "text": "It is essential is to obtain an upright chest x Ray",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Admission for IV fluids/electrolytes, previous surgery as a possible cause, and obtaining chest/abdominal X-rays are all appropriate and true…"
+        },
+        {
+          "letter": "E",
+          "text": "It is essential is to obtain an abdominal x Ray (upright and supine)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Admission for IV fluids/electrolytes, previous surgery as a possible cause, and obtaining chest/abdominal X-rays are all appropriate and true…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل تأجيل الفحص كخطوة منطقية، متناسيًا أن الفتق الفخذي أشيع بالنساء ويجب استبعاده فورًا لخطر الاختناق.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل تأجيل الفحص كخطوة منطقية، متناسيًا أن الفتق الفخذي أشيع بالنساء ويجب استبعاده فورًا لخطر الاختناق."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. As a female patient, groin examination can be po",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "As a female patient, groin examination"
+      },
+      "pills": [
+        "Elderly woman, abdominal pain: Groin exam shou"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: As a female patient, groin examination can be postponed for a few days. فحص المنطقة الإربية ضروري فورًا عند مسنة بألم بطني لاستبعاد فتق فخذي مختنق."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فحص المنطقة الإربية ضروري فورًا عند مسنة بألم بطني لاستبعاد فتق فخذي مختنق. وتذكّر القاعدة: Elderly woman, abdominal pain: Groin exam shouldn't wait. والإجابة الصحيحة هي B."
+    }
+  ]
+}

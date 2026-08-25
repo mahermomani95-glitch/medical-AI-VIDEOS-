@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2019-01-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 1 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Acute pancreatitis — EXCEPT",
+  "question_ar": "فيما يتعلق بالتهاب البنكرياس الحاد، كل ما يلي صحيح باستثناء",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 1,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Most of the mortality due to systemic effect"
+    },
+    {
+      "letter": "B",
+      "text": "Alcoholism and biliary tract disease are common causes"
+    },
+    {
+      "letter": "C",
+      "text": "Severe pain radiating towards the back"
+    },
+    {
+      "letter": "D",
+      "text": "Pain is worse after meals and when supine"
+    },
+    {
+      "letter": "E",
+      "text": "Amylase levels tend to return to normal after 2 weeks"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Amylase levels tend to return to normal after 2 weeks",
+  "purpose_ar": "تصحيح مفهوم شائع — الأميليز يعود لطبيعيته خلال أيام قليلة وليس أسبوعين، بعكس الليباز الذي يبقى مرتفعًا لفترة أطول.",
+  "trap_ar": "قد يظن الطالب أن كل الإنزيمات البنكرياسية تتبع نفس الجدول الزمني للارتفاع والانخفاض، متجاهلاً أن الأميليز أسرع عودة للطبيعي من الليباز بفارق واضح.",
+  "summary_ar": "الأميليز يعود لطبيعيته عادة خلال أيام قليلة (3-5)، وليس أسبوعين — الليباز يبقى مرتفعًا لفترة أطول إن احتجت واسمًا متأخرًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Acute pancreatitis — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Amylase levels tend to return to norma"
+      },
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتهاب البنكرياس الحاد، كل ما يلي صحيح باستثناء أمامك هذه الخيارات: Most of the mortality due to systemic effect، أو Alcoholism and biliary tract disease are common causes، أو Severe pain radiating towards the back، أو Pain is worse after meals and when supine، أو Amylase levels tend to return to normal after 2 weeks. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تصحيح مفهوم شائع — الأميليز يعود لطبيعيته خلال أيام قليلة وليس أسبوعين، بعكس الليباز الذي يبقى مرتفعًا لفترة أطول.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تصحيح مفهوم شائع — الأميليز يعود لطبيعيته خلال أيام قليلة وليس أسبوعين، بعكس الليباز الذي يبقى مرتفعًا لفترة أطول."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Amylase levels tend to return to norma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Amylase levels tend to return to norma"
+      },
+      "card_text": "الأميليز يعود لطبيعيته عادة خلال أيام قليلة (3-5)، وليس أسبوعين — الليباز يبقى مرتفعًا لفترة أطول إن احتجت واسمًا متأخرًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأميليز يعود لطبيعيته عادة خلال أيام قليلة (3-5)، وليس أسبوعين — الليباز يبقى مرتفعًا لفترة أطول إن احتجت واسمًا متأخرًا. الأميليز سريع الارتفاع وسريع الانخفاض أيضًا (خلال 3-5 أيام)، بعكس الليباز الذي يبقى مرتفعًا لفترة أطول (حتى 1-2 أسبوع) مما يجعله واسمًا أفضل للتشخيص المتأخر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Most of the mortality due to systemic effect: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase levels tend to return to normal after 2 weeks. يصبح صحيحًا في سؤال يصف Systemic effects driving most mortality, alcoholism/biliary disease as common causes, pain radiating to the back, and pain worse after meals/when supine are all true statements about acute pancreatitis. الخيار B، Alcoholism and biliary tract disease are common causes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase levels tend to return to normal after 2 weeks. يصبح صحيحًا في سؤال يصف Systemic effects driving most mortality, alcoholism/biliary disease as common causes, pain radiating to the back, and pain worse after meals/when supine are all true statements about acute pancreatitis. الخيار C، Severe pain radiating towards the back: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase levels tend to return to normal after 2 weeks. يصبح صحيحًا في سؤال يصف Systemic effects driving most mortality, alcoholism/biliary disease as common causes, pain radiating to the back, and pain worse after meals/when supine are all true statements about acute pancreatitis. الخيار D، Pain is worse after meals and when supine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase levels tend to return to normal after 2 weeks. يصبح صحيحًا في سؤال يصف Systemic effects driving most mortality, alcoholism/biliary disease as common causes, pain radiating to the back, and pain worse after meals/when supine are all true statements about acute pancreatitis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Most of the mortality due to systemic effect",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase levels tend to return to normal after 2 weeks.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Systemic effects driving most mortality, alcoholism/biliary disease as common causes, pain radiating to the back, and pain worse after meals/when…"
+        },
+        {
+          "letter": "B",
+          "text": "Alcoholism and biliary tract disease are common causes",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase levels tend to return to normal after 2 weeks.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Systemic effects driving most mortality, alcoholism/biliary disease as common causes, pain radiating to the back, and pain worse after meals/when…"
+        },
+        {
+          "letter": "C",
+          "text": "Severe pain radiating towards the back",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase levels tend to return to normal after 2 weeks.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Systemic effects driving most mortality, alcoholism/biliary disease as common causes, pain radiating to the back, and pain worse after meals/when…"
+        },
+        {
+          "letter": "D",
+          "text": "Pain is worse after meals and when supine",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Amylase levels tend to return to normal after 2 weeks.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Systemic effects driving most mortality, alcoholism/biliary disease as common causes, pain radiating to the back, and pain worse after meals/when…"
+        },
+        {
+          "letter": "E",
+          "text": "Amylase levels tend to return to normal after 2 weeks",
+          "verdict": "correct",
+          "reason": "الأميليز يعود لطبيعيته عادة خلال أيام قليلة (3-5)، وليس أسبوعين — الليباز يبقى مرتفعًا لفترة أطول إن احتجت واسمًا متأخرًا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن كل الإنزيمات البنكرياسية تتبع نفس الجدول الزمني للارتفاع والانخفاض، متجاهلاً أن الأميليز أسرع عودة للطبيعي من الليباز بفارق واضح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن كل الإنزيمات البنكرياسية تتبع نفس الجدول الزمني للارتفاع والانخفاض، متجاهلاً أن الأميليز أسرع عودة للطبيعي من الليباز بفارق واضح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Amylase levels tend to return to normal after 2 ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Amylase levels tend to return to norma"
+      },
+      "pills": [
+        "\"Amylase normalizes in days, not 2 weeks\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Amylase levels tend to return to normal after 2 weeks. الأميليز يعود لطبيعيته عادة خلال أيام قليلة (3-5)، وليس أسبوعين — الليباز يبقى مرتفعًا لفترة أطول إن احتجت واسمًا متأخرًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأميليز يعود لطبيعيته عادة خلال أيام قليلة (3-5)، وليس أسبوعين — الليباز يبقى مرتفعًا لفترة أطول إن احتجت واسمًا متأخرًا. وتذكّر القاعدة: \"Amylase normalizes in days, not 2 weeks\". والإجابة الصحيحة هي E."
+    }
+  ]
+}

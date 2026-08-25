@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2013-05-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 5 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "7yo, submental swelling, hot, red, painful",
+  "question_ar": "طفل يبلغ من العمر 7 سنوات يعاني من تورم تحت الذقن وسخونة واحمراروكان مؤلمًا للغاية والتشخيص الأكثر احتمالاً هو؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 5,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Cystic hygroma"
+    },
+    {
+      "letter": "B",
+      "text": "Thyroglossal cyst"
+    },
+    {
+      "letter": "C",
+      "text": "Lipoma"
+    },
+    {
+      "letter": "D",
+      "text": "Dental caries"
+    },
+    {
+      "letter": "E",
+      "text": "Submental abscess"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Submental abscess",
+  "purpose_ar": "يريد ربط تورم تحت الذقن الساخن الأحمر المؤلم بخراج تحت الذقن (عدوى متجمعة).",
+  "trap_ar": "الطالب قد يختار كيسة خلقية (لا تكون ساخنة حمراء مؤلمة عادة)، متناسيًا أن العلامات الالتهابية الحادة توجه لخراج لا كيسة خلقية هادئة.",
+  "summary_ar": "التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "7yo, submental swelling, hot, red, painful",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر 7 سنوات يعاني من تورم تحت الذقن وسخونة واحمراروكان مؤلمًا للغاية والتشخيص الأكثر احتمالاً هو؟ أمامك هذه الخيارات: Cystic hygroma، أو Thyroglossal cyst، أو Lipoma، أو Dental caries، أو Submental abscess. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط تورم تحت الذقن الساخن الأحمر المؤلم بخراج تحت الذقن (عدوى متجمعة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط تورم تحت الذقن الساخن الأحمر المؤلم بخراج تحت الذقن (عدوى متجمعة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Submental abscess",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد. حرف H المزدوج يربط العلامات الالتهابية الحادة بتشخيص الخراج."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cystic hygroma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess. يصبح صحيحًا في سؤال يصف Cystic hygroma and thyroglossal cyst are typically painless unless infected. الخيار B، Thyroglossal cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess. يصبح صحيحًا في سؤال يصف Cystic hygroma and thyroglossal cyst are typically painless unless infected. الخيار C، Lipoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess. يصبح صحيحًا في سؤال يصف a lipoma is soft and non-inflamed. الخيار D، Dental caries: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a hot, red submental swelling — the acute inflammatory signs point to an abscess. يصبح صحيحًا في سؤال يصف dental caries causes tooth pain.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Cystic hygroma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cystic hygroma and thyroglossal cyst are typically painless unless infected."
+        },
+        {
+          "letter": "B",
+          "text": "Thyroglossal cyst",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cystic hygroma and thyroglossal cyst are typically painless unless infected."
+        },
+        {
+          "letter": "C",
+          "text": "Lipoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف a lipoma is soft and non-inflamed."
+        },
+        {
+          "letter": "D",
+          "text": "Dental caries",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a hot, red submental swelling — the acute inflammatory signs point to an abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف dental caries causes tooth pain."
+        },
+        {
+          "letter": "E",
+          "text": "Submental abscess",
+          "verdict": "correct",
+          "reason": "التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار كيسة خلقية (لا تكون ساخنة حمراء مؤلمة عادة)، متناسيًا أن العلامات الالتهابية الحادة توجه لخراج لا كيسة خلقية هادئة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار كيسة خلقية (لا تكون ساخنة حمراء مؤلمة عادة)، متناسيًا أن العلامات الالتهابية الحادة توجه لخراج لا كيسة خلقية هادئة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Submental abscess",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Hot, red, painful: Hints at Abscess"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Submental abscess. التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد. وتذكّر القاعدة: Hot, red, painful: Hints at Abscess. والإجابة الصحيحة هي E."
+    }
+  ]
+}

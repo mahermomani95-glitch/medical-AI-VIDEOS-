@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-06-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 6 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Newborn, hypersalivation, choking, gagging with feeding",
+  "question_ar": "طفل حديث الولادة يعاني من فرط إفراز اللعاب، والتهيج، والزرقة، والسعال،والاختناق، والتقيؤ، وسوء وضع أنبوب التغذية الأنفية المعوية. التشخيص الأكثراحتمالاً هو:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Duodenal atresia"
+    },
+    {
+      "letter": "B",
+      "text": "Pyloric stenosis"
+    },
+    {
+      "letter": "C",
+      "text": "Esophageal atresia"
+    },
+    {
+      "letter": "D",
+      "text": "Diaphragmatic hernia"
+    },
+    {
+      "letter": "E",
+      "text": "GERD"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Esophageal atresia",
+  "purpose_ar": "يريد ربط فرط اللعاب والاختناق عند الوليد بانعدام تصنع المريء (عدم اتصال المريء الطبيعي).",
+  "trap_ar": "الطالب قد يختار ناسورًا رغاميًا مريئيًا منفردًا، متناسيًا أن الصورة الكاملة (فرط لعاب شديد مع اختناق فوري بالرضاعة) توجه لرتق المريء تحديدًا.",
+  "summary_ar": "فرط اللعاب والاختناق الفوري بالرضاعة عند الوليد يوجه لرتق المريء.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Newborn, hypersalivation, choking, gagging with feeding",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Esophageal atresia"
+      },
+      "narration": "لنبدأ بهذا السؤال. طفل حديث الولادة يعاني من فرط إفراز اللعاب، والتهيج، والزرقة، والسعال،والاختناق، والتقيؤ، وسوء وضع أنبوب التغذية الأنفية المعوية. التشخيص الأكثراحتمالاً هو:؟ أمامك هذه الخيارات: Duodenal atresia، أو Pyloric stenosis، أو Esophageal atresia، أو Diaphragmatic hernia، أو GERD. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط فرط اللعاب والاختناق عند الوليد بانعدام تصنع المريء (عدم اتصال المريء الطبيعي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط فرط اللعاب والاختناق عند الوليد بانعدام تصنع المريء (عدم اتصال المريء الطبيعي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Esophageal atresia",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Esophageal atresia"
+      },
+      "card_text": "فرط اللعاب والاختناق الفوري بالرضاعة عند الوليد يوجه لرتق المريء.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فرط اللعاب والاختناق الفوري بالرضاعة عند الوليد يوجه لرتق المريء. حرف S المزدوج يذكرك بالصورة الكلاسيكية الموجهة لرتق المريء."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Duodenal atresia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا choking with feeding. يصبح صحيحًا في سؤال يصف Duodenal atresia presents with bilious vomiting. الخيار B، Pyloric stenosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا immediate choking. يصبح صحيحًا في سؤال يصف pyloric stenosis presents later (around 2-6 weeks) with non-bilious projectile vomiting. الخيار D، Diaphragmatic hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا primarily choking on feeds. يصبح صحيحًا في سؤال يصف a diaphragmatic hernia presents with respiratory distress. الخيار E، GERD: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal atresia. يصبح صحيحًا في سؤال يصف GERD doesn't typically cause this severity of choking/gagging in a newborn — esophageal atresia (often with a fistula) classically causes immediate choking and hypersalivation from inability to swallow saliva.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Duodenal atresia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا choking with feeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Duodenal atresia presents with bilious vomiting."
+        },
+        {
+          "letter": "B",
+          "text": "Pyloric stenosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا immediate choking.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف pyloric stenosis presents later (around 2-6 weeks) with non-bilious projectile vomiting."
+        },
+        {
+          "letter": "C",
+          "text": "Esophageal atresia",
+          "verdict": "correct",
+          "reason": "فرط اللعاب والاختناق الفوري بالرضاعة عند الوليد يوجه لرتق المريء."
+        },
+        {
+          "letter": "D",
+          "text": "Diaphragmatic hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا primarily choking on feeds.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف a diaphragmatic hernia presents with respiratory distress."
+        },
+        {
+          "letter": "E",
+          "text": "GERD",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal atresia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GERD doesn't typically cause this severity of choking/gagging in a newborn — esophageal atresia (often with a fistula) classically causes…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار ناسورًا رغاميًا مريئيًا منفردًا، متناسيًا أن الصورة الكاملة (فرط لعاب شديد مع اختناق فوري بالرضاعة) توجه لرتق المريء تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار ناسورًا رغاميًا مريئيًا منفردًا، متناسيًا أن الصورة الكاملة (فرط لعاب شديد مع اختناق فوري بالرضاعة) توجه لرتق المريء تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Esophageal atresia",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Esophageal atresia"
+      },
+      "pills": [
+        "Newborn choking on saliva: Suspect Esophageal "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Esophageal atresia. فرط اللعاب والاختناق الفوري بالرضاعة عند الوليد يوجه لرتق المريء."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فرط اللعاب والاختناق الفوري بالرضاعة عند الوليد يوجه لرتق المريء. وتذكّر القاعدة: Newborn choking on saliva: Suspect Esophageal atresia. والإجابة الصحيحة هي C."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2013-16-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 16 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most important point, IV fluid burn patient",
+  "question_ar": "نقطة مهمة جدًا في السوائل الوريدية للمريض المصاب بالحروق:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 16,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Body surface area percentage"
+    },
+    {
+      "letter": "B",
+      "text": "Grade of burns"
+    },
+    {
+      "letter": "C",
+      "text": "Site of burns"
+    },
+    {
+      "letter": "D",
+      "text": "Type of burns"
+    },
+    {
+      "letter": "E",
+      "text": "Clinical picture of the patient"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Body surface area percentage",
+  "purpose_ar": "يريد التأكيد أن نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب السوائل الوريدية لمريض الحروق.",
+  "trap_ar": "الطالب قد يختار وزن المريض وحده، متناسيًا أن نسبة المساحة المحروقة هي المدخل الأساسي بمعادلات حساب السوائل كباركلاند.",
+  "summary_ar": "نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب سوائل الحروق.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most important point, IV fluid burn patient",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. نقطة مهمة جدًا في السوائل الوريدية للمريض المصاب بالحروق:؟ أمامك هذه الخيارات: Body surface area percentage، أو Grade of burns، أو Site of burns، أو Type of burns، أو Clinical picture of the patient. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب السوائل الوريدية لمريض الحروق.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب السوائل الوريدية لمريض الحروق."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Body surface area percentage",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب سوائل الحروق.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب سوائل الحروق. حرف B المزدوج يربط حساب السوائل بمساحة الحرق كعنصر أساسي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Grade of burns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Body surface area percentage. يصبح صحيحًا في سؤال يصف Grade of burns, site of burns, type of burns, and clinical picture all influence management, but body surface area percentage specifically drives the calculation of fluid resuscitation volume (via formulas like Parkland). الخيار C، Site of burns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Body surface area percentage. يصبح صحيحًا في سؤال يصف Grade of burns, site of burns, type of burns, and clinical picture all influence management, but body surface area percentage specifically drives the calculation of fluid resuscitation volume (via formulas like Parkland). الخيار D، Type of burns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Body surface area percentage. يصبح صحيحًا في سؤال يصف Grade of burns, site of burns, type of burns, and clinical picture all influence management, but body surface area percentage specifically drives the calculation of fluid resuscitation volume (via formulas like Parkland). الخيار E، Clinical picture of the patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Body surface area percentage. يصبح صحيحًا في سؤال يصف Grade of burns, site of burns, type of burns, and clinical picture all influence management, but body surface area percentage specifically drives the calculation of fluid resuscitation volume (via formulas like Parkland).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Body surface area percentage",
+          "verdict": "correct",
+          "reason": "نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب سوائل الحروق."
+        },
+        {
+          "letter": "B",
+          "text": "Grade of burns",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Body surface area percentage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Grade of burns, site of burns, type of burns, and clinical picture all influence management, but body surface area percentage specifically drives…"
+        },
+        {
+          "letter": "C",
+          "text": "Site of burns",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Body surface area percentage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Grade of burns, site of burns, type of burns, and clinical picture all influence management, but body surface area percentage specifically drives…"
+        },
+        {
+          "letter": "D",
+          "text": "Type of burns",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Body surface area percentage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Grade of burns, site of burns, type of burns, and clinical picture all influence management, but body surface area percentage specifically drives…"
+        },
+        {
+          "letter": "E",
+          "text": "Clinical picture of the patient",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Body surface area percentage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Grade of burns, site of burns, type of burns, and clinical picture all influence management, but body surface area percentage specifically drives…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار وزن المريض وحده، متناسيًا أن نسبة المساحة المحروقة هي المدخل الأساسي بمعادلات حساب السوائل كباركلاند.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار وزن المريض وحده، متناسيًا أن نسبة المساحة المحروقة هي المدخل الأساسي بمعادلات حساب السوائل كباركلاند."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Body surface area percentage",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Burn fluids: Based on Body surface area"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Body surface area percentage. نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب سوائل الحروق."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. نسبة مساحة سطح الجسم المحروقة هي العنصر الأهم بحساب سوائل الحروق. وتذكّر القاعدة: Burn fluids: Based on Body surface area. والإجابة الصحيحة هي A."
+    }
+  ]
+}

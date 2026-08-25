@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-51-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 51 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most significant initial complication, acute pancreatitis",
+  "question_ar": "المضاعفات الأولية الأكثر أهمية لالتهاب البنكرياس الحاد هي؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 51,
+  "options": [
+    {
+      "letter": "A",
+      "text": "DM"
+    },
+    {
+      "letter": "B",
+      "text": "Pseudocyst"
+    },
+    {
+      "letter": "C",
+      "text": "ARDS"
+    },
+    {
+      "letter": "D",
+      "text": "Exocrine insufficiency"
+    },
+    {
+      "letter": "E",
+      "text": "Hemorrhagic peritonitis"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "ARDS",
+  "purpose_ar": "يريد التأكيد أن متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الحاد الشديد.",
+  "trap_ar": "الطالب قد يختار الفشل الكلوي، متناسيًا أن ARDS يتصدر إحصائيًا كمضاعفة تنفسية مبكرة أخطر وأشيع بهذا السياق.",
+  "summary_ar": "متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الشديد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most significant initial complication, acute pancreatitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "ARDS"
+      },
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الأولية الأكثر أهمية لالتهاب البنكرياس الحاد هي؟ أمامك هذه الخيارات: DM، أو Pseudocyst، أو ARDS، أو Exocrine insufficiency، أو Hemorrhagic peritonitis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الحاد الشديد.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الحاد الشديد."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "ARDS",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "ARDS"
+      },
+      "card_text": "متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الشديد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الشديد. حروف A-R-D تلخص المضاعفة التنفسية الأخطر المبكرة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، DM: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ARDS. يصبح صحيحًا في سؤال يصف Diabetes mellitus, pseudocyst, and exocrine insufficiency are longer-term or chronic complications. الخيار B، Pseudocyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ARDS. يصبح صحيحًا في سؤال يصف Diabetes mellitus, pseudocyst, and exocrine insufficiency are longer-term or chronic complications. الخيار D، Exocrine insufficiency: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ARDS. يصبح صحيحًا في سؤال يصف Diabetes mellitus, pseudocyst, and exocrine insufficiency are longer-term or chronic complications. الخيار E، Hemorrhagic peritonitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ARDS. يصبح صحيحًا في سؤال يصف hemorrhagic peritonitis can occur but is less common as an early complication — ARDS is the most significant early life-threatening complication of severe acute pancreatitis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "DM",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ARDS.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes mellitus, pseudocyst, and exocrine insufficiency are longer-term or chronic complications."
+        },
+        {
+          "letter": "B",
+          "text": "Pseudocyst",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ARDS.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes mellitus, pseudocyst, and exocrine insufficiency are longer-term or chronic complications."
+        },
+        {
+          "letter": "C",
+          "text": "ARDS",
+          "verdict": "correct",
+          "reason": "متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الشديد."
+        },
+        {
+          "letter": "D",
+          "text": "Exocrine insufficiency",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ARDS.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes mellitus, pseudocyst, and exocrine insufficiency are longer-term or chronic complications."
+        },
+        {
+          "letter": "E",
+          "text": "Hemorrhagic peritonitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ARDS.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف hemorrhagic peritonitis can occur but is less common as an early complication — ARDS is the most significant early life-threatening complication…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الفشل الكلوي، متناسيًا أن ARDS يتصدر إحصائيًا كمضاعفة تنفسية مبكرة أخطر وأشيع بهذا السياق.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الفشل الكلوي، متناسيًا أن ARDS يتصدر إحصائيًا كمضاعفة تنفسية مبكرة أخطر وأشيع بهذا السياق."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. ARDS",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "ARDS"
+      },
+      "pills": [
+        "Severe pancreatitis: risks Acute Respiratory D"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: ARDS. متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الشديد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. متلازمة الضائقة التنفسية الحادة هي المضاعفة الأولية الأخطر لالتهاب البنكرياس الشديد. وتذكّر القاعدة: Severe pancreatitis: risks Acute Respiratory Distress. والإجابة الصحيحة هي C."
+    }
+  ]
+}

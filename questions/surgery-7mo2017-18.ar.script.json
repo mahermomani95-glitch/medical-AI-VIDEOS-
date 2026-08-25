@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2017-18-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2017 Course, Question 18 of 45",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "28yo, abdominal pain, previously healthy, ER (implied acute fatty liver/HELLP-like), LFT finding",
+  "question_ar": "امرأة تبلغ من العمر 28 عامًا، كانت تتمتع بصحة جيدة سابقًا، حضرت كحالةطارئة تعاني من ألم في البطن تفاقم بسبب وجبات دسمة، ويصاحبه يرقان،وقيء، وحكة، وبراز بلون الطين، وبول بلون الشاي، ولا تاريخ لفقدان الوزن. جميعها صحيحة باستثناء:؟",
+  "course_label": "Course: Surgery — 7th Month 2017 Course",
+  "question_number": 18,
+  "options": [
+    {
+      "letter": "A",
+      "text": "This patient need admission, pain killers and, IV fluids"
+    },
+    {
+      "letter": "B",
+      "text": "The most likely diagnosis gallstones and stone in the common bile duct"
+    },
+    {
+      "letter": "C",
+      "text": "The cause of clay color stool is absence of stercobilinogen from stool"
+    },
+    {
+      "letter": "D",
+      "text": "The cause of tea color urine is increased conjugated bilirubin in urine"
+    },
+    {
+      "letter": "E",
+      "text": "The serum liver function test will most likely show decreased alkaline phosphatase"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "The serum liver function test will most likely show decreased alkaline phosphatase",
+  "purpose_ar": "يريد التأكيد أن وظائف الكبد التركيبية (كالألبومين) قد تنخفض فعليًا بهذا السياق السريري، لا ترتفع فقط كإنزيمات تلف بسيطة.",
+  "trap_ar": "الطالب قد يظن كل شذوذ كبدي يعني ارتفاع الإنزيمات فقط، متناسيًا أن الوظيفة التركيبية (لا التلفية فقط) قد تتأثر بحالات كبدية حادة معينة.",
+  "summary_ar": "وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "28yo, abdominal pain, previously healthy, ER (implied acute ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The serum liver function test will mos"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 28 عامًا، كانت تتمتع بصحة جيدة سابقًا، حضرت كحالةطارئة تعاني من ألم في البطن تفاقم بسبب وجبات دسمة، ويصاحبه يرقان،وقيء، وحكة، وبراز بلون الطين، وبول بلون الشاي، ولا تاريخ لفقدان الوزن. جميعها صحيحة باستثناء:؟ أمامك هذه الخيارات: This patient need admission, pain killers and, IV fluids، أو The most likely diagnosis gallstones and stone in the common bile duct، أو The cause of clay color stool is absence of stercobilinogen from stool، أو The cause of tea color urine is increased conjugated bilirubin in urine، أو The serum liver function test will most likely show decreased alkaline phosphatase. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن وظائف الكبد التركيبية (كالألبومين) قد تنخفض فعليًا بهذا السياق السريري، لا ترتفع فقط كإنزيمات تلف بسيطة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن وظائف الكبد التركيبية (كالألبومين) قد تنخفض فعليًا بهذا السياق السريري، لا ترتفع فقط كإنزيمات تلف بسيطة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "The serum liver function test will mos",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The serum liver function test will mos"
+      },
+      "card_text": "وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة. حرف S و D يذكرانك بانخفاض الوظيفة التركيبية لا الإنزيمات فقط."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، This patient need admission, pain killers and, IV fluids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف Admission with pain control and IV fluids is reasonable supportive care. الخيار B، The most likely diagnosis gallstones and stone in the common bile duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف gallstones/CBD stone is a plausible but less specific diagnosis for this presentation. الخيار C، The cause of clay color stool is absence of stercobilinogen from stool: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) alkaline phosphatase, making E the false statement. يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for obstructive jaundice — however, obstructive causes typically show INCREASED (. الخيار D، The cause of tea color urine is increased conjugated bilirubin in urine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) alkaline phosphatase, making E the false statement. يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for obstructive jaundice — however, obstructive causes typically show INCREASED (.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "This patient need admission, pain killers and, IV fluids",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Admission with pain control and IV fluids is reasonable supportive care."
+        },
+        {
+          "letter": "B",
+          "text": "The most likely diagnosis gallstones and stone in the common bile duct",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف gallstones/CBD stone is a plausible but less specific diagnosis for this presentation."
+        },
+        {
+          "letter": "C",
+          "text": "The cause of clay color stool is absence of stercobilinogen from stool",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) alkaline phosphatase, making E the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for…"
+        },
+        {
+          "letter": "D",
+          "text": "The cause of tea color urine is increased conjugated bilirubin in urine",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) alkaline phosphatase, making E the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for…"
+        },
+        {
+          "letter": "E",
+          "text": "The serum liver function test will most likely show decreased alkaline phosphatase",
+          "verdict": "correct",
+          "reason": "وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن كل شذوذ كبدي يعني ارتفاع الإنزيمات فقط، متناسيًا أن الوظيفة التركيبية (لا التلفية فقط) قد تتأثر بحالات كبدية حادة معينة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن كل شذوذ كبدي يعني ارتفاع الإنزيمات فقط، متناسيًا أن الوظيفة التركيبية (لا التلفية فقط) قد تتأثر بحالات كبدية حادة معينة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. The serum liver function test will most likely s",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The serum liver function test will mos"
+      },
+      "pills": [
+        "Severe hepatic dysfunction: Synthetic function"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: The serum liver function test will most likely show decreased alkaline phosphatase. وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة. وتذكّر القاعدة: Severe hepatic dysfunction: Synthetic function Drops. والإجابة الصحيحة هي E."
+    }
+  ]
+}

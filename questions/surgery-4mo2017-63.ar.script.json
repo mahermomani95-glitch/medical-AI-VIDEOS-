@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2017-63-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 63 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common cause, non-pitting edema",
+  "question_ar": "السبب الأكثر شيوعًا للوذمة غير المنقّرة؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 63,
+  "options": [
+    {
+      "letter": "A",
+      "text": "latrogenic"
+    },
+    {
+      "letter": "B",
+      "text": "Filariasis"
+    },
+    {
+      "letter": "C",
+      "text": "Lymph node resection surgery"
+    },
+    {
+      "letter": "D",
+      "text": "Leptospirosis"
+    },
+    {
+      "letter": "E",
+      "text": "Chagas disease"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Lymph node resection surgery",
+  "purpose_ar": "يريد التأكيد أن استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية (لمفية).",
+  "trap_ar": "الطالب قد يختار قصور القلب (يسبب وذمة حفرية لا لاحفرية)، متناسيًا أن الوذمة اللاحفرية ترتبط تحديدًا بانسداد أو استئصال لمفاوي.",
+  "summary_ar": "استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common cause, non-pitting edema",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا للوذمة غير المنقّرة؟ أمامك هذه الخيارات: latrogenic، أو Filariasis، أو Lymph node resection surgery، أو Leptospirosis، أو Chagas disease. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية (لمفية).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية (لمفية)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Lymph node resection surgery",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية. حرف L المزدوج يربط الاستئصال اللمفاوي بموقعه كالسبب الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، latrogenic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery. يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes. الخيار B، Filariasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery. يصبح صحيحًا في سؤال يصف filariasis is a globally significant cause of lymphedema but less common than surgical causes in many practice settings — lymph node resection/dissection (as in cancer surgery) remains a very common cause of secondary lymphedema (non-pitting edema) in clinical practice. الخيار D، Leptospirosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery. يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes. الخيار E، Chagas disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery. يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "latrogenic",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes."
+        },
+        {
+          "letter": "B",
+          "text": "Filariasis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف filariasis is a globally significant cause of lymphedema but less common than surgical causes in many practice settings — lymph node…"
+        },
+        {
+          "letter": "C",
+          "text": "Lymph node resection surgery",
+          "verdict": "correct",
+          "reason": "استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية."
+        },
+        {
+          "letter": "D",
+          "text": "Leptospirosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes."
+        },
+        {
+          "letter": "E",
+          "text": "Chagas disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار قصور القلب (يسبب وذمة حفرية لا لاحفرية)، متناسيًا أن الوذمة اللاحفرية ترتبط تحديدًا بانسداد أو استئصال لمفاوي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار قصور القلب (يسبب وذمة حفرية لا لاحفرية)، متناسيًا أن الوذمة اللاحفرية ترتبط تحديدًا بانسداد أو استئصال لمفاوي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Lymph node resection surgery",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Non-pitting edema: mostly from Lymph node rese"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Lymph node resection surgery. استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية. وتذكّر القاعدة: Non-pitting edema: mostly from Lymph node resection. والإجابة الصحيحة هي C."
+    }
+  ]
+}

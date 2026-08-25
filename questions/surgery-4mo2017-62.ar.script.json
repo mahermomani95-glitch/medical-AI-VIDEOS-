@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-62-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 62 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "19yo, RTA, femur fracture, crush injury, 2-3 day later dyspnea/petechiae (implied), diagnosis",
+  "question_ar": "شاب يبلغ من العمر 19 عامًا، تعرض لحادث تصادم، وُجد أنه مصاب بكسرفي عظم الفخذ وإصابة سحق في قدمه. بعد التثبيت، أصيب بضيق فيالتنفس ونقص في الأكسجين. السبب الأكثر احتمالًا هو:؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 62,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Aspiration"
+    },
+    {
+      "letter": "B",
+      "text": "Atelectasis"
+    },
+    {
+      "letter": "C",
+      "text": "Fat embolism"
+    },
+    {
+      "letter": "D",
+      "text": "Fluid overload"
+    },
+    {
+      "letter": "E",
+      "text": "Pneumonia"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Fat embolism",
+  "purpose_ar": "يريد ربط كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي بمتلازمة الانصمام الدهني الكلاسيكية.",
+  "trap_ar": "الطالب قد يختار انصمامًا رئويًا خثاريًا مباشرًا، متناسيًا أن التوقيت المتأخر (48-72 ساعة) مع الطفح النمشي يوجه تحديدًا للانصمام الدهني لا الخثاري.",
+  "summary_ar": "كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "19yo, RTA, femur fracture, crush injury, 2-3 day later dyspn",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Fat embolism"
+      },
+      "narration": "لنبدأ بهذا السؤال. شاب يبلغ من العمر 19 عامًا، تعرض لحادث تصادم، وُجد أنه مصاب بكسرفي عظم الفخذ وإصابة سحق في قدمه. بعد التثبيت، أصيب بضيق فيالتنفس ونقص في الأكسجين. السبب الأكثر احتمالًا هو:؟ أمامك هذه الخيارات: Aspiration، أو Atelectasis، أو Fat embolism، أو Fluid overload، أو Pneumonia. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي بمتلازمة الانصمام الدهني الكلاسيكية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي بمتلازمة الانصمام الدهني الكلاسيكية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Fat embolism",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Fat embolism"
+      },
+      "card_text": "كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني. حرف F المزدوج يذكرك بهذه المتلازمة النوعية بعد كسور طويلة العظم."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Aspiration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism. يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and petechiae 2-3 days after long bone/crush injury, is the classic diagnosis here. الخيار B، Atelectasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism. يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and petechiae 2-3 days after long bone/crush injury, is the classic diagnosis here. الخيار D، Fluid overload: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism. يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and petechiae 2-3 days after long bone/crush injury, is the classic diagnosis here. الخيار E، Pneumonia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism. يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and petechiae 2-3 days after long bone/crush injury, is the classic diagnosis here.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Aspiration",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and…"
+        },
+        {
+          "letter": "B",
+          "text": "Atelectasis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and…"
+        },
+        {
+          "letter": "C",
+          "text": "Fat embolism",
+          "verdict": "correct",
+          "reason": "كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني."
+        },
+        {
+          "letter": "D",
+          "text": "Fluid overload",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and…"
+        },
+        {
+          "letter": "E",
+          "text": "Pneumonia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار انصمامًا رئويًا خثاريًا مباشرًا، متناسيًا أن التوقيت المتأخر (48-72 ساعة) مع الطفح النمشي يوجه تحديدًا للانصمام الدهني لا الخثاري.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار انصمامًا رئويًا خثاريًا مباشرًا، متناسيًا أن التوقيت المتأخر (48-72 ساعة) مع الطفح النمشي يوجه تحديدًا للانصمام الدهني لا الخثاري."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Fat embolism",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Fat embolism"
+      },
+      "pills": [
+        "Femur fracture, delayed distress + petechiae: "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Fat embolism. كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني. وتذكّر القاعدة: Femur fracture, delayed distress + petechiae: Fat embolism. والإجابة الصحيحة هي C."
+    }
+  ]
+}

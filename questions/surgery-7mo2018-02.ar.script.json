@@ -1,0 +1,143 @@
+{
+  "id": "surgery-7mo2018-02-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2018 Course, Question 2 of 53",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Mortality per 1000 population — all causes",
+  "question_ar": "معدل الوفيات من جميع أسباب الوفاة لكل 1000 من السكان يسمى",
+  "course_label": "Course: Surgery — 7th Month 2018 Course",
+  "question_number": 2,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Life expectancy"
+    },
+    {
+      "letter": "B",
+      "text": "Infant mortality rate"
+    },
+    {
+      "letter": "C",
+      "text": "Crude death rate"
+    },
+    {
+      "letter": "D",
+      "text": "Crude death radio"
+    },
+    {
+      "letter": "E",
+      "text": "Total death rate"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Crude death rate",
+  "purpose_ar": "حفظ تعريف معدل الوفيات الخام (Crude Death Rate) كمؤشر وبائي أساسي يحسب كل الوفيات من كل الأسباب لكل 1000 من السكان.",
+  "trap_ar": "قد يختار الطالب متوسط العمر المتوقع (A) لأنه أيضًا مؤشر سكاني شائع، لكنه يقيس شيئًا مختلفًا تمامًا (متوسط سنوات الحياة المتوقعة) وليس معدل الوفيات.",
+  "summary_ar": "احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Mortality per 1000 population — all causes",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. معدل الوفيات من جميع أسباب الوفاة لكل 1000 من السكان يسمى أمامك هذه الخيارات: Life expectancy، أو Infant mortality rate، أو Crude death rate، أو Crude death radio، أو Total death rate. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ تعريف معدل الوفيات الخام (Crude Death Rate) كمؤشر وبائي أساسي يحسب كل الوفيات من كل الأسباب لكل 1000 من السكان.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ تعريف معدل الوفيات الخام (Crude Death Rate) كمؤشر وبائي أساسي يحسب كل الوفيات من كل الأسباب لكل 1000 من السكان."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Crude death rate",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام. كلمة Crude تعني \"خام/غير منقّى\"، أي أنه يحسب كل الوفيات دون تصنيف حسب السبب أو العمر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Life expectancy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a death rate. يصبح صحيحًا في سؤال يصف Life expectancy measures average years of life. الخيار B، Infant mortality rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crude death rate. يصبح صحيحًا في سؤال يستهدف Infant mortality rate تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Crude death radio: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard distinct epidemiologic terms separate from the crude death rate itself. يصبح صحيحًا في سؤال يصف crude death ratio and total death rate. الخيار E، Total death rate: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard distinct epidemiologic terms separate from the crude death rate itself. يصبح صحيحًا في سؤال يصف crude death ratio and total death rate.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Life expectancy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a death rate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Life expectancy measures average years of life."
+        },
+        {
+          "letter": "B",
+          "text": "Infant mortality rate",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crude death rate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Infant mortality rate تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "Crude death rate",
+          "verdict": "correct",
+          "reason": "احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام."
+        },
+        {
+          "letter": "D",
+          "text": "Crude death radio",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard distinct epidemiologic terms separate from the crude death rate itself.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف crude death ratio and total death rate."
+        },
+        {
+          "letter": "E",
+          "text": "Total death rate",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard distinct epidemiologic terms separate from the crude death rate itself.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف crude death ratio and total death rate."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب متوسط العمر المتوقع (A) لأنه أيضًا مؤشر سكاني شائع، لكنه يقيس شيئًا مختلفًا تمامًا (متوسط سنوات الحياة المتوقعة) وليس معدل الوفيات.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب متوسط العمر المتوقع (A) لأنه أيضًا مؤشر سكاني شائع، لكنه يقيس شيئًا مختلفًا تمامًا (متوسط سنوات الحياة المتوقعة) وليس معدل الوفيات."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Crude death rate",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Crude = Counts everyone\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Crude death rate. احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام. وتذكّر القاعدة: \"Crude = Counts everyone\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

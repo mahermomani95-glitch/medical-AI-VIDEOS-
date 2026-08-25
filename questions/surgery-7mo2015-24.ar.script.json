@@ -1,0 +1,138 @@
+{
+  "id": "surgery-7mo2015-24-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 24 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common congenital abnormality requiring splenectomy",
+  "question_ar": "أكثر التشوهات الخلقية شيوعًا والتي تتطلب استئصال الطحال هي؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 24,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hereditary spherocytosis"
+    },
+    {
+      "letter": "B",
+      "text": "Hereditary elliptocytosis"
+    },
+    {
+      "letter": "C",
+      "text": "Protein kinase deficiency"
+    },
+    {
+      "letter": "D",
+      "text": "B-Thalassemia minor"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Hereditary spherocytosis",
+  "purpose_ar": "يريد التأكيد أن الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال.",
+  "trap_ar": "الطالب قد يختار داء منجلي أو ثلاسيميا، متناسيًا أن الكروية الوراثية تتصدر إحصائيًا كالسبب الخلقي الأشيع لهذه الجراحة.",
+  "summary_ar": "الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common congenital abnormality requiring splenectomy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hereditary spherocytosis"
+      },
+      "narration": "لنبدأ بهذا السؤال. أكثر التشوهات الخلقية شيوعًا والتي تتطلب استئصال الطحال هي؟ أمامك هذه الخيارات: Hereditary spherocytosis، أو Hereditary elliptocytosis، أو Protein kinase deficiency، أو B-Thalassemia minor. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Hereditary spherocytosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hereditary spherocytosis"
+      },
+      "card_text": "الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال. حرف S المزدوج يربط الكروية الوراثية بموقعها كالسبب الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hereditary elliptocytosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis. يصبح صحيحًا في سؤال يصف Hereditary elliptocytosis, pyruvate kinase deficiency (C, more classic than 'protein kinase'), and beta-thalassemia minor (D, rarely requires splenectomy) are less common indications than hereditary spherocytosis, which remains the most common congenital hemolytic anemia requiring splenectomy. الخيار C، Protein kinase deficiency: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis. يصبح صحيحًا في سؤال يصف Hereditary elliptocytosis, pyruvate kinase deficiency (C, more classic than 'protein kinase'), and beta-thalassemia minor (D, rarely requires splenectomy) are less common indications than hereditary spherocytosis, which remains the most common congenital hemolytic anemia requiring splenectomy. الخيار D، B-Thalassemia minor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis. يصبح صحيحًا في سؤال يستهدف B-Thalassemia minor تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Hereditary spherocytosis",
+          "verdict": "correct",
+          "reason": "الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال."
+        },
+        {
+          "letter": "B",
+          "text": "Hereditary elliptocytosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hereditary elliptocytosis, pyruvate kinase deficiency (C, more classic than 'protein kinase'), and beta-thalassemia minor (D, rarely requires…"
+        },
+        {
+          "letter": "C",
+          "text": "Protein kinase deficiency",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hereditary elliptocytosis, pyruvate kinase deficiency (C, more classic than 'protein kinase'), and beta-thalassemia minor (D, rarely requires…"
+        },
+        {
+          "letter": "D",
+          "text": "B-Thalassemia minor",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف B-Thalassemia minor تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار داء منجلي أو ثلاسيميا، متناسيًا أن الكروية الوراثية تتصدر إحصائيًا كالسبب الخلقي الأشيع لهذه الجراحة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار داء منجلي أو ثلاسيميا، متناسيًا أن الكروية الوراثية تتصدر إحصائيًا كالسبب الخلقي الأشيع لهذه الجراحة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Hereditary spherocytosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Hereditary spherocytosis"
+      },
+      "pills": [
+        "Splenectomy in congenital disease: mostly Sphe"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Hereditary spherocytosis. الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال. وتذكّر القاعدة: Splenectomy in congenital disease: mostly Spherocytosis. والإجابة الصحيحة هي A."
+    }
+  ]
+}

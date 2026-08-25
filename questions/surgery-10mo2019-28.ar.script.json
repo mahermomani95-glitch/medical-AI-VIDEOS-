@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-28-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 28 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "68F + rapid abdominal distension + coffee bean sign on X-ray",
+  "question_ar": "أُحضرت امرأة تبلغ من العمر 68 عامًا تعاني من إمساك مزمن، ولديها تاريخمن انتفاخ البطن السريع والإمساك. وقد عانت سابقًا من نوبات مماثلة عولجتتحفظيًا. أظهرت الأشعة السينية للبطن علامة \"حبة البن\". الخطوة التاليةالأنسب للعلاج هي تشخيص حالتها على الأرجح.",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 28,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Emergency laparotomy"
+    },
+    {
+      "letter": "B",
+      "text": "Emergency laparoscopy"
+    },
+    {
+      "letter": "C",
+      "text": "Urgent colonoscopic detortion"
+    },
+    {
+      "letter": "D",
+      "text": "Trial with conservative management"
+    },
+    {
+      "letter": "E",
+      "text": "Trial with a hydrostatic enema."
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Urgent colonoscopic detortion",
+  "purpose_ar": "حفظ العلاج الأول الصحيح للالتواء السيني غير المعقد (فك الالتواء بالتنظير العاجل) قبل اللجوء للجراحة، إلا في حال وجود اختناق أو انثقاب.",
+  "trap_ar": "قد يختار الطالب الجراحة الطارئة (A أو B) مباشرة لأن التهديد يبدو خطيرًا (انتفاخ سريع)، متجاهلاً أن فك الالتواء بالتنظير هو الخط الأول الأقل توغلًا عند غياب علامات الاختناق أو الانثقاب.",
+  "summary_ar": "علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "68F + rapid abdominal distension + coffee bean sign on X-ray",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urgent colonoscopic detortion"
+      },
+      "narration": "لنبدأ بهذا السؤال. أُحضرت امرأة تبلغ من العمر 68 عامًا تعاني من إمساك مزمن، ولديها تاريخمن انتفاخ البطن السريع والإمساك. وقد عانت سابقًا من نوبات مماثلة عولجتتحفظيًا. أظهرت الأشعة السينية للبطن علامة \"حبة البن\". الخطوة التاليةالأنسب للعلاج هي تشخيص حالتها على الأرجح. أمامك هذه الخيارات: Emergency laparotomy، أو Emergency laparoscopy، أو Urgent colonoscopic detortion، أو Trial with conservative management، أو Trial with a hydrostatic enema.. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ العلاج الأول الصحيح للالتواء السيني غير المعقد (فك الالتواء بالتنظير العاجل) قبل اللجوء للجراحة، إلا في حال وجود اختناق أو انثقاب.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ العلاج الأول الصحيح للالتواء السيني غير المعقد (فك الالتواء بالتنظير العاجل) قبل اللجوء للجراحة، إلا في حال وجود اختناق أو انثقاب."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Urgent colonoscopic detortion",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urgent colonoscopic detortion"
+      },
+      "card_text": "علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول. علامة حبة القهوة (أو U المقلوبة) على الأشعة العادية للبطن تؤكد تشخيص الالتواء السيني، ويكون فك الالتواء بالتنظير الخط العلاجي الأول ما لم توجد علامات اختناق أو انثقاب."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Emergency laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion. يصبح صحيحًا في سؤال يصف Emergency laparotomy and laparoscopy are too invasive as first steps. الخيار B، Emergency laparoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion. يصبح صحيحًا في سؤال يصف Emergency laparotomy and laparoscopy are too invasive as first steps. الخيار D، Trial with conservative management: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the mechanical obstruction. يصبح صحيحًا في سؤال يصف conservative management alone. الخيار E، Trial with a hydrostatic enema.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion. يصبح صحيحًا في سؤال يصف a hydrostatic (barium/water) enema is more the pediatric approach — adult intussusception typically needs surgical exploration given the likelihood of a pathologic lead point.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Emergency laparotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Emergency laparotomy and laparoscopy are too invasive as first steps."
+        },
+        {
+          "letter": "B",
+          "text": "Emergency laparoscopy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Emergency laparotomy and laparoscopy are too invasive as first steps."
+        },
+        {
+          "letter": "C",
+          "text": "Urgent colonoscopic detortion",
+          "verdict": "correct",
+          "reason": "علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول."
+        },
+        {
+          "letter": "D",
+          "text": "Trial with conservative management",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the mechanical obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف conservative management alone."
+        },
+        {
+          "letter": "E",
+          "text": "Trial with a hydrostatic enema.",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف a hydrostatic (barium/water) enema is more the pediatric approach — adult intussusception typically needs surgical exploration given the…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الجراحة الطارئة (A أو B) مباشرة لأن التهديد يبدو خطيرًا (انتفاخ سريع)، متجاهلاً أن فك الالتواء بالتنظير هو الخط الأول الأقل توغلًا عند غياب علامات الاختناق أو الانثقاب.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الجراحة الطارئة (A أو B) مباشرة لأن التهديد يبدو خطيرًا (انتفاخ سريع)، متجاهلاً أن فك الالتواء بالتنظير هو الخط الأول الأقل توغلًا عند غياب علامات الاختناق أو الانثقاب."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Urgent colonoscopic detortion",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Urgent colonoscopic detortion"
+      },
+      "pills": [
+        "\"Coffee bean sign = sigmoid volvulus, try colo"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Urgent colonoscopic detortion. علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول. وتذكّر القاعدة: \"Coffee bean sign = sigmoid volvulus, try colonoscopic detorsion first\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

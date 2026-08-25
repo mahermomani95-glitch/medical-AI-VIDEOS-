@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-38-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 38 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Management of pancreatic lymphoma",
+  "question_ar": "تتم إدارة سرطان الغدد الليمفاوية البنكرياسية عن طريق؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 38,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Pancreaticoduodenectomy"
+    },
+    {
+      "letter": "B",
+      "text": "Chemotherapy"
+    },
+    {
+      "letter": "C",
+      "text": "Radiotherapy"
+    },
+    {
+      "letter": "D",
+      "text": "Pancreaticoduodenectomy followed by radio"
+    },
+    {
+      "letter": "E",
+      "text": "Chemo_radio therapy"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Chemotherapy",
+  "purpose_ar": "يريد التأكيد أن العلاج الكيميائي هو نهج إدارة الليمفوما البنكرياسية (بخلاف السرطان الغدي البنكرياسي).",
+  "trap_ar": "الطالب قد يختار الاستئصال الجراحي (المعتاد بسرطان البنكرياس الغدي)، متناسيًا أن الليمفوما مرض جهازي يستجيب للعلاج الكيميائي لا الجراحة.",
+  "summary_ar": "الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Management of pancreatic lymphoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Chemotherapy"
+      },
+      "narration": "لنبدأ بهذا السؤال. تتم إدارة سرطان الغدد الليمفاوية البنكرياسية عن طريق؟ أمامك هذه الخيارات: Pancreaticoduodenectomy، أو Chemotherapy، أو Radiotherapy، أو Pancreaticoduodenectomy followed by radio، أو Chemo_radio therapy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن العلاج الكيميائي هو نهج إدارة الليمفوما البنكرياسية (بخلاف السرطان الغدي البنكرياسي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن العلاج الكيميائي هو نهج إدارة الليمفوما البنكرياسية (بخلاف السرطان الغدي البنكرياسي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Chemotherapy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Chemotherapy"
+      },
+      "card_text": "الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي. حرف C المزدوج يذكرك بالنهج العلاجي الجهازي المناسب."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pancreaticoduodenectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding unnecessary radical surgery. يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy. الخيار C، Radiotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding unnecessary radical surgery. يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy. الخيار D، Pancreaticoduodenectomy followed by radio: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding unnecessary radical surgery. يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy. الخيار E، Chemo_radio therapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding unnecessary radical surgery. يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Pancreaticoduodenectomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy."
+        },
+        {
+          "letter": "B",
+          "text": "Chemotherapy",
+          "verdict": "correct",
+          "reason": "الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي."
+        },
+        {
+          "letter": "C",
+          "text": "Radiotherapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy."
+        },
+        {
+          "letter": "D",
+          "text": "Pancreaticoduodenectomy followed by radio",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy."
+        },
+        {
+          "letter": "E",
+          "text": "Chemo_radio therapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الاستئصال الجراحي (المعتاد بسرطان البنكرياس الغدي)، متناسيًا أن الليمفوما مرض جهازي يستجيب للعلاج الكيميائي لا الجراحة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الاستئصال الجراحي (المعتاد بسرطان البنكرياس الغدي)، متناسيًا أن الليمفوما مرض جهازي يستجيب للعلاج الكيميائي لا الجراحة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Chemotherapy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Chemotherapy"
+      },
+      "pills": [
+        "Pancreatic lymphoma: managed by Chemotherapy"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Chemotherapy. الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي. وتذكّر القاعدة: Pancreatic lymphoma: managed by Chemotherapy. والإجابة الصحيحة هي B."
+    }
+  ]
+}

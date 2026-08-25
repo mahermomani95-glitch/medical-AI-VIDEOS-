@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2020-07-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 7 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Chest/face burn + inflamed oral mucosa + black sputum",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 7,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Give analgesic"
+    },
+    {
+      "letter": "B",
+      "text": "Intubation"
+    },
+    {
+      "letter": "C",
+      "text": "Give I.V fluid"
+    },
+    {
+      "letter": "D",
+      "text": "Broad-spectrum antibiotics"
+    },
+    {
+      "letter": "E",
+      "text": "High-dose corticosteroids"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Intubation",
+  "purpose_ar": "التعرف على علامات إصابة الاستنشاق الحراري المبكرة (بلغم أسود، التهاب مخاطية فموية) واتخاذ القرار الاستباقي بالتنبيب فورًا.",
+  "trap_ar": "قد يختار الطالب الإرواء الوريدي (C) كخطوة أولى منطقية لأي حرق كبير، متجاهلاً أن علامات إصابة مجرى الهواء الواضحة هنا (بلغم أسود، التهاب فموي) تجعل تأمين المجرى الأولوية القصوى الفورية.",
+  "summary_ar": "بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Chest/face burn + inflamed oral mucosa + black sputum",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Intubation"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Give analgesic، أو Intubation، أو Give I.V fluid، أو Broad-spectrum antibiotics، أو High-dose corticosteroids. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على علامات إصابة الاستنشاق الحراري المبكرة (بلغم أسود، التهاب مخاطية فموية) واتخاذ القرار الاستباقي بالتنبيب فورًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على علامات إصابة الاستنشاق الحراري المبكرة (بلغم أسود، التهاب مخاطية فموية) واتخاذ القرار الاستباقي بالتنبيب فورًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Intubation",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Intubation"
+      },
+      "card_text": "بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا. البلغم الأسود (المحتوي على سخام) مع التهاب المخاطية الفموية هما العلامتان الكلاسيكيتان لإصابة الاستنشاق الحراري، وتستدعيان تأمين مجرى الهواء الاستباقي فورًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Give analgesic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف Analgesics manage symptoms but aren't the priority. الخيار C، Give I.V fluid: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف IV fluids are important but secondary to airway in this specific facial-burn-with-hoarseness scenario. الخيار D، Broad-spectrum antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف broad-spectrum antibiotics and high-dose corticosteroids don't address the immediate airway threat from developing edema — intubation takes priority. الخيار E، High-dose corticosteroids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف broad-spectrum antibiotics and high-dose corticosteroids don't address the immediate airway threat from developing edema — intubation takes priority.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Give analgesic",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Analgesics manage symptoms but aren't the priority."
+        },
+        {
+          "letter": "B",
+          "text": "Intubation",
+          "verdict": "correct",
+          "reason": "بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا."
+        },
+        {
+          "letter": "C",
+          "text": "Give I.V fluid",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف IV fluids are important but secondary to airway in this specific facial-burn-with-hoarseness scenario."
+        },
+        {
+          "letter": "D",
+          "text": "Broad-spectrum antibiotics",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف broad-spectrum antibiotics and high-dose corticosteroids don't address the immediate airway threat from developing edema — intubation takes…"
+        },
+        {
+          "letter": "E",
+          "text": "High-dose corticosteroids",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف broad-spectrum antibiotics and high-dose corticosteroids don't address the immediate airway threat from developing edema — intubation takes…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الإرواء الوريدي (C) كخطوة أولى منطقية لأي حرق كبير، متجاهلاً أن علامات إصابة مجرى الهواء الواضحة هنا (بلغم أسود، التهاب فموي) تجعل تأمين المجرى الأولوية القصوى الفورية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الإرواء الوريدي (C) كخطوة أولى منطقية لأي حرق كبير، متجاهلاً أن علامات إصابة مجرى الهواء الواضحة هنا (بلغم أسود، التهاب فموي) تجعل تأمين المجرى الأولوية القصوى الفورية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Intubation",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Intubation"
+      },
+      "pills": [
+        "\"Sooty sputum + oral burns = Inhalation injury"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Intubation. بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا. وتذكّر القاعدة: \"Sooty sputum + oral burns = Inhalation injury = Intubate NOW\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2021-13-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2021 Course, Question 13 of 18",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most important and clinically useful breast cancer risk factors",
+  "question_ar": "ما هي أهم عوامل الخطر السريرية المفيدة لسرطان الثدي؟",
+  "course_label": "Course: Surgery — 12th Month 2021 Course",
+  "question_number": 13,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Fibrocystic disease, age, gender"
+    },
+    {
+      "letter": "B",
+      "text": "Cysts, family history, immediate relatives and gender"
+    },
+    {
+      "letter": "C",
+      "text": "Age, gender, and family history in immediate relatives"
+    },
+    {
+      "letter": "D",
+      "text": "Obesity and alcohol use"
+    },
+    {
+      "letter": "E",
+      "text": "Nulliparity"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Age, gender, and family history in immediate relatives",
+  "purpose_ar": "حفظ الثلاثية الأهم والأكثر فائدة سريريًا من عوامل خطر سرطان الثدي (العمر، الجنس، القصة العائلية) من بين قائمة أطول من العوامل الأقل قوة إحصائيًا.",
+  "trap_ar": "قد يختار الطالب السمنة وتناول الكحول (D) أو عدم الإنجاب (E) لأنها عوامل خطر حقيقية مذكورة كثيرًا، متجاهلاً أنها أضعف تأثيرًا وأقل فائدة سريرية من الثلاثية الأساسية.",
+  "summary_ar": "العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most important and clinically useful breast cancer risk fact",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Age, gender, and family history in imm"
+      },
+      "narration": "لنبدأ بهذا السؤال. ما هي أهم عوامل الخطر السريرية المفيدة لسرطان الثدي؟ أمامك هذه الخيارات: Fibrocystic disease, age, gender، أو Cysts, family history, immediate relatives and gender، أو Age, gender, and family history in immediate relatives، أو Obesity and alcohol use، أو Nulliparity. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ الثلاثية الأهم والأكثر فائدة سريريًا من عوامل خطر سرطان الثدي (العمر، الجنس، القصة العائلية) من بين قائمة أطول من العوامل الأقل قوة إحصائيًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ الثلاثية الأهم والأكثر فائدة سريريًا من عوامل خطر سرطان الثدي (العمر، الجنس، القصة العائلية) من بين قائمة أطول من العوامل الأقل قوة إحصائيًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Age, gender, and family history in imm",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Age, gender, and family history in imm"
+      },
+      "card_text": "العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا. من بين عشرات عوامل الخطر المذكورة في الأدبيات، تبقى الثلاثية (العمر، الجنس الأنثوي، القصة العائلية بالأقارب من الدرجة الأولى) هي الأقوى والأكثر استخدامًا عمليًا في التقييم السريري."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fibrocystic disease, age, gender: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives. يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or associations, but the combination of age, gender, and family history in immediate relatives remains the most clinically useful and actionable set for risk assessment. الخيار B، Cysts, family history, immediate relatives and gender: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives. يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or associations, but the combination of age, gender, and family history in immediate relatives remains the most clinically useful and actionable set for risk assessment. الخيار D، Obesity and alcohol use: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives. يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or associations, but the combination of age, gender, and family history in immediate relatives remains the most clinically useful and actionable set for risk assessment. الخيار E، Nulliparity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives. يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or associations, but the combination of age, gender, and family history in immediate relatives remains the most clinically useful and actionable set for risk assessment.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Fibrocystic disease, age, gender",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or…"
+        },
+        {
+          "letter": "B",
+          "text": "Cysts, family history, immediate relatives and gender",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or…"
+        },
+        {
+          "letter": "C",
+          "text": "Age, gender, and family history in immediate relatives",
+          "verdict": "correct",
+          "reason": "العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا."
+        },
+        {
+          "letter": "D",
+          "text": "Obesity and alcohol use",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or…"
+        },
+        {
+          "letter": "E",
+          "text": "Nulliparity",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب السمنة وتناول الكحول (D) أو عدم الإنجاب (E) لأنها عوامل خطر حقيقية مذكورة كثيرًا، متجاهلاً أنها أضعف تأثيرًا وأقل فائدة سريرية من الثلاثية الأساسية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب السمنة وتناول الكحول (D) أو عدم الإنجاب (E) لأنها عوامل خطر حقيقية مذكورة كثيرًا، متجاهلاً أنها أضعف تأثيرًا وأقل فائدة سريرية من الثلاثية الأساسية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Age, gender, and family history in immediate rel",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Age, gender, and family history in imm"
+      },
+      "pills": [
+        "\"Age, gender, family history = the 'big 3' cli"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Age, gender, and family history in immediate relatives. العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا. وتذكّر القاعدة: \"Age, gender, family history = the 'big 3' clinically useful risk factors\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

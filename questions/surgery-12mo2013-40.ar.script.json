@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2013-40-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 40 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Etiology of anal fistula",
+  "question_ar": "تشمل أسباب الناسور الشرجي ما يلي:؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 40,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Anal gland infection"
+    },
+    {
+      "letter": "B",
+      "text": "Ulcerative colitis"
+    },
+    {
+      "letter": "C",
+      "text": "Ischemic colitis"
+    },
+    {
+      "letter": "D",
+      "text": "Anal warts"
+    },
+    {
+      "letter": "E",
+      "text": "Levator ani syndrome"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Anal gland infection",
+  "purpose_ar": "يريد التأكيد أن عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية.",
+  "trap_ar": "الطالب قد يختار سببًا آخر أقل شيوعًا، متناسيًا أن العدوى الغدية الشرجية تتصدر إحصائيًا كل أسباب النواسير الشرجية.",
+  "summary_ar": "عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Etiology of anal fistula",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. تشمل أسباب الناسور الشرجي ما يلي:؟ أمامك هذه الخيارات: Anal gland infection، أو Ulcerative colitis، أو Ischemic colitis، أو Anal warts، أو Levator ani syndrome. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Anal gland infection",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية. حرف G المزدوج يربط العدوى الغدية بموقعها كالمنشأ الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology. يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome. الخيار C، Ischemic colitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology. يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome. الخيار D، Anal warts: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology. يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome. الخيار E، Levator ani syndrome: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology. يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Anal gland infection",
+          "verdict": "correct",
+          "reason": "عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية."
+        },
+        {
+          "letter": "B",
+          "text": "Ulcerative colitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome."
+        },
+        {
+          "letter": "C",
+          "text": "Ischemic colitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome."
+        },
+        {
+          "letter": "D",
+          "text": "Anal warts",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome."
+        },
+        {
+          "letter": "E",
+          "text": "Levator ani syndrome",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار سببًا آخر أقل شيوعًا، متناسيًا أن العدوى الغدية الشرجية تتصدر إحصائيًا كل أسباب النواسير الشرجية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار سببًا آخر أقل شيوعًا، متناسيًا أن العدوى الغدية الشرجية تتصدر إحصائيًا كل أسباب النواسير الشرجية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Anal gland infection",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Anal fistula: mostly from Gland infection"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Anal gland infection. عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية. وتذكّر القاعدة: Anal fistula: mostly from Gland infection. والإجابة الصحيحة هي A."
+    }
+  ]
+}

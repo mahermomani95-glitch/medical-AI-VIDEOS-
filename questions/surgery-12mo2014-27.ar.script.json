@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2014-27-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2014 Course, Question 27 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Gastric cancer risk factors, EXCEPT",
+  "question_ar": "وقد تم الإبلاغ عن أن كل ما يلي يزيد من خطر الإصابة بسرطان المعدةباستثناء؟",
+  "course_label": "Course: Surgery — 12th Month 2014 Course",
+  "question_number": 27,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Smoking"
+    },
+    {
+      "letter": "B",
+      "text": "Alcohol"
+    },
+    {
+      "letter": "C",
+      "text": "H. Pylori infection"
+    },
+    {
+      "letter": "D",
+      "text": "Chronic atrophic gastritis"
+    },
+    {
+      "letter": "E",
+      "text": "Diet low in nitrates"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Diet low in nitrates",
+  "purpose_ar": "يريد التأكيد أن النظام الغذائي منخفض النترات وقائي فعليًا، لا عامل خطر كما بالعبارة الخاطئة (النظام المرتفع بالنترات هو الخطر الحقيقي).",
+  "trap_ar": "الطالب قد يقبل 'نظام منخفض النترات' كعامل خطر، متناسيًا أن الاتجاه الصحيح معاكس تمامًا: ارتفاع النترات هو الخطر لا انخفاضها.",
+  "summary_ar": "النظام منخفض النترات وقائي، والنظام المرتفع بالنترات هو الخطر الحقيقي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Gastric cancer risk factors, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diet low in nitrates"
+      },
+      "narration": "لنبدأ بهذا السؤال. وقد تم الإبلاغ عن أن كل ما يلي يزيد من خطر الإصابة بسرطان المعدةباستثناء؟ أمامك هذه الخيارات: Smoking، أو Alcohol، أو H. Pylori infection، أو Chronic atrophic gastritis، أو Diet low in nitrates. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن النظام الغذائي منخفض النترات وقائي فعليًا، لا عامل خطر كما بالعبارة الخاطئة (النظام المرتفع بالنترات هو الخطر الحقيقي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن النظام الغذائي منخفض النترات وقائي فعليًا، لا عامل خطر كما بالعبارة الخاطئة (النظام المرتفع بالنترات هو الخطر الحقيقي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Diet low in nitrates",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diet low in nitrates"
+      },
+      "card_text": "النظام منخفض النترات وقائي، والنظام المرتفع بالنترات هو الخطر الحقيقي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. النظام منخفض النترات وقائي، والنظام المرتفع بالنترات هو الخطر الحقيقي. حرف L المزدوج يذكرك أن انخفاض النترات وقائي لا خطر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Smoking: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates. يصبح صحيحًا في سؤال يستهدف Smoking تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Alcohol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates. يصبح صحيحًا في سؤال يستهدف Alcohol تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، H. Pylori infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates. يصبح صحيحًا في سؤال يستهدف H. Pylori infection تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Chronic atrophic gastritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates. يصبح صحيحًا في سؤال يصف chronic atrophic gastritis are all established gastric cancer risk factors.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Smoking",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Smoking تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "B",
+          "text": "Alcohol",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Alcohol تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "H. Pylori infection",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف H. Pylori infection تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Chronic atrophic gastritis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diet low in nitrates.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف chronic atrophic gastritis are all established gastric cancer risk factors."
+        },
+        {
+          "letter": "E",
+          "text": "Diet low in nitrates",
+          "verdict": "correct",
+          "reason": "النظام منخفض النترات وقائي، والنظام المرتفع بالنترات هو الخطر الحقيقي."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل 'نظام منخفض النترات' كعامل خطر، متناسيًا أن الاتجاه الصحيح معاكس تمامًا: ارتفاع النترات هو الخطر لا انخفاضها.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل 'نظام منخفض النترات' كعامل خطر، متناسيًا أن الاتجاه الصحيح معاكس تمامًا: ارتفاع النترات هو الخطر لا انخفاضها."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Diet low in nitrates",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Diet low in nitrates"
+      },
+      "pills": [
+        "Low-nitrate diet: Lowers risk, doesn't raise i"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Diet low in nitrates. النظام منخفض النترات وقائي، والنظام المرتفع بالنترات هو الخطر الحقيقي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. النظام منخفض النترات وقائي، والنظام المرتفع بالنترات هو الخطر الحقيقي. وتذكّر القاعدة: Low-nitrate diet: Lowers risk, doesn't raise it. والإجابة الصحيحة هي E."
+    }
+  ]
+}

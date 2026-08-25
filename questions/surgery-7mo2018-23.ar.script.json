@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2018-23-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2018 Course, Question 23 of 53",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Head trauma + lucid interval + fixed dilated pupil",
+  "question_ar": "أُدخل مريضٌ مدمنٌ على الكحول إلى المستشفى بعد 30 دقيقة من المشاجرة،وكان في حالةٍ من الإثارة، وظهرت عليه كدماتٌ وسحجاتٌ في المنطقة الصدغيةاليسرى. بعد 6 ساعات، انخفض وعيه إلى 8 نقاطٍ بسبب متلازمةجلوكوكورتيكويد، وضعفٌ في الأطراف اليمنى، وتوسُّعٌ في حدقة العين اليسرى. ما هو السبب الأكثر ترجيحًا؟",
+  "course_label": "Course: Surgery — 7th Month 2018 Course",
+  "question_number": 23,
+  "options": [
+    {
+      "letter": "A",
+      "text": "SAH"
+    },
+    {
+      "letter": "B",
+      "text": "Subdural hematoma"
+    },
+    {
+      "letter": "C",
+      "text": "Intraventricular hemorrhage"
+    },
+    {
+      "letter": "D",
+      "text": "Focal edema of the brain"
+    },
+    {
+      "letter": "E",
+      "text": "Alcoholic coma"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Subdural hematoma",
+  "purpose_ar": "التفريق بين النزف تحت الجافية (تدهور تدريجي خلال ساعات، أشيع عند الكحوليين وكبار السن بسبب هشاشة الأوردة الجسرية) والنزف فوق الجافية (تدهور أسرع مع فاصل لوسيدي أقصر، مرتبط بكسر صدغي وتمزق الشريان السحائي الأوسط).",
+  "trap_ar": "قد يختار الطالب النزف فوق الجافية (غير مذكور هنا كخيار لكن الفكرة قد تُربك) أو النزف تحت العنكبوتية (A) لأن الصداع المفاجئ الشديد هو الصورة النمطية له، متجاهلاً أن الصورة السريرية هنا (تدهور تدريجي خلال ساعات عند كحولي) أنسب لتحت الجافية.",
+  "summary_ar": "اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Head trauma + lucid interval + fixed dilated pupil",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Subdural hematoma"
+      },
+      "narration": "لنبدأ بهذا السؤال. أُدخل مريضٌ مدمنٌ على الكحول إلى المستشفى بعد 30 دقيقة من المشاجرة،وكان في حالةٍ من الإثارة، وظهرت عليه كدماتٌ وسحجاتٌ في المنطقة الصدغيةاليسرى. بعد 6 ساعات، انخفض وعيه إلى 8 نقاطٍ بسبب متلازمةجلوكوكورتيكويد، وضعفٌ في الأطراف اليمنى، وتوسُّعٌ في حدقة العين اليسرى. ما هو السبب الأكثر ترجيحًا؟ أمامك هذه الخيارات: SAH، أو Subdural hematoma، أو Intraventricular hemorrhage، أو Focal edema of the brain، أو Alcoholic coma. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التفريق بين النزف تحت الجافية (تدهور تدريجي خلال ساعات، أشيع عند الكحوليين وكبار السن بسبب هشاشة الأوردة الجسرية) والنزف فوق الجافية (تدهور أسرع مع فاصل لوسيدي أقصر، مرتبط بكسر صدغي وتمزق الشريان السحائي الأوسط).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التفريق بين النزف تحت الجافية (تدهور تدريجي خلال ساعات، أشيع عند الكحوليين وكبار السن بسبب هشاشة الأوردة الجسرية) والنزف فوق الجافية (تدهور أسرع مع فاصل لوسيدي أقصر، مرتبط بكسر صدغي وتمزق الشريان السحائي الأوسط)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Subdural hematoma",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Subdural hematoma"
+      },
+      "card_text": "اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة. الدماغ الضامر عند الكحوليين يجعل الأوردة الجسرية أكثر عرضة للتمزق والنزف البطيء تحت الجافية على مدى ساعات، بعكس فاصل اللوسيديّة السريع للنزف فوق الجافية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، SAH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a gradual decline over hours. يصبح صحيحًا في سؤال يصف Subarachnoid hemorrhage typically presents with sudden severe headache. الخيار C، Intraventricular hemorrhage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subdural hematoma. يصبح صحيحًا في سؤال يصف intraventricular hemorrhage and focal cerebral edema don't classically produce this exact lucid-then-declining pattern. الخيار D، Focal edema of the brain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subdural hematoma. يصبح صحيحًا في سؤال يصف intraventricular hemorrhage and focal cerebral edema don't classically produce this exact lucid-then-declining pattern. الخيار E، Alcoholic coma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا explain the unilateral pupil dilation and focal weakness. يصبح صحيحًا في سؤال يصف alcoholic coma alone.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "SAH",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a gradual decline over hours.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Subarachnoid hemorrhage typically presents with sudden severe headache."
+        },
+        {
+          "letter": "B",
+          "text": "Subdural hematoma",
+          "verdict": "correct",
+          "reason": "اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة."
+        },
+        {
+          "letter": "C",
+          "text": "Intraventricular hemorrhage",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subdural hematoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف intraventricular hemorrhage and focal cerebral edema don't classically produce this exact lucid-then-declining pattern."
+        },
+        {
+          "letter": "D",
+          "text": "Focal edema of the brain",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subdural hematoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف intraventricular hemorrhage and focal cerebral edema don't classically produce this exact lucid-then-declining pattern."
+        },
+        {
+          "letter": "E",
+          "text": "Alcoholic coma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا explain the unilateral pupil dilation and focal weakness.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف alcoholic coma alone."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب النزف فوق الجافية (غير مذكور هنا كخيار لكن الفكرة قد تُربك) أو النزف تحت العنكبوتية (A) لأن الصداع المفاجئ الشديد هو الصورة النمطية له، متجاهلاً أن الصورة السريرية هنا (تدهور تدريجي خلال ساعات عند كحولي) أنسب لتحت الجافية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب النزف فوق الجافية (غير مذكور هنا كخيار لكن الفكرة قد تُربك) أو النزف تحت العنكبوتية (A) لأن الصداع المفاجئ الشديد هو الصورة النمطية له، متجاهلاً أن الصورة السريرية هنا (تدهور تدريجي خلال ساعات عند كحولي) أنسب لتحت الجافية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Subdural hematoma",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Subdural hematoma"
+      },
+      "pills": [
+        "\"Alcoholic + hours = Subdural (bridging veins)"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Subdural hematoma. اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة. وتذكّر القاعدة: \"Alcoholic + hours = Subdural (bridging veins)\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

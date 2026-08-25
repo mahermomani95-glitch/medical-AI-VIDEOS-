@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2019-05-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 5 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Head trauma + lucid interval + rapid deterioration on bicycle",
+  "question_ar": "نُقل رجل يبلغ من العمر 35 عامًا إلى غرفة الطوارئ بعد حادث دراجة هوائيةمع مركبة آلية. كان فاقدًا للوعي بعد اصطدامه بجانب رأسه على الطريق، لكنهاستعاد وعيه بعد بضع دقائق. بدأ ركوب دراجته مجددًا، لكنه أصيب بصداعشديد مصحوب بغثيان وقيء، فاتصل حينها بخدمة الطوارئ الطبية. أثناءوجوده في المستشفى، كان المريض مرتبكًا ولم يستطع تقديم تاريخه المرضي. فقد وعيه بسرعة، ويظهر أدناه تصويره المقطعي المحوسب. ما هو الوعاء الدمويالأكثر احتمالًا للإصابة؟",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 5,
+  "options": [
+    {
+      "letter": "A",
+      "text": "internal carotid artery"
+    },
+    {
+      "letter": "B",
+      "text": "ruptured berry aneurysm"
+    },
+    {
+      "letter": "C",
+      "text": "Middle meningeal artery"
+    },
+    {
+      "letter": "D",
+      "text": "anterior cerebral artery"
+    },
+    {
+      "letter": "E",
+      "text": "Internal carotid artery"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Middle meningeal artery",
+  "purpose_ar": "التعرف على النزف فوق الجافية من نمطه الزمني الكلاسيكي (فاصل لوسيدي ثم تدهور سريع) وربطه بتمزق الشريان السحائي الأوسط.",
+  "trap_ar": "قد يختار الطالب أم دم متمزقة (B) لأنها أيضًا سبب نزف دماغي مفاجئ، متجاهلاً أن الفاصل اللوسيدي المميز بعد رضح مباشر بالرأس يوجّه بقوة أكبر نحو النزف فوق الجافية.",
+  "summary_ar": "فاصل لوسيدي يليه تدهور سريع بعد رضح رأسي هو النمط الكلاسيكي للنزف فوق الجافية الناتج عن تمزق الشريان السحائي الأوسط.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Head trauma + lucid interval + rapid deterioration on bicycl",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Middle meningeal artery"
+      },
+      "narration": "لنبدأ بهذا السؤال. نُقل رجل يبلغ من العمر 35 عامًا إلى غرفة الطوارئ بعد حادث دراجة هوائيةمع مركبة آلية. كان فاقدًا للوعي بعد اصطدامه بجانب رأسه على الطريق، لكنهاستعاد وعيه بعد بضع دقائق. بدأ ركوب دراجته مجددًا، لكنه أصيب بصداعشديد مصحوب بغثيان وقيء، فاتصل حينها بخدمة الطوارئ الطبية. أثناءوجوده في المستشفى، كان المريض مرتبكًا ولم يستطع تقديم تاريخه المرضي. فقد وعيه بسرعة، ويظهر أدناه تصويره المقطعي المحوسب. ما هو الوعاء الدمويالأكثر احتمالًا للإصابة؟ أمامك هذه الخيارات: internal carotid artery، أو ruptured berry aneurysm، أو Middle meningeal artery، أو anterior cerebral artery، أو Internal carotid artery. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على النزف فوق الجافية من نمطه الزمني الكلاسيكي (فاصل لوسيدي ثم تدهور سريع) وربطه بتمزق الشريان السحائي الأوسط.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على النزف فوق الجافية من نمطه الزمني الكلاسيكي (فاصل لوسيدي ثم تدهور سريع) وربطه بتمزق الشريان السحائي الأوسط."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Middle meningeal artery",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Middle meningeal artery"
+      },
+      "card_text": "فاصل لوسيدي يليه تدهور سريع بعد رضح رأسي هو النمط الكلاسيكي للنزف فوق الجافية الناتج عن تمزق الشريان السحائي الأوسط.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فاصل لوسيدي يليه تدهور سريع بعد رضح رأسي هو النمط الكلاسيكي للنزف فوق الجافية الناتج عن تمزق الشريان السحائي الأوسط. الفاصل اللوسيدي (استعادة الوعي مؤقتًا ثم تدهوره السريع) هو التوقيع الكلاسيكي للنزف فوق الجافية الناتج عن تمزق الشريان السحائي الأوسط، غالبًا مع كسر بالعظم الصدغي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، internal carotid artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Middle meningeal artery. يصبح صحيحًا في سؤال يصف The internal carotid artery and anterior cerebral artery can be sites of aneurysm, but the middle meningeal artery is specifically the vessel classically torn in epidural hematoma after temporal trauma. الخيار B، ruptured berry aneurysm: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the lucid-interval pattern described. يصبح صحيحًا في سؤال يصف ruptured berry aneurysm more classically causes subarachnoid hemorrhage with sudden severe headache. الخيار D، anterior cerebral artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Middle meningeal artery. يصبح صحيحًا في سؤال يصف The internal carotid artery and anterior cerebral artery can be sites of aneurysm, but the middle meningeal artery is specifically the vessel classically torn in epidural hematoma after temporal trauma. الخيار E، Internal carotid artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Middle meningeal artery. يصبح صحيحًا في سؤال يصف The internal carotid artery and anterior cerebral artery can be sites of aneurysm, but the middle meningeal artery is specifically the vessel classically torn in epidural hematoma after temporal trauma.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "internal carotid artery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Middle meningeal artery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The internal carotid artery and anterior cerebral artery can be sites of aneurysm, but the middle meningeal artery is specifically the vessel…"
+        },
+        {
+          "letter": "B",
+          "text": "ruptured berry aneurysm",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the lucid-interval pattern described.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ruptured berry aneurysm more classically causes subarachnoid hemorrhage with sudden severe headache."
+        },
+        {
+          "letter": "C",
+          "text": "Middle meningeal artery",
+          "verdict": "correct",
+          "reason": "فاصل لوسيدي يليه تدهور سريع بعد رضح رأسي هو النمط الكلاسيكي للنزف فوق الجافية الناتج عن تمزق الشريان السحائي الأوسط."
+        },
+        {
+          "letter": "D",
+          "text": "anterior cerebral artery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Middle meningeal artery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The internal carotid artery and anterior cerebral artery can be sites of aneurysm, but the middle meningeal artery is specifically the vessel…"
+        },
+        {
+          "letter": "E",
+          "text": "Internal carotid artery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Middle meningeal artery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The internal carotid artery and anterior cerebral artery can be sites of aneurysm, but the middle meningeal artery is specifically the vessel…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب أم دم متمزقة (B) لأنها أيضًا سبب نزف دماغي مفاجئ، متجاهلاً أن الفاصل اللوسيدي المميز بعد رضح مباشر بالرأس يوجّه بقوة أكبر نحو النزف فوق الجافية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب أم دم متمزقة (B) لأنها أيضًا سبب نزف دماغي مفاجئ، متجاهلاً أن الفاصل اللوسيدي المميز بعد رضح مباشر بالرأس يوجّه بقوة أكبر نحو النزف فوق الجافية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Middle meningeal artery",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Middle meningeal artery"
+      },
+      "pills": [
+        "\"Lucid interval = Epidural = Middle meningeal "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Middle meningeal artery. فاصل لوسيدي يليه تدهور سريع بعد رضح رأسي هو النمط الكلاسيكي للنزف فوق الجافية الناتج عن تمزق الشريان السحائي الأوسط."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فاصل لوسيدي يليه تدهور سريع بعد رضح رأسي هو النمط الكلاسيكي للنزف فوق الجافية الناتج عن تمزق الشريان السحائي الأوسط. وتذكّر القاعدة: \"Lucid interval = Epidural = Middle meningeal artery\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

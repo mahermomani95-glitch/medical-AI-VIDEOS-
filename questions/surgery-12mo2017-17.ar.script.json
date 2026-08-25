@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2017-17-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2017 Course, Question 17 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Age most frequent, intussusception",
+  "question_ar": "في أي عمر يكون الانغلاف أكثر شيوعاً؟ (سؤال مكرر، راجع السؤال رقم 518)",
+  "course_label": "Course: Surgery — 12th Month 2017 Course",
+  "question_number": 17,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Newborns"
+    },
+    {
+      "letter": "B",
+      "text": "Preschool"
+    },
+    {
+      "letter": "C",
+      "text": "School"
+    },
+    {
+      "letter": "D",
+      "text": "Adult"
+    },
+    {
+      "letter": "E",
+      "text": "Infants"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Infants",
+  "purpose_ar": "يريد التأكيد أن الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي.",
+  "trap_ar": "الطالب قد يختار الأطفال الأكبر سنًا، متناسيًا أن ذروة الإصابة تحدث بفترة الرضاعة تحديدًا (6 أشهر - سنتين).",
+  "summary_ar": "الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Age most frequent, intussusception",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Infants"
+      },
+      "narration": "لنبدأ بهذا السؤال. في أي عمر يكون الانغلاف أكثر شيوعاً؟ (سؤال مكرر، راجع السؤال رقم 518) أمامك هذه الخيارات: Newborns، أو Preschool، أو School، أو Adult، أو Infants. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Infants",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Infants"
+      },
+      "card_text": "الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي. حرف I المزدوج يربط الرضع بموقعهم كالفئة الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Newborns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infants. يصبح صحيحًا في سؤال يصف Newborns, preschool age, school age, and adults are less commonly affected — intussusception classically peaks in infancy (around 6-18 months). الخيار B، Preschool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infants. يصبح صحيحًا في سؤال يصف Newborns, preschool age, school age, and adults are less commonly affected — intussusception classically peaks in infancy (around 6-18 months). الخيار C، School: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infants. يصبح صحيحًا في سؤال يصف Newborns, preschool age, school age, and adults are less commonly affected — intussusception classically peaks in infancy (around 6-18 months). الخيار D، Adult: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infants. يصبح صحيحًا في سؤال يصف Newborns, preschool age, school age, and adults are less commonly affected — intussusception classically peaks in infancy (around 6-18 months).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Newborns",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infants.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Newborns, preschool age, school age, and adults are less commonly affected — intussusception classically peaks in infancy (around 6-18 months)."
+        },
+        {
+          "letter": "B",
+          "text": "Preschool",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infants.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Newborns, preschool age, school age, and adults are less commonly affected — intussusception classically peaks in infancy (around 6-18 months)."
+        },
+        {
+          "letter": "C",
+          "text": "School",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infants.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Newborns, preschool age, school age, and adults are less commonly affected — intussusception classically peaks in infancy (around 6-18 months)."
+        },
+        {
+          "letter": "D",
+          "text": "Adult",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infants.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Newborns, preschool age, school age, and adults are less commonly affected — intussusception classically peaks in infancy (around 6-18 months)."
+        },
+        {
+          "letter": "E",
+          "text": "Infants",
+          "verdict": "correct",
+          "reason": "الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الأطفال الأكبر سنًا، متناسيًا أن ذروة الإصابة تحدث بفترة الرضاعة تحديدًا (6 أشهر - سنتين).",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الأطفال الأكبر سنًا، متناسيًا أن ذروة الإصابة تحدث بفترة الرضاعة تحديدًا (6 أشهر - سنتين)."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Infants",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Infants"
+      },
+      "pills": [
+        "Intussusception: most frequent in Infants"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Infants. الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الرضع هم الفئة العمرية الأشيع إصابة بالانغلاف المعوي. وتذكّر القاعدة: Intussusception: most frequent in Infants. والإجابة الصحيحة هي E."
+    }
+  ]
+}

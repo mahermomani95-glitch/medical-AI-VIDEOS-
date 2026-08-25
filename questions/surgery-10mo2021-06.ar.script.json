@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2021-06-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2021 Course, Question 6 of 21",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Optimal timing for prophylactic antibiotics — abdominal surgery",
+  "question_ar": "ما هو الوقت المناسب لبدء إعطاء المضادات الحيوية الوقائية لجراحة البطن؟",
+  "course_label": "Course: Surgery — 10th Month 2021 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "One day before surgery and to be continued for 3 days"
+    },
+    {
+      "letter": "B",
+      "text": "Two days before the operation"
+    },
+    {
+      "letter": "C",
+      "text": "Immediately before the operation"
+    },
+    {
+      "letter": "D",
+      "text": "As the incision is being made"
+    },
+    {
+      "letter": "E",
+      "text": "After closure of the abdomen"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Immediately before the operation",
+  "purpose_ar": "حفظ التوقيت الأمثل للمضاد الحيوي الوقائي الجراحي (مباشرة قبل العملية).",
+  "trap_ar": "قد يختار الطالب \"يوم قبل الجراحة\" (A) ظنًا أن الوقت الأطول يعطي حماية أفضل.",
+  "summary_ar": "إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Optimal timing for prophylactic antibiotics — abdominal surg",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Immediately before the operation"
+      },
+      "narration": "لنبدأ بهذا السؤال. ما هو الوقت المناسب لبدء إعطاء المضادات الحيوية الوقائية لجراحة البطن؟ أمامك هذه الخيارات: One day before surgery and to be continued for 3 days، أو Two days before the operation، أو Immediately before the operation، أو As the incision is being made، أو After closure of the abdomen. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ التوقيت الأمثل للمضاد الحيوي الوقائي الجراحي (مباشرة قبل العملية).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ التوقيت الأمثل للمضاد الحيوي الوقائي الجراحي (مباشرة قبل العملية)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Immediately before the operation",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Immediately before the operation"
+      },
+      "card_text": "إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا. التوقيت المثالي للمضاد الحيوي الوقائي هو مباشرة قبل الشق الجراحي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، One day before surgery and to be continued for 3 days: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation. يصبح صحيحًا في سؤال يصف Extending antibiotics before and after surgery is unnecessarily prolonged for routine prophylaxis. الخيار B، Two days before the operation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation. يصبح صحيحًا في سؤال يصف giving them 2 days before allows drug levels to decline before incision. الخيار D، As the incision is being made: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا allow time to reach peak tissue levels. يصبح صحيحًا في سؤال يصف during incision. الخيار E، After closure of the abdomen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation. يصبح صحيحًا في سؤال يصف after abdominal closure is far too late — immediately before the operation achieves correct timing.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "One day before surgery and to be continued for 3 days",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Extending antibiotics before and after surgery is unnecessarily prolonged for routine prophylaxis."
+        },
+        {
+          "letter": "B",
+          "text": "Two days before the operation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف giving them 2 days before allows drug levels to decline before incision."
+        },
+        {
+          "letter": "C",
+          "text": "Immediately before the operation",
+          "verdict": "correct",
+          "reason": "إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا."
+        },
+        {
+          "letter": "D",
+          "text": "As the incision is being made",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا allow time to reach peak tissue levels.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف during incision."
+        },
+        {
+          "letter": "E",
+          "text": "After closure of the abdomen",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف after abdominal closure is far too late — immediately before the operation achieves correct timing."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب \"يوم قبل الجراحة\" (A) ظنًا أن الوقت الأطول يعطي حماية أفضل.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب \"يوم قبل الجراحة\" (A) ظنًا أن الوقت الأطول يعطي حماية أفضل."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Immediately before the operation",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Immediately before the operation"
+      },
+      "pills": [
+        "\"Prophylactic antibiotics: immediately before "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Immediately before the operation. إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا. وتذكّر القاعدة: \"Prophylactic antibiotics: immediately before incision\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

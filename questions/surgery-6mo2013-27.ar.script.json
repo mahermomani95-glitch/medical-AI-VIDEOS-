@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2013-27-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 27 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Treatment of choice, Hypovolemic shock",
+  "question_ar": "العلاج المختار في حالة صدمة نقص حجم الدم هو؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 27,
+  "options": [
+    {
+      "letter": "A",
+      "text": "0.45% Normal saline"
+    },
+    {
+      "letter": "B",
+      "text": "Albumin"
+    },
+    {
+      "letter": "C",
+      "text": "Blood products"
+    },
+    {
+      "letter": "D",
+      "text": "0.9% Normal saline"
+    },
+    {
+      "letter": "E",
+      "text": "Hypertonic saline"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "0.9% Normal saline",
+  "purpose_ar": "يريد التأكيد أن المحلول الملحي الطبيعي 0.9٪ هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم.",
+  "trap_ar": "الطالب قد يختار الدم مباشرة أو محلولاً هيبرتونيًا، متناسيًا أن المحلول الملحي المتساوي التوتر هو الخيار الأول القياسي قبل التصعيد.",
+  "summary_ar": "المحلول الملحي الطبيعي هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Treatment of choice, Hypovolemic shock",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. العلاج المختار في حالة صدمة نقص حجم الدم هو؟ أمامك هذه الخيارات: 0.45% Normal saline، أو Albumin، أو Blood products، أو 0.9% Normal saline، أو Hypertonic saline. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن المحلول الملحي الطبيعي 0.9٪ هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن المحلول الملحي الطبيعي 0.9٪ هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "0.9% Normal saline",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "المحلول الملحي الطبيعي هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. المحلول الملحي الطبيعي هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم. حرف N و S يذكرانك بالسائل الأول القياسي لهذه الصدمة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 0.45% Normal saline: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 0.9% Normal saline. يصبح صحيحًا في سؤال يصف 0.45% saline is hypotonic and less effective for rapid volume expansion. الخيار B، Albumin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically first-line. يصبح صحيحًا في سؤال يصف albumin is a colloid. الخيار C، Blood products: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا all hypovolemic shock. يصبح صحيحًا في سؤال يصف blood products are reserved for significant hemorrhage. الخيار E، Hypertonic saline: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routine first-line resuscitation — isotonic 0.9% normal saline (or Ringer's lactate) is the standard initial choice. يصبح صحيحًا في سؤال يصف hypertonic saline is used in specific settings (like head injury).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "0.45% Normal saline",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 0.9% Normal saline.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 0.45% saline is hypotonic and less effective for rapid volume expansion."
+        },
+        {
+          "letter": "B",
+          "text": "Albumin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically first-line.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف albumin is a colloid."
+        },
+        {
+          "letter": "C",
+          "text": "Blood products",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا all hypovolemic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف blood products are reserved for significant hemorrhage."
+        },
+        {
+          "letter": "D",
+          "text": "0.9% Normal saline",
+          "verdict": "correct",
+          "reason": "المحلول الملحي الطبيعي هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم."
+        },
+        {
+          "letter": "E",
+          "text": "Hypertonic saline",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routine first-line resuscitation — isotonic 0.9% normal saline (or Ringer's lactate) is the standard initial choice.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف hypertonic saline is used in specific settings (like head injury)."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الدم مباشرة أو محلولاً هيبرتونيًا، متناسيًا أن المحلول الملحي المتساوي التوتر هو الخيار الأول القياسي قبل التصعيد.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الدم مباشرة أو محلولاً هيبرتونيًا، متناسيًا أن المحلول الملحي المتساوي التوتر هو الخيار الأول القياسي قبل التصعيد."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. 0.9% Normal saline",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Hypovolemic shock: Normal Saline first"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: 0.9% Normal saline. المحلول الملحي الطبيعي هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. المحلول الملحي الطبيعي هو سائل الإنعاش الأول القياسي للصدمة نقص الحجم. وتذكّر القاعدة: Hypovolemic shock: Normal Saline first. والإجابة الصحيحة هي D."
+    }
+  ]
+}

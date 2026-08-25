@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-07-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 7 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Post femoral bypass + tense/tender calf + pulses present",
+  "question_ar": "رجل يبلغ من العمر 60 عامًا يعاني من تورم ملحوظ في ساقه بعد يوم واحد منخضوعه لجراحة مجازة فخذية بعيدة بسبب نقص تروية حرج. نبضات القلبموجودة، لكن الساق متوترة ومؤلمة. التشخيص الأكثر احتمالًا هو:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 7,
+  "options": [
+    {
+      "letter": "A",
+      "text": "DVT"
+    },
+    {
+      "letter": "B",
+      "text": "Compartment syndrome"
+    },
+    {
+      "letter": "C",
+      "text": "Critical ischemia"
+    },
+    {
+      "letter": "D",
+      "text": "Lymphoedema"
+    },
+    {
+      "letter": "E",
+      "text": "Cellulitis"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Compartment syndrome",
+  "purpose_ar": "معرفة أن متلازمة الحيز يمكن أن تحدث بعد إعادة التوعية (إعادة تروية طرف كان ناقص التروية) رغم وجود نبض محسوس، وأن الفحص السريري (توتر وألم) هو الأهم للتشخيص وليس النبض وحده.",
+  "trap_ar": "قد يختار الطالب تجلط الأوردة العميقة (A) ظنًا أنه السبب الأشيع لتورم الساق بعد جراحة، متجاهلاً أن سياق إعادة التوعية الوعائية وتوتر الربلة الشديد يوجّه أكثر نحو متلازمة الحيز الناتجة عن وذمة إعادة التروية.",
+  "summary_ar": "ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Post femoral bypass + tense/tender calf + pulses present",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Compartment syndrome"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 60 عامًا يعاني من تورم ملحوظ في ساقه بعد يوم واحد منخضوعه لجراحة مجازة فخذية بعيدة بسبب نقص تروية حرج. نبضات القلبموجودة، لكن الساق متوترة ومؤلمة. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: DVT، أو Compartment syndrome، أو Critical ischemia، أو Lymphoedema، أو Cellulitis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "معرفة أن متلازمة الحيز يمكن أن تحدث بعد إعادة التوعية (إعادة تروية طرف كان ناقص التروية) رغم وجود نبض محسوس، وأن الفحص السريري (توتر وألم) هو الأهم للتشخيص وليس النبض وحده.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: معرفة أن متلازمة الحيز يمكن أن تحدث بعد إعادة التوعية (إعادة تروية طرف كان ناقص التروية) رغم وجود نبض محسوس، وأن الفحص السريري (توتر وألم) هو الأهم للتشخيص وليس النبض وحده."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Compartment syndrome",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Compartment syndrome"
+      },
+      "card_text": "ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز. وجود النبض لا ينفي متلازمة الحيز — فارتفاع ضغط الحيز يضغط أولًا على الشعيرات والأوردة قبل أن يعيق الشريان الرئيسي، لذلك النبض قد يبقى مجسوسًا حتى في حيز مصاب."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، DVT: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome. يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense, tender calf with preserved pulses after revascularization. الخيار C، Critical ischemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome. يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense, tender calf with preserved pulses after revascularization. الخيار D، Lymphoedema: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome. يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense, tender calf with preserved pulses after revascularization. الخيار E، Cellulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome. يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense, tender calf with preserved pulses after revascularization.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "DVT",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense…"
+        },
+        {
+          "letter": "B",
+          "text": "Compartment syndrome",
+          "verdict": "correct",
+          "reason": "ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز."
+        },
+        {
+          "letter": "C",
+          "text": "Critical ischemia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense…"
+        },
+        {
+          "letter": "D",
+          "text": "Lymphoedema",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense…"
+        },
+        {
+          "letter": "E",
+          "text": "Cellulitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب تجلط الأوردة العميقة (A) ظنًا أنه السبب الأشيع لتورم الساق بعد جراحة، متجاهلاً أن سياق إعادة التوعية الوعائية وتوتر الربلة الشديد يوجّه أكثر نحو متلازمة الحيز الناتجة عن وذمة إعادة التروية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب تجلط الأوردة العميقة (A) ظنًا أنه السبب الأشيع لتورم الساق بعد جراحة، متجاهلاً أن سياق إعادة التوعية الوعائية وتوتر الربلة الشديد يوجّه أكثر نحو متلازمة الحيز الناتجة عن وذمة إعادة التروية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Compartment syndrome",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Compartment syndrome"
+      },
+      "pills": [
+        "\"Present pulse doesn't rule out compartment sy"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Compartment syndrome. ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز. وتذكّر القاعدة: \"Present pulse doesn't rule out compartment syndrome\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

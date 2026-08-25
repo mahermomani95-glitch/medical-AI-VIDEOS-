@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2018-30-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 30 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "GCS calculation — eyes to pain, mumbles, withdraws",
+  "question_ar": "رجل يبلغ من العمر 25 عامًا تعرض لحادث سيارة، يفتح عينيه فقط للمحفزاتالمؤلمة، ولا يُكوّن كلمات بل يتمتم، وينسحب إلى الألم.",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 30,
+  "options": [
+    {
+      "letter": "A",
+      "text": "10"
+    },
+    {
+      "letter": "B",
+      "text": "8"
+    },
+    {
+      "letter": "C",
+      "text": "7"
+    },
+    {
+      "letter": "D",
+      "text": "6"
+    },
+    {
+      "letter": "E",
+      "text": "4"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "8",
+  "purpose_ar": "التدرب على حساب مقياس غلاسكو للغيبوبة (GCS) بجمع درجات فتح العين والاستجابة اللفظية والحركية، ومعرفة أن 8 هو الحد الحرج لحماية مجرى الهواء.",
+  "trap_ar": "قد يخطئ الطالب في تصنيف ‘يتمتم بدون كلمات مفهومة' فيعطيها الدرجة الكاملة للاستجابة اللفظية (5) بدل الدرجة الصحيحة (2: أصوات غير مفهومة)، فيحصل على مجموع أعلى من الصحيح.",
+  "summary_ar": "فتح العينين للألم (2) + أصوات غير مفهومة (2) + انسحاب للألم (4) = مجموع GCS يساوي 8.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "GCS calculation — eyes to pain, mumbles, withdraws",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 25 عامًا تعرض لحادث سيارة، يفتح عينيه فقط للمحفزاتالمؤلمة، ولا يُكوّن كلمات بل يتمتم، وينسحب إلى الألم. أمامك هذه الخيارات: 10، أو 8، أو 7، أو 6، أو 4. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التدرب على حساب مقياس غلاسكو للغيبوبة (GCS) بجمع درجات فتح العين والاستجابة اللفظية والحركية، ومعرفة أن 8 هو الحد الحرج لحماية مجرى الهواء.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التدرب على حساب مقياس غلاسكو للغيبوبة (GCS) بجمع درجات فتح العين والاستجابة اللفظية والحركية، ومعرفة أن 8 هو الحد الحرج لحماية مجرى الهواء."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "8",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "فتح العينين للألم (2) + أصوات غير مفهومة (2) + انسحاب للألم (4) = مجموع GCS يساوي 8.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فتح العينين للألم (2) + أصوات غير مفهومة (2) + انسحاب للألم (4) = مجموع GCS يساوي 8. جمع 2+2+4=8 سهل الحفظ، و GCS من 8 أو أقل هو الخط الفاصل الشهير الذي يستدعي التفكير بحماية مجرى الهواء (التنبيب)."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 10: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8. يصبح صحيحًا في سؤال يصف GCS totals of 10, 7, 6, and 4 don't match the correct sum of 2 (eye opening to pain) + 2 (incomprehensible sounds) + 4 (withdrawal to pain) = 8. الخيار C، 7: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8. يصبح صحيحًا في سؤال يصف GCS totals of 10, 7, 6, and 4 don't match the correct sum of 2 (eye opening to pain) + 2 (incomprehensible sounds) + 4 (withdrawal to pain) = 8. الخيار D، 6: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8. يصبح صحيحًا في سؤال يصف GCS totals of 10, 7, 6, and 4 don't match the correct sum of 2 (eye opening to pain) + 2 (incomprehensible sounds) + 4 (withdrawal to pain) = 8. الخيار E، 4: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8. يصبح صحيحًا في سؤال يصف GCS totals of 10, 7, 6, and 4 don't match the correct sum of 2 (eye opening to pain) + 2 (incomprehensible sounds) + 4 (withdrawal to pain) = 8.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "10",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 10, 7, 6, and 4 don't match the correct sum of 2 (eye opening to pain) + 2 (incomprehensible sounds) + 4 (withdrawal to pain) = 8."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "verdict": "correct",
+          "reason": "فتح العينين للألم (2) + أصوات غير مفهومة (2) + انسحاب للألم (4) = مجموع GCS يساوي 8."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 10, 7, 6, and 4 don't match the correct sum of 2 (eye opening to pain) + 2 (incomprehensible sounds) + 4 (withdrawal to pain) = 8."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 10, 7, 6, and 4 don't match the correct sum of 2 (eye opening to pain) + 2 (incomprehensible sounds) + 4 (withdrawal to pain) = 8."
+        },
+        {
+          "letter": "E",
+          "text": "4",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 10, 7, 6, and 4 don't match the correct sum of 2 (eye opening to pain) + 2 (incomprehensible sounds) + 4 (withdrawal to pain) = 8."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يخطئ الطالب في تصنيف ‘يتمتم بدون كلمات مفهومة' فيعطيها الدرجة الكاملة للاستجابة اللفظية (5) بدل الدرجة الصحيحة (2: أصوات غير مفهومة)، فيحصل على مجموع أعلى من الصحيح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يخطئ الطالب في تصنيف ‘يتمتم بدون كلمات مفهومة' فيعطيها الدرجة الكاملة للاستجابة اللفظية (5) بدل الدرجة الصحيحة (2: أصوات غير مفهومة)، فيحصل على مجموع أعلى من الصحيح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. 8",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"2 + 2 + 4 = 8, the intubation line\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: 8. فتح العينين للألم (2) + أصوات غير مفهومة (2) + انسحاب للألم (4) = مجموع GCS يساوي 8."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فتح العينين للألم (2) + أصوات غير مفهومة (2) + انسحاب للألم (4) = مجموع GCS يساوي 8. وتذكّر القاعدة: \"2 + 2 + 4 = 8, the intubation line\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

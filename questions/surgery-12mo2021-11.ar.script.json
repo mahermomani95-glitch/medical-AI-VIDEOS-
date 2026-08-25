@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2021-11-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2021 Course, Question 11 of 18",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Pre-anesthesia checks for paraumbilical hernia repair — EXCEPT",
+  "question_ar": "جميع ما يلي يجب التحقق منه قبل بدء التخدير لمريض مخطط لإصلاح فتق حول السرة ما عدا:",
+  "course_label": "Course: Surgery — 12th Month 2021 Course",
+  "question_number": 11,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Confirm the patients name"
+    },
+    {
+      "letter": "B",
+      "text": "Confirm the diagnosis"
+    },
+    {
+      "letter": "C",
+      "text": "Check the consent"
+    },
+    {
+      "letter": "D",
+      "text": "Mark the site of the procedure"
+    },
+    {
+      "letter": "E",
+      "text": "Ask for known allergies"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Confirm the diagnosis",
+  "purpose_ar": "التفريق بين الأسئلة المباشرة التي يطرحها طبيب التخدير قبل التحريض (اسم، تشخيص، موافقة، حساسية) ومهمة تحديد موقع الجراحة التي تقع ضمن مسؤولية الفريق الجراحي في مرحلة سابقة.",
+  "trap_ar": "قد يظن الطالب أن كل بنود قائمة السلامة الجراحية تقع ضمن \"فحوصات ما قبل التخدير\" بنفس الدرجة، متجاهلاً أن تحديد الموقع مهمة منفصلة يقوم بها الجراح عادة.",
+  "summary_ar": "تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Pre-anesthesia checks for paraumbilical hernia repair — EXCE",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Confirm the diagnosis"
+      },
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي يجب التحقق منه قبل بدء التخدير لمريض مخطط لإصلاح فتق حول السرة ما عدا: أمامك هذه الخيارات: Confirm the patients name، أو Confirm the diagnosis، أو Check the consent، أو Mark the site of the procedure، أو Ask for known allergies. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التفريق بين الأسئلة المباشرة التي يطرحها طبيب التخدير قبل التحريض (اسم، تشخيص، موافقة، حساسية) ومهمة تحديد موقع الجراحة التي تقع ضمن مسؤولية الفريق الجراحي في مرحلة سابقة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التفريق بين الأسئلة المباشرة التي يطرحها طبيب التخدير قبل التحريض (اسم، تشخيص، موافقة، حساسية) ومهمة تحديد موقع الجراحة التي تقع ضمن مسؤولية الفريق الجراحي في مرحلة سابقة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Confirm the diagnosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Confirm the diagnosis"
+      },
+      "card_text": "تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا. تأكيد الاسم والتشخيص والموافقة والحساسية كلها أسئلة تُطرح مباشرة قبل التخدير ضمن \"Sign In\"، بينما تحديد موقع الجراحة (site marking) يتم عادة من الجراح نفسه قبل ذلك، خارج نطاق أسئلة طبيب التخدير المباشرة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Confirm the patients name: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis. يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the patient, unlike site marking which is typically a surgical team task done separately before entering the OR. الخيار C، Check the consent: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis. يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the patient, unlike site marking which is typically a surgical team task done separately before entering the OR. الخيار D، Mark the site of the procedure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis. يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the patient, unlike site marking which is typically a surgical team task done separately before entering the OR. الخيار E، Ask for known allergies: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis. يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the patient, unlike site marking which is typically a surgical team task done separately before entering the OR.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Confirm the patients name",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the…"
+        },
+        {
+          "letter": "B",
+          "text": "Confirm the diagnosis",
+          "verdict": "correct",
+          "reason": "تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة…"
+        },
+        {
+          "letter": "C",
+          "text": "Check the consent",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the…"
+        },
+        {
+          "letter": "D",
+          "text": "Mark the site of the procedure",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the…"
+        },
+        {
+          "letter": "E",
+          "text": "Ask for known allergies",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Confirm the diagnosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction anesthesia checks performed directly with the…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن كل بنود قائمة السلامة الجراحية تقع ضمن \"فحوصات ما قبل التخدير\" بنفس الدرجة، متجاهلاً أن تحديد الموقع مهمة منفصلة يقوم بها الجراح عادة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن كل بنود قائمة السلامة الجراحية تقع ضمن \"فحوصات ما قبل التخدير\" بنفس الدرجة، متجاهلاً أن تحديد الموقع مهمة منفصلة يقوم بها الجراح عادة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Confirm the diagnosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Confirm the diagnosis"
+      },
+      "pills": [
+        "\"Site marking = surgical team's job, part of t"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Confirm the diagnosis. تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا. وتذكّر القاعدة: \"Site marking = surgical team's job, part of the broader safety checklist\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

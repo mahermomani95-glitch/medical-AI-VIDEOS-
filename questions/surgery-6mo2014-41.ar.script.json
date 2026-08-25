@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2014-41-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 41 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common complication, post hemorrhoidectomy",
+  "question_ar": "المضاعفات الأكثر شيوعا بعد استئصال البواسير هي؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 41,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Bleeding"
+    },
+    {
+      "letter": "B",
+      "text": "Urine retention"
+    },
+    {
+      "letter": "C",
+      "text": "Anal stenosis"
+    },
+    {
+      "letter": "D",
+      "text": "Incontinence"
+    },
+    {
+      "letter": "E",
+      "text": "Infection"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Urine retention",
+  "purpose_ar": "يريد التأكيد أن احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير (ألم شرجي وتشنج عاصر منعكس).",
+  "trap_ar": "الطالب قد يختار النزف أو العدوى، متناسيًا أن احتباس البول يتصدر إحصائيًا كأشيع مضاعفة بعد هذه الجراحة تحديدًا.",
+  "summary_ar": "احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common complication, post hemorrhoidectomy",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا بعد استئصال البواسير هي؟ أمامك هذه الخيارات: Bleeding، أو Urine retention، أو Anal stenosis، أو Incontinence، أو Infection. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير (ألم شرجي وتشنج عاصر منعكس).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير (ألم شرجي وتشنج عاصر منعكس)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Urine retention",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير. حرف U المزدوج يربط احتباس البول بموقعه كالمضاعفة الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bleeding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention. يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain, anesthesia, and pelvic floor spasm) is actually the most common early complication. الخيار C، Anal stenosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention. يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain, anesthesia, and pelvic floor spasm) is actually the most common early complication. الخيار D، Incontinence: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention. يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain, anesthesia, and pelvic floor spasm) is actually the most common early complication. الخيار E، Infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention. يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain, anesthesia, and pelvic floor spasm) is actually the most common early complication.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Bleeding",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain…"
+        },
+        {
+          "letter": "B",
+          "text": "Urine retention",
+          "verdict": "correct",
+          "reason": "احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير."
+        },
+        {
+          "letter": "C",
+          "text": "Anal stenosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain…"
+        },
+        {
+          "letter": "D",
+          "text": "Incontinence",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain…"
+        },
+        {
+          "letter": "E",
+          "text": "Infection",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار النزف أو العدوى، متناسيًا أن احتباس البول يتصدر إحصائيًا كأشيع مضاعفة بعد هذه الجراحة تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار النزف أو العدوى، متناسيًا أن احتباس البول يتصدر إحصائيًا كأشيع مضاعفة بعد هذه الجراحة تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Urine retention",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Post-hemorrhoidectomy: mostly Urinary retentio"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Urine retention. احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير. وتذكّر القاعدة: Post-hemorrhoidectomy: mostly Urinary retention. والإجابة الصحيحة هي B."
+    }
+  ]
+}

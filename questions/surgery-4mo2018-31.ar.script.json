@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2018-31-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 31 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Unstable trauma + rigid abdomen despite resuscitation",
+  "question_ar": "امرأة تبلغ من العمر 26 عامًا تعرضت لحادث سير خطير. ضغط دمها 80/40،ومعدل ضربات قلبها 120، وتعاني من تصلب وانتفاخ في البطن. أعطيتهامحلول رينجر لاكتات سعة لترين، ثم بدأت بنقل الدم، ومع ذلك، لا تزال تعانيمن انخفاض ضغط الدم، والخطوة التالية الأنسب هي:",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 31,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Abdomen CT scan"
+    },
+    {
+      "letter": "B",
+      "text": "Abdomen angiography"
+    },
+    {
+      "letter": "C",
+      "text": "Diagnostic peritoneal lavage or FAST"
+    },
+    {
+      "letter": "D",
+      "text": "Exploratory laparotomy"
+    },
+    {
+      "letter": "E",
+      "text": "Abdomen X_Ray"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Exploratory laparotomy",
+  "purpose_ar": "تطبيق مبدأ ATLS: المريض غير المستقر ديناميكيًا الدموي مع علامات بطن حاد (تصلب) بعد إصابة يذهب مباشرة لجراحة استكشافية طارئة دون إضاعة وقت بالتصوير.",
+  "trap_ar": "قد يختار الطالب FAST أو التصوير المقطعي (A ، C) لأنها الخطوات المعتادة لتقييم إصابات البطن، لكن عدم استقرار المريض رغم الإنعاش يجعل أي تأخير بالتصوير خطيرًا، فتصبح الجراحة الاستكشافية الفورية هي الأنسب.",
+  "summary_ar": "عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Unstable trauma + rigid abdomen despite resuscitation",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Exploratory laparotomy"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 26 عامًا تعرضت لحادث سير خطير. ضغط دمها 80/40،ومعدل ضربات قلبها 120، وتعاني من تصلب وانتفاخ في البطن. أعطيتهامحلول رينجر لاكتات سعة لترين، ثم بدأت بنقل الدم، ومع ذلك، لا تزال تعانيمن انخفاض ضغط الدم، والخطوة التالية الأنسب هي: أمامك هذه الخيارات: Abdomen CT scan، أو Abdomen angiography، أو Diagnostic peritoneal lavage or FAST، أو Exploratory laparotomy، أو Abdomen X_Ray. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق مبدأ ATLS: المريض غير المستقر ديناميكيًا الدموي مع علامات بطن حاد (تصلب) بعد إصابة يذهب مباشرة لجراحة استكشافية طارئة دون إضاعة وقت بالتصوير.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق مبدأ ATLS: المريض غير المستقر ديناميكيًا الدموي مع علامات بطن حاد (تصلب) بعد إصابة يذهب مباشرة لجراحة استكشافية طارئة دون إضاعة وقت بالتصوير."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Exploratory laparotomy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Exploratory laparotomy"
+      },
+      "card_text": "عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات. القافية بين Rigid و OR (غرفة العمليات) للتذكير بأن البطن المتصلب مع عدم استقرار الضغط يقود مباشرة لغرفة العمليات لا لقسم الأشعة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Abdomen CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient. الخيار B، Abdomen angiography: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient. الخيار C، Diagnostic peritoneal lavage or FAST: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا further workup. يصبح صحيحًا في سؤال يصف DPL/FAST can be useful in unstable patients but here the clinical picture already mandates immediate laparotomy. الخيار E، Abdomen X_Ray: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Abdomen CT scan",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient."
+        },
+        {
+          "letter": "B",
+          "text": "Abdomen angiography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient."
+        },
+        {
+          "letter": "C",
+          "text": "Diagnostic peritoneal lavage or FAST",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا further workup.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف DPL/FAST can be useful in unstable patients but here the clinical picture already mandates immediate laparotomy."
+        },
+        {
+          "letter": "D",
+          "text": "Exploratory laparotomy",
+          "verdict": "correct",
+          "reason": "عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات."
+        },
+        {
+          "letter": "E",
+          "text": "Abdomen X_Ray",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب FAST أو التصوير المقطعي (A ، C) لأنها الخطوات المعتادة لتقييم إصابات البطن، لكن عدم استقرار المريض رغم الإنعاش يجعل أي تأخير بالتصوير خطيرًا، فتصبح الجراحة الاستكشافية الفورية هي الأنسب.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب FAST أو التصوير المقطعي (A ، C) لأنها الخطوات المعتادة لتقييم إصابات البطن، لكن عدم استقرار المريض رغم الإنعاش يجعل أي تأخير بالتصوير خطيرًا، فتصبح الجراحة الاستكشافية الفورية هي الأنسب."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Exploratory laparotomy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Exploratory laparotomy"
+      },
+      "pills": [
+        "\"Unstable + rigid = OR, not radiology\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Exploratory laparotomy. عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات. وتذكّر القاعدة: \"Unstable + rigid = OR, not radiology\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

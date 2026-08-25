@@ -1,0 +1,138 @@
+{
+  "id": "surgery-7mo2015-07-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 7 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common benign salivary gland tumor",
+  "question_ar": "الورم الحميد الأكثر شيوعا في الغدد اللعابية هو؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 7,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Warthin tumors"
+    },
+    {
+      "letter": "B",
+      "text": "Pleomorphic adenoma"
+    },
+    {
+      "letter": "C",
+      "text": "Mucoepidermoid adenoma"
+    },
+    {
+      "letter": "D",
+      "text": "Adenoid cystic adenoma"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Pleomorphic adenoma",
+  "purpose_ar": "يريد التأكيد أن الورم الغدي متعدد الأشكال هو الأشيع بين الأورام الحميدة للغدد اللعابية.",
+  "trap_ar": "الطالب قد يختار ورم وارثين، متناسيًا أن الورم متعدد الأشكال يتصدر إحصائيًا كل الأورام الحميدة اللعابية بفارق كبير.",
+  "summary_ar": "الورم الغدي متعدد الأشكال هو الأشيع بين أورام الغدد اللعابية الحميدة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common benign salivary gland tumor",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Pleomorphic adenoma"
+      },
+      "narration": "لنبدأ بهذا السؤال. الورم الحميد الأكثر شيوعا في الغدد اللعابية هو؟ أمامك هذه الخيارات: Warthin tumors، أو Pleomorphic adenoma، أو Mucoepidermoid adenoma، أو Adenoid cystic adenoma. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الورم الغدي متعدد الأشكال هو الأشيع بين الأورام الحميدة للغدد اللعابية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الورم الغدي متعدد الأشكال هو الأشيع بين الأورام الحميدة للغدد اللعابية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Pleomorphic adenoma",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Pleomorphic adenoma"
+      },
+      "card_text": "الورم الغدي متعدد الأشكال هو الأشيع بين أورام الغدد اللعابية الحميدة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الورم الغدي متعدد الأشكال هو الأشيع بين أورام الغدد اللعابية الحميدة. حرف P المزدوج يربط هذا الورم بموقعه كالأشيع حميدًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Warthin tumors: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma. يصبح صحيحًا في سؤال يصف Warthin tumor is the second most common. الخيار C، Mucoepidermoid adenoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا benign) salivary tumor. يصبح صحيحًا في سؤال يصف mucoepidermoid is actually the most common malignant (. الخيار D، Adenoid cystic adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma. يصبح صحيحًا في سؤال يصف adenoid cystic is also malignant — pleomorphic adenoma remains the most common benign salivary gland tumor overall.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Warthin tumors",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Warthin tumor is the second most common."
+        },
+        {
+          "letter": "B",
+          "text": "Pleomorphic adenoma",
+          "verdict": "correct",
+          "reason": "الورم الغدي متعدد الأشكال هو الأشيع بين أورام الغدد اللعابية الحميدة."
+        },
+        {
+          "letter": "C",
+          "text": "Mucoepidermoid adenoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا benign) salivary tumor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف mucoepidermoid is actually the most common malignant (."
+        },
+        {
+          "letter": "D",
+          "text": "Adenoid cystic adenoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف adenoid cystic is also malignant — pleomorphic adenoma remains the most common benign salivary gland tumor overall."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار ورم وارثين، متناسيًا أن الورم متعدد الأشكال يتصدر إحصائيًا كل الأورام الحميدة اللعابية بفارق كبير.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار ورم وارثين، متناسيًا أن الورم متعدد الأشكال يتصدر إحصائيًا كل الأورام الحميدة اللعابية بفارق كبير."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Pleomorphic adenoma",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Pleomorphic adenoma"
+      },
+      "pills": [
+        "Benign salivary tumor: mostly Pleomorphic aden"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Pleomorphic adenoma. الورم الغدي متعدد الأشكال هو الأشيع بين أورام الغدد اللعابية الحميدة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الورم الغدي متعدد الأشكال هو الأشيع بين أورام الغدد اللعابية الحميدة. وتذكّر القاعدة: Benign salivary tumor: mostly Pleomorphic adenoma. والإجابة الصحيحة هي B."
+    }
+  ]
+}

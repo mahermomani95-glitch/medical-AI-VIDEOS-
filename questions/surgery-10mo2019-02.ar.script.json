@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-02-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 2 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "18F + colicky pain migrating to RIF + fever + rebound tenderness",
+  "question_ar": "فتاة تبلغ من العمر 18 عامًا تشكو من ألم بطني معمم مصحوب بمغص لمدةست ساعات تقريبًا. تشعر بتوعك، وقد تقيأت عدة مرات، وتعاني من فقدانالشهية. انتقل الألم إلى الحفرة الحرقفية اليمنى. عند الفحص، أظهرت ارتفاعًافي درجة الحرارة بلغ 38 درجة مئوية، ومؤلمة فوق الحفرة الحرقفية اليمنى معتصلب، ومؤلمة ارتدادية. التشخيص الأكثر احتمالًا هو:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 2,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Carcinoma of caecum"
+    },
+    {
+      "letter": "B",
+      "text": "Perforated peptic ulcer"
+    },
+    {
+      "letter": "C",
+      "text": "Acute appendicitis"
+    },
+    {
+      "letter": "D",
+      "text": "Carcinoma of appendix"
+    },
+    {
+      "letter": "E",
+      "text": "Right ureteric colic"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Acute appendicitis",
+  "purpose_ar": "التعرف على الصورة السريرية الكلاسيكية لالتهاب الزائدة الدودية الحاد من تسلسل الأعراض المميز (ألم مهاجر، غثيان، حمى، ألم ارتدادي بالحفرة الحرقفية اليمنى).",
+  "trap_ar": "قد يختار الطالب القولنج الحالبي الأيمن (E) لأنه أيضًا يسبب ألمًا بنفس المنطقة تقريبًا، متجاهلاً أن الحمى والألم الارتدادي والتصلب توجّه بقوة أكبر نحو التهاب الزائدة وليس مشكلة بولية.",
+  "summary_ar": "ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "18F + colicky pain migrating to RIF + fever + rebound tender",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute appendicitis"
+      },
+      "narration": "لنبدأ بهذا السؤال. فتاة تبلغ من العمر 18 عامًا تشكو من ألم بطني معمم مصحوب بمغص لمدةست ساعات تقريبًا. تشعر بتوعك، وقد تقيأت عدة مرات، وتعاني من فقدانالشهية. انتقل الألم إلى الحفرة الحرقفية اليمنى. عند الفحص، أظهرت ارتفاعًافي درجة الحرارة بلغ 38 درجة مئوية، ومؤلمة فوق الحفرة الحرقفية اليمنى معتصلب، ومؤلمة ارتدادية. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Carcinoma of caecum، أو Perforated peptic ulcer، أو Acute appendicitis، أو Carcinoma of appendix، أو Right ureteric colic. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على الصورة السريرية الكلاسيكية لالتهاب الزائدة الدودية الحاد من تسلسل الأعراض المميز (ألم مهاجر، غثيان، حمى، ألم ارتدادي بالحفرة الحرقفية اليمنى).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على الصورة السريرية الكلاسيكية لالتهاب الزائدة الدودية الحاد من تسلسل الأعراض المميز (ألم مهاجر، غثيان، حمى، ألم ارتدادي بالحفرة الحرقفية اليمنى)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Acute appendicitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute appendicitis"
+      },
+      "card_text": "ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية. الثلاثية الكلاسيكية: ألم يهاجر للحفرة الحرقفية اليمنى، حمى خفيفة، وألم ارتدادي، تشكل الصورة النموذجية لالتهاب الزائدة الدودية الحاد."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Carcinoma of caecum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic migratory pattern with fever and rebound tenderness points most specifically to acute appendicitis. الخيار B، Perforated peptic ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic migratory pattern with fever and rebound tenderness points most specifically to acute appendicitis. الخيار D، Carcinoma of appendix: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic migratory pattern with fever and rebound tenderness points most specifically to acute appendicitis. الخيار E، Right ureteric colic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic migratory pattern with fever and rebound tenderness points most specifically to acute appendicitis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Carcinoma of caecum",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic…"
+        },
+        {
+          "letter": "B",
+          "text": "Perforated peptic ulcer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic…"
+        },
+        {
+          "letter": "C",
+          "text": "Acute appendicitis",
+          "verdict": "correct",
+          "reason": "ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية."
+        },
+        {
+          "letter": "D",
+          "text": "Carcinoma of appendix",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic…"
+        },
+        {
+          "letter": "E",
+          "text": "Right ureteric colic",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب القولنج الحالبي الأيمن (E) لأنه أيضًا يسبب ألمًا بنفس المنطقة تقريبًا، متجاهلاً أن الحمى والألم الارتدادي والتصلب توجّه بقوة أكبر نحو التهاب الزائدة وليس مشكلة بولية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب القولنج الحالبي الأيمن (E) لأنه أيضًا يسبب ألمًا بنفس المنطقة تقريبًا، متجاهلاً أن الحمى والألم الارتدادي والتصلب توجّه بقوة أكبر نحو التهاب الزائدة وليس مشكلة بولية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Acute appendicitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute appendicitis"
+      },
+      "pills": [
+        "\"Migrating pain + RIF + fever = Appendicitis\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Acute appendicitis. ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية. وتذكّر القاعدة: \"Migrating pain + RIF + fever = Appendicitis\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

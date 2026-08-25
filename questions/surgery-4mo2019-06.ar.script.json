@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2019-06-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2019 Course, Question 6 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Alcoholic + epigastric pain radiating to back + flank bruising",
+  "question_ar": "حضر رجل يبلغ من العمر 39 عامًا إلى المستشفى بعد يوم من ألم شديد فيالبطن وقيء. وصف الألم بأنه مستمر ومزعج، يتركز في الجزء العلوي منالبطن ويمتد إلى الظهر. يشرب كميات كبيرة من الكحول ولكنه لا يتعاطى التبغأو المخدرات. بطن المريض منتفخ قليلاً، ويشعر بألم في المنطقة فوق المعدة. عندفحص البطن، لوحظت كدمات في الخاصرتين. تُسمى هذه العلامة",
+  "course_label": "Course: Surgery — 4th Month 2019 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Cullen's sign"
+    },
+    {
+      "letter": "B",
+      "text": "Boas sign"
+    },
+    {
+      "letter": "C",
+      "text": "Fox sign"
+    },
+    {
+      "letter": "D",
+      "text": "Grey turner's sign"
+    },
+    {
+      "letter": "E",
+      "text": "Murphy sign"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Grey turner's sign",
+  "purpose_ar": "التفريق بين علامة غراي تيرنر (كدمة الخاصرتين) وعلامة كولن (كدمة السرة)، وكلاهما يشيران لنزف خلف الصفاق في التهاب البنكرياس النزفي الشديد.",
+  "trap_ar": "قد يختار الطالب علامة كولن (A) لأنها العلامة الأشهر ذكرًا في نفس السياق، متجاهلاً أن موقع الكدمة هنا محدد بدقة في الخاصرتين (الجانبين) وليس حول السرة.",
+  "summary_ar": "الدم المتسرب خلف الصفاق من التهاب البنكرياس الشديد يتجمع في الخاصرتين — علامة غراي تيرنر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Alcoholic + epigastric pain radiating to back + flank bruisi",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Grey turner's sign"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 39 عامًا إلى المستشفى بعد يوم من ألم شديد فيالبطن وقيء. وصف الألم بأنه مستمر ومزعج، يتركز في الجزء العلوي منالبطن ويمتد إلى الظهر. يشرب كميات كبيرة من الكحول ولكنه لا يتعاطى التبغأو المخدرات. بطن المريض منتفخ قليلاً، ويشعر بألم في المنطقة فوق المعدة. عندفحص البطن، لوحظت كدمات في الخاصرتين. تُسمى هذه العلامة أمامك هذه الخيارات: Cullen's sign، أو Boas sign، أو Fox sign، أو Grey turner's sign، أو Murphy sign. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التفريق بين علامة غراي تيرنر (كدمة الخاصرتين) وعلامة كولن (كدمة السرة)، وكلاهما يشيران لنزف خلف الصفاق في التهاب البنكرياس النزفي الشديد.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التفريق بين علامة غراي تيرنر (كدمة الخاصرتين) وعلامة كولن (كدمة السرة)، وكلاهما يشيران لنزف خلف الصفاق في التهاب البنكرياس النزفي الشديد."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Grey turner's sign",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Grey turner's sign"
+      },
+      "card_text": "الدم المتسرب خلف الصفاق من التهاب البنكرياس الشديد يتجمع في الخاصرتين — علامة غراي تيرنر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الدم المتسرب خلف الصفاق من التهاب البنكرياس الشديد يتجمع في الخاصرتين — علامة غراي تيرنر. غراي تيرنر (Grey Turner) تحديدًا هي كدمة الخاصرة (Flank)، بينما كولن (Cullen) هي كدمة السرة — يجب عدم الخلط بينهما."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cullen's sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Grey turner's sign. يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Fox sign (C, inguinal ligament bruising), and Murphy's sign (E, gallbladder-specific) are all real named signs but describe different bruising locations or conditions than Grey Turner's flank bruising. الخيار B، Boas sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Grey turner's sign. يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Fox sign (C, inguinal ligament bruising), and Murphy's sign (E, gallbladder-specific) are all real named signs but describe different bruising locations or conditions than Grey Turner's flank bruising. الخيار C، Fox sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Grey turner's sign. يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Fox sign (C, inguinal ligament bruising), and Murphy's sign (E, gallbladder-specific) are all real named signs but describe different bruising locations or conditions than Grey Turner's flank bruising. الخيار E، Murphy sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Grey turner's sign. يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Fox sign (C, inguinal ligament bruising), and Murphy's sign (E, gallbladder-specific) are all real named signs but describe different bruising locations or conditions than Grey Turner's flank bruising.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Cullen's sign",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Grey turner's sign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Fox sign (C, inguinal ligament…"
+        },
+        {
+          "letter": "B",
+          "text": "Boas sign",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Grey turner's sign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Fox sign (C, inguinal ligament…"
+        },
+        {
+          "letter": "C",
+          "text": "Fox sign",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Grey turner's sign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Fox sign (C, inguinal ligament…"
+        },
+        {
+          "letter": "D",
+          "text": "Grey turner's sign",
+          "verdict": "correct",
+          "reason": "الدم المتسرب خلف الصفاق من التهاب البنكرياس الشديد يتجمع في الخاصرتين — علامة غراي تيرنر."
+        },
+        {
+          "letter": "E",
+          "text": "Murphy sign",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Grey turner's sign.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Fox sign (C, inguinal ligament…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب علامة كولن (A) لأنها العلامة الأشهر ذكرًا في نفس السياق، متجاهلاً أن موقع الكدمة هنا محدد بدقة في الخاصرتين (الجانبين) وليس حول السرة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب علامة كولن (A) لأنها العلامة الأشهر ذكرًا في نفس السياق، متجاهلاً أن موقع الكدمة هنا محدد بدقة في الخاصرتين (الجانبين) وليس حول السرة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Grey turner's sign",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Grey turner's sign"
+      },
+      "pills": [
+        "\"Turner = flank (T for sides/flank Turner)\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Grey turner's sign. الدم المتسرب خلف الصفاق من التهاب البنكرياس الشديد يتجمع في الخاصرتين — علامة غراي تيرنر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الدم المتسرب خلف الصفاق من التهاب البنكرياس الشديد يتجمع في الخاصرتين — علامة غراي تيرنر. وتذكّر القاعدة: \"Turner = flank (T for sides/flank Turner)\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

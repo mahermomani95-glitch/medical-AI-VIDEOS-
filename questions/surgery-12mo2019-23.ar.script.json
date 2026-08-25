@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2019-23-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 23 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "3yo + fever/cough x1wk + tachypnea + RLL opacity + loculated pleural fluid",
+  "question_ar": "أُحضرت طفلة تبلغ من العمر ثلاث سنوات إلى قسم الطوارئ بسبب صعوبةفي التنفس. أصيبت بحمى وسعال قبل أسبوع، لكنها لم تُصَب باليرقان. أظهرالفحص السريري فتاةً تبدو متعبة، مع انكماشات تحت الضلع وضعف فيأصوات التنفس في الرئة السفلية اليمنى. أظهرت الأشعة السينية للصدر عتامةفي الرئة السفلية اليمنى مع فقدان الزاوية الضلعية الحجابية، وأظهر تصويرالصدر بالموجات فوق الصوتية وجود سائل موضعي. أي مما يلي هوالتشخيص الأكثر احتمالاً لهذه المريضة؟",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 23,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Chylothorax"
+    },
+    {
+      "letter": "B",
+      "text": "Empyema"
+    },
+    {
+      "letter": "C",
+      "text": "Tuberculosis"
+    },
+    {
+      "letter": "D",
+      "text": "Acute cholecystitis"
+    },
+    {
+      "letter": "E",
+      "text": "Liver abscess"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Empyema",
+  "purpose_ar": "التعرف على الدبيلة كمضاعفة لالتهاب رئة بكتيري غير معالَج جيدًا عند طفل، من خلال السائل الجنبي المحصور على الأمواج فوق الصوتية بعد أسبوع من الأعراض التنفسية.",
+  "trap_ar": "قد يختار الطالب الكيلوثوراكس (A) لأنه أيضًا سبب لتجمع سائل جنبي، متجاهلاً أن السياق السريري هنا (حمى وسعال أسبوع، تجمع محصور) يطابق الدبيلة الناتجة عن عدوى وليس تسرب لمفاوي.",
+  "summary_ar": "أسبوع من الحمى والسعال يتبعه تجمع سائل جنبي محصور فوق كثافة رئوية هو الدبيلة — انصباب جنبي مصاب أصبح منظمًا ومحاطًا بجدار.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "3yo + fever/cough x1wk + tachypnea + RLL opacity + loculated",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Empyema"
+      },
+      "narration": "لنبدأ بهذا السؤال. أُحضرت طفلة تبلغ من العمر ثلاث سنوات إلى قسم الطوارئ بسبب صعوبةفي التنفس. أصيبت بحمى وسعال قبل أسبوع، لكنها لم تُصَب باليرقان. أظهرالفحص السريري فتاةً تبدو متعبة، مع انكماشات تحت الضلع وضعف فيأصوات التنفس في الرئة السفلية اليمنى. أظهرت الأشعة السينية للصدر عتامةفي الرئة السفلية اليمنى مع فقدان الزاوية الضلعية الحجابية، وأظهر تصويرالصدر بالموجات فوق الصوتية وجود سائل موضعي. أي مما يلي هوالتشخيص الأكثر احتمالاً لهذه المريضة؟ أمامك هذه الخيارات: Chylothorax، أو Empyema، أو Tuberculosis، أو Acute cholecystitis، أو Liver abscess. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على الدبيلة كمضاعفة لالتهاب رئة بكتيري غير معالَج جيدًا عند طفل، من خلال السائل الجنبي المحصور على الأمواج فوق الصوتية بعد أسبوع من الأعراض التنفسية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على الدبيلة كمضاعفة لالتهاب رئة بكتيري غير معالَج جيدًا عند طفل، من خلال السائل الجنبي المحصور على الأمواج فوق الصوتية بعد أسبوع من الأعراض التنفسية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Empyema",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Empyema"
+      },
+      "card_text": "أسبوع من الحمى والسعال يتبعه تجمع سائل جنبي محصور فوق كثافة رئوية هو الدبيلة — انصباب جنبي مصاب أصبح منظمًا ومحاطًا بجدار.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. أسبوع من الحمى والسعال يتبعه تجمع سائل جنبي محصور فوق كثافة رئوية هو الدبيلة — انصباب جنبي مصاب أصبح منظمًا ومحاطًا بجدار. السائل الجنبي \"المحصور\" (Loculated ، وليس حرًا يتحرك بحرية) بعد أسبوع من عدوى تنفسية هو التوقيع الكلاسيكي للدبيلة (تجمع قيحي جنبي منظم)."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Chylothorax: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا infection. يصبح صحيحًا في سؤال يصف Chylothorax results from lymphatic duct injury. الخيار C، Tuberculosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Empyema. يصبح صحيحًا في سؤال يصف tuberculosis causes a different, more chronic pattern of pleural effusion. الخيار D، Acute cholecystitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause a pleural effusion. يصبح صحيحًا في سؤال يصف acute cholecystitis. الخيار E، Liver abscess: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the loculated pattern with lung opacity as directly as empyema following pneumonia. يصبح صحيحًا في سؤال يصف liver abscess could theoretically cause a sympathetic effusion but.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Chylothorax",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا infection.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Chylothorax results from lymphatic duct injury."
+        },
+        {
+          "letter": "B",
+          "text": "Empyema",
+          "verdict": "correct",
+          "reason": "أسبوع من الحمى والسعال يتبعه تجمع سائل جنبي محصور فوق كثافة رئوية هو الدبيلة — انصباب جنبي مصاب أصبح منظمًا ومحاطًا بجدار."
+        },
+        {
+          "letter": "C",
+          "text": "Tuberculosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Empyema.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف tuberculosis causes a different, more chronic pattern of pleural effusion."
+        },
+        {
+          "letter": "D",
+          "text": "Acute cholecystitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause a pleural effusion.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف acute cholecystitis."
+        },
+        {
+          "letter": "E",
+          "text": "Liver abscess",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the loculated pattern with lung opacity as directly as empyema following pneumonia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف liver abscess could theoretically cause a sympathetic effusion but."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الكيلوثوراكس (A) لأنه أيضًا سبب لتجمع سائل جنبي، متجاهلاً أن السياق السريري هنا (حمى وسعال أسبوع، تجمع محصور) يطابق الدبيلة الناتجة عن عدوى وليس تسرب لمفاوي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الكيلوثوراكس (A) لأنه أيضًا سبب لتجمع سائل جنبي، متجاهلاً أن السياق السريري هنا (حمى وسعال أسبوع، تجمع محصور) يطابق الدبيلة الناتجة عن عدوى وليس تسرب لمفاوي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Empyema",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Empyema"
+      },
+      "pills": [
+        "\"Loculated pleural fluid after pneumonia = Emp"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Empyema. أسبوع من الحمى والسعال يتبعه تجمع سائل جنبي محصور فوق كثافة رئوية هو الدبيلة — انصباب جنبي مصاب أصبح منظمًا ومحاطًا بجدار."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. أسبوع من الحمى والسعال يتبعه تجمع سائل جنبي محصور فوق كثافة رئوية هو الدبيلة — انصباب جنبي مصاب أصبح منظمًا ومحاطًا بجدار. وتذكّر القاعدة: \"Loculated pleural fluid after pneumonia = Empyema\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-1mo2017-25-ar",
+  "source": "Surgery Board Question Bank -- 1st Month 2017 Course, Question 25 of 46",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Breast cancer risk factors, EXCEPT",
+  "question_ar": "كلها عوامل خطر للإصابة بسرطان الثدي، باستثناء؟",
+  "course_label": "Course: Surgery — 1st Month 2017 Course",
+  "question_number": 25,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Smoker female"
+    },
+    {
+      "letter": "B",
+      "text": "Artificially induced menopause"
+    },
+    {
+      "letter": "C",
+      "text": "Unbalanced HRT"
+    },
+    {
+      "letter": "D",
+      "text": "Nulliparity"
+    },
+    {
+      "letter": "E",
+      "text": "Obesity"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Artificially induced menopause",
+  "purpose_ar": "يريد التأكيد أن سن اليأس الصناعي المبكر (جراحي) عامل وقائي (تعرض إستروجيني أقل)، لا عامل خطر كما بالعبارة الخاطئة.",
+  "trap_ar": "الطالب قد يظن أي تدخل هرموني جراحي عامل خطر بالتساوي، متناسيًا أن إنهاء التعرض الإستروجيني مبكرًا يعمل بالاتجاه الوقائي المعاكس.",
+  "summary_ar": "سن اليأس الصناعي المبكر يقلل التعرض الإستروجيني فيحمي نسبيًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Breast cancer risk factors, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Artificially induced menopause"
+      },
+      "narration": "لنبدأ بهذا السؤال. كلها عوامل خطر للإصابة بسرطان الثدي، باستثناء؟ أمامك هذه الخيارات: Smoker female، أو Artificially induced menopause، أو Unbalanced HRT، أو Nulliparity، أو Obesity. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن سن اليأس الصناعي المبكر (جراحي) عامل وقائي (تعرض إستروجيني أقل)، لا عامل خطر كما بالعبارة الخاطئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن سن اليأس الصناعي المبكر (جراحي) عامل وقائي (تعرض إستروجيني أقل)، لا عامل خطر كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Artificially induced menopause",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Artificially induced menopause"
+      },
+      "card_text": "سن اليأس الصناعي المبكر يقلل التعرض الإستروجيني فيحمي نسبيًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. سن اليأس الصناعي المبكر يقلل التعرض الإستروجيني فيحمي نسبيًا. حرف A المزدوج يذكرك أن هذا العامل وقائي لا خطر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Smoker female: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it. يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause, which actually REDUCES lifetime estrogen exposure and therefore lowers risk. الخيار C، Unbalanced HRT: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it. يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause, which actually REDUCES lifetime estrogen exposure and therefore lowers risk. الخيار D، Nulliparity: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it. يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause, which actually REDUCES lifetime estrogen exposure and therefore lowers risk. الخيار E، Obesity: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it. يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause, which actually REDUCES lifetime estrogen exposure and therefore lowers risk.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Smoker female",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause…"
+        },
+        {
+          "letter": "B",
+          "text": "Artificially induced menopause",
+          "verdict": "correct",
+          "reason": "سن اليأس الصناعي المبكر يقلل التعرض الإستروجيني فيحمي نسبيًا."
+        },
+        {
+          "letter": "C",
+          "text": "Unbalanced HRT",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause…"
+        },
+        {
+          "letter": "D",
+          "text": "Nulliparity",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause…"
+        },
+        {
+          "letter": "E",
+          "text": "Obesity",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا raising it.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Smoking, unbalanced HRT, nulliparity, and obesity are all recognized breast cancer risk factors, unlike artificially induced (early) menopause…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي تدخل هرموني جراحي عامل خطر بالتساوي، متناسيًا أن إنهاء التعرض الإستروجيني مبكرًا يعمل بالاتجاه الوقائي المعاكس.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي تدخل هرموني جراحي عامل خطر بالتساوي، متناسيًا أن إنهاء التعرض الإستروجيني مبكرًا يعمل بالاتجاه الوقائي المعاكس."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Artificially induced menopause",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Artificially induced menopause"
+      },
+      "pills": [
+        "Artificial menopause: Actually protective agai"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Artificially induced menopause. سن اليأس الصناعي المبكر يقلل التعرض الإستروجيني فيحمي نسبيًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. سن اليأس الصناعي المبكر يقلل التعرض الإستروجيني فيحمي نسبيًا. وتذكّر القاعدة: Artificial menopause: Actually protective against breast cancer. والإجابة الصحيحة هي B."
+    }
+  ]
+}

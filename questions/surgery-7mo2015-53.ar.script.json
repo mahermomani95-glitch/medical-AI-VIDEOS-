@@ -1,0 +1,132 @@
+{
+  "id": "surgery-7mo2015-53-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 53 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Treatment of choice, severe burn with myoglobinuria",
+  "question_ar": "العلاج المختار للحروق الشديدة المصحوبة ببيلة ميوغلوبينية هو؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 53,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Broad spectrum antibiotic"
+    },
+    {
+      "letter": "B",
+      "text": "Inotropic support"
+    },
+    {
+      "letter": "C",
+      "text": "Fluid resuscitation and bicarb"
+    },
+    {
+      "letter": "D",
+      "text": "Lasix"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Fluid resuscitation and bicarb",
+  "purpose_ar": "يريد التأكيد أن الإنعاش بالسوائل مع البيكربونات هو العلاج المناسب للحرق الشديد مع بيلة الميوغلوبين (حماية كلوية).",
+  "trap_ar": "الطالب قد يختار الإنعاش بالسوائل وحده، متناسيًا أن إضافة البيكربونات لقلونة البول تحديدًا تحمي الأنابيب الكلوية من ترسب الميوغلوبين.",
+  "summary_ar": "الإنعاش بالسوائل مع البيكربونات يحمي الكلى من ترسب الميوغلوبين.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Treatment of choice, severe burn with myoglobinuria",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. العلاج المختار للحروق الشديدة المصحوبة ببيلة ميوغلوبينية هو؟ أمامك هذه الخيارات: Broad spectrum antibiotic، أو Inotropic support، أو Fluid resuscitation and bicarb، أو Lasix. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الإنعاش بالسوائل مع البيكربونات هو العلاج المناسب للحرق الشديد مع بيلة الميوغلوبين (حماية كلوية).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الإنعاش بالسوائل مع البيكربونات هو العلاج المناسب للحرق الشديد مع بيلة الميوغلوبين (حماية كلوية)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Fluid resuscitation and bicarb",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الإنعاش بالسوائل مع البيكربونات يحمي الكلى من ترسب الميوغلوبين.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الإنعاش بالسوائل مع البيكربونات يحمي الكلى من ترسب الميوغلوبين. حرف F و B يذكرانك بالثنائي العلاجي الحامي للكلى."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Broad spectrum antibiotic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation and bicarb. يصبح صحيحًا في سؤال يصف Broad-spectrum antibiotics don't address the myoglobin itself. الخيار B، Inotropic support: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation and bicarb. يصبح صحيحًا في سؤال يصف inotropic support is for hemodynamic failure, a different problem. الخيار D، Lasix: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation and bicarb. يصبح صحيحًا في سؤال يصف Lasix/furosemide can be used adjunctively but isn't first-line alone — aggressive fluid resuscitation with bicarbonate (to alkalinize urine and protect the kidneys) is the primary treatment for burn-related myoglobinuria.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Broad spectrum antibiotic",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation and bicarb.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Broad-spectrum antibiotics don't address the myoglobin itself."
+        },
+        {
+          "letter": "B",
+          "text": "Inotropic support",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation and bicarb.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف inotropic support is for hemodynamic failure, a different problem."
+        },
+        {
+          "letter": "C",
+          "text": "Fluid resuscitation and bicarb",
+          "verdict": "correct",
+          "reason": "الإنعاش بالسوائل مع البيكربونات يحمي الكلى من ترسب الميوغلوبين."
+        },
+        {
+          "letter": "D",
+          "text": "Lasix",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fluid resuscitation and bicarb.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lasix/furosemide can be used adjunctively but isn't first-line alone — aggressive fluid resuscitation with bicarbonate (to alkalinize urine and…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الإنعاش بالسوائل وحده، متناسيًا أن إضافة البيكربونات لقلونة البول تحديدًا تحمي الأنابيب الكلوية من ترسب الميوغلوبين.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الإنعاش بالسوائل وحده، متناسيًا أن إضافة البيكربونات لقلونة البول تحديدًا تحمي الأنابيب الكلوية من ترسب الميوغلوبين."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Fluid resuscitation and bicarb",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Burn + myoglobinuria: Fluids plus Bicarb"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Fluid resuscitation and bicarb. الإنعاش بالسوائل مع البيكربونات يحمي الكلى من ترسب الميوغلوبين."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الإنعاش بالسوائل مع البيكربونات يحمي الكلى من ترسب الميوغلوبين. وتذكّر القاعدة: Burn + myoglobinuria: Fluids plus Bicarb. والإجابة الصحيحة هي C."
+    }
+  ]
+}

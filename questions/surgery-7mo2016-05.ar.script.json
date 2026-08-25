@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-05-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 5 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "30yo, 20-foot fall, eye/verbal/motor responses (GCS calc)",
+  "question_ar": "نُقل رجل يبلغ من العمر 30 عامًا إلى غرفة الطوارئ بعد سقوطه من ارتفاع 20 قدمًا. لوحظ أنه يتحدث بكلمات غير لائقة. انسحب وفتح عينيه على الألم فقط،وكانت درجة مقياس غلاسكو للغيبوبة هي:؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 5,
+  "options": [
+    {
+      "letter": "A",
+      "text": "10"
+    },
+    {
+      "letter": "B",
+      "text": "9"
+    },
+    {
+      "letter": "C",
+      "text": "8"
+    },
+    {
+      "letter": "D",
+      "text": "7"
+    },
+    {
+      "letter": "E",
+      "text": "6"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "9",
+  "purpose_ar": "يريد اختبار قدرتك الحسابية بجمع مكونات غلاسكو الثلاثة للوصول للمجموع الصحيح 9.",
+  "trap_ar": "الطالب قد يخطئ بجمع أحد المكونات الثلاثة بشكل غير صحيح، وهو فخ حسابي بحت يتطلب دقة بتقييم كل عنصر.",
+  "summary_ar": "مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "30yo, 20-foot fall, eye/verbal/motor responses (GCS calc)",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "9"
+      },
+      "narration": "لنبدأ بهذا السؤال. نُقل رجل يبلغ من العمر 30 عامًا إلى غرفة الطوارئ بعد سقوطه من ارتفاع 20 قدمًا. لوحظ أنه يتحدث بكلمات غير لائقة. انسحب وفتح عينيه على الألم فقط،وكانت درجة مقياس غلاسكو للغيبوبة هي:؟ أمامك هذه الخيارات: 10، أو 9، أو 8، أو 7، أو 6. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد اختبار قدرتك الحسابية بجمع مكونات غلاسكو الثلاثة للوصول للمجموع الصحيح 9.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد اختبار قدرتك الحسابية بجمع مكونات غلاسكو الثلاثة للوصول للمجموع الصحيح 9."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "9",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "9"
+      },
+      "card_text": "مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية. الأحرف E-V-M تذكرك بالمكونات الثلاثة الواجب جمعها."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 10: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 9. يصبح صحيحًا في سؤال يصف GCS totals of 10, 8, 7, and 6 don't match the correct calculation for this scenario summing to 9. الخيار C، 8: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 9. يصبح صحيحًا في سؤال يصف GCS totals of 10, 8, 7, and 6 don't match the correct calculation for this scenario summing to 9. الخيار D، 7: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 9. يصبح صحيحًا في سؤال يصف GCS totals of 10, 8, 7, and 6 don't match the correct calculation for this scenario summing to 9. الخيار E، 6: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 9. يصبح صحيحًا في سؤال يصف GCS totals of 10, 8, 7, and 6 don't match the correct calculation for this scenario summing to 9.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "10",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 9.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 10, 8, 7, and 6 don't match the correct calculation for this scenario summing to 9."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "verdict": "correct",
+          "reason": "مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 9.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 10, 8, 7, and 6 don't match the correct calculation for this scenario summing to 9."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 9.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 10, 8, 7, and 6 don't match the correct calculation for this scenario summing to 9."
+        },
+        {
+          "letter": "E",
+          "text": "6",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 9.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 10, 8, 7, and 6 don't match the correct calculation for this scenario summing to 9."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخطئ بجمع أحد المكونات الثلاثة بشكل غير صحيح، وهو فخ حسابي بحت يتطلب دقة بتقييم كل عنصر.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخطئ بجمع أحد المكونات الثلاثة بشكل غير صحيح، وهو فخ حسابي بحت يتطلب دقة بتقييم كل عنصر."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. 9",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "9"
+      },
+      "pills": [
+        "GCS calculation: Sum Eye, Verbal, Motor"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: 9. مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية. وتذكّر القاعدة: GCS calculation: Sum Eye, Verbal, Motor. والإجابة الصحيحة هي B."
+    }
+  ]
+}

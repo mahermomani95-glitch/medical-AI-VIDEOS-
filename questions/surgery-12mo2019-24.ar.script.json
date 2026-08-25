@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2019-24-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 24 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Maintenance fluid rate — 50kg patient",
+  "question_ar": "معدل السوائل الصيانة لمريض يزن 50 كجم هو",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 24,
+  "options": [
+    {
+      "letter": "A",
+      "text": "80 mL/hr"
+    },
+    {
+      "letter": "B",
+      "text": "90 mL/hr"
+    },
+    {
+      "letter": "C",
+      "text": "100 mL/hr"
+    },
+    {
+      "letter": "D",
+      "text": "120 mL/hr"
+    },
+    {
+      "letter": "E",
+      "text": "130 mL/hr"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "90 mL/hr",
+  "purpose_ar": "تطبيق قاعدة هوليداي-سيغار (4-2-1) لحساب معدل السوائل الوريدية التحفظية حسب وزن المريض.",
+  "trap_ar": "قد يحسب الطالب 4مل/كغ لكامل الوزن (50×4=200) دون تطبيق التدرج الصحيح للقاعدة عبر شرائح الوزن.",
+  "summary_ar": "بتطبيق قاعدة 4-2-1 على وزن 50 كغ نحصل على 90 مل/ساعة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Maintenance fluid rate — 50kg patient",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. معدل السوائل الصيانة لمريض يزن 50 كجم هو أمامك هذه الخيارات: 80 mL/hr، أو 90 mL/hr، أو 100 mL/hr، أو 120 mL/hr، أو 130 mL/hr. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق قاعدة هوليداي-سيغار (4-2-1) لحساب معدل السوائل الوريدية التحفظية حسب وزن المريض.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق قاعدة هوليداي-سيغار (4-2-1) لحساب معدل السوائل الوريدية التحفظية حسب وزن المريض."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "90 mL/hr",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "بتطبيق قاعدة 4-2-1 على وزن 50 كغ نحصل على 90 مل/ساعة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بتطبيق قاعدة 4-2-1 على وزن 50 كغ نحصل على 90 مل/ساعة. قاعدة 4-2-1: 4مل/كغ لأول 10كغ، 2مل/كغ للـ10كغ التالية، 1مل/كغ لكل كغ فوق 20 — سهلة التذكر بترتيب الأرقام التنازلي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 80 mL/hr: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 90 mL/hr. يصبح صحيحًا في سؤال يصف 80, 100, 120, and 130 mL/hr don't match the correct Holliday-Segar calculation of 90 mL/hr for a 50kg patient. الخيار C، 100 mL/hr: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 90 mL/hr. يصبح صحيحًا في سؤال يصف 80, 100, 120, and 130 mL/hr don't match the correct Holliday-Segar calculation of 90 mL/hr for a 50kg patient. الخيار D، 120 mL/hr: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 90 mL/hr. يصبح صحيحًا في سؤال يصف 80, 100, 120, and 130 mL/hr don't match the correct Holliday-Segar calculation of 90 mL/hr for a 50kg patient. الخيار E، 130 mL/hr: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 90 mL/hr. يصبح صحيحًا في سؤال يصف 80, 100, 120, and 130 mL/hr don't match the correct Holliday-Segar calculation of 90 mL/hr for a 50kg patient.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "80 mL/hr",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 90 mL/hr.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 80, 100, 120, and 130 mL/hr don't match the correct Holliday-Segar calculation of 90 mL/hr for a 50kg patient."
+        },
+        {
+          "letter": "B",
+          "text": "90 mL/hr",
+          "verdict": "correct",
+          "reason": "بتطبيق قاعدة 4-2-1 على وزن 50 كغ نحصل على 90 مل/ساعة."
+        },
+        {
+          "letter": "C",
+          "text": "100 mL/hr",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 90 mL/hr.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 80, 100, 120, and 130 mL/hr don't match the correct Holliday-Segar calculation of 90 mL/hr for a 50kg patient."
+        },
+        {
+          "letter": "D",
+          "text": "120 mL/hr",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 90 mL/hr.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 80, 100, 120, and 130 mL/hr don't match the correct Holliday-Segar calculation of 90 mL/hr for a 50kg patient."
+        },
+        {
+          "letter": "E",
+          "text": "130 mL/hr",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 90 mL/hr.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 80, 100, 120, and 130 mL/hr don't match the correct Holliday-Segar calculation of 90 mL/hr for a 50kg patient."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يحسب الطالب 4مل/كغ لكامل الوزن (50×4=200) دون تطبيق التدرج الصحيح للقاعدة عبر شرائح الوزن.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يحسب الطالب 4مل/كغ لكامل الوزن (50×4=200) دون تطبيق التدرج الصحيح للقاعدة عبر شرائح الوزن."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. 90 mL/hr",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"4-2-1 rule\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: 90 mL/hr. بتطبيق قاعدة 4-2-1 على وزن 50 كغ نحصل على 90 مل/ساعة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بتطبيق قاعدة 4-2-1 على وزن 50 كغ نحصل على 90 مل/ساعة. وتذكّر القاعدة: \"4-2-1 rule\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

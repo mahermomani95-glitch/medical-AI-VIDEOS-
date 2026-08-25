@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-39-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 39 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Incorrect statement (CEA and chondrosarcoma)",
+  "question_ar": "إحدى العبارات التالية غير صحيحة؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 39,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Elevated CA125 is associated with ovarian carcinoma"
+    },
+    {
+      "letter": "B",
+      "text": "Elevated CEA is associated with chondrosarcoma"
+    },
+    {
+      "letter": "C",
+      "text": "Elevated CA 15_3 is associated with certain breast cancer"
+    },
+    {
+      "letter": "D",
+      "text": "Elevated B_HCG is associated with certain testicular cancer"
+    },
+    {
+      "letter": "E",
+      "text": "Elevated CA 19_9 is associated with pancreatic cancer"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Elevated CEA is associated with chondrosarcoma",
+  "purpose_ar": "يريد التأكيد أن ارتفاع CEA غير مرتبط بساركوما الغضروف (علامة هضمية لا عظمية غضروفية).",
+  "trap_ar": "الطالب قد يظن أي علامة ورمية شائعة مرتبطة بأي سرطان، متناسيًا أن CEA علامة هضمية نوعية لا صلة له بأورام العظم والغضروف.",
+  "summary_ar": "CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Incorrect statement (CEA and chondrosarcoma)",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Elevated CEA is associated with chondr"
+      },
+      "narration": "لنبدأ بهذا السؤال. إحدى العبارات التالية غير صحيحة؟ أمامك هذه الخيارات: Elevated CA125 is associated with ovarian carcinoma، أو Elevated CEA is associated with chondrosarcoma، أو Elevated CA 15_3 is associated with certain breast cancer، أو Elevated B_HCG is associated with certain testicular cancer، أو Elevated CA 19_9 is associated with pancreatic cancer. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن ارتفاع CEA غير مرتبط بساركوما الغضروف (علامة هضمية لا عظمية غضروفية).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن ارتفاع CEA غير مرتبط بساركوما الغضروف (علامة هضمية لا عظمية غضروفية)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Elevated CEA is associated with chondr",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Elevated CEA is associated with chondr"
+      },
+      "card_text": "CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف. حرف C المزدوج يذكرك أن هذه العلامة هضمية لا عظمية غضروفية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Elevated CA125 is associated with ovarian carcinoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the incorrect/false statement being asked for. يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all accurate marker associations — however, CEA. الخيار C، Elevated CA 15_3 is associated with certain breast cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the incorrect/false statement being asked for. يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all accurate marker associations — however, CEA. الخيار D، Elevated B_HCG is associated with certain testicular cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the incorrect/false statement being asked for. يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all accurate marker associations — however, CEA. الخيار E، Elevated CA 19_9 is associated with pancreatic cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the incorrect/false statement being asked for. يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all accurate marker associations — however, CEA.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Elevated CA125 is associated with ovarian carcinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all…"
+        },
+        {
+          "letter": "B",
+          "text": "Elevated CEA is associated with chondrosarcoma",
+          "verdict": "correct",
+          "reason": "CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف."
+        },
+        {
+          "letter": "C",
+          "text": "Elevated CA 15_3 is associated with certain breast cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all…"
+        },
+        {
+          "letter": "D",
+          "text": "Elevated B_HCG is associated with certain testicular cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all…"
+        },
+        {
+          "letter": "E",
+          "text": "Elevated CA 19_9 is associated with pancreatic cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically associated with chondrosarcoma (it's more linked to colorectal and other GI cancers), making B the…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular cancer, and CA 19-9 with pancreatic cancer are all…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي علامة ورمية شائعة مرتبطة بأي سرطان، متناسيًا أن CEA علامة هضمية نوعية لا صلة له بأورام العظم والغضروف.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي علامة ورمية شائعة مرتبطة بأي سرطان، متناسيًا أن CEA علامة هضمية نوعية لا صلة له بأورام العظم والغضروف."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Elevated CEA is associated with chondrosarcoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Elevated CEA is associated with chondr"
+      },
+      "pills": [
+        "CEA: Concerns GI cancers, not chondrosarcoma"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Elevated CEA is associated with chondrosarcoma. CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف. وتذكّر القاعدة: CEA: Concerns GI cancers, not chondrosarcoma. والإجابة الصحيحة هي B."
+    }
+  ]
+}

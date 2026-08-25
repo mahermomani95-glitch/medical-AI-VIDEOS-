@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2017-33-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2017 Course, Question 33 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "NOT part of GCS (repeat)",
+  "question_ar": "أي مما يلي ليس جزءًا من عصية كالميت غيران ؟",
+  "course_label": "Course: Surgery — 12th Month 2017 Course",
+  "question_number": 33,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Obey commands"
+    },
+    {
+      "letter": "B",
+      "text": "Localizes painful stimuli"
+    },
+    {
+      "letter": "C",
+      "text": "Open eyes to calling"
+    },
+    {
+      "letter": "D",
+      "text": "Incomprehensible sounds"
+    },
+    {
+      "letter": "E",
+      "text": "Pupils size"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Pupils size",
+  "purpose_ar": "يريد التأكيد المتكرر أن حجم الحدقة ليس ضمن مكونات مقياس غلاسكو.",
+  "trap_ar": "الطالب قد يظن أي علامة عصبية فحصية جزءًا من غلاسكو، متناسيًا أن المقياس محصور بثلاثة مكونات محددة.",
+  "summary_ar": "حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "NOT part of GCS (repeat)",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس جزءًا من عصية كالميت غيران ؟ أمامك هذه الخيارات: Obey commands، أو Localizes painful stimuli، أو Open eyes to calling، أو Incomprehensible sounds، أو Pupils size. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد المتكرر أن حجم الحدقة ليس ضمن مكونات مقياس غلاسكو.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد المتكرر أن حجم الحدقة ليس ضمن مكونات مقياس غلاسكو."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Pupils size",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. حرف G و E و M يذكرانك بالمكونات الثلاثة الحقيقية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Obey commands: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in GCS scoring. يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to calling, and incomprehensible sounds are all genuine GCS components, unlike pupil size, which is a separate exam finding. الخيار B، Localizes painful stimuli: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in GCS scoring. يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to calling, and incomprehensible sounds are all genuine GCS components, unlike pupil size, which is a separate exam finding. الخيار C، Open eyes to calling: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in GCS scoring. يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to calling, and incomprehensible sounds are all genuine GCS components, unlike pupil size, which is a separate exam finding. الخيار D، Incomprehensible sounds: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in GCS scoring. يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to calling, and incomprehensible sounds are all genuine GCS components, unlike pupil size, which is a separate exam finding.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Obey commands",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in GCS scoring.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to calling, and incomprehensible sounds are all genuine GCS components, unlike pupil size, which…"
+        },
+        {
+          "letter": "B",
+          "text": "Localizes painful stimuli",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in GCS scoring.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to calling, and incomprehensible sounds are all genuine GCS components, unlike pupil size, which…"
+        },
+        {
+          "letter": "C",
+          "text": "Open eyes to calling",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in GCS scoring.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to calling, and incomprehensible sounds are all genuine GCS components, unlike pupil size, which…"
+        },
+        {
+          "letter": "D",
+          "text": "Incomprehensible sounds",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا included in GCS scoring.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Obeying commands, localizing pain, eye opening to calling, and incomprehensible sounds are all genuine GCS components, unlike pupil size, which…"
+        },
+        {
+          "letter": "E",
+          "text": "Pupils size",
+          "verdict": "correct",
+          "reason": "حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي علامة عصبية فحصية جزءًا من غلاسكو، متناسيًا أن المقياس محصور بثلاثة مكونات محددة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي علامة عصبية فحصية جزءًا من غلاسكو، متناسيًا أن المقياس محصور بثلاثة مكونات محددة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Pupils size",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "GCS: Gauges Eye, verbal, Motor — not pupil siz"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Pupils size. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. وتذكّر القاعدة: GCS: Gauges Eye, verbal, Motor — not pupil size. والإجابة الصحيحة هي E."
+    }
+  ]
+}

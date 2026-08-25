@@ -1,0 +1,138 @@
+{
+  "id": "surgery-12mo2020-02-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 2 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Breast cancer — EXCEPT",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 2,
+  "options": [
+    {
+      "letter": "A",
+      "text": "The most common site for metastasis is the liver"
+    },
+    {
+      "letter": "B",
+      "text": "The most common type is invasive ductal carcinoma"
+    },
+    {
+      "letter": "C",
+      "text": "Inflammatory breast cancer has the worst prognosis"
+    },
+    {
+      "letter": "D",
+      "text": "lymph node metastasis is an important risk facor"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "The most common site for metastasis is the liver",
+  "purpose_ar": "حفظ أن العظم هو الموقع الأشيع لانتشار سرطان الثدي، وليس الكبد كما ورد خطأً في أحد الخيارات.",
+  "trap_ar": "قد يظن الطالب أن الكبد هو الموقع الأشيع للانتشار لأنه عضو شائع الذكر مع انتشار سرطانات هضمية أخرى، متجاهلاً أن العظم تحديدًا هو الأشيع لسرطان الثدي.",
+  "summary_ar": "العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Breast cancer — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The most common site for metastasis is"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: The most common site for metastasis is the liver، أو The most common type is invasive ductal carcinoma، أو Inflammatory breast cancer has the worst prognosis، أو lymph node metastasis is an important risk facor. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ أن العظم هو الموقع الأشيع لانتشار سرطان الثدي، وليس الكبد كما ورد خطأً في أحد الخيارات.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ أن العظم هو الموقع الأشيع لانتشار سرطان الثدي، وليس الكبد كما ورد خطأً في أحد الخيارات."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "The most common site for metastasis is",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The most common site for metastasis is"
+      },
+      "card_text": "العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى. سرطان الثدي ينتشر بشكل أشيع للعظم (العمود الفقري خصوصًا)، يليه الرئة والكبد والدماغ — وليس الكبد كأول موقع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، The most common type is invasive ductal carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk factor are all true statements. الخيار C، Inflammatory breast cancer has the worst prognosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk factor are all true statements. الخيار D، lymph node metastasis is an important risk facor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk factor are all true statements.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "The most common site for metastasis is the liver",
+          "verdict": "correct",
+          "reason": "العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى."
+        },
+        {
+          "letter": "B",
+          "text": "The most common type is invasive ductal carcinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk…"
+        },
+        {
+          "letter": "C",
+          "text": "Inflammatory breast cancer has the worst prognosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk…"
+        },
+        {
+          "letter": "D",
+          "text": "lymph node metastasis is an important risk facor",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The most common site for metastasis is the liver.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor prognosis, and lymph node metastasis as an important risk…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن الكبد هو الموقع الأشيع للانتشار لأنه عضو شائع الذكر مع انتشار سرطانات هضمية أخرى، متجاهلاً أن العظم تحديدًا هو الأشيع لسرطان الثدي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن الكبد هو الموقع الأشيع للانتشار لأنه عضو شائع الذكر مع انتشار سرطانات هضمية أخرى، متجاهلاً أن العظم تحديدًا هو الأشيع لسرطان الثدي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. The most common site for metastasis is the liver",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "The most common site for metastasis is"
+      },
+      "pills": [
+        "\"Breast cancer metastasizes to BONE most commo"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: The most common site for metastasis is the liver. العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى. وتذكّر القاعدة: \"Breast cancer metastasizes to BONE most commonly\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2020-03-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2020 Course, Question 3 of 60",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Neck swelling + shortness of breath after thyroid surgery",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2020 Course",
+  "question_number": 3,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Open the wound and drain the hematoma"
+    },
+    {
+      "letter": "B",
+      "text": "Give calcium carbonate"
+    },
+    {
+      "letter": "C",
+      "text": "Intubation"
+    },
+    {
+      "letter": "D",
+      "text": "Aspirate the hematoma"
+    },
+    {
+      "letter": "E",
+      "text": "Tracheostomy"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Open the wound and drain the hematoma",
+  "purpose_ar": "حفظ الخطوة الأولى الفورية والمنقذة للحياة عند حدوث ضيق تنفس بعد استئصال الدرقية بسبب ورم دموي ضاغط — فتح الجرح عند السرير مباشرة.",
+  "trap_ar": "قد يختار الطالب التنبيب (C) كخطوة أولى منطقية لضيق التنفس، متجاهلاً أن الورم الدموي الضاغط يشوّه التشريح ويجعل التنبيب صعبًا أو مستحيلًا قبل تفريغ الضغط أولًا بفتح الجرح.",
+  "summary_ar": "ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Neck swelling + shortness of breath after thyroid surgery",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Open the wound and drain the hematoma"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Open the wound and drain the hematoma، أو Give calcium carbonate، أو Intubation، أو Aspirate the hematoma، أو Tracheostomy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ الخطوة الأولى الفورية والمنقذة للحياة عند حدوث ضيق تنفس بعد استئصال الدرقية بسبب ورم دموي ضاغط — فتح الجرح عند السرير مباشرة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ الخطوة الأولى الفورية والمنقذة للحياة عند حدوث ضيق تنفس بعد استئصال الدرقية بسبب ورم دموي ضاغط — فتح الجرح عند السرير مباشرة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Open the wound and drain the hematoma",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Open the wound and drain the hematoma"
+      },
+      "card_text": "ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات. الورم الدموي الرقبي الضاغط بعد استئصال الدرقية طارئ يهدد الحياة، وعلاجه الفوري هو فتح الجرح عند السرير مباشرة لتفريغ الضغط، وليس الانتظار لتنبيب أو نقل لغرفة العمليات."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Give calcium carbonate: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address an acute airway emergency. يصبح صحيحًا في سؤال يصف Giving calcium carbonate. الخيار C، Intubation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the wound and drain the hematoma. يصبح صحيحًا في سؤال يصف intubation may be attempted but can be difficult with a distorted airway from hematoma. الخيار D، Aspirate the hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the wound and drain the hematoma. يصبح صحيحًا في سؤال يصف aspirating the hematoma with a needle is inadequate compared to fully opening the wound. الخيار E، Tracheostomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the immediate first step. يصبح صحيحًا في سؤال يصف tracheostomy is a more invasive fallback.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Open the wound and drain the hematoma",
+          "verdict": "correct",
+          "reason": "ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات."
+        },
+        {
+          "letter": "B",
+          "text": "Give calcium carbonate",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address an acute airway emergency.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Giving calcium carbonate."
+        },
+        {
+          "letter": "C",
+          "text": "Intubation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the wound and drain the hematoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف intubation may be attempted but can be difficult with a distorted airway from hematoma."
+        },
+        {
+          "letter": "D",
+          "text": "Aspirate the hematoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the wound and drain the hematoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف aspirating the hematoma with a needle is inadequate compared to fully opening the wound."
+        },
+        {
+          "letter": "E",
+          "text": "Tracheostomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the immediate first step.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف tracheostomy is a more invasive fallback."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب التنبيب (C) كخطوة أولى منطقية لضيق التنفس، متجاهلاً أن الورم الدموي الضاغط يشوّه التشريح ويجعل التنبيب صعبًا أو مستحيلًا قبل تفريغ الضغط أولًا بفتح الجرح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب التنبيب (C) كخطوة أولى منطقية لضيق التنفس، متجاهلاً أن الورم الدموي الضاغط يشوّه التشريح ويجعل التنبيب صعبًا أو مستحيلًا قبل تفريغ الضغط أولًا بفتح الجرح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Open the wound and drain the hematoma",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Open the wound and drain the hematoma"
+      },
+      "pills": [
+        "\"Post-thyroidectomy airway compromise = Open t"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Open the wound and drain the hematoma. ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات. وتذكّر القاعدة: \"Post-thyroidectomy airway compromise = Open the wound at bedside NOW\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

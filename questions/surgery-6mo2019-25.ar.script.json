@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2019-25-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 25 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Breast cancer screening — most accurate statement",
+  "question_ar": "بخصوص فحص سرطان الثدي، العبارة الأدق مما يلي هي:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 25,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Start after 40 years old in all females"
+    },
+    {
+      "letter": "B",
+      "text": "Breast ultrasound is the best in females age more than 30 years old"
+    },
+    {
+      "letter": "C",
+      "text": "screening depends on patient clinical risk factors"
+    },
+    {
+      "letter": "D",
+      "text": "Dense breasts increase the sensitivity of mammography and are associated with an decresed risk for breast cancer"
+    },
+    {
+      "letter": "E",
+      "text": "Breast MRI is currently the best available population-based method to detect breast cancer at an early stage"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "screening depends on patient clinical risk factors",
+  "purpose_ar": "تصحيح مفهوم شائع — فرز سرطان الثدي الحديث يعتمد على عوامل الخطر الفردية للمريضة وليس قاعدة عمرية موحدة أو فحصًا واحدًا يناسب الجميع.",
+  "trap_ar": "قد يختار الطالب \"يبدأ بعد 40 عند كل النساء\" (A) لأنه القاعدة التقليدية المبسطة الأشهر، متجاهلاً أن التوصيات الحديثة تُخصِّص الفرز حسب عوامل الخطر الفردية.",
+  "summary_ar": "الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Breast cancer screening — most accurate statement",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "screening depends on patient clinical "
+      },
+      "narration": "لنبدأ بهذا السؤال. بخصوص فحص سرطان الثدي، العبارة الأدق مما يلي هي: أمامك هذه الخيارات: Start after 40 years old in all females، أو Breast ultrasound is the best in females age more than 30 years old، أو screening depends on patient clinical risk factors، أو Dense breasts increase the sensitivity of mammography and are associated with an decresed risk for breast cancer، أو Breast MRI is currently the best available population-based method to detect breast cancer at an early stage. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تصحيح مفهوم شائع — فرز سرطان الثدي الحديث يعتمد على عوامل الخطر الفردية للمريضة وليس قاعدة عمرية موحدة أو فحصًا واحدًا يناسب الجميع.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تصحيح مفهوم شائع — فرز سرطان الثدي الحديث يعتمد على عوامل الخطر الفردية للمريضة وليس قاعدة عمرية موحدة أو فحصًا واحدًا يناسب الجميع."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "screening depends on patient clinical ",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "screening depends on patient clinical "
+      },
+      "card_text": "الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع. أحدث توصيات فرز سرطان الثدي تعتمد على تصنيف كل امرأة حسب عوامل خطرها الفردية (عائلية، وراثية، كثافة نسيج) وليس عمرًا موحدًا للجميع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Start after 40 years old in all females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف Screening starting at 40 for all women uniformly is an older, less individualized approach. الخيار B، Breast ultrasound is the best in females age more than 30 years old: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف ultrasound is not necessarily 'best' over mammography for all women over 30. الخيار D، Dense breasts increase the sensitivity of mammography and are associated with an decresed risk for breast cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decrease) cancer risk (D is false). يصبح صحيحًا في سؤال يصف dense breasts actually DECREASE mammographic sensitivity and INCREASE (. الخيار E، Breast MRI is currently the best available population-based method to detect breast cancer at an early stage: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the best population-wide screening method due to cost/availability (E is false) — these misstate current screening principles. يصبح صحيحًا في سؤال يصف MRI, while sensitive.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Start after 40 years old in all females",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Screening starting at 40 for all women uniformly is an older, less individualized approach."
+        },
+        {
+          "letter": "B",
+          "text": "Breast ultrasound is the best in females age more than 30 years old",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ultrasound is not necessarily 'best' over mammography for all women over 30."
+        },
+        {
+          "letter": "C",
+          "text": "screening depends on patient clinical risk factors",
+          "verdict": "correct",
+          "reason": "الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع."
+        },
+        {
+          "letter": "D",
+          "text": "Dense breasts increase the sensitivity of mammography and are associated with an decresed…",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decrease) cancer risk (D is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف dense breasts actually DECREASE mammographic sensitivity and INCREASE (."
+        },
+        {
+          "letter": "E",
+          "text": "Breast MRI is currently the best available population-based method to detect breast…",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the best population-wide screening method due to cost/availability (E is false) — these misstate current screening…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف MRI, while sensitive."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب \"يبدأ بعد 40 عند كل النساء\" (A) لأنه القاعدة التقليدية المبسطة الأشهر، متجاهلاً أن التوصيات الحديثة تُخصِّص الفرز حسب عوامل الخطر الفردية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب \"يبدأ بعد 40 عند كل النساء\" (A) لأنه القاعدة التقليدية المبسطة الأشهر، متجاهلاً أن التوصيات الحديثة تُخصِّص الفرز حسب عوامل الخطر الفردية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. screening depends on patient clinical risk facto",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "screening depends on patient clinical "
+      },
+      "pills": [
+        "\"Screening = Individualized by risk\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: screening depends on patient clinical risk factors. الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع. وتذكّر القاعدة: \"Screening = Individualized by risk\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

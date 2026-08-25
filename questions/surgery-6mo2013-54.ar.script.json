@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-54-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 54 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Major risk factor, mastitis",
+  "question_ar": "عامل الخطر الرئيسي لالتهاب الضرع؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 54,
+  "options": [
+    {
+      "letter": "A",
+      "text": "DM"
+    },
+    {
+      "letter": "B",
+      "text": "Twins"
+    },
+    {
+      "letter": "C",
+      "text": "Breast cancer"
+    },
+    {
+      "letter": "D",
+      "text": "Breast feeding"
+    },
+    {
+      "letter": "E",
+      "text": "Bad hygiene"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Breast feeding",
+  "purpose_ar": "يريد التأكيد أن الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي (شقوق حلمة، ركود حليب).",
+  "trap_ar": "الطالب قد يختار عاملاً آخر غير مباشر، متناسيًا أن الرضاعة نفسها هي السياق الأساسي المهيئ الأشيع لهذا الالتهاب.",
+  "summary_ar": "الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Major risk factor, mastitis",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Breast feeding"
+      },
+      "narration": "لنبدأ بهذا السؤال. عامل الخطر الرئيسي لالتهاب الضرع؟ أمامك هذه الخيارات: DM، أو Twins، أو Breast cancer، أو Breast feeding، أو Bad hygiene. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي (شقوق حلمة، ركود حليب).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي (شقوق حلمة، ركود حليب)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Breast feeding",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Breast feeding"
+      },
+      "card_text": "الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي. حرف B المزدوج يربط الرضاعة بموقعها كعامل الخطر الأساسي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، DM: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding. يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself (through nipple trauma and milk stasis) is the major risk factor for mastitis. الخيار B، Twins: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding. يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself (through nipple trauma and milk stasis) is the major risk factor for mastitis. الخيار C، Breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding. يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself (through nipple trauma and milk stasis) is the major risk factor for mastitis. الخيار E، Bad hygiene: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding. يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself (through nipple trauma and milk stasis) is the major risk factor for mastitis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "DM",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself…"
+        },
+        {
+          "letter": "B",
+          "text": "Twins",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself…"
+        },
+        {
+          "letter": "C",
+          "text": "Breast cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself…"
+        },
+        {
+          "letter": "D",
+          "text": "Breast feeding",
+          "verdict": "correct",
+          "reason": "الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي."
+        },
+        {
+          "letter": "E",
+          "text": "Bad hygiene",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار عاملاً آخر غير مباشر، متناسيًا أن الرضاعة نفسها هي السياق الأساسي المهيئ الأشيع لهذا الالتهاب.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار عاملاً آخر غير مباشر، متناسيًا أن الرضاعة نفسها هي السياق الأساسي المهيئ الأشيع لهذا الالتهاب."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Breast feeding",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Breast feeding"
+      },
+      "pills": [
+        "Mastitis: mainly linked to Breastfeeding"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Breast feeding. الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي. وتذكّر القاعدة: Mastitis: mainly linked to Breastfeeding. والإجابة الصحيحة هي D."
+    }
+  ]
+}

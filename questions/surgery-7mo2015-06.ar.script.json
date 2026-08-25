@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2015-06-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 6 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common cancer, metastasis to small bowel",
+  "question_ar": "السرطان الأكثر شيوعا الذي يسبب النقائل إلى الأمعاء الدقيقة هو؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Lung cancer"
+    },
+    {
+      "letter": "B",
+      "text": "Colon cancer"
+    },
+    {
+      "letter": "C",
+      "text": "Prostatic cancer"
+    },
+    {
+      "letter": "D",
+      "text": "Melanoma"
+    },
+    {
+      "letter": "E",
+      "text": "Breast cancer"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Melanoma",
+  "purpose_ar": "يريد التأكيد أن الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة.",
+  "trap_ar": "الطالب قد يختار سرطانًا هضميًا أوليًا، متناسيًا أن الميلانوما تحديدًا معروفة بميلها الخاص للانتقال لهذا الموقع بالذات.",
+  "summary_ar": "الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة تحديدًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common cancer, metastasis to small bowel",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Melanoma"
+      },
+      "narration": "لنبدأ بهذا السؤال. السرطان الأكثر شيوعا الذي يسبب النقائل إلى الأمعاء الدقيقة هو؟ أمامك هذه الخيارات: Lung cancer، أو Colon cancer، أو Prostatic cancer، أو Melanoma، أو Breast cancer. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Melanoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Melanoma"
+      },
+      "card_text": "الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة تحديدًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة تحديدًا. حرف M المزدوج يربط الميلانوما بموقعها كالسبب الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Lung cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma. يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and breast cancer can all metastasize to the small bowel, but melanoma has the strongest, most well-documented predilection for small bowel metastasis among solid tumors. الخيار B، Colon cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma. يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and breast cancer can all metastasize to the small bowel, but melanoma has the strongest, most well-documented predilection for small bowel metastasis among solid tumors. الخيار C، Prostatic cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma. يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and breast cancer can all metastasize to the small bowel, but melanoma has the strongest, most well-documented predilection for small bowel metastasis among solid tumors. الخيار E، Breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma. يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and breast cancer can all metastasize to the small bowel, but melanoma has the strongest, most well-documented predilection for small bowel metastasis among solid tumors.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Lung cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and breast cancer can all metastasize to the small bowel, but melanoma has the strongest, most…"
+        },
+        {
+          "letter": "B",
+          "text": "Colon cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and breast cancer can all metastasize to the small bowel, but melanoma has the strongest, most…"
+        },
+        {
+          "letter": "C",
+          "text": "Prostatic cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and breast cancer can all metastasize to the small bowel, but melanoma has the strongest, most…"
+        },
+        {
+          "letter": "D",
+          "text": "Melanoma",
+          "verdict": "correct",
+          "reason": "الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة تحديدًا."
+        },
+        {
+          "letter": "E",
+          "text": "Breast cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and breast cancer can all metastasize to the small bowel, but melanoma has the strongest, most…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار سرطانًا هضميًا أوليًا، متناسيًا أن الميلانوما تحديدًا معروفة بميلها الخاص للانتقال لهذا الموقع بالذات.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار سرطانًا هضميًا أوليًا، متناسيًا أن الميلانوما تحديدًا معروفة بميلها الخاص للانتقال لهذا الموقع بالذات."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Melanoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Melanoma"
+      },
+      "pills": [
+        "Small bowel metastasis: mostly Melanoma"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Melanoma. الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة تحديدًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الميلانوما هي السرطان الأشيع انتقالاً للأمعاء الدقيقة تحديدًا. وتذكّر القاعدة: Small bowel metastasis: mostly Melanoma. والإجابة الصحيحة هي D."
+    }
+  ]
+}

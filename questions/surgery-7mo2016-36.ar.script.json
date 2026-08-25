@@ -1,0 +1,143 @@
+{
+  "id": "surgery-7mo2016-36-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 36 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Initial step, SIADH management",
+  "question_ar": "الخطوة الأولى في إدارة متلازمة إفراز هرمون مضاد لإدرار البول بشكل غيرمناسب؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 36,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Furosemide"
+    },
+    {
+      "letter": "B",
+      "text": "Hypertonic saline"
+    },
+    {
+      "letter": "C",
+      "text": "Demeclocycline"
+    },
+    {
+      "letter": "D",
+      "text": "Isotonic saline"
+    },
+    {
+      "letter": "E",
+      "text": "Restriction of free water"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Restriction of free water",
+  "purpose_ar": "يريد التأكيد أن تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH.",
+  "trap_ar": "الطالب قد يختار المحلول الملحي المرتفع التوتر مباشرة، متناسيًا أن تقييد الماء البسيط يبقى الخطوة الأولى الأقل توغلاً قبل التصعيد.",
+  "summary_ar": "تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Initial step, SIADH management",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. الخطوة الأولى في إدارة متلازمة إفراز هرمون مضاد لإدرار البول بشكل غيرمناسب؟ أمامك هذه الخيارات: Furosemide، أو Hypertonic saline، أو Demeclocycline، أو Isotonic saline، أو Restriction of free water. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Restriction of free water",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH. حرف R المزدوج يذكرك بهذه الخطوة الأولى البسيطة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Furosemide: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Restriction of free water. يصبح صحيحًا في سؤال يصف Furosemide is used in specific volume-overload contexts. الخيار B، Hypertonic saline: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Restriction of free water. يصبح صحيحًا في سؤال يصف hypertonic saline is reserved for severe/symptomatic cases. الخيار C، Demeclocycline: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Restriction of free water. يصبح صحيحًا في سؤال يصف demeclocycline is used for chronic refractory SIADH. الخيار D، Isotonic saline: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Restriction of free water. يصبح صحيحًا في سؤال يصف isotonic saline isn't the first step since it can worsen hyponatremia in SIADH — fluid restriction is the appropriate initial management for SIADH.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Furosemide",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Restriction of free water.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Furosemide is used in specific volume-overload contexts."
+        },
+        {
+          "letter": "B",
+          "text": "Hypertonic saline",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Restriction of free water.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف hypertonic saline is reserved for severe/symptomatic cases."
+        },
+        {
+          "letter": "C",
+          "text": "Demeclocycline",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Restriction of free water.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف demeclocycline is used for chronic refractory SIADH."
+        },
+        {
+          "letter": "D",
+          "text": "Isotonic saline",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Restriction of free water.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف isotonic saline isn't the first step since it can worsen hyponatremia in SIADH — fluid restriction is the appropriate initial management for…"
+        },
+        {
+          "letter": "E",
+          "text": "Restriction of free water",
+          "verdict": "correct",
+          "reason": "تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار المحلول الملحي المرتفع التوتر مباشرة، متناسيًا أن تقييد الماء البسيط يبقى الخطوة الأولى الأقل توغلاً قبل التصعيد.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار المحلول الملحي المرتفع التوتر مباشرة، متناسيًا أن تقييد الماء البسيط يبقى الخطوة الأولى الأقل توغلاً قبل التصعيد."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Restriction of free water",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "SIADH: Start with water Restriction"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Restriction of free water. تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تقييد الماء الحر هو الخطوة الأولى القياسية لإدارة SIADH. وتذكّر القاعدة: SIADH: Start with water Restriction. والإجابة الصحيحة هي E."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-32-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 32 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "True, femoral pulse",
+  "question_ar": "أي مما يلي صحيح فيما يتعلق بنبض الفخذ؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 32,
+  "options": [
+    {
+      "letter": "A",
+      "text": "It is usually felt at the midpoint of inguinal ligament"
+    },
+    {
+      "letter": "B",
+      "text": "The femoral nerve is medial to the femoral pulse"
+    },
+    {
+      "letter": "C",
+      "text": "The femoral pulse is lateral to the deep inguinal ring"
+    },
+    {
+      "letter": "D",
+      "text": "The femoral pulse is felt at the mid inguinal point"
+    },
+    {
+      "letter": "E",
+      "text": "A Radio_femoral delay is usually felt in aortic stenosis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "The femoral pulse is felt at the mid inguinal point",
+  "purpose_ar": "يريد حفظ الموقع التشريحي الدقيق لجس النبض الفخذي (النقطة الإربية المتوسطة).",
+  "trap_ar": "الطالب قد يخلط بينها وبين نقاط تشريحية أخرى قريبة (كمنتصف الرباط الإربي)، وهو فخ تشريحي دقيق يتطلب تمييزًا.",
+  "summary_ar": "النبض الفخذي يُجس عند النقطة الإربية المتوسطة تحديدًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "True, femoral pulse",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "The femoral pulse is felt at the mid i"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بنبض الفخذ؟ أمامك هذه الخيارات: It is usually felt at the midpoint of inguinal ligament، أو The femoral nerve is medial to the femoral pulse، أو The femoral pulse is lateral to the deep inguinal ring، أو The femoral pulse is felt at the mid inguinal point، أو A Radio_femoral delay is usually felt in aortic stenosis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ الموقع التشريحي الدقيق لجس النبض الفخذي (النقطة الإربية المتوسطة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ الموقع التشريحي الدقيق لجس النبض الفخذي (النقطة الإربية المتوسطة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "The femoral pulse is felt at the mid i",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "The femoral pulse is felt at the mid i"
+      },
+      "card_text": "النبض الفخذي يُجس عند النقطة الإربية المتوسطة تحديدًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. النبض الفخذي يُجس عند النقطة الإربية المتوسطة تحديدًا. حرف M المزدوج يذكرك بالموقع الدقيق لهذا النبض."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is usually felt at the midpoint of inguinal ligament: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the midpoint of the ligament itself (A is imprecise). يصبح صحيحًا في سؤال يصف The femoral pulse is actually felt at the MID-INGUINAL point (midpoint between ASIS and pubic symphysis). الخيار B، The femoral nerve is medial to the femoral pulse: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا medial) to the femoral artery/pulse (B is false). يصبح صحيحًا في سؤال يصف the femoral nerve is LATERAL (. الخيار C، The femoral pulse is lateral to the deep inguinal ring: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا lateral (C is false). يصبح صحيحًا في سؤال يصف the femoral pulse is actually MEDIAL to the deep inguinal ring. الخيار E، A Radio_femoral delay is usually felt in aortic stenosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا aortic stenosis (E is false) — the correct statement is D, that it's felt at the mid-inguinal point. يصبح صحيحًا في سؤال يصف radiofemoral delay is classically associated with aortic COARCTATION.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "It is usually felt at the midpoint of inguinal ligament",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the midpoint of the ligament itself (A is imprecise).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The femoral pulse is actually felt at the MID-INGUINAL point (midpoint between ASIS and pubic symphysis)."
+        },
+        {
+          "letter": "B",
+          "text": "The femoral nerve is medial to the femoral pulse",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا medial) to the femoral artery/pulse (B is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف the femoral nerve is LATERAL (."
+        },
+        {
+          "letter": "C",
+          "text": "The femoral pulse is lateral to the deep inguinal ring",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا lateral (C is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف the femoral pulse is actually MEDIAL to the deep inguinal ring."
+        },
+        {
+          "letter": "D",
+          "text": "The femoral pulse is felt at the mid inguinal point",
+          "verdict": "correct",
+          "reason": "النبض الفخذي يُجس عند النقطة الإربية المتوسطة تحديدًا."
+        },
+        {
+          "letter": "E",
+          "text": "A Radio_femoral delay is usually felt in aortic stenosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا aortic stenosis (E is false) — the correct statement is D, that it's felt at the mid-inguinal point.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف radiofemoral delay is classically associated with aortic COARCTATION."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخلط بينها وبين نقاط تشريحية أخرى قريبة (كمنتصف الرباط الإربي)، وهو فخ تشريحي دقيق يتطلب تمييزًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخلط بينها وبين نقاط تشريحية أخرى قريبة (كمنتصف الرباط الإربي)، وهو فخ تشريحي دقيق يتطلب تمييزًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. The femoral pulse is felt at the mid inguinal po",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "The femoral pulse is felt at the mid i"
+      },
+      "pills": [
+        "Femoral pulse: felt at the Mid-inguinal point"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: The femoral pulse is felt at the mid inguinal point. النبض الفخذي يُجس عند النقطة الإربية المتوسطة تحديدًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. النبض الفخذي يُجس عند النقطة الإربية المتوسطة تحديدًا. وتذكّر القاعدة: Femoral pulse: felt at the Mid-inguinal point. والإجابة الصحيحة هي D."
+    }
+  ]
+}

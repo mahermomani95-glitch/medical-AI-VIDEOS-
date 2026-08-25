@@ -1,0 +1,143 @@
+{
+  "id": "surgery-1mo2017-01-ar",
+  "source": "Surgery Board Question Bank -- 1st Month 2017 Course, Question 1 of 46",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Drug for Pseudomembranous colitis",
+  "question_ar": "يستخدم أحد الأدوية التالية لعلاج التهاب القولون الغشائي الكاذب؟",
+  "course_label": "Course: Surgery — 1st Month 2017 Course",
+  "question_number": 1,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Cephalosporins (Cefixime)"
+    },
+    {
+      "letter": "B",
+      "text": "Clindamycin"
+    },
+    {
+      "letter": "C",
+      "text": "Penicillins"
+    },
+    {
+      "letter": "D",
+      "text": "Metronidazole"
+    },
+    {
+      "letter": "E",
+      "text": "Fluoroquinolones (Ciprofloxacin)"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Metronidazole",
+  "purpose_ar": "يريد التأكيد أن الميترونيدازول علاج فعال لالتهاب القولون الغشائي الكاذب (المطثية العسيرة).",
+  "trap_ar": "الطالب قد يختار مضادًا حيويًا واسع الطيف عام، متناسيًا أن الميترونيدازول يستهدف المطثية العسيرة تحديدًا كسبب هذا الالتهاب.",
+  "summary_ar": "الميترونيدازول يستهدف المطثية العسيرة المسببة للالتهاب الغشائي الكاذب.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Drug for Pseudomembranous colitis",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. يستخدم أحد الأدوية التالية لعلاج التهاب القولون الغشائي الكاذب؟ أمامك هذه الخيارات: Cephalosporins (Cefixime)، أو Clindamycin، أو Penicillins، أو Metronidazole، أو Fluoroquinolones (Ciprofloxacin). لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الميترونيدازول علاج فعال لالتهاب القولون الغشائي الكاذب (المطثية العسيرة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الميترونيدازول علاج فعال لالتهاب القولون الغشائي الكاذب (المطثية العسيرة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Metronidazole",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الميترونيدازول يستهدف المطثية العسيرة المسببة للالتهاب الغشائي الكاذب.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الميترونيدازول يستهدف المطثية العسيرة المسببة للالتهاب الغشائي الكاذب. حرف M المزدوج يربط هذا الدواء بعلاجه لهذه الحالة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cephalosporins (Cefixime): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones. الخيار B، Clindamycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole. يصبح صحيحًا في سؤال يستهدف Clindamycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Penicillins: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones. الخيار E، Fluoroquinolones (Ciprofloxacin): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Cephalosporins (Cefixime)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones."
+        },
+        {
+          "letter": "B",
+          "text": "Clindamycin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Clindamycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "Penicillins",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones."
+        },
+        {
+          "letter": "D",
+          "text": "Metronidazole",
+          "verdict": "correct",
+          "reason": "الميترونيدازول يستهدف المطثية العسيرة المسببة للالتهاب الغشائي الكاذب."
+        },
+        {
+          "letter": "E",
+          "text": "Fluoroquinolones (Ciprofloxacin)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the treatment — metronidazole (or oral vancomycin) is the standard treatment for C. difficile pseudomembranous colitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cephalosporins, clindamycin (B, itself a common CAUSE of C. diff colitis), penicillins, and fluoroquinolones."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار مضادًا حيويًا واسع الطيف عام، متناسيًا أن الميترونيدازول يستهدف المطثية العسيرة تحديدًا كسبب هذا الالتهاب.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار مضادًا حيويًا واسع الطيف عام، متناسيًا أن الميترونيدازول يستهدف المطثية العسيرة تحديدًا كسبب هذا الالتهاب."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Metronidazole",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Pseudomembranous colitis: treated with Metroni"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Metronidazole. الميترونيدازول يستهدف المطثية العسيرة المسببة للالتهاب الغشائي الكاذب."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الميترونيدازول يستهدف المطثية العسيرة المسببة للالتهاب الغشائي الكاذب. وتذكّر القاعدة: Pseudomembranous colitis: treated with Metronidazole. والإجابة الصحيحة هي D."
+    }
+  ]
+}

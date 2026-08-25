@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-03-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 3 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "35yo, painless pulsatile femoral swelling",
+  "question_ar": "مريض ذكر يبلغ من العمر 35 عامًا يعاني من تورم نابض غير مؤلم في الفخذفي منطقة الفخذ، والتشخيص الأكثر احتمالًا هو:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 3,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Inguinal hernia"
+    },
+    {
+      "letter": "B",
+      "text": "Femoral hernia"
+    },
+    {
+      "letter": "C",
+      "text": "Varicose veins"
+    },
+    {
+      "letter": "D",
+      "text": "Lipoma"
+    },
+    {
+      "letter": "E",
+      "text": "Aneurysm"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Aneurysm",
+  "purpose_ar": "يريد ربط التورم النابض غير المؤلم بمنطقة الفخذ بأم الدم (تمدد جداري وعائي).",
+  "trap_ar": "الطالب قد يختار فتقًا فخذيًا (لا ينبض عادة)، متناسيًا أن النبض تحديدًا هو العلامة المميزة لأم الدم لا الفتق.",
+  "summary_ar": "التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "35yo, painless pulsatile femoral swelling",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Aneurysm"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض ذكر يبلغ من العمر 35 عامًا يعاني من تورم نابض غير مؤلم في الفخذفي منطقة الفخذ، والتشخيص الأكثر احتمالًا هو:؟ أمامك هذه الخيارات: Inguinal hernia، أو Femoral hernia، أو Varicose veins، أو Lipoma، أو Aneurysm. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط التورم النابض غير المؤلم بمنطقة الفخذ بأم الدم (تمدد جداري وعائي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط التورم النابض غير المؤلم بمنطقة الفخذ بأم الدم (تمدد جداري وعائي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Aneurysm",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Aneurysm"
+      },
+      "card_text": "التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق. حرف P المزدوج يربط النبض بتشخيص أم الدم تحديدًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inguinal hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pulsatile masses. يصبح صحيحًا في سؤال يصف Inguinal hernia and femoral hernia typically present as reducible groin bulges. الخيار B، Femoral hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pulsatile masses. يصبح صحيحًا في سؤال يصف Inguinal hernia and femoral hernia typically present as reducible groin bulges. الخيار C، Varicose veins: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a pulsatile swelling. يصبح صحيحًا في سؤال يصف varicose veins cause dilated, compressible veins. الخيار D، Lipoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aneurysm. يصبح صحيحًا في سؤال يصف a lipoma is a soft, non-pulsatile mass.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Inguinal hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pulsatile masses.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Inguinal hernia and femoral hernia typically present as reducible groin bulges."
+        },
+        {
+          "letter": "B",
+          "text": "Femoral hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pulsatile masses.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Inguinal hernia and femoral hernia typically present as reducible groin bulges."
+        },
+        {
+          "letter": "C",
+          "text": "Varicose veins",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a pulsatile swelling.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف varicose veins cause dilated, compressible veins."
+        },
+        {
+          "letter": "D",
+          "text": "Lipoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aneurysm.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف a lipoma is a soft, non-pulsatile mass."
+        },
+        {
+          "letter": "E",
+          "text": "Aneurysm",
+          "verdict": "correct",
+          "reason": "التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار فتقًا فخذيًا (لا ينبض عادة)، متناسيًا أن النبض تحديدًا هو العلامة المميزة لأم الدم لا الفتق.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار فتقًا فخذيًا (لا ينبض عادة)، متناسيًا أن النبض تحديدًا هو العلامة المميزة لأم الدم لا الفتق."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Aneurysm",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Aneurysm"
+      },
+      "pills": [
+        "Pulsatile swelling: Points to Aneurysm"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Aneurysm. التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق. وتذكّر القاعدة: Pulsatile swelling: Points to Aneurysm. والإجابة الصحيحة هي E."
+    }
+  ]
+}

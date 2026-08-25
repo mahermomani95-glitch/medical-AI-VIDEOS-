@@ -1,0 +1,138 @@
+{
+  "id": "surgery-7mo2016-64-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 64 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "False statement (clotting factors, liver synthesis)",
+  "question_ar": "كل ما يلي صحيح ما عدا؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 64,
+  "options": [
+    {
+      "letter": "A",
+      "text": "The best test for platelet function is bleeding time"
+    },
+    {
+      "letter": "B",
+      "text": "FFP is the most effective way to acutely correct INR"
+    },
+    {
+      "letter": "C",
+      "text": "Factor 8 is synthesized in the liver"
+    },
+    {
+      "letter": "D",
+      "text": "Calcium is required for normal coagulation"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Factor 8 is synthesized in the liver",
+  "purpose_ar": "يريد التأكيد بدقة أن العامل الثامن له مصدر تخليقي مختلف جزئيًا عن عوامل التخثر الكبدية التقليدية (2، 7، 9، 10).",
+  "trap_ar": "الطالب قد يظن كل عوامل التخثر تُصنّع بالكبد حصرًا بالتساوي، متناسيًا أن العامل الثامن له مصدر إضافي (الخلايا البطانية) يميزه عن العوامل الكبدية الكلاسيكية.",
+  "summary_ar": "العامل الثامن له مصدر إضافي بالخلايا البطانية، لا الكبد حصرًا كباقي العوامل.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "False statement (clotting factors, liver synthesis)",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Factor 8 is synthesized in the liver"
+      },
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح ما عدا؟ أمامك هذه الخيارات: The best test for platelet function is bleeding time، أو FFP is the most effective way to acutely correct INR، أو Factor 8 is synthesized in the liver، أو Calcium is required for normal coagulation. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد بدقة أن العامل الثامن له مصدر تخليقي مختلف جزئيًا عن عوامل التخثر الكبدية التقليدية (2، 7، 9، 10).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد بدقة أن العامل الثامن له مصدر تخليقي مختلف جزئيًا عن عوامل التخثر الكبدية التقليدية (2، 7، 9، 10)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Factor 8 is synthesized in the liver",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Factor 8 is synthesized in the liver"
+      },
+      "card_text": "العامل الثامن له مصدر إضافي بالخلايا البطانية، لا الكبد حصرًا كباقي العوامل.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. العامل الثامن له مصدر إضافي بالخلايا البطانية، لا الكبد حصرًا كباقي العوامل. حرف E المزدوج يذكرك بالمصدر الإضافي المميز لهذا العامل."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The best test for platelet function is bleeding time: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the liver, unlike most other clotting factors), making C the false statement. يصبح صحيحًا في سؤال يصف Bleeding time as the best test for platelet function, FFP as the most effective way to acutely correct INR, and calcium's requirement for coagulation are all true statements — however, Factor VIII is actually synthesized primarily by endothelial cells (. الخيار B، FFP is the most effective way to acutely correct INR: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the liver, unlike most other clotting factors), making C the false statement. يصبح صحيحًا في سؤال يصف Bleeding time as the best test for platelet function, FFP as the most effective way to acutely correct INR, and calcium's requirement for coagulation are all true statements — however, Factor VIII is actually synthesized primarily by endothelial cells (. الخيار D، Calcium is required for normal coagulation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the liver, unlike most other clotting factors), making C the false statement. يصبح صحيحًا في سؤال يصف Bleeding time as the best test for platelet function, FFP as the most effective way to acutely correct INR, and calcium's requirement for coagulation are all true statements — however, Factor VIII is actually synthesized primarily by endothelial cells (.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "The best test for platelet function is bleeding time",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the liver, unlike most other clotting factors), making C the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding time as the best test for platelet function, FFP as the most effective way to acutely correct INR, and calcium's requirement for…"
+        },
+        {
+          "letter": "B",
+          "text": "FFP is the most effective way to acutely correct INR",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the liver, unlike most other clotting factors), making C the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding time as the best test for platelet function, FFP as the most effective way to acutely correct INR, and calcium's requirement for…"
+        },
+        {
+          "letter": "C",
+          "text": "Factor 8 is synthesized in the liver",
+          "verdict": "correct",
+          "reason": "العامل الثامن له مصدر إضافي بالخلايا البطانية، لا الكبد حصرًا كباقي العوامل."
+        },
+        {
+          "letter": "D",
+          "text": "Calcium is required for normal coagulation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the liver, unlike most other clotting factors), making C the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding time as the best test for platelet function, FFP as the most effective way to acutely correct INR, and calcium's requirement for…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن كل عوامل التخثر تُصنّع بالكبد حصرًا بالتساوي، متناسيًا أن العامل الثامن له مصدر إضافي (الخلايا البطانية) يميزه عن العوامل الكبدية الكلاسيكية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن كل عوامل التخثر تُصنّع بالكبد حصرًا بالتساوي، متناسيًا أن العامل الثامن له مصدر إضافي (الخلايا البطانية) يميزه عن العوامل الكبدية الكلاسيكية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Factor 8 is synthesized in the liver",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Factor 8 is synthesized in the liver"
+      },
+      "pills": [
+        "Factor VIII: has an Extra (endothelial) source"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Factor 8 is synthesized in the liver. العامل الثامن له مصدر إضافي بالخلايا البطانية، لا الكبد حصرًا كباقي العوامل."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. العامل الثامن له مصدر إضافي بالخلايا البطانية، لا الكبد حصرًا كباقي العوامل. وتذكّر القاعدة: Factor VIII: has an Extra (endothelial) source beyond liver. والإجابة الصحيحة هي C."
+    }
+  ]
+}

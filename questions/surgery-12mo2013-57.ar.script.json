@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-57-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 57 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Characteristic injuries, blunt thoracic trauma, EXCEPT",
+  "question_ar": "تشمل الإصابات المميزة لكسر الصدر كل ما يلي باستثناء:؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 57,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Fractured sternum"
+    },
+    {
+      "letter": "B",
+      "text": "Transected aorta"
+    },
+    {
+      "letter": "C",
+      "text": "Pulmonary contusion"
+    },
+    {
+      "letter": "D",
+      "text": "Ruptured urinary bladder"
+    },
+    {
+      "letter": "E",
+      "text": "Bilateral rib fractures"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Ruptured urinary bladder",
+  "purpose_ar": "يريد استبعاد تمزق المثانة البولية (إصابة حوضية بطنية لا صدرية) من إصابات الرض الصدري الكليل النمطية.",
+  "trap_ar": "الطالب قد يظن أي إصابة داخلية شديدة جزءًا من إصابات الصدر، متناسيًا أن المثانة عضو حوضي بطني بعيد تمامًا عن التجويف الصدري.",
+  "summary_ar": "تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Characteristic injuries, blunt thoracic trauma, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ruptured urinary bladder"
+      },
+      "narration": "لنبدأ بهذا السؤال. تشمل الإصابات المميزة لكسر الصدر كل ما يلي باستثناء:؟ أمامك هذه الخيارات: Fractured sternum، أو Transected aorta، أو Pulmonary contusion، أو Ruptured urinary bladder، أو Bilateral rib fractures. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد استبعاد تمزق المثانة البولية (إصابة حوضية بطنية لا صدرية) من إصابات الرض الصدري الكليل النمطية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد استبعاد تمزق المثانة البولية (إصابة حوضية بطنية لا صدرية) من إصابات الرض الصدري الكليل النمطية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Ruptured urinary bladder",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ruptured urinary bladder"
+      },
+      "card_text": "تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة. حرف B المزدوج يذكرك أن هذه الإصابة موقعها بعيد عن الصدر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fractured sternum: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one. يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike ruptured urinary bladder which is an abdominal/pelvic injury. الخيار B، Transected aorta: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one. يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike ruptured urinary bladder which is an abdominal/pelvic injury. الخيار C، Pulmonary contusion: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one. يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike ruptured urinary bladder which is an abdominal/pelvic injury. الخيار E، Bilateral rib fractures: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one. يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike ruptured urinary bladder which is an abdominal/pelvic injury.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Fractured sternum",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike…"
+        },
+        {
+          "letter": "B",
+          "text": "Transected aorta",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike…"
+        },
+        {
+          "letter": "C",
+          "text": "Pulmonary contusion",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike…"
+        },
+        {
+          "letter": "D",
+          "text": "Ruptured urinary bladder",
+          "verdict": "correct",
+          "reason": "تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة."
+        },
+        {
+          "letter": "E",
+          "text": "Bilateral rib fractures",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a thoracic one.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all classic blunt thoracic trauma injuries, unlike…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي إصابة داخلية شديدة جزءًا من إصابات الصدر، متناسيًا أن المثانة عضو حوضي بطني بعيد تمامًا عن التجويف الصدري.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي إصابة داخلية شديدة جزءًا من إصابات الصدر، متناسيًا أن المثانة عضو حوضي بطني بعيد تمامًا عن التجويف الصدري."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Ruptured urinary bladder",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ruptured urinary bladder"
+      },
+      "pills": [
+        "Blunt thoracic trauma: doesn't include Bladder"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Ruptured urinary bladder. تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة. وتذكّر القاعدة: Blunt thoracic trauma: doesn't include Bladder rupture. والإجابة الصحيحة هي D."
+    }
+  ]
+}

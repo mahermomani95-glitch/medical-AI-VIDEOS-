@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2013-34-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 34 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "First anatomical structure compressed, compartment syndrome",
+  "question_ar": "أول بنية تشريحية تم ضغطها في متلازمة الحيز؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 34,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Fascia"
+    },
+    {
+      "letter": "B",
+      "text": "Muscles"
+    },
+    {
+      "letter": "C",
+      "text": "Arteries"
+    },
+    {
+      "letter": "D",
+      "text": "Veins"
+    },
+    {
+      "letter": "E",
+      "text": "Nerves"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Veins",
+  "purpose_ar": "يريد التأكيد أن الأوردة هي أول بنية تشريحية تنضغط عند ارتفاع ضغط الحيز (أقل ضغط داخلي بين البنى).",
+  "trap_ar": "الطالب قد يختار الشرايين كأول بنية متأثرة، متناسيًا أن الأوردة تنضغط أولاً لانخفاض ضغطها الداخلي مقارنة بالشرايين الأقوى جدارًا.",
+  "summary_ar": "الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "First anatomical structure compressed, compartment syndrome",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أول بنية تشريحية تم ضغطها في متلازمة الحيز؟ أمامك هذه الخيارات: Fascia، أو Muscles، أو Arteries، أو Veins، أو Nerves. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الأوردة هي أول بنية تشريحية تنضغط عند ارتفاع ضغط الحيز (أقل ضغط داخلي بين البنى).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الأوردة هي أول بنية تشريحية تنضغط عند ارتفاع ضغط الحيز (أقل ضغط داخلي بين البنى)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Veins",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي. حرف V المزدوج يذكرك أن الأوردة هي أول بنية متأثرة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fascia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا expand, not something compressed by rising pressure. يصبح صحيحًا في سؤال يصف Fascia is the rigid boundary that. الخيار B، Muscles: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins. يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with their thin walls and low pressure, are compressed earliest as compartment pressure rises. الخيار C، Arteries: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins. يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with their thin walls and low pressure, are compressed earliest as compartment pressure rises. الخيار E، Nerves: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins. يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with their thin walls and low pressure, are compressed earliest as compartment pressure rises.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Fascia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا expand, not something compressed by rising pressure.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fascia is the rigid boundary that."
+        },
+        {
+          "letter": "B",
+          "text": "Muscles",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with…"
+        },
+        {
+          "letter": "C",
+          "text": "Arteries",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with…"
+        },
+        {
+          "letter": "D",
+          "text": "Veins",
+          "verdict": "correct",
+          "reason": "الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي."
+        },
+        {
+          "letter": "E",
+          "text": "Nerves",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الشرايين كأول بنية متأثرة، متناسيًا أن الأوردة تنضغط أولاً لانخفاض ضغطها الداخلي مقارنة بالشرايين الأقوى جدارًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الشرايين كأول بنية متأثرة، متناسيًا أن الأوردة تنضغط أولاً لانخفاض ضغطها الداخلي مقارنة بالشرايين الأقوى جدارًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Veins",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Compartment syndrome: Veins compressed first"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Veins. الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي. وتذكّر القاعدة: Compartment syndrome: Veins compressed first. والإجابة الصحيحة هي D."
+    }
+  ]
+}

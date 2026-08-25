@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-19-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 19 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "63M + PUD history + non-bilious food-containing vomiting + weight loss + upper abdominal fullness",
+  "question_ar": "رجل يبلغ من العمر 63 عامًا، لديه تاريخ معروف من مرض الإسهال، يعاني منقيء متكرر غير صفراوي يحتوي على طعام مبتلع. يشعر بامتلاء في الجزءالعلوي من البطن، وقد فقد 10 كجم من وزنه. وُجد شاحبًا وهزيلًا. التشخيصالأكثر احتمالًا هو:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 19,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Perforated Gastric ulcer"
+    },
+    {
+      "letter": "B",
+      "text": "Duodenal cancer"
+    },
+    {
+      "letter": "C",
+      "text": "Bleeding Gastric ulcer"
+    },
+    {
+      "letter": "D",
+      "text": "Gastric outlet obstruction"
+    },
+    {
+      "letter": "E",
+      "text": "Achalasia cardia"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Gastric outlet obstruction",
+  "purpose_ar": "التعرف على انسداد مخرج المعدة كمضاعفة مزمنة لداء القرحة الهضمية المتكرر، من خلال صورته السريرية المميزة (تقيؤ طعام قديم، امتلاء علوي، نقص وزن).",
+  "trap_ar": "قد يختار الطالب القرحة المعدية النازفة (C) لأنها أيضًا مرتبطة بتاريخ القرحة الهضمية، متجاهلاً أن نمط التقيؤ المحدد هنا (طعام غير مهضوم متكرر) يوجّه أكثر نحو انسداد ميكانيكي وليس نزفًا.",
+  "summary_ar": "تقيؤ طعام تم تناوله قبل ساعات أو أيام، مع تاريخ قرحة هضمية مزمنة، يوجّه لانسداد مخرج المعدة الناتج عن التندب/التضيق.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "63M + PUD history + non-bilious food-containing vomiting + w",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastric outlet obstruction"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 63 عامًا، لديه تاريخ معروف من مرض الإسهال، يعاني منقيء متكرر غير صفراوي يحتوي على طعام مبتلع. يشعر بامتلاء في الجزءالعلوي من البطن، وقد فقد 10 كجم من وزنه. وُجد شاحبًا وهزيلًا. التشخيصالأكثر احتمالًا هو: أمامك هذه الخيارات: Perforated Gastric ulcer، أو Duodenal cancer، أو Bleeding Gastric ulcer، أو Gastric outlet obstruction، أو Achalasia cardia. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على انسداد مخرج المعدة كمضاعفة مزمنة لداء القرحة الهضمية المتكرر، من خلال صورته السريرية المميزة (تقيؤ طعام قديم، امتلاء علوي، نقص وزن).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على انسداد مخرج المعدة كمضاعفة مزمنة لداء القرحة الهضمية المتكرر، من خلال صورته السريرية المميزة (تقيؤ طعام قديم، امتلاء علوي، نقص وزن)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Gastric outlet obstruction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastric outlet obstruction"
+      },
+      "card_text": "تقيؤ طعام تم تناوله قبل ساعات أو أيام، مع تاريخ قرحة هضمية مزمنة، يوجّه لانسداد مخرج المعدة الناتج عن التندب/التضيق.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تقيؤ طعام تم تناوله قبل ساعات أو أيام، مع تاريخ قرحة هضمية مزمنة، يوجّه لانسداد مخرج المعدة الناتج عن التندب/التضيق. تقيؤ طعام غير مهضوم من وجبات سابقة عند مريض بتاريخ قرحة هضمية مزمنة يوجّه لانسداد مخرج المعدة الناتج عن التندب المزمن للقرحة المتكررة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Perforated Gastric ulcer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vomiting of old food) don't match the classic gastric outlet obstruction presentation of repeated non-bilious vomiting of previously ingested food in a chronic PUD patient. يصبح صحيحًا في سؤال يصف Perforated gastric ulcer, duodenal cancer (B, rare), bleeding gastric ulcer, and achalasia (E, which causes dysphagia. الخيار B، Duodenal cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vomiting of old food) don't match the classic gastric outlet obstruction presentation of repeated non-bilious vomiting of previously ingested food in a chronic PUD patient. يصبح صحيحًا في سؤال يصف Perforated gastric ulcer, duodenal cancer (B, rare), bleeding gastric ulcer, and achalasia (E, which causes dysphagia. الخيار C، Bleeding Gastric ulcer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vomiting of old food) don't match the classic gastric outlet obstruction presentation of repeated non-bilious vomiting of previously ingested food in a chronic PUD patient. يصبح صحيحًا في سؤال يصف Perforated gastric ulcer, duodenal cancer (B, rare), bleeding gastric ulcer, and achalasia (E, which causes dysphagia. الخيار E، Achalasia cardia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric outlet obstruction. يصبح صحيحًا في سؤال يستهدف Achalasia cardia تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Perforated Gastric ulcer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vomiting of old food) don't match the classic gastric outlet obstruction presentation of repeated non-bilious vomiting of…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforated gastric ulcer, duodenal cancer (B, rare), bleeding gastric ulcer, and achalasia (E, which causes dysphagia."
+        },
+        {
+          "letter": "B",
+          "text": "Duodenal cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vomiting of old food) don't match the classic gastric outlet obstruction presentation of repeated non-bilious vomiting of…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforated gastric ulcer, duodenal cancer (B, rare), bleeding gastric ulcer, and achalasia (E, which causes dysphagia."
+        },
+        {
+          "letter": "C",
+          "text": "Bleeding Gastric ulcer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vomiting of old food) don't match the classic gastric outlet obstruction presentation of repeated non-bilious vomiting of…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforated gastric ulcer, duodenal cancer (B, rare), bleeding gastric ulcer, and achalasia (E, which causes dysphagia."
+        },
+        {
+          "letter": "D",
+          "text": "Gastric outlet obstruction",
+          "verdict": "correct",
+          "reason": "تقيؤ طعام تم تناوله قبل ساعات أو أيام، مع تاريخ قرحة هضمية مزمنة، يوجّه لانسداد مخرج المعدة الناتج عن التندب/التضيق."
+        },
+        {
+          "letter": "E",
+          "text": "Achalasia cardia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric outlet obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Achalasia cardia تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب القرحة المعدية النازفة (C) لأنها أيضًا مرتبطة بتاريخ القرحة الهضمية، متجاهلاً أن نمط التقيؤ المحدد هنا (طعام غير مهضوم متكرر) يوجّه أكثر نحو انسداد ميكانيكي وليس نزفًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب القرحة المعدية النازفة (C) لأنها أيضًا مرتبطة بتاريخ القرحة الهضمية، متجاهلاً أن نمط التقيؤ المحدد هنا (طعام غير مهضوم متكرر) يوجّه أكثر نحو انسداد ميكانيكي وليس نزفًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Gastric outlet obstruction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastric outlet obstruction"
+      },
+      "pills": [
+        "\"Vomiting old food + PUD history = Gastric out"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Gastric outlet obstruction. تقيؤ طعام تم تناوله قبل ساعات أو أيام، مع تاريخ قرحة هضمية مزمنة، يوجّه لانسداد مخرج المعدة الناتج عن التندب/التضيق."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تقيؤ طعام تم تناوله قبل ساعات أو أيام، مع تاريخ قرحة هضمية مزمنة، يوجّه لانسداد مخرج المعدة الناتج عن التندب/التضيق. وتذكّر القاعدة: \"Vomiting old food + PUD history = Gastric outlet obstruction\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

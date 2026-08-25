@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2014-28-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 28 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Massive transfusion complications, EXCEPT",
+  "question_ar": "تشمل مضاعفات نقل الدم الضخم كل ما يلي باستثناء؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 28,
+  "options": [
+    {
+      "letter": "A",
+      "text": "acidosis"
+    },
+    {
+      "letter": "B",
+      "text": "alkalosis"
+    },
+    {
+      "letter": "C",
+      "text": "hypercalcemia"
+    },
+    {
+      "letter": "D",
+      "text": "hypothermia"
+    },
+    {
+      "letter": "E",
+      "text": "coagulopathy"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "hypercalcemia",
+  "purpose_ar": "يريد التأكيد أن نقل الدم الضخم يسبب نقص كالسيوم (تسمم سيترات)، لا فرطه كما بالعبارة الخاطئة.",
+  "trap_ar": "الطالب قد يقبل فرط الكالسيوم كمضاعفة حقيقية، متناسيًا أن السيترات الحافظة تربط الكالسيوم فتخفضه لا ترفعه.",
+  "summary_ar": "نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Massive transfusion complications, EXCEPT",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. تشمل مضاعفات نقل الدم الضخم كل ما يلي باستثناء؟ أمامك هذه الخيارات: acidosis، أو alkalosis، أو hypercalcemia، أو hypothermia، أو coagulopathy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن نقل الدم الضخم يسبب نقص كالسيوم (تسمم سيترات)، لا فرطه كما بالعبارة الخاطئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن نقل الدم الضخم يسبب نقص كالسيوم (تسمم سيترات)، لا فرطه كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "hypercalcemia",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه. حرف H المزدوج يذكرك أن الاتجاه الصحيح هو النقص لا الفرط."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، acidosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike hypercalcemia — citrate in stored blood actually binds calcium causing HYPOcalcemia. الخيار B، alkalosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي hypercalcemia. يصبح صحيحًا في سؤال يستهدف alkalosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، hypothermia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike hypercalcemia — citrate in stored blood actually binds calcium causing HYPOcalcemia. الخيار E، coagulopathy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike hypercalcemia — citrate in stored blood actually binds calcium causing HYPOcalcemia.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "acidosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike…"
+        },
+        {
+          "letter": "B",
+          "text": "alkalosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي hypercalcemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف alkalosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "hypercalcemia",
+          "verdict": "correct",
+          "reason": "نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه."
+        },
+        {
+          "letter": "D",
+          "text": "hypothermia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike…"
+        },
+        {
+          "letter": "E",
+          "text": "coagulopathy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis, alkalosis (B, from citrate metabolism), hypothermia, and coagulopathy are all recognized complications of massive transfusion, unlike…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل فرط الكالسيوم كمضاعفة حقيقية، متناسيًا أن السيترات الحافظة تربط الكالسيوم فتخفضه لا ترفعه.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل فرط الكالسيوم كمضاعفة حقيقية، متناسيًا أن السيترات الحافظة تربط الكالسيوم فتخفضه لا ترفعه."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. hypercalcemia",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Massive transfusion: causes Hypocalcemia via c"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: hypercalcemia. نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه. وتذكّر القاعدة: Massive transfusion: causes Hypocalcemia via citrate. والإجابة الصحيحة هي C."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-06-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 6 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "NOT a presentation, right-sided colonic tumor",
+  "question_ar": "أحد الأعراض التالية ليس عرضًا لورم القولون الأيمن؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Melena"
+    },
+    {
+      "letter": "B",
+      "text": "IDA"
+    },
+    {
+      "letter": "C",
+      "text": "Abdominal mass"
+    },
+    {
+      "letter": "D",
+      "text": "Obstruction"
+    },
+    {
+      "letter": "E",
+      "text": "Anorexia and weight loss"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Obstruction",
+  "purpose_ar": "يريد التأكيد أن الانسداد ليس عرضًا نمطيًا لورم القولون الأيمن (يميل لنزف خفي وفقر دم بسبب اتساع تجويفه).",
+  "trap_ar": "الطالب قد يظن الانسداد عرضًا شائعًا لأي ورم قولوني، متناسيًا أن اتساع تجويف القولون الأيمن يؤخر الانسداد لمراحل متأخرة جدًا.",
+  "summary_ar": "الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "NOT a presentation, right-sided colonic tumor",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Obstruction"
+      },
+      "narration": "لنبدأ بهذا السؤال. أحد الأعراض التالية ليس عرضًا لورم القولون الأيمن؟ أمامك هذه الخيارات: Melena، أو IDA، أو Abdominal mass، أو Obstruction، أو Anorexia and weight loss. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الانسداد ليس عرضًا نمطيًا لورم القولون الأيمن (يميل لنزف خفي وفقر دم بسبب اتساع تجويفه).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الانسداد ليس عرضًا نمطيًا لورم القولون الأيمن (يميل لنزف خفي وفقر دم بسبب اتساع تجويفه)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Obstruction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Obstruction"
+      },
+      "card_text": "الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر. حرف R المزدوج يذكرك أن الانسداد نادر مبكرًا بهذا الموقع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Melena: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction. يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide lumen and liquid content, unlike obstruction which is more typical of left-sided tumors. الخيار B، IDA: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction. يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide lumen and liquid content, unlike obstruction which is more typical of left-sided tumors. الخيار C، Abdominal mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction. يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide lumen and liquid content, unlike obstruction which is more typical of left-sided tumors. الخيار E، Anorexia and weight loss: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction. يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide lumen and liquid content, unlike obstruction which is more typical of left-sided tumors.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Melena",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide…"
+        },
+        {
+          "letter": "B",
+          "text": "IDA",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide…"
+        },
+        {
+          "letter": "C",
+          "text": "Abdominal mass",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide…"
+        },
+        {
+          "letter": "D",
+          "text": "Obstruction",
+          "verdict": "correct",
+          "reason": "الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر."
+        },
+        {
+          "letter": "E",
+          "text": "Anorexia and weight loss",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic presentations of right-sided colon cancer given its wide…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن الانسداد عرضًا شائعًا لأي ورم قولوني، متناسيًا أن اتساع تجويف القولون الأيمن يؤخر الانسداد لمراحل متأخرة جدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن الانسداد عرضًا شائعًا لأي ورم قولوني، متناسيًا أن اتساع تجويف القولون الأيمن يؤخر الانسداد لمراحل متأخرة جدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Obstruction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Obstruction"
+      },
+      "pills": [
+        "Right colon tumor: Rarely obstructs early"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Obstruction. الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر. وتذكّر القاعدة: Right colon tumor: Rarely obstructs early. والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "surgery-10mo2019-46-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 46 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "42M + severe epigastric/RUQ pain radiating to shoulder + jaundice + fever/chills",
+  "question_ar": "رجل يبلغ من العمر 42 عامًا يعاني من ألم شديد مفاجئ في المنطقةالشرسوفية والربع العلوي الأيمن يمتد إلى الكتف الأيمن. يصاحب هذا الألمقيء متكرر وتقيؤ. عند الفحص السريري، وُجد أنه يعاني من اليرقان والحمىمع قشعريرة. العلامات الحيوية: ضغط الدم 105/50 معدل ضربات القلب 110 درجة الحرارة 39.5 تشبع الأكسجين 94% الخطوة التالية الأنسب للعلاج هي:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 46,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Laparoscopic cholecystectomy"
+    },
+    {
+      "letter": "B",
+      "text": "NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy"
+    },
+    {
+      "letter": "C",
+      "text": "Open Cholecystectomy and CPD exploration"
+    },
+    {
+      "letter": "D",
+      "text": "MRCP followed by ERCP"
+    },
+    {
+      "letter": "E",
+      "text": "Laparotomy-enterotomy and removal of stone"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy",
+  "purpose_ar": "تطبيق التسلسل العلاجي الصحيح لالتهاب الطرق الصفراوية الصاعد بثلاثية شاركوت الكاملة — راحة معوية وسوائل ومضادات أولًا، ثم ERCP عاجل، ثم استئصال المرارة لاحقًا وليس فورًا.",
+  "trap_ar": "قد يختار الطالب استئصال المرارة بالمنظار (A) مباشرة لأن المريض ينتظر أصلًا هذه الجراحة، متجاهلاً أن الأولوية الآن هي تصريف الانسداد الصفراوي العاجل بـ ERCP بعد الاستقرار، وليس معالجة المرارة نفسها فورًا.",
+  "summary_ar": "ثلاثية شاركوت (ألم، يرقان، حمى مع قشعريرة) تعني التهاب طرق صفراوية صاعد — استقرار أولًا، ثم ERCP عاجل لإزالة الحصاة، يليه استئصال المرارة لاحقًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "42M + severe epigastric/RUQ pain radiating to shoulder + jau",
+      "illustration": {
+        "type": "sequence",
+        "steps": [
+          "NPO",
+          "IV fluid",
+          "And antibiotic",
+          "ERCP-stone extraction followed by cholecystectomy"
+        ]
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 42 عامًا يعاني من ألم شديد مفاجئ في المنطقةالشرسوفية والربع العلوي الأيمن يمتد إلى الكتف الأيمن. يصاحب هذا الألمقيء متكرر وتقيؤ. عند الفحص السريري، وُجد أنه يعاني من اليرقان والحمىمع قشعريرة. العلامات الحيوية: ضغط الدم 105/50 معدل ضربات القلب 110 درجة الحرارة 39.5 تشبع الأكسجين 94% الخطوة التالية الأنسب للعلاج هي: أمامك هذه الخيارات: Laparoscopic cholecystectomy، أو NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy، أو Open Cholecystectomy and CPD exploration، أو MRCP followed by ERCP، أو Laparotomy-enterotomy and removal of stone. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق التسلسل العلاجي الصحيح لالتهاب الطرق الصفراوية الصاعد بثلاثية شاركوت الكاملة — راحة معوية وسوائل ومضادات أولًا، ثم ERCP عاجل، ثم استئصال المرارة لاحقًا وليس فورًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق التسلسل العلاجي الصحيح لالتهاب الطرق الصفراوية الصاعد بثلاثية شاركوت الكاملة — راحة معوية وسوائل ومضادات أولًا، ثم ERCP عاجل، ثم استئصال المرارة لاحقًا وليس فورًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "NPO, IV fluid, and antibiotic then ERC",
+      "illustration": {
+        "type": "sequence",
+        "steps": [
+          "NPO",
+          "IV fluid",
+          "And antibiotic",
+          "ERCP-stone extraction followed by cholecystectomy"
+        ]
+      },
+      "card_text": "ثلاثية شاركوت (ألم، يرقان، حمى مع قشعريرة) تعني التهاب طرق صفراوية صاعد — استقرار أولًا، ثم ERCP عاجل لإزالة الحصاة، يليه استئصال المرارة لاحقًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ثلاثية شاركوت (ألم، يرقان، حمى مع قشعريرة) تعني التهاب طرق صفراوية صاعد — استقرار أولًا، ثم ERCP عاجل لإزالة الحصاة، يليه استئصال المرارة لاحقًا. ثلاثية شاركوت الكلاسيكية (ألم، يرقان، حمى) تشخّص التهاب الطرق الصفراوية الصاعد، وعلاجه: إنعاش أولي بالسوائل والمضادات، ثم ERCP عاجل لتصريف الانسداد، ويُترك استئصال المرارة لمرحلة لاحقة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Laparoscopic cholecystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy. يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy, open cholecystectomy with CBD exploration, MRCP followed by ERCP, and laparotomy with enterotomy are all more invasive or delayed compared to stabilization with fluids/antibiotics followed by urgent ERCP as the appropriate first-line approach for ascending cholangitis. الخيار C، Open Cholecystectomy and CPD exploration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy. يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy, open cholecystectomy with CBD exploration, MRCP followed by ERCP, and laparotomy with enterotomy are all more invasive or delayed compared to stabilization with fluids/antibiotics followed by urgent ERCP as the appropriate first-line approach for ascending cholangitis. الخيار D، MRCP followed by ERCP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy. يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy, open cholecystectomy with CBD exploration, MRCP followed by ERCP, and laparotomy with enterotomy are all more invasive or delayed compared to stabilization with fluids/antibiotics followed by urgent ERCP as the appropriate first-line approach for ascending cholangitis. الخيار E، Laparotomy-enterotomy and removal of stone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy. يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy, open cholecystectomy with CBD exploration, MRCP followed by ERCP, and laparotomy with enterotomy are all more invasive or delayed compared to stabilization with fluids/antibiotics followed by urgent ERCP as the appropriate first-line approach for ascending cholangitis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Laparoscopic cholecystectomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy, open cholecystectomy with CBD exploration, MRCP followed by ERCP, and laparotomy with enterotomy are all more…"
+        },
+        {
+          "letter": "B",
+          "text": "NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy",
+          "verdict": "correct",
+          "reason": "ثلاثية شاركوت (ألم، يرقان، حمى مع قشعريرة) تعني التهاب طرق صفراوية صاعد — استقرار أولًا، ثم ERCP عاجل لإزالة الحصاة، يليه استئصال المرارة لاحقًا."
+        },
+        {
+          "letter": "C",
+          "text": "Open Cholecystectomy and CPD exploration",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy, open cholecystectomy with CBD exploration, MRCP followed by ERCP, and laparotomy with enterotomy are all more…"
+        },
+        {
+          "letter": "D",
+          "text": "MRCP followed by ERCP",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy, open cholecystectomy with CBD exploration, MRCP followed by ERCP, and laparotomy with enterotomy are all more…"
+        },
+        {
+          "letter": "E",
+          "text": "Laparotomy-enterotomy and removal of stone",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Laparoscopic cholecystectomy, open cholecystectomy with CBD exploration, MRCP followed by ERCP, and laparotomy with enterotomy are all more…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب استئصال المرارة بالمنظار (A) مباشرة لأن المريض ينتظر أصلًا هذه الجراحة، متجاهلاً أن الأولوية الآن هي تصريف الانسداد الصفراوي العاجل بـ ERCP بعد الاستقرار، وليس معالجة المرارة نفسها فورًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب استئصال المرارة بالمنظار (A) مباشرة لأن المريض ينتظر أصلًا هذه الجراحة، متجاهلاً أن الأولوية الآن هي تصريف الانسداد الصفراوي العاجل بـ ERCP بعد الاستقرار، وليس معالجة المرارة نفسها فورًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. NPO, IV fluid, and antibiotic then ERCP-stone ex",
+      "illustration": {
+        "type": "sequence",
+        "steps": [
+          "NPO",
+          "IV fluid",
+          "And antibiotic",
+          "ERCP-stone extraction followed by cholecystectomy"
+        ]
+      },
+      "pills": [
+        "\"Charcot's triad = Cholangitis = Stabilize, th"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: NPO, IV fluid, and antibiotic then ERCP-stone extraction followed by cholecystectomy. ثلاثية شاركوت (ألم، يرقان، حمى مع قشعريرة) تعني التهاب طرق صفراوية صاعد — استقرار أولًا، ثم ERCP عاجل لإزالة الحصاة، يليه استئصال المرارة لاحقًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ثلاثية شاركوت (ألم، يرقان، حمى مع قشعريرة) تعني التهاب طرق صفراوية صاعد — استقرار أولًا، ثم ERCP عاجل لإزالة الحصاة، يليه استئصال المرارة لاحقًا. وتذكّر القاعدة: \"Charcot's triad = Cholangitis = Stabilize, then ERCP\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

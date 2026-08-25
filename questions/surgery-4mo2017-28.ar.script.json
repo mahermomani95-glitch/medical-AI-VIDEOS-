@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2017-28-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 28 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "62yo, watery diarrhea, cramps, recent antibiotics (implied), diagnosis",
+  "question_ar": "مريض يبلغ من العمر 62 عامًا حضر يشكو من إسهال مائي وتقلصات، وقدبدأ مؤخرًا بتناول الكليندامايسين لعلاج التهاب المفاصل الإنتاني. يعاني منحساسية تجاه البنسلين. أي مما يلي هو التشخيص الأكثر احتمالًا:؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 28,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Campylobacter jujeni diarrhea"
+    },
+    {
+      "letter": "B",
+      "text": "Pseudomembranous colitis"
+    },
+    {
+      "letter": "C",
+      "text": "Salmonella typhi diarrhea"
+    },
+    {
+      "letter": "D",
+      "text": "Rectal cancer"
+    },
+    {
+      "letter": "E",
+      "text": "Hemorrhoids"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Pseudomembranous colitis",
+  "purpose_ar": "يريد ربط إسهال مائي وتشنجات بعد مضادات حيوية حديثة بالتهاب القولون الغشائي الكاذب.",
+  "trap_ar": "الطالب قد يختار إسهالاً معديًا بسيطًا، متناسيًا أن السياق الدوائي الحديث (مضادات حيوية) يوجه تحديدًا لهذا التشخيص النوعي.",
+  "summary_ar": "إسهال مائي بعد مضادات حيوية حديثة يوجه لالتهاب القولون الغشائي الكاذب.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "62yo, watery diarrhea, cramps, recent antibiotics (implied),",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 62 عامًا حضر يشكو من إسهال مائي وتقلصات، وقدبدأ مؤخرًا بتناول الكليندامايسين لعلاج التهاب المفاصل الإنتاني. يعاني منحساسية تجاه البنسلين. أي مما يلي هو التشخيص الأكثر احتمالًا:؟ أمامك هذه الخيارات: Campylobacter jujeni diarrhea، أو Pseudomembranous colitis، أو Salmonella typhi diarrhea، أو Rectal cancer، أو Hemorrhoids. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط إسهال مائي وتشنجات بعد مضادات حيوية حديثة بالتهاب القولون الغشائي الكاذب.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط إسهال مائي وتشنجات بعد مضادات حيوية حديثة بالتهاب القولون الغشائي الكاذب."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Pseudomembranous colitis",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "إسهال مائي بعد مضادات حيوية حديثة يوجه لالتهاب القولون الغشائي الكاذب.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. إسهال مائي بعد مضادات حيوية حديثة يوجه لالتهاب القولون الغشائي الكاذب. حرف P المزدوج يذكرك بهذا التشخيص المرتبط بالسياق الدوائي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Campylobacter jujeni diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Campylobacter, Salmonella typhi, rectal cancer, and hemorrhoids don't fit the recent-antibiotic-exposure history as well — watery diarrhea with cramps after antibiotic use is the classic presentation of pseudomembranous (C. difficile) colitis. الخيار C، Salmonella typhi diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Campylobacter, Salmonella typhi, rectal cancer, and hemorrhoids don't fit the recent-antibiotic-exposure history as well — watery diarrhea with cramps after antibiotic use is the classic presentation of pseudomembranous (C. difficile) colitis. الخيار D، Rectal cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Campylobacter, Salmonella typhi, rectal cancer, and hemorrhoids don't fit the recent-antibiotic-exposure history as well — watery diarrhea with cramps after antibiotic use is the classic presentation of pseudomembranous (C. difficile) colitis. الخيار E، Hemorrhoids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomembranous colitis. يصبح صحيحًا في سؤال يصف Campylobacter, Salmonella typhi, rectal cancer, and hemorrhoids don't fit the recent-antibiotic-exposure history as well — watery diarrhea with cramps after antibiotic use is the classic presentation of pseudomembranous (C. difficile) colitis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Campylobacter jujeni diarrhea",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomembranous colitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Campylobacter, Salmonella typhi, rectal cancer, and hemorrhoids don't fit the recent-antibiotic-exposure history as well — watery diarrhea with…"
+        },
+        {
+          "letter": "B",
+          "text": "Pseudomembranous colitis",
+          "verdict": "correct",
+          "reason": "إسهال مائي بعد مضادات حيوية حديثة يوجه لالتهاب القولون الغشائي الكاذب."
+        },
+        {
+          "letter": "C",
+          "text": "Salmonella typhi diarrhea",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomembranous colitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Campylobacter, Salmonella typhi, rectal cancer, and hemorrhoids don't fit the recent-antibiotic-exposure history as well — watery diarrhea with…"
+        },
+        {
+          "letter": "D",
+          "text": "Rectal cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomembranous colitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Campylobacter, Salmonella typhi, rectal cancer, and hemorrhoids don't fit the recent-antibiotic-exposure history as well — watery diarrhea with…"
+        },
+        {
+          "letter": "E",
+          "text": "Hemorrhoids",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomembranous colitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Campylobacter, Salmonella typhi, rectal cancer, and hemorrhoids don't fit the recent-antibiotic-exposure history as well — watery diarrhea with…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار إسهالاً معديًا بسيطًا، متناسيًا أن السياق الدوائي الحديث (مضادات حيوية) يوجه تحديدًا لهذا التشخيص النوعي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار إسهالاً معديًا بسيطًا، متناسيًا أن السياق الدوائي الحديث (مضادات حيوية) يوجه تحديدًا لهذا التشخيص النوعي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Pseudomembranous colitis",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Post-antibiotic diarrhea: Pseudomembranous col"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Pseudomembranous colitis. إسهال مائي بعد مضادات حيوية حديثة يوجه لالتهاب القولون الغشائي الكاذب."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. إسهال مائي بعد مضادات حيوية حديثة يوجه لالتهاب القولون الغشائي الكاذب. وتذكّر القاعدة: Post-antibiotic diarrhea: Pseudomembranous colitis. والإجابة الصحيحة هي B."
+    }
+  ]
+}

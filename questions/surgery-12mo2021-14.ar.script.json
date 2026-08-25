@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2021-14-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2021 Course, Question 14 of 18",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Operations needing prophylactic antibiotics — EXCEPT",
+  "question_ar": "جميع العمليات التالية تحتاج مضادًا حيويًا وقائيًا ما عدا؟",
+  "course_label": "Course: Surgery — 12th Month 2021 Course",
+  "question_number": 14,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Herniotomy"
+    },
+    {
+      "letter": "B",
+      "text": "Appendectomy for a suppurative appendix"
+    },
+    {
+      "letter": "C",
+      "text": "Drainage for a perianal abscess"
+    },
+    {
+      "letter": "D",
+      "text": "Surgery for a perforated peptic ulcer"
+    },
+    {
+      "letter": "E",
+      "text": "Thyroid surgery"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Thyroid surgery",
+  "purpose_ar": "حفظ أن الجراحات النظيفة البحتة (كجراحة الدرقية البسيطة) لا تتطلب مضادات وقائية روتينية، بعكس الجراحات الملوثة أو المتقيحة.",
+  "trap_ar": "قد يظن الطالب أن أي جراحة رقبية أو كبرى تحتاج مضادات وقائية بشكل عام، متجاهلاً أن التصنيف (نظيف مقابل ملوث) هو المحدد الفعلي.",
+  "summary_ar": "جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Operations needing prophylactic antibiotics — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroid surgery"
+      },
+      "narration": "لنبدأ بهذا السؤال. جميع العمليات التالية تحتاج مضادًا حيويًا وقائيًا ما عدا؟ أمامك هذه الخيارات: Herniotomy، أو Appendectomy for a suppurative appendix، أو Drainage for a perianal abscess، أو Surgery for a perforated peptic ulcer، أو Thyroid surgery. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ أن الجراحات النظيفة البحتة (كجراحة الدرقية البسيطة) لا تتطلب مضادات وقائية روتينية، بعكس الجراحات الملوثة أو المتقيحة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ أن الجراحات النظيفة البحتة (كجراحة الدرقية البسيطة) لا تتطلب مضادات وقائية روتينية، بعكس الجراحات الملوثة أو المتقيحة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Thyroid surgery",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroid surgery"
+      },
+      "card_text": "جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة. جراحة الدرقية البسيطة غير المعقدة تُصنَّف نظيفة، بعكس فتق الأطفال المفتوح أحيانًا، استئصال الزائدة المتقيحة، تصريف الخراج، وجراحة القرحة المثقوبة التي تتطلب جميعًا مضادات وقائية لدرجة تلوثها الأعلى."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Herniotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine prophylaxis. يصبح صحيحًا في سؤال يصف Herniotomy is typically a clean pediatric procedure. الخيار B، Appendectomy for a suppurative appendix: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery. يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all contaminated/dirty procedures that genuinely require prophylactic antibiotics, unlike simple thyroid surgery which is clean. الخيار C، Drainage for a perianal abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery. يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all contaminated/dirty procedures that genuinely require prophylactic antibiotics, unlike simple thyroid surgery which is clean. الخيار D، Surgery for a perforated peptic ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery. يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all contaminated/dirty procedures that genuinely require prophylactic antibiotics, unlike simple thyroid surgery which is clean.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Herniotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring routine prophylaxis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Herniotomy is typically a clean pediatric procedure."
+        },
+        {
+          "letter": "B",
+          "text": "Appendectomy for a suppurative appendix",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all…"
+        },
+        {
+          "letter": "C",
+          "text": "Drainage for a perianal abscess",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all…"
+        },
+        {
+          "letter": "D",
+          "text": "Surgery for a perforated peptic ulcer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroid surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and perforated peptic ulcer surgery are all…"
+        },
+        {
+          "letter": "E",
+          "text": "Thyroid surgery",
+          "verdict": "correct",
+          "reason": "جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن أي جراحة رقبية أو كبرى تحتاج مضادات وقائية بشكل عام، متجاهلاً أن التصنيف (نظيف مقابل ملوث) هو المحدد الفعلي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن أي جراحة رقبية أو كبرى تحتاج مضادات وقائية بشكل عام، متجاهلاً أن التصنيف (نظيف مقابل ملوث) هو المحدد الفعلي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Thyroid surgery",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroid surgery"
+      },
+      "pills": [
+        "\"Simple thyroid surgery = clean, no routine an"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Thyroid surgery. جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة. وتذكّر القاعدة: \"Simple thyroid surgery = clean, no routine antibiotic prophylaxis needed\". والإجابة الصحيحة هي E."
+    }
+  ]
+}

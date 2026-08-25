@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2017-12-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 12 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Which vaccine is live",
+  "question_ar": "أي من اللقاحات التالية هو لقاح حي؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 12,
+  "options": [
+    {
+      "letter": "A",
+      "text": "H influenza type B"
+    },
+    {
+      "letter": "B",
+      "text": "Diphtheria"
+    },
+    {
+      "letter": "C",
+      "text": "OPV"
+    },
+    {
+      "letter": "D",
+      "text": "Hepatitis B"
+    },
+    {
+      "letter": "E",
+      "text": "influenza A"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "OPV",
+  "purpose_ar": "يريد التأكيد أن لقاح شلل الأطفال الفموي حي مضعف (بخلاف الحقني المعطل).",
+  "trap_ar": "الطالب قد يظن كل لقاحات شلل الأطفال حية بالتساوي، متناسيًا أن النسخة الحقنية IPV معطلة لا حية، بخلاف الفموية.",
+  "summary_ar": "لقاح شلل الأطفال الفموي حي مضعف، بخلاف الحقني المعطل.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Which vaccine is live",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي من اللقاحات التالية هو لقاح حي؟ أمامك هذه الخيارات: H influenza type B، أو Diphtheria، أو OPV، أو Hepatitis B، أو influenza A. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن لقاح شلل الأطفال الفموي حي مضعف (بخلاف الحقني المعطل).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن لقاح شلل الأطفال الفموي حي مضعف (بخلاف الحقني المعطل)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "OPV",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "لقاح شلل الأطفال الفموي حي مضعف، بخلاف الحقني المعطل.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. لقاح شلل الأطفال الفموي حي مضعف، بخلاف الحقني المعطل. حرف O المزدوج يذكرك أن الشكل الفموي تحديدًا هو الحي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، H influenza type B: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي OPV. يصبح صحيحًا في سؤال يصف Hib vaccine, diphtheria toxoid, hepatitis B, and injectable influenza are all inactivated/subunit vaccines, unlike OPV (oral polio vaccine), which is a live attenuated vaccine. الخيار B، Diphtheria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي OPV. يصبح صحيحًا في سؤال يصف Hib vaccine, diphtheria toxoid, hepatitis B, and injectable influenza are all inactivated/subunit vaccines, unlike OPV (oral polio vaccine), which is a live attenuated vaccine. الخيار D، Hepatitis B: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي OPV. يصبح صحيحًا في سؤال يصف Hib vaccine, diphtheria toxoid, hepatitis B, and injectable influenza are all inactivated/subunit vaccines, unlike OPV (oral polio vaccine), which is a live attenuated vaccine. الخيار E، influenza A: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي OPV. يصبح صحيحًا في سؤال يصف Hib vaccine, diphtheria toxoid, hepatitis B, and injectable influenza are all inactivated/subunit vaccines, unlike OPV (oral polio vaccine), which is a live attenuated vaccine.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "H influenza type B",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي OPV.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hib vaccine, diphtheria toxoid, hepatitis B, and injectable influenza are all inactivated/subunit vaccines, unlike OPV (oral polio vaccine)…"
+        },
+        {
+          "letter": "B",
+          "text": "Diphtheria",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي OPV.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hib vaccine, diphtheria toxoid, hepatitis B, and injectable influenza are all inactivated/subunit vaccines, unlike OPV (oral polio vaccine)…"
+        },
+        {
+          "letter": "C",
+          "text": "OPV",
+          "verdict": "correct",
+          "reason": "لقاح شلل الأطفال الفموي حي مضعف، بخلاف الحقني المعطل."
+        },
+        {
+          "letter": "D",
+          "text": "Hepatitis B",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي OPV.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hib vaccine, diphtheria toxoid, hepatitis B, and injectable influenza are all inactivated/subunit vaccines, unlike OPV (oral polio vaccine)…"
+        },
+        {
+          "letter": "E",
+          "text": "influenza A",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي OPV.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hib vaccine, diphtheria toxoid, hepatitis B, and injectable influenza are all inactivated/subunit vaccines, unlike OPV (oral polio vaccine)…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن كل لقاحات شلل الأطفال حية بالتساوي، متناسيًا أن النسخة الحقنية IPV معطلة لا حية، بخلاف الفموية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن كل لقاحات شلل الأطفال حية بالتساوي، متناسيًا أن النسخة الحقنية IPV معطلة لا حية، بخلاف الفموية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. OPV",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "OPV: the live Oral Polio Vaccine"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: OPV. لقاح شلل الأطفال الفموي حي مضعف، بخلاف الحقني المعطل."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. لقاح شلل الأطفال الفموي حي مضعف، بخلاف الحقني المعطل. وتذكّر القاعدة: OPV: the live Oral Polio Vaccine. والإجابة الصحيحة هي C."
+    }
+  ]
+}

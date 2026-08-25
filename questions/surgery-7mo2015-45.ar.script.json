@@ -1,0 +1,143 @@
+{
+  "id": "surgery-7mo2015-45-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 45 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "First drug, adrenal medulla tumor patient",
+  "question_ar": "أول دواء يجب وصفه لمريض مصاب بورم نخاع الغدة الكظرية هو؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 45,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Propranolol"
+    },
+    {
+      "letter": "B",
+      "text": "Phenoxybenzamine"
+    },
+    {
+      "letter": "C",
+      "text": "Hydralazine"
+    },
+    {
+      "letter": "D",
+      "text": "Enalapril"
+    },
+    {
+      "letter": "E",
+      "text": "Lowsartane"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Phenoxybenzamine",
+  "purpose_ar": "يريد التأكيد أن الفينوكسي بنزامين (حاصر ألفا) هو الدواء الأول الواجب إعطاؤه بمريض ورم القواتم قبل أي شيء آخر.",
+  "trap_ar": "الطالب قد يختار حاصر بيتا أولاً، متناسيًا أن إعطاء حاصر بيتا وحده دون حجب ألفا أولاً قد يسبب أزمة ضغط خطيرة (تنشيط ألفا دون معارضة).",
+  "summary_ar": "حاصر ألفا يسبق أي دواء آخر بمريض ورم القواتم لمنع أزمة ضغط.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "First drug, adrenal medulla tumor patient",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أول دواء يجب وصفه لمريض مصاب بورم نخاع الغدة الكظرية هو؟ أمامك هذه الخيارات: Propranolol، أو Phenoxybenzamine، أو Hydralazine، أو Enalapril، أو Lowsartane. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الفينوكسي بنزامين (حاصر ألفا) هو الدواء الأول الواجب إعطاؤه بمريض ورم القواتم قبل أي شيء آخر.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الفينوكسي بنزامين (حاصر ألفا) هو الدواء الأول الواجب إعطاؤه بمريض ورم القواتم قبل أي شيء آخر."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Phenoxybenzamine",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "حاصر ألفا يسبق أي دواء آخر بمريض ورم القواتم لمنع أزمة ضغط.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. حاصر ألفا يسبق أي دواء آخر بمريض ورم القواتم لمنع أزمة ضغط. حرف P المزدوج يذكرك بأولوية حجب ألفا قبل كل شيء آخر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Propranolol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يستهدف Propranolol تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Hydralazine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يصف hydralazine and enalapril don't address the underlying catecholamine excess mechanism directly. الخيار D، Enalapril: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine. يصبح صحيحًا في سؤال يصف hydralazine and enalapril don't address the underlying catecholamine excess mechanism directly. الخيار E، Lowsartane: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا first-line — phenoxybenzamine (alpha-blockade) must always be given FIRST in pheochromocytoma management, before any beta-blocker. يصبح صحيحًا في سؤال يصف losartan is an ARB.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Propranolol",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Propranolol تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "B",
+          "text": "Phenoxybenzamine",
+          "verdict": "correct",
+          "reason": "حاصر ألفا يسبق أي دواء آخر بمريض ورم القواتم لمنع أزمة ضغط."
+        },
+        {
+          "letter": "C",
+          "text": "Hydralazine",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف hydralazine and enalapril don't address the underlying catecholamine excess mechanism directly."
+        },
+        {
+          "letter": "D",
+          "text": "Enalapril",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phenoxybenzamine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف hydralazine and enalapril don't address the underlying catecholamine excess mechanism directly."
+        },
+        {
+          "letter": "E",
+          "text": "Lowsartane",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا first-line — phenoxybenzamine (alpha-blockade) must always be given FIRST in pheochromocytoma management, before any…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف losartan is an ARB."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار حاصر بيتا أولاً، متناسيًا أن إعطاء حاصر بيتا وحده دون حجب ألفا أولاً قد يسبب أزمة ضغط خطيرة (تنشيط ألفا دون معارضة).",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار حاصر بيتا أولاً، متناسيًا أن إعطاء حاصر بيتا وحده دون حجب ألفا أولاً قد يسبب أزمة ضغط خطيرة (تنشيط ألفا دون معارضة)."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Phenoxybenzamine",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Pheochromocytoma: Phenoxybenzamine (alpha bloc"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Phenoxybenzamine. حاصر ألفا يسبق أي دواء آخر بمريض ورم القواتم لمنع أزمة ضغط."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. حاصر ألفا يسبق أي دواء آخر بمريض ورم القواتم لمنع أزمة ضغط. وتذكّر القاعدة: Pheochromocytoma: Phenoxybenzamine (alpha block) Precedes all else. والإجابة الصحيحة هي B."
+    }
+  ]
+}

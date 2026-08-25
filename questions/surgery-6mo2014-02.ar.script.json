@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2014-02-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 2 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most important prognostic determinant, survival after treatment",
+  "question_ar": "أي مما يلي هو أهم عامل تنبؤي للبقاء على قيد الحياة بعد العلاج من سرطانالقولون والمستقيم؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 2,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Lymph node involvement"
+    },
+    {
+      "letter": "B",
+      "text": "Transumural extension"
+    },
+    {
+      "letter": "C",
+      "text": "Tumor size"
+    },
+    {
+      "letter": "D",
+      "text": "Histologic differentiation"
+    },
+    {
+      "letter": "E",
+      "text": "DNA content"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Lymph node involvement",
+  "purpose_ar": "يريد التأكيد أن إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد علاج السرطان.",
+  "trap_ar": "الطالب قد يختار حجم الورم كأهم محدد، متناسيًا أن إصابة العقد اللمفاوية تتفوق تنبؤيًا على الحجم وحده بمعظم السرطانات.",
+  "summary_ar": "إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد العلاج.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most important prognostic determinant, survival after treatm",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو أهم عامل تنبؤي للبقاء على قيد الحياة بعد العلاج من سرطانالقولون والمستقيم؟ أمامك هذه الخيارات: Lymph node involvement، أو Transumural extension، أو Tumor size، أو Histologic differentiation، أو DNA content. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد علاج السرطان.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد علاج السرطان."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Lymph node involvement",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد العلاج.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد العلاج. حرف L المزدوج يذكرك بأهمية العقد اللمفاوية التنبؤية الفائقة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Transumural extension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node involvement. يصبح صحيحًا في سؤال يصف Transmural extension, tumor size, histologic differentiation, and DNA content/ploidy all carry some prognostic value in cancer, but lymph node involvement remains the single most important prognostic determinant for survival in most solid tumors. الخيار C، Tumor size: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node involvement. يصبح صحيحًا في سؤال يصف Transmural extension, tumor size, histologic differentiation, and DNA content/ploidy all carry some prognostic value in cancer, but lymph node involvement remains the single most important prognostic determinant for survival in most solid tumors. الخيار D، Histologic differentiation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node involvement. يصبح صحيحًا في سؤال يصف Transmural extension, tumor size, histologic differentiation, and DNA content/ploidy all carry some prognostic value in cancer, but lymph node involvement remains the single most important prognostic determinant for survival in most solid tumors. الخيار E، DNA content: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node involvement. يصبح صحيحًا في سؤال يصف Transmural extension, tumor size, histologic differentiation, and DNA content/ploidy all carry some prognostic value in cancer, but lymph node involvement remains the single most important prognostic determinant for survival in most solid tumors.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Lymph node involvement",
+          "verdict": "correct",
+          "reason": "إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد العلاج."
+        },
+        {
+          "letter": "B",
+          "text": "Transumural extension",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node involvement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Transmural extension, tumor size, histologic differentiation, and DNA content/ploidy all carry some prognostic value in cancer, but lymph node…"
+        },
+        {
+          "letter": "C",
+          "text": "Tumor size",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node involvement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Transmural extension, tumor size, histologic differentiation, and DNA content/ploidy all carry some prognostic value in cancer, but lymph node…"
+        },
+        {
+          "letter": "D",
+          "text": "Histologic differentiation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node involvement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Transmural extension, tumor size, histologic differentiation, and DNA content/ploidy all carry some prognostic value in cancer, but lymph node…"
+        },
+        {
+          "letter": "E",
+          "text": "DNA content",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node involvement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Transmural extension, tumor size, histologic differentiation, and DNA content/ploidy all carry some prognostic value in cancer, but lymph node…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار حجم الورم كأهم محدد، متناسيًا أن إصابة العقد اللمفاوية تتفوق تنبؤيًا على الحجم وحده بمعظم السرطانات.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار حجم الورم كأهم محدد، متناسيًا أن إصابة العقد اللمفاوية تتفوق تنبؤيًا على الحجم وحده بمعظم السرطانات."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Lymph node involvement",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Cancer prognosis: Lymph node status Leads"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Lymph node involvement. إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد العلاج."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. إصابة العقد اللمفاوية هي المحدد التنبؤي الأهم للبقيا بعد العلاج. وتذكّر القاعدة: Cancer prognosis: Lymph node status Leads. والإجابة الصحيحة هي A."
+    }
+  ]
+}

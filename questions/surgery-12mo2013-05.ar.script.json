@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-05-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 5 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common histological type, colorectal cancer",
+  "question_ar": "النوع النسيجي الأكثر شيوعًا لسرطان القولون والمستقيم هو؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 5,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Adenocarcinoma"
+    },
+    {
+      "letter": "B",
+      "text": "Lymphoma"
+    },
+    {
+      "letter": "C",
+      "text": "Carcinoid"
+    },
+    {
+      "letter": "D",
+      "text": "Melanoma"
+    },
+    {
+      "letter": "E",
+      "text": "Mesenchymal tumor"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Adenocarcinoma",
+  "purpose_ar": "يريد التأكيد أن السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون والمستقيم.",
+  "trap_ar": "الطالب قد يختار نوعًا نسيجيًا آخر نادرًا، متناسيًا أن الغدية تتصدر إحصائيًا بفارق كبير بين كل الأنواع النسيجية.",
+  "summary_ar": "السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون بفارق كبير.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common histological type, colorectal cancer",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Adenocarcinoma"
+      },
+      "narration": "لنبدأ بهذا السؤال. النوع النسيجي الأكثر شيوعًا لسرطان القولون والمستقيم هو؟ أمامك هذه الخيارات: Adenocarcinoma، أو Lymphoma، أو Carcinoid، أو Melanoma، أو Mesenchymal tumor. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون والمستقيم.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون والمستقيم."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Adenocarcinoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Adenocarcinoma"
+      },
+      "card_text": "السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون بفارق كبير.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون بفارق كبير. حرف A المزدوج يربط هذا النوع بموقعه كالأشيع نسيجيًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenocarcinoma. يصبح صحيحًا في سؤال يصف Lymphoma, carcinoid, melanoma, and mesenchymal tumors can rarely occur in the colon/rectum, but adenocarcinoma accounts for the vast majority of colorectal cancers. الخيار C، Carcinoid: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenocarcinoma. يصبح صحيحًا في سؤال يصف Lymphoma, carcinoid, melanoma, and mesenchymal tumors can rarely occur in the colon/rectum, but adenocarcinoma accounts for the vast majority of colorectal cancers. الخيار D، Melanoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenocarcinoma. يصبح صحيحًا في سؤال يصف Lymphoma, carcinoid, melanoma, and mesenchymal tumors can rarely occur in the colon/rectum, but adenocarcinoma accounts for the vast majority of colorectal cancers. الخيار E، Mesenchymal tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenocarcinoma. يصبح صحيحًا في سؤال يصف Lymphoma, carcinoid, melanoma, and mesenchymal tumors can rarely occur in the colon/rectum, but adenocarcinoma accounts for the vast majority of colorectal cancers.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Adenocarcinoma",
+          "verdict": "correct",
+          "reason": "السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون بفارق كبير."
+        },
+        {
+          "letter": "B",
+          "text": "Lymphoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenocarcinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lymphoma, carcinoid, melanoma, and mesenchymal tumors can rarely occur in the colon/rectum, but adenocarcinoma accounts for the vast majority of…"
+        },
+        {
+          "letter": "C",
+          "text": "Carcinoid",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenocarcinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lymphoma, carcinoid, melanoma, and mesenchymal tumors can rarely occur in the colon/rectum, but adenocarcinoma accounts for the vast majority of…"
+        },
+        {
+          "letter": "D",
+          "text": "Melanoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenocarcinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lymphoma, carcinoid, melanoma, and mesenchymal tumors can rarely occur in the colon/rectum, but adenocarcinoma accounts for the vast majority of…"
+        },
+        {
+          "letter": "E",
+          "text": "Mesenchymal tumor",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenocarcinoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lymphoma, carcinoid, melanoma, and mesenchymal tumors can rarely occur in the colon/rectum, but adenocarcinoma accounts for the vast majority of…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار نوعًا نسيجيًا آخر نادرًا، متناسيًا أن الغدية تتصدر إحصائيًا بفارق كبير بين كل الأنواع النسيجية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار نوعًا نسيجيًا آخر نادرًا، متناسيًا أن الغدية تتصدر إحصائيًا بفارق كبير بين كل الأنواع النسيجية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Adenocarcinoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Adenocarcinoma"
+      },
+      "pills": [
+        "Colorectal cancer: mostly Adenocarcinoma"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Adenocarcinoma. السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون بفارق كبير."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. السرطانة الغدية هي النوع النسيجي الأشيع لسرطان القولون بفارق كبير. وتذكّر القاعدة: Colorectal cancer: mostly Adenocarcinoma. والإجابة الصحيحة هي A."
+    }
+  ]
+}

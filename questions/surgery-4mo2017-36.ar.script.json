@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-36-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 36 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "45yo, RUQ pain, best next investigation (implied cholelithiasis)",
+  "question_ar": "حضرت مريضة تبلغ من العمر 45 عامًا إلى قسم الطوارئ تشكو من ألم فيالجانب الأيمن من المراق وغثيان مع تقيؤ متكرر خلال الساعات القليلة الماضية. تتذكر تناولها كعكة جبن في وقت سابق من ذلك اليوم. أظهر الفحص ألمًا فيالجانب الأيمن من المراق، ولكنه كان رخوًا ورخويًا. كانت نتائجها المخبريةطبيعية. الفحص التالي هو الأنسب.؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 36,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Erect abdominal X_Ray"
+    },
+    {
+      "letter": "B",
+      "text": "Endoscopy"
+    },
+    {
+      "letter": "C",
+      "text": "CT abdomen"
+    },
+    {
+      "letter": "D",
+      "text": "Ultrasound of the abdomen"
+    },
+    {
+      "letter": "E",
+      "text": "H1 breath test for H pylori"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Ultrasound of the abdomen",
+  "purpose_ar": "يريد التأكيد أن الموجات فوق الصوتية للبطن هي الفحص الأول الأنسب لألم الربع العلوي الأيمن (اشتباه مرارة).",
+  "trap_ar": "الطالب قد يختار تصويرًا طبقيًا كخطوة أولى، متناسيًا أن الموجات فوق الصوتية أرخص وأسرع وأدق لتقييم المرارة كخطوة أولى.",
+  "summary_ar": "الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "45yo, RUQ pain, best next investigation (implied cholelithia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ultrasound of the abdomen"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضرت مريضة تبلغ من العمر 45 عامًا إلى قسم الطوارئ تشكو من ألم فيالجانب الأيمن من المراق وغثيان مع تقيؤ متكرر خلال الساعات القليلة الماضية. تتذكر تناولها كعكة جبن في وقت سابق من ذلك اليوم. أظهر الفحص ألمًا فيالجانب الأيمن من المراق، ولكنه كان رخوًا ورخويًا. كانت نتائجها المخبريةطبيعية. الفحص التالي هو الأنسب.؟ أمامك هذه الخيارات: Erect abdominal X_Ray، أو Endoscopy، أو CT abdomen، أو Ultrasound of the abdomen، أو H1 breath test for H pylori. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الموجات فوق الصوتية للبطن هي الفحص الأول الأنسب لألم الربع العلوي الأيمن (اشتباه مرارة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الموجات فوق الصوتية للبطن هي الفحص الأول الأنسب لألم الربع العلوي الأيمن (اشتباه مرارة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Ultrasound of the abdomen",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ultrasound of the abdomen"
+      },
+      "card_text": "الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن. حرف U المزدوج يذكرك بأولوية هذا الفحص الأول."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Erect abdominal X_Ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen. يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains the best initial investigation for suspected gallstone disease given its high sensitivity, low cost, and lack of radiation. الخيار B، Endoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen. يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains the best initial investigation for suspected gallstone disease given its high sensitivity, low cost, and lack of radiation. الخيار C، CT abdomen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen. يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains the best initial investigation for suspected gallstone disease given its high sensitivity, low cost, and lack of radiation. الخيار E، H1 breath test for H pylori: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen. يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains the best initial investigation for suspected gallstone disease given its high sensitivity, low cost, and lack of radiation.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Erect abdominal X_Ray",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains…"
+        },
+        {
+          "letter": "B",
+          "text": "Endoscopy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains…"
+        },
+        {
+          "letter": "C",
+          "text": "CT abdomen",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains…"
+        },
+        {
+          "letter": "D",
+          "text": "Ultrasound of the abdomen",
+          "verdict": "correct",
+          "reason": "الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن."
+        },
+        {
+          "letter": "E",
+          "text": "H1 breath test for H pylori",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار تصويرًا طبقيًا كخطوة أولى، متناسيًا أن الموجات فوق الصوتية أرخص وأسرع وأدق لتقييم المرارة كخطوة أولى.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار تصويرًا طبقيًا كخطوة أولى، متناسيًا أن الموجات فوق الصوتية أرخص وأسرع وأدق لتقييم المرارة كخطوة أولى."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Ultrasound of the abdomen",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ultrasound of the abdomen"
+      },
+      "pills": [
+        "RUQ pain workup: Ultrasound first"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Ultrasound of the abdomen. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن. وتذكّر القاعدة: RUQ pain workup: Ultrasound first. والإجابة الصحيحة هي D."
+    }
+  ]
+}

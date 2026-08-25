@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2017-29-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2017 Course, Question 29 of 48",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "62yo, nocturia 4x, weak stream, intermittency (BPH), biopsy likelihood",
+  "question_ar": "مريض يبلغ من العمر 62 عامًا يعاني من التبول الليلي (4 مرات في الليلة)، معضعف تدفق البول، وتقطعه، وتكراره. كشف الفحص الشرجي الرقمي عنتصلب في الفص الأيمن من البروستاتا. جميع العبارات التالية صحيحةباستثناء:؟",
+  "course_label": "Course: Surgery — 10th Month 2017 Course",
+  "question_number": 29,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Treat the obstructive symptoms"
+    },
+    {
+      "letter": "B",
+      "text": "Perform ultrasound for residual urine assessment"
+    },
+    {
+      "letter": "C",
+      "text": "Request blood sample for prostate-specific antigen"
+    },
+    {
+      "letter": "D",
+      "text": "Unlikely this patient will need biopsy from prostate"
+    },
+    {
+      "letter": "E",
+      "text": "His past history and medications have to be checked"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Unlikely this patient will need biopsy from prostate",
+  "purpose_ar": "يريد التأكيد أن أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة بروستاتية غالبًا.",
+  "trap_ar": "الطالب قد يظن أي أعراض بولية سفلية تستدعي خزعة تلقائيًا، متناسيًا أن الأعراض النمطية الحميدة وحدها بلا علامات مقلقة لا تستدعيها.",
+  "summary_ar": "أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "62yo, nocturia 4x, weak stream, intermittency (BPH), biopsy ",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Unlikely this patient will need biopsy"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 62 عامًا يعاني من التبول الليلي (4 مرات في الليلة)، معضعف تدفق البول، وتقطعه، وتكراره. كشف الفحص الشرجي الرقمي عنتصلب في الفص الأيمن من البروستاتا. جميع العبارات التالية صحيحةباستثناء:؟ أمامك هذه الخيارات: Treat the obstructive symptoms، أو Perform ultrasound for residual urine assessment، أو Request blood sample for prostate-specific antigen، أو Unlikely this patient will need biopsy from prostate، أو His past history and medications have to be checked. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة بروستاتية غالبًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة بروستاتية غالبًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Unlikely this patient will need biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Unlikely this patient will need biopsy"
+      },
+      "card_text": "أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا. حرف L و N يذكرانك أن الأعراض النمطية وحدها غير كافية للخزعة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Treat the obstructive symptoms: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the correct/true statement here. يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also correct — biopsy is generally. الخيار B، Perform ultrasound for residual urine assessment: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the correct/true statement here. يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also correct — biopsy is generally. الخيار C، Request blood sample for prostate-specific antigen: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the correct/true statement here. يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also correct — biopsy is generally. الخيار E، His past history and medications have to be checked: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the correct/true statement here. يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also correct — biopsy is generally.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Treat the obstructive symptoms",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also…"
+        },
+        {
+          "letter": "B",
+          "text": "Perform ultrasound for residual urine assessment",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also…"
+        },
+        {
+          "letter": "C",
+          "text": "Request blood sample for prostate-specific antigen",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also…"
+        },
+        {
+          "letter": "D",
+          "text": "Unlikely this patient will need biopsy from prostate",
+          "verdict": "correct",
+          "reason": "أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا."
+        },
+        {
+          "letter": "E",
+          "text": "His past history and medications have to be checked",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي أعراض بولية سفلية تستدعي خزعة تلقائيًا، متناسيًا أن الأعراض النمطية الحميدة وحدها بلا علامات مقلقة لا تستدعيها.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي أعراض بولية سفلية تستدعي خزعة تلقائيًا، متناسيًا أن الأعراض النمطية الحميدة وحدها بلا علامات مقلقة لا تستدعيها."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Unlikely this patient will need biopsy from pros",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "Unlikely this patient will need biopsy"
+      },
+      "pills": [
+        "Typical BPH symptoms: unLikely to Need biopsy"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Unlikely this patient will need biopsy from prostate. أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا. وتذكّر القاعدة: Typical BPH symptoms: unLikely to Need biopsy. والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2017-35-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2017 Course, Question 35 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Trauma, EXCEPT (repeat GCS coma definition)",
+  "question_ar": "جميع الجمل المتعلقة بالصدمة صحيحة باستثناء؟",
+  "course_label": "Course: Surgery — 12th Month 2017 Course",
+  "question_number": 35,
+  "options": [
+    {
+      "letter": "A",
+      "text": "The term triage is generally used in acute trauma life support (ATLS)"
+    },
+    {
+      "letter": "B",
+      "text": "The rationale behind triage is for the benefit of the majority"
+    },
+    {
+      "letter": "C",
+      "text": "The role of the designated triage person is only to triage and not to treat"
+    },
+    {
+      "letter": "D",
+      "text": "The triage process must be constantly repeated"
+    },
+    {
+      "letter": "E",
+      "text": "Coma correspond to a GCS of more than 8"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Coma correspond to a GCS of more than 8",
+  "purpose_ar": "يريد التأكيد المتكرر أن الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8.",
+  "trap_ar": "الطالب قد يقبل 'أكثر من 8' كتعريف صحيح للغيبوبة، متناسيًا أن العتبة الحقيقية معاكسة.",
+  "summary_ar": "الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Trauma, EXCEPT (repeat GCS coma definition)",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالصدمة صحيحة باستثناء؟ أمامك هذه الخيارات: The term triage is generally used in acute trauma life support (ATLS)، أو The rationale behind triage is for the benefit of the majority، أو The role of the designated triage person is only to triage and not to treat، أو The triage process must be constantly repeated، أو Coma correspond to a GCS of more than 8. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد المتكرر أن الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد المتكرر أن الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Coma correspond to a GCS of more than ",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8. حرف C و E يذكرانك بالاتجاه الصحيح لهذه العتبة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The term triage is generally used in acute trauma life support (ATLS): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Coma correspond to a GCS of more than 8. يصبح صحيحًا في سؤال يصف The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature of triage are true statements. الخيار B، The rationale behind triage is for the benefit of the majority: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Coma correspond to a GCS of more than 8. يصبح صحيحًا في سؤال يصف The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature of triage are true statements. الخيار C، The role of the designated triage person is only to triage and not to treat: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the clearest exception — the clearest false statement is E: coma actually corresponds to a GCS of 8 OR LESS, not more than 8. يصبح صحيحًا في سؤال يصف the triage role being limited to triage only is debatable but. الخيار D، The triage process must be constantly repeated: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Coma correspond to a GCS of more than 8. يصبح صحيحًا في سؤال يصف The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature of triage are true statements.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "The term triage is generally used in acute trauma life support (ATLS)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Coma correspond to a GCS of more than 8.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature of triage are true statements."
+        },
+        {
+          "letter": "B",
+          "text": "The rationale behind triage is for the benefit of the majority",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Coma correspond to a GCS of more than 8.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature of triage are true statements."
+        },
+        {
+          "letter": "C",
+          "text": "The role of the designated triage person is only to triage and not to treat",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the clearest exception — the clearest false statement is E: coma actually corresponds to a GCS of 8 OR LESS, not more than 8.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف the triage role being limited to triage only is debatable but."
+        },
+        {
+          "letter": "D",
+          "text": "The triage process must be constantly repeated",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Coma correspond to a GCS of more than 8.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature of triage are true statements."
+        },
+        {
+          "letter": "E",
+          "text": "Coma correspond to a GCS of more than 8",
+          "verdict": "correct",
+          "reason": "الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل 'أكثر من 8' كتعريف صحيح للغيبوبة، متناسيًا أن العتبة الحقيقية معاكسة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل 'أكثر من 8' كتعريف صحيح للغيبوبة، متناسيًا أن العتبة الحقيقية معاكسة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Coma correspond to a GCS of more than 8",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Coma: GCS Eight or below, not above"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Coma correspond to a GCS of more than 8. الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8. وتذكّر القاعدة: Coma: GCS Eight or below, not above. والإجابة الصحيحة هي E."
+    }
+  ]
+}

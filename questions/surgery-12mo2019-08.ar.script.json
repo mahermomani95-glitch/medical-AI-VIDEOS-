@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2019-08-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 8 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "69M + sudden severe leg pain at rest + pale/cold/pulseless + AFib + smoker",
+  "question_ar": "حضر رجل يبلغ من العمر 69 عامًا إلى قسم الطوارئ بسبب ألم شديد فيساقه اليسرى. يقول المريض إنه كان يعاني من ألم في كلتا ساقيه بعد المشيلبضعة مبانٍ، ولكن قبل عدة ساعات بدأ فجأة يشعر بألم شديد في ساقهاليسرى أثناء الراحة. أبلغ عن خدر في ساقه اليسرى، كما أنه يعاني منخفقان متقطع. لدى المريض تاريخ طويل من ارتفاع ضغط الدم وفرط شحمياتالدم. يدخن نصف علبة سجائر يوميًا منذ 45 عامًا. يبلغ ضغط دمه 130/80 ملم زئبق ونبضه 116/دقيقة وهو غير منتظم. تبدو ساقه اليسرى شاحبة وأبردمن اليمنى. النبضات البعيدة غائبة في اليسرى وتقل في اليمنى. الإحساسباللمس الخفيف منخفض في ظهر القدم والساق اليسرى. ثني ظهر الكاحلأضعف قليلاً في اليسرى. أي مما يلي هو أفضل خطوة أولى في إدارة هذاالمريض؟",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 8,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Ankle brachial index"
+    },
+    {
+      "letter": "B",
+      "text": "Arterial Doppler study"
+    },
+    {
+      "letter": "C",
+      "text": "Intravenous heparin infusion"
+    },
+    {
+      "letter": "D",
+      "text": "Nerve conduction study"
+    },
+    {
+      "letter": "E",
+      "text": "Transthoracic echocardiogram"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Intravenous heparin infusion",
+  "purpose_ar": "تطبيق الخطوة الأولى الصحيحة في نقص التروية الطرفية الحادة (الهيبارين الوريدي الفوري) قبل أي فحص تصويري إضافي، خصوصًا مع دليل قوي على مصدر صمّي (رجفان أذيني).",
+  "trap_ar": "قد يختار الطالب دراسة دوبلر شريانية (B) كخطوة تشخيصية أولى منطقية، متجاهلاً أن نقص التروية الحاد الشديد يستدعي بدء الهيبارين فورًا لحماية الطرف، بالتوازي مع أو قبل أي تصوير إضافي.",
+  "summary_ar": "ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "69M + sudden severe leg pain at rest + pale/cold/pulseless +",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Intravenous heparin infusion"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 69 عامًا إلى قسم الطوارئ بسبب ألم شديد فيساقه اليسرى. يقول المريض إنه كان يعاني من ألم في كلتا ساقيه بعد المشيلبضعة مبانٍ، ولكن قبل عدة ساعات بدأ فجأة يشعر بألم شديد في ساقهاليسرى أثناء الراحة. أبلغ عن خدر في ساقه اليسرى، كما أنه يعاني منخفقان متقطع. لدى المريض تاريخ طويل من ارتفاع ضغط الدم وفرط شحمياتالدم. يدخن نصف علبة سجائر يوميًا منذ 45 عامًا. يبلغ ضغط دمه 130/80 ملم زئبق ونبضه 116/دقيقة وهو غير منتظم. تبدو ساقه اليسرى شاحبة وأبردمن اليمنى. النبضات البعيدة غائبة في اليسرى وتقل في اليمنى. الإحساسباللمس الخفيف منخفض في ظهر القدم والساق اليسرى. ثني ظهر الكاحلأضعف قليلاً في اليسرى. أي مما يلي هو أفضل خطوة أولى في إدارة هذاالمريض؟ أمامك هذه الخيارات: Ankle brachial index، أو Arterial Doppler study، أو Intravenous heparin infusion، أو Nerve conduction study، أو Transthoracic echocardiogram. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق الخطوة الأولى الصحيحة في نقص التروية الطرفية الحادة (الهيبارين الوريدي الفوري) قبل أي فحص تصويري إضافي، خصوصًا مع دليل قوي على مصدر صمّي (رجفان أذيني).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق الخطوة الأولى الصحيحة في نقص التروية الطرفية الحادة (الهيبارين الوريدي الفوري) قبل أي فحص تصويري إضافي، خصوصًا مع دليل قوي على مصدر صمّي (رجفان أذيني)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Intravenous heparin infusion",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Intravenous heparin infusion"
+      },
+      "card_text": "ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم. النبض غير المنتظم (رجفان أذيني) عند مريض بنقص تروية طرفية حادة مفاجئة يوجّه لمصدر صمّي قلبي؛ الهيبارين الوريدي الفوري يمنع تمدد الخثرة ويحمي الأوعية الأخرى ريثما يُخطَّط للتدخل النهائي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ankle brachial index: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا embolic cardiac sources. يصبح صحيحًا في سؤال يصف Ankle-brachial index and arterial Doppler assess arterial flow but. الخيار B، Arterial Doppler study: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا embolic cardiac sources. يصبح صحيحًا في سؤال يصف Ankle-brachial index and arterial Doppler assess arterial flow but. الخيار D، Nerve conduction study: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vascular occlusion. يصبح صحيحًا في سؤال يصف nerve conduction study evaluates nerve function. الخيار E، Transthoracic echocardiogram: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intravenous heparin infusion. يصبح صحيحًا في سؤال يصف transthoracic echocardiogram may be done later to find the embolic source but isn't the immediate first management step for acute limb ischemia.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Ankle brachial index",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا embolic cardiac sources.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ankle-brachial index and arterial Doppler assess arterial flow but."
+        },
+        {
+          "letter": "B",
+          "text": "Arterial Doppler study",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا embolic cardiac sources.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ankle-brachial index and arterial Doppler assess arterial flow but."
+        },
+        {
+          "letter": "C",
+          "text": "Intravenous heparin infusion",
+          "verdict": "correct",
+          "reason": "ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم."
+        },
+        {
+          "letter": "D",
+          "text": "Nerve conduction study",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vascular occlusion.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف nerve conduction study evaluates nerve function."
+        },
+        {
+          "letter": "E",
+          "text": "Transthoracic echocardiogram",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intravenous heparin infusion.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف transthoracic echocardiogram may be done later to find the embolic source but isn't the immediate first management step for acute limb ischemia."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب دراسة دوبلر شريانية (B) كخطوة تشخيصية أولى منطقية، متجاهلاً أن نقص التروية الحاد الشديد يستدعي بدء الهيبارين فورًا لحماية الطرف، بالتوازي مع أو قبل أي تصوير إضافي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب دراسة دوبلر شريانية (B) كخطوة تشخيصية أولى منطقية، متجاهلاً أن نقص التروية الحاد الشديد يستدعي بدء الهيبارين فورًا لحماية الطرف، بالتوازي مع أو قبل أي تصوير إضافي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Intravenous heparin infusion",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Intravenous heparin infusion"
+      },
+      "pills": [
+        "\"Acute limb ischemia + AFib = Heparin first\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Intravenous heparin infusion. ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم. وتذكّر القاعدة: \"Acute limb ischemia + AFib = Heparin first\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

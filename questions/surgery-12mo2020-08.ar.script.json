@@ -1,0 +1,138 @@
+{
+  "id": "surgery-12mo2020-08-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 8 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Thyroid cancer — EXCEPT",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 8,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Ultrasound shows hypochoic thyroid lesions"
+    },
+    {
+      "letter": "B",
+      "text": "Peripheral calcification"
+    },
+    {
+      "letter": "C",
+      "text": "Irregular margins"
+    },
+    {
+      "letter": "D",
+      "text": "Medullary carcinoma is associated with MEN2"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Peripheral calcification",
+  "purpose_ar": "التفريق بين أنماط التكلس بالعقيدة الدرقية على الأمواج فوق الصوتية — المحيطي (طمأنة نسبية) مقابل الدقيق المنتشر (مقلق للخباثة).",
+  "trap_ar": "قد يظن الطالب أن أي تكلس بالعقيدة الدرقية علامة خبيثة، متجاهلاً أن نمط التكلس (محيطي مقابل دقيق منتشر) هو ما يحدد درجة القلق الفعلية.",
+  "summary_ar": "التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Thyroid cancer — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Peripheral calcification"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Ultrasound shows hypochoic thyroid lesions، أو Peripheral calcification، أو Irregular margins، أو Medullary carcinoma is associated with MEN2. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التفريق بين أنماط التكلس بالعقيدة الدرقية على الأمواج فوق الصوتية — المحيطي (طمأنة نسبية) مقابل الدقيق المنتشر (مقلق للخباثة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التفريق بين أنماط التكلس بالعقيدة الدرقية على الأمواج فوق الصوتية — المحيطي (طمأنة نسبية) مقابل الدقيق المنتشر (مقلق للخباثة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Peripheral calcification",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Peripheral calcification"
+      },
+      "card_text": "التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية. التكلس المحيطي (على شكل قشرة بيضة) يُعد نمطًا طمأنة نسبيًا، بينما التكلسات الدقيقة المنتشرة داخل العقيدة (microcalcifications) هي العلامة المقلقة المرتبطة أكثر بالخباثة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ultrasound shows hypochoic thyroid lesions: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification. يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features. الخيار C، Irregular margins: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification. يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features. الخيار D، Medullary carcinoma is associated with MEN2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification. يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Ultrasound shows hypochoic thyroid lesions",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features."
+        },
+        {
+          "letter": "B",
+          "text": "Peripheral calcification",
+          "verdict": "correct",
+          "reason": "التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية."
+        },
+        {
+          "letter": "C",
+          "text": "Irregular margins",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features."
+        },
+        {
+          "letter": "D",
+          "text": "Medullary carcinoma is associated with MEN2",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral calcification.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all true statements about thyroid cancer features."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن أي تكلس بالعقيدة الدرقية علامة خبيثة، متجاهلاً أن نمط التكلس (محيطي مقابل دقيق منتشر) هو ما يحدد درجة القلق الفعلية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن أي تكلس بالعقيدة الدرقية علامة خبيثة، متجاهلاً أن نمط التكلس (محيطي مقابل دقيق منتشر) هو ما يحدد درجة القلق الفعلية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Peripheral calcification",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Peripheral calcification"
+      },
+      "pills": [
+        "\"Peripheral calcification = reassuring, Microc"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Peripheral calcification. التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية. وتذكّر القاعدة: \"Peripheral calcification = reassuring, Microcalcifications = suspicious\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

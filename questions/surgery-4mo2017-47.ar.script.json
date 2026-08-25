@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2017-47-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 47 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Gram-negative organism",
+  "question_ar": "أي مما يلي هو كائن حي سلبي الجرام؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 47,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Group A Streptococcus"
+    },
+    {
+      "letter": "B",
+      "text": "MRSA"
+    },
+    {
+      "letter": "C",
+      "text": "Pseudomonas aeruginosa"
+    },
+    {
+      "letter": "D",
+      "text": "Clostridium tetani"
+    },
+    {
+      "letter": "E",
+      "text": "Listeria"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Pseudomonas aeruginosa",
+  "purpose_ar": "يريد التأكيد أن الزائفة الزنجارية جرثومة سالبة الغرام.",
+  "trap_ar": "الطالب قد يختار جرثومة موجبة الغرام بالخطأ، متناسيًا التصنيف الجرثومي الدقيق لكل نوع مذكور بالخيارات.",
+  "summary_ar": "الزائفة الزنجارية جرثومة سالبة الغرام معروفة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Gram-negative organism",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو كائن حي سلبي الجرام؟ أمامك هذه الخيارات: Group A Streptococcus، أو MRSA، أو Pseudomonas aeruginosa، أو Clostridium tetani، أو Listeria. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الزائفة الزنجارية جرثومة سالبة الغرام.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الزائفة الزنجارية جرثومة سالبة الغرام."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Pseudomonas aeruginosa",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الزائفة الزنجارية جرثومة سالبة الغرام معروفة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الزائفة الزنجارية جرثومة سالبة الغرام معروفة. حرف N يذكرك بالتصنيف الجرثومي الصحيح لهذه الجرثومة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Group A Streptococcus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomonas aeruginosa. يصبح صحيحًا في سؤال يصف Group A Streptococcus, MRSA, Clostridium tetani, and Listeria are all gram-positive organisms, unlike Pseudomonas aeruginosa, which is gram-negative. الخيار B، MRSA: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomonas aeruginosa. يصبح صحيحًا في سؤال يصف Group A Streptococcus, MRSA, Clostridium tetani, and Listeria are all gram-positive organisms, unlike Pseudomonas aeruginosa, which is gram-negative. الخيار D، Clostridium tetani: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomonas aeruginosa. يصبح صحيحًا في سؤال يصف Group A Streptococcus, MRSA, Clostridium tetani, and Listeria are all gram-positive organisms, unlike Pseudomonas aeruginosa, which is gram-negative. الخيار E، Listeria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomonas aeruginosa. يصبح صحيحًا في سؤال يصف Group A Streptococcus, MRSA, Clostridium tetani, and Listeria are all gram-positive organisms, unlike Pseudomonas aeruginosa, which is gram-negative.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Group A Streptococcus",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomonas aeruginosa.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Group A Streptococcus, MRSA, Clostridium tetani, and Listeria are all gram-positive organisms, unlike Pseudomonas aeruginosa, which is…"
+        },
+        {
+          "letter": "B",
+          "text": "MRSA",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomonas aeruginosa.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Group A Streptococcus, MRSA, Clostridium tetani, and Listeria are all gram-positive organisms, unlike Pseudomonas aeruginosa, which is…"
+        },
+        {
+          "letter": "C",
+          "text": "Pseudomonas aeruginosa",
+          "verdict": "correct",
+          "reason": "الزائفة الزنجارية جرثومة سالبة الغرام معروفة."
+        },
+        {
+          "letter": "D",
+          "text": "Clostridium tetani",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomonas aeruginosa.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Group A Streptococcus, MRSA, Clostridium tetani, and Listeria are all gram-positive organisms, unlike Pseudomonas aeruginosa, which is…"
+        },
+        {
+          "letter": "E",
+          "text": "Listeria",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pseudomonas aeruginosa.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Group A Streptococcus, MRSA, Clostridium tetani, and Listeria are all gram-positive organisms, unlike Pseudomonas aeruginosa, which is…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار جرثومة موجبة الغرام بالخطأ، متناسيًا التصنيف الجرثومي الدقيق لكل نوع مذكور بالخيارات.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار جرثومة موجبة الغرام بالخطأ، متناسيًا التصنيف الجرثومي الدقيق لكل نوع مذكور بالخيارات."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Pseudomonas aeruginosa",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Pseudomonas: gram-Negative rod"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Pseudomonas aeruginosa. الزائفة الزنجارية جرثومة سالبة الغرام معروفة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الزائفة الزنجارية جرثومة سالبة الغرام معروفة. وتذكّر القاعدة: Pseudomonas: gram-Negative rod. والإجابة الصحيحة هي C."
+    }
+  ]
+}

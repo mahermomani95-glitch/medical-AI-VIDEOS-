@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2014-08-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 8 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Best screening method, DDH in infants",
+  "question_ar": "أفضل طريقة لفحص خلل التنسج النمائي للورك عند الرضع هي؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 8,
+  "options": [
+    {
+      "letter": "A",
+      "text": "X-ray"
+    },
+    {
+      "letter": "B",
+      "text": "Bone scan"
+    },
+    {
+      "letter": "C",
+      "text": "U/S"
+    },
+    {
+      "letter": "D",
+      "text": "MRI"
+    },
+    {
+      "letter": "E",
+      "text": "CT scan"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "U/S",
+  "purpose_ar": "يريد التأكيد أن الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك عند الرضع.",
+  "trap_ar": "الطالب قد يختار الأشعة السينية، متناسيًا أن عظام الرضيع غير متعظمة بعد فلا تظهر جيدًا بالأشعة، فتبقى الموجات الخيار الأنسب.",
+  "summary_ar": "الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك بالرضع.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Best screening method, DDH in infants",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. أفضل طريقة لفحص خلل التنسج النمائي للورك عند الرضع هي؟ أمامك هذه الخيارات: X-ray، أو Bone scan، أو U/S، أو MRI، أو CT scan. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك عند الرضع.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك عند الرضع."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "U/S",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك بالرضع.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك بالرضع. حرف U يذكرك بملاءمة هذا الفحص لعظام الرضيع غير المتعظمة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، X-ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي U/S. يصبح صحيحًا في سؤال يصف X-ray is less useful in young infants before ossification. الخيار B، Bone scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard for this purpose — ultrasound is the best screening method for developmental dysplasia of the hip (DDH) in infants due to the largely cartilaginous hip joint. يصبح صحيحًا في سؤال يصف bone scan, MRI, and CT. الخيار D، MRI: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard for this purpose — ultrasound is the best screening method for developmental dysplasia of the hip (DDH) in infants due to the largely cartilaginous hip joint. يصبح صحيحًا في سؤال يصف bone scan, MRI, and CT. الخيار E، CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard for this purpose — ultrasound is the best screening method for developmental dysplasia of the hip (DDH) in infants due to the largely cartilaginous hip joint. يصبح صحيحًا في سؤال يصف bone scan, MRI, and CT.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "X-ray",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي U/S.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف X-ray is less useful in young infants before ossification."
+        },
+        {
+          "letter": "B",
+          "text": "Bone scan",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard for this purpose — ultrasound is the best screening method for developmental dysplasia of the hip (DDH) in infants…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف bone scan, MRI, and CT."
+        },
+        {
+          "letter": "C",
+          "text": "U/S",
+          "verdict": "correct",
+          "reason": "الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك بالرضع."
+        },
+        {
+          "letter": "D",
+          "text": "MRI",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard for this purpose — ultrasound is the best screening method for developmental dysplasia of the hip (DDH) in infants…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف bone scan, MRI, and CT."
+        },
+        {
+          "letter": "E",
+          "text": "CT scan",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard for this purpose — ultrasound is the best screening method for developmental dysplasia of the hip (DDH) in infants…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف bone scan, MRI, and CT."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الأشعة السينية، متناسيًا أن عظام الرضيع غير متعظمة بعد فلا تظهر جيدًا بالأشعة، فتبقى الموجات الخيار الأنسب.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الأشعة السينية، متناسيًا أن عظام الرضيع غير متعظمة بعد فلا تظهر جيدًا بالأشعة، فتبقى الموجات الخيار الأنسب."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. U/S",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "DDH screening in infants: Ultrasound preferred"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: U/S. الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك بالرضع."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية هي الفحص الفرزي الأفضل لخلل تنسج الورك بالرضع. وتذكّر القاعدة: DDH screening in infants: Ultrasound preferred. والإجابة الصحيحة هي C."
+    }
+  ]
+}

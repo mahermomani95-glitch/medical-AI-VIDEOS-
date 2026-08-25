@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2019-39-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 39 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Pre-op cholecystectomy patient + sudden hypotension/tachycardia + redness around IV cannula",
+  "question_ar": "مريضة تبلغ من العمر 45 عامًا، حضرت إلى المستشفى مصابة بالتهاب حادفي المرارة، لإجراء عملية استئصال مرارة اختيارية بالمنظار. أُدخلت إلىالمستشفى وبدأت العلاج بالسوائل الوريدية، ومسكنات الألم، ومضادات القيء،والمضادات الحيوية. بعد ساعتين من بدء هذا العلاج، شعرت المريضة بضيقفي التنفس، وكانت المؤشرات الحيوية: ضغط الدم 80/40، و\"ت\"=36.6،ومعدل ضربات القلب 125، ومعدل الرجفان 25. بالفحص السريري، لوحظاحمرار واضح حول القنية الوريدية الطرفية، والتشخيص الأكثر احتمالًا هو:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 39,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hypovolemic Shock"
+    },
+    {
+      "letter": "B",
+      "text": "Septic Shock"
+    },
+    {
+      "letter": "C",
+      "text": "Cardiogenic Shock"
+    },
+    {
+      "letter": "D",
+      "text": "Anaphylaxis"
+    },
+    {
+      "letter": "E",
+      "text": "Pulmonary Embolism"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Anaphylaxis",
+  "purpose_ar": "التعرف على التأق الدوائي كسبب لصدمة مفاجئة بعد بدء علاج وريدي جديد (مضاد حيوي عادة)، من خلال العلامة الموضعية المميزة (احمرار حول موضع القسطرة) المصحوبة بانهيار همودينامكي.",
+  "trap_ar": "قد يختار الطالب الصدمة الإنتانية (B) لأن المريضة مصابة أصلًا بالتهاب مرارة حاد (مصدر عدوى محتمل)، متجاهلاً أن التوقيت السريع جدًا (ساعتان فقط بعد بدء العلاج) والاحمرار الموضعي حول القسطرة يوجّهان أكثر نحو تفاعل تحسسي تأقي.",
+  "summary_ar": "الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Pre-op cholecystectomy patient + sudden hypotension/tachycar",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 45 عامًا، حضرت إلى المستشفى مصابة بالتهاب حادفي المرارة، لإجراء عملية استئصال مرارة اختيارية بالمنظار. أُدخلت إلىالمستشفى وبدأت العلاج بالسوائل الوريدية، ومسكنات الألم، ومضادات القيء،والمضادات الحيوية. بعد ساعتين من بدء هذا العلاج، شعرت المريضة بضيقفي التنفس، وكانت المؤشرات الحيوية: ضغط الدم 80/40، و\"ت\"=36.6،ومعدل ضربات القلب 125، ومعدل الرجفان 25. بالفحص السريري، لوحظاحمرار واضح حول القنية الوريدية الطرفية، والتشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Hypovolemic Shock، أو Septic Shock، أو Cardiogenic Shock، أو Anaphylaxis، أو Pulmonary Embolism. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على التأق الدوائي كسبب لصدمة مفاجئة بعد بدء علاج وريدي جديد (مضاد حيوي عادة)، من خلال العلامة الموضعية المميزة (احمرار حول موضع القسطرة) المصحوبة بانهيار همودينامكي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على التأق الدوائي كسبب لصدمة مفاجئة بعد بدء علاج وريدي جديد (مضاد حيوي عادة)، من خلال العلامة الموضعية المميزة (احمرار حول موضع القسطرة) المصحوبة بانهيار همودينامكي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Anaphylaxis",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة. ظهور الاحمرار موضعيًا حول قسطرة وريدية بعد بدء تسريب دواء جديد (مضاد حيوي أو غيره)، مترافقًا بهبوط ضغط مفاجئ، يوجّه بقوة لتفاعل تحسسي تأقي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypovolemic Shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of bradycardia with hypotension seen specifically in neurogenic shock from spinal cord injury. الخيار B، Septic Shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of bradycardia with hypotension seen specifically in neurogenic shock from spinal cord injury. الخيار C، Cardiogenic Shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of bradycardia with hypotension seen specifically in neurogenic shock from spinal cord injury. الخيار E، Pulmonary Embolism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of bradycardia with hypotension seen specifically in neurogenic shock from spinal cord injury.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Hypovolemic Shock",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of…"
+        },
+        {
+          "letter": "B",
+          "text": "Septic Shock",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of…"
+        },
+        {
+          "letter": "C",
+          "text": "Cardiogenic Shock",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of…"
+        },
+        {
+          "letter": "D",
+          "text": "Anaphylaxis",
+          "verdict": "correct",
+          "reason": "الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة."
+        },
+        {
+          "letter": "E",
+          "text": "Pulmonary Embolism",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الصدمة الإنتانية (B) لأن المريضة مصابة أصلًا بالتهاب مرارة حاد (مصدر عدوى محتمل)، متجاهلاً أن التوقيت السريع جدًا (ساعتان فقط بعد بدء العلاج) والاحمرار الموضعي حول القسطرة يوجّهان أكثر نحو تفاعل تحسسي تأقي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الصدمة الإنتانية (B) لأن المريضة مصابة أصلًا بالتهاب مرارة حاد (مصدر عدوى محتمل)، متجاهلاً أن التوقيت السريع جدًا (ساعتان فقط بعد بدء العلاج) والاحمرار الموضعي حول القسطرة يوجّهان أكثر نحو تفاعل تحسسي تأقي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Anaphylaxis",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Redness at IV site + sudden shock = Anaphylax"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Anaphylaxis. الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة. وتذكّر القاعدة: \"Redness at IV site + sudden shock = Anaphylaxis\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

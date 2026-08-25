@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-48-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 48 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Barrett's esophagus",
+  "question_ar": "مريء باريت؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 48,
+  "options": [
+    {
+      "letter": "A",
+      "text": "It is a congenital anomaly"
+    },
+    {
+      "letter": "B",
+      "text": "When diagnosed, should be treated by surgery"
+    },
+    {
+      "letter": "C",
+      "text": "Occurs in 5% of patient with Achalasia"
+    },
+    {
+      "letter": "D",
+      "text": "More common in females"
+    },
+    {
+      "letter": "E",
+      "text": "Presence of intestinal Goblet cells"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Presence of intestinal Goblet cells",
+  "purpose_ar": "يريد حفظ التعريف النسيجي الدقيق لمريء باريت (وجود خلايا كأسية معوية).",
+  "trap_ar": "الطالب قد يخلط بينه وبين مجرد وجود ظهارة عمودية عامة، متناسيًا أن الخلايا الكأسية المعوية تحديدًا هي المعيار النسيجي القاطع.",
+  "summary_ar": "وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Barrett's esophagus",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Presence of intestinal Goblet cells"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريء باريت؟ أمامك هذه الخيارات: It is a congenital anomaly، أو When diagnosed, should be treated by surgery، أو Occurs in 5% of patient with Achalasia، أو More common in females، أو Presence of intestinal Goblet cells. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ التعريف النسيجي الدقيق لمريء باريت (وجود خلايا كأسية معوية).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ التعريف النسيجي الدقيق لمريء باريت (وجود خلايا كأسية معوية)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Presence of intestinal Goblet cells",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Presence of intestinal Goblet cells"
+      },
+      "card_text": "وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت. حرف G المزدوج يربط هذه الخلايا بالمعيار النسيجي القاطع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a congenital anomaly: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells. يصبح صحيحًا في سؤال يستهدف It is a congenital anomaly تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، When diagnosed, should be treated by surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells. يصبح صحيحًا في سؤال يستهدف When diagnosed, should be treated by surgery تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Occurs in 5% of patient with Achalasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells. يصبح صحيحًا في سؤال يستهدف Occurs in 5% of patient with Achalasia تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، More common in females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells. يصبح صحيحًا في سؤال يستهدف More common in females تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "It is a congenital anomaly",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف It is a congenital anomaly تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "B",
+          "text": "When diagnosed, should be treated by surgery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف When diagnosed, should be treated by surgery تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "Occurs in 5% of patient with Achalasia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Occurs in 5% of patient with Achalasia تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "More common in females",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف More common in females تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "E",
+          "text": "Presence of intestinal Goblet cells",
+          "verdict": "correct",
+          "reason": "وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخلط بينه وبين مجرد وجود ظهارة عمودية عامة، متناسيًا أن الخلايا الكأسية المعوية تحديدًا هي المعيار النسيجي القاطع.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخلط بينه وبين مجرد وجود ظهارة عمودية عامة، متناسيًا أن الخلايا الكأسية المعوية تحديدًا هي المعيار النسيجي القاطع."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Presence of intestinal Goblet cells",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Presence of intestinal Goblet cells"
+      },
+      "pills": [
+        "Barrett's: defined by Goblet cells"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Presence of intestinal Goblet cells. وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت. وتذكّر القاعدة: Barrett's: defined by Goblet cells. والإجابة الصحيحة هي E."
+    }
+  ]
+}

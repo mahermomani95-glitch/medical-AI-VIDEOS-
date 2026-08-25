@@ -1,0 +1,132 @@
+{
+  "id": "surgery-7mo2015-13-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 13 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "HNPCC, EXCEPT",
+  "question_ar": "كل ما يلي صحيح فيما يتعلق بسرطان القولون الوراثي غير البوليبي باستثناء؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 13,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Colon cancer are right sided"
+    },
+    {
+      "letter": "B",
+      "text": "Associated with ovarian, breast, stomach cancer"
+    },
+    {
+      "letter": "C",
+      "text": "Patient has thousands of polyps"
+    },
+    {
+      "letter": "D",
+      "text": "Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50 years old at the time of diagnosis"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Patient has thousands of polyps",
+  "purpose_ar": "يريد التأكيد أن مرضى HNPCC لا يُصابون بآلاف البوليبات (سمة FAP لا HNPCC)، بل عدد قليل نسبيًا بخطر خبيث عالٍ.",
+  "trap_ar": "الطالب قد يخلط بين HNPCC و FAP (متلازمتان وراثيتان مختلفتان بعدد البوليبات)، متناسيًا أن آلاف البوليبات سمة FAP حصرًا.",
+  "summary_ar": "آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا).",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "HNPCC, EXCEPT",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بسرطان القولون الوراثي غير البوليبي باستثناء؟ أمامك هذه الخيارات: Colon cancer are right sided، أو Associated with ovarian, breast, stomach cancer، أو Patient has thousands of polyps، أو Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50 years old at the time of diagnosis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن مرضى HNPCC لا يُصابون بآلاف البوليبات (سمة FAP لا HNPCC)، بل عدد قليل نسبيًا بخطر خبيث عالٍ.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن مرضى HNPCC لا يُصابون بآلاف البوليبات (سمة FAP لا HNPCC)، بل عدد قليل نسبيًا بخطر خبيث عالٍ."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Patient has thousands of polyps",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا).",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا). حرف H المزدوج يذكرك أن HNPCC مختلف عن FAP بعدد البوليبات."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colon cancer are right sided: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement. يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam criteria for family history are all true statements about HNPCC (Lynch syndrome) — however, thousands of polyps is characteristic of FAP. الخيار B، Associated with ovarian, breast, stomach cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement. يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam criteria for family history are all true statements about HNPCC (Lynch syndrome) — however, thousands of polyps is characteristic of FAP. الخيار D، Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50 years old at the time of diagnosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement. يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam criteria for family history are all true statements about HNPCC (Lynch syndrome) — however, thousands of polyps is characteristic of FAP.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Colon cancer are right sided",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam…"
+        },
+        {
+          "letter": "B",
+          "text": "Associated with ovarian, breast, stomach cancer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam…"
+        },
+        {
+          "letter": "C",
+          "text": "Patient has thousands of polyps",
+          "verdict": "correct",
+          "reason": "آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا)."
+        },
+        {
+          "letter": "D",
+          "text": "Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50…",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HNPCC, which typically has few or no polyps, making C the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer (B, part of Lynch syndrome spectrum), and the Amsterdam…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخلط بين HNPCC و FAP (متلازمتان وراثيتان مختلفتان بعدد البوليبات)، متناسيًا أن آلاف البوليبات سمة FAP حصرًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخلط بين HNPCC و FAP (متلازمتان وراثيتان مختلفتان بعدد البوليبات)، متناسيًا أن آلاف البوليبات سمة FAP حصرًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Patient has thousands of polyps",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "HNPCC: Has few polyps, unlike FAP's thousands"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Patient has thousands of polyps. آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا)."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا). وتذكّر القاعدة: HNPCC: Has few polyps, unlike FAP's thousands. والإجابة الصحيحة هي C."
+    }
+  ]
+}

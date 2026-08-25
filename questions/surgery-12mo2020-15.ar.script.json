@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2020-15-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 15 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "17F + severe RLQ pain/rebound tenderness — least important history question",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 15,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Diarrhea"
+    },
+    {
+      "letter": "B",
+      "text": "Vaginal bleeding"
+    },
+    {
+      "letter": "C",
+      "text": "Anorexia"
+    },
+    {
+      "letter": "D",
+      "text": "Vomitng and nausea"
+    },
+    {
+      "letter": "E",
+      "text": "Migrating abdominal pain"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Vaginal bleeding",
+  "purpose_ar": "عكس التوقع — السؤال يطلب الأقل أهمية، والإسهال هو عرض غير نوعي إحصائيًا أقل قيمة تشخيصية من الأعراض الكلاسيكية الأخرى (فقدان شهية، غثيان، ألم مهاجر) أو التاريخ النسائي المهم عند امرأة شابة.",
+  "trap_ar": "قد يختار الطالب النزف المهبلي (B) ظنًا أنه الأقل أهمية لأنه يبدو غير مرتبط مباشرة بالجهاز الهضمي، متجاهلاً أنه في الحقيقة سؤال بالغ الأهمية عند أي امرأة شابة لاستبعاد أسباب نسائية خطيرة.",
+  "summary_ar": "الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "17F + severe RLQ pain/rebound tenderness — least important h",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Vaginal bleeding"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Diarrhea، أو Vaginal bleeding، أو Anorexia، أو Vomitng and nausea، أو Migrating abdominal pain. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "عكس التوقع — السؤال يطلب الأقل أهمية، والإسهال هو عرض غير نوعي إحصائيًا أقل قيمة تشخيصية من الأعراض الكلاسيكية الأخرى (فقدان شهية، غثيان، ألم مهاجر) أو التاريخ النسائي المهم عند امرأة شابة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: عكس التوقع — السؤال يطلب الأقل أهمية، والإسهال هو عرض غير نوعي إحصائيًا أقل قيمة تشخيصية من الأعراض الكلاسيكية الأخرى (فقدان شهية، غثيان، ألم مهاجر) أو التاريخ النسائي المهم عند امرأة شابة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Vaginal bleeding",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Vaginal bleeding"
+      },
+      "card_text": "الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة. عند أي امرأة شابة بألم بالحفرة الحرقفية اليمنى، يجب دومًا السؤال عن التاريخ النسائي (نزف مهبلي، دورة، حمل محتمل) لاستبعاد أسباب نسائية كالحمل خارج الرحم أو التواء المبيض — وهذا أهم من سؤال عن الإسهال."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding. يصبح صحيحًا في سؤال يصف Diarrhea is the least important to specifically ask about here — it's a nonspecific symptom, while vaginal bleeding history is actually crucial in a young woman with RLQ pain to rule out gynecologic emergencies. الخيار C، Anorexia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding. يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a young woman, but asking specifically about diarrhea remains the least clinically important given its nonspecific nature. الخيار D، Vomitng and nausea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding. يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a young woman, but asking specifically about diarrhea remains the least clinically important given its nonspecific nature. الخيار E، Migrating abdominal pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding. يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a young woman, but asking specifically about diarrhea remains the least clinically important given its nonspecific nature.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Diarrhea",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diarrhea is the least important to specifically ask about here — it's a nonspecific symptom, while vaginal bleeding history is actually crucial…"
+        },
+        {
+          "letter": "B",
+          "text": "Vaginal bleeding",
+          "verdict": "correct",
+          "reason": "الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة."
+        },
+        {
+          "letter": "C",
+          "text": "Anorexia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a…"
+        },
+        {
+          "letter": "D",
+          "text": "Vomitng and nausea",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a…"
+        },
+        {
+          "letter": "E",
+          "text": "Migrating abdominal pain",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب النزف المهبلي (B) ظنًا أنه الأقل أهمية لأنه يبدو غير مرتبط مباشرة بالجهاز الهضمي، متجاهلاً أنه في الحقيقة سؤال بالغ الأهمية عند أي امرأة شابة لاستبعاد أسباب نسائية خطيرة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب النزف المهبلي (B) ظنًا أنه الأقل أهمية لأنه يبدو غير مرتبط مباشرة بالجهاز الهضمي، متجاهلاً أنه في الحقيقة سؤال بالغ الأهمية عند أي امرأة شابة لاستبعاد أسباب نسائية خطيرة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Vaginal bleeding",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Vaginal bleeding"
+      },
+      "pills": [
+        "\"Young woman + RLQ pain: always ask about vagi"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Vaginal bleeding. الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة. وتذكّر القاعدة: \"Young woman + RLQ pain: always ask about vaginal bleeding/gynecologic history\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

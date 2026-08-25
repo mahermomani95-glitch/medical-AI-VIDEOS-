@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2019-21-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 21 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Rule of Nines — back of arm + posterior trunk + leg + anterior head/neck",
+  "question_ar": "مريض يبلغ من العمر 35 عامًا يعاني من حروق سطحية جزئية السُمك فيالجزء الخلفي من الذراع اليمنى، والجزء الخلفي من الجذع، والساق اليسرى،والجزء الأمامي من الرأس والرقبة. باستخدام قاعدة التسعة، احسب النسبة المئوية لإجمالي مساحة سطح الجسمالمحروقة.",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 21,
+  "options": [
+    {
+      "letter": "A",
+      "text": "45%"
+    },
+    {
+      "letter": "B",
+      "text": "37%"
+    },
+    {
+      "letter": "C",
+      "text": "36%"
+    },
+    {
+      "letter": "D",
+      "text": "27%"
+    },
+    {
+      "letter": "E",
+      "text": "50%"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "45%",
+  "purpose_ar": "التدرب على تطبيق قاعدة التسعات لحساب نسبة مساحة سطح الجسم المحروقة، مع جمع الأجزاء الجزئية (نصف ذراع، نصف جذع، نصف رأس) بدقة.",
+  "trap_ar": "قد ينسى الطالب أن كل منطقة (كالذراع أو الجذع) تُقسَّم لنصفين أمامي وخلفي، فيحسب المنطقة كاملة بدل نصفها فقط، مما يعطي رقمًا أعلى أو أقل من الصحيح.",
+  "summary_ar": "بجمع نسب قاعدة التسعات (نصف ذراع خلفي، نصف جذع خلفي، ساق كاملة، نصف رأس/رقبة أمامي) نصل لمجموع 45%.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Rule of Nines — back of arm + posterior trunk + leg + anteri",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "45%"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 35 عامًا يعاني من حروق سطحية جزئية السُمك فيالجزء الخلفي من الذراع اليمنى، والجزء الخلفي من الجذع، والساق اليسرى،والجزء الأمامي من الرأس والرقبة. باستخدام قاعدة التسعة، احسب النسبة المئوية لإجمالي مساحة سطح الجسمالمحروقة. أمامك هذه الخيارات: 45%، أو 37%، أو 36%، أو 27%، أو 50%. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التدرب على تطبيق قاعدة التسعات لحساب نسبة مساحة سطح الجسم المحروقة، مع جمع الأجزاء الجزئية (نصف ذراع، نصف جذع، نصف رأس) بدقة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التدرب على تطبيق قاعدة التسعات لحساب نسبة مساحة سطح الجسم المحروقة، مع جمع الأجزاء الجزئية (نصف ذراع، نصف جذع، نصف رأس) بدقة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "45%",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "45%"
+      },
+      "card_text": "بجمع نسب قاعدة التسعات (نصف ذراع خلفي، نصف جذع خلفي، ساق كاملة، نصف رأس/رقبة أمامي) نصل لمجموع 45%.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بجمع نسب قاعدة التسعات (نصف ذراع خلفي، نصف جذع خلفي، ساق كاملة، نصف رأس/رقبة أمامي) نصل لمجموع 45%. قاعدة التسعات: كل ذراع 9%، كل ساق 18%، الجذع الأمامي 18% والخلفي 18%، الرأس والرقبة 9% — وتُقسَّم كل منطقة لنصفين أمامي/خلفي عند الحاجة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، 37%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 45%. يصبح صحيحًا في سؤال يصف 37%, 36%, 27%, and 50% don't match the correct Rule of Nines calculation summing to 45% for this combination of body regions. الخيار C، 36%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 45%. يصبح صحيحًا في سؤال يصف 37%, 36%, 27%, and 50% don't match the correct Rule of Nines calculation summing to 45% for this combination of body regions. الخيار D، 27%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 45%. يصبح صحيحًا في سؤال يصف 37%, 36%, 27%, and 50% don't match the correct Rule of Nines calculation summing to 45% for this combination of body regions. الخيار E، 50%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 45%. يصبح صحيحًا في سؤال يصف 37%, 36%, 27%, and 50% don't match the correct Rule of Nines calculation summing to 45% for this combination of body regions.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "45%",
+          "verdict": "correct",
+          "reason": "بجمع نسب قاعدة التسعات (نصف ذراع خلفي، نصف جذع خلفي، ساق كاملة، نصف رأس/رقبة أمامي) نصل لمجموع 45%."
+        },
+        {
+          "letter": "B",
+          "text": "37%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 45%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 37%, 36%, 27%, and 50% don't match the correct Rule of Nines calculation summing to 45% for this combination of body regions."
+        },
+        {
+          "letter": "C",
+          "text": "36%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 45%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 37%, 36%, 27%, and 50% don't match the correct Rule of Nines calculation summing to 45% for this combination of body regions."
+        },
+        {
+          "letter": "D",
+          "text": "27%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 45%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 37%, 36%, 27%, and 50% don't match the correct Rule of Nines calculation summing to 45% for this combination of body regions."
+        },
+        {
+          "letter": "E",
+          "text": "50%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 45%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 37%, 36%, 27%, and 50% don't match the correct Rule of Nines calculation summing to 45% for this combination of body regions."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد ينسى الطالب أن كل منطقة (كالذراع أو الجذع) تُقسَّم لنصفين أمامي وخلفي، فيحسب المنطقة كاملة بدل نصفها فقط، مما يعطي رقمًا أعلى أو أقل من الصحيح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد ينسى الطالب أن كل منطقة (كالذراع أو الجذع) تُقسَّم لنصفين أمامي وخلفي، فيحسب المنطقة كاملة بدل نصفها فقط، مما يعطي رقمًا أعلى أو أقل من الصحيح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. 45%",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "45%"
+      },
+      "pills": [
+        "\"Rule of Nines: arm 9, leg 18, trunk 18 front/"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: 45%. بجمع نسب قاعدة التسعات (نصف ذراع خلفي، نصف جذع خلفي، ساق كاملة، نصف رأس/رقبة أمامي) نصل لمجموع 45%."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بجمع نسب قاعدة التسعات (نصف ذراع خلفي، نصف جذع خلفي، ساق كاملة، نصف رأس/رقبة أمامي) نصل لمجموع 45%. وتذكّر القاعدة: \"Rule of Nines: arm 9, leg 18, trunk 18 front/18 back, head/neck 9\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

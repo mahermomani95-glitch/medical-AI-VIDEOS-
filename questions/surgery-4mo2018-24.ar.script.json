@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2018-24-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 24 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Best marker for recurrent papillary/follicular thyroid cancer",
+  "question_ar": "أي من القيم المعملية التالية هي الأكثر فعالية في اكتشاف سرطان الغدةالدرقية الحليمي أو الجريبي المتكرر؟",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 24,
+  "options": [
+    {
+      "letter": "A",
+      "text": "TSH"
+    },
+    {
+      "letter": "B",
+      "text": "Free T4"
+    },
+    {
+      "letter": "C",
+      "text": "Thyroglobulin"
+    },
+    {
+      "letter": "D",
+      "text": "Transferrin"
+    },
+    {
+      "letter": "E",
+      "text": "TRH"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Thyroglobulin",
+  "purpose_ar": "معرفة أن الثيروغلوبولين هو الواسم المفضّل لمتابعة نكس سرطان الغدة الدرقية الحليمي أو الجريبي بعد الاستئصال الكامل والعلاج باليود المشع.",
+  "trap_ar": "قد يختار الطالب TSH لأنه الفحص الروتيني الأشهر لوظيفة الدرقية، لكنه لا يعكس وجود نسيج ورمي متبقٍ — بينما الثيروغلوبولين يُفرز حصرًا من الخلايا الدرقية (الطبيعية أو الورمية).",
+  "summary_ar": "بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Best marker for recurrent papillary/follicular thyroid cance",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroglobulin"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي من القيم المعملية التالية هي الأكثر فعالية في اكتشاف سرطان الغدةالدرقية الحليمي أو الجريبي المتكرر؟ أمامك هذه الخيارات: TSH، أو Free T4، أو Thyroglobulin، أو Transferrin، أو TRH. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "معرفة أن الثيروغلوبولين هو الواسم المفضّل لمتابعة نكس سرطان الغدة الدرقية الحليمي أو الجريبي بعد الاستئصال الكامل والعلاج باليود المشع.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: معرفة أن الثيروغلوبولين هو الواسم المفضّل لمتابعة نكس سرطان الغدة الدرقية الحليمي أو الجريبي بعد الاستئصال الكامل والعلاج باليود المشع."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Thyroglobulin",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroglobulin"
+      },
+      "card_text": "بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس. اسم الثيروغلوبولين نفسه يحتوي كلمة Thyro ، فهو ‘يفضح' وجود أي نسيج درقي متبقٍ بعد الاستئصال الكامل."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، TSH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely produced only by thyroid tissue itself. يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH. الخيار B، Free T4: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely produced only by thyroid tissue itself. يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH. الخيار D، Transferrin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely produced only by thyroid tissue itself. يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH. الخيار E، TRH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely produced only by thyroid tissue itself. يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "TSH",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH."
+        },
+        {
+          "letter": "B",
+          "text": "Free T4",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH."
+        },
+        {
+          "letter": "C",
+          "text": "Thyroglobulin",
+          "verdict": "correct",
+          "reason": "بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس."
+        },
+        {
+          "letter": "D",
+          "text": "Transferrin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH."
+        },
+        {
+          "letter": "E",
+          "text": "TRH",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب TSH لأنه الفحص الروتيني الأشهر لوظيفة الدرقية، لكنه لا يعكس وجود نسيج ورمي متبقٍ — بينما الثيروغلوبولين يُفرز حصرًا من الخلايا الدرقية (الطبيعية أو الورمية).",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب TSH لأنه الفحص الروتيني الأشهر لوظيفة الدرقية، لكنه لا يعكس وجود نسيج ورمي متبقٍ — بينما الثيروغلوبولين يُفرز حصرًا من الخلايا الدرقية (الطبيعية أو الورمية)."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Thyroglobulin",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroglobulin"
+      },
+      "pills": [
+        "\"Thyroglobulin tells on thyroid tissue\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Thyroglobulin. بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس. وتذكّر القاعدة: \"Thyroglobulin tells on thyroid tissue\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2018-51-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2018 Course, Question 51 of 53",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Life-threatening abdominal pain causes — EXCEPT",
+  "question_ar": "أسباب آلام البطن المهددة للحياة. جميعها صحيحة باستثناء:",
+  "course_label": "Course: Surgery — 7th Month 2018 Course",
+  "question_number": 51,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Perforation"
+    },
+    {
+      "letter": "B",
+      "text": "Gastroduodenitis"
+    },
+    {
+      "letter": "C",
+      "text": "Acute pancreatitis"
+    },
+    {
+      "letter": "D",
+      "text": "Ruptured ectopic pregnancy"
+    },
+    {
+      "letter": "E",
+      "text": "Referred pain ( MI, aortic dissection)"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Gastroduodenitis",
+  "purpose_ar": "التفريق بين أسباب ألم البطن الحاد المهددة للحياة فورًا (ثقب، التهاب بنكرياس حاد، حمل خارج الرحم ممزق، ألم منعكس من احتشاء قلب/تسلخ أبهر) وسبب شائع بسيط غير خطير كالتهاب المعدة والاثني عشر.",
+  "trap_ar": "قد يختار الطالب أحد الأسباب الوعائية أو الحملية المخيفة ظنًا أنها \"الأقل شيوعًا\" وبالتالي الاستثناء، متجاهلاً أن السؤال يطلب السبب الأقل خطورة على الحياة وليس الأقل شيوعًا.",
+  "summary_ar": "التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Life-threatening abdominal pain causes — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastroduodenitis"
+      },
+      "narration": "لنبدأ بهذا السؤال. أسباب آلام البطن المهددة للحياة. جميعها صحيحة باستثناء: أمامك هذه الخيارات: Perforation، أو Gastroduodenitis، أو Acute pancreatitis، أو Ruptured ectopic pregnancy، أو Referred pain ( MI, aortic dissection). لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التفريق بين أسباب ألم البطن الحاد المهددة للحياة فورًا (ثقب، التهاب بنكرياس حاد، حمل خارج الرحم ممزق، ألم منعكس من احتشاء قلب/تسلخ أبهر) وسبب شائع بسيط غير خطير كالتهاب المعدة والاثني عشر.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التفريق بين أسباب ألم البطن الحاد المهددة للحياة فورًا (ثقب، التهاب بنكرياس حاد، حمل خارج الرحم ممزق، ألم منعكس من احتشاء قلب/تسلخ أبهر) وسبب شائع بسيط غير خطير كالتهاب المعدة والاثني عشر."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Gastroduodenitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastroduodenitis"
+      },
+      "card_text": "التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة. من بين كل الخيارات (ثقب، التهاب بنكرياس حاد، حمل خارج الرحم ممزق، ألم منعكس من احتشاء قلب أو تسلخ أبهر)، يبقى التهاب المعدة والاثني عشر البسيط هو الوحيد غير المهدد للحياة فورًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Perforation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis. يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening causes requiring urgent intervention. الخيار C، Acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis. يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening causes requiring urgent intervention. الخيار D، Ruptured ectopic pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis. يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening causes requiring urgent intervention. الخيار E، Referred pain ( MI, aortic dissection): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis. يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening causes requiring urgent intervention.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Perforation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening…"
+        },
+        {
+          "letter": "B",
+          "text": "Gastroduodenitis",
+          "verdict": "correct",
+          "reason": "التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة."
+        },
+        {
+          "letter": "C",
+          "text": "Acute pancreatitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening…"
+        },
+        {
+          "letter": "D",
+          "text": "Ruptured ectopic pregnancy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening…"
+        },
+        {
+          "letter": "E",
+          "text": "Referred pain ( MI, aortic dissection)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroduodenitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or aortic dissection are all genuine life-threatening…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب أحد الأسباب الوعائية أو الحملية المخيفة ظنًا أنها \"الأقل شيوعًا\" وبالتالي الاستثناء، متجاهلاً أن السؤال يطلب السبب الأقل خطورة على الحياة وليس الأقل شيوعًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب أحد الأسباب الوعائية أو الحملية المخيفة ظنًا أنها \"الأقل شيوعًا\" وبالتالي الاستثناء، متجاهلاً أن السؤال يطلب السبب الأقل خطورة على الحياة وليس الأقل شيوعًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Gastroduodenitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastroduodenitis"
+      },
+      "pills": [
+        "\"Gastroduodenitis = uncomfortable, not deadly\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Gastroduodenitis. التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة. وتذكّر القاعدة: \"Gastroduodenitis = uncomfortable, not deadly\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2017-16-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 16 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "ABG: pH 7.56, PCO2 50, PO2 85, HCO3 40",
+  "question_ar": "لدى مريض نسبة سكر الدم الشرياني التالية: الرقم الهيدروجيني = 7.56،ثاني أكسيد الكربون الزائد = 50 مم زئبق، الأكسجين الزائد = 85 مم زئبق،ثاني أكسيد الكربون الهيدروجيني = 40 ملي مكافئ/لتر. ما هو خلل الحمضوالقاعدة؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 16,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Uncompensated metabolic alkalosis"
+    },
+    {
+      "letter": "B",
+      "text": "Respiratory acidosis with metabolic compensation"
+    },
+    {
+      "letter": "C",
+      "text": "Combined metabolic and respiratory alkalosis"
+    },
+    {
+      "letter": "D",
+      "text": "Metabolic alkalosis with respiratory compensation"
+    },
+    {
+      "letter": "E",
+      "text": "Mixed respiratory and metabolic alkalosis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Metabolic alkalosis with respiratory compensation",
+  "purpose_ar": "يريد اختبار قدرتك على تفسير غازات الدم كقلاء استقلابي أولي مع تعويض تنفسي (احتباس CO2 تعويضي).",
+  "trap_ar": "الطالب قد يخلط بين الاضطراب الأساسي والتعويضي، متناسيًا أن الـ pH المرتفع مع HCO3 المرتفع يوجه لقلاء استقلابي أولي لا تنفسي.",
+  "summary_ar": "pH مرتفع مع HCO3 مرتفع يوجه لقلاء استقلابي أولي مع تعويض تنفسي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "ABG: pH 7.56, PCO2 50, PO2 85, HCO3 40",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. لدى مريض نسبة سكر الدم الشرياني التالية: الرقم الهيدروجيني = 7.56،ثاني أكسيد الكربون الزائد = 50 مم زئبق، الأكسجين الزائد = 85 مم زئبق،ثاني أكسيد الكربون الهيدروجيني = 40 ملي مكافئ/لتر. ما هو خلل الحمضوالقاعدة؟ أمامك هذه الخيارات: Uncompensated metabolic alkalosis، أو Respiratory acidosis with metabolic compensation، أو Combined metabolic and respiratory alkalosis، أو Metabolic alkalosis with respiratory compensation، أو Mixed respiratory and metabolic alkalosis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد اختبار قدرتك على تفسير غازات الدم كقلاء استقلابي أولي مع تعويض تنفسي (احتباس CO2 تعويضي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد اختبار قدرتك على تفسير غازات الدم كقلاء استقلابي أولي مع تعويض تنفسي (احتباس CO2 تعويضي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Metabolic alkalosis with respiratory c",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "pH مرتفع مع HCO3 مرتفع يوجه لقلاء استقلابي أولي مع تعويض تنفسي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. pH مرتفع مع HCO3 مرتفع يوجه لقلاء استقلابي أولي مع تعويض تنفسي. حرف M و C يذكرانك بالاضطراب الأساسي وآلية التعويض."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Uncompensated metabolic alkalosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic alkalosis with respiratory compensation. يصبح صحيحًا في سؤال يصف Uncompensated metabolic alkalosis would show normal PCO2. الخيار B، Respiratory acidosis with metabolic compensation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the elevated pH. يصبح صحيحًا في سؤال يصف respiratory acidosis. الخيار C، Combined metabolic and respiratory alkalosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا elevated, PCO2. يصبح صحيحًا في سؤال يصف combined alkalosis would show low. الخيار E، Mixed respiratory and metabolic alkalosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fit an elevated (compensatory) PCO2 — the elevated pH and bicarbonate with elevated PCO2 (respiratory compensation via hypoventilation) matches metabolic alkalosis with respiratory compensation. يصبح صحيحًا في سؤال يصف mixed respiratory/metabolic alkalosis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Uncompensated metabolic alkalosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic alkalosis with respiratory compensation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Uncompensated metabolic alkalosis would show normal PCO2."
+        },
+        {
+          "letter": "B",
+          "text": "Respiratory acidosis with metabolic compensation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the elevated pH.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف respiratory acidosis."
+        },
+        {
+          "letter": "C",
+          "text": "Combined metabolic and respiratory alkalosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا elevated, PCO2.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف combined alkalosis would show low."
+        },
+        {
+          "letter": "D",
+          "text": "Metabolic alkalosis with respiratory compensation",
+          "verdict": "correct",
+          "reason": "pH مرتفع مع HCO3 مرتفع يوجه لقلاء استقلابي أولي مع تعويض تنفسي."
+        },
+        {
+          "letter": "E",
+          "text": "Mixed respiratory and metabolic alkalosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fit an elevated (compensatory) PCO2 — the elevated pH and bicarbonate with elevated PCO2 (respiratory compensation via…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف mixed respiratory/metabolic alkalosis."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخلط بين الاضطراب الأساسي والتعويضي، متناسيًا أن الـ pH المرتفع مع HCO3 المرتفع يوجه لقلاء استقلابي أولي لا تنفسي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخلط بين الاضطراب الأساسي والتعويضي، متناسيًا أن الـ pH المرتفع مع HCO3 المرتفع يوجه لقلاء استقلابي أولي لا تنفسي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Metabolic alkalosis with respiratory compensatio",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "High pH + high HCO3: Metabolic alkalosis, resp"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Metabolic alkalosis with respiratory compensation. pH مرتفع مع HCO3 مرتفع يوجه لقلاء استقلابي أولي مع تعويض تنفسي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. pH مرتفع مع HCO3 مرتفع يوجه لقلاء استقلابي أولي مع تعويض تنفسي. وتذكّر القاعدة: High pH + high HCO3: Metabolic alkalosis, respiratory Compensation. والإجابة الصحيحة هي D."
+    }
+  ]
+}

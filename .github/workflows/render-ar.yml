@@ -18,13 +18,15 @@ name: Render Narrated Videos (Arabic)
 # job; the matrix spreads that across many parallel runners and means one
 # question's failure doesn't block the rest of the batch.
 
+# NOTE: manual-dispatch ONLY. This workflow renders from scene PNGs that are
+# committed to the repo, which only works for the handful of hand-authored
+# sample questions. It cannot serve the full bank: one job per question
+# exceeds GitHub's 256-matrix-job cap at 1031 questions, and committing
+# ~8000 scene PNGs would bloat the repo by ~1GB. The push trigger was
+# removed so adding bank scripts doesn't fire a doomed 1000-job run --
+# use `render-all-ar.yml` for the full bank instead.
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - "questions/*.ar.script.json"
-      - "engine/out-ar/**"
-      - "engine/generate_video_ar.py"
 
 permissions:
   contents: write

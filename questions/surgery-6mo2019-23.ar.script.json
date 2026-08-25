@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2019-23-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 23 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Long-term warfarin monitoring test",
+  "question_ar": "حضرت امرأة تبلغ من العمر 35 عامًا إلى قسم الطوارئ تعاني من تورم فيساقها اليمنى واحمرار لمدة 3 أيام قبل موعدها. خضعت لفحص دوبلر بالموجاتفوق الصوتية، وشُخِّصت بإصابتها بتخثر وريدي عميق، ووُصف لها علاجوارفارين طويل الأمد. أفضل فحص لمتابعة المريضة خلال فترة علاجهابالوارفارين طويل الأمد هو:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 23,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Bleeding time"
+    },
+    {
+      "letter": "B",
+      "text": "Partial Thromboplastin Time"
+    },
+    {
+      "letter": "C",
+      "text": "Cloting Time"
+    },
+    {
+      "letter": "D",
+      "text": "Prothrombin Time"
+    },
+    {
+      "letter": "E",
+      "text": "platelets Count"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Prothrombin Time",
+  "purpose_ar": "حفظ الفحص الصحيح لمتابعة العلاج بالوارفارين طويل الأمد (زمن البروثرومبين/INR)، وتمييزه عن فحص متابعة الهيبارين (PTT).",
+  "trap_ar": "قد يخلط الطالب بين PT و PTT ، فيختار PTT (B) لأنه فحص تخثر شائع الذكر أيضًا، متجاهلاً أن PTT خاص بمتابعة الهيبارين وليس الوارفارين.",
+  "summary_ar": "الوارفارين يثبط العوامل المعتمدة على فيتامين K التي تغذي المسار الخارجي — يُقاس بزمن البروثرومبين (INR).",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Long-term warfarin monitoring test",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 35 عامًا إلى قسم الطوارئ تعاني من تورم فيساقها اليمنى واحمرار لمدة 3 أيام قبل موعدها. خضعت لفحص دوبلر بالموجاتفوق الصوتية، وشُخِّصت بإصابتها بتخثر وريدي عميق، ووُصف لها علاجوارفارين طويل الأمد. أفضل فحص لمتابعة المريضة خلال فترة علاجهابالوارفارين طويل الأمد هو: أمامك هذه الخيارات: Bleeding time، أو Partial Thromboplastin Time، أو Cloting Time، أو Prothrombin Time، أو platelets Count. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ الفحص الصحيح لمتابعة العلاج بالوارفارين طويل الأمد (زمن البروثرومبين/INR)، وتمييزه عن فحص متابعة الهيبارين (PTT).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ الفحص الصحيح لمتابعة العلاج بالوارفارين طويل الأمد (زمن البروثرومبين/INR)، وتمييزه عن فحص متابعة الهيبارين (PTT)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Prothrombin Time",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الوارفارين يثبط العوامل المعتمدة على فيتامين K التي تغذي المسار الخارجي — يُقاس بزمن البروثرومبين (INR).",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الوارفارين يثبط العوامل المعتمدة على فيتامين K التي تغذي المسار الخارجي — يُقاس بزمن البروثرومبين (INR). قاعدة الحفظ الأشهر: الوارفارين يُتابَع بزمن البروثرومبين (PT/INR)، بينما الهيبارين يُتابَع بزمن الثرومبوبلاستين الجزئي (PTT)."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bleeding time: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا specifically the vitamin K-dependent extrinsic pathway that warfarin affects via PT/INR. يصبح صحيحًا في سؤال يصف Bleeding time, PTT, and clotting time reflect different aspects of coagulation but. الخيار B، Partial Thromboplastin Time: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا specifically the vitamin K-dependent extrinsic pathway that warfarin affects via PT/INR. يصبح صحيحًا في سؤال يصف Bleeding time, PTT, and clotting time reflect different aspects of coagulation but. الخيار C، Cloting Time: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا specifically the vitamin K-dependent extrinsic pathway that warfarin affects via PT/INR. يصبح صحيحًا في سؤال يصف Bleeding time, PTT, and clotting time reflect different aspects of coagulation but. الخيار E، platelets Count: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا warfarin's anticoagulant effect. يصبح صحيحًا في سؤال يصف platelet count reflects platelet numbers.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Bleeding time",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا specifically the vitamin K-dependent extrinsic pathway that warfarin affects via PT/INR.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding time, PTT, and clotting time reflect different aspects of coagulation but."
+        },
+        {
+          "letter": "B",
+          "text": "Partial Thromboplastin Time",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا specifically the vitamin K-dependent extrinsic pathway that warfarin affects via PT/INR.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding time, PTT, and clotting time reflect different aspects of coagulation but."
+        },
+        {
+          "letter": "C",
+          "text": "Cloting Time",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا specifically the vitamin K-dependent extrinsic pathway that warfarin affects via PT/INR.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bleeding time, PTT, and clotting time reflect different aspects of coagulation but."
+        },
+        {
+          "letter": "D",
+          "text": "Prothrombin Time",
+          "verdict": "correct",
+          "reason": "الوارفارين يثبط العوامل المعتمدة على فيتامين K التي تغذي المسار الخارجي — يُقاس بزمن البروثرومبين (INR)."
+        },
+        {
+          "letter": "E",
+          "text": "platelets Count",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا warfarin's anticoagulant effect.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف platelet count reflects platelet numbers."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يخلط الطالب بين PT و PTT ، فيختار PTT (B) لأنه فحص تخثر شائع الذكر أيضًا، متجاهلاً أن PTT خاص بمتابعة الهيبارين وليس الوارفارين.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يخلط الطالب بين PT و PTT ، فيختار PTT (B) لأنه فحص تخثر شائع الذكر أيضًا، متجاهلاً أن PTT خاص بمتابعة الهيبارين وليس الوارفارين."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Prothrombin Time",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Warfarin = PT/INR, Heparin = PTT\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Prothrombin Time. الوارفارين يثبط العوامل المعتمدة على فيتامين K التي تغذي المسار الخارجي — يُقاس بزمن البروثرومبين (INR)."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الوارفارين يثبط العوامل المعتمدة على فيتامين K التي تغذي المسار الخارجي — يُقاس بزمن البروثرومبين (INR). وتذكّر القاعدة: \"Warfarin = PT/INR, Heparin = PTT\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

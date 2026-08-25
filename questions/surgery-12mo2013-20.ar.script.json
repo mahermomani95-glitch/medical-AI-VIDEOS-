@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-20-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 20 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common late complication, colostomy",
+  "question_ar": "المضاعفات المتأخرة الأكثر شيوعًا لعملية فغر القولون هي؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 20,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Colostomy necrosis"
+    },
+    {
+      "letter": "B",
+      "text": "Retraction"
+    },
+    {
+      "letter": "C",
+      "text": "Obstruction"
+    },
+    {
+      "letter": "D",
+      "text": "Parastomal hernia"
+    },
+    {
+      "letter": "E",
+      "text": "Prolapse"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Parastomal hernia",
+  "purpose_ar": "يريد التأكيد أن الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون.",
+  "trap_ar": "الطالب قد يختار تدلي الفغرة أو تضيقها، متناسيًا أن الفتق حول الفغرة يتصدر إحصائيًا كالمضاعفة المتأخرة الأشيع.",
+  "summary_ar": "الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common late complication, colostomy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Parastomal hernia"
+      },
+      "narration": "لنبدأ بهذا السؤال. المضاعفات المتأخرة الأكثر شيوعًا لعملية فغر القولون هي؟ أمامك هذه الخيارات: Colostomy necrosis، أو Retraction، أو Obstruction، أو Parastomal hernia، أو Prolapse. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Parastomal hernia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Parastomal hernia"
+      },
+      "card_text": "الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون. حرف P المزدوج يربط هذا الفتق بموقعه كالمضاعفة الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colostomy necrosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Parastomal hernia. يصبح صحيحًا في سؤال يصف Necrosis, retraction, and obstruction are typically early complications. الخيار B، Retraction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Parastomal hernia. يصبح صحيحًا في سؤال يصف Necrosis, retraction, and obstruction are typically early complications. الخيار C، Obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Parastomal hernia. يصبح صحيحًا في سؤال يصف Necrosis, retraction, and obstruction are typically early complications. الخيار E، Prolapse: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Parastomal hernia. يصبح صحيحًا في سؤال يصف prolapse is also possible but less common than parastomal hernia, which remains the most common LATE complication of colostomy.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Colostomy necrosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Parastomal hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Necrosis, retraction, and obstruction are typically early complications."
+        },
+        {
+          "letter": "B",
+          "text": "Retraction",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Parastomal hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Necrosis, retraction, and obstruction are typically early complications."
+        },
+        {
+          "letter": "C",
+          "text": "Obstruction",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Parastomal hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Necrosis, retraction, and obstruction are typically early complications."
+        },
+        {
+          "letter": "D",
+          "text": "Parastomal hernia",
+          "verdict": "correct",
+          "reason": "الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون."
+        },
+        {
+          "letter": "E",
+          "text": "Prolapse",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Parastomal hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف prolapse is also possible but less common than parastomal hernia, which remains the most common LATE complication of colostomy."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار تدلي الفغرة أو تضيقها، متناسيًا أن الفتق حول الفغرة يتصدر إحصائيًا كالمضاعفة المتأخرة الأشيع.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار تدلي الفغرة أو تضيقها، متناسيًا أن الفتق حول الفغرة يتصدر إحصائيًا كالمضاعفة المتأخرة الأشيع."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Parastomal hernia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Parastomal hernia"
+      },
+      "pills": [
+        "Colostomy late complication: mostly Parastomal"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Parastomal hernia. الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الفتق حول الفغرة هو المضاعفة المتأخرة الأشيع بعد فغر القولون. وتذكّر القاعدة: Colostomy late complication: mostly Parastomal hernia. والإجابة الصحيحة هي D."
+    }
+  ]
+}

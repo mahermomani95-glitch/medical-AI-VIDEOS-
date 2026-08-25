@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2021-02-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2021 Course, Question 2 of 31",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Volume of blood loss at which first hypotension is recorded",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2021 Course",
+  "question_number": 2,
+  "options": [
+    {
+      "letter": "A",
+      "text": "200 ml"
+    },
+    {
+      "letter": "B",
+      "text": "500 ml"
+    },
+    {
+      "letter": "C",
+      "text": "1000 ml"
+    },
+    {
+      "letter": "D",
+      "text": "1500 ml"
+    },
+    {
+      "letter": "E",
+      "text": "2000 ml"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "1500 ml",
+  "purpose_ar": "حفظ تصنيف ATLS للصدمة النزفية ومعرفة أن هبوط الضغط لا يُسجَّل عادة إلا عند الدرجة الثالثة (حوالي 1500مل فقد دم).",
+  "trap_ar": "قد يختار الطالب رقمًا أقل ظنًا أن أي فقد دم ملموس يسبب هبوط ضغط فوري، متجاهلاً آليات التعويض الفيزيولوجية.",
+  "summary_ar": "هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Volume of blood loss at which first hypotension is recorded",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 200 ml، أو 500 ml، أو 1000 ml، أو 1500 ml، أو 2000 ml. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ تصنيف ATLS للصدمة النزفية ومعرفة أن هبوط الضغط لا يُسجَّل عادة إلا عند الدرجة الثالثة (حوالي 1500مل فقد دم).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ تصنيف ATLS للصدمة النزفية ومعرفة أن هبوط الضغط لا يُسجَّل عادة إلا عند الدرجة الثالثة (حوالي 1500مل فقد دم)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "1500 ml",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم. الجسم يعوّض جيدًا في الدرجتين الأولى والثانية من النزف (حتى 1500مل)، ولا يظهر هبوط الضغط الفعلي إلا في الدرجة الثالثة فما فوق."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 200 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml. يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage). الخيار B، 500 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml. يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage). الخيار C، 1000 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml. يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage). الخيار E، 2000 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml. يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "200 ml",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage)."
+        },
+        {
+          "letter": "B",
+          "text": "500 ml",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage)."
+        },
+        {
+          "letter": "C",
+          "text": "1000 ml",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage)."
+        },
+        {
+          "letter": "D",
+          "text": "1500 ml",
+          "verdict": "correct",
+          "reason": "هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم."
+        },
+        {
+          "letter": "E",
+          "text": "2000 ml",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage)."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب رقمًا أقل ظنًا أن أي فقد دم ملموس يسبب هبوط ضغط فوري، متجاهلاً آليات التعويض الفيزيولوجية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب رقمًا أقل ظنًا أن أي فقد دم ملموس يسبب هبوط ضغط فوري، متجاهلاً آليات التعويض الفيزيولوجية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. 1500 ml",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Hypotension first appears at Class III (~1500"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: 1500 ml. هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم. وتذكّر القاعدة: \"Hypotension first appears at Class III (~1500 mL)\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2019-20-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 20 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Opens eyes spontaneously + localizes pain + mumbles — GCS score",
+  "question_ar": "رجل دخل غرفة الطوارئ بعد تعرضه لحادث سير، يفتح عينيه تلقائيًا، ويستطيعتحديد مكان الألم ويغمغم، ما هي درجة مقياس غلاسكو للغيبوبة لهذا المريض؟",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 20,
+  "options": [
+    {
+      "letter": "A",
+      "text": "7"
+    },
+    {
+      "letter": "B",
+      "text": "9"
+    },
+    {
+      "letter": "C",
+      "text": "10"
+    },
+    {
+      "letter": "D",
+      "text": "11"
+    },
+    {
+      "letter": "E",
+      "text": "12"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "11",
+  "purpose_ar": "التدرب على حساب GCS من وصف سريري مباشر (فتح تلقائي، توطين ألم، تمتم) وجمع الدرجات الثلاث بدقة.",
+  "trap_ar": "قد يخطئ الطالب بإعطاء درجة الاستجابة اللفظية الكاملة (5) بدل الدرجة الصحيحة للتمتم غير المفهوم (2)، مما يعطي مجموعًا أعلى من الصحيح.",
+  "summary_ar": "فتح العينين تلقائيًا (4) + أصوات غير مفهومة (2) + توطين الألم (5) = مجموع GCS يساوي 11.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Opens eyes spontaneously + localizes pain + mumbles — GCS sc",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل دخل غرفة الطوارئ بعد تعرضه لحادث سير، يفتح عينيه تلقائيًا، ويستطيعتحديد مكان الألم ويغمغم، ما هي درجة مقياس غلاسكو للغيبوبة لهذا المريض؟ أمامك هذه الخيارات: 7، أو 9، أو 10، أو 11، أو 12. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التدرب على حساب GCS من وصف سريري مباشر (فتح تلقائي، توطين ألم، تمتم) وجمع الدرجات الثلاث بدقة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التدرب على حساب GCS من وصف سريري مباشر (فتح تلقائي، توطين ألم، تمتم) وجمع الدرجات الثلاث بدقة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "11",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "فتح العينين تلقائيًا (4) + أصوات غير مفهومة (2) + توطين الألم (5) = مجموع GCS يساوي 11.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فتح العينين تلقائيًا (4) + أصوات غير مفهومة (2) + توطين الألم (5) = مجموع GCS يساوي 11. فتح العين التلقائي يمنح أعلى درجة (4)، الأصوات غير المفهومة تمنح 2، توطين الألم يمنح 5 — والمجموع 4+2+5=11."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 7: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 11. يصبح صحيحًا في سؤال يصف GCS totals of 7, 9, 10, and 12 don't match the correct calculation summing to 11 (4+3+4). الخيار B، 9: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 11. يصبح صحيحًا في سؤال يصف GCS totals of 7, 9, 10, and 12 don't match the correct calculation summing to 11 (4+3+4). الخيار C، 10: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 11. يصبح صحيحًا في سؤال يصف GCS totals of 7, 9, 10, and 12 don't match the correct calculation summing to 11 (4+3+4). الخيار E، 12: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 11. يصبح صحيحًا في سؤال يصف GCS totals of 7, 9, 10, and 12 don't match the correct calculation summing to 11 (4+3+4).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "7",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 11.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 7, 9, 10, and 12 don't match the correct calculation summing to 11 (4+3+4)."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 11.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 7, 9, 10, and 12 don't match the correct calculation summing to 11 (4+3+4)."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 11.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 7, 9, 10, and 12 don't match the correct calculation summing to 11 (4+3+4)."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "verdict": "correct",
+          "reason": "فتح العينين تلقائيًا (4) + أصوات غير مفهومة (2) + توطين الألم (5) = مجموع GCS يساوي 11."
+        },
+        {
+          "letter": "E",
+          "text": "12",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 11.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف GCS totals of 7, 9, 10, and 12 don't match the correct calculation summing to 11 (4+3+4)."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يخطئ الطالب بإعطاء درجة الاستجابة اللفظية الكاملة (5) بدل الدرجة الصحيحة للتمتم غير المفهوم (2)، مما يعطي مجموعًا أعلى من الصحيح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يخطئ الطالب بإعطاء درجة الاستجابة اللفظية الكاملة (5) بدل الدرجة الصحيحة للتمتم غير المفهوم (2)، مما يعطي مجموعًا أعلى من الصحيح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. 11",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"4 + 2 + 5 = 11\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: 11. فتح العينين تلقائيًا (4) + أصوات غير مفهومة (2) + توطين الألم (5) = مجموع GCS يساوي 11."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فتح العينين تلقائيًا (4) + أصوات غير مفهومة (2) + توطين الألم (5) = مجموع GCS يساوي 11. وتذكّر القاعدة: \"4 + 2 + 5 = 11\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-22-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 22 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Colorectal cancer risk factors, EXCEPT",
+  "question_ar": "كلها عوامل خطر للإصابة بسرطان القولون والمستقيم باستثناء؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 22,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Ulcerative colitis"
+    },
+    {
+      "letter": "B",
+      "text": "Long-term use of aspirin"
+    },
+    {
+      "letter": "C",
+      "text": "Crohn disease"
+    },
+    {
+      "letter": "D",
+      "text": "FAP"
+    },
+    {
+      "letter": "E",
+      "text": "Gardner syndrome"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Long-term use of aspirin",
+  "purpose_ar": "يريد التأكيد أن الاستخدام المطول للأسبرين عامل وقائي ضد سرطان القولون والمستقيم، لا عامل خطر كما بالعبارة الخاطئة.",
+  "trap_ar": "الطالب قد يظن أي دواء مطول الاستخدام عامل خطر بالتساوي، متناسيًا أن الأسبرين تحديدًا يحمل تأثيرًا وقائيًا موثقًا ضد هذا السرطان.",
+  "summary_ar": "الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Colorectal cancer risk factors, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Long-term use of aspirin"
+      },
+      "narration": "لنبدأ بهذا السؤال. كلها عوامل خطر للإصابة بسرطان القولون والمستقيم باستثناء؟ أمامك هذه الخيارات: Ulcerative colitis، أو Long-term use of aspirin، أو Crohn disease، أو FAP، أو Gardner syndrome. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الاستخدام المطول للأسبرين عامل وقائي ضد سرطان القولون والمستقيم، لا عامل خطر كما بالعبارة الخاطئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الاستخدام المطول للأسبرين عامل وقائي ضد سرطان القولون والمستقيم، لا عامل خطر كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Long-term use of aspirin",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Long-term use of aspirin"
+      },
+      "card_text": "الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر. حرف A المزدوج يذكرك أن الأسبرين وقائي لا خطر بهذا السياق."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor. يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin use, which is actually protective (chemopreventive) against colorectal cancer. الخيار C، Crohn disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor. يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin use, which is actually protective (chemopreventive) against colorectal cancer. الخيار D، FAP: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor. يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin use, which is actually protective (chemopreventive) against colorectal cancer. الخيار E، Gardner syndrome: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor. يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin use, which is actually protective (chemopreventive) against colorectal cancer.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Ulcerative colitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin…"
+        },
+        {
+          "letter": "B",
+          "text": "Long-term use of aspirin",
+          "verdict": "correct",
+          "reason": "الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر."
+        },
+        {
+          "letter": "C",
+          "text": "Crohn disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin…"
+        },
+        {
+          "letter": "D",
+          "text": "FAP",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin…"
+        },
+        {
+          "letter": "E",
+          "text": "Gardner syndrome",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a risk factor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established colorectal cancer risk factors, unlike long-term aspirin…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي دواء مطول الاستخدام عامل خطر بالتساوي، متناسيًا أن الأسبرين تحديدًا يحمل تأثيرًا وقائيًا موثقًا ضد هذا السرطان.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي دواء مطول الاستخدام عامل خطر بالتساوي، متناسيًا أن الأسبرين تحديدًا يحمل تأثيرًا وقائيًا موثقًا ضد هذا السرطان."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Long-term use of aspirin",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Long-term use of aspirin"
+      },
+      "pills": [
+        "Long-term aspirin: Actually protects against c"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Long-term use of aspirin. الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر. وتذكّر القاعدة: Long-term aspirin: Actually protects against colorectal cancer. والإجابة الصحيحة هي B."
+    }
+  ]
+}

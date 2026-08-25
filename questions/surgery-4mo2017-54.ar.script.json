@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-54-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 54 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "80yo woman, hematemesis, intermittent epigastric pain, diagnosis",
+  "question_ar": "امرأة تبلغ من العمر 80 عامًا تعاني من قيء دموي. تعاني من ألم متقطع فيمنطقة الشرسوف بعد تناول الطعام منذ ستة أشهر. فقدت حوالي 9 كجم منوزنها. بدأت مؤخرًا بتناول ديكلوفيناك. السبب الأكثر احتمالًا لحالتها هو:؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 54,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Mallory Weiss tear"
+    },
+    {
+      "letter": "B",
+      "text": "Esophagitis"
+    },
+    {
+      "letter": "C",
+      "text": "Gastric malignancy"
+    },
+    {
+      "letter": "D",
+      "text": "Aortoenteric fistula"
+    },
+    {
+      "letter": "E",
+      "text": "Gastric ulcer"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Gastric malignancy",
+  "purpose_ar": "يريد ربط قيء دموي مع ألم شرسوفي متقطع مزمن عند مسنة بخباثة معدية محتملة.",
+  "trap_ar": "الطالب قد يختار قرحة هضمية بسيطة، متناسيًا أن العمر المتقدم مع الألم المزمن يرفعان الشك بخباثة كامنة تستدعي تحريًا كاملاً.",
+  "summary_ar": "قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "80yo woman, hematemesis, intermittent epigastric pain, diagn",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastric malignancy"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 80 عامًا تعاني من قيء دموي. تعاني من ألم متقطع فيمنطقة الشرسوف بعد تناول الطعام منذ ستة أشهر. فقدت حوالي 9 كجم منوزنها. بدأت مؤخرًا بتناول ديكلوفيناك. السبب الأكثر احتمالًا لحالتها هو:؟ أمامك هذه الخيارات: Mallory Weiss tear، أو Esophagitis، أو Gastric malignancy، أو Aortoenteric fistula، أو Gastric ulcer. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط قيء دموي مع ألم شرسوفي متقطع مزمن عند مسنة بخباثة معدية محتملة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط قيء دموي مع ألم شرسوفي متقطع مزمن عند مسنة بخباثة معدية محتملة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Gastric malignancy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastric malignancy"
+      },
+      "card_text": "قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية. حرف M يذكرك بضرورة استبعاد هذا التشخيص الخطير."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Mallory Weiss tear: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا described here. يصبح صحيحًا في سؤال يصف A Mallory-Weiss tear typically follows forceful vomiting. الخيار B، Esophagitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy. يصبح صحيحًا في سؤال يصف esophagitis and aortoenteric fistula (D, more classic with prior aortic graft) are less likely given the age and presentation. الخيار D، Aortoenteric fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy. يصبح صحيحًا في سؤال يصف esophagitis and aortoenteric fistula (D, more classic with prior aortic graft) are less likely given the age and presentation. الخيار E، Gastric ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy. يصبح صحيحًا في سؤال يصف gastric ulcer is possible but less classic — in an elderly patient with intermittent epigastric pain and hematemesis, gastric malignancy should be strongly considered.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Mallory Weiss tear",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا described here.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A Mallory-Weiss tear typically follows forceful vomiting."
+        },
+        {
+          "letter": "B",
+          "text": "Esophagitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف esophagitis and aortoenteric fistula (D, more classic with prior aortic graft) are less likely given the age and presentation."
+        },
+        {
+          "letter": "C",
+          "text": "Gastric malignancy",
+          "verdict": "correct",
+          "reason": "قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية."
+        },
+        {
+          "letter": "D",
+          "text": "Aortoenteric fistula",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف esophagitis and aortoenteric fistula (D, more classic with prior aortic graft) are less likely given the age and presentation."
+        },
+        {
+          "letter": "E",
+          "text": "Gastric ulcer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف gastric ulcer is possible but less classic — in an elderly patient with intermittent epigastric pain and hematemesis, gastric malignancy should…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار قرحة هضمية بسيطة، متناسيًا أن العمر المتقدم مع الألم المزمن يرفعان الشك بخباثة كامنة تستدعي تحريًا كاملاً.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار قرحة هضمية بسيطة، متناسيًا أن العمر المتقدم مع الألم المزمن يرفعان الشك بخباثة كامنة تستدعي تحريًا كاملاً."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Gastric malignancy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastric malignancy"
+      },
+      "pills": [
+        "Elderly, chronic pain, hematemesis: consider M"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Gastric malignancy. قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية. وتذكّر القاعدة: Elderly, chronic pain, hematemesis: consider Malignancy. والإجابة الصحيحة هي C."
+    }
+  ]
+}

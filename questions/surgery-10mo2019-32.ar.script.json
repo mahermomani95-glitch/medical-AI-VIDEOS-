@@ -1,0 +1,143 @@
+{
+  "id": "surgery-10mo2019-32-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 32 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Seizure + eyes open only to pain + mumbling + cannot localize pain",
+  "question_ar": "انهارت فتاة تبلغ من العمر 19 عامًا في حفل موسيقي، وشُوهدت وهي تعانيمن نوبة تشنجية ارتجاجية استمرت دقيقتين. عندما وصل المسعفون وسألوها،تمتمت، لكن لم يفهم أحد ما تقوله. فقط عندما ضغط المسعف على ظفرها،فتحت عينيها، لكنها لم تستطع مد يدها الأخرى لفرك ظفرها ثم دفعه بعيدًا. ماهي الخطوة التالية الأنسب في العلاج؟",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 32,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Brain CT scan"
+    },
+    {
+      "letter": "B",
+      "text": "Skull X-ray"
+    },
+    {
+      "letter": "C",
+      "text": "Intubation and ventilation"
+    },
+    {
+      "letter": "D",
+      "text": "Emergency craniotomy"
+    },
+    {
+      "letter": "E",
+      "text": "IV fluid therapy"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Intubation and ventilation",
+  "purpose_ar": "التعرف على مريض بمستوى وعي منخفض بعد نوبة اختلاجية (GCS منخفض، عدم توطين الألم) يستدعي تأمين مجرى الهواء فورًا بالتنبيب قبل أي تصوير أو تدخل آخر.",
+  "trap_ar": "قد يختار الطالب تصوير الدماغ المقطعي (A) كخطوة أولى منطقية بعد نوبة اختلاجية، متجاهلاً أن حماية مجرى الهواء عند مريض بمستوى وعي منخفض جدًا (لا يوطن الألم) هي الأولوية القصوى قبل أي تصوير.",
+  "summary_ar": "فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Seizure + eyes open only to pain + mumbling + cannot localiz",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. انهارت فتاة تبلغ من العمر 19 عامًا في حفل موسيقي، وشُوهدت وهي تعانيمن نوبة تشنجية ارتجاجية استمرت دقيقتين. عندما وصل المسعفون وسألوها،تمتمت، لكن لم يفهم أحد ما تقوله. فقط عندما ضغط المسعف على ظفرها،فتحت عينيها، لكنها لم تستطع مد يدها الأخرى لفرك ظفرها ثم دفعه بعيدًا. ماهي الخطوة التالية الأنسب في العلاج؟ أمامك هذه الخيارات: Brain CT scan، أو Skull X-ray، أو Intubation and ventilation، أو Emergency craniotomy، أو IV fluid therapy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على مريض بمستوى وعي منخفض بعد نوبة اختلاجية (GCS منخفض، عدم توطين الألم) يستدعي تأمين مجرى الهواء فورًا بالتنبيب قبل أي تصوير أو تدخل آخر.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على مريض بمستوى وعي منخفض بعد نوبة اختلاجية (GCS منخفض، عدم توطين الألم) يستدعي تأمين مجرى الهواء فورًا بالتنبيب قبل أي تصوير أو تدخل آخر."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Intubation and ventilation",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء. عندما لا يستطيع المريض توطين الألم (فقط ينسحب أو لا يستجيب حركيًا بشكل هادف)، مع فتح عين للألم فقط وكلام غير مفهوم، يكون المجموع منخفضًا بما يكفي (≤8) ليستدعي تأمين مجرى الهواء فورًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Brain CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the immediate management priority in a rapidly deteriorating patient. يصبح صحيحًا في سؤال يصف Brain CT is useful for diagnosis but. الخيار B، Skull X-ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation and ventilation. يصبح صحيحًا في سؤال يصف skull X-ray has limited utility for intracranial bleeds. الخيار D، Emergency craniotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the very first step. يصبح صحيحًا في سؤال يصف emergency craniotomy is the definitive treatment reserved for confirmed cases. الخيار E، IV fluid therapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the urgent neurosurgical emergency directly. يصبح صحيحًا في سؤال يصف IV fluid therapy.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Brain CT scan",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the immediate management priority in a rapidly deteriorating patient.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Brain CT is useful for diagnosis but."
+        },
+        {
+          "letter": "B",
+          "text": "Skull X-ray",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation and ventilation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف skull X-ray has limited utility for intracranial bleeds."
+        },
+        {
+          "letter": "C",
+          "text": "Intubation and ventilation",
+          "verdict": "correct",
+          "reason": "فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء."
+        },
+        {
+          "letter": "D",
+          "text": "Emergency craniotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the very first step.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف emergency craniotomy is the definitive treatment reserved for confirmed cases."
+        },
+        {
+          "letter": "E",
+          "text": "IV fluid therapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the urgent neurosurgical emergency directly.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف IV fluid therapy."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب تصوير الدماغ المقطعي (A) كخطوة أولى منطقية بعد نوبة اختلاجية، متجاهلاً أن حماية مجرى الهواء عند مريض بمستوى وعي منخفض جدًا (لا يوطن الألم) هي الأولوية القصوى قبل أي تصوير.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب تصوير الدماغ المقطعي (A) كخطوة أولى منطقية بعد نوبة اختلاجية، متجاهلاً أن حماية مجرى الهواء عند مريض بمستوى وعي منخفض جدًا (لا يوطن الألم) هي الأولوية القصوى قبل أي تصوير."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Intubation and ventilation",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"GCS ≤8 = protect the airway (intubate)\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Intubation and ventilation. فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء. وتذكّر القاعدة: \"GCS ≤8 = protect the airway (intubate)\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

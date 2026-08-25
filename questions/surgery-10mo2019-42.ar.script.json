@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-42-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 42 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "RLQ tenderness — approximate incidence of finding a NORMAL appendix on exploration",
+  "question_ar": "مريض يبلغ من العمر 25 عامًا يُفحص في غرفة الطوارئ ويعاني من ألممتكرر في الربع السفلي الأيمن. معدل حدوث وجود زائدة سليمة عند فحصالربع السفلي الأيمن هو:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 42,
+  "options": [
+    {
+      "letter": "A",
+      "text": "5%"
+    },
+    {
+      "letter": "B",
+      "text": "10%"
+    },
+    {
+      "letter": "C",
+      "text": "20%"
+    },
+    {
+      "letter": "D",
+      "text": "40%"
+    },
+    {
+      "letter": "E",
+      "text": "50%"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "20%",
+  "purpose_ar": "حفظ النسبة التقريبية المقبولة تاريخيًا لاستئصال الزائدة السلبي (حوالي 20%) كتوازن بين تجنب تأخير تشخيص التهاب الزائدة الحقيقي وتجنب الجراحة غير الضرورية.",
+  "trap_ar": "قد يختار الطالب رقمًا أقل (5% أو 10%) ظنًا أن الطب الحديث دقيق جدًا في التشخيص، متجاهلاً أن النسبة المقبولة تاريخيًا وسريريًا أعلى من ذلك بسبب طبيعة المرض السريرية المتغيرة.",
+  "summary_ar": "حوالي 20% من عمليات استئصال الزائدة بشك التهابها تجد زائدة طبيعية فعليًا — نسبة عدم يقين تشخيصي مقبولة إحصائيًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "RLQ tenderness — approximate incidence of finding a NORMAL a",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "20%"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 25 عامًا يُفحص في غرفة الطوارئ ويعاني من ألممتكرر في الربع السفلي الأيمن. معدل حدوث وجود زائدة سليمة عند فحصالربع السفلي الأيمن هو: أمامك هذه الخيارات: 5%، أو 10%، أو 20%، أو 40%، أو 50%. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ النسبة التقريبية المقبولة تاريخيًا لاستئصال الزائدة السلبي (حوالي 20%) كتوازن بين تجنب تأخير تشخيص التهاب الزائدة الحقيقي وتجنب الجراحة غير الضرورية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ النسبة التقريبية المقبولة تاريخيًا لاستئصال الزائدة السلبي (حوالي 20%) كتوازن بين تجنب تأخير تشخيص التهاب الزائدة الحقيقي وتجنب الجراحة غير الضرورية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "20%",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "20%"
+      },
+      "card_text": "حوالي 20% من عمليات استئصال الزائدة بشك التهابها تجد زائدة طبيعية فعليًا — نسبة عدم يقين تشخيصي مقبولة إحصائيًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. حوالي 20% من عمليات استئصال الزائدة بشك التهابها تجد زائدة طبيعية فعليًا — نسبة عدم يقين تشخيصي مقبولة إحصائيًا. نسبة استئصال الزائدة السلبي (وجود زائدة طبيعية عند الجراحة رغم الشك السريري القوي) تبلغ تقريبًا 20% تاريخيًا، وهي نسبة مقبولة توازن بين تجنب التأخير الخطير وتجنب الجراحة غير الضرورية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 5%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20%. يصبح صحيحًا في سؤال يصف 5%, 10%, 40%, and 50% don't match the historically accepted approximately 20% negative appendectomy rate. الخيار B، 10%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20%. يصبح صحيحًا في سؤال يصف 5%, 10%, 40%, and 50% don't match the historically accepted approximately 20% negative appendectomy rate. الخيار D، 40%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20%. يصبح صحيحًا في سؤال يصف 5%, 10%, 40%, and 50% don't match the historically accepted approximately 20% negative appendectomy rate. الخيار E، 50%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20%. يصبح صحيحًا في سؤال يصف 5%, 10%, 40%, and 50% don't match the historically accepted approximately 20% negative appendectomy rate.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "5%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 5%, 10%, 40%, and 50% don't match the historically accepted approximately 20% negative appendectomy rate."
+        },
+        {
+          "letter": "B",
+          "text": "10%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 5%, 10%, 40%, and 50% don't match the historically accepted approximately 20% negative appendectomy rate."
+        },
+        {
+          "letter": "C",
+          "text": "20%",
+          "verdict": "correct",
+          "reason": "حوالي 20% من عمليات استئصال الزائدة بشك التهابها تجد زائدة طبيعية فعليًا — نسبة عدم يقين تشخيصي مقبولة إحصائيًا."
+        },
+        {
+          "letter": "D",
+          "text": "40%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 5%, 10%, 40%, and 50% don't match the historically accepted approximately 20% negative appendectomy rate."
+        },
+        {
+          "letter": "E",
+          "text": "50%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 5%, 10%, 40%, and 50% don't match the historically accepted approximately 20% negative appendectomy rate."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب رقمًا أقل (5% أو 10%) ظنًا أن الطب الحديث دقيق جدًا في التشخيص، متجاهلاً أن النسبة المقبولة تاريخيًا وسريريًا أعلى من ذلك بسبب طبيعة المرض السريرية المتغيرة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب رقمًا أقل (5% أو 10%) ظنًا أن الطب الحديث دقيق جدًا في التشخيص، متجاهلاً أن النسبة المقبولة تاريخيًا وسريريًا أعلى من ذلك بسبب طبيعة المرض السريرية المتغيرة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. 20%",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "20%"
+      },
+      "pills": [
+        "\"~20% negative appendectomy rate\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: 20%. حوالي 20% من عمليات استئصال الزائدة بشك التهابها تجد زائدة طبيعية فعليًا — نسبة عدم يقين تشخيصي مقبولة إحصائيًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. حوالي 20% من عمليات استئصال الزائدة بشك التهابها تجد زائدة طبيعية فعليًا — نسبة عدم يقين تشخيصي مقبولة إحصائيًا. وتذكّر القاعدة: \"~20% negative appendectomy rate\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

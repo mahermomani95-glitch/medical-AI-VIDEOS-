@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-12-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 12 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Strongest relation to lung cancer",
+  "question_ar": "أقوى علاقة بين سرطان الرئة وأحد الأمور التالية:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 12,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Tuberculosis"
+    },
+    {
+      "letter": "B",
+      "text": "Asbestosis"
+    },
+    {
+      "letter": "C",
+      "text": "Byssinosis"
+    },
+    {
+      "letter": "D",
+      "text": "Pneumoconiosis"
+    },
+    {
+      "letter": "E",
+      "text": "Silicosis"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Asbestosis",
+  "purpose_ar": "يريد التأكيد أن التعرض للأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة.",
+  "trap_ar": "الطالب قد يختار عامل خطر آخر أقل ارتباطًا مباشرًا، متناسيًا أن الأسبستوس تحديدًا من أقوى العوامل المهنية الموثقة لسرطان الرئة.",
+  "summary_ar": "الأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Strongest relation to lung cancer",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Asbestosis"
+      },
+      "narration": "لنبدأ بهذا السؤال. أقوى علاقة بين سرطان الرئة وأحد الأمور التالية:؟ أمامك هذه الخيارات: Tuberculosis، أو Asbestosis، أو Byssinosis، أو Pneumoconiosis، أو Silicosis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن التعرض للأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن التعرض للأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Asbestosis",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Asbestosis"
+      },
+      "card_text": "الأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة. حرف A المزدوج يربط الأسبستوس بارتباطه القوي الموثق."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tuberculosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (C, D, E — byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions with weaker or different cancer associations — asbestos exposure specifically carries the strongest, best-documented link to lung cancer (and mesothelioma) among these. الخيار C، Byssinosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يستهدف Byssinosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Pneumoconiosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يستهدف Pneumoconiosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Silicosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis. يصبح صحيحًا في سؤال يستهدف Silicosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Tuberculosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Tuberculosis and pneumoconiosis-type diseases (C, D, E — byssinosis, pneumoconiosis, silicosis) are occupational or infectious lung conditions…"
+        },
+        {
+          "letter": "B",
+          "text": "Asbestosis",
+          "verdict": "correct",
+          "reason": "الأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة."
+        },
+        {
+          "letter": "C",
+          "text": "Byssinosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Byssinosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Pneumoconiosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Pneumoconiosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "E",
+          "text": "Silicosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Asbestosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Silicosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار عامل خطر آخر أقل ارتباطًا مباشرًا، متناسيًا أن الأسبستوس تحديدًا من أقوى العوامل المهنية الموثقة لسرطان الرئة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار عامل خطر آخر أقل ارتباطًا مباشرًا، متناسيًا أن الأسبستوس تحديدًا من أقوى العوامل المهنية الموثقة لسرطان الرئة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Asbestosis",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Asbestosis"
+      },
+      "pills": [
+        "Lung cancer: strongly linked to Asbestos"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Asbestosis. الأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأسبستوس يحمل ارتباطًا قويًا موثقًا بسرطان الرئة. وتذكّر القاعدة: Lung cancer: strongly linked to Asbestos. والإجابة الصحيحة هي B."
+    }
+  ]
+}

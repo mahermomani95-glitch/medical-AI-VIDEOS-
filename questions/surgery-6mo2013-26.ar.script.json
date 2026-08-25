@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-26-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 26 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most specific diagnostic tool, spleen injury",
+  "question_ar": "الأداة التشخيصية الأكثر تحديدًا لإصابة الطحال هي؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 26,
+  "options": [
+    {
+      "letter": "A",
+      "text": "CT scan"
+    },
+    {
+      "letter": "B",
+      "text": "Abdominal ultrasound"
+    },
+    {
+      "letter": "C",
+      "text": "Abdominal X-Ray"
+    },
+    {
+      "letter": "D",
+      "text": "DPL"
+    },
+    {
+      "letter": "E",
+      "text": "Angiography"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "CT scan",
+  "purpose_ar": "يريد التأكيد أن التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال.",
+  "trap_ar": "الطالب قد يختار الموجات فوق الصوتية (FAST) كفحص سريع، متناسيًا أن CT أدق بكثير بتحديد درجة الإصابة وتفاصيلها.",
+  "summary_ar": "التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most specific diagnostic tool, spleen injury",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "CT scan"
+      },
+      "narration": "لنبدأ بهذا السؤال. الأداة التشخيصية الأكثر تحديدًا لإصابة الطحال هي؟ أمامك هذه الخيارات: CT scan، أو Abdominal ultrasound، أو Abdominal X-Ray، أو DPL، أو Angiography. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "CT scan",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "CT scan"
+      },
+      "card_text": "التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال. حرف C و S يذكرانك بدقة هذا الفحص لتقييم إصابة الطحال."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Abdominal ultrasound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan. يصبح صحيحًا في سؤال يصف Abdominal ultrasound is useful for rapid bedside screening (FAST) but less sensitive/specific than CT. الخيار C، Abdominal X-Ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan. يصبح صحيحًا في سؤال يصف plain X-ray has very limited utility for solid organ injury. الخيار D، DPL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan. يصبح صحيحًا في سؤال يصف DPL is invasive and non-specific for grading. الخيار E، Angiography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan. يصبح صحيحًا في سؤال يصف angiography is more for therapeutic embolization than initial diagnosis — CT scan remains the most specific tool for characterizing splenic injury.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "CT scan",
+          "verdict": "correct",
+          "reason": "التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال."
+        },
+        {
+          "letter": "B",
+          "text": "Abdominal ultrasound",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Abdominal ultrasound is useful for rapid bedside screening (FAST) but less sensitive/specific than CT."
+        },
+        {
+          "letter": "C",
+          "text": "Abdominal X-Ray",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف plain X-ray has very limited utility for solid organ injury."
+        },
+        {
+          "letter": "D",
+          "text": "DPL",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف DPL is invasive and non-specific for grading."
+        },
+        {
+          "letter": "E",
+          "text": "Angiography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف angiography is more for therapeutic embolization than initial diagnosis — CT scan remains the most specific tool for characterizing splenic…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الموجات فوق الصوتية (FAST) كفحص سريع، متناسيًا أن CT أدق بكثير بتحديد درجة الإصابة وتفاصيلها.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الموجات فوق الصوتية (FAST) كفحص سريع، متناسيًا أن CT أدق بكثير بتحديد درجة الإصابة وتفاصيلها."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. CT scan",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "CT scan"
+      },
+      "pills": [
+        "Spleen injury: CT scan is most Specific"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: CT scan. التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال. وتذكّر القاعدة: Spleen injury: CT scan is most Specific. والإجابة الصحيحة هي A."
+    }
+  ]
+}

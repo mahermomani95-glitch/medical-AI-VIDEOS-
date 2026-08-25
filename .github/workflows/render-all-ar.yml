@@ -1,0 +1,183 @@
+name: Render All Arabic Videos
+
+# Renders the full Arabic question bank at scale.
+#
+# Why this is shaped the way it is:
+#  * ONE JOB PER QUESTION IS IMPOSSIBLE. GitHub caps a workflow run at 256
+#    matrix jobs; there are 1031 questions. So questions are grouped into
+#    per-course chunks (~20 each => ~60 jobs), each job rendering its chunk
+#    sequentially. Chunks never span courses, so each job publishes to its
+#    own course Release.
+#  * SCENE PNGs ARE BUILT IN CI, NOT COMMITTED. 1031 questions x 8 scenes is
+#    8000+ binary files (~1GB) -- far too much for a git repo. Each job
+#    builds the scene HTML and screenshots it on the fly.
+#  * VIDEOS GO TO RELEASES, NOT GIT. ~1028 videos x ~8MB is ~8GB, which
+#    would destroy the repo. Finished MP4s are uploaded as Release assets
+#    (one Release per course), which is free, unlimited-ish, and gives
+#    direct download links.
+#
+# This repo is public, so Actions minutes are free and unlimited.
+
+on:
+  workflow_dispatch:
+    inputs:
+      course:
+        description: "Course slug to render (e.g. 6mo2013). Blank = all courses."
+        required: false
+        default: ""
+      chunk_size:
+        description: "Questions per job"
+        required: false
+        default: "20"
+      max_parallel:
+        description: "How many chunks to render at once"
+        required: false
+        default: "12"
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      chunks: ${{ steps.plan.outputs.chunks }}
+      count: ${{ steps.plan.outputs.count }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Plan render chunks
+        id: plan
+        run: |
+          set -euo pipefail
+          ARGS=(questions --size "${{ inputs.chunk_size }}")
+          if [ -n "${{ inputs.course }}" ]; then
+            ARGS+=(--course "${{ inputs.course }}")
+          fi
+          CHUNKS=$(python3 engine/plan_chunks.py "${ARGS[@]}")
+          echo "chunks=$CHUNKS" >> "$GITHUB_OUTPUT"
+          echo "count=$(echo "$CHUNKS" | python3 -c 'import json,sys; print(len(json.load(sys.stdin)))')" >> "$GITHUB_OUTPUT"
+
+      - name: Show plan
+        run: echo "Planned ${{ steps.plan.outputs.count }} chunk(s)"
+
+  render:
+    needs: plan
+    if: ${{ needs.plan.outputs.chunks != '[]' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: ${{ fromJson(inputs.max_parallel || '12') }}
+      matrix:
+        chunk: ${{ fromJson(needs.plan.outputs.chunks) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install ffmpeg, edge-tts, playwright
+        run: |
+          set -euo pipefail
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install --quiet edge-tts
+          npm install --no-save playwright@1.47.2
+          npx playwright install --with-deps chromium
+
+      - name: Sanity-check edge-tts
+        run: |
+          set -euo pipefail
+          edge-tts --voice ar-EG-ShakirNeural --text "اختبار" --write-media /tmp/sanity.mp3
+          [ -s /tmp/sanity.mp3 ] || { echo "::error::edge-tts produced an empty file"; exit 1; }
+
+      - name: Render chunk
+        env:
+          CHUNK: ${{ toJson(matrix.chunk) }}
+        run: |
+          set -uo pipefail
+          mkdir -p scenes-tmp out-videos logs
+          IDS=$(echo "$CHUNK" | python3 -c 'import json,sys; print(" ".join(json.load(sys.stdin)["ids"]))')
+          SLUG=$(echo "$CHUNK" | python3 -c 'import json,sys; print(json.load(sys.stdin)["slug"])')
+          echo "Rendering chunk for course=$SLUG"
+          echo "Questions: $IDS"
+
+          FAILED=""
+          for id in $IDS; do
+            script="questions/${id}.ar.script.json"
+            if [ ! -f "$script" ]; then
+              echo "::warning::missing script $script, skipping"
+              continue
+            fi
+            echo "::group::$id"
+
+            if ! node engine/build_ar.mjs "$script" scenes-tmp > "logs/${id}.build.log" 2>&1; then
+              echo "::error::build_ar failed for $id"; cat "logs/${id}.build.log"
+              FAILED="$FAILED $id"; echo "::endgroup::"; continue
+            fi
+
+            if ! node engine/shoot_scenes.mjs scenes-tmp "$id" > "logs/${id}.shoot.log" 2>&1; then
+              echo "::error::shoot_scenes failed for $id"; cat "logs/${id}.shoot.log"
+              FAILED="$FAILED $id"; echo "::endgroup::"; continue
+            fi
+
+            if ! python engine/generate_video_ar.py \
+                  "$script" scenes-tmp \
+                  "ar-EG-ShakirNeural" "en-US-ChristopherNeural" \
+                  out-videos > "logs/${id}.render.log" 2>&1; then
+              echo "::error::generate_video_ar failed for $id"
+              tail -c 2000 "logs/${id}.render.log"
+              FAILED="$FAILED $id"; echo "::endgroup::"; continue
+            fi
+
+            # Scene stills and per-scene clips are intermediates; keep only
+            # the finished video so the upload stays small.
+            rm -f scenes-tmp/${id}-ar.scene*.png scenes-tmp/${id}-ar.scene*.html
+            rm -f out-videos/${id}-ar.scene*.mp4
+            echo "::endgroup::"
+          done
+
+          if [ -n "$FAILED" ]; then
+            echo "::warning::failed questions in this chunk:$FAILED"
+            echo "$FAILED" | tr ' ' '\n' | grep -v '^$' > logs/FAILED.txt || true
+          fi
+          ls -la out-videos || true
+
+      - name: Publish videos to this course's Release
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CHUNK: ${{ toJson(matrix.chunk) }}
+        run: |
+          set -uo pipefail
+          SLUG=$(echo "$CHUNK" | python3 -c 'import json,sys; print(json.load(sys.stdin)["slug"])')
+          TAG="videos-${SLUG}"
+          shopt -s nullglob
+          FILES=(out-videos/*.mp4)
+          if [ ${#FILES[@]} -eq 0 ]; then
+            echo "No videos produced in this chunk; nothing to upload."
+            exit 0
+          fi
+          # Create the course Release once; concurrent chunks may race, so
+          # tolerate "already exists".
+          gh release view "$TAG" >/dev/null 2>&1 || \
+            gh release create "$TAG" \
+              --title "Surgery — $SLUG (Arabic narrated videos)" \
+              --notes "Auto-rendered Arabic teaching videos for course $SLUG. One MP4 per question." \
+              || echo "release already exists (race), continuing"
+          # --clobber so re-runs replace rather than fail on existing assets.
+          gh release upload "$TAG" "${FILES[@]}" --clobber
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-${{ matrix.chunk.slug }}-${{ matrix.chunk.index }}
+          path: logs/
+          if-no-files-found: ignore
+          retention-days: 14

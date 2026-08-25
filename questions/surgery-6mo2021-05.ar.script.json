@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2021-05-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2021 Course, Question 5 of 31",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "75yo diabetic + abdominal wall pain out of proportion + induration + tiny discharge + hypotension",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2021 Course",
+  "question_number": 5,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Erysipelas"
+    },
+    {
+      "letter": "B",
+      "text": "Necrotizing fasciitis"
+    },
+    {
+      "letter": "C",
+      "text": "Lymphangitis"
+    },
+    {
+      "letter": "D",
+      "text": "Abdominal wall abscess"
+    },
+    {
+      "letter": "E",
+      "text": "Enterocutaneous fistula"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Necrotizing fasciitis",
+  "purpose_ar": "التعرف على التهاب اللفافة الناخر من العلامة المميزة (ألم لا يتناسب مع الفحص + سمية جهازية) عند مريض سكري، وهو من أكثر عوامل الخطر شيوعًا لهذا المرض المهدد للحياة.",
+  "trap_ar": "قد يختار الطالب الحمرة (A) لأنها أيضًا عدوى جلدية شائعة، متجاهلاً أن السمية الجهازية الشديدة (هبوط ضغط، حمى عالية) مع الألم غير المتناسب توجّهان بقوة أكبر نحو التهاب اللفافة الناخر الأخطر بكثير.",
+  "summary_ar": "ألم شديد لا يتناسب مع موجودات الفحص، مع سمية جهازية (هبوط ضغط وحمى) ونقطة تصريف صغيرة، هو الصورة الإنذارية الكلاسيكية لالتهاب اللفافة الناخر.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "75yo diabetic + abdominal wall pain out of proportion + indu",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Necrotizing fasciitis"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Erysipelas، أو Necrotizing fasciitis، أو Lymphangitis، أو Abdominal wall abscess، أو Enterocutaneous fistula. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على التهاب اللفافة الناخر من العلامة المميزة (ألم لا يتناسب مع الفحص + سمية جهازية) عند مريض سكري، وهو من أكثر عوامل الخطر شيوعًا لهذا المرض المهدد للحياة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على التهاب اللفافة الناخر من العلامة المميزة (ألم لا يتناسب مع الفحص + سمية جهازية) عند مريض سكري، وهو من أكثر عوامل الخطر شيوعًا لهذا المرض المهدد للحياة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Necrotizing fasciitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Necrotizing fasciitis"
+      },
+      "card_text": "ألم شديد لا يتناسب مع موجودات الفحص، مع سمية جهازية (هبوط ضغط وحمى) ونقطة تصريف صغيرة، هو الصورة الإنذارية الكلاسيكية لالتهاب اللفافة الناخر.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ألم شديد لا يتناسب مع موجودات الفحص، مع سمية جهازية (هبوط ضغط وحمى) ونقطة تصريف صغيرة، هو الصورة الإنذارية الكلاسيكية لالتهاب اللفافة الناخر. \"ألم لا يتناسب مع الفحص\" مع علامات سمية جهازية (حمى، هبوط ضغط، تسرع قلب) عند مريض سكري هو التوقيع الكلاسيكي لالتهاب اللفافة الناخر، الذي غالبًا يبدو أخف بكثير مما هو عليه فعليًا عند الفحص السطحي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Erysipelas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Necrotizing fasciitis. يصبح صحيحًا في سؤال يصف Erysipelas is a more superficial skin infection. الخيار C، Lymphangitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Necrotizing fasciitis. يصبح صحيحًا في سؤال يصف lymphangitis presents with red streaking, a different pattern. الخيار D، Abdominal wall abscess: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا active tract drainage. يصبح صحيحًا في سؤال يصف abdominal wall abscess would show a contained collection. الخيار E، Enterocutaneous fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Necrotizing fasciitis. يصبح صحيحًا في سؤال يصف enterocutaneous fistula is close but the specific finding of enteric content actively draining confirms this over a simple abscess.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Erysipelas",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Necrotizing fasciitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Erysipelas is a more superficial skin infection."
+        },
+        {
+          "letter": "B",
+          "text": "Necrotizing fasciitis",
+          "verdict": "correct",
+          "reason": "ألم شديد لا يتناسب مع موجودات الفحص، مع سمية جهازية (هبوط ضغط وحمى) ونقطة تصريف صغيرة، هو الصورة الإنذارية الكلاسيكية لالتهاب اللفافة الناخر."
+        },
+        {
+          "letter": "C",
+          "text": "Lymphangitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Necrotizing fasciitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف lymphangitis presents with red streaking, a different pattern."
+        },
+        {
+          "letter": "D",
+          "text": "Abdominal wall abscess",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا active tract drainage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف abdominal wall abscess would show a contained collection."
+        },
+        {
+          "letter": "E",
+          "text": "Enterocutaneous fistula",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Necrotizing fasciitis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف enterocutaneous fistula is close but the specific finding of enteric content actively draining confirms this over a simple abscess."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الحمرة (A) لأنها أيضًا عدوى جلدية شائعة، متجاهلاً أن السمية الجهازية الشديدة (هبوط ضغط، حمى عالية) مع الألم غير المتناسب توجّهان بقوة أكبر نحو التهاب اللفافة الناخر الأخطر بكثير.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الحمرة (A) لأنها أيضًا عدوى جلدية شائعة، متجاهلاً أن السمية الجهازية الشديدة (هبوط ضغط، حمى عالية) مع الألم غير المتناسب توجّهان بقوة أكبر نحو التهاب اللفافة الناخر الأخطر بكثير."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Necrotizing fasciitis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Necrotizing fasciitis"
+      },
+      "pills": [
+        "\"Pain out of proportion + systemic toxicity = "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Necrotizing fasciitis. ألم شديد لا يتناسب مع موجودات الفحص، مع سمية جهازية (هبوط ضغط وحمى) ونقطة تصريف صغيرة، هو الصورة الإنذارية الكلاسيكية لالتهاب اللفافة الناخر."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ألم شديد لا يتناسب مع موجودات الفحص، مع سمية جهازية (هبوط ضغط وحمى) ونقطة تصريف صغيرة، هو الصورة الإنذارية الكلاسيكية لالتهاب اللفافة الناخر. وتذكّر القاعدة: \"Pain out of proportion + systemic toxicity = Necrotizing fasciitis\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

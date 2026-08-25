@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-17-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 17 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "60kg woman, extensive burns, arm+leg dry white painless (calculate fluid)",
+  "question_ar": "امرأة وزنها 60 كجم تعاني من حروق بالغة. ذراعها وساقها اليسرى مصابتانبحروق بيضاء جافة وغير مؤلمة، وجذعها الأمامي مصاب بحروق حمراء مؤلمةمع بثور. ما هي كمية السوائل التي تحتاجها يوميًا؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 17,
+  "options": [
+    {
+      "letter": "A",
+      "text": "2500 ml"
+    },
+    {
+      "letter": "B",
+      "text": "10800 ml"
+    },
+    {
+      "letter": "C",
+      "text": "8640 ml"
+    },
+    {
+      "letter": "D",
+      "text": "12960 ml"
+    },
+    {
+      "letter": "E",
+      "text": "17280 ml"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "10800 ml",
+  "purpose_ar": "يريد اختبار قدرتك الحسابية بتطبيق معادلة باركلاند لحساب حجم سوائل الإنعاش المطلوب.",
+  "trap_ar": "الطالب قد يخطئ بحساب النسبة المئوية للمساحة المحروقة أو بضرب المعامل الخاطئ، وهو فخ حسابي مركب يتطلب دقة بكل خطوة.",
+  "summary_ar": "معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "60kg woman, extensive burns, arm+leg dry white painless (cal",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "10800 ml"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة وزنها 60 كجم تعاني من حروق بالغة. ذراعها وساقها اليسرى مصابتانبحروق بيضاء جافة وغير مؤلمة، وجذعها الأمامي مصاب بحروق حمراء مؤلمةمع بثور. ما هي كمية السوائل التي تحتاجها يوميًا؟ أمامك هذه الخيارات: 2500 ml، أو 10800 ml، أو 8640 ml، أو 12960 ml، أو 17280 ml. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد اختبار قدرتك الحسابية بتطبيق معادلة باركلاند لحساب حجم سوائل الإنعاش المطلوب.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد اختبار قدرتك الحسابية بتطبيق معادلة باركلاند لحساب حجم سوائل الإنعاش المطلوب."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "10800 ml",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "10800 ml"
+      },
+      "card_text": "معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4. حرف P يذكرك بالمعادلة القياسية المستخدمة لهذا الحساب."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 2500 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml. يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800 mL over 24 hours. الخيار C، 8640 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml. يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800 mL over 24 hours. الخيار D، 12960 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml. يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800 mL over 24 hours. الخيار E، 17280 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml. يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800 mL over 24 hours.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "2500 ml",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800…"
+        },
+        {
+          "letter": "B",
+          "text": "10800 ml",
+          "verdict": "correct",
+          "reason": "معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4."
+        },
+        {
+          "letter": "C",
+          "text": "8640 ml",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800…"
+        },
+        {
+          "letter": "D",
+          "text": "12960 ml",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800…"
+        },
+        {
+          "letter": "E",
+          "text": "17280 ml",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخطئ بحساب النسبة المئوية للمساحة المحروقة أو بضرب المعامل الخاطئ، وهو فخ حسابي مركب يتطلب دقة بكل خطوة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخطئ بحساب النسبة المئوية للمساحة المحروقة أو بضرب المعامل الخاطئ، وهو فخ حسابي مركب يتطلب دقة بكل خطوة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. 10800 ml",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "10800 ml"
+      },
+      "pills": [
+        "Parkland formula: Four times weight times burn"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: 10800 ml. معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4. وتذكّر القاعدة: Parkland formula: Four times weight times burn Percentage. والإجابة الصحيحة هي B."
+    }
+  ]
+}

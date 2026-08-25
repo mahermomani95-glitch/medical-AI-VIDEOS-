@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-45-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 45 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Back trauma + bilateral lower limb deficits + bradycardia + hypotension",
+  "question_ar": "نُقل سائق يبلغ من العمر 28 عامًا إلى قسم الطوارئ بعد حادث مروري. أُصيب بإصابة معزولة في ظهره، ويعاني من عجز حركي وحسي في كلاالطرفين السفليين. نبضه 40/دقيقة، وضغط دمه 80/40 ملم زئبق. التشخيصالأكثر احتمالًا هو:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 45,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hypovolemic shock"
+    },
+    {
+      "letter": "B",
+      "text": "Anaphylactic shock"
+    },
+    {
+      "letter": "C",
+      "text": "Septic shock"
+    },
+    {
+      "letter": "D",
+      "text": "Neurogenic shock"
+    },
+    {
+      "letter": "E",
+      "text": "Cardiogenic shock"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Neurogenic shock",
+  "purpose_ar": "التعرف على الصدمة العصبية المنشأ من توليفتها الفريدة (بطء قلب + هبوط ضغط) بعد إصابة نخاعية، وتمييزها عن الصدمة نقص الحجمية التي تسبب تسرع قلب تعويضي عادة.",
+  "trap_ar": "قد يختار الطالب الصدمة نقص الحجمية (A) لأنها الأشيع في سياق الرضوض عمومًا، متجاهلاً أن النبض البطيء (40/دقيقة) هنا يناقض الصدمة نقص الحجمية (التي تسبب تسرعًا) ويوجّه بدلًا من ذلك للصدمة العصبية المنشأ.",
+  "summary_ar": "بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Back trauma + bilateral lower limb deficits + bradycardia + ",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Neurogenic shock"
+      },
+      "narration": "لنبدأ بهذا السؤال. نُقل سائق يبلغ من العمر 28 عامًا إلى قسم الطوارئ بعد حادث مروري. أُصيب بإصابة معزولة في ظهره، ويعاني من عجز حركي وحسي في كلاالطرفين السفليين. نبضه 40/دقيقة، وضغط دمه 80/40 ملم زئبق. التشخيصالأكثر احتمالًا هو: أمامك هذه الخيارات: Hypovolemic shock، أو Anaphylactic shock، أو Septic shock، أو Neurogenic shock، أو Cardiogenic shock. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على الصدمة العصبية المنشأ من توليفتها الفريدة (بطء قلب + هبوط ضغط) بعد إصابة نخاعية، وتمييزها عن الصدمة نقص الحجمية التي تسبب تسرع قلب تعويضي عادة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على الصدمة العصبية المنشأ من توليفتها الفريدة (بطء قلب + هبوط ضغط) بعد إصابة نخاعية، وتمييزها عن الصدمة نقص الحجمية التي تسبب تسرع قلب تعويضي عادة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Neurogenic shock",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Neurogenic shock"
+      },
+      "card_text": "بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب. الصدمة العصبية المنشأ فريدة لأنها تجمع بين بطء القلب وهبوط الضغط معًا (بسبب فقدان التوتر الودي)، بعكس كل أنواع الصدمة الأخرى التي تسبب تسرع قلب تعويضي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypovolemic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site redness — anaphylactic shock is actually the correct diagnosis being confirmed here, distinguishing it from these other shock types. الخيار B، Anaphylactic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site redness — anaphylactic shock is actually the correct diagnosis being confirmed here, distinguishing it from these other shock types. الخيار C، Septic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site redness — anaphylactic shock is actually the correct diagnosis being confirmed here, distinguishing it from these other shock types. الخيار E، Cardiogenic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site redness — anaphylactic shock is actually the correct diagnosis being confirmed here, distinguishing it from these other shock types.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Hypovolemic shock",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site…"
+        },
+        {
+          "letter": "B",
+          "text": "Anaphylactic shock",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site…"
+        },
+        {
+          "letter": "C",
+          "text": "Septic shock",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site…"
+        },
+        {
+          "letter": "D",
+          "text": "Neurogenic shock",
+          "verdict": "correct",
+          "reason": "بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب."
+        },
+        {
+          "letter": "E",
+          "text": "Cardiogenic shock",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الصدمة نقص الحجمية (A) لأنها الأشيع في سياق الرضوض عمومًا، متجاهلاً أن النبض البطيء (40/دقيقة) هنا يناقض الصدمة نقص الحجمية (التي تسبب تسرعًا) ويوجّه بدلًا من ذلك للصدمة العصبية المنشأ.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الصدمة نقص الحجمية (A) لأنها الأشيع في سياق الرضوض عمومًا، متجاهلاً أن النبض البطيء (40/دقيقة) هنا يناقض الصدمة نقص الحجمية (التي تسبب تسرعًا) ويوجّه بدلًا من ذلك للصدمة العصبية المنشأ."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Neurogenic shock",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Neurogenic shock"
+      },
+      "pills": [
+        "\"Neurogenic shock = Bradycardia + Hypotension "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Neurogenic shock. بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب. وتذكّر القاعدة: \"Neurogenic shock = Bradycardia + Hypotension (opposite of hypovolemic)\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

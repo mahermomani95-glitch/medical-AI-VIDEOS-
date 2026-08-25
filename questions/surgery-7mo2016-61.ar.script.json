@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-61-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 61 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Appendiceal artery, branch of",
+  "question_ar": "الشريان الزائدي هو فرع من:؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 61,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Right colic artery"
+    },
+    {
+      "letter": "B",
+      "text": "Middle colic artery"
+    },
+    {
+      "letter": "C",
+      "text": "Left colic artery"
+    },
+    {
+      "letter": "D",
+      "text": "lleocolic artery"
+    },
+    {
+      "letter": "E",
+      "text": "Hypogastric artery"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "lleocolic artery",
+  "purpose_ar": "يريد حفظ الأصل التشريحي الصحيح للشريان الزائدي (الشريان اللفائفي القولوني).",
+  "trap_ar": "الطالب قد يختار شريانًا مساريقيًا آخر، متناسيًا أن الأصل الدقيق تحديدًا هو الشريان اللفائفي القولوني لا غيره.",
+  "summary_ar": "الشريان الزائدي يتفرع من الشريان اللفائفي القولوني تحديدًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Appendiceal artery, branch of",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "lleocolic artery"
+      },
+      "narration": "لنبدأ بهذا السؤال. الشريان الزائدي هو فرع من:؟ أمامك هذه الخيارات: Right colic artery، أو Middle colic artery، أو Left colic artery، أو lleocolic artery، أو Hypogastric artery. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ الأصل التشريحي الصحيح للشريان الزائدي (الشريان اللفائفي القولوني).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ الأصل التشريحي الصحيح للشريان الزائدي (الشريان اللفائفي القولوني)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "lleocolic artery",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "lleocolic artery"
+      },
+      "card_text": "الشريان الزائدي يتفرع من الشريان اللفائفي القولوني تحديدًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الشريان الزائدي يتفرع من الشريان اللفائفي القولوني تحديدًا. حرف I المزدوج يذكرك بالأصل التشريحي الدقيق لهذا الشريان."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Right colic artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lleocolic artery. يصبح صحيحًا في سؤال يصف The right colic, middle colic, and left colic arteries supply other parts of the colon. الخيار B، Middle colic artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lleocolic artery. يصبح صحيحًا في سؤال يصف The right colic, middle colic, and left colic arteries supply other parts of the colon. الخيار C، Left colic artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lleocolic artery. يصبح صحيحًا في سؤال يصف The right colic, middle colic, and left colic arteries supply other parts of the colon. الخيار E، Hypogastric artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lleocolic artery. يصبح صحيحًا في سؤال يصف the hypogastric/internal iliac artery supplies pelvic structures — the appendiceal artery is specifically a branch of the ileocolic artery.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Right colic artery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lleocolic artery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The right colic, middle colic, and left colic arteries supply other parts of the colon."
+        },
+        {
+          "letter": "B",
+          "text": "Middle colic artery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lleocolic artery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The right colic, middle colic, and left colic arteries supply other parts of the colon."
+        },
+        {
+          "letter": "C",
+          "text": "Left colic artery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lleocolic artery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The right colic, middle colic, and left colic arteries supply other parts of the colon."
+        },
+        {
+          "letter": "D",
+          "text": "lleocolic artery",
+          "verdict": "correct",
+          "reason": "الشريان الزائدي يتفرع من الشريان اللفائفي القولوني تحديدًا."
+        },
+        {
+          "letter": "E",
+          "text": "Hypogastric artery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lleocolic artery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف the hypogastric/internal iliac artery supplies pelvic structures — the appendiceal artery is specifically a branch of the ileocolic artery."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار شريانًا مساريقيًا آخر، متناسيًا أن الأصل الدقيق تحديدًا هو الشريان اللفائفي القولوني لا غيره.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار شريانًا مساريقيًا آخر، متناسيًا أن الأصل الدقيق تحديدًا هو الشريان اللفائفي القولوني لا غيره."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. lleocolic artery",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "lleocolic artery"
+      },
+      "pills": [
+        "Appendiceal artery: branches from Ileocolic"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: lleocolic artery. الشريان الزائدي يتفرع من الشريان اللفائفي القولوني تحديدًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الشريان الزائدي يتفرع من الشريان اللفائفي القولوني تحديدًا. وتذكّر القاعدة: Appendiceal artery: branches from Ileocolic. والإجابة الصحيحة هي D."
+    }
+  ]
+}

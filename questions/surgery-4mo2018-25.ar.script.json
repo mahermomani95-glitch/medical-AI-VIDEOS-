@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2018-25-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 25 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "MEN1 + confusion + somnolence + short QT",
+  "question_ar": "امرأة تبلغ من العمر 30 عامًا شُخِّصت مؤخرًا بمتلازمة الأورام الصماويةالمتعددة من النوع الأول . تعاني من ارتباك ونعاس، وفترة \" كيو تي \" قصيرةفي تخطيط القلب الكهربائي. الخطوة التالية المناسبة هي:",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 25,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Alpha blockade"
+    },
+    {
+      "letter": "B",
+      "text": "Beta blockade"
+    },
+    {
+      "letter": "C",
+      "text": "CCB"
+    },
+    {
+      "letter": "D",
+      "text": "IV fluid and lasix"
+    },
+    {
+      "letter": "E",
+      "text": "Dialysis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "IV fluid and lasix",
+  "purpose_ar": "ربط MEN1 بفرط كالسيوم الدم الحاد (عبر فرط جارات الدرقية)، ومعرفة أن علاجه الأولي الطارئ هو السوائل الوريدية مع مدر عروة (فوروسيميد) لخفض الكالسيوم.",
+  "trap_ar": "قد يختار الطالب الديال (E) كخيار متسرّع لأي حالة استقلابية حادة، لكن الديال يُحفظ للحالات الشديدة جدًا أو الفاشلة استجابةً للعلاج الأولي بالسوائل والمدرات.",
+  "summary_ar": "متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "MEN1 + confusion + somnolence + short QT",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "IV fluid and lasix"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 30 عامًا شُخِّصت مؤخرًا بمتلازمة الأورام الصماويةالمتعددة من النوع الأول . تعاني من ارتباك ونعاس، وفترة \" كيو تي \" قصيرةفي تخطيط القلب الكهربائي. الخطوة التالية المناسبة هي: أمامك هذه الخيارات: Alpha blockade، أو Beta blockade، أو CCB، أو IV fluid and lasix، أو Dialysis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "ربط MEN1 بفرط كالسيوم الدم الحاد (عبر فرط جارات الدرقية)، ومعرفة أن علاجه الأولي الطارئ هو السوائل الوريدية مع مدر عروة (فوروسيميد) لخفض الكالسيوم.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: ربط MEN1 بفرط كالسيوم الدم الحاد (عبر فرط جارات الدرقية)، ومعرفة أن علاجه الأولي الطارئ هو السوائل الوريدية مع مدر عروة (فوروسيميد) لخفض الكالسيوم."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "IV fluid and lasix",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "IV fluid and lasix"
+      },
+      "card_text": "متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا. ثلاثية MEN1 (البنكرياس، الدرقية، النخامى) أشهرها فرط جارات الدرقية المسبب لفرط كالسيوم الدم، وهو ما يفسر قصر QT والتخليط هنا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Alpha blockade: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف alpha blockade is actually used in pheochromocytoma management, a different endocrine emergency. الخيار B، Beta blockade: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first. يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis. الخيار C، CCB: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first. يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis. الخيار E، Dialysis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first. يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Alpha blockade",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف alpha blockade is actually used in pheochromocytoma management, a different endocrine emergency."
+        },
+        {
+          "letter": "B",
+          "text": "Beta blockade",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis."
+        },
+        {
+          "letter": "C",
+          "text": "CCB",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis."
+        },
+        {
+          "letter": "D",
+          "text": "IV fluid and lasix",
+          "verdict": "correct",
+          "reason": "متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا."
+        },
+        {
+          "letter": "E",
+          "text": "Dialysis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الديال (E) كخيار متسرّع لأي حالة استقلابية حادة، لكن الديال يُحفظ للحالات الشديدة جدًا أو الفاشلة استجابةً للعلاج الأولي بالسوائل والمدرات.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الديال (E) كخيار متسرّع لأي حالة استقلابية حادة، لكن الديال يُحفظ للحالات الشديدة جدًا أو الفاشلة استجابةً للعلاج الأولي بالسوائل والمدرات."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. IV fluid and lasix",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "IV fluid and lasix"
+      },
+      "pills": [
+        "\"MEN1 = high calcium = short QT\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: IV fluid and lasix. متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا. وتذكّر القاعدة: \"MEN1 = high calcium = short QT\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

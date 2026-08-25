@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2019-26-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 26 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Facial burn + respiratory distress + hoarseness + tachypnea",
+  "question_ar": "حضر مريض يبلغ من العمر 23 عامًا إلى قسم الطوارئ مصابًا بحروق فيالوجه وضيق في التنفس. بالفحص السريري، وُجد حرق جزئي في الأنفوالشفتين والحاجبين والفم ومنطقة الرقبة الأمامية، بالإضافة إلى معدل نبضاتقلب 30 نبضة في الدقيقة، وكان هناك بحة خفيفة في الصوت وسرعة فيالتنفس. الخطوة التالية الأنسب للعلاج هي:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 26,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Admission and start IV fluid therapy"
+    },
+    {
+      "letter": "B",
+      "text": "Observation in the ER for 24 hours"
+    },
+    {
+      "letter": "C",
+      "text": "Admission and consider Tracheal intubation"
+    },
+    {
+      "letter": "D",
+      "text": "Admission and consider crycothyroidotomy"
+    },
+    {
+      "letter": "E",
+      "text": "Admission and consult plastic surgery team"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Admission and consider Tracheal intubation",
+  "purpose_ar": "التعرف على علامات إصابة مجرى الهواء الحراري المبكرة (حرق الوجه، بحّة الصوت، تسرع تنفس) واتخاذ القرار الاستباقي بتأمين المجرى (تنبيب) قبل أن تتفاقم الوذمة وتجعل التنبيب مستحيلًا.",
+  "trap_ar": "قد يختار الطالب المراقبة لمدة 24 ساعة (B) ظنًا أن الأعراض الحالية خفيفة (بحّة خفيفة فقط)، متجاهلاً أن وذمة مجرى الهواء الحراري تتطور بسرعة، والانتظار قد يجعل التنبيب مستحيلًا لاحقًا.",
+  "summary_ar": "بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Facial burn + respiratory distress + hoarseness + tachypnea",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Admission and consider Tracheal intuba"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضر مريض يبلغ من العمر 23 عامًا إلى قسم الطوارئ مصابًا بحروق فيالوجه وضيق في التنفس. بالفحص السريري، وُجد حرق جزئي في الأنفوالشفتين والحاجبين والفم ومنطقة الرقبة الأمامية، بالإضافة إلى معدل نبضاتقلب 30 نبضة في الدقيقة، وكان هناك بحة خفيفة في الصوت وسرعة فيالتنفس. الخطوة التالية الأنسب للعلاج هي: أمامك هذه الخيارات: Admission and start IV fluid therapy، أو Observation in the ER for 24 hours، أو Admission and consider Tracheal intubation، أو Admission and consider crycothyroidotomy، أو Admission and consult plastic surgery team. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على علامات إصابة مجرى الهواء الحراري المبكرة (حرق الوجه، بحّة الصوت، تسرع تنفس) واتخاذ القرار الاستباقي بتأمين المجرى (تنبيب) قبل أن تتفاقم الوذمة وتجعل التنبيب مستحيلًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على علامات إصابة مجرى الهواء الحراري المبكرة (حرق الوجه، بحّة الصوت، تسرع تنفس) واتخاذ القرار الاستباقي بتأمين المجرى (تنبيب) قبل أن تتفاقم الوذمة وتجعل التنبيب مستحيلًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Admission and consider Tracheal intuba",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Admission and consider Tracheal intuba"
+      },
+      "card_text": "بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم. بحّة الصوت مع حرق الوجه والرقبة تعني أن الوذمة قد بدأت بالفعل في مجرى الهواء العلوي، وهي علامة إنذار مبكرة تستدعي تأمين المجرى قبل أن يتفاقم الانسداد سريعًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Admission and start IV fluid therapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the airway risk. يصبح صحيحًا في سؤال يصف Admission with IV fluids alone. الخيار B، Observation in the ER for 24 hours: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission and consider Tracheal intubation. يصبح صحيحًا في سؤال يصف observation for 24 hours risks missing rapidly progressing airway edema. الخيار D، Admission and consider crycothyroidotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first proactive step. يصبح صحيحًا في سؤال يصف cricothyroidotomy is a more invasive fallback. الخيار E، Admission and consult plastic surgery team: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission and consider Tracheal intubation. يصبح صحيحًا في سؤال يصف plastic surgery consultation isn't the immediate priority compared to airway management.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Admission and start IV fluid therapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the airway risk.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Admission with IV fluids alone."
+        },
+        {
+          "letter": "B",
+          "text": "Observation in the ER for 24 hours",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission and consider Tracheal intubation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف observation for 24 hours risks missing rapidly progressing airway edema."
+        },
+        {
+          "letter": "C",
+          "text": "Admission and consider Tracheal intubation",
+          "verdict": "correct",
+          "reason": "بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم."
+        },
+        {
+          "letter": "D",
+          "text": "Admission and consider crycothyroidotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first proactive step.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف cricothyroidotomy is a more invasive fallback."
+        },
+        {
+          "letter": "E",
+          "text": "Admission and consult plastic surgery team",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission and consider Tracheal intubation.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف plastic surgery consultation isn't the immediate priority compared to airway management."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب المراقبة لمدة 24 ساعة (B) ظنًا أن الأعراض الحالية خفيفة (بحّة خفيفة فقط)، متجاهلاً أن وذمة مجرى الهواء الحراري تتطور بسرعة، والانتظار قد يجعل التنبيب مستحيلًا لاحقًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب المراقبة لمدة 24 ساعة (B) ظنًا أن الأعراض الحالية خفيفة (بحّة خفيفة فقط)، متجاهلاً أن وذمة مجرى الهواء الحراري تتطور بسرعة، والانتظار قد يجعل التنبيب مستحيلًا لاحقًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Admission and consider Tracheal intubation",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Admission and consider Tracheal intuba"
+      },
+      "pills": [
+        "\"Hoarseness + facial burn = secure airway NOW\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Admission and consider Tracheal intubation. بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم. وتذكّر القاعدة: \"Hoarseness + facial burn = secure airway NOW\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

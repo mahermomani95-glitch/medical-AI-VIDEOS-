@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2018-29-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 29 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Anuria post-op — EXCEPT (prerenal criteria)",
+  "question_ar": "توقف مريض عن إنتاج البول بعد الجراحة. جميع القيم التالية متوافقة معالفشل الكلوي السابق باستثناء:",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 29,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Urine Na 5 meq/L"
+    },
+    {
+      "letter": "B",
+      "text": "BUN/cr ratio 35"
+    },
+    {
+      "letter": "C",
+      "text": "Fe Na = 0.3%"
+    },
+    {
+      "letter": "D",
+      "text": "Urine osmolality = 200 mosm/ L"
+    },
+    {
+      "letter": "E",
+      "text": "Urine specific gravity = 1.050"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Urine osmolality = 200 mosm/ L",
+  "purpose_ar": "حفظ الفروقات المخبرية بين الفشل الكلوي قبل الكلوي (البول مركّز، Na منخفض، FeNa أقل من 1%) والنخر الأنبوبي الحاد (البول مخفف، Na مرتفع، FeNa أكبر من 2%).",
+  "trap_ar": "قد يخلط الطالب بين أسمولية البول المرتفعة والمنخفضة، فيظن أن أسمولية 200 (منخفضة/مخففة) متوافقة مع الفشل قبل الكلوي، متجاهلاً أن الكلية السليمة تركّز البول لأسمولية أعلى من 500 في هذه الحالة.",
+  "summary_ar": "الفشل الكلوي قبل الكلوي يعني أن الكلية تعمل بجهد للاحتفاظ بكل شيء، فينتج بول مركّز وليس مخففًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Anuria post-op — EXCEPT (prerenal criteria)",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. توقف مريض عن إنتاج البول بعد الجراحة. جميع القيم التالية متوافقة معالفشل الكلوي السابق باستثناء: أمامك هذه الخيارات: Urine Na 5 meq/L، أو BUN/cr ratio 35، أو Fe Na = 0.3%، أو Urine osmolality = 200 mosm/ L، أو Urine specific gravity = 1.050. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ الفروقات المخبرية بين الفشل الكلوي قبل الكلوي (البول مركّز، Na منخفض، FeNa أقل من 1%) والنخر الأنبوبي الحاد (البول مخفف، Na مرتفع، FeNa أكبر من 2%).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ الفروقات المخبرية بين الفشل الكلوي قبل الكلوي (البول مركّز، Na منخفض، FeNa أقل من 1%) والنخر الأنبوبي الحاد (البول مخفف، Na مرتفع، FeNa أكبر من 2%)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Urine osmolality = 200 mosm/ L",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الفشل الكلوي قبل الكلوي يعني أن الكلية تعمل بجهد للاحتفاظ بكل شيء، فينتج بول مركّز وليس مخففًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الفشل الكلوي قبل الكلوي يعني أن الكلية تعمل بجهد للاحتفاظ بكل شيء، فينتج بول مركّز وليس مخففًا. حرف P المشترك في Prerenal و Precious (ثمين) للتذكير بأن الكلية ‘تدّخر' الصوديوم والماء، فينتج بول مركّز قليل الصوديوم — وليس بولًا مخففًا منخفض الأسمولية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urine Na 5 meq/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement. الخيار B، BUN/cr ratio 35: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement. الخيار C، Fe Na = 0.3%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement. الخيار E، Urine specific gravity = 1.050: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L. يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney concentrating urine and conserving sodium), unlike the dilute urine osmolality described as the false statement.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Urine Na 5 meq/L",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney…"
+        },
+        {
+          "letter": "B",
+          "text": "BUN/cr ratio 35",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney…"
+        },
+        {
+          "letter": "C",
+          "text": "Fe Na = 0.3%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney…"
+        },
+        {
+          "letter": "D",
+          "text": "Urine osmolality = 200 mosm/ L",
+          "verdict": "correct",
+          "reason": "الفشل الكلوي قبل الكلوي يعني أن الكلية تعمل بجهد للاحتفاظ بكل شيء، فينتج بول مركّز وليس مخففًا."
+        },
+        {
+          "letter": "E",
+          "text": "Urine specific gravity = 1.050",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine osmolality = 200 mosm/ L.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Low urine sodium, elevated BUN/creatinine ratio, low FeNa, and high urine specific gravity are all consistent with prerenal azotemia (the kidney…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يخلط الطالب بين أسمولية البول المرتفعة والمنخفضة، فيظن أن أسمولية 200 (منخفضة/مخففة) متوافقة مع الفشل قبل الكلوي، متجاهلاً أن الكلية السليمة تركّز البول لأسمولية أعلى من 500 في هذه الحالة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يخلط الطالب بين أسمولية البول المرتفعة والمنخفضة، فيظن أن أسمولية 200 (منخفضة/مخففة) متوافقة مع الفشل قبل الكلوي، متجاهلاً أن الكلية السليمة تركّز البول لأسمولية أعلى من 500 في هذه الحالة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Urine osmolality = 200 mosm/ L",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Prerenal = Precious urine (concentrated, low "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Urine osmolality = 200 mosm/ L. الفشل الكلوي قبل الكلوي يعني أن الكلية تعمل بجهد للاحتفاظ بكل شيء، فينتج بول مركّز وليس مخففًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الفشل الكلوي قبل الكلوي يعني أن الكلية تعمل بجهد للاحتفاظ بكل شيء، فينتج بول مركّز وليس مخففًا. وتذكّر القاعدة: \"Prerenal = Precious urine (concentrated, low Na)\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "surgery-12mo2020-17-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 17 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Acute limb ischemia can cause all EXCEPT",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 17,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Pulselesness"
+    },
+    {
+      "letter": "B",
+      "text": "Pain"
+    },
+    {
+      "letter": "C",
+      "text": "Paralysis"
+    },
+    {
+      "letter": "D",
+      "text": "Cyanosis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Cyanosis",
+  "purpose_ar": "حفظ الستة Ps الصحيحة لنقص التروية الحادة (ألم، شحوب، غياب نبض، تنمل، شلل، برودة) واستبعاد الزرقة كعلامة غير نمطية.",
+  "trap_ar": "قد يظن الطالب أن الزرقة علامة منطقية لأي نقص أكسجين بالطرف، متجاهلاً أن نقص التروية الحاد يسبب شحوبًا وليس زرقة.",
+  "summary_ar": "الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Acute limb ischemia can cause all EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Cyanosis"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Pulselesness، أو Pain، أو Paralysis، أو Cyanosis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ الستة Ps الصحيحة لنقص التروية الحادة (ألم، شحوب، غياب نبض، تنمل، شلل، برودة) واستبعاد الزرقة كعلامة غير نمطية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ الستة Ps الصحيحة لنقص التروية الحادة (ألم، شحوب، غياب نبض، تنمل، شلل، برودة) واستبعاد الزرقة كعلامة غير نمطية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Cyanosis",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Cyanosis"
+      },
+      "card_text": "الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد. نقص التروية الشرياني الحاد يقطع تدفق الدم فيسبب شحوبًا (نقص وصول دم)، وليس زرقة (التي تعكس ركود دم مؤكسج جزئيًا موجود أصلًا)."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pulselesness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis. يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least reliable early sign — pain remains the earliest, most sensitive symptom. الخيار B، Pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis. يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least reliable early sign — pain remains the earliest, most sensitive symptom. الخيار C، Paralysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis. يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least reliable early sign — pain remains the earliest, most sensitive symptom.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Pulselesness",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least…"
+        },
+        {
+          "letter": "B",
+          "text": "Pain",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least…"
+        },
+        {
+          "letter": "C",
+          "text": "Paralysis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyanosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pulselessness, pain, and paralysis are all part of the 6 P's of acute limb ischemia, but pulselessness specifically is the LATEST and least…"
+        },
+        {
+          "letter": "D",
+          "text": "Cyanosis",
+          "verdict": "correct",
+          "reason": "الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن الزرقة علامة منطقية لأي نقص أكسجين بالطرف، متجاهلاً أن نقص التروية الحاد يسبب شحوبًا وليس زرقة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن الزرقة علامة منطقية لأي نقص أكسجين بالطرف، متجاهلاً أن نقص التروية الحاد يسبب شحوبًا وليس زرقة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Cyanosis",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "Cyanosis"
+      },
+      "pills": [
+        "\"Ischemia = Pale, not Cyanotic\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Cyanosis. الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد. وتذكّر القاعدة: \"Ischemia = Pale, not Cyanotic\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

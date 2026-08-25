@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2013-14-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 14 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Anesthetic with both analgesic and anesthetic effect",
+  "question_ar": "المخدر الذي له تأثير مسكن ومخدر هو:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 14,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Isoflurane"
+    },
+    {
+      "letter": "B",
+      "text": "Sevoflurane"
+    },
+    {
+      "letter": "C",
+      "text": "Thiopental sodium"
+    },
+    {
+      "letter": "D",
+      "text": "Suxamethonium"
+    },
+    {
+      "letter": "E",
+      "text": "Ketamine"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Ketamine",
+  "purpose_ar": "يريد التأكيد أن الكيتامين يجمع بين تأثير مسكن ومخدر معًا بدواء واحد بشكل نوعي.",
+  "trap_ar": "الطالب قد يختار دواء تخدير آخر بلا خاصية مسكنة مدمجة، متناسيًا أن الكيتامين تحديدًا يجمع الخاصيتين معًا بشكل فريد.",
+  "summary_ar": "الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Anesthetic with both analgesic and anesthetic effect",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. المخدر الذي له تأثير مسكن ومخدر هو:؟ أمامك هذه الخيارات: Isoflurane، أو Sevoflurane، أو Thiopental sodium، أو Suxamethonium، أو Ketamine. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الكيتامين يجمع بين تأثير مسكن ومخدر معًا بدواء واحد بشكل نوعي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الكيتامين يجمع بين تأثير مسكن ومخدر معًا بدواء واحد بشكل نوعي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Ketamine",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد. حرف K المزدوج يربط الكيتامين بخاصيتيه المزدوجتين."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Isoflurane: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine. يصبح صحيحًا في سؤال يصف Isoflurane and sevoflurane are inhalational anesthetics without significant standalone analgesic properties. الخيار B، Sevoflurane: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine. يصبح صحيحًا في سؤال يصف Isoflurane and sevoflurane are inhalational anesthetics without significant standalone analgesic properties. الخيار C، Thiopental sodium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine. يصبح صحيحًا في سؤال يصف thiopental sodium is a pure anesthetic induction agent without analgesia. الخيار D، Suxamethonium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine. يصبح صحيحًا في سؤال يصف suxamethonium is a paralytic with no anesthetic or analgesic effect at all — ketamine uniquely provides both dissociative anesthesia and strong analgesia.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Isoflurane",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Isoflurane and sevoflurane are inhalational anesthetics without significant standalone analgesic properties."
+        },
+        {
+          "letter": "B",
+          "text": "Sevoflurane",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Isoflurane and sevoflurane are inhalational anesthetics without significant standalone analgesic properties."
+        },
+        {
+          "letter": "C",
+          "text": "Thiopental sodium",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف thiopental sodium is a pure anesthetic induction agent without analgesia."
+        },
+        {
+          "letter": "D",
+          "text": "Suxamethonium",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف suxamethonium is a paralytic with no anesthetic or analgesic effect at all — ketamine uniquely provides both dissociative anesthesia and strong…"
+        },
+        {
+          "letter": "E",
+          "text": "Ketamine",
+          "verdict": "correct",
+          "reason": "الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار دواء تخدير آخر بلا خاصية مسكنة مدمجة، متناسيًا أن الكيتامين تحديدًا يجمع الخاصيتين معًا بشكل فريد.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار دواء تخدير آخر بلا خاصية مسكنة مدمجة، متناسيًا أن الكيتامين تحديدًا يجمع الخاصيتين معًا بشكل فريد."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Ketamine",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Ketamine: Kills pain AND induces anesthesia"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Ketamine. الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد. وتذكّر القاعدة: Ketamine: Kills pain AND induces anesthesia. والإجابة الصحيحة هي E."
+    }
+  ]
+}

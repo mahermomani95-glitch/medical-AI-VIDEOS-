@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2018-46-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2018 Course, Question 46 of 53",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Graves disease — EXCEPT",
+  "question_ar": "في مرض القبور كل شيء صحيح ما عدا",
+  "course_label": "Course: Surgery — 7th Month 2018 Course",
+  "question_number": 46,
+  "options": [
+    {
+      "letter": "A",
+      "text": "It is the most common cause of Thyrotoxicosis"
+    },
+    {
+      "letter": "B",
+      "text": "More common in women"
+    },
+    {
+      "letter": "C",
+      "text": "Treatment includes medical, iodine ablation, and surgery"
+    },
+    {
+      "letter": "D",
+      "text": "In graves disease, TSH increased while T4 markedly decreased"
+    },
+    {
+      "letter": "E",
+      "text": "Diarrhea, palpitation, and heat intolerance can be found in graves disease"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "In graves disease, TSH increased while T4 markedly decreased",
+  "purpose_ar": "تصحيح مفهوم فيزيولوجي أساسي — في داء غريفز يكون TSH منخفضًا (وليس مرتفعًا) بسبب التثبيط التلقيمي الراجع من ارتفاع T4 الناتج عن تحفيز أضداد TSI المباشر للغدة.",
+  "trap_ar": "قد يظن الطالب أن ارتفاع نشاط الغدة الدرقية (فرط الدرقية) يعني بالضرورة ارتفاع TSH المحفز له، متجاهلاً آلية التلقيم الراجع السلبي التي تجعل TSH منخفضًا فعليًا في غريفز رغم ارتفاع T4.",
+  "summary_ar": "في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Graves disease — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "In graves disease, TSH increased while"
+      },
+      "narration": "لنبدأ بهذا السؤال. في مرض القبور كل شيء صحيح ما عدا أمامك هذه الخيارات: It is the most common cause of Thyrotoxicosis، أو More common in women، أو Treatment includes medical, iodine ablation, and surgery، أو In graves disease, TSH increased while T4 markedly decreased، أو Diarrhea, palpitation, and heat intolerance can be found in graves disease. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تصحيح مفهوم فيزيولوجي أساسي — في داء غريفز يكون TSH منخفضًا (وليس مرتفعًا) بسبب التثبيط التلقيمي الراجع من ارتفاع T4 الناتج عن تحفيز أضداد TSI المباشر للغدة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تصحيح مفهوم فيزيولوجي أساسي — في داء غريفز يكون TSH منخفضًا (وليس مرتفعًا) بسبب التثبيط التلقيمي الراجع من ارتفاع T4 الناتج عن تحفيز أضداد TSI المباشر للغدة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "In graves disease, TSH increased while",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "In graves disease, TSH increased while"
+      },
+      "card_text": "في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية. في غريفز، الغدة الدرقية \"تتجاوز\" إشارة النخامى بفضل أضداد TSI المحفزة ذاتيًا، فيرتفع T4 وينخفض TSH تعويضيًا (تثبيط تلقيمي راجع سلبي)."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is the most common cause of Thyrotoxicosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In graves disease, TSH increased while T4 markedly decreased. يصبح صحيحًا في سؤال يصف Being the most common cause of hyperthyroidism, more common in women, treated medically/with iodine/surgically, and accompanied by diarrhea, palpitations, and heat intolerance are all correct. الخيار B، More common in women: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In graves disease, TSH increased while T4 markedly decreased. يصبح صحيحًا في سؤال يصف Being the most common cause of hyperthyroidism, more common in women, treated medically/with iodine/surgically, and accompanied by diarrhea, palpitations, and heat intolerance are all correct. الخيار C، Treatment includes medical, iodine ablation, and surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In graves disease, TSH increased while T4 markedly decreased. يصبح صحيحًا في سؤال يصف Being the most common cause of hyperthyroidism, more common in women, treated medically/with iodine/surgically, and accompanied by diarrhea, palpitations, and heat intolerance are all correct. الخيار E، Diarrhea, palpitation, and heat intolerance can be found in graves disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In graves disease, TSH increased while T4 markedly decreased. يصبح صحيحًا في سؤال يصف Being the most common cause of hyperthyroidism, more common in women, treated medically/with iodine/surgically, and accompanied by diarrhea, palpitations, and heat intolerance are all correct.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "It is the most common cause of Thyrotoxicosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In graves disease, TSH increased while T4 markedly decreased.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Being the most common cause of hyperthyroidism, more common in women, treated medically/with iodine/surgically, and accompanied by diarrhea…"
+        },
+        {
+          "letter": "B",
+          "text": "More common in women",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In graves disease, TSH increased while T4 markedly decreased.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Being the most common cause of hyperthyroidism, more common in women, treated medically/with iodine/surgically, and accompanied by diarrhea…"
+        },
+        {
+          "letter": "C",
+          "text": "Treatment includes medical, iodine ablation, and surgery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In graves disease, TSH increased while T4 markedly decreased.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Being the most common cause of hyperthyroidism, more common in women, treated medically/with iodine/surgically, and accompanied by diarrhea…"
+        },
+        {
+          "letter": "D",
+          "text": "In graves disease, TSH increased while T4 markedly decreased",
+          "verdict": "correct",
+          "reason": "في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية."
+        },
+        {
+          "letter": "E",
+          "text": "Diarrhea, palpitation, and heat intolerance can be found in graves disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In graves disease, TSH increased while T4 markedly decreased.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Being the most common cause of hyperthyroidism, more common in women, treated medically/with iodine/surgically, and accompanied by diarrhea…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن ارتفاع نشاط الغدة الدرقية (فرط الدرقية) يعني بالضرورة ارتفاع TSH المحفز له، متجاهلاً آلية التلقيم الراجع السلبي التي تجعل TSH منخفضًا فعليًا في غريفز رغم ارتفاع T4.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن ارتفاع نشاط الغدة الدرقية (فرط الدرقية) يعني بالضرورة ارتفاع TSH المحفز له، متجاهلاً آلية التلقيم الراجع السلبي التي تجعل TSH منخفضًا فعليًا في غريفز رغم ارتفاع T4."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. In graves disease, TSH increased while T4 marked",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "In graves disease, TSH increased while"
+      },
+      "pills": [
+        "\"Graves = Low TSH, High T4\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: In graves disease, TSH increased while T4 markedly decreased. في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية. وتذكّر القاعدة: \"Graves = Low TSH, High T4\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

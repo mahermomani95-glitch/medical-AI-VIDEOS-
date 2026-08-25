@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2020-16-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2020 Course, Question 16 of 60",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Postoperative DVT prevention — NOT associated with decreased risk",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2020 Course",
+  "question_number": 16,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Starting warfarin at the day of surgery"
+    },
+    {
+      "letter": "B",
+      "text": "Prophylactic heparin"
+    },
+    {
+      "letter": "C",
+      "text": "Early ambulation"
+    },
+    {
+      "letter": "D",
+      "text": "Adequate hydration"
+    },
+    {
+      "letter": "E",
+      "text": "Intermittent pneumatic compression"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Starting warfarin at the day of surgery",
+  "purpose_ar": "حفظ وسائل الوقاية الفعلية من تجلط الأوردة العميقة بعد الجراحة (هيبارين وقائي، حركة مبكرة، إرواء كافٍ، ضغط متقطع) واستبعاد بدء الوارفارين وحده يوم الجراحة كوسيلة وقائية فعّالة مبكرًا.",
+  "trap_ar": "قد يظن الطالب أن أي مضاد تخثر (بما فيه الوارفارين) يقي من التخثر بمجرد بدئه، متجاهلاً أن الوارفارين بطيء البداية جدًا مقارنة بالهيبارين، فلا يوفر حماية مبكرة كافية.",
+  "summary_ar": "الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Postoperative DVT prevention — NOT associated with decreased",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Starting warfarin at the day of surgery، أو Prophylactic heparin، أو Early ambulation، أو Adequate hydration، أو Intermittent pneumatic compression. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ وسائل الوقاية الفعلية من تجلط الأوردة العميقة بعد الجراحة (هيبارين وقائي، حركة مبكرة، إرواء كافٍ، ضغط متقطع) واستبعاد بدء الوارفارين وحده يوم الجراحة كوسيلة وقائية فعّالة مبكرًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ وسائل الوقاية الفعلية من تجلط الأوردة العميقة بعد الجراحة (هيبارين وقائي، حركة مبكرة، إرواء كافٍ، ضغط متقطع) واستبعاد بدء الوارفارين وحده يوم الجراحة كوسيلة وقائية فعّالة مبكرًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Starting warfarin at the day of surger",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة. الوارفارين يحتاج عدة أيام ليصل لتأثيره التخثري الكامل، فلا يوفر حماية سريعة كافية إذا بدئ فقط يوم الجراحة، بعكس الهيبارين الوقائي أو ضغط التمعّج المتقطع الأسرع تأثيرًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Prophylactic heparin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Starting warfarin at the day of surgery. يصبح صحيحًا في سؤال يصف Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic compression are all genuine, effective measures to reduce postoperative DVT risk. الخيار C، Early ambulation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Starting warfarin at the day of surgery. يصبح صحيحًا في سؤال يصف Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic compression are all genuine, effective measures to reduce postoperative DVT risk. الخيار D، Adequate hydration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Starting warfarin at the day of surgery. يصبح صحيحًا في سؤال يصف Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic compression are all genuine, effective measures to reduce postoperative DVT risk. الخيار E، Intermittent pneumatic compression: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Starting warfarin at the day of surgery. يصبح صحيحًا في سؤال يصف Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic compression are all genuine, effective measures to reduce postoperative DVT risk.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Starting warfarin at the day of surgery",
+          "verdict": "correct",
+          "reason": "الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة."
+        },
+        {
+          "letter": "B",
+          "text": "Prophylactic heparin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Starting warfarin at the day of surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic compression are all genuine, effective measures to reduce…"
+        },
+        {
+          "letter": "C",
+          "text": "Early ambulation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Starting warfarin at the day of surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic compression are all genuine, effective measures to reduce…"
+        },
+        {
+          "letter": "D",
+          "text": "Adequate hydration",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Starting warfarin at the day of surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic compression are all genuine, effective measures to reduce…"
+        },
+        {
+          "letter": "E",
+          "text": "Intermittent pneumatic compression",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Starting warfarin at the day of surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic compression are all genuine, effective measures to reduce…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن أي مضاد تخثر (بما فيه الوارفارين) يقي من التخثر بمجرد بدئه، متجاهلاً أن الوارفارين بطيء البداية جدًا مقارنة بالهيبارين، فلا يوفر حماية مبكرة كافية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن أي مضاد تخثر (بما فيه الوارفارين) يقي من التخثر بمجرد بدئه، متجاهلاً أن الوارفارين بطيء البداية جدًا مقارنة بالهيبارين، فلا يوفر حماية مبكرة كافية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Starting warfarin at the day of surgery",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Warfarin alone on day of surgery = too slow t"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Starting warfarin at the day of surgery. الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة. وتذكّر القاعدة: \"Warfarin alone on day of surgery = too slow to prevent early DVT\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

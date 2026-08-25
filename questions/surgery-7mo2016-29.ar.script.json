@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-29-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 29 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Treatment of choice, high grade primary gastric lymphoma",
+  "question_ar": "العلاج المفضل لسرطان الغدد الليمفاوية المعدية الأولي عالي الدرجة؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 29,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Total gastrectomy"
+    },
+    {
+      "letter": "B",
+      "text": "Subtotal gastrectomy"
+    },
+    {
+      "letter": "C",
+      "text": "Chemo_radio therapy"
+    },
+    {
+      "letter": "D",
+      "text": "Total gastrectomy followed by chemotherapy"
+    },
+    {
+      "letter": "E",
+      "text": "Radiation therapy"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Chemo_radio therapy",
+  "purpose_ar": "يريد التأكيد أن العلاج الكيميائي الإشعاعي المشترك هو علاج ليمفوما المعدة عالية الدرجة (بخلاف المالت منخفض الدرجة).",
+  "trap_ar": "الطالب قد يختار استئصال الملوية البوابية وحده (يكفي للمالت منخفض الدرجة فقط)، متناسيًا أن الليمفوما عالية الدرجة تستدعي علاجًا جهازيًا أقوى.",
+  "summary_ar": "الليمفوما المعدية عالية الدرجة تستدعي علاجًا كيميائيًا إشعاعيًا مشتركًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Treatment of choice, high grade primary gastric lymphoma",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Chemo_radio therapy"
+      },
+      "narration": "لنبدأ بهذا السؤال. العلاج المفضل لسرطان الغدد الليمفاوية المعدية الأولي عالي الدرجة؟ أمامك هذه الخيارات: Total gastrectomy، أو Subtotal gastrectomy، أو Chemo_radio therapy، أو Total gastrectomy followed by chemotherapy، أو Radiation therapy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن العلاج الكيميائي الإشعاعي المشترك هو علاج ليمفوما المعدة عالية الدرجة (بخلاف المالت منخفض الدرجة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن العلاج الكيميائي الإشعاعي المشترك هو علاج ليمفوما المعدة عالية الدرجة (بخلاف المالت منخفض الدرجة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Chemo_radio therapy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Chemo_radio therapy"
+      },
+      "card_text": "الليمفوما المعدية عالية الدرجة تستدعي علاجًا كيميائيًا إشعاعيًا مشتركًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الليمفوما المعدية عالية الدرجة تستدعي علاجًا كيميائيًا إشعاعيًا مشتركًا. حرف H المزدوج يذكرك بضرورة العلاج الجهازي الأقوى لهذه الدرجة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Total gastrectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred approach for high-grade primary gastric lymphoma — combined chemoradiotherapy is generally preferred, reserving surgery for complications. يصبح صحيحًا في سؤال يصف Total gastrectomy alone, subtotal gastrectomy, total gastrectomy plus chemo, and radiation alone. الخيار B، Subtotal gastrectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred approach for high-grade primary gastric lymphoma — combined chemoradiotherapy is generally preferred, reserving surgery for complications. يصبح صحيحًا في سؤال يصف Total gastrectomy alone, subtotal gastrectomy, total gastrectomy plus chemo, and radiation alone. الخيار D، Total gastrectomy followed by chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred approach for high-grade primary gastric lymphoma — combined chemoradiotherapy is generally preferred, reserving surgery for complications. يصبح صحيحًا في سؤال يصف Total gastrectomy alone, subtotal gastrectomy, total gastrectomy plus chemo, and radiation alone. الخيار E، Radiation therapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred approach for high-grade primary gastric lymphoma — combined chemoradiotherapy is generally preferred, reserving surgery for complications. يصبح صحيحًا في سؤال يصف Total gastrectomy alone, subtotal gastrectomy, total gastrectomy plus chemo, and radiation alone.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Total gastrectomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred approach for high-grade primary gastric lymphoma — combined chemoradiotherapy is generally preferred…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Total gastrectomy alone, subtotal gastrectomy, total gastrectomy plus chemo, and radiation alone."
+        },
+        {
+          "letter": "B",
+          "text": "Subtotal gastrectomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred approach for high-grade primary gastric lymphoma — combined chemoradiotherapy is generally preferred…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Total gastrectomy alone, subtotal gastrectomy, total gastrectomy plus chemo, and radiation alone."
+        },
+        {
+          "letter": "C",
+          "text": "Chemo_radio therapy",
+          "verdict": "correct",
+          "reason": "الليمفوما المعدية عالية الدرجة تستدعي علاجًا كيميائيًا إشعاعيًا مشتركًا."
+        },
+        {
+          "letter": "D",
+          "text": "Total gastrectomy followed by chemotherapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred approach for high-grade primary gastric lymphoma — combined chemoradiotherapy is generally preferred…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Total gastrectomy alone, subtotal gastrectomy, total gastrectomy plus chemo, and radiation alone."
+        },
+        {
+          "letter": "E",
+          "text": "Radiation therapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred approach for high-grade primary gastric lymphoma — combined chemoradiotherapy is generally preferred…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Total gastrectomy alone, subtotal gastrectomy, total gastrectomy plus chemo, and radiation alone."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار استئصال الملوية البوابية وحده (يكفي للمالت منخفض الدرجة فقط)، متناسيًا أن الليمفوما عالية الدرجة تستدعي علاجًا جهازيًا أقوى.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار استئصال الملوية البوابية وحده (يكفي للمالت منخفض الدرجة فقط)، متناسيًا أن الليمفوما عالية الدرجة تستدعي علاجًا جهازيًا أقوى."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Chemo_radio therapy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Chemo_radio therapy"
+      },
+      "pills": [
+        "High-grade gastric lymphoma: needs Chemo-radio"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Chemo_radio therapy. الليمفوما المعدية عالية الدرجة تستدعي علاجًا كيميائيًا إشعاعيًا مشتركًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الليمفوما المعدية عالية الدرجة تستدعي علاجًا كيميائيًا إشعاعيًا مشتركًا. وتذكّر القاعدة: High-grade gastric lymphoma: needs Chemo-radio. والإجابة الصحيحة هي C."
+    }
+  ]
+}

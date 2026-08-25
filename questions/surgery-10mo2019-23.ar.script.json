@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-23-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 23 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "80M + LIF pain worsening + fever + urinary irritation + peritonitis + palpable tender mass",
+  "question_ar": "رجل يبلغ من العمر 80 عامًا يعاني من ألم في الحفرة الحرقفية اليسرى منذأسبوع. وقد ازداد هذا الألم بشكل ملحوظ خلال اليومين الماضيين، ويصاحبهحمى وتهيج في المسالك البولية. عند الفحص، بدا عليه المرض الشديد، وظهرتعليه علامات التهاب الصفاق فوق فتحة الشرج مع وجود كتلة مؤلمة غيرمحسوسة. الخطوة التالية الأنسب في العلاج للحصول على التشخيص الأكثراحتمالًا هي:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 23,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Colonic resection and primary anastomosis."
+    },
+    {
+      "letter": "B",
+      "text": "Hartmann procedure"
+    },
+    {
+      "letter": "C",
+      "text": "NPO, IV fluid, IV antibiotics and drain placement"
+    },
+    {
+      "letter": "D",
+      "text": "Urgent colonoscopy detortion"
+    },
+    {
+      "letter": "E",
+      "text": "Radiation and chemotherapy"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "NPO, IV fluid, IV antibiotics and drain placement",
+  "purpose_ar": "معرفة أن التهاب الرتوج المعقد بخراج (كتلة مجسوسة مع التهاب صفاق موضعي) يُدار أولًا بالراحة المعوية والسوائل والمضادات والتصريف عبر الجلد، وليس بجراحة فورية.",
+  "trap_ar": "قد يختار الطالب استئصال القولون مع مفاغرة أولية (A) أو إجراء هارتمان (B) ظنًا أن الحالة تستدعي جراحة فورية بسبب التهاب الصفاق، متجاهلاً أن السيطرة على المصدر أولًا (تصريف الخراج) هي الخطوة الأولى الصحيحة قبل أي جراحة نهائية.",
+  "summary_ar": "التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "80M + LIF pain worsening + fever + urinary irritation + peri",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "NPO, IV fluid, IV antibiotics and drai"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 80 عامًا يعاني من ألم في الحفرة الحرقفية اليسرى منذأسبوع. وقد ازداد هذا الألم بشكل ملحوظ خلال اليومين الماضيين، ويصاحبهحمى وتهيج في المسالك البولية. عند الفحص، بدا عليه المرض الشديد، وظهرتعليه علامات التهاب الصفاق فوق فتحة الشرج مع وجود كتلة مؤلمة غيرمحسوسة. الخطوة التالية الأنسب في العلاج للحصول على التشخيص الأكثراحتمالًا هي: أمامك هذه الخيارات: Colonic resection and primary anastomosis.، أو Hartmann procedure، أو NPO, IV fluid, IV antibiotics and drain placement، أو Urgent colonoscopy detortion، أو Radiation and chemotherapy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "معرفة أن التهاب الرتوج المعقد بخراج (كتلة مجسوسة مع التهاب صفاق موضعي) يُدار أولًا بالراحة المعوية والسوائل والمضادات والتصريف عبر الجلد، وليس بجراحة فورية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: معرفة أن التهاب الرتوج المعقد بخراج (كتلة مجسوسة مع التهاب صفاق موضعي) يُدار أولًا بالراحة المعوية والسوائل والمضادات والتصريف عبر الجلد، وليس بجراحة فورية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "NPO, IV fluid, IV antibiotics and drai",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "NPO, IV fluid, IV antibiotics and drai"
+      },
+      "card_text": "التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا. عند وجود خراج رتجي متشكل (مصحوب بكتلة مجسوسة)، تكون الخطوة الأولى هي التصريف والعلاج المحافظ، ويُحفظ الاستئصال الجراحي للفشل العلاجي أو الانثقاب الحر."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colonic resection and primary anastomosis.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement. يصبح صحيحًا في سؤال يصف Colonic resection with primary anastomosis is too aggressive for an unstable/high-risk patient. الخيار B، Hartmann procedure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement. يصبح صحيحًا في سؤال يصف Hartmann's procedure is reserved for perforation or failed detorsion. الخيار D، Urgent colonoscopy detortion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement. يصبح صحيحًا في سؤال يصف urgent colonoscopic detorsion IS actually the correct first-line approach here, distinguishing it from more invasive surgical options reserved for complications. الخيار E، Radiation and chemotherapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement. يصبح صحيحًا في سؤال يصف radiation/chemotherapy is irrelevant to acute volvulus.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Colonic resection and primary anastomosis.",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Colonic resection with primary anastomosis is too aggressive for an unstable/high-risk patient."
+        },
+        {
+          "letter": "B",
+          "text": "Hartmann procedure",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hartmann's procedure is reserved for perforation or failed detorsion."
+        },
+        {
+          "letter": "C",
+          "text": "NPO, IV fluid, IV antibiotics and drain placement",
+          "verdict": "correct",
+          "reason": "التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا."
+        },
+        {
+          "letter": "D",
+          "text": "Urgent colonoscopy detortion",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف urgent colonoscopic detorsion IS actually the correct first-line approach here, distinguishing it from more invasive surgical options reserved…"
+        },
+        {
+          "letter": "E",
+          "text": "Radiation and chemotherapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف radiation/chemotherapy is irrelevant to acute volvulus."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب استئصال القولون مع مفاغرة أولية (A) أو إجراء هارتمان (B) ظنًا أن الحالة تستدعي جراحة فورية بسبب التهاب الصفاق، متجاهلاً أن السيطرة على المصدر أولًا (تصريف الخراج) هي الخطوة الأولى الصحيحة قبل أي جراحة نهائية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب استئصال القولون مع مفاغرة أولية (A) أو إجراء هارتمان (B) ظنًا أن الحالة تستدعي جراحة فورية بسبب التهاب الصفاق، متجاهلاً أن السيطرة على المصدر أولًا (تصريف الخراج) هي الخطوة الأولى الصحيحة قبل أي جراحة نهائية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. NPO, IV fluid, IV antibiotics and drain placemen",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "NPO, IV fluid, IV antibiotics and drai"
+      },
+      "pills": [
+        "\"Diverticular abscess = drain first, resect la"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: NPO, IV fluid, IV antibiotics and drain placement. التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا. وتذكّر القاعدة: \"Diverticular abscess = drain first, resect later\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-27-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 27 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "NOT a complication of gallstones",
+  "question_ar": "أحد الأمور التالية ليس من مضاعفات حصوات المرارة؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 27,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Intestinal obstruction"
+    },
+    {
+      "letter": "B",
+      "text": "Mucocele"
+    },
+    {
+      "letter": "C",
+      "text": "Acute cholycystitis"
+    },
+    {
+      "letter": "D",
+      "text": "Liver cirrhosis"
+    },
+    {
+      "letter": "E",
+      "text": "Pancreatitis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Liver cirrhosis",
+  "purpose_ar": "يريد التأكيد أن تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية لا حمة الكبد).",
+  "trap_ar": "الطالب قد يظن أي مرض كبدي مزمن مضاعفة محتملة لحصى المرارة، متناسيًا أن آلية التشمع مختلفة تمامًا عن تأثير الحصى الصفراوية.",
+  "summary_ar": "تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية).",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "NOT a complication of gallstones",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Liver cirrhosis"
+      },
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية ليس من مضاعفات حصوات المرارة؟ أمامك هذه الخيارات: Intestinal obstruction، أو Mucocele، أو Acute cholycystitis، أو Liver cirrhosis، أو Pancreatitis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية لا حمة الكبد).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية لا حمة الكبد)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Liver cirrhosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Liver cirrhosis"
+      },
+      "card_text": "تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية).",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية). حرف C المزدوج يذكرك أن هذه المضاعفة غير مرتبطة بحصى المرارة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease. يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized complications of gallstones, unlike liver cirrhosis, which. الخيار B، Mucocele: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease. يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized complications of gallstones, unlike liver cirrhosis, which. الخيار C، Acute cholycystitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease. يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized complications of gallstones, unlike liver cirrhosis, which. الخيار E، Pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis. يصبح صحيحًا في سؤال يستهدف Pancreatitis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Intestinal obstruction",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized…"
+        },
+        {
+          "letter": "B",
+          "text": "Mucocele",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized…"
+        },
+        {
+          "letter": "C",
+          "text": "Acute cholycystitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا considered a direct complication of gallstone disease.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis (E, gallstone pancreatitis) are all recognized…"
+        },
+        {
+          "letter": "D",
+          "text": "Liver cirrhosis",
+          "verdict": "correct",
+          "reason": "تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية)."
+        },
+        {
+          "letter": "E",
+          "text": "Pancreatitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver cirrhosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Pancreatitis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي مرض كبدي مزمن مضاعفة محتملة لحصى المرارة، متناسيًا أن آلية التشمع مختلفة تمامًا عن تأثير الحصى الصفراوية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي مرض كبدي مزمن مضاعفة محتملة لحصى المرارة، متناسيًا أن آلية التشمع مختلفة تمامًا عن تأثير الحصى الصفراوية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Liver cirrhosis",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Liver cirrhosis"
+      },
+      "pills": [
+        "Gallstone complications: don't Cause cirrhosis"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Liver cirrhosis. تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية)."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية). وتذكّر القاعدة: Gallstone complications: don't Cause cirrhosis. والإجابة الصحيحة هي D."
+    }
+  ]
+}

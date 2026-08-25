@@ -1,0 +1,138 @@
+{
+  "id": "surgery-12mo2020-22-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 22 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Breast cancer — TRUE statement",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 22,
+  "options": [
+    {
+      "letter": "A",
+      "text": "CA in situ is always invasive"
+    },
+    {
+      "letter": "B",
+      "text": "Breast oedema result from superficial lymphatic mets"
+    },
+    {
+      "letter": "C",
+      "text": "It's more than 50% familiall"
+    },
+    {
+      "letter": "D",
+      "text": "Men breast cancer represent 10% of breast ca"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Breast oedema result from superficial lymphatic mets",
+  "purpose_ar": "تأكيد أن وذمة الثدي (علامة سرطان الثدي الالتهابي) تنتج عن انسداد لمفاوي سطحي بغزو الخلايا السرطانية، وليس آلية أخرى.",
+  "trap_ar": "قد يختار الطالب \"سرطان في الموقع دائمًا غازٍ\" (A) لأنه يبدو صحيحًا لغويًا، متجاهلاً أن \"In Situ\" يعني بالتعريف أنه غير غازٍ بعد.",
+  "summary_ar": "وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Breast cancer — TRUE statement",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Breast oedema result from superficial "
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: CA in situ is always invasive، أو Breast oedema result from superficial lymphatic mets، أو It's more than 50% familiall، أو Men breast cancer represent 10% of breast ca. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تأكيد أن وذمة الثدي (علامة سرطان الثدي الالتهابي) تنتج عن انسداد لمفاوي سطحي بغزو الخلايا السرطانية، وليس آلية أخرى.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تأكيد أن وذمة الثدي (علامة سرطان الثدي الالتهابي) تنتج عن انسداد لمفاوي سطحي بغزو الخلايا السرطانية، وليس آلية أخرى."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Breast oedema result from superficial ",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Breast oedema result from superficial "
+      },
+      "card_text": "وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد. عندما تغزو الخلايا السرطانية الأوعية اللمفاوية الأدمية السطحية وتسدّها، يتجمع السائل داخل الجلد مسببًا وذمة (جلد قشرة البرتقال) بدل تصريفه الطبيعي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، CA in situ is always invasive: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always invasive (A is false, it's non-invasive by definition). يصبح صحيحًا في سؤال يصف Carcinoma in situ. الخيار C، It's more than 50% familiall: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast oedema result from superficial lymphatic mets. يصبح صحيحًا في سؤال يستهدف It's more than 50% familiall تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Men breast cancer represent 10% of breast ca: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 10%, of all breast cancers (D is false) — these misstate true breast cancer epidemiology. يصبح صحيحًا في سؤال يصف male breast cancer represents about 1%.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "CA in situ is always invasive",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always invasive (A is false, it's non-invasive by definition).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Carcinoma in situ."
+        },
+        {
+          "letter": "B",
+          "text": "Breast oedema result from superficial lymphatic mets",
+          "verdict": "correct",
+          "reason": "وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد."
+        },
+        {
+          "letter": "C",
+          "text": "It's more than 50% familiall",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast oedema result from superficial lymphatic mets.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف It's more than 50% familiall تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Men breast cancer represent 10% of breast ca",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 10%, of all breast cancers (D is false) — these misstate true breast cancer epidemiology.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف male breast cancer represents about 1%."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب \"سرطان في الموقع دائمًا غازٍ\" (A) لأنه يبدو صحيحًا لغويًا، متجاهلاً أن \"In Situ\" يعني بالتعريف أنه غير غازٍ بعد.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب \"سرطان في الموقع دائمًا غازٍ\" (A) لأنه يبدو صحيحًا لغويًا، متجاهلاً أن \"In Situ\" يعني بالتعريف أنه غير غازٍ بعد."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Breast oedema result from superficial lymphatic ",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Breast oedema result from superficial "
+      },
+      "pills": [
+        "\"Breast edema = Superficial lymphatic blockage"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Breast oedema result from superficial lymphatic mets. وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد. وتذكّر القاعدة: \"Breast edema = Superficial lymphatic blockage\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

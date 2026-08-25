@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2017-27-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2017 Course, Question 27 of 48",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Night shift, 50yo ER presentation (implied trauma), initial diagnostic step",
+  "question_ar": "كنتَ طبيبَ نوبةِ الطوارئِ الليليةِ عندما جاءَ إليكَ رجلٌ في الخمسين من عمرهِبعدَ إصابةٍ حادةٍ في بطنه. كانت علاماتُه الحيويةُ (ضغطُ الدمِ ١١٠/٦٠، معدلُضرباتِ القلبِ ٩٠، معدلُ التنفسِ ١٧). مقياسُ غلاسكو للغيبوبةِ ١٥/١٥. بطنُهطريٌّ ولكنه مؤلمٌ في الربعِ العلويِّ الأيمنِ، ما هي أفضلُ خطوةٍ تاليةٍ لك؟",
+  "course_label": "Course: Surgery — 10th Month 2017 Course",
+  "question_number": 27,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Diagnostic peritoneal lavage"
+    },
+    {
+      "letter": "B",
+      "text": "Focused Assessment by sonography test (FAST) ultrasound if available"
+    },
+    {
+      "letter": "C",
+      "text": "ICU admission"
+    },
+    {
+      "letter": "D",
+      "text": "Call the surgeon for immediate laparotomy"
+    },
+    {
+      "letter": "E",
+      "text": "laparoscopy"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Focused Assessment by sonography test (FAST) ultrasound if available",
+  "purpose_ar": "يريد التأكيد أن فحص FAST بالموجات فوق الصوتية هو الخطوة التشخيصية الأولية الأسرع بمريض رض بطني إسعافي.",
+  "trap_ar": "الطالب قد يختار تصويرًا طبقيًا كخطوة أولى، متناسيًا أن FAST أسرع وأتيح فورًا بجانب سرير المريض بلا تأخير نقل.",
+  "summary_ar": "فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Night shift, 50yo ER presentation (implied trauma), initial ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Focused Assessment by sonography test "
+      },
+      "narration": "لنبدأ بهذا السؤال. كنتَ طبيبَ نوبةِ الطوارئِ الليليةِ عندما جاءَ إليكَ رجلٌ في الخمسين من عمرهِبعدَ إصابةٍ حادةٍ في بطنه. كانت علاماتُه الحيويةُ (ضغطُ الدمِ ١١٠/٦٠، معدلُضرباتِ القلبِ ٩٠، معدلُ التنفسِ ١٧). مقياسُ غلاسكو للغيبوبةِ ١٥/١٥. بطنُهطريٌّ ولكنه مؤلمٌ في الربعِ العلويِّ الأيمنِ، ما هي أفضلُ خطوةٍ تاليةٍ لك؟ أمامك هذه الخيارات: Diagnostic peritoneal lavage، أو Focused Assessment by sonography test (FAST) ultrasound if available، أو ICU admission، أو Call the surgeon for immediate laparotomy، أو laparoscopy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن فحص FAST بالموجات فوق الصوتية هو الخطوة التشخيصية الأولية الأسرع بمريض رض بطني إسعافي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن فحص FAST بالموجات فوق الصوتية هو الخطوة التشخيصية الأولية الأسرع بمريض رض بطني إسعافي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Focused Assessment by sonography test ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Focused Assessment by sonography test "
+      },
+      "card_text": "فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي. حرف F المزدوج يذكرك بسرعة هذا الفحص الأولي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Diagnostic peritoneal lavage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available. يصبح صحيحًا في سؤال يصف DPL is more invasive and largely superseded by imaging. الخيار C، ICU admission: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available. يصبح صحيحًا في سؤال يصف ICU admission is premature before diagnostic assessment. الخيار D، Call the surgeon for immediate laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available. يصبح صحيحًا في سؤال يصف immediate laparotomy without any imaging risks unnecessary surgery in a stable patient. الخيار E، laparoscopy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the initial diagnostic step — FAST ultrasound is the preferred rapid initial diagnostic tool in trauma assessment when available. يصبح صحيحًا في سؤال يصف laparoscopy is a treatment.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Diagnostic peritoneal lavage",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف DPL is more invasive and largely superseded by imaging."
+        },
+        {
+          "letter": "B",
+          "text": "Focused Assessment by sonography test (FAST) ultrasound if available",
+          "verdict": "correct",
+          "reason": "فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي."
+        },
+        {
+          "letter": "C",
+          "text": "ICU admission",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ICU admission is premature before diagnostic assessment."
+        },
+        {
+          "letter": "D",
+          "text": "Call the surgeon for immediate laparotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف immediate laparotomy without any imaging risks unnecessary surgery in a stable patient."
+        },
+        {
+          "letter": "E",
+          "text": "laparoscopy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the initial diagnostic step — FAST ultrasound is the preferred rapid initial diagnostic tool in trauma assessment when…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف laparoscopy is a treatment."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار تصويرًا طبقيًا كخطوة أولى، متناسيًا أن FAST أسرع وأتيح فورًا بجانب سرير المريض بلا تأخير نقل.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار تصويرًا طبقيًا كخطوة أولى، متناسيًا أن FAST أسرع وأتيح فورًا بجانب سرير المريض بلا تأخير نقل."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Focused Assessment by sonography test (FAST) ult",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Focused Assessment by sonography test "
+      },
+      "pills": [
+        "Trauma patient, urgent: FAST ultrasound First"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Focused Assessment by sonography test (FAST) ultrasound if available. فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي. وتذكّر القاعدة: Trauma patient, urgent: FAST ultrasound First. والإجابة الصحيحة هي B."
+    }
+  ]
+}

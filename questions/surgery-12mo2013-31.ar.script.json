@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-31-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 31 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Head injury treatment, true statement",
+  "question_ar": "في علاج إصابة الرأس، يكون أحد الأمور التالية صحيحًا؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 31,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Steroids are regularly used"
+    },
+    {
+      "letter": "B",
+      "text": "Patient with Glasgow coma score less than 8 are usually intubated and ventilated"
+    },
+    {
+      "letter": "C",
+      "text": "Antibiotics are routinely used"
+    },
+    {
+      "letter": "D",
+      "text": "Pyrexia is nearly always due to severe infection"
+    },
+    {
+      "letter": "E",
+      "text": "Severe fluid restriction is necessary"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Patient with Glasgow coma score less than 8 are usually intubated and ventilated",
+  "purpose_ar": "يريد حفظ العتبة الرقمية القياسية (غلاسكو أقل من 8) التي تستدعي التنبيب الرغامي بإصابات الرأس.",
+  "trap_ar": "الطالب قد يخلط بين هذه العتبة وعتبات أخرى مقاربة، وهو فخ رقمي بحت يتطلب حفظًا دقيقًا للرقم 8.",
+  "summary_ar": "غلاسكو أقل من 8 هو العتبة القياسية لتنبيب مريض إصابة الرأس.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Head injury treatment, true statement",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Patient with Glasgow coma score less t"
+      },
+      "narration": "لنبدأ بهذا السؤال. في علاج إصابة الرأس، يكون أحد الأمور التالية صحيحًا؟ أمامك هذه الخيارات: Steroids are regularly used، أو Patient with Glasgow coma score less than 8 are usually intubated and ventilated، أو Antibiotics are routinely used، أو Pyrexia is nearly always due to severe infection، أو Severe fluid restriction is necessary. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ العتبة الرقمية القياسية (غلاسكو أقل من 8) التي تستدعي التنبيب الرغامي بإصابات الرأس.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ العتبة الرقمية القياسية (غلاسكو أقل من 8) التي تستدعي التنبيب الرغامي بإصابات الرأس."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Patient with Glasgow coma score less t",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Patient with Glasgow coma score less t"
+      },
+      "card_text": "غلاسكو أقل من 8 هو العتبة القياسية لتنبيب مريض إصابة الرأس.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. غلاسكو أقل من 8 هو العتبة القياسية لتنبيب مريض إصابة الرأس. حرف G يذكرك بالرقم الدقيق (8) لهذه العتبة القياسية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Steroids are regularly used: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف Steroids are NOT regularly used in head injury management (A is false, they've shown no benefit and can be harmful). الخيار C، Antibiotics are routinely used: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف antibiotics are NOT routinely used without evidence of infection (C is false). الخيار D، Pyrexia is nearly always due to severe infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف fever is not always due to infection — it can be central (D is false). الخيار E، Severe fluid restriction is necessary: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessary — adequate perfusion must be maintained (E is false) — these misstate true head injury management principles. يصبح صحيحًا في سؤال يصف severe fluid restriction.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Steroids are regularly used",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Steroids are NOT regularly used in head injury management (A is false, they've shown no benefit and can be harmful)."
+        },
+        {
+          "letter": "B",
+          "text": "Patient with Glasgow coma score less than 8 are usually intubated and ventilated",
+          "verdict": "correct",
+          "reason": "غلاسكو أقل من 8 هو العتبة القياسية لتنبيب مريض إصابة الرأس."
+        },
+        {
+          "letter": "C",
+          "text": "Antibiotics are routinely used",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف antibiotics are NOT routinely used without evidence of infection (C is false)."
+        },
+        {
+          "letter": "D",
+          "text": "Pyrexia is nearly always due to severe infection",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف fever is not always due to infection — it can be central (D is false)."
+        },
+        {
+          "letter": "E",
+          "text": "Severe fluid restriction is necessary",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessary — adequate perfusion must be maintained (E is false) — these misstate true head injury management principles.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف severe fluid restriction."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخلط بين هذه العتبة وعتبات أخرى مقاربة، وهو فخ رقمي بحت يتطلب حفظًا دقيقًا للرقم 8.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخلط بين هذه العتبة وعتبات أخرى مقاربة، وهو فخ رقمي بحت يتطلب حفظًا دقيقًا للرقم 8."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Patient with Glasgow coma score less than 8 are ",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Patient with Glasgow coma score less t"
+      },
+      "pills": [
+        "Head injury: GCS below Eight needs intubation"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Patient with Glasgow coma score less than 8 are usually intubated and ventilated. غلاسكو أقل من 8 هو العتبة القياسية لتنبيب مريض إصابة الرأس."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. غلاسكو أقل من 8 هو العتبة القياسية لتنبيب مريض إصابة الرأس. وتذكّر القاعدة: Head injury: GCS below Eight needs intubation. والإجابة الصحيحة هي B."
+    }
+  ]
+}

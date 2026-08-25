@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2015-57-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 57 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Initial treatment of choice, Hyperkalemia with arrhythmia",
+  "question_ar": "العلاج الأولي المختار للمريض الذي يعاني من فرط بوتاسيوم الدم وعدم انتظامضربات القلب هو؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 57,
+  "options": [
+    {
+      "letter": "A",
+      "text": "DC shock"
+    },
+    {
+      "letter": "B",
+      "text": "Insulin and glucose"
+    },
+    {
+      "letter": "C",
+      "text": "Calcium gluconate"
+    },
+    {
+      "letter": "D",
+      "text": "Kaexylate"
+    },
+    {
+      "letter": "E",
+      "text": "Dialysis"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Calcium gluconate",
+  "purpose_ar": "يريد التأكيد أن غلوكونات الكالسيوم هي العلاج الأول الفوري بفرط بوتاسيوم مع اضطراب نظم قلبي.",
+  "trap_ar": "الطالب قد يختار الإنسولين والغلوكوز كخطوة أولى، متناسيًا أن حماية القلب الفورية بالكالسيوم تسبق أي خفض فعلي لمستوى البوتاسيوم.",
+  "summary_ar": "غلوكونات الكالسيوم هي العلاج الأول الفوري لحماية القلب بفرط بوتاسيوم مع اضطراب نظم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Initial treatment of choice, Hyperkalemia with arrhythmia",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Calcium gluconate"
+      },
+      "narration": "لنبدأ بهذا السؤال. العلاج الأولي المختار للمريض الذي يعاني من فرط بوتاسيوم الدم وعدم انتظامضربات القلب هو؟ أمامك هذه الخيارات: DC shock، أو Insulin and glucose، أو Calcium gluconate، أو Kaexylate، أو Dialysis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن غلوكونات الكالسيوم هي العلاج الأول الفوري بفرط بوتاسيوم مع اضطراب نظم قلبي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن غلوكونات الكالسيوم هي العلاج الأول الفوري بفرط بوتاسيوم مع اضطراب نظم قلبي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Calcium gluconate",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Calcium gluconate"
+      },
+      "card_text": "غلوكونات الكالسيوم هي العلاج الأول الفوري لحماية القلب بفرط بوتاسيوم مع اضطراب نظم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. غلوكونات الكالسيوم هي العلاج الأول الفوري لحماية القلب بفرط بوتاسيوم مع اضطراب نظم. حرف C المزدوج يذكرك بأولوية حماية القلب فورًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، DC shock: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the specific hyperkalemia-driven mechanism. يصبح صحيحًا في سؤال يصف DC shock is for arrhythmia in general. الخيار B، Insulin and glucose: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium gluconate. يصبح صحيحًا في سؤال يصف insulin and glucose, Kayexalate, and dialysis are all used later in the treatment sequence to actually lower potassium — calcium gluconate is always the first step to stabilize the cardiac membrane when arrhythmia is present. الخيار D، Kaexylate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium gluconate. يصبح صحيحًا في سؤال يصف insulin and glucose, Kayexalate, and dialysis are all used later in the treatment sequence to actually lower potassium — calcium gluconate is always the first step to stabilize the cardiac membrane when arrhythmia is present. الخيار E، Dialysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium gluconate. يصبح صحيحًا في سؤال يصف insulin and glucose, Kayexalate, and dialysis are all used later in the treatment sequence to actually lower potassium — calcium gluconate is always the first step to stabilize the cardiac membrane when arrhythmia is present.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "DC shock",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the specific hyperkalemia-driven mechanism.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف DC shock is for arrhythmia in general."
+        },
+        {
+          "letter": "B",
+          "text": "Insulin and glucose",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium gluconate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف insulin and glucose, Kayexalate, and dialysis are all used later in the treatment sequence to actually lower potassium — calcium gluconate is…"
+        },
+        {
+          "letter": "C",
+          "text": "Calcium gluconate",
+          "verdict": "correct",
+          "reason": "غلوكونات الكالسيوم هي العلاج الأول الفوري لحماية القلب بفرط بوتاسيوم مع اضطراب نظم."
+        },
+        {
+          "letter": "D",
+          "text": "Kaexylate",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium gluconate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف insulin and glucose, Kayexalate, and dialysis are all used later in the treatment sequence to actually lower potassium — calcium gluconate is…"
+        },
+        {
+          "letter": "E",
+          "text": "Dialysis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium gluconate.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف insulin and glucose, Kayexalate, and dialysis are all used later in the treatment sequence to actually lower potassium — calcium gluconate is…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الإنسولين والغلوكوز كخطوة أولى، متناسيًا أن حماية القلب الفورية بالكالسيوم تسبق أي خفض فعلي لمستوى البوتاسيوم.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الإنسولين والغلوكوز كخطوة أولى، متناسيًا أن حماية القلب الفورية بالكالسيوم تسبق أي خفض فعلي لمستوى البوتاسيوم."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Calcium gluconate",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Calcium gluconate"
+      },
+      "pills": [
+        "Hyperkalemia + arrhythmia: Calcium gluconate f"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Calcium gluconate. غلوكونات الكالسيوم هي العلاج الأول الفوري لحماية القلب بفرط بوتاسيوم مع اضطراب نظم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. غلوكونات الكالسيوم هي العلاج الأول الفوري لحماية القلب بفرط بوتاسيوم مع اضطراب نظم. وتذكّر القاعدة: Hyperkalemia + arrhythmia: Calcium gluconate first. والإجابة الصحيحة هي C."
+    }
+  ]
+}

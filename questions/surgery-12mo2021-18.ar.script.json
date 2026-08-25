@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2021-18-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2021 Course, Question 18 of 18",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Class II hemorrhage in an average adult — NOT compatible with",
+  "question_ar": "لدى بالغ متوسط، جميع ما يلي متوافق مع نزيف من الدرجة الثانية ما عدا:",
+  "course_label": "Course: Surgery — 12th Month 2021 Course",
+  "question_number": 18,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Blood loss of 1000 cc"
+    },
+    {
+      "letter": "B",
+      "text": "Heart rate 130 per minute"
+    },
+    {
+      "letter": "C",
+      "text": "Postural hypotension"
+    },
+    {
+      "letter": "D",
+      "text": "Anxiety"
+    },
+    {
+      "letter": "E",
+      "text": "Decreased central venous pressure"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Heart rate 130 per minute",
+  "purpose_ar": "حفظ نطاقات معدل ضربات القلب الدقيقة لكل درجة من درجات الصدمة النزفية حسب ATLS ، ومعرفة أن 130/دقيقة يتجاوز نطاق الدرجة الثانية النموذجي.",
+  "trap_ar": "قد يظن الطالب أن أي تسرع قلب \"ملحوظ\" يتوافق مع الدرجة الثانية بشكل عام، متجاهلاً النطاقات الرقمية الدقيقة التي تفرّق بين الدرجات المختلفة.",
+  "summary_ar": "معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Class II hemorrhage in an average adult — NOT compatible wit",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Heart rate 130 per minute"
+      },
+      "narration": "لنبدأ بهذا السؤال. لدى بالغ متوسط، جميع ما يلي متوافق مع نزيف من الدرجة الثانية ما عدا: أمامك هذه الخيارات: Blood loss of 1000 cc، أو Heart rate 130 per minute، أو Postural hypotension، أو Anxiety، أو Decreased central venous pressure. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ نطاقات معدل ضربات القلب الدقيقة لكل درجة من درجات الصدمة النزفية حسب ATLS ، ومعرفة أن 130/دقيقة يتجاوز نطاق الدرجة الثانية النموذجي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ نطاقات معدل ضربات القلب الدقيقة لكل درجة من درجات الصدمة النزفية حسب ATLS ، ومعرفة أن 130/دقيقة يتجاوز نطاق الدرجة الثانية النموذجي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Heart rate 130 per minute",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Heart rate 130 per minute"
+      },
+      "card_text": "معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة. تصنيف ATLS لمعدل ضربات القلب: الدرجة الأولى (طبيعي تقريبًا)، الدرجة الثانية (100-120)، الدرجة الثالثة (120-140)، الدرجة الرابعة (>140) — معدل 130 يقترب أكثر من الدرجة الثالثة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Blood loss of 1000 cc: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute. يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage. الخيار C، Postural hypotension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute. يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage. الخيار D، Anxiety: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute. يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage. الخيار E، Decreased central venous pressure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute. يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Blood loss of 1000 cc",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage."
+        },
+        {
+          "letter": "B",
+          "text": "Heart rate 130 per minute",
+          "verdict": "correct",
+          "reason": "معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة."
+        },
+        {
+          "letter": "C",
+          "text": "Postural hypotension",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage."
+        },
+        {
+          "letter": "D",
+          "text": "Anxiety",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage."
+        },
+        {
+          "letter": "E",
+          "text": "Decreased central venous pressure",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Heart rate 130 per minute.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with class II hemorrhage."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن أي تسرع قلب \"ملحوظ\" يتوافق مع الدرجة الثانية بشكل عام، متجاهلاً النطاقات الرقمية الدقيقة التي تفرّق بين الدرجات المختلفة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن أي تسرع قلب \"ملحوظ\" يتوافق مع الدرجة الثانية بشكل عام، متجاهلاً النطاقات الرقمية الدقيقة التي تفرّق بين الدرجات المختلفة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Heart rate 130 per minute",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Heart rate 130 per minute"
+      },
+      "pills": [
+        "\"Class II heart rate ≈ 100-120, Class III is c"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Heart rate 130 per minute. معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة. وتذكّر القاعدة: \"Class II heart rate ≈ 100-120, Class III is closer to 120-140\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

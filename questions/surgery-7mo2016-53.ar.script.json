@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-53-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 53 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "HNPCC family history, recommended screening in women",
+  "question_ar": "في المرضى الإناث الذين لديهم تاريخ عائلي للإصابة بسرطان القولونوالمستقيم غير السرطاني، أي مما يلي يوصى به بدءًا من سن 25 عامًابالإضافة إلى فحص تنظير القولون؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 53,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Annual mammography"
+    },
+    {
+      "letter": "B",
+      "text": "Annual CT abdomen"
+    },
+    {
+      "letter": "C",
+      "text": "Annual endometrial biopsy"
+    },
+    {
+      "letter": "D",
+      "text": "Annual ovarian ultrasound"
+    },
+    {
+      "letter": "E",
+      "text": "Annual brain CT"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Annual endometrial biopsy",
+  "purpose_ar": "يريد التأكيد أن خزعة بطانة الرحم السنوية موصى بها للنساء ذوات التاريخ العائلي لـ HNPCC (خطر بطانة رحم مرتفع أيضًا).",
+  "trap_ar": "الطالب قد يظن التنظير القولوني وحده كافيًا للمتابعة، متناسيًا أن HNPCC يرفع خطر سرطان بطانة الرحم أيضًا لا القولون فقط.",
+  "summary_ar": "خزعة بطانة الرحم السنوية موصى بها للنساء بتاريخ عائلي HNPCC لخطر بطانة الرحم المرتفع.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "HNPCC family history, recommended screening in women",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Annual endometrial biopsy"
+      },
+      "narration": "لنبدأ بهذا السؤال. في المرضى الإناث الذين لديهم تاريخ عائلي للإصابة بسرطان القولونوالمستقيم غير السرطاني، أي مما يلي يوصى به بدءًا من سن 25 عامًابالإضافة إلى فحص تنظير القولون؟ أمامك هذه الخيارات: Annual mammography، أو Annual CT abdomen، أو Annual endometrial biopsy، أو Annual ovarian ultrasound، أو Annual brain CT. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن خزعة بطانة الرحم السنوية موصى بها للنساء ذوات التاريخ العائلي لـ HNPCC (خطر بطانة رحم مرتفع أيضًا).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن خزعة بطانة الرحم السنوية موصى بها للنساء ذوات التاريخ العائلي لـ HNPCC (خطر بطانة رحم مرتفع أيضًا)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Annual endometrial biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Annual endometrial biopsy"
+      },
+      "card_text": "خزعة بطانة الرحم السنوية موصى بها للنساء بتاريخ عائلي HNPCC لخطر بطانة الرحم المرتفع.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. خزعة بطانة الرحم السنوية موصى بها للنساء بتاريخ عائلي HNPCC لخطر بطانة الرحم المرتفع. حرف E يذكرك بخطر بطانة الرحم الإضافي المرتبط بهذه المتلازمة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Annual mammography: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard specific HNPCC screening recommendation for women — annual endometrial biopsy is specifically recommended given the significantly increased endometrial cancer risk in Lynch syndrome. يصبح صحيحًا في سؤال يصف Annual mammography, CT abdomen, ovarian ultrasound, and brain CT. الخيار B، Annual CT abdomen: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard specific HNPCC screening recommendation for women — annual endometrial biopsy is specifically recommended given the significantly increased endometrial cancer risk in Lynch syndrome. يصبح صحيحًا في سؤال يصف Annual mammography, CT abdomen, ovarian ultrasound, and brain CT. الخيار D، Annual ovarian ultrasound: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard specific HNPCC screening recommendation for women — annual endometrial biopsy is specifically recommended given the significantly increased endometrial cancer risk in Lynch syndrome. يصبح صحيحًا في سؤال يصف Annual mammography, CT abdomen, ovarian ultrasound, and brain CT. الخيار E، Annual brain CT: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard specific HNPCC screening recommendation for women — annual endometrial biopsy is specifically recommended given the significantly increased endometrial cancer risk in Lynch syndrome. يصبح صحيحًا في سؤال يصف Annual mammography, CT abdomen, ovarian ultrasound, and brain CT.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Annual mammography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard specific HNPCC screening recommendation for women — annual endometrial biopsy is specifically recommended given…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Annual mammography, CT abdomen, ovarian ultrasound, and brain CT."
+        },
+        {
+          "letter": "B",
+          "text": "Annual CT abdomen",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard specific HNPCC screening recommendation for women — annual endometrial biopsy is specifically recommended given…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Annual mammography, CT abdomen, ovarian ultrasound, and brain CT."
+        },
+        {
+          "letter": "C",
+          "text": "Annual endometrial biopsy",
+          "verdict": "correct",
+          "reason": "خزعة بطانة الرحم السنوية موصى بها للنساء بتاريخ عائلي HNPCC لخطر بطانة الرحم المرتفع."
+        },
+        {
+          "letter": "D",
+          "text": "Annual ovarian ultrasound",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard specific HNPCC screening recommendation for women — annual endometrial biopsy is specifically recommended given…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Annual mammography, CT abdomen, ovarian ultrasound, and brain CT."
+        },
+        {
+          "letter": "E",
+          "text": "Annual brain CT",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard specific HNPCC screening recommendation for women — annual endometrial biopsy is specifically recommended given…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Annual mammography, CT abdomen, ovarian ultrasound, and brain CT."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن التنظير القولوني وحده كافيًا للمتابعة، متناسيًا أن HNPCC يرفع خطر سرطان بطانة الرحم أيضًا لا القولون فقط.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن التنظير القولوني وحده كافيًا للمتابعة، متناسيًا أن HNPCC يرفع خطر سرطان بطانة الرحم أيضًا لا القولون فقط."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Annual endometrial biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Annual endometrial biopsy"
+      },
+      "pills": [
+        "HNPCC in women: Endometrial biopsy annually to"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Annual endometrial biopsy. خزعة بطانة الرحم السنوية موصى بها للنساء بتاريخ عائلي HNPCC لخطر بطانة الرحم المرتفع."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. خزعة بطانة الرحم السنوية موصى بها للنساء بتاريخ عائلي HNPCC لخطر بطانة الرحم المرتفع. وتذكّر القاعدة: HNPCC in women: Endometrial biopsy annually too. والإجابة الصحيحة هي C."
+    }
+  ]
+}

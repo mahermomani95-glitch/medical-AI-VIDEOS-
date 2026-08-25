@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-69-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 69 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Laparoscopic Cholecystectomy indications, EXCEPT",
+  "question_ar": "يُعد استئصال المرارة بالمنظار الجراحي مناسبًا لجميع الحالات التاليةباستثناء:؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 69,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Biliary dyskinesia"
+    },
+    {
+      "letter": "B",
+      "text": "Initial treatment in patients with severe Cholangitis"
+    },
+    {
+      "letter": "C",
+      "text": "Acute Cholecystitis"
+    },
+    {
+      "letter": "D",
+      "text": "Symptomatic cholelithiasis"
+    },
+    {
+      "letter": "E",
+      "text": "Biliary pancreatitis"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Initial treatment in patients with severe Cholangitis",
+  "purpose_ar": "يريد التأكيد أن التهاب الطرق الصفراوية الشديد يحتاج تصريفًا عاجلاً أولاً (ERCP)، لا استئصال المرارة المنظاري كعلاج أولي.",
+  "trap_ar": "الطالب قد يقبل الاستئصال كعلاج أولي مناسب، متناسيًا أن التهاب الصفراء الشديد يحتاج تصريفًا إسعافيًا يسبق أي جراحة استئصالية.",
+  "summary_ar": "التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Laparoscopic Cholecystectomy indications, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Initial treatment in patients with sev"
+      },
+      "narration": "لنبدأ بهذا السؤال. يُعد استئصال المرارة بالمنظار الجراحي مناسبًا لجميع الحالات التاليةباستثناء:؟ أمامك هذه الخيارات: Biliary dyskinesia، أو Initial treatment in patients with severe Cholangitis، أو Acute Cholecystitis، أو Symptomatic cholelithiasis، أو Biliary pancreatitis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن التهاب الطرق الصفراوية الشديد يحتاج تصريفًا عاجلاً أولاً (ERCP)، لا استئصال المرارة المنظاري كعلاج أولي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن التهاب الطرق الصفراوية الشديد يحتاج تصريفًا عاجلاً أولاً (ERCP)، لا استئصال المرارة المنظاري كعلاج أولي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Initial treatment in patients with sev",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Initial treatment in patients with sev"
+      },
+      "card_text": "التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا. حرف C المزدوج يذكرك أن التصريف يسبق الاستئصال بهذه الحالة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Biliary dyskinesia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment. يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate indications for laparoscopic cholecystectomy, unlike severe cholangitis, which needs biliary drainage (ERCP) first. الخيار C، Acute Cholecystitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment. يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate indications for laparoscopic cholecystectomy, unlike severe cholangitis, which needs biliary drainage (ERCP) first. الخيار D، Symptomatic cholelithiasis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment. يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate indications for laparoscopic cholecystectomy, unlike severe cholangitis, which needs biliary drainage (ERCP) first. الخيار E، Biliary pancreatitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment. يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate indications for laparoscopic cholecystectomy, unlike severe cholangitis, which needs biliary drainage (ERCP) first.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Biliary dyskinesia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate…"
+        },
+        {
+          "letter": "B",
+          "text": "Initial treatment in patients with severe Cholangitis",
+          "verdict": "correct",
+          "reason": "التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا."
+        },
+        {
+          "letter": "C",
+          "text": "Acute Cholecystitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate…"
+        },
+        {
+          "letter": "D",
+          "text": "Symptomatic cholelithiasis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate…"
+        },
+        {
+          "letter": "E",
+          "text": "Biliary pancreatitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surgery as initial treatment.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis (E, after resolution) are all appropriate…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل الاستئصال كعلاج أولي مناسب، متناسيًا أن التهاب الصفراء الشديد يحتاج تصريفًا إسعافيًا يسبق أي جراحة استئصالية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل الاستئصال كعلاج أولي مناسب، متناسيًا أن التهاب الصفراء الشديد يحتاج تصريفًا إسعافيًا يسبق أي جراحة استئصالية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Initial treatment in patients with severe Cholan",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Initial treatment in patients with sev"
+      },
+      "pills": [
+        "Severe cholangitis: Calls for drainage before "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Initial treatment in patients with severe Cholangitis. التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا. وتذكّر القاعدة: Severe cholangitis: Calls for drainage before Cholecystectomy. والإجابة الصحيحة هي B."
+    }
+  ]
+}

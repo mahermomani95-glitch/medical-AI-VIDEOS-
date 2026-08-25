@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-04-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 4 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Ranson criteria components, EXCEPT",
+  "question_ar": "كل ما يلي هو جزء من معايير رانسون التشخيصية باستثناء؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 4,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Age"
+    },
+    {
+      "letter": "B",
+      "text": "Blood sugar"
+    },
+    {
+      "letter": "C",
+      "text": "Serum amylase"
+    },
+    {
+      "letter": "D",
+      "text": "White cell count"
+    },
+    {
+      "letter": "E",
+      "text": "LDH"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Serum amylase",
+  "purpose_ar": "يريد التأكيد أن الأميلاز المصلي (رغم كونه فحص التشخيص الأساسي) ليس جزءًا من معايير رانسون التنبؤية بشدة التهاب البنكرياس.",
+  "trap_ar": "الطالب قد يظن الأميلاز جزءًا من كل تقييم لالتهاب البنكرياس بما فيه معايير رانسون، متناسيًا أن هذه المعايير تعتمد قيمًا مخبرية أخرى محددة لا الأميلاز.",
+  "summary_ar": "الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Ranson criteria components, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Serum amylase"
+      },
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو جزء من معايير رانسون التشخيصية باستثناء؟ أمامك هذه الخيارات: Age، أو Blood sugar، أو Serum amylase، أو White cell count، أو LDH. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الأميلاز المصلي (رغم كونه فحص التشخيص الأساسي) ليس جزءًا من معايير رانسون التنبؤية بشدة التهاب البنكرياس.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الأميلاز المصلي (رغم كونه فحص التشخيص الأساسي) ليس جزءًا من معايير رانسون التنبؤية بشدة التهاب البنكرياس."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Serum amylase",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Serum amylase"
+      },
+      "card_text": "الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة. حرف R و A يذكرانك أن هذا الفحص خارج معايير رانسون تحديدًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Age: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system. يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation. الخيار B، Blood sugar: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system. يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation. الخيار D، White cell count: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system. يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation. الخيار E، LDH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system. يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Age",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation."
+        },
+        {
+          "letter": "B",
+          "text": "Blood sugar",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation."
+        },
+        {
+          "letter": "C",
+          "text": "Serum amylase",
+          "verdict": "correct",
+          "reason": "الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة."
+        },
+        {
+          "letter": "D",
+          "text": "White cell count",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation."
+        },
+        {
+          "letter": "E",
+          "text": "LDH",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا correlate with severity and isn't part of the scoring system.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum amylase, whose degree of elevation."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن الأميلاز جزءًا من كل تقييم لالتهاب البنكرياس بما فيه معايير رانسون، متناسيًا أن هذه المعايير تعتمد قيمًا مخبرية أخرى محددة لا الأميلاز.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن الأميلاز جزءًا من كل تقييم لالتهاب البنكرياس بما فيه معايير رانسون، متناسيًا أن هذه المعايير تعتمد قيمًا مخبرية أخرى محددة لا الأميلاز."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Serum amylase",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Serum amylase"
+      },
+      "pills": [
+        "Ranson criteria: doesn't include Amylase"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Serum amylase. الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة. وتذكّر القاعدة: Ranson criteria: doesn't include Amylase. والإجابة الصحيحة هي C."
+    }
+  ]
+}

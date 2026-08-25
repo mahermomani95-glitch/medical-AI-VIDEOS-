@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2018-45-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2018 Course, Question 45 of 53",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "H. pylori-associated conditions — EXCEPT",
+  "question_ar": "قد تسبب بكتيريا هيليكوباكتر بيلوري الحالات التالية في المعدة والاثني عشرباستثناء:",
+  "course_label": "Course: Surgery — 7th Month 2018 Course",
+  "question_number": 45,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Gastric ulcer"
+    },
+    {
+      "letter": "B",
+      "text": "Duodenal ulcer"
+    },
+    {
+      "letter": "C",
+      "text": "Gastric lymphoma"
+    },
+    {
+      "letter": "D",
+      "text": "Gastrointestinal stromal in the stomach"
+    },
+    {
+      "letter": "E",
+      "text": "Gastric adenocarcinoma"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Gastrointestinal stromal in the stomach",
+  "purpose_ar": "حفظ الأمراض المرتبطة فعليًا بـ H. pylori (قرحة معدية واثني عشرية، ليمفوما المالت، سرطان غدي معدي) واستبعاد الورم اللحمي المعدي المعوي (GIST) الذي له أصل خلوي مختلف تمامًا لا علاقة له بالجرثومة.",
+  "trap_ar": "قد يظن الطالب أن أي ورم أو آفة معدية ترتبط بـ H. pylori لأنها الجرثومة \"الشهيرة\" المرتبطة بالمعدة عمومًا، متجاهلاً أن GIST له آلية نشوء مختلفة تمامًا (خلايا كاخال) لا علاقة لها بالالتهاب الجرثومي.",
+  "summary_ar": "الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "H. pylori-associated conditions — EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastrointestinal stromal in the stomac"
+      },
+      "narration": "لنبدأ بهذا السؤال. قد تسبب بكتيريا هيليكوباكتر بيلوري الحالات التالية في المعدة والاثني عشرباستثناء: أمامك هذه الخيارات: Gastric ulcer، أو Duodenal ulcer، أو Gastric lymphoma، أو Gastrointestinal stromal in the stomach، أو Gastric adenocarcinoma. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ الأمراض المرتبطة فعليًا بـ H. pylori (قرحة معدية واثني عشرية، ليمفوما المالت، سرطان غدي معدي) واستبعاد الورم اللحمي المعدي المعوي (GIST) الذي له أصل خلوي مختلف تمامًا لا علاقة له بالجرثومة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ الأمراض المرتبطة فعليًا بـ H. pylori (قرحة معدية واثني عشرية، ليمفوما المالت، سرطان غدي معدي) واستبعاد الورم اللحمي المعدي المعوي (GIST) الذي له أصل خلوي مختلف تمامًا لا علاقة له بالجرثومة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Gastrointestinal stromal in the stomac",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastrointestinal stromal in the stomac"
+      },
+      "card_text": "الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori. GIST ينشأ من خلايا كاخال (منظم حركة الأمعاء) وليس من التهاب المخاطية الذي تسببه H. pylori — أصل خلوي مختلف تمامًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Gastric ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach. يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection. الخيار B، Duodenal ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach. يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection. الخيار C، Gastric lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach. يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection. الخيار E، Gastric adenocarcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach. يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Gastric ulcer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection."
+        },
+        {
+          "letter": "B",
+          "text": "Duodenal ulcer",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection."
+        },
+        {
+          "letter": "C",
+          "text": "Gastric lymphoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection."
+        },
+        {
+          "letter": "D",
+          "text": "Gastrointestinal stromal in the stomach",
+          "verdict": "correct",
+          "reason": "الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori."
+        },
+        {
+          "letter": "E",
+          "text": "Gastric adenocarcinoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastrointestinal stromal in the stomach.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven to be associated with chronic H. pylori infection."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن أي ورم أو آفة معدية ترتبط بـ H. pylori لأنها الجرثومة \"الشهيرة\" المرتبطة بالمعدة عمومًا، متجاهلاً أن GIST له آلية نشوء مختلفة تمامًا (خلايا كاخال) لا علاقة لها بالالتهاب الجرثومي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن أي ورم أو آفة معدية ترتبط بـ H. pylori لأنها الجرثومة \"الشهيرة\" المرتبطة بالمعدة عمومًا، متجاهلاً أن GIST له آلية نشوء مختلفة تمامًا (خلايا كاخال) لا علاقة لها بالالتهاب الجرثومي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Gastrointestinal stromal in the stomach",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Gastrointestinal stromal in the stomac"
+      },
+      "pills": [
+        "\"GIST ≠ H. pylori\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Gastrointestinal stromal in the stomach. الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori. وتذكّر القاعدة: \"GIST ≠ H. pylori\". والإجابة الصحيحة هي D."
+    }
+  ]
+}

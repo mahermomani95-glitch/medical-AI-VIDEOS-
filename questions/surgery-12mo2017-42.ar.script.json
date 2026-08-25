@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2017-42-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2017 Course, Question 42 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Breast cancer, EXCEPT",
+  "question_ar": "فيما يتعلق بسرطان الثدي، كل ما يلي صحيح باستثناء؟ (سؤال مكرر، راجع السؤال رقم 537)",
+  "course_label": "Course: Surgery — 12th Month 2017 Course",
+  "question_number": 42,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Tumor speed to the skin means T4 on TNM classification"
+    },
+    {
+      "letter": "B",
+      "text": "Eczema around the nipple should always be investigated"
+    },
+    {
+      "letter": "C",
+      "text": "True cut biopsy is more accurate than fine-needle aspiration"
+    },
+    {
+      "letter": "D",
+      "text": "Bloody nipple discharge is always due to cancer"
+    },
+    {
+      "letter": "E",
+      "text": "Metastasis usually involve lung, liver and / or bone"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Bloody nipple discharge is always due to cancer",
+  "purpose_ar": "يريد التأكيد أن الإفراز الدموي من الحلمة ليس دومًا بسبب السرطان (الورم الحليمي الحميد هو الأشيع فعليًا)، لا حصريًا كما بالعبارة الخاطئة.",
+  "trap_ar": "الطالب قد يقبل الارتباط الحصري بالسرطان كصحيح، متناسيًا أن الورم الحليمي الحميد هو السبب الأشيع فعليًا لهذا العرض لا السرطان دومًا.",
+  "summary_ar": "الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Breast cancer, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Bloody nipple discharge is always due "
+      },
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بسرطان الثدي، كل ما يلي صحيح باستثناء؟ (سؤال مكرر، راجع السؤال رقم 537) أمامك هذه الخيارات: Tumor speed to the skin means T4 on TNM classification، أو Eczema around the nipple should always be investigated، أو True cut biopsy is more accurate than fine-needle aspiration، أو Bloody nipple discharge is always due to cancer، أو Metastasis usually involve lung, liver and / or bone. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الإفراز الدموي من الحلمة ليس دومًا بسبب السرطان (الورم الحليمي الحميد هو الأشيع فعليًا)، لا حصريًا كما بالعبارة الخاطئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الإفراز الدموي من الحلمة ليس دومًا بسبب السرطان (الورم الحليمي الحميد هو الأشيع فعليًا)، لا حصريًا كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Bloody nipple discharge is always due ",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Bloody nipple discharge is always due "
+      },
+      "card_text": "الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا. حرف I المزدوج يذكرك بالسبب الحميد الأشيع فعليًا لهذا العرض."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tumor speed to the skin means T4 on TNM classification: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement. يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema, Trucut biopsy's greater accuracy than FNA, and common metastatic sites are true statements — however, bloody nipple discharge. الخيار B، Eczema around the nipple should always be investigated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement. يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema, Trucut biopsy's greater accuracy than FNA, and common metastatic sites are true statements — however, bloody nipple discharge. الخيار C، True cut biopsy is more accurate than fine-needle aspiration: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement. يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema, Trucut biopsy's greater accuracy than FNA, and common metastatic sites are true statements — however, bloody nipple discharge. الخيار E، Metastasis usually involve lung, liver and / or bone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement. يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema, Trucut biopsy's greater accuracy than FNA, and common metastatic sites are true statements — however, bloody nipple discharge.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Tumor speed to the skin means T4 on TNM classification",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema, Trucut biopsy's greater accuracy than FNA, and common metastatic…"
+        },
+        {
+          "letter": "B",
+          "text": "Eczema around the nipple should always be investigated",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema, Trucut biopsy's greater accuracy than FNA, and common metastatic…"
+        },
+        {
+          "letter": "C",
+          "text": "True cut biopsy is more accurate than fine-needle aspiration",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema, Trucut biopsy's greater accuracy than FNA, and common metastatic…"
+        },
+        {
+          "letter": "D",
+          "text": "Bloody nipple discharge is always due to cancer",
+          "verdict": "correct",
+          "reason": "الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا."
+        },
+        {
+          "letter": "E",
+          "text": "Metastasis usually involve lung, liver and / or bone",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always due to cancer (benign causes like intraductal papilloma are actually more common), making D the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Skin involvement corresponding to T4, the need to investigate nipple eczema, Trucut biopsy's greater accuracy than FNA, and common metastatic…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل الارتباط الحصري بالسرطان كصحيح، متناسيًا أن الورم الحليمي الحميد هو السبب الأشيع فعليًا لهذا العرض لا السرطان دومًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل الارتباط الحصري بالسرطان كصحيح، متناسيًا أن الورم الحليمي الحميد هو السبب الأشيع فعليًا لهذا العرض لا السرطان دومًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Bloody nipple discharge is always due to cancer",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Bloody nipple discharge is always due "
+      },
+      "pills": [
+        "Bloody discharge: Isn't always cancer"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Bloody nipple discharge is always due to cancer. الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا. وتذكّر القاعدة: Bloody discharge: Isn't always cancer. والإجابة الصحيحة هي D."
+    }
+  ]
+}

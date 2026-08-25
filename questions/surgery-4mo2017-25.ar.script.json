@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2017-25-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 25 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "34yo, RTA, severe SOB (implied tension pneumothorax), management",
+  "question_ar": "مريض يبلغ من العمر 34 عامًا، حضر بعد دخوله العناية المركزة، يعاني منضيق شديد في التنفس. ضغط الدم 90/58 ملم زئبق، والنبض 124/دقيقة،والتنفس 30/دقيقة. يعاني المريض من ضائقة تنفسية شديدة. كشف الفحصعن انحراف في القصبة الهوائية إلى الجانب الأيسر، وغياب أصوات التنفسفي الجانب الأيمن من الصدر، وتمدد أوردة الرقبة. أفضل خيار علاجي أوليلهذا المريض هو:؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 25,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Intubate the patient"
+    },
+    {
+      "letter": "B",
+      "text": "Cricothyroidotomy"
+    },
+    {
+      "letter": "C",
+      "text": "Emergency department thoracotomy"
+    },
+    {
+      "letter": "D",
+      "text": "Insert a needle thoracostomy followed by a chest tube in the right side of chest"
+    },
+    {
+      "letter": "E",
+      "text": "Pericardiocentesis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Insert a needle thoracostomy followed by a chest tube in the right side of chest",
+  "purpose_ar": "يريد التأكيد أن بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل العلاجي الصحيح لاسترواح الصدر الضاغط.",
+  "trap_ar": "الطالب قد يقفز مباشرة لإدخال أنبوب صدري فقط، متناسيًا أن بزل الإبرة الفوري يسبق أنبوب الصدر كخطوة إسعافية أسرع.",
+  "summary_ar": "بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "34yo, RTA, severe SOB (implied tension pneumothorax), manage",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Insert a needle thoracostomy followed "
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 34 عامًا، حضر بعد دخوله العناية المركزة، يعاني منضيق شديد في التنفس. ضغط الدم 90/58 ملم زئبق، والنبض 124/دقيقة،والتنفس 30/دقيقة. يعاني المريض من ضائقة تنفسية شديدة. كشف الفحصعن انحراف في القصبة الهوائية إلى الجانب الأيسر، وغياب أصوات التنفسفي الجانب الأيمن من الصدر، وتمدد أوردة الرقبة. أفضل خيار علاجي أوليلهذا المريض هو:؟ أمامك هذه الخيارات: Intubate the patient، أو Cricothyroidotomy، أو Emergency department thoracotomy، أو Insert a needle thoracostomy followed by a chest tube in the right side of chest، أو Pericardiocentesis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل العلاجي الصحيح لاسترواح الصدر الضاغط.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل العلاجي الصحيح لاسترواح الصدر الضاغط."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Insert a needle thoracostomy followed ",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Insert a needle thoracostomy followed "
+      },
+      "card_text": "بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط. حرف N و T يذكرانك بالتسلسل الصحيح لهذه الحالة الإسعافية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intubate the patient: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا relieve the pleural pressure buildup. يصبح صحيحًا في سؤال يصف Intubation alone. الخيار B، Cricothyroidotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insert a needle thoracostomy followed by a chest tube in the right side of chest. يصبح صحيحًا في سؤال يصف cricothyroidotomy addresses airway obstruction, a different problem. الخيار C، Emergency department thoracotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insert a needle thoracostomy followed by a chest tube in the right side of chest. يصبح صحيحًا في سؤال يصف ED thoracotomy is for cardiac arrest from trauma. الخيار E، Pericardiocentesis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pneumothorax — needle decompression followed by chest tube placement is the correct management for tension pneumothorax. يصبح صحيحًا في سؤال يصف pericardiocentesis treats tamponade.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Intubate the patient",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا relieve the pleural pressure buildup.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Intubation alone."
+        },
+        {
+          "letter": "B",
+          "text": "Cricothyroidotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insert a needle thoracostomy followed by a chest tube in the right side of chest.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف cricothyroidotomy addresses airway obstruction, a different problem."
+        },
+        {
+          "letter": "C",
+          "text": "Emergency department thoracotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insert a needle thoracostomy followed by a chest tube in the right side of chest.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ED thoracotomy is for cardiac arrest from trauma."
+        },
+        {
+          "letter": "D",
+          "text": "Insert a needle thoracostomy followed by a chest tube in the right side of chest",
+          "verdict": "correct",
+          "reason": "بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط."
+        },
+        {
+          "letter": "E",
+          "text": "Pericardiocentesis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pneumothorax — needle decompression followed by chest tube placement is the correct management for tension pneumothorax.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف pericardiocentesis treats tamponade."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقفز مباشرة لإدخال أنبوب صدري فقط، متناسيًا أن بزل الإبرة الفوري يسبق أنبوب الصدر كخطوة إسعافية أسرع.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقفز مباشرة لإدخال أنبوب صدري فقط، متناسيًا أن بزل الإبرة الفوري يسبق أنبوب الصدر كخطوة إسعافية أسرع."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Insert a needle thoracostomy followed by a chest",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Insert a needle thoracostomy followed "
+      },
+      "pills": [
+        "Tension pneumothorax: Needle first, then chest"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Insert a needle thoracostomy followed by a chest tube in the right side of chest. بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط. وتذكّر القاعدة: Tension pneumothorax: Needle first, then chest Tube. والإجابة الصحيحة هي D."
+    }
+  ]
+}

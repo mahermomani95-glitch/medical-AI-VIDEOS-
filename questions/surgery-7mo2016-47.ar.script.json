@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-47-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 47 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "65yo, persistent firm lateral neck mass, next step",
+  "question_ar": "رجل يبلغ من العمر 65 عامًا يعاني من كتلة صلبة مستمرة في الرقبة، يبلغحجمها حوالي 2.5 سم. أفضل خطوة تالية في العلاج هي:؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 47,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Positron emission tomography"
+    },
+    {
+      "letter": "B",
+      "text": "CT scan of the head and neck"
+    },
+    {
+      "letter": "C",
+      "text": "Fine needle aspiration biopsy"
+    },
+    {
+      "letter": "D",
+      "text": "Chest radiography"
+    },
+    {
+      "letter": "E",
+      "text": "Excision of the neck mass"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Fine needle aspiration biopsy",
+  "purpose_ar": "يريد التأكيد أن الخزعة بالإبرة الدقيقة هي الخطوة التالية المناسبة لكتلة عنقية جانبية صلبة مستمرة عند مسن.",
+  "trap_ar": "الطالب قد يختار استئصالاً جراحيًا مباشرًا، متناسيًا أن الخزعة الإبرية الأقل توغلاً تسبق أي جراحة استئصالية كخطوة تشخيصية أولى.",
+  "summary_ar": "الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "65yo, persistent firm lateral neck mass, next step",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Fine needle aspiration biopsy"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 65 عامًا يعاني من كتلة صلبة مستمرة في الرقبة، يبلغحجمها حوالي 2.5 سم. أفضل خطوة تالية في العلاج هي:؟ أمامك هذه الخيارات: Positron emission tomography، أو CT scan of the head and neck، أو Fine needle aspiration biopsy، أو Chest radiography، أو Excision of the neck mass. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الخزعة بالإبرة الدقيقة هي الخطوة التالية المناسبة لكتلة عنقية جانبية صلبة مستمرة عند مسن.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الخزعة بالإبرة الدقيقة هي الخطوة التالية المناسبة لكتلة عنقية جانبية صلبة مستمرة عند مسن."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Fine needle aspiration biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Fine needle aspiration biopsy"
+      },
+      "card_text": "الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة. حرف F المزدوج يذكرك بأولوية التشخيص النسيجي الأقل توغلاً."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Positron emission tomography: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step. يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but. الخيار B، CT scan of the head and neck: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step. يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but. الخيار D، Chest radiography: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step. يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but. الخيار E، Excision of the neck mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fine needle aspiration biopsy. يصبح صحيحًا في سؤال يصف excision is premature before tissue diagnosis — fine-needle aspiration biopsy is the appropriate first step for evaluating a persistent neck mass.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Positron emission tomography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but."
+        },
+        {
+          "letter": "B",
+          "text": "CT scan of the head and neck",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but."
+        },
+        {
+          "letter": "C",
+          "text": "Fine needle aspiration biopsy",
+          "verdict": "correct",
+          "reason": "الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة."
+        },
+        {
+          "letter": "D",
+          "text": "Chest radiography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but."
+        },
+        {
+          "letter": "E",
+          "text": "Excision of the neck mass",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fine needle aspiration biopsy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف excision is premature before tissue diagnosis — fine-needle aspiration biopsy is the appropriate first step for evaluating a persistent neck mass."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار استئصالاً جراحيًا مباشرًا، متناسيًا أن الخزعة الإبرية الأقل توغلاً تسبق أي جراحة استئصالية كخطوة تشخيصية أولى.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار استئصالاً جراحيًا مباشرًا، متناسيًا أن الخزعة الإبرية الأقل توغلاً تسبق أي جراحة استئصالية كخطوة تشخيصية أولى."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Fine needle aspiration biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Fine needle aspiration biopsy"
+      },
+      "pills": [
+        "Persistent neck mass: Fine needle aspiration f"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Fine needle aspiration biopsy. الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة. وتذكّر القاعدة: Persistent neck mass: Fine needle aspiration first. والإجابة الصحيحة هي C."
+    }
+  ]
+}

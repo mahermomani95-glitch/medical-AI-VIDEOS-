@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2015-56-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 56 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Highest ACE concentration",
+  "question_ar": "أعلى تركيز للإنزيم المحول للأنجيوتنسين موجود في؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 56,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Liver"
+    },
+    {
+      "letter": "B",
+      "text": "Kidney"
+    },
+    {
+      "letter": "C",
+      "text": "Lung"
+    },
+    {
+      "letter": "D",
+      "text": "Bone"
+    },
+    {
+      "letter": "E",
+      "text": "Colon"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Lung",
+  "purpose_ar": "يريد التأكيد أن الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين.",
+  "trap_ar": "الطالب قد يختار الكلية لارتباطها بمحور الرينين أنجيوتنسين، متناسيًا أن الرئة تحديدًا هي الموقع التشريحي الأعلى تركيزًا لهذا الإنزيم.",
+  "summary_ar": "الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Highest ACE concentration",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Lung"
+      },
+      "narration": "لنبدأ بهذا السؤال. أعلى تركيز للإنزيم المحول للأنجيوتنسين موجود في؟ أمامك هذه الخيارات: Liver، أو Kidney، أو Lung، أو Bone، أو Colon. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Lung",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Lung"
+      },
+      "card_text": "الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين. حرف L المزدوج يربط الرئة بموقعها كالأعلى تركيزًا لهذا الإنزيم."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Liver: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung. يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its role in converting angiotensin I to angiotensin II during pulmonary circulation. الخيار B، Kidney: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung. يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its role in converting angiotensin I to angiotensin II during pulmonary circulation. الخيار D، Bone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung. يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its role in converting angiotensin I to angiotensin II during pulmonary circulation. الخيار E، Colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung. يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its role in converting angiotensin I to angiotensin II during pulmonary circulation.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Liver",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its…"
+        },
+        {
+          "letter": "B",
+          "text": "Kidney",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its…"
+        },
+        {
+          "letter": "C",
+          "text": "Lung",
+          "verdict": "correct",
+          "reason": "الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين."
+        },
+        {
+          "letter": "D",
+          "text": "Bone",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its…"
+        },
+        {
+          "letter": "E",
+          "text": "Colon",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الكلية لارتباطها بمحور الرينين أنجيوتنسين، متناسيًا أن الرئة تحديدًا هي الموقع التشريحي الأعلى تركيزًا لهذا الإنزيم.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الكلية لارتباطها بمحور الرينين أنجيوتنسين، متناسيًا أن الرئة تحديدًا هي الموقع التشريحي الأعلى تركيزًا لهذا الإنزيم."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Lung",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Lung"
+      },
+      "pills": [
+        "Highest ACE concentration: the Lung"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Lung. الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين. وتذكّر القاعدة: Highest ACE concentration: the Lung. والإجابة الصحيحة هي C."
+    }
+  ]
+}

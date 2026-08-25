@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2020-28-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2020 Course, Question 28 of 60",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Colonoscopy should NOT be done in",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2020 Course",
+  "question_number": 28,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital"
+    },
+    {
+      "letter": "B",
+      "text": "Follow up in a patient with colon cancer after resection"
+    },
+    {
+      "letter": "C",
+      "text": "Patient with suspected colonic polyps"
+    },
+    {
+      "letter": "D",
+      "text": "Follow up in a known case of chronic ulcerative colitis"
+    },
+    {
+      "letter": "E",
+      "text": "Evaluate patients with gastrointestinal symptoms that other investigations fail to find the cause"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital",
+  "purpose_ar": "حفظ مضاد الاستطباب الأهم للتنظير القولوني — النوبة الحادة الشديدة لالتهاب القولون التقرحي، بسبب خطر الثقب مع القولون الهش الملتهب.",
+  "trap_ar": "قد يختار الطالب متابعة حالة كرون مزمنة أو سرطان قولون مستأصل (B ، D) ظنًا أنها الأكثر خطورة، متجاهلاً أن الخطر الحقيقي للثقب مرتبط بالنوبة الحادة الشديدة النشطة وليس المتابعة الروتينية للحالات المستقرة.",
+  "summary_ar": "التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Colonoscopy should NOT be done in",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute exacerbation in a patient with a"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital، أو Follow up in a patient with colon cancer after resection، أو Patient with suspected colonic polyps، أو Follow up in a known case of chronic ulcerative colitis، أو Evaluate patients with gastrointestinal symptoms that other investigations fail to find the cause. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ مضاد الاستطباب الأهم للتنظير القولوني — النوبة الحادة الشديدة لالتهاب القولون التقرحي، بسبب خطر الثقب مع القولون الهش الملتهب.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ مضاد الاستطباب الأهم للتنظير القولوني — النوبة الحادة الشديدة لالتهاب القولون التقرحي، بسبب خطر الثقب مع القولون الهش الملتهب."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Acute exacerbation in a patient with a",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute exacerbation in a patient with a"
+      },
+      "card_text": "التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد. القولون الملتهب بشدة أثناء نوبة حادة من التهاب القولون التقرحي هش جدًا وعرضة للثقب مع نفخ الهواء أثناء التنظير، لذلك يُتجنَّب التنظير الكامل في هذه المرحلة الحادة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Follow up in a patient with colon cancer after resection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are all appropriate indications for colonoscopy, unlike a severe acute ulcerative colitis flare where it's contraindicated due to perforation risk. الخيار C، Patient with suspected colonic polyps: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are all appropriate indications for colonoscopy, unlike a severe acute ulcerative colitis flare where it's contraindicated due to perforation risk. الخيار D، Follow up in a known case of chronic ulcerative colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are all appropriate indications for colonoscopy, unlike a severe acute ulcerative colitis flare where it's contraindicated due to perforation risk. الخيار E، Evaluate patients with gastrointestinal symptoms that other investigations fail to find the cause: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are all appropriate indications for colonoscopy, unlike a severe acute ulcerative colitis flare where it's contraindicated due to perforation risk.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the…",
+          "verdict": "correct",
+          "reason": "التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد."
+        },
+        {
+          "letter": "B",
+          "text": "Follow up in a patient with colon cancer after resection",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are…"
+        },
+        {
+          "letter": "C",
+          "text": "Patient with suspected colonic polyps",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are…"
+        },
+        {
+          "letter": "D",
+          "text": "Follow up in a known case of chronic ulcerative colitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are…"
+        },
+        {
+          "letter": "E",
+          "text": "Evaluate patients with gastrointestinal symptoms that other investigations fail to find…",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis follow-up, and evaluating unexplained GI symptoms are…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب متابعة حالة كرون مزمنة أو سرطان قولون مستأصل (B ، D) ظنًا أنها الأكثر خطورة، متجاهلاً أن الخطر الحقيقي للثقب مرتبط بالنوبة الحادة الشديدة النشطة وليس المتابعة الروتينية للحالات المستقرة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب متابعة حالة كرون مزمنة أو سرطان قولون مستأصل (B ، D) ظنًا أنها الأكثر خطورة، متجاهلاً أن الخطر الحقيقي للثقب مرتبط بالنوبة الحادة الشديدة النشطة وليس المتابعة الروتينية للحالات المستقرة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Acute exacerbation in a patient with a known cas",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Acute exacerbation in a patient with a"
+      },
+      "pills": [
+        "\"Acute severe UC flare = Colonoscopy contraind"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد. وتذكّر القاعدة: \"Acute severe UC flare = Colonoscopy contraindicated (perforation risk)\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2019-14-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 14 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "21M + stable + stab wound zone III neck — next step",
+  "question_ar": "حضر شاب يبلغ من العمر 21 عامًا إلى قسم الطوارئ بعد إصابته بطعنة فيالرقبة. المريض بصحة جيدة ويشكو من ألم. قدّم المريض سيرته الذاتية. درجةحرارته (36.4 درجة مئوية)، وضغط دمه 120/84 ملم زئبق، ونبضه 90/دقيقة،وتنفسه 15/دقيقة، وتشبعه بالأكسجين 98% في هواء الغرفة. أظهر الفحصالسريري جرحًا بطول 3 سم في المنطقة الثالثة من الرقبة. أصوات تنفسالمريض واضحة، وهو يحمي مجرى الهواء. لم يُلاحظ أي صرير أو صعوبة فيالتنفس. أي مما يلي هو الخطوة التالية الأنسب لعلاج هذا المريض؟",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 14,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Arteriography"
+    },
+    {
+      "letter": "B",
+      "text": "CT angiogram"
+    },
+    {
+      "letter": "C",
+      "text": "Intubation"
+    },
+    {
+      "letter": "D",
+      "text": "Observation and blood pressure monitoring"
+    },
+    {
+      "letter": "E",
+      "text": "Surgical exploration"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "CT angiogram",
+  "purpose_ar": "تطبيق النهج الحديث لإدارة إصابات الرقبة النافذة المستقرة (تصوير مقطعي وعائي أولًا لتوجيه القرار)، بدل الاستكشاف الجراحي الإلزامي الذي كان معتمدًا سابقًا.",
+  "trap_ar": "قد يختار الطالب الاستكشاف الجراحي (E) مباشرة لأن أي جرح رقبي نافذ يبدو خطيرًا بطبيعته، متجاهلاً أن المريض هنا مستقر تمامًا بدون علامات صعبة، مما يجعل التصوير الخطوة الأولى الأنسب حسب البروتوكولات الحديثة.",
+  "summary_ar": "مريض مستقر بإصابة رقبية في المنطقة الثالثة دون علامات وعائية/تنفسية واضحة يحتاج تصويرًا وعائيًا مقطعيًا — توجيه التدبير، وليس استكشافًا جراحيًا تلقائيًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "21M + stable + stab wound zone III neck — next step",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "CT angiogram"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضر شاب يبلغ من العمر 21 عامًا إلى قسم الطوارئ بعد إصابته بطعنة فيالرقبة. المريض بصحة جيدة ويشكو من ألم. قدّم المريض سيرته الذاتية. درجةحرارته (36.4 درجة مئوية)، وضغط دمه 120/84 ملم زئبق، ونبضه 90/دقيقة،وتنفسه 15/دقيقة، وتشبعه بالأكسجين 98% في هواء الغرفة. أظهر الفحصالسريري جرحًا بطول 3 سم في المنطقة الثالثة من الرقبة. أصوات تنفسالمريض واضحة، وهو يحمي مجرى الهواء. لم يُلاحظ أي صرير أو صعوبة فيالتنفس. أي مما يلي هو الخطوة التالية الأنسب لعلاج هذا المريض؟ أمامك هذه الخيارات: Arteriography، أو CT angiogram، أو Intubation، أو Observation and blood pressure monitoring، أو Surgical exploration. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق النهج الحديث لإدارة إصابات الرقبة النافذة المستقرة (تصوير مقطعي وعائي أولًا لتوجيه القرار)، بدل الاستكشاف الجراحي الإلزامي الذي كان معتمدًا سابقًا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق النهج الحديث لإدارة إصابات الرقبة النافذة المستقرة (تصوير مقطعي وعائي أولًا لتوجيه القرار)، بدل الاستكشاف الجراحي الإلزامي الذي كان معتمدًا سابقًا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "CT angiogram",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "CT angiogram"
+      },
+      "card_text": "مريض مستقر بإصابة رقبية في المنطقة الثالثة دون علامات وعائية/تنفسية واضحة يحتاج تصويرًا وعائيًا مقطعيًا — توجيه التدبير، وليس استكشافًا جراحيًا تلقائيًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. مريض مستقر بإصابة رقبية في المنطقة الثالثة دون علامات وعائية/تنفسية واضحة يحتاج تصويرًا وعائيًا مقطعيًا — توجيه التدبير، وليس استكشافًا جراحيًا تلقائيًا. عند مريض مستقر بإصابة رقبية نافذة دون علامات صعبة (نزف نشط، ورم متوسع، صدمة، فقد نبض)، يُفضَّل التصوير (CT angiogram) لتوجيه القرار العلاجي بدل الاستكشاف الجراحي الفوري."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Arteriography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT angiogram. يصبح صحيحًا في سؤال يصف Arteriography may help evaluate vascular injury but isn't the first management priority. الخيار C، Intubation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT angiogram. يصبح صحيحًا في سؤال يصف intubation addresses the airway, a separate priority. الخيار D، Observation and blood pressure monitoring: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT angiogram. يصبح صحيحًا في سؤال يصف observation and BP monitoring is insufficient for active massive bleeding. الخيار E، Surgical exploration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT angiogram. يصبح صحيحًا في سؤال يصف surgical exploration is the eventual step, but the patient needs immediate resuscitation first with blood products.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Arteriography",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT angiogram.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Arteriography may help evaluate vascular injury but isn't the first management priority."
+        },
+        {
+          "letter": "B",
+          "text": "CT angiogram",
+          "verdict": "correct",
+          "reason": "مريض مستقر بإصابة رقبية في المنطقة الثالثة دون علامات وعائية/تنفسية واضحة يحتاج تصويرًا وعائيًا مقطعيًا — توجيه التدبير، وليس استكشافًا جراحيًا تلقائيًا."
+        },
+        {
+          "letter": "C",
+          "text": "Intubation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT angiogram.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف intubation addresses the airway, a separate priority."
+        },
+        {
+          "letter": "D",
+          "text": "Observation and blood pressure monitoring",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT angiogram.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف observation and BP monitoring is insufficient for active massive bleeding."
+        },
+        {
+          "letter": "E",
+          "text": "Surgical exploration",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT angiogram.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف surgical exploration is the eventual step, but the patient needs immediate resuscitation first with blood products."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الاستكشاف الجراحي (E) مباشرة لأن أي جرح رقبي نافذ يبدو خطيرًا بطبيعته، متجاهلاً أن المريض هنا مستقر تمامًا بدون علامات صعبة، مما يجعل التصوير الخطوة الأولى الأنسب حسب البروتوكولات الحديثة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الاستكشاف الجراحي (E) مباشرة لأن أي جرح رقبي نافذ يبدو خطيرًا بطبيعته، متجاهلاً أن المريض هنا مستقر تمامًا بدون علامات صعبة، مما يجعل التصوير الخطوة الأولى الأنسب حسب البروتوكولات الحديثة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. CT angiogram",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "CT angiogram"
+      },
+      "pills": [
+        "\"Stable neck injury, no hard signs = CT angiog"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: CT angiogram. مريض مستقر بإصابة رقبية في المنطقة الثالثة دون علامات وعائية/تنفسية واضحة يحتاج تصويرًا وعائيًا مقطعيًا — توجيه التدبير، وليس استكشافًا جراحيًا تلقائيًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. مريض مستقر بإصابة رقبية في المنطقة الثالثة دون علامات وعائية/تنفسية واضحة يحتاج تصويرًا وعائيًا مقطعيًا — توجيه التدبير، وليس استكشافًا جراحيًا تلقائيًا. وتذكّر القاعدة: \"Stable neck injury, no hard signs = CT angiogram first\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

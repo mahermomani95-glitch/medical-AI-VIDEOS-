@@ -1,0 +1,149 @@
+{
+  "id": "surgery-4mo2018-32-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2018 Course, Question 32 of 42",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Extraperitoneal bladder rupture — treatment",
+  "question_ar": "رجل يبلغ من العمر 22 عامًا يعاني من كسر حاد في الحوض ويعاني من نزولدم في البول. خضع لتصوير المثانة والإحليل الراجع، ولاحظ تمزقًا في المثانةخارج الصفاق. العلاج الأنسب هو:",
+  "course_label": "Course: Surgery — 4th Month 2018 Course",
+  "question_number": 32,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Foley drainage for 7 day"
+    },
+    {
+      "letter": "B",
+      "text": "Exploratory laparotomy"
+    },
+    {
+      "letter": "C",
+      "text": "Cystectomy"
+    },
+    {
+      "letter": "D",
+      "text": "Observation"
+    },
+    {
+      "letter": "E",
+      "text": "Cystoscopy and repair"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Foley drainage for 7 day",
+  "purpose_ar": "التفريق بين تمزق المثانة داخل الصفاق (يستدعي جراحة إصلاح فورية) وخارج الصفاق (يُعالَج محافظةً بقسطرة فولي لعدة أيام في معظم الحالات).",
+  "trap_ar": "قد يختار الطالب جراحة استكشافية أو إصلاحًا فوريًا (B ، E) بشكل تلقائي لأن كلمة ‘تمزق' توحي بالحاجة لجراحة، متجاهلاً أن النوع خارج الصفاق يُعالَج غالبًا محافظةً.",
+  "summary_ar": "تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Extraperitoneal bladder rupture — treatment",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Foley drainage for 7 day"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 22 عامًا يعاني من كسر حاد في الحوض ويعاني من نزولدم في البول. خضع لتصوير المثانة والإحليل الراجع، ولاحظ تمزقًا في المثانةخارج الصفاق. العلاج الأنسب هو: أمامك هذه الخيارات: Foley drainage for 7 day، أو Exploratory laparotomy، أو Cystectomy، أو Observation، أو Cystoscopy and repair. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التفريق بين تمزق المثانة داخل الصفاق (يستدعي جراحة إصلاح فورية) وخارج الصفاق (يُعالَج محافظةً بقسطرة فولي لعدة أيام في معظم الحالات).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التفريق بين تمزق المثانة داخل الصفاق (يستدعي جراحة إصلاح فورية) وخارج الصفاق (يُعالَج محافظةً بقسطرة فولي لعدة أيام في معظم الحالات)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Foley drainage for 7 day",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Foley drainage for 7 day"
+      },
+      "card_text": "تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط. كلمة Extra في Extraperitoneal تذكّرنا أن هذا النوع يحتاج فقط ‘وقتًا إضافيًا' مع قسطرة فولي، بلا جراحة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Exploratory laparotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for extraperitoneal rupture) do not match the standard conservative Foley catheter management for this injury type. يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation alone, and cystoscopy with repair (E. الخيار C، Cystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Foley drainage for 7 day. يصبح صحيحًا في سؤال يستهدف Cystectomy تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Observation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for extraperitoneal rupture) do not match the standard conservative Foley catheter management for this injury type. يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation alone, and cystoscopy with repair (E. الخيار E، Cystoscopy and repair: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for extraperitoneal rupture) do not match the standard conservative Foley catheter management for this injury type. يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation alone, and cystoscopy with repair (E.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Foley drainage for 7 day",
+          "verdict": "correct",
+          "reason": "تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Exploratory laparotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for extraperitoneal rupture) do not match the standard conservative Foley catheter management for this…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation…"
+        },
+        {
+          "letter": "C",
+          "text": "Cystectomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Foley drainage for 7 day.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Cystectomy تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Observation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for extraperitoneal rupture) do not match the standard conservative Foley catheter management for this…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation…"
+        },
+        {
+          "letter": "E",
+          "text": "Cystoscopy and repair",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for extraperitoneal rupture) do not match the standard conservative Foley catheter management for this…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب جراحة استكشافية أو إصلاحًا فوريًا (B ، E) بشكل تلقائي لأن كلمة ‘تمزق' توحي بالحاجة لجراحة، متجاهلاً أن النوع خارج الصفاق يُعالَج غالبًا محافظةً.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب جراحة استكشافية أو إصلاحًا فوريًا (B ، E) بشكل تلقائي لأن كلمة ‘تمزق' توحي بالحاجة لجراحة، متجاهلاً أن النوع خارج الصفاق يُعالَج غالبًا محافظةً."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Foley drainage for 7 day",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Foley drainage for 7 day"
+      },
+      "pills": [
+        "\"Extra = Extra time to heal with a catheter\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Foley drainage for 7 day. تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط. وتذكّر القاعدة: \"Extra = Extra time to heal with a catheter\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

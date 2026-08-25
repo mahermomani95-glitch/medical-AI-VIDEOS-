@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2013-42-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 42 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Shock, definition",
+  "question_ar": "يتم تعريف الصدمة على أنها؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 42,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Bradycardia"
+    },
+    {
+      "letter": "B",
+      "text": "Hypothermia"
+    },
+    {
+      "letter": "C",
+      "text": "Hypoperfusion at the tissue level"
+    },
+    {
+      "letter": "D",
+      "text": "Hypotension"
+    },
+    {
+      "letter": "E",
+      "text": "Loss of consciousness"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Hypoperfusion at the tissue level",
+  "purpose_ar": "يريد حفظ التعريف الدقيق للصدمة (نقص تروية على المستوى النسيجي الخلوي).",
+  "trap_ar": "الطالب قد يختار انخفاض ضغط الدم كتعريف كافٍ، متناسيًا أن التعريف الحقيقي أعمق ويخص التروية النسيجية لا الضغط وحده.",
+  "summary_ar": "الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Shock, definition",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. يتم تعريف الصدمة على أنها؟ أمامك هذه الخيارات: Bradycardia، أو Hypothermia، أو Hypoperfusion at the tissue level، أو Hypotension، أو Loss of consciousness. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ التعريف الدقيق للصدمة (نقص تروية على المستوى النسيجي الخلوي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ التعريف الدقيق للصدمة (نقص تروية على المستوى النسيجي الخلوي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Hypoperfusion at the tissue level",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي. حرف S و P يذكرانك بجوهر تعريف الصدمة النسيجي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bradycardia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level. يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is fundamentally defined as inadequate tissue perfusion at the cellular level. الخيار B، Hypothermia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level. يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is fundamentally defined as inadequate tissue perfusion at the cellular level. الخيار D، Hypotension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level. يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is fundamentally defined as inadequate tissue perfusion at the cellular level. الخيار E، Loss of consciousness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level. يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is fundamentally defined as inadequate tissue perfusion at the cellular level.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Bradycardia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is…"
+        },
+        {
+          "letter": "B",
+          "text": "Hypothermia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is…"
+        },
+        {
+          "letter": "C",
+          "text": "Hypoperfusion at the tissue level",
+          "verdict": "correct",
+          "reason": "الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي."
+        },
+        {
+          "letter": "D",
+          "text": "Hypotension",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is…"
+        },
+        {
+          "letter": "E",
+          "text": "Loss of consciousness",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار انخفاض ضغط الدم كتعريف كافٍ، متناسيًا أن التعريف الحقيقي أعمق ويخص التروية النسيجية لا الضغط وحده.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار انخفاض ضغط الدم كتعريف كافٍ، متناسيًا أن التعريف الحقيقي أعمق ويخص التروية النسيجية لا الضغط وحده."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Hypoperfusion at the tissue level",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Shock: Shortage of tissue Perfusion"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Hypoperfusion at the tissue level. الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي. وتذكّر القاعدة: Shock: Shortage of tissue Perfusion. والإجابة الصحيحة هي C."
+    }
+  ]
+}

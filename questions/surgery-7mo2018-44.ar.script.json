@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2018-44-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2018 Course, Question 44 of 53",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Intussusception — TRUE statement",
+  "question_ar": "يُشتبه في إصابة طفل يعاني من ألم في البطن بانغلاق معوي.",
+  "course_label": "Course: Surgery — 7th Month 2018 Course",
+  "question_number": 44,
+  "options": [
+    {
+      "letter": "A",
+      "text": "The condition occurs in 3 months old in 70% of cases"
+    },
+    {
+      "letter": "B",
+      "text": "Ileocolic intussusception is most common"
+    },
+    {
+      "letter": "C",
+      "text": "Vomiting occurs early in the presentation"
+    },
+    {
+      "letter": "D",
+      "text": "Fever excludes intussusception as the diagnosis"
+    },
+    {
+      "letter": "E",
+      "text": "Plain abdominal X-Ray is diagnostic"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Ileocolic intussusception is most common",
+  "purpose_ar": "حفظ أن الانغلاف اللفائفي القولوني هو النوع الأشيع من الانغلاف المعوي عند الأطفال (حوالي 90% من الحالات)، وتصحيح مفاهيم خاطئة أخرى حول العمر النموذجي وتوقيت الأعراض.",
+  "trap_ar": "قد يختار الطالب الخيار A \"يحدث عند عمر 3 أشهر في 70% من الحالات\" لأنه رقم محدد يبدو دقيقًا وموثوقًا، متجاهلاً أن الذروة العمرية الحقيقية هي 6-18 شهرًا وليس 3 أشهر.",
+  "summary_ar": "الانغلاف اللفائفي القولوني هو النوع الكلاسيكي الأشيع — يدخل اللفائفي داخل القولون عند الصمام اللفائفي الأعوري.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Intussusception — TRUE statement",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ileocolic intussusception is most comm"
+      },
+      "narration": "لنبدأ بهذا السؤال. يُشتبه في إصابة طفل يعاني من ألم في البطن بانغلاق معوي. أمامك هذه الخيارات: The condition occurs in 3 months old in 70% of cases، أو Ileocolic intussusception is most common، أو Vomiting occurs early in the presentation، أو Fever excludes intussusception as the diagnosis، أو Plain abdominal X-Ray is diagnostic. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ أن الانغلاف اللفائفي القولوني هو النوع الأشيع من الانغلاف المعوي عند الأطفال (حوالي 90% من الحالات)، وتصحيح مفاهيم خاطئة أخرى حول العمر النموذجي وتوقيت الأعراض.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ أن الانغلاف اللفائفي القولوني هو النوع الأشيع من الانغلاف المعوي عند الأطفال (حوالي 90% من الحالات)، وتصحيح مفاهيم خاطئة أخرى حول العمر النموذجي وتوقيت الأعراض."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Ileocolic intussusception is most comm",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ileocolic intussusception is most comm"
+      },
+      "card_text": "الانغلاف اللفائفي القولوني هو النوع الكلاسيكي الأشيع — يدخل اللفائفي داخل القولون عند الصمام اللفائفي الأعوري.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الانغلاف اللفائفي القولوني هو النوع الكلاسيكي الأشيع — يدخل اللفائفي داخل القولون عند الصمام اللفائفي الأعوري. عند ذكر \"انغلاف معوي عند طفل\" بلا تفاصيل إضافية، فالنوع المقصود دائمًا هو اللفائفي القولوني (ileocolic) الأشيع بفارق كبير."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The condition occurs in 3 months old in 70% of cases: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 3 months in 70% of cases (A is false). يصبح صحيحًا في سؤال يصف Intussusception classically peaks at 6-18 months. الخيار C، Vomiting occurs early in the presentation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessarily the earliest symptom. يصبح صحيحًا في سؤال يصف vomiting is a common but. الخيار D، Fever excludes intussusception as the diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ileocolic intussusception is most common. يصبح صحيحًا في سؤال يصف fever does NOT exclude intussusception — it can still occur with complications (D is false). الخيار E، Plain abdominal X-Ray is diagnostic: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا diagnostic — ultrasound (target sign) is the diagnostic imaging of choice (E is false). يصبح صحيحًا في سؤال يصف plain X-ray is suggestive but.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "The condition occurs in 3 months old in 70% of cases",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 3 months in 70% of cases (A is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Intussusception classically peaks at 6-18 months."
+        },
+        {
+          "letter": "B",
+          "text": "Ileocolic intussusception is most common",
+          "verdict": "correct",
+          "reason": "الانغلاف اللفائفي القولوني هو النوع الكلاسيكي الأشيع — يدخل اللفائفي داخل القولون عند الصمام اللفائفي الأعوري."
+        },
+        {
+          "letter": "C",
+          "text": "Vomiting occurs early in the presentation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessarily the earliest symptom.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف vomiting is a common but."
+        },
+        {
+          "letter": "D",
+          "text": "Fever excludes intussusception as the diagnosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ileocolic intussusception is most common.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف fever does NOT exclude intussusception — it can still occur with complications (D is false)."
+        },
+        {
+          "letter": "E",
+          "text": "Plain abdominal X-Ray is diagnostic",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا diagnostic — ultrasound (target sign) is the diagnostic imaging of choice (E is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف plain X-ray is suggestive but."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الخيار A \"يحدث عند عمر 3 أشهر في 70% من الحالات\" لأنه رقم محدد يبدو دقيقًا وموثوقًا، متجاهلاً أن الذروة العمرية الحقيقية هي 6-18 شهرًا وليس 3 أشهر.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الخيار A \"يحدث عند عمر 3 أشهر في 70% من الحالات\" لأنه رقم محدد يبدو دقيقًا وموثوقًا، متجاهلاً أن الذروة العمرية الحقيقية هي 6-18 شهرًا وليس 3 أشهر."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Ileocolic intussusception is most common",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Ileocolic intussusception is most comm"
+      },
+      "pills": [
+        "\"Ileocolic = the classic intussusception\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Ileocolic intussusception is most common. الانغلاف اللفائفي القولوني هو النوع الكلاسيكي الأشيع — يدخل اللفائفي داخل القولون عند الصمام اللفائفي الأعوري."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الانغلاف اللفائفي القولوني هو النوع الكلاسيكي الأشيع — يدخل اللفائفي داخل القولون عند الصمام اللفائفي الأعوري. وتذكّر القاعدة: \"Ileocolic = the classic intussusception\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

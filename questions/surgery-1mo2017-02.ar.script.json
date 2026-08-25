@@ -1,0 +1,143 @@
+{
+  "id": "surgery-1mo2017-02-ar",
+  "source": "Surgery Board Question Bank -- 1st Month 2017 Course, Question 2 of 46",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "BCG vaccine storage temperature",
+  "question_ar": "لقاح \" بي سي جي\" مخزن في؟",
+  "course_label": "Course: Surgery — 1st Month 2017 Course",
+  "question_number": 2,
+  "options": [
+    {
+      "letter": "A",
+      "text": "+18 °C and +24 °C"
+    },
+    {
+      "letter": "B",
+      "text": "-10 °C and -25 °C"
+    },
+    {
+      "letter": "C",
+      "text": "+2 to +8C"
+    },
+    {
+      "letter": "D",
+      "text": "0 °C"
+    },
+    {
+      "letter": "E",
+      "text": "-25 °C"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "+2 to +8C",
+  "purpose_ar": "يريد حفظ المدى الحراري القياسي لتخزين لقاح BCG (بين +2 و+8 درجة مئوية).",
+  "trap_ar": "الطالب قد يخلط بين هذا المدى ومدى تجميد أعمق، وهو فخ رقمي بحت يتطلب حفظًا دقيقًا لهذا المدى المعتدل.",
+  "summary_ar": "لقاح BCG يُخزَّن بين +2 و+8 درجة مئوية للحفاظ على فعاليته.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "BCG vaccine storage temperature",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. لقاح \" بي سي جي\" مخزن في؟ أمامك هذه الخيارات: +18 °C and +24 °C، أو -10 °C and -25 °C، أو +2 to +8C، أو 0 °C، أو -25 °C. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ المدى الحراري القياسي لتخزين لقاح BCG (بين +2 و+8 درجة مئوية).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ المدى الحراري القياسي لتخزين لقاح BCG (بين +2 و+8 درجة مئوية)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "+2 to +8C",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "لقاح BCG يُخزَّن بين +2 و+8 درجة مئوية للحفاظ على فعاليته.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. لقاح BCG يُخزَّن بين +2 و+8 درجة مئوية للحفاظ على فعاليته. حرف T و E يذكرانك بالمدى الحراري الدقيق لهذا اللقاح."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، +18 °C and +24 °C: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي +2 to +8C. يصبح صحيحًا في سؤال يصف 18-24°C, -10 to -25°C, 0°C, and -25°C don't match the correct BCG storage requirement of +2 to +8°C, like most vaccines requiring cold chain refrigeration. الخيار B، -10 °C and -25 °C: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي +2 to +8C. يصبح صحيحًا في سؤال يصف 18-24°C, -10 to -25°C, 0°C, and -25°C don't match the correct BCG storage requirement of +2 to +8°C, like most vaccines requiring cold chain refrigeration. الخيار D، 0 °C: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي +2 to +8C. يصبح صحيحًا في سؤال يصف 18-24°C, -10 to -25°C, 0°C, and -25°C don't match the correct BCG storage requirement of +2 to +8°C, like most vaccines requiring cold chain refrigeration. الخيار E، -25 °C: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي +2 to +8C. يصبح صحيحًا في سؤال يصف 18-24°C, -10 to -25°C, 0°C, and -25°C don't match the correct BCG storage requirement of +2 to +8°C, like most vaccines requiring cold chain refrigeration.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "+18 °C and +24 °C",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي +2 to +8C.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 18-24°C, -10 to -25°C, 0°C, and -25°C don't match the correct BCG storage requirement of +2 to +8°C, like most vaccines requiring cold chain…"
+        },
+        {
+          "letter": "B",
+          "text": "-10 °C and -25 °C",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي +2 to +8C.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 18-24°C, -10 to -25°C, 0°C, and -25°C don't match the correct BCG storage requirement of +2 to +8°C, like most vaccines requiring cold chain…"
+        },
+        {
+          "letter": "C",
+          "text": "+2 to +8C",
+          "verdict": "correct",
+          "reason": "لقاح BCG يُخزَّن بين +2 و+8 درجة مئوية للحفاظ على فعاليته."
+        },
+        {
+          "letter": "D",
+          "text": "0 °C",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي +2 to +8C.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 18-24°C, -10 to -25°C, 0°C, and -25°C don't match the correct BCG storage requirement of +2 to +8°C, like most vaccines requiring cold chain…"
+        },
+        {
+          "letter": "E",
+          "text": "-25 °C",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي +2 to +8C.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 18-24°C, -10 to -25°C, 0°C, and -25°C don't match the correct BCG storage requirement of +2 to +8°C, like most vaccines requiring cold chain…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخلط بين هذا المدى ومدى تجميد أعمق، وهو فخ رقمي بحت يتطلب حفظًا دقيقًا لهذا المدى المعتدل.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخلط بين هذا المدى ومدى تجميد أعمق، وهو فخ رقمي بحت يتطلب حفظًا دقيقًا لهذا المدى المعتدل."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. +2 to +8C",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "BCG storage: Two to Eight degrees"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: +2 to +8C. لقاح BCG يُخزَّن بين +2 و+8 درجة مئوية للحفاظ على فعاليته."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. لقاح BCG يُخزَّن بين +2 و+8 درجة مئوية للحفاظ على فعاليته. وتذكّر القاعدة: BCG storage: Two to Eight degrees. والإجابة الصحيحة هي C."
+    }
+  ]
+}

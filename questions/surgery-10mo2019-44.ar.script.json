@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-44-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 44 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "57M + 2yr progressive dysphagia to liquids AND solids + nocturnal cough + weight loss",
+  "question_ar": "مريض يبلغ من العمر 57 عامًا يشكو من عسر بلع مستمر منذ عامين. يبدو أنهيعاني من صعوبة أكبر في بلع السوائل والأطعمة الصلبة. لاحظ مؤخرًا أنهاتستيقظ ليلًا بسبب السعال. فقد حوالي 7-8 كجم من وزنه في 6 أشهر. أفضلخطوة تالية لتأكيد التشخيص الأكثر احتمالًا هي:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 44,
+  "options": [
+    {
+      "letter": "A",
+      "text": "CT scan of the chest"
+    },
+    {
+      "letter": "B",
+      "text": "Esophageal manometry"
+    },
+    {
+      "letter": "C",
+      "text": "24-hr pH monitoring"
+    },
+    {
+      "letter": "D",
+      "text": "Barium swallow"
+    },
+    {
+      "letter": "E",
+      "text": "Esophageal endoscopy and biopsy"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Esophageal endoscopy and biopsy",
+  "purpose_ar": "تطبيق مبدأ أساسي في تقييم عسر البلع — أي عرض إنذاري (نقص وزن، بلع صعب لكل من السوائل والصلب) يستدعي التنظير والخزعة أولًا لاستبعاد الخباثة قبل أي فحص وظيفي كالمانومتري.",
+  "trap_ar": "قد يختار الطالب المانومتري المريئي (B) لأن الصورة (عسر بلع تدريجي لكل من السوائل والصلب مع سعال ليلي) تشبه التعذر الحركي المريئي، متجاهلاً أن نقص الوزن الكبير يستدعي استبعاد الخباثة أولًا بالتنظير المباشر قبل أي فحص وظيفي.",
+  "summary_ar": "عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "57M + 2yr progressive dysphagia to liquids AND solids + noct",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Esophageal endoscopy and biopsy"
+      },
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 57 عامًا يشكو من عسر بلع مستمر منذ عامين. يبدو أنهيعاني من صعوبة أكبر في بلع السوائل والأطعمة الصلبة. لاحظ مؤخرًا أنهاتستيقظ ليلًا بسبب السعال. فقد حوالي 7-8 كجم من وزنه في 6 أشهر. أفضلخطوة تالية لتأكيد التشخيص الأكثر احتمالًا هي: أمامك هذه الخيارات: CT scan of the chest، أو Esophageal manometry، أو 24-hr pH monitoring، أو Barium swallow، أو Esophageal endoscopy and biopsy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق مبدأ أساسي في تقييم عسر البلع — أي عرض إنذاري (نقص وزن، بلع صعب لكل من السوائل والصلب) يستدعي التنظير والخزعة أولًا لاستبعاد الخباثة قبل أي فحص وظيفي كالمانومتري.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق مبدأ أساسي في تقييم عسر البلع — أي عرض إنذاري (نقص وزن، بلع صعب لكل من السوائل والصلب) يستدعي التنظير والخزعة أولًا لاستبعاد الخباثة قبل أي فحص وظيفي كالمانومتري."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Esophageal endoscopy and biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Esophageal endoscopy and biopsy"
+      },
+      "card_text": "عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي. عسر البلع المترقي مع نقص وزن كبير يستدعي دائمًا استبعاد الخباثة أولًا بالتنظير والخزعة المباشرة، قبل التفكير بأسباب حركية كالتعذر الحركي المريئي والاعتماد على المانومتري."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، CT scan of the chest: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy. يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm features (weight loss). الخيار B، Esophageal manometry: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy. يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm features (weight loss). الخيار C، 24-hr pH monitoring: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا malignancy risk. يصبح صحيحًا في سؤال يصف 24-hour pH monitoring evaluates reflux severity. الخيار D، Barium swallow: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy. يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm features (weight loss).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "CT scan of the chest",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm…"
+        },
+        {
+          "letter": "B",
+          "text": "Esophageal manometry",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm…"
+        },
+        {
+          "letter": "C",
+          "text": "24-hr pH monitoring",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا malignancy risk.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 24-hour pH monitoring evaluates reflux severity."
+        },
+        {
+          "letter": "D",
+          "text": "Barium swallow",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm…"
+        },
+        {
+          "letter": "E",
+          "text": "Esophageal endoscopy and biopsy",
+          "verdict": "correct",
+          "reason": "عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب المانومتري المريئي (B) لأن الصورة (عسر بلع تدريجي لكل من السوائل والصلب مع سعال ليلي) تشبه التعذر الحركي المريئي، متجاهلاً أن نقص الوزن الكبير يستدعي استبعاد الخباثة أولًا بالتنظير المباشر قبل أي فحص وظيفي.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب المانومتري المريئي (B) لأن الصورة (عسر بلع تدريجي لكل من السوائل والصلب مع سعال ليلي) تشبه التعذر الحركي المريئي، متجاهلاً أن نقص الوزن الكبير يستدعي استبعاد الخباثة أولًا بالتنظير المباشر قبل أي فحص وظيفي."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Esophageal endoscopy and biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Esophageal endoscopy and biopsy"
+      },
+      "pills": [
+        "\"Dysphagia + weight loss = Endoscopy + biopsy "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Esophageal endoscopy and biopsy. عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي. وتذكّر القاعدة: \"Dysphagia + weight loss = Endoscopy + biopsy FIRST, rule out cancer\". والإجابة الصحيحة هي E."
+    }
+  ]
+}

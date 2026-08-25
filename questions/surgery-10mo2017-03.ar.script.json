@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2017-03-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2017 Course, Question 3 of 48",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "35yo healthy lady, ER complaint (implied gallstones), best investigation",
+  "question_ar": "سيدة تبلغ من العمر 35 عامًا، تتمتع بصحة جيدة، دخلت قسم الطوارئ تشكومن ألم في أعلى البطن الأيمن مصحوب بغثيان وحمى. يمتد الألم إلى لوحالكتف الأيمن. أظهرت فحوصات الدم الأولية لديها عدد الخلايا البيضاء -16،الهيموجلوبين 12. ما هي أفضل دراسة تصوير أولية في هذه الحالة؟",
+  "course_label": "Course: Surgery — 10th Month 2017 Course",
+  "question_number": 3,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hepatoiminodiacetic acid scintigraphy (HIDA scan)"
+    },
+    {
+      "letter": "B",
+      "text": "Endoscopic ultrasound (EUS)"
+    },
+    {
+      "letter": "C",
+      "text": "Magnetic resonance imaging with magnetic resonance cholangiopancreatography (MRCP)"
+    },
+    {
+      "letter": "D",
+      "text": "Endoscopic retrograde cholangiopancreatography (ERCP)"
+    },
+    {
+      "letter": "E",
+      "text": "Abdominal ultrasound (US)"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Abdominal ultrasound (US)",
+  "purpose_ar": "يريد التأكيد أن الموجات فوق الصوتية البطنية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة (اشتباه مرارة).",
+  "trap_ar": "الطالب قد يختار تصويرًا طبقيًا، متناسيًا أن الموجات أرخص وأسرع وأدق لتقييم المرارة كخطوة أولى عند مريضة شابة.",
+  "summary_ar": "الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "35yo healthy lady, ER complaint (implied gallstones), best i",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Abdominal ultrasound (US)"
+      },
+      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 35 عامًا، تتمتع بصحة جيدة، دخلت قسم الطوارئ تشكومن ألم في أعلى البطن الأيمن مصحوب بغثيان وحمى. يمتد الألم إلى لوحالكتف الأيمن. أظهرت فحوصات الدم الأولية لديها عدد الخلايا البيضاء -16،الهيموجلوبين 12. ما هي أفضل دراسة تصوير أولية في هذه الحالة؟ أمامك هذه الخيارات: Hepatoiminodiacetic acid scintigraphy (HIDA scan)، أو Endoscopic ultrasound (EUS)، أو Magnetic resonance imaging with magnetic resonance cholangiopancreatography (MRCP)، أو Endoscopic retrograde cholangiopancreatography (ERCP)، أو Abdominal ultrasound (US). لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الموجات فوق الصوتية البطنية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة (اشتباه مرارة).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الموجات فوق الصوتية البطنية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة (اشتباه مرارة)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Abdominal ultrasound (US)",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Abdominal ultrasound (US)"
+      },
+      "card_text": "الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة. حرف U يذكرك بأولوية هذا الفحص الأول الآمن."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hepatoiminodiacetic acid scintigraphy (HIDA scan): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US). يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best initial investigation for suspected gallstone disease. الخيار B، Endoscopic ultrasound (EUS): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US). يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best initial investigation for suspected gallstone disease. الخيار C، Magnetic resonance imaging with magnetic resonance cholangiopancreatography (MRCP): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US). يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best initial investigation for suspected gallstone disease. الخيار D، Endoscopic retrograde cholangiopancreatography (ERCP): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US). يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best initial investigation for suspected gallstone disease.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Hepatoiminodiacetic acid scintigraphy (HIDA scan)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best…"
+        },
+        {
+          "letter": "B",
+          "text": "Endoscopic ultrasound (EUS)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best…"
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic resonance imaging with magnetic resonance cholangiopancreatography (MRCP)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best…"
+        },
+        {
+          "letter": "D",
+          "text": "Endoscopic retrograde cholangiopancreatography (ERCP)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best…"
+        },
+        {
+          "letter": "E",
+          "text": "Abdominal ultrasound (US)",
+          "verdict": "correct",
+          "reason": "الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار تصويرًا طبقيًا، متناسيًا أن الموجات أرخص وأسرع وأدق لتقييم المرارة كخطوة أولى عند مريضة شابة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار تصويرًا طبقيًا، متناسيًا أن الموجات أرخص وأسرع وأدق لتقييم المرارة كخطوة أولى عند مريضة شابة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Abdominal ultrasound (US)",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Abdominal ultrasound (US)"
+      },
+      "pills": [
+        "Young healthy patient, abdominal pain: Ultraso"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Abdominal ultrasound (US). الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة. وتذكّر القاعدة: Young healthy patient, abdominal pain: Ultrasound first. والإجابة الصحيحة هي E."
+    }
+  ]
+}

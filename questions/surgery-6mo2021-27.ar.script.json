@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2021-27-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2021 Course, Question 27 of 31",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Facial burns + hoarseness + tachypnea — immediate management",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2021 Course",
+  "question_number": 27,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Urgent Chest x-ray"
+    },
+    {
+      "letter": "B",
+      "text": "Arterial blood gases"
+    },
+    {
+      "letter": "C",
+      "text": "Endotracheal intubation"
+    },
+    {
+      "letter": "D",
+      "text": "Chest tube insertion"
+    },
+    {
+      "letter": "E",
+      "text": "Cricothyroidotomy"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Endotracheal intubation",
+  "purpose_ar": "التعرف على علامات إصابة مجرى الهواء الحراري المبكرة واتخاذ القرار الاستباقي بالتنبيب فورًا قبل أي فحص آخر.",
+  "trap_ar": "قد يختار الطالب الأشعة السينية العاجلة للصدر (A) أو غازات الدم (B) كخطوة أولى تشخيصية، متجاهلاً أن الأولوية القصوى هي تأمين المجرى فورًا بالتنبيب قبل أي تصوير أو فحص آخر.",
+  "summary_ar": "بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Facial burns + hoarseness + tachypnea — immediate management",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Endotracheal intubation"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Urgent Chest x-ray، أو Arterial blood gases، أو Endotracheal intubation، أو Chest tube insertion، أو Cricothyroidotomy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على علامات إصابة مجرى الهواء الحراري المبكرة واتخاذ القرار الاستباقي بالتنبيب فورًا قبل أي فحص آخر.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على علامات إصابة مجرى الهواء الحراري المبكرة واتخاذ القرار الاستباقي بالتنبيب فورًا قبل أي فحص آخر."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Endotracheal intubation",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Endotracheal intubation"
+      },
+      "card_text": "بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن. بحّة الصوت مع حرق الوجه وتسرع التنفس علامات إنذار مبكرة لوذمة مجرى الهواء العلوي المتفاقمة سريعًا، وتستدعي التنبيب الاستباقي فورًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urgent Chest x-ray: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Urgent chest X-ray and arterial blood gases require time this critically unstable patient. الخيار B، Arterial blood gases: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Urgent chest X-ray and arterial blood gases require time this critically unstable patient. الخيار D، Chest tube insertion: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the very first step. يصبح صحيحًا في سؤال يصف chest tube insertion is definitive treatment that follows needle decompression. الخيار E، Cricothyroidotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tension pneumothorax specifically. يصبح صحيحًا في سؤال يصف cricothyroidotomy addresses a different problem (airway obstruction).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Urgent Chest x-ray",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Urgent chest X-ray and arterial blood gases require time this critically unstable patient."
+        },
+        {
+          "letter": "B",
+          "text": "Arterial blood gases",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Urgent chest X-ray and arterial blood gases require time this critically unstable patient."
+        },
+        {
+          "letter": "C",
+          "text": "Endotracheal intubation",
+          "verdict": "correct",
+          "reason": "بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن."
+        },
+        {
+          "letter": "D",
+          "text": "Chest tube insertion",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the very first step.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف chest tube insertion is definitive treatment that follows needle decompression."
+        },
+        {
+          "letter": "E",
+          "text": "Cricothyroidotomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tension pneumothorax specifically.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف cricothyroidotomy addresses a different problem (airway obstruction)."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الأشعة السينية العاجلة للصدر (A) أو غازات الدم (B) كخطوة أولى تشخيصية، متجاهلاً أن الأولوية القصوى هي تأمين المجرى فورًا بالتنبيب قبل أي تصوير أو فحص آخر.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الأشعة السينية العاجلة للصدر (A) أو غازات الدم (B) كخطوة أولى تشخيصية، متجاهلاً أن الأولوية القصوى هي تأمين المجرى فورًا بالتنبيب قبل أي تصوير أو فحص آخر."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Endotracheal intubation",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Endotracheal intubation"
+      },
+      "pills": [
+        "\"Facial burn + hoarseness + tachypnea = Intuba"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Endotracheal intubation. بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن. وتذكّر القاعدة: \"Facial burn + hoarseness + tachypnea = Intubate NOW\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

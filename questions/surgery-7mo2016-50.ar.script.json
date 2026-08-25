@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2016-50-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 50 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Jaundice with absent urine urobilinogen",
+  "question_ar": "اليرقان مع غياب اليوروبيلينوجين في البول من المرجح أن يكون متوافقًا مع؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 50,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hepatitis"
+    },
+    {
+      "letter": "B",
+      "text": "Cirrhosis"
+    },
+    {
+      "letter": "C",
+      "text": "Hemolysis"
+    },
+    {
+      "letter": "D",
+      "text": "Biliary obstruction"
+    },
+    {
+      "letter": "E",
+      "text": "Sepsis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Biliary obstruction",
+  "purpose_ar": "يريد التأكيد أن غياب اليوروبيلينوجين البولي التام يوجه للانسداد الصفراوي الكامل (لا وصول للصفراء للأمعاء أصلاً).",
+  "trap_ar": "الطالب قد يختار انحلالاً دمويًا كسبب، متناسيًا أن الانحلال يرفع اليوروبيلينوجين لا يُغيبه، بخلاف الانسداد الكامل الذي يمنعه تمامًا.",
+  "summary_ar": "غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Jaundice with absent urine urobilinogen",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Biliary obstruction"
+      },
+      "narration": "لنبدأ بهذا السؤال. اليرقان مع غياب اليوروبيلينوجين في البول من المرجح أن يكون متوافقًا مع؟ أمامك هذه الخيارات: Hepatitis، أو Cirrhosis، أو Hemolysis، أو Biliary obstruction، أو Sepsis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن غياب اليوروبيلينوجين البولي التام يوجه للانسداد الصفراوي الكامل (لا وصول للصفراء للأمعاء أصلاً).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن غياب اليوروبيلينوجين البولي التام يوجه للانسداد الصفراوي الكامل (لا وصول للصفراء للأمعاء أصلاً)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Biliary obstruction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Biliary obstruction"
+      },
+      "card_text": "غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل. حرف O المزدوج يذكرك بالرابط بين الغياب التام والانسداد."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hepatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen — complete biliary obstruction prevents bilirubin from reaching the gut to be converted to urobilinogen, so it's absent from urine. الخيار B، Cirrhosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen — complete biliary obstruction prevents bilirubin from reaching the gut to be converted to urobilinogen, so it's absent from urine. الخيار C، Hemolysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يستهدف Hemolysis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Sepsis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen — complete biliary obstruction prevents bilirubin from reaching the gut to be converted to urobilinogen, so it's absent from urine.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Hepatitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen…"
+        },
+        {
+          "letter": "B",
+          "text": "Cirrhosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen…"
+        },
+        {
+          "letter": "C",
+          "text": "Hemolysis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Hemolysis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "Biliary obstruction",
+          "verdict": "correct",
+          "reason": "غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل."
+        },
+        {
+          "letter": "E",
+          "text": "Sepsis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار انحلالاً دمويًا كسبب، متناسيًا أن الانحلال يرفع اليوروبيلينوجين لا يُغيبه، بخلاف الانسداد الكامل الذي يمنعه تمامًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار انحلالاً دمويًا كسبب، متناسيًا أن الانحلال يرفع اليوروبيلينوجين لا يُغيبه، بخلاف الانسداد الكامل الذي يمنعه تمامًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Biliary obstruction",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Biliary obstruction"
+      },
+      "pills": [
+        "No urobilinogen: points to biliary Obstruction"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Biliary obstruction. غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل. وتذكّر القاعدة: No urobilinogen: points to biliary Obstruction. والإجابة الصحيحة هي D."
+    }
+  ]
+}

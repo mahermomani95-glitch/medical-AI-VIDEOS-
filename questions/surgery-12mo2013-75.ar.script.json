@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-75-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 75 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common malignant liver mass",
+  "question_ar": "الكتلة الخبيثة الأكثر شيوعا في الكبد هي؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 75,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hepatic angiosarcoma"
+    },
+    {
+      "letter": "B",
+      "text": "Hepatoblastoma"
+    },
+    {
+      "letter": "C",
+      "text": "Angiosarcoma"
+    },
+    {
+      "letter": "D",
+      "text": "Lymphoma"
+    },
+    {
+      "letter": "E",
+      "text": "Metastatic tumor"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Metastatic tumor",
+  "purpose_ar": "يريد التأكيد أن الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً، لا الأولية.",
+  "trap_ar": "الطالب قد يختار HCC (الأشيع بالأورام الأولية)، متناسيًا أن الأورام النقيلية تتفوق عليه عددًا إجماليًا بالكتل الكبدية الخبيثة كلها.",
+  "summary_ar": "الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common malignant liver mass",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Metastatic tumor"
+      },
+      "narration": "لنبدأ بهذا السؤال. الكتلة الخبيثة الأكثر شيوعا في الكبد هي؟ أمامك هذه الخيارات: Hepatic angiosarcoma، أو Hepatoblastoma، أو Angiosarcoma، أو Lymphoma، أو Metastatic tumor. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً، لا الأولية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً، لا الأولية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Metastatic tumor",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Metastatic tumor"
+      },
+      "card_text": "الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً. حرف M المزدوج يربط الانتقال النقيلي بموقعه كالأشيع إجمالاً."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hepatic angiosarcoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastatic tumor. يصبح صحيحًا في سؤال يصف Hepatic angiosarcoma, hepatoblastoma (B, more common in children), angiosarcoma, and lymphoma are all less common than metastatic tumors, which are actually the most common malignant liver masses overall (more common than primary liver cancers like HCC). الخيار B، Hepatoblastoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastatic tumor. يصبح صحيحًا في سؤال يستهدف Hepatoblastoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Angiosarcoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastatic tumor. يصبح صحيحًا في سؤال يصف Hepatic angiosarcoma, hepatoblastoma (B, more common in children), angiosarcoma, and lymphoma are all less common than metastatic tumors, which are actually the most common malignant liver masses overall (more common than primary liver cancers like HCC). الخيار D، Lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastatic tumor. يصبح صحيحًا في سؤال يصف Hepatic angiosarcoma, hepatoblastoma (B, more common in children), angiosarcoma, and lymphoma are all less common than metastatic tumors, which are actually the most common malignant liver masses overall (more common than primary liver cancers like HCC).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Hepatic angiosarcoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastatic tumor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatic angiosarcoma, hepatoblastoma (B, more common in children), angiosarcoma, and lymphoma are all less common than metastatic tumors, which…"
+        },
+        {
+          "letter": "B",
+          "text": "Hepatoblastoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastatic tumor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Hepatoblastoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "Angiosarcoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastatic tumor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatic angiosarcoma, hepatoblastoma (B, more common in children), angiosarcoma, and lymphoma are all less common than metastatic tumors, which…"
+        },
+        {
+          "letter": "D",
+          "text": "Lymphoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastatic tumor.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hepatic angiosarcoma, hepatoblastoma (B, more common in children), angiosarcoma, and lymphoma are all less common than metastatic tumors, which…"
+        },
+        {
+          "letter": "E",
+          "text": "Metastatic tumor",
+          "verdict": "correct",
+          "reason": "الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار HCC (الأشيع بالأورام الأولية)، متناسيًا أن الأورام النقيلية تتفوق عليه عددًا إجماليًا بالكتل الكبدية الخبيثة كلها.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار HCC (الأشيع بالأورام الأولية)، متناسيًا أن الأورام النقيلية تتفوق عليه عددًا إجماليًا بالكتل الكبدية الخبيثة كلها."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Metastatic tumor",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Metastatic tumor"
+      },
+      "pills": [
+        "Malignant liver mass: mostly Metastatic"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Metastatic tumor. الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأورام النقيلية هي الأشيع بين الكتل الكبدية الخبيثة إجمالاً. وتذكّر القاعدة: Malignant liver mass: mostly Metastatic. والإجابة الصحيحة هي E."
+    }
+  ]
+}

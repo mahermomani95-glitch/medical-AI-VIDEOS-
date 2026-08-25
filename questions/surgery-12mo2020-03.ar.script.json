@@ -1,0 +1,138 @@
+{
+  "id": "surgery-12mo2020-03-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 3 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Preoperative antibiotics indicated EXCEPT",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 3,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Appendectomy"
+    },
+    {
+      "letter": "B",
+      "text": "Intestinal obstruction"
+    },
+    {
+      "letter": "C",
+      "text": "Mastectomy"
+    },
+    {
+      "letter": "D",
+      "text": "Colon resection"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Mastectomy",
+  "purpose_ar": "حفظ أن الجراحات النظيفة البحتة (كاستئصال الثدي) لا تتطلب مضادات وقائية روتينية، بعكس الجراحات المتعلقة بالأمعاء.",
+  "trap_ar": "قد يظن الطالب أن أي جراحة كبرى تحتاج مضادات وقائية بشكل عام، متجاهلاً أن التصنيف (نظيف مقابل ملوث) هو ما يحدد الحاجة الفعلية.",
+  "summary_ar": "استئصال الثدي جراحة نظيفة لا تفتح أي جهاز مخاطي — المضادات الوقائية ليست مطلوبة روتينيًا كما في جراحات تتضمن الأمعاء.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Preoperative antibiotics indicated EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mastectomy"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Appendectomy، أو Intestinal obstruction، أو Mastectomy، أو Colon resection. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ أن الجراحات النظيفة البحتة (كاستئصال الثدي) لا تتطلب مضادات وقائية روتينية، بعكس الجراحات المتعلقة بالأمعاء.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ أن الجراحات النظيفة البحتة (كاستئصال الثدي) لا تتطلب مضادات وقائية روتينية، بعكس الجراحات المتعلقة بالأمعاء."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Mastectomy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mastectomy"
+      },
+      "card_text": "استئصال الثدي جراحة نظيفة لا تفتح أي جهاز مخاطي — المضادات الوقائية ليست مطلوبة روتينيًا كما في جراحات تتضمن الأمعاء.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. استئصال الثدي جراحة نظيفة لا تفتح أي جهاز مخاطي — المضادات الوقائية ليست مطلوبة روتينيًا كما في جراحات تتضمن الأمعاء. استئصال الثدي جراحة نظيفة بحتة (لا تفتح جهازًا مخاطيًا)، بعكس استئصال الزائدة أو انسداد الأمعاء أو استئصال القولون التي تتطلب مضادات وقائية بسبب خطر التلوث المعوي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Appendectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy. يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing gallstone via a cholecystoenteric fistula is gallstone ileus, distinguishing it from any colonic procedure like colectomy. الخيار B، Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy. يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing gallstone via a cholecystoenteric fistula is gallstone ileus, distinguishing it from any colonic procedure like colectomy. الخيار D، Colon resection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy. يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing gallstone via a cholecystoenteric fistula is gallstone ileus, distinguishing it from any colonic procedure like colectomy.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Appendectomy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing…"
+        },
+        {
+          "letter": "B",
+          "text": "Intestinal obstruction",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing…"
+        },
+        {
+          "letter": "C",
+          "text": "Mastectomy",
+          "verdict": "correct",
+          "reason": "استئصال الثدي جراحة نظيفة لا تفتح أي جهاز مخاطي — المضادات الوقائية ليست مطلوبة روتينيًا كما في جراحات تتضمن الأمعاء."
+        },
+        {
+          "letter": "D",
+          "text": "Colon resection",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mastectomy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Appendectomy, general intestinal obstruction, and colon resection are all surgical procedures/conditions, but a distal-small-bowel-obstructing…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يظن الطالب أن أي جراحة كبرى تحتاج مضادات وقائية بشكل عام، متجاهلاً أن التصنيف (نظيف مقابل ملوث) هو ما يحدد الحاجة الفعلية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يظن الطالب أن أي جراحة كبرى تحتاج مضادات وقائية بشكل عام، متجاهلاً أن التصنيف (نظيف مقابل ملوث) هو ما يحدد الحاجة الفعلية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Mastectomy",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Mastectomy"
+      },
+      "pills": [
+        "\"Mastectomy = clean surgery, no routine antibi"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Mastectomy. استئصال الثدي جراحة نظيفة لا تفتح أي جهاز مخاطي — المضادات الوقائية ليست مطلوبة روتينيًا كما في جراحات تتضمن الأمعاء."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. استئصال الثدي جراحة نظيفة لا تفتح أي جهاز مخاطي — المضادات الوقائية ليست مطلوبة روتينيًا كما في جراحات تتضمن الأمعاء. وتذكّر القاعدة: \"Mastectomy = clean surgery, no routine antibiotic prophylaxis needed\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

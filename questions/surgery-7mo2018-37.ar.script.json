@@ -1,0 +1,149 @@
+{
+  "id": "surgery-7mo2018-37-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2018 Course, Question 37 of 53",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Low-grade gastric lymphoma + endoscopic cure",
+  "question_ar": "رجل مدخن يبلغ من العمر 41 عامًا شُخِّصَ بسرطان الغدد الليمفاوية المعويةمنخفض الدرجة. بعد نجاح العلاج، خضع لتنظير داخلي علوي للمراقبة، والذيأظهر شفاءً تامًا. ما نوع العلاج الذي تلقاه؟",
+  "course_label": "Course: Surgery — 7th Month 2018 Course",
+  "question_number": 37,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Medical treatment"
+    },
+    {
+      "letter": "B",
+      "text": "Surgical treatment"
+    },
+    {
+      "letter": "C",
+      "text": "Chemotherapy"
+    },
+    {
+      "letter": "D",
+      "text": "Observation"
+    },
+    {
+      "letter": "E",
+      "text": "Surgical and chemotherapy"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Medical treatment",
+  "purpose_ar": "تأكيد أن ليمفوما المالت المعدية منخفضة الدرجة قد تُشفى تمامًا بالعلاج الدوائي وحده (استئصال H. pylori) دون الحاجة لجراحة أو كيماوي، كما يوثق التنظير المتابع هنا.",
+  "trap_ar": "قد يختار الطالب العلاج الجراحي (B) لأن كلمة \"لمفوما\" أو \"ورم\" تستدعي ذهنيًا صورة الجراحة، متجاهلاً أن السؤال يذكر صراحة أن الشفاء تم توثيقه بالتنظير فقط دون أي عملية.",
+  "summary_ar": "الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Low-grade gastric lymphoma + endoscopic cure",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Medical treatment"
+      },
+      "narration": "لنبدأ بهذا السؤال. رجل مدخن يبلغ من العمر 41 عامًا شُخِّصَ بسرطان الغدد الليمفاوية المعويةمنخفض الدرجة. بعد نجاح العلاج، خضع لتنظير داخلي علوي للمراقبة، والذيأظهر شفاءً تامًا. ما نوع العلاج الذي تلقاه؟ أمامك هذه الخيارات: Medical treatment، أو Surgical treatment، أو Chemotherapy، أو Observation، أو Surgical and chemotherapy. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تأكيد أن ليمفوما المالت المعدية منخفضة الدرجة قد تُشفى تمامًا بالعلاج الدوائي وحده (استئصال H. pylori) دون الحاجة لجراحة أو كيماوي، كما يوثق التنظير المتابع هنا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تأكيد أن ليمفوما المالت المعدية منخفضة الدرجة قد تُشفى تمامًا بالعلاج الدوائي وحده (استئصال H. pylori) دون الحاجة لجراحة أو كيماوي، كما يوثق التنظير المتابع هنا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Medical treatment",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Medical treatment"
+      },
+      "card_text": "الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع. الشفاء الموثق تنظيريًا دون أي تدخل جراحي هو الدليل على أن العلاج كان دوائيًا (استئصال جرثومة الملوية البوابية) لا جراحيًا."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Surgical treatment: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often suffices first. يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy. الخيار C، Chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often suffices first. يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy. الخيار D، Observation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often suffices first. يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy. الخيار E، Surgical and chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often suffices first. يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Medical treatment",
+          "verdict": "correct",
+          "reason": "الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع."
+        },
+        {
+          "letter": "B",
+          "text": "Surgical treatment",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy."
+        },
+        {
+          "letter": "C",
+          "text": "Chemotherapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy."
+        },
+        {
+          "letter": "D",
+          "text": "Observation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy."
+        },
+        {
+          "letter": "E",
+          "text": "Surgical and chemotherapy",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب العلاج الجراحي (B) لأن كلمة \"لمفوما\" أو \"ورم\" تستدعي ذهنيًا صورة الجراحة، متجاهلاً أن السؤال يذكر صراحة أن الشفاء تم توثيقه بالتنظير فقط دون أي عملية.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب العلاج الجراحي (B) لأن كلمة \"لمفوما\" أو \"ورم\" تستدعي ذهنيًا صورة الجراحة، متجاهلاً أن السؤال يذكر صراحة أن الشفاء تم توثيقه بالتنظير فقط دون أي عملية."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Medical treatment",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Medical treatment"
+      },
+      "pills": [
+        "\"Cured without surgery = Medical (H. pylori) t"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Medical treatment. الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع. وتذكّر القاعدة: \"Cured without surgery = Medical (H. pylori) therapy\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2017-45-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2017 Course, Question 45 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "65yo gentleman, ER after [trauma], diagnosis (implied hemothorax)",
+  "question_ar": "حضر إليكم رجل يبلغ من العمر 65 عامًا إلى قسم الطوارئ بعد حادث مرورييشكو من ألم في الصدر الأيسر. كانت علاماته الحيوية ضغط الدم 110/50،معدل ضربات القلب 100، معدل التنفس 20، ودرجة حرارة الجسم 14/15. عندالفحص، وُجد انخفاض في أصوات التنفس في الجانب الأيسر. أظهر تصويرالصدر بالأشعة السينية هدوءًا في نصف الصدر الأيسر. ما هو التشخيصالأكثر احتمالًا؟",
+  "course_label": "Course: Surgery — 12th Month 2017 Course",
+  "question_number": 45,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Left hemothorax"
+    },
+    {
+      "letter": "B",
+      "text": "Left pneumothorax"
+    },
+    {
+      "letter": "C",
+      "text": "Cardiac tamponade"
+    },
+    {
+      "letter": "D",
+      "text": "Splenic injury"
+    },
+    {
+      "letter": "E",
+      "text": "Left tension pneumothorax"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Left hemothorax",
+  "purpose_ar": "يريد ربط رض صدري عند مسن بتجمع دموي بالحيز الجنبي الأيسر (نزف جنبي أيسر).",
+  "trap_ar": "الطالب قد يختار استرواح صدر بدلاً من ذلك، متناسيًا أن السياق السريري المحدد بالسؤال يوجه لتجمع دموي (نزف) لا هوائي فقط.",
+  "summary_ar": "رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "65yo gentleman, ER after [trauma], diagnosis (implied hemoth",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Left hemothorax"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضر إليكم رجل يبلغ من العمر 65 عامًا إلى قسم الطوارئ بعد حادث مرورييشكو من ألم في الصدر الأيسر. كانت علاماته الحيوية ضغط الدم 110/50،معدل ضربات القلب 100، معدل التنفس 20، ودرجة حرارة الجسم 14/15. عندالفحص، وُجد انخفاض في أصوات التنفس في الجانب الأيسر. أظهر تصويرالصدر بالأشعة السينية هدوءًا في نصف الصدر الأيسر. ما هو التشخيصالأكثر احتمالًا؟ أمامك هذه الخيارات: Left hemothorax، أو Left pneumothorax، أو Cardiac tamponade، أو Splenic injury، أو Left tension pneumothorax. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط رض صدري عند مسن بتجمع دموي بالحيز الجنبي الأيسر (نزف جنبي أيسر).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط رض صدري عند مسن بتجمع دموي بالحيز الجنبي الأيسر (نزف جنبي أيسر)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Left hemothorax",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Left hemothorax"
+      },
+      "card_text": "رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا. حرف L المزدوج يذكرك بالجانب والطبيعة الدموية لهذا التشخيص."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Left pneumothorax: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the findings implied here. يصبح صحيحًا في سؤال يصف A left pneumothorax presents with hyperresonance. الخيار C، Cardiac tamponade: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left hemothorax. يصبح صحيحًا في سؤال يصف cardiac tamponade shows muffled heart sounds/JVD. الخيار D، Splenic injury: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا directly explain chest findings. يصبح صحيحًا في سؤال يصف splenic injury alone. الخيار E، Left tension pneumothorax: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left hemothorax. يصبح صحيحًا في سؤال يصف tension pneumothorax shows tracheal deviation and hemodynamic compromise — the described trauma presentation is most consistent with left hemothorax (dull to percussion, decreased breath sounds from blood accumulation).",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Left hemothorax",
+          "verdict": "correct",
+          "reason": "رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا."
+        },
+        {
+          "letter": "B",
+          "text": "Left pneumothorax",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the findings implied here.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف A left pneumothorax presents with hyperresonance."
+        },
+        {
+          "letter": "C",
+          "text": "Cardiac tamponade",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left hemothorax.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف cardiac tamponade shows muffled heart sounds/JVD."
+        },
+        {
+          "letter": "D",
+          "text": "Splenic injury",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا directly explain chest findings.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف splenic injury alone."
+        },
+        {
+          "letter": "E",
+          "text": "Left tension pneumothorax",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left hemothorax.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف tension pneumothorax shows tracheal deviation and hemodynamic compromise — the described trauma presentation is most consistent with left…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار استرواح صدر بدلاً من ذلك، متناسيًا أن السياق السريري المحدد بالسؤال يوجه لتجمع دموي (نزف) لا هوائي فقط.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار استرواح صدر بدلاً من ذلك، متناسيًا أن السياق السريري المحدد بالسؤال يوجه لتجمع دموي (نزف) لا هوائي فقط."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Left hemothorax",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Left hemothorax"
+      },
+      "pills": [
+        "This trauma scenario: Left hemothorax"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Left hemothorax. رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا. وتذكّر القاعدة: This trauma scenario: Left hemothorax. والإجابة الصحيحة هي A."
+    }
+  ]
+}

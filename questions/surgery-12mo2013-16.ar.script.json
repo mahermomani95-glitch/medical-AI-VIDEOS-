@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-16-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 16 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Increase intracranial pressure, EXCEPT",
+  "question_ar": "كل ما يلي يزيد الضغط داخل الجمجمة ما عدا؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 16,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Pain"
+    },
+    {
+      "letter": "B",
+      "text": "Fever"
+    },
+    {
+      "letter": "C",
+      "text": "Cough"
+    },
+    {
+      "letter": "D",
+      "text": "Constipation"
+    },
+    {
+      "letter": "E",
+      "text": "Sleeping"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Sleeping",
+  "purpose_ar": "يريد التأكيد أن النوم بذاته لا يرفع الضغط داخل القحف، بخلاف السعال أو الشد أو مناورة فالسالفا.",
+  "trap_ar": "الطالب قد يظن أي نشاط أو حالة فيزيولوجية قد ترفع الضغط، متناسيًا أن النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف.",
+  "summary_ar": "النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Increase intracranial pressure, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Sleeping"
+      },
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي يزيد الضغط داخل الجمجمة ما عدا؟ أمامك هذه الخيارات: Pain، أو Fever، أو Cough، أو Constipation، أو Sleeping. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن النوم بذاته لا يرفع الضغط داخل القحف، بخلاف السعال أو الشد أو مناورة فالسالفا.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن النوم بذاته لا يرفع الضغط داخل القحف، بخلاف السعال أو الشد أو مناورة فالسالفا."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Sleeping",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Sleeping"
+      },
+      "card_text": "النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف. حرف S المزدوج يذكرك أن النوم لا يرفع الضغط داخل القحف."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients). يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which. الخيار B، Fever: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients). يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which. الخيار C، Cough: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients). يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which. الخيار D، Constipation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sleeping. يصبح صحيحًا في سؤال يستهدف Constipation تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Pain",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which."
+        },
+        {
+          "letter": "B",
+          "text": "Fever",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which."
+        },
+        {
+          "letter": "C",
+          "text": "Cough",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا inherently raise ICP (though certain positions during sleep might be modified in at-risk patients).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure through various mechanisms, unlike sleeping which."
+        },
+        {
+          "letter": "D",
+          "text": "Constipation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sleeping.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Constipation تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "E",
+          "text": "Sleeping",
+          "verdict": "correct",
+          "reason": "النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي نشاط أو حالة فيزيولوجية قد ترفع الضغط، متناسيًا أن النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي نشاط أو حالة فيزيولوجية قد ترفع الضغط، متناسيًا أن النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Sleeping",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Sleeping"
+      },
+      "pills": [
+        "Sleeping: Stays neutral for ICP"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Sleeping. النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف. وتذكّر القاعدة: Sleeping: Stays neutral for ICP. والإجابة الصحيحة هي E."
+    }
+  ]
+}

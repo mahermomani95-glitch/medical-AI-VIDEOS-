@@ -1,0 +1,138 @@
+{
+  "id": "surgery-7mo2015-63-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2015 Course, Question 63 of 70",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Ileal resection can result in, EXCEPT",
+  "question_ar": "يمكن أن يؤدي استئصال اللفائفي إلى كل ما يلي باستثناء؟",
+  "course_label": "Course: Surgery — 7th Month 2015 Course",
+  "question_number": 63,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Decreased B12 uptake"
+    },
+    {
+      "letter": "B",
+      "text": "Megaloblastic anemia"
+    },
+    {
+      "letter": "C",
+      "text": "Increased bile salt uptake"
+    },
+    {
+      "letter": "D",
+      "text": "Gallstones formation"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Increased bile salt uptake",
+  "purpose_ar": "يريد التأكيد أن استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية (وظيفة اللفائفي الطرفي)، لا يزيده كما بالعبارة الخاطئة.",
+  "trap_ar": "الطالب قد يقبل زيادة الامتصاص كنتيجة منطقية، متناسيًا أن استئصال الجزء المسؤول عن هذا الامتصاص يُنقصه لا يزيده.",
+  "summary_ar": "استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Ileal resection can result in, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Increased bile salt uptake"
+      },
+      "narration": "لنبدأ بهذا السؤال. يمكن أن يؤدي استئصال اللفائفي إلى كل ما يلي باستثناء؟ أمامك هذه الخيارات: Decreased B12 uptake، أو Megaloblastic anemia، أو Increased bile salt uptake، أو Gallstones formation. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية (وظيفة اللفائفي الطرفي)، لا يزيده كما بالعبارة الخاطئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية (وظيفة اللفائفي الطرفي)، لا يزيده كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Increased bile salt uptake",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Increased bile salt uptake"
+      },
+      "card_text": "استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده. حرف I المزدوج يذكرك أن الاستئصال يُنقص لا يزيد الامتصاص."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Decreased B12 uptake: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا increases) bile salt uptake/reabsorption, making C the false statement. يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true consequences of ileal resection — however, ileal resection actually DECREASES (. الخيار B، Megaloblastic anemia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا increases) bile salt uptake/reabsorption, making C the false statement. يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true consequences of ileal resection — however, ileal resection actually DECREASES (. الخيار D، Gallstones formation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased bile salt uptake. يصبح صحيحًا في سؤال يستهدف Gallstones formation تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Decreased B12 uptake",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا increases) bile salt uptake/reabsorption, making C the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true…"
+        },
+        {
+          "letter": "B",
+          "text": "Megaloblastic anemia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا increases) bile salt uptake/reabsorption, making C the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation (D, from bile salt malabsorption) are all true…"
+        },
+        {
+          "letter": "C",
+          "text": "Increased bile salt uptake",
+          "verdict": "correct",
+          "reason": "استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده."
+        },
+        {
+          "letter": "D",
+          "text": "Gallstones formation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased bile salt uptake.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Gallstones formation تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل زيادة الامتصاص كنتيجة منطقية، متناسيًا أن استئصال الجزء المسؤول عن هذا الامتصاص يُنقصه لا يزيده.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل زيادة الامتصاص كنتيجة منطقية، متناسيًا أن استئصال الجزء المسؤول عن هذا الامتصاص يُنقصه لا يزيده."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Increased bile salt uptake",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Increased bile salt uptake"
+      },
+      "pills": [
+        "Ileal resection: Impairs bile salt uptake, doe"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Increased bile salt uptake. استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده. وتذكّر القاعدة: Ileal resection: Impairs bile salt uptake, doesn't increase. والإجابة الصحيحة هي C."
+    }
+  ]
+}

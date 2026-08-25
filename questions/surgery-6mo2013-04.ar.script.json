@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-04-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 4 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "5yo, midline neck swelling, protrudes with swallowing/tongue",
+  "question_ar": "طفل يبلغ من العمر 5 سنوات يعاني من تورم في خط الرقبة الأوسط، والذييبرز عند البلع أو لا يظهر أي بروز للسان، والتشخيص الأكثر احتمالا هو؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 4,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Thyroglossal cyst"
+    },
+    {
+      "letter": "B",
+      "text": "Cystic hygroma"
+    },
+    {
+      "letter": "C",
+      "text": "Thyroid lymphoma"
+    },
+    {
+      "letter": "D",
+      "text": "Cleft bronchial cyst"
+    },
+    {
+      "letter": "E",
+      "text": "Thyroiditis"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Thyroglossal cyst",
+  "purpose_ar": "يريد ربط تورم عنقي متوسط يتحرك مع البلع وبروز اللسان معًا بكيسة القناة الدرقية اللسانية.",
+  "trap_ar": "الطالب قد يختار كيسة غصنية خيشومية (لا تتحرك مع اللسان)، متناسيًا أن الحركة مع بروز اللسان تحديدًا توقيع مميز لهذه الكيسة.",
+  "summary_ar": "حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "5yo, midline neck swelling, protrudes with swallowing/tongue",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroglossal cyst"
+      },
+      "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر 5 سنوات يعاني من تورم في خط الرقبة الأوسط، والذييبرز عند البلع أو لا يظهر أي بروز للسان، والتشخيص الأكثر احتمالا هو؟ أمامك هذه الخيارات: Thyroglossal cyst، أو Cystic hygroma، أو Thyroid lymphoma، أو Cleft bronchial cyst، أو Thyroiditis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد ربط تورم عنقي متوسط يتحرك مع البلع وبروز اللسان معًا بكيسة القناة الدرقية اللسانية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد ربط تورم عنقي متوسط يتحرك مع البلع وبروز اللسان معًا بكيسة القناة الدرقية اللسانية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Thyroglossal cyst",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroglossal cyst"
+      },
+      "card_text": "حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية. حرف T المزدوج يربط هذه الكيسة بحركتها المميزة مع اللسان."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Cystic hygroma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا midline. يصبح صحيحًا في سؤال يصف Cystic hygroma is a soft, transilluminant lateral neck swelling. الخيار C، Thyroid lymphoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a cyst moving with tongue protrusion. يصبح صحيحًا في سؤال يصف thyroid lymphoma and thyroiditis present as diffuse thyroid enlargement. الخيار D، Cleft bronchial cyst: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا midline. يصبح صحيحًا في سؤال يصف a branchial cleft cyst is lateral. الخيار E، Thyroiditis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a cyst moving with tongue protrusion. يصبح صحيحًا في سؤال يصف thyroid lymphoma and thyroiditis present as diffuse thyroid enlargement.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Thyroglossal cyst",
+          "verdict": "correct",
+          "reason": "حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية."
+        },
+        {
+          "letter": "B",
+          "text": "Cystic hygroma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا midline.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Cystic hygroma is a soft, transilluminant lateral neck swelling."
+        },
+        {
+          "letter": "C",
+          "text": "Thyroid lymphoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a cyst moving with tongue protrusion.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف thyroid lymphoma and thyroiditis present as diffuse thyroid enlargement."
+        },
+        {
+          "letter": "D",
+          "text": "Cleft bronchial cyst",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا midline.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف a branchial cleft cyst is lateral."
+        },
+        {
+          "letter": "E",
+          "text": "Thyroiditis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a cyst moving with tongue protrusion.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف thyroid lymphoma and thyroiditis present as diffuse thyroid enlargement."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار كيسة غصنية خيشومية (لا تتحرك مع اللسان)، متناسيًا أن الحركة مع بروز اللسان تحديدًا توقيع مميز لهذه الكيسة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار كيسة غصنية خيشومية (لا تتحرك مع اللسان)، متناسيًا أن الحركة مع بروز اللسان تحديدًا توقيع مميز لهذه الكيسة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Thyroglossal cyst",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "Thyroglossal cyst"
+      },
+      "pills": [
+        "Thyroglossal cyst: Tugged by Tongue movement t"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Thyroglossal cyst. حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية. وتذكّر القاعدة: Thyroglossal cyst: Tugged by Tongue movement too. والإجابة الصحيحة هي A."
+    }
+  ]
+}

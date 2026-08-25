@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2019-31-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 31 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "RUQ pain + jaundice + fever + gallbladder wall thickening + dilated CBD >12mm",
+  "question_ar": "حضرت امرأة تبلغ من العمر 35 عامًا إلى قسم الطوارئ تعاني من ألم فيالمرارة. أظهر الفحص السريري إصابتها باليرقان والحمى. خضعت لتصويربالموجات فوق الصوتية للبطن، وكانت النتيجة زيادة في سماكة جدار المرارة،وتوسع في قناة الصفراء بأكثر من 12 مم. مع وجود حصوات صفراوية، فإنالخطوة التالية الأنسب للعلاج هي:",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 31,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Admission and Emergency Laparatomy."
+    },
+    {
+      "letter": "B",
+      "text": "Admission and Emergency opened cholesyctectomy."
+    },
+    {
+      "letter": "C",
+      "text": "Admission, iv fluid, antibiotics, recommend for urgent ERCP."
+    },
+    {
+      "letter": "D",
+      "text": "Admission and Emergency opened CBD exploration."
+    },
+    {
+      "letter": "E",
+      "text": "Admission and iv fluid, antibiotics, recommend for urgent MRCP."
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Admission, iv fluid, antibiotics, recommend for urgent ERCP.",
+  "purpose_ar": "تطبيق التسلسل الصحيح لعلاج التهاب الطرق الصفراوية الصاعد (إنعاش + مضادات حيوية أولًا، ثم ERCP عاجل لتصريف الانسداد) وليس جراحة فورية مباشرة.",
+  "trap_ar": "قد يختار الطالب استئصال المرارة المفتوح الطارئ (B) أو استكشاف القناة الجامعة الطارئ (D) ظنًا أن الحالة تستدعي جراحة فورية، متجاهلاً أن ERCP العاجل بعد الاستقرار هو التسلسل العلاجي الصحيح والأقل توغلًا.",
+  "summary_ar": "الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "RUQ pain + jaundice + fever + gallbladder wall thickening + ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Admission, iv fluid, antibiotics, reco"
+      },
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 35 عامًا إلى قسم الطوارئ تعاني من ألم فيالمرارة. أظهر الفحص السريري إصابتها باليرقان والحمى. خضعت لتصويربالموجات فوق الصوتية للبطن، وكانت النتيجة زيادة في سماكة جدار المرارة،وتوسع في قناة الصفراء بأكثر من 12 مم. مع وجود حصوات صفراوية، فإنالخطوة التالية الأنسب للعلاج هي: أمامك هذه الخيارات: Admission and Emergency Laparatomy.، أو Admission and Emergency opened cholesyctectomy.، أو Admission, iv fluid, antibiotics, recommend for urgent ERCP.، أو Admission and Emergency opened CBD exploration.، أو Admission and iv fluid, antibiotics, recommend for urgent MRCP.. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق التسلسل الصحيح لعلاج التهاب الطرق الصفراوية الصاعد (إنعاش + مضادات حيوية أولًا، ثم ERCP عاجل لتصريف الانسداد) وليس جراحة فورية مباشرة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق التسلسل الصحيح لعلاج التهاب الطرق الصفراوية الصاعد (إنعاش + مضادات حيوية أولًا، ثم ERCP عاجل لتصريف الانسداد) وليس جراحة فورية مباشرة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Admission, iv fluid, antibiotics, reco",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Admission, iv fluid, antibiotics, reco"
+      },
+      "card_text": "الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي. توسّع القناة الصفراوية الجامعة فوق 10-12 ملم مع علامات التهاب الطرق الصفراوية (حمى، يرقان، ألم) يوجّه مباشرة لتصريف عاجل بـ ERCP ، بعد إنعاش أولي بالسوائل والمضادات."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Admission and Emergency Laparatomy.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP.. يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first step. الخيار B، Admission and Emergency opened cholesyctectomy.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP.. يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first step. الخيار D، Admission and Emergency opened CBD exploration.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP.. يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first step. الخيار E، Admission and iv fluid, antibiotics, recommend for urgent MRCP.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP.. يصبح صحيحًا في سؤال يصف option with IV fluids/antibiotics plus urgent MRCP delays the more time-appropriate urgent ERCP, which directly treats the obstruction endoscopically.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Admission and Emergency Laparatomy.",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP..",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first…"
+        },
+        {
+          "letter": "B",
+          "text": "Admission and Emergency opened cholesyctectomy.",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP..",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first…"
+        },
+        {
+          "letter": "C",
+          "text": "Admission, iv fluid, antibiotics, recommend for urgent ERCP.",
+          "verdict": "correct",
+          "reason": "الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي."
+        },
+        {
+          "letter": "D",
+          "text": "Admission and Emergency opened CBD exploration.",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP..",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first…"
+        },
+        {
+          "letter": "E",
+          "text": "Admission and iv fluid, antibiotics, recommend for urgent MRCP.",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP..",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف option with IV fluids/antibiotics plus urgent MRCP delays the more time-appropriate urgent ERCP, which directly treats the obstruction…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب استئصال المرارة المفتوح الطارئ (B) أو استكشاف القناة الجامعة الطارئ (D) ظنًا أن الحالة تستدعي جراحة فورية، متجاهلاً أن ERCP العاجل بعد الاستقرار هو التسلسل العلاجي الصحيح والأقل توغلًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب استئصال المرارة المفتوح الطارئ (B) أو استكشاف القناة الجامعة الطارئ (D) ظنًا أن الحالة تستدعي جراحة فورية، متجاهلاً أن ERCP العاجل بعد الاستقرار هو التسلسل العلاجي الصحيح والأقل توغلًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Admission, iv fluid, antibiotics, recommend for ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Admission, iv fluid, antibiotics, reco"
+      },
+      "pills": [
+        "\"Dilated CBD + cholangitis = urgent ERCP after"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Admission, iv fluid, antibiotics, recommend for urgent ERCP.. الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي. وتذكّر القاعدة: \"Dilated CBD + cholangitis = urgent ERCP after stabilization\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

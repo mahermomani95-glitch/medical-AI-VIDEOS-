@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-07-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 7 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Liver tissue % maintained after resection for donation",
+  "question_ar": "نسبة أنسجة الكبد التي يجب الحفاظ عليها بعد استئصال الكبد للخنازيرالمتبرع بها (إذا كان الكبد سليمًا تمامًا) هي:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 7,
+  "options": [
+    {
+      "letter": "A",
+      "text": "0.8%"
+    },
+    {
+      "letter": "B",
+      "text": "8%"
+    },
+    {
+      "letter": "C",
+      "text": "80%"
+    },
+    {
+      "letter": "D",
+      "text": "30%"
+    },
+    {
+      "letter": "E",
+      "text": "0.2%"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "30%",
+  "purpose_ar": "يريد حفظ النسبة الدنيا للنسيج الكبدي الواجب الإبقاء عليها بعد استئصال جزء للتبرع (30٪).",
+  "trap_ar": "الطالب قد يخلط بين هذه النسبة ونسب أخرى مقاربة (كنسبة الاستئصال الأقصى)، وهو فخ رقمي يتطلب حفظًا دقيقًا.",
+  "summary_ar": "يجب الإبقاء على 30٪ من نسيج الكبد على الأقل بعد التبرع.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Liver tissue % maintained after resection for donation",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "30%"
+      },
+      "narration": "لنبدأ بهذا السؤال. نسبة أنسجة الكبد التي يجب الحفاظ عليها بعد استئصال الكبد للخنازيرالمتبرع بها (إذا كان الكبد سليمًا تمامًا) هي:؟ أمامك هذه الخيارات: 0.8%، أو 8%، أو 80%، أو 30%، أو 0.2%. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد حفظ النسبة الدنيا للنسيج الكبدي الواجب الإبقاء عليها بعد استئصال جزء للتبرع (30٪).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد حفظ النسبة الدنيا للنسيج الكبدي الواجب الإبقاء عليها بعد استئصال جزء للتبرع (30٪)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "30%",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "30%"
+      },
+      "card_text": "يجب الإبقاء على 30٪ من نسيج الكبد على الأقل بعد التبرع.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. يجب الإبقاء على 30٪ من نسيج الكبد على الأقل بعد التبرع. حرف T يذكرك بالنسبة الدنيا الآمنة الواجب الإبقاء عليها."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 0.8%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30%. يصبح صحيحًا في سؤال يصف 0.8%, 8%, and 0.2% are far too low to sustain adequate liver function after donation. الخيار B، 8%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30%. يصبح صحيحًا في سؤال يصف 0.8%, 8%, and 0.2% are far too low to sustain adequate liver function after donation. الخيار C، 80%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30%. يصبح صحيحًا في سؤال يستهدف 80% تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، 0.2%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30%. يصبح صحيحًا في سؤال يصف 0.8%, 8%, and 0.2% are far too low to sustain adequate liver function after donation.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "0.8%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 0.8%, 8%, and 0.2% are far too low to sustain adequate liver function after donation."
+        },
+        {
+          "letter": "B",
+          "text": "8%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 0.8%, 8%, and 0.2% are far too low to sustain adequate liver function after donation."
+        },
+        {
+          "letter": "C",
+          "text": "80%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف 80% تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "D",
+          "text": "30%",
+          "verdict": "correct",
+          "reason": "يجب الإبقاء على 30٪ من نسيج الكبد على الأقل بعد التبرع."
+        },
+        {
+          "letter": "E",
+          "text": "0.2%",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 0.8%, 8%, and 0.2% are far too low to sustain adequate liver function after donation."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يخلط بين هذه النسبة ونسب أخرى مقاربة (كنسبة الاستئصال الأقصى)، وهو فخ رقمي يتطلب حفظًا دقيقًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يخلط بين هذه النسبة ونسب أخرى مقاربة (كنسبة الاستئصال الأقصى)، وهو فخ رقمي يتطلب حفظًا دقيقًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. 30%",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "30%"
+      },
+      "pills": [
+        "Liver donation: keep Thirty percent minimum"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: 30%. يجب الإبقاء على 30٪ من نسيج الكبد على الأقل بعد التبرع."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. يجب الإبقاء على 30٪ من نسيج الكبد على الأقل بعد التبرع. وتذكّر القاعدة: Liver donation: keep Thirty percent minimum. والإجابة الصحيحة هي D."
+    }
+  ]
+}

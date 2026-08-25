@@ -1,0 +1,143 @@
+{
+  "id": "surgery-7mo2016-03-ar",
+  "source": "Surgery Board Question Bank -- 7th Month 2016 Course, Question 3 of 64",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Definitive management, Hyperkalemia",
+  "question_ar": "الإدارة النهائية لفرط بوتاسيوم الدم هي؟",
+  "course_label": "Course: Surgery — 7th Month 2016 Course",
+  "question_number": 3,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Calcium chloride"
+    },
+    {
+      "letter": "B",
+      "text": "Dextrose"
+    },
+    {
+      "letter": "C",
+      "text": "Dialysis"
+    },
+    {
+      "letter": "D",
+      "text": "Fluid hydration"
+    },
+    {
+      "letter": "E",
+      "text": "Salbutamol"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Dialysis",
+  "purpose_ar": "يريد التأكيد أن الغسيل الكلوي هو العلاج النهائي الحقيقي لفرط بوتاسيوم الدم (يزيله فعليًا لا يُخفيه مؤقتًا).",
+  "trap_ar": "الطالب قد يختار الإنسولين والغلوكوز كعلاج نهائي، متناسيًا أنه يُنقل البوتاسيوم داخل الخلايا مؤقتًا لا يُزيله من الجسم فعليًا.",
+  "summary_ar": "الغسيل الكلوي هو العلاج النهائي الوحيد الذي يزيل البوتاسيوم فعليًا من الجسم.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Definitive management, Hyperkalemia",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. الإدارة النهائية لفرط بوتاسيوم الدم هي؟ أمامك هذه الخيارات: Calcium chloride، أو Dextrose، أو Dialysis، أو Fluid hydration، أو Salbutamol. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الغسيل الكلوي هو العلاج النهائي الحقيقي لفرط بوتاسيوم الدم (يزيله فعليًا لا يُخفيه مؤقتًا).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الغسيل الكلوي هو العلاج النهائي الحقيقي لفرط بوتاسيوم الدم (يزيله فعليًا لا يُخفيه مؤقتًا)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Dialysis",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الغسيل الكلوي هو العلاج النهائي الوحيد الذي يزيل البوتاسيوم فعليًا من الجسم.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الغسيل الكلوي هو العلاج النهائي الوحيد الذي يزيل البوتاسيوم فعليًا من الجسم. حرف D المزدوج يربط الغسيل الكلوي بموقعه كالحل النهائي الحقيقي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Calcium chloride: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا remove potassium. يصبح صحيحًا في سؤال يصف Calcium chloride stabilizes the cardiac membrane but. الخيار B، Dextrose: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dialysis. يصبح صحيحًا في سؤال يستهدف Dextrose تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Fluid hydration: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the potassium load directly. يصبح صحيحًا في سؤال يصف fluid hydration alone. الخيار E، Salbutamol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dialysis. يصبح صحيحًا في سؤال يصف salbutamol also shifts potassium temporarily — dialysis remains the only definitive treatment that actually removes potassium from the body.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Calcium chloride",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا remove potassium.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Calcium chloride stabilizes the cardiac membrane but."
+        },
+        {
+          "letter": "B",
+          "text": "Dextrose",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dialysis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Dextrose تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "Dialysis",
+          "verdict": "correct",
+          "reason": "الغسيل الكلوي هو العلاج النهائي الوحيد الذي يزيل البوتاسيوم فعليًا من الجسم."
+        },
+        {
+          "letter": "D",
+          "text": "Fluid hydration",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the potassium load directly.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف fluid hydration alone."
+        },
+        {
+          "letter": "E",
+          "text": "Salbutamol",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Dialysis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف salbutamol also shifts potassium temporarily — dialysis remains the only definitive treatment that actually removes potassium from the body."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الإنسولين والغلوكوز كعلاج نهائي، متناسيًا أنه يُنقل البوتاسيوم داخل الخلايا مؤقتًا لا يُزيله من الجسم فعليًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الإنسولين والغلوكوز كعلاج نهائي، متناسيًا أنه يُنقل البوتاسيوم داخل الخلايا مؤقتًا لا يُزيله من الجسم فعليًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Dialysis",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Definitive hyperkalemia treatment: Dialysis"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Dialysis. الغسيل الكلوي هو العلاج النهائي الوحيد الذي يزيل البوتاسيوم فعليًا من الجسم."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الغسيل الكلوي هو العلاج النهائي الوحيد الذي يزيل البوتاسيوم فعليًا من الجسم. وتذكّر القاعدة: Definitive hyperkalemia treatment: Dialysis. والإجابة الصحيحة هي C."
+    }
+  ]
+}

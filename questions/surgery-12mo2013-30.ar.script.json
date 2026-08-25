@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2013-30-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2013 Course, Question 30 of 78",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Diabetic foot complications, true statement",
+  "question_ar": "أي مما يلي صحيح فيما يتعلق بمضاعفات القدم السكرية؟",
+  "course_label": "Course: Surgery — 12th Month 2013 Course",
+  "question_number": 30,
+  "options": [
+    {
+      "letter": "A",
+      "text": "The neuropathy is only sensory"
+    },
+    {
+      "letter": "B",
+      "text": "There is no relation to ongoing smoking"
+    },
+    {
+      "letter": "C",
+      "text": "The metatarsal phalangeal joints do not dislocate"
+    },
+    {
+      "letter": "D",
+      "text": "The prognosis is worse with arterial disease and ongoing smoking"
+    },
+    {
+      "letter": "E",
+      "text": "There is no place for surgical management"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "The prognosis is worse with arterial disease and ongoing smoking",
+  "purpose_ar": "يريد التأكيد أن اجتماع مرض شرياني مع استمرار التدخين يُسوّئ تشخيص القدم السكرية بشكل ملحوظ.",
+  "trap_ar": "الطالب قد يختار عبارة أخرى أقل دقة، متناسيًا أن اجتماع هذين العاملين تحديدًا يحمل تأثيرًا تراكميًا موثقًا سيئًا على التشخيص.",
+  "summary_ar": "اجتماع المرض الشرياني مع التدخين المستمر يُسوّئ تشخيص القدم السكرية.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Diabetic foot complications, true statement",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "The prognosis is worse with arterial d"
+      },
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بمضاعفات القدم السكرية؟ أمامك هذه الخيارات: The neuropathy is only sensory، أو There is no relation to ongoing smoking، أو The metatarsal phalangeal joints do not dislocate، أو The prognosis is worse with arterial disease and ongoing smoking، أو There is no place for surgical management. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن اجتماع مرض شرياني مع استمرار التدخين يُسوّئ تشخيص القدم السكرية بشكل ملحوظ.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن اجتماع مرض شرياني مع استمرار التدخين يُسوّئ تشخيص القدم السكرية بشكل ملحوظ."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "The prognosis is worse with arterial d",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "The prognosis is worse with arterial d"
+      },
+      "card_text": "اجتماع المرض الشرياني مع التدخين المستمر يُسوّئ تشخيص القدم السكرية.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. اجتماع المرض الشرياني مع التدخين المستمر يُسوّئ تشخيص القدم السكرية. حرف P يذكرك بتأثير هذين العاملين التراكمي السيئ."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The neuropathy is only sensory: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا purely sensory (A is false). يصبح صحيحًا في سؤال يصف The neuropathy in diabetic feet is actually mixed (sensory, motor, and autonomic). الخيار B، There is no relation to ongoing smoking: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The prognosis is worse with arterial disease and ongoing smoking. يصبح صحيحًا في سؤال يستهدف There is no relation to ongoing smoking تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، The metatarsal phalangeal joints do not dislocate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The prognosis is worse with arterial disease and ongoing smoking. يصبح صحيحًا في سؤال يصف metatarsophalangeal joints CAN dislocate in Charcot foot (C is false). الخيار E، There is no place for surgical management: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The prognosis is worse with arterial disease and ongoing smoking. يصبح صحيحًا في سؤال يصف surgical management (debridement, revascularization, amputation when needed) DOES have an important place (E is false) — these misstate true diabetic foot facts.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "The neuropathy is only sensory",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا purely sensory (A is false).",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The neuropathy in diabetic feet is actually mixed (sensory, motor, and autonomic)."
+        },
+        {
+          "letter": "B",
+          "text": "There is no relation to ongoing smoking",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The prognosis is worse with arterial disease and ongoing smoking.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف There is no relation to ongoing smoking تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        },
+        {
+          "letter": "C",
+          "text": "The metatarsal phalangeal joints do not dislocate",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The prognosis is worse with arterial disease and ongoing smoking.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف metatarsophalangeal joints CAN dislocate in Charcot foot (C is false)."
+        },
+        {
+          "letter": "D",
+          "text": "The prognosis is worse with arterial disease and ongoing smoking",
+          "verdict": "correct",
+          "reason": "اجتماع المرض الشرياني مع التدخين المستمر يُسوّئ تشخيص القدم السكرية."
+        },
+        {
+          "letter": "E",
+          "text": "There is no place for surgical management",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The prognosis is worse with arterial disease and ongoing smoking.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف surgical management (debridement, revascularization, amputation when needed) DOES have an important place (E is false) — these misstate true…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار عبارة أخرى أقل دقة، متناسيًا أن اجتماع هذين العاملين تحديدًا يحمل تأثيرًا تراكميًا موثقًا سيئًا على التشخيص.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار عبارة أخرى أقل دقة، متناسيًا أن اجتماع هذين العاملين تحديدًا يحمل تأثيرًا تراكميًا موثقًا سيئًا على التشخيص."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. The prognosis is worse with arterial disease and",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "The prognosis is worse with arterial d"
+      },
+      "pills": [
+        "Diabetic foot: Prognosis Plummets with smoking"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: The prognosis is worse with arterial disease and ongoing smoking. اجتماع المرض الشرياني مع التدخين المستمر يُسوّئ تشخيص القدم السكرية."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. اجتماع المرض الشرياني مع التدخين المستمر يُسوّئ تشخيص القدم السكرية. وتذكّر القاعدة: Diabetic foot: Prognosis Plummets with smoking + arterial disease. والإجابة الصحيحة هي D."
+    }
+  ]
+}

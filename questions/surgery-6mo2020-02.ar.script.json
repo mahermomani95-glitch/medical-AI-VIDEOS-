@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2020-02-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2020 Course, Question 2 of 60",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Best treatment for perianal abscess",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2020 Course",
+  "question_number": 2,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Hot application"
+    },
+    {
+      "letter": "B",
+      "text": "Bed rest"
+    },
+    {
+      "letter": "C",
+      "text": "Drainage"
+    },
+    {
+      "letter": "D",
+      "text": "Antibiotics"
+    },
+    {
+      "letter": "E",
+      "text": "Observation"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Drainage",
+  "purpose_ar": "حفظ المبدأ الجراحي الأساسي — أي خراج (بما فيه الخراج حول الشرج) يُعالَج بالتصريف الجراحي، وليس بالمضادات الحيوية وحدها.",
+  "trap_ar": "قد يختار الطالب المضادات الحيوية (D) كعلاج كافٍ لأنه يبدو أقل توغلًا، متجاهلاً أن التصريف الجراحي هو الأساس والمضادات دور مساعد فقط.",
+  "summary_ar": "الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Best treatment for perianal abscess",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Hot application، أو Bed rest، أو Drainage، أو Antibiotics، أو Observation. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ المبدأ الجراحي الأساسي — أي خراج (بما فيه الخراج حول الشرج) يُعالَج بالتصريف الجراحي، وليس بالمضادات الحيوية وحدها.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ المبدأ الجراحي الأساسي — أي خراج (بما فيه الخراج حول الشرج) يُعالَج بالتصريف الجراحي، وليس بالمضادات الحيوية وحدها."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Drainage",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه. أي خراج (بما فيه الخراج حول الشرج) علاجه الأساسي هو التصريف الجراحي؛ المضادات الحيوية وحدها لا تخترق جيب الصديد بفعالية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hot application: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation. الخيار B، Bed rest: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation. الخيار D، Antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف antibiotics alone can't adequately penetrate an abscess cavity — drainage remains essential. الخيار E، Observation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Hot application",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation."
+        },
+        {
+          "letter": "B",
+          "text": "Bed rest",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation."
+        },
+        {
+          "letter": "C",
+          "text": "Drainage",
+          "verdict": "correct",
+          "reason": "الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه."
+        },
+        {
+          "letter": "D",
+          "text": "Antibiotics",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف antibiotics alone can't adequately penetrate an abscess cavity — drainage remains essential."
+        },
+        {
+          "letter": "E",
+          "text": "Observation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب المضادات الحيوية (D) كعلاج كافٍ لأنه يبدو أقل توغلًا، متجاهلاً أن التصريف الجراحي هو الأساس والمضادات دور مساعد فقط.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب المضادات الحيوية (D) كعلاج كافٍ لأنه يبدو أقل توغلًا، متجاهلاً أن التصريف الجراحي هو الأساس والمضادات دور مساعد فقط."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Drainage",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Abscess = Drain it, don't just treat it with "
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Drainage. الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه. وتذكّر القاعدة: \"Abscess = Drain it, don't just treat it with antibiotics\". والإجابة الصحيحة هي C."
+    }
+  ]
+}

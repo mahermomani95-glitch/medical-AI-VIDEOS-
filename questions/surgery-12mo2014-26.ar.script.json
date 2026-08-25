@@ -1,0 +1,132 @@
+{
+  "id": "surgery-12mo2014-26-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2014 Course, Question 26 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common cause, wound infection",
+  "question_ar": "السبب الأكثر شيوعا لعدوى الجروح هو؟ (سؤال مكرر، راجع السؤال رقم 176)",
+  "course_label": "Course: Surgery — 12th Month 2014 Course",
+  "question_number": 26,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Streptococcus pyogen"
+    },
+    {
+      "letter": "B",
+      "text": "E.coli"
+    },
+    {
+      "letter": "C",
+      "text": "Bacteroid fragilis"
+    },
+    {
+      "letter": "D",
+      "text": "Staphylococcus aureus"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Staphylococcus aureus",
+  "purpose_ar": "يريد التأكيد أن المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح.",
+  "trap_ar": "الطالب قد يختار جرثومة أخرى، متناسيًا أن العنقودية الذهبية تتصدر إحصائيًا كل أسباب عدوى الجروح.",
+  "summary_ar": "المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common cause, wound infection",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لعدوى الجروح هو؟ (سؤال مكرر، راجع السؤال رقم 176) أمامك هذه الخيارات: Streptococcus pyogen، أو E.coli، أو Bacteroid fragilis، أو Staphylococcus aureus. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Staphylococcus aureus",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح. حرف S المزدوج يربط هذه الجرثومة بموقعها كالسبب الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Streptococcus pyogen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Bacteroides fragilis can all cause wound infections in certain contexts, but Staphylococcus aureus remains the most common overall cause of surgical wound infections. الخيار B، E.coli: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Bacteroides fragilis can all cause wound infections in certain contexts, but Staphylococcus aureus remains the most common overall cause of surgical wound infections. الخيار C، Bacteroid fragilis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Bacteroides fragilis can all cause wound infections in certain contexts, but Staphylococcus aureus remains the most common overall cause of surgical wound infections.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Streptococcus pyogen",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Bacteroides fragilis can all cause wound infections in certain contexts, but Staphylococcus aureus remains…"
+        },
+        {
+          "letter": "B",
+          "text": "E.coli",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Bacteroides fragilis can all cause wound infections in certain contexts, but Staphylococcus aureus remains…"
+        },
+        {
+          "letter": "C",
+          "text": "Bacteroid fragilis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Bacteroides fragilis can all cause wound infections in certain contexts, but Staphylococcus aureus remains…"
+        },
+        {
+          "letter": "D",
+          "text": "Staphylococcus aureus",
+          "verdict": "correct",
+          "reason": "المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار جرثومة أخرى، متناسيًا أن العنقودية الذهبية تتصدر إحصائيًا كل أسباب عدوى الجروح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار جرثومة أخرى، متناسيًا أن العنقودية الذهبية تتصدر إحصائيًا كل أسباب عدوى الجروح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Staphylococcus aureus",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Wound infection: mostly Staph aureus"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Staphylococcus aureus. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح. وتذكّر القاعدة: Wound infection: mostly Staph aureus. والإجابة الصحيحة هي D."
+    }
+  ]
+}

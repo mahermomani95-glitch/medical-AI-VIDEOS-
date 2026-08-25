@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-33-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 33 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "70M + giant inguinoscrotal hernia + not completely reducible + no bowel symptoms",
+  "question_ar": "أُحيل رجل يبلغ من العمر 70 عامًا إلى عيادتكم يعاني من فتق إربي أيسرمزمن. لم يلاحظ أي تغيرات حديثة في فتقه، وأمعاؤه طبيعية. عند الفحص،لاحظتم فتقًا إربيًا صفنيًا ضخمًا غير قابل للرد تمامًا. التشخيص الأكثراحتمالًا هو:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 33,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Strangulated inguinal hernia"
+    },
+    {
+      "letter": "B",
+      "text": "Incarcerated inguinal hernia"
+    },
+    {
+      "letter": "C",
+      "text": "Obstructed inguinal hernia"
+    },
+    {
+      "letter": "D",
+      "text": "Strangulated femoral hernia"
+    },
+    {
+      "letter": "E",
+      "text": "Incarcerated femoral hernia"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Incarcerated inguinal hernia",
+  "purpose_ar": "التفريق بين الفتق المحبوس (غير قابل للإرجاع فقط)، المنسد (يضيف انسدادًا معويًا)، والمختنق (يضيف نقص تروية) بناءً على الأعراض المرافقة.",
+  "trap_ar": "قد يختار الطالب الفتق المختنق (A) لأن كلمة \"فتق كبير غير قابل للإرجاع\" تبدو مثيرة للقلق، متجاهلاً أن غياب الألم الحاد والأعراض الجهازية ينفي الاختناق ويبقيه ضمن الحبس البسيط.",
+  "summary_ar": "فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "70M + giant inguinoscrotal hernia + not completely reducible",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Incarcerated inguinal hernia"
+      },
+      "narration": "لنبدأ بهذا السؤال. أُحيل رجل يبلغ من العمر 70 عامًا إلى عيادتكم يعاني من فتق إربي أيسرمزمن. لم يلاحظ أي تغيرات حديثة في فتقه، وأمعاؤه طبيعية. عند الفحص،لاحظتم فتقًا إربيًا صفنيًا ضخمًا غير قابل للرد تمامًا. التشخيص الأكثراحتمالًا هو: أمامك هذه الخيارات: Strangulated inguinal hernia، أو Incarcerated inguinal hernia، أو Obstructed inguinal hernia، أو Strangulated femoral hernia، أو Incarcerated femoral hernia. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التفريق بين الفتق المحبوس (غير قابل للإرجاع فقط)، المنسد (يضيف انسدادًا معويًا)، والمختنق (يضيف نقص تروية) بناءً على الأعراض المرافقة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التفريق بين الفتق المحبوس (غير قابل للإرجاع فقط)، المنسد (يضيف انسدادًا معويًا)، والمختنق (يضيف نقص تروية) بناءً على الأعراض المرافقة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Incarcerated inguinal hernia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Incarcerated inguinal hernia"
+      },
+      "card_text": "فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا. الفتق المحبوس (Incarcerated) يعني ببساطة عدم القدرة على إرجاعه، بينما \"المختنق\" (Strangulated) يضيف نقص تروية وأعراضًا جهازية، و\"المنسد\" (Obstructed) يضيف أعراض انسداد معوي — وهذا المريض لا يملك أيًا من الأعراض الإضافية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Strangulated inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia. يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related conditions, distinct from the non-hernial differential diagnosis being asked about for a groin lump. الخيار C، Obstructed inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia. يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related conditions, distinct from the non-hernial differential diagnosis being asked about for a groin lump. الخيار D، Strangulated femoral hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia. يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related conditions, distinct from the non-hernial differential diagnosis being asked about for a groin lump. الخيار E، Incarcerated femoral hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia. يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related conditions, distinct from the non-hernial differential diagnosis being asked about for a groin lump.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Strangulated inguinal hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related…"
+        },
+        {
+          "letter": "B",
+          "text": "Incarcerated inguinal hernia",
+          "verdict": "correct",
+          "reason": "فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا."
+        },
+        {
+          "letter": "C",
+          "text": "Obstructed inguinal hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related…"
+        },
+        {
+          "letter": "D",
+          "text": "Strangulated femoral hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related…"
+        },
+        {
+          "letter": "E",
+          "text": "Incarcerated femoral hernia",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب الفتق المختنق (A) لأن كلمة \"فتق كبير غير قابل للإرجاع\" تبدو مثيرة للقلق، متجاهلاً أن غياب الألم الحاد والأعراض الجهازية ينفي الاختناق ويبقيه ضمن الحبس البسيط.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب الفتق المختنق (A) لأن كلمة \"فتق كبير غير قابل للإرجاع\" تبدو مثيرة للقلق، متجاهلاً أن غياب الألم الحاد والأعراض الجهازية ينفي الاختناق ويبقيه ضمن الحبس البسيط."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Incarcerated inguinal hernia",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Incarcerated inguinal hernia"
+      },
+      "pills": [
+        "\"Irreducible + no symptoms = Incarcerated (not"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Incarcerated inguinal hernia. فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا. وتذكّر القاعدة: \"Irreducible + no symptoms = Incarcerated (not strangulated)\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

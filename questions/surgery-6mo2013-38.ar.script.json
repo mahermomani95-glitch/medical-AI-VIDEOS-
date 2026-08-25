@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-38-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 38 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "First priority, multiple injured patient",
+  "question_ar": "الأولوية الأولى في حالة إصابة المريض بأكثر من إصابة هي؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 38,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Ribs fracture"
+    },
+    {
+      "letter": "B",
+      "text": "Cut wound"
+    },
+    {
+      "letter": "C",
+      "text": "Tension pneumothorax"
+    },
+    {
+      "letter": "D",
+      "text": "Femur fracture"
+    },
+    {
+      "letter": "E",
+      "text": "Subdural hematoma"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Tension pneumothorax",
+  "purpose_ar": "يريد التأكيد أن استرواح الصدر الضاغط هو الأولوية القصوى الفورية بمريض متعدد الإصابات (يقتل خلال دقائق إن أُهمل).",
+  "trap_ar": "الطالب قد يختار نزفًا خارجيًا كأولوية أولى، متناسيًا أن الاسترواح الضاغط يهدد الحياة فورًا وأسرع من كثير من مصادر النزف.",
+  "summary_ar": "استرواح الصدر الضاغط يهدد الحياة فورًا فيستدعي أولوية قصوى.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "First priority, multiple injured patient",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Tension pneumothorax"
+      },
+      "narration": "لنبدأ بهذا السؤال. الأولوية الأولى في حالة إصابة المريض بأكثر من إصابة هي؟ أمامك هذه الخيارات: Ribs fracture، أو Cut wound، أو Tension pneumothorax، أو Femur fracture، أو Subdural hematoma. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن استرواح الصدر الضاغط هو الأولوية القصوى الفورية بمريض متعدد الإصابات (يقتل خلال دقائق إن أُهمل).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن استرواح الصدر الضاغط هو الأولوية القصوى الفورية بمريض متعدد الإصابات (يقتل خلال دقائق إن أُهمل)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Tension pneumothorax",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Tension pneumothorax"
+      },
+      "card_text": "استرواح الصدر الضاغط يهدد الحياة فورًا فيستدعي أولوية قصوى.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. استرواح الصدر الضاغط يهدد الحياة فورًا فيستدعي أولوية قصوى. حرف T المزدوج يذكرك بخطورة هذه الحالة الفورية القاتلة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ribs fracture: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tension pneumothorax. يصبح صحيحًا في سؤال يصف Rib fracture, a simple cut wound, femur fracture, and subdural hematoma are all significant injuries, but tension pneumothorax is an immediately life-threatening airway/breathing emergency that takes priority per trauma protocols. الخيار B، Cut wound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tension pneumothorax. يصبح صحيحًا في سؤال يصف Rib fracture, a simple cut wound, femur fracture, and subdural hematoma are all significant injuries, but tension pneumothorax is an immediately life-threatening airway/breathing emergency that takes priority per trauma protocols. الخيار D، Femur fracture: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tension pneumothorax. يصبح صحيحًا في سؤال يصف Rib fracture, a simple cut wound, femur fracture, and subdural hematoma are all significant injuries, but tension pneumothorax is an immediately life-threatening airway/breathing emergency that takes priority per trauma protocols. الخيار E، Subdural hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tension pneumothorax. يصبح صحيحًا في سؤال يصف Rib fracture, a simple cut wound, femur fracture, and subdural hematoma are all significant injuries, but tension pneumothorax is an immediately life-threatening airway/breathing emergency that takes priority per trauma protocols.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Ribs fracture",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tension pneumothorax.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Rib fracture, a simple cut wound, femur fracture, and subdural hematoma are all significant injuries, but tension pneumothorax is an immediately…"
+        },
+        {
+          "letter": "B",
+          "text": "Cut wound",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tension pneumothorax.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Rib fracture, a simple cut wound, femur fracture, and subdural hematoma are all significant injuries, but tension pneumothorax is an immediately…"
+        },
+        {
+          "letter": "C",
+          "text": "Tension pneumothorax",
+          "verdict": "correct",
+          "reason": "استرواح الصدر الضاغط يهدد الحياة فورًا فيستدعي أولوية قصوى."
+        },
+        {
+          "letter": "D",
+          "text": "Femur fracture",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tension pneumothorax.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Rib fracture, a simple cut wound, femur fracture, and subdural hematoma are all significant injuries, but tension pneumothorax is an immediately…"
+        },
+        {
+          "letter": "E",
+          "text": "Subdural hematoma",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tension pneumothorax.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Rib fracture, a simple cut wound, femur fracture, and subdural hematoma are all significant injuries, but tension pneumothorax is an immediately…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار نزفًا خارجيًا كأولوية أولى، متناسيًا أن الاسترواح الضاغط يهدد الحياة فورًا وأسرع من كثير من مصادر النزف.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار نزفًا خارجيًا كأولوية أولى، متناسيًا أن الاسترواح الضاغط يهدد الحياة فورًا وأسرع من كثير من مصادر النزف."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Tension pneumothorax",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Tension pneumothorax"
+      },
+      "pills": [
+        "Multiple injuries: Tension pneumothorax Tops p"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Tension pneumothorax. استرواح الصدر الضاغط يهدد الحياة فورًا فيستدعي أولوية قصوى."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. استرواح الصدر الضاغط يهدد الحياة فورًا فيستدعي أولوية قصوى. وتذكّر القاعدة: Multiple injuries: Tension pneumothorax Tops priority. والإجابة الصحيحة هي C."
+    }
+  ]
+}

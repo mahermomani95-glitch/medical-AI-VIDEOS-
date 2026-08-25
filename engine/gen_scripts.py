@@ -1,0 +1,536 @@
+#!/usr/bin/env python3
+"""Generate Arabic-track scene scripts (*.ar.script.json) from the parsed
+question bank.
+
+Every generated script is source-faithful and satisfies the project's
+mandatory rules:
+  * PURPOSE (مغزى) and TRAP (الفخ) scenes carry the docx text VERBATIM.
+  * Every choice gets a verdict: right/wrong for THIS question, why it's
+    wrong, and where that same choice WOULD be correct (`elsewhere`).
+  * The full English stem is always displayed; narration is Arabic with
+    English medical terminology preserved inline.
+  * No characters/presenters -- visuals are diagrams and text only.
+
+Per-choice `elsewhere` text is derived from the source's own bullet
+explanations where they describe what a distractor actually is; that
+description IS the answer to "where would this be correct". Choices with
+no usable source description get a conservative fallback and are reported
+so they can be deepened by hand.
+
+Usage:
+  python3 engine/gen_scripts.py questions/bank.json questions/ \
+      [--course "6th Month 2013"] [--limit N] [--report]
+"""
+import argparse
+import json
+import re
+import unicodedata
+from pathlib import Path
+
+ARABIC_RE = re.compile(r"[؀-ۿ]")
+LATIN_RE = re.compile(r"[A-Za-z]")
+
+# ---------------------------------------------------------------- helpers
+
+def has_arabic(s):
+    return bool(ARABIC_RE.search(s or ""))
+
+
+def clean(s):
+    """Normalize whitespace and strip stray markdown residue."""
+    if not s:
+        return ""
+    s = re.sub(r"\s+", " ", s)
+    s = s.replace("’", "'").replace("“", '"').replace("”", '"')
+    return s.strip()
+
+
+def fix_ar_latin_spacing(s):
+    """The source docx frequently glues an Arabic word to the next Latin
+    word (and vice versa), which both looks wrong on screen and makes the
+    TTS run-splitter mis-segment. Insert a space at those boundaries."""
+    if not s:
+        return s
+    s = re.sub(r"([؀-ۿ])([A-Za-z])", r"\1 \2", s)
+    s = re.sub(r"([A-Za-z])([؀-ۿ])", r"\1 \2", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def slug_course(course):
+    """'6th Month 2013' -> '6mo2013'; '1st Month 2017' -> '1mo2017'."""
+    m = re.match(r"(\d+)(?:st|nd|rd|th)?\s+Month\s+(\d{4})", course)
+    if m:
+        return f"{m.group(1)}mo{m.group(2)}"
+    return re.sub(r"[^a-z0-9]+", "-", course.lower()).strip("-")
+
+
+def sentence_case(s):
+    return s[:1].upper() + s[1:] if s else s
+
+
+def cap(s, limit):
+    """Trim to `limit` chars on a word boundary.
+
+    The verdict list is laid out on a fixed 1920x1080 canvas with five rows;
+    unbounded source text overflows off-screen (confirmed by stress-testing
+    the longest questions in the bank), so on-screen strings are capped.
+    Narration is NOT capped -- the spoken explanation keeps the full detail.
+    """
+    s = clean(s)
+    if len(s) <= limit:
+        return s
+    cut = s[:limit]
+    sp = cut.rfind(" ")
+    if sp > limit * 0.6:
+        cut = cut[:sp]
+    return cut.rstrip(" ,;:-—") + "…"
+
+
+# ------------------------------------------------------- bullet analysis
+
+def split_bullet_clauses(bullet):
+    """Split a bullet into the finest clauses that still describe one entity.
+
+    A comprehensive bullet often covers several distractors at once, either
+    separated by ';' or strung together with 'and'/','. Splitting only on
+    ';' leaves one sweeping clause that then gets pasted onto every choice.
+    So long clauses are further split on ', and' / ' and ' / ',' -- but only
+    when the resulting fragment still looks like a description (contains a
+    verb), so entity names like "second and third portion of the duodenum"
+    aren't torn apart into meaningless pieces.
+    """
+    VERBISH = re.compile(
+        r"\b(is|are|was|were|presents?|present|causes?|occurs?|refers?|"
+        r"describes?|produces?|involves?|affects?|appears?|remains?|has|have|"
+        r"typically|usually|classically|rather)\b", re.I)
+
+    out = []
+    for part in re.split(r"[;]", bullet):
+        part = clean(part)
+        if not part:
+            continue
+        out.append(part)
+        if len(part) < 90:
+            continue
+        # Try a finer split for sweeping clauses.
+        fine = [clean(x) for x in re.split(r",\s+and\s+|\s+and\s+|,\s+", part)]
+        fine = [x for x in fine if len(x) >= 18 and VERBISH.search(x)]
+        if len(fine) >= 2:
+            out.extend(fine)
+    return out
+
+
+def choice_keywords(text):
+    """Content words from a choice, used to match it to a bullet clause."""
+    words = re.findall(r"[A-Za-z][A-Za-z\-']{2,}", text or "")
+    stop = {
+        "the", "and", "then", "with", "for", "are", "was", "were", "this",
+        "that", "than", "more", "most", "less", "common", "seen", "from",
+        "into", "out", "his", "her", "its", "not", "all", "can", "may",
+        "has", "have", "been", "will", "would", "should", "there", "these",
+        "which", "what", "when", "where", "who", "whom", "does", "did",
+    }
+    return [w.lower() for w in words if w.lower() not in stop]
+
+
+# Source bullets sometimes contain editorial meta-commentary about the
+# answer key itself rather than medical content. That text is useless (and
+# confusing) on screen, so clauses containing it are rejected outright.
+META_RE = re.compile(
+    r"per the source|marked correct answer|this entry clarifies|highlighted here|"
+    r"worth flagging|note:|the true/correct statement|correct exception|"
+    r"\(correct\)|making (?:this|it) the (?:correct|right)",
+    re.I,
+)
+
+
+def find_clause_for_choice(choice, bullets):
+    """Find the bullet clause that specifically describes THIS choice.
+
+    Requires real evidence that the clause is about this choice -- either an
+    explicit letter reference or a match on the choice's own distinctive
+    words. Without that guard a single sweeping clause gets pasted onto
+    every distractor, which reads as obviously wrong on screen.
+    """
+    kws = choice_keywords(choice["text"])
+    letter = choice["letter"]
+    best, best_score = None, 0
+    for bullet in bullets:
+        for clause in split_bullet_clauses(bullet):
+            if META_RE.search(clause):
+                continue
+            low = clause.lower()
+            lettered = False
+            for m in re.finditer(r"\(([A-E](?:\s*,\s*[A-E])*)\)", clause):
+                if letter in [x.strip() for x in m.group(1).split(",")]:
+                    lettered = True
+            kw_hits = sum(1 for kw in set(kws) if kw in low)
+            # Demand topical evidence: either this choice is named by letter,
+            # or enough of its own content words appear in the clause.
+            if not lettered and kw_hits < 2:
+                continue
+            score = (6 if lettered else 0) + 2 * kw_hits
+            if re.search(r"\b(is|are|presents?|causes?|occurs?|refers?|describes?)\b", low):
+                score += 1
+            if score > best_score:
+                best, best_score = clause, score
+    return best if best_score >= 4 else None
+
+
+def strip_letter_refs(s):
+    """Remove '(A)', '(A, B)' style references -- they refer to THIS
+    question's lettering and would be confusing in an 'elsewhere' note."""
+    s = re.sub(r"\s*\([A-E](?:\s*,\s*[A-E])*\)", "", s)
+    return clean(s)
+
+
+# Markers that separate "what this entity actually is" (before) from
+# "why it doesn't fit this question" (after).
+CONTRAST_RE = re.compile(
+    r"\s*(?:,\s*)?(?:\bnot\b|\brather than\b|\binstead of\b|\bdoesn't\b|"
+    r"\bdoes not\b|\bwouldn't\b|\bwould not\b|\bis not\b|\bare not\b)\s+",
+    re.I,
+)
+
+
+def describe_choice(clause, choice_text):
+    """Split a bullet clause into (what it IS, why it fails HERE).
+
+    Source clauses are typically written as
+        "<entity> is/presents as <description>, not <what this question shows>"
+    so the part before the contrast marker answers "where would this choice
+    be correct", and the part after answers "why is it wrong here". Returning
+    them separately keeps the two mandatory statements genuinely distinct
+    instead of repeating one sentence twice.
+    """
+    if not clause:
+        return None, None
+    c = strip_letter_refs(clause)
+    c = re.sub(r"^(?:and|but|while|whereas|however|only)\s+", "", c, flags=re.I)
+    # Drop tails that refer back to THIS question's answer.
+    c = re.split(r"\s+—\s+only\b", c, flags=re.I)[0]
+    c = re.split(r"\s*,\s*making (?:this|it)\b", c, flags=re.I)[0]
+    c = re.split(r"\s+—\s+none matches\b", c, flags=re.I)[0]
+    c = clean(c).rstrip(".")
+    if len(c) < 12:
+        return None, None
+
+    positive, contrast = c, None
+    m = CONTRAST_RE.search(c)
+    if m:
+        head = clean(c[: m.start()]).rstrip(",").rstrip()
+        tail = clean(c[m.end():]).rstrip(".")
+        if len(head) >= 12:
+            positive = head
+            if tail:
+                contrast = tail
+    return positive, contrast
+
+
+# ----------------------------------------------------- illustration logic
+
+BODY_KEYWORDS = [
+    (("abdom", "bowel", "colon", "gastric", "stomach", "liver", "biliary",
+      "pancrea", "spleen", "appendic", "hernia", "peritone", "ileum",
+      "duoden", "rectal", "rectum", "gallbladder"), "abdomen"),
+    (("chest", "lung", "thorax", "pulmon", "pleural", "cardiac", "heart",
+      "aortic", "esophag", "mediastin", "breast"), "chest"),
+    (("pelvi", "inguinal", "scrotal", "testic", "prostat", "bladder",
+      "urethra", "femoral", "groin"), "pelvis"),
+    (("limb", "leg", "arm", "hand", "foot", "fracture", "tibia", "femur",
+      "humerus", "digit", "vascular", "varicose", "claudicat"), "limb"),
+    (("neck", "thyroid", "head", "skull", "brain", "cranial", "scalp",
+      "parotid", "facial", "intracranial"), "head"),
+]
+
+
+def pick_region(*texts):
+    blob = " ".join(t or "" for t in texts).lower()
+    for keys, region in BODY_KEYWORDS:
+        if any(k in blob for k in keys):
+            return region
+    return "generic"
+
+
+ORDER_HINT = re.compile(r"\b(order|sequence|first|then|steps?|stage|phase)\b", re.I)
+
+
+def build_illustration(q, label_en):
+    """Choose a generic illustration that genuinely reflects this
+    question's content, rather than decorating every scene identically."""
+    stem = f"{q.get('trigger_en','')} {q.get('correct_text','')}"
+    # A question about ordering/sequence -> sequence diagram from the
+    # correct answer's own steps, when it reads as a chain.
+    if ORDER_HINT.search(stem):
+        parts = re.split(r"\s*(?:,|then|→|->)\s*", q.get("correct_text", ""))
+        parts = [sentence_case(clean(p)) for p in parts if clean(p)]
+        if 2 <= len(parts) <= 4:
+            return {"type": "sequence", "steps": parts}
+    region = pick_region(q.get("trigger_en"), q.get("correct_text"), q.get("connection_en"))
+    if region != "generic":
+        return {"type": "body", "region": region, "label": label_en}
+    return {"type": "icon"}
+
+
+# ------------------------------------------------------------- narration
+
+def opts_phrase(choices):
+    """Arabic narration listing the choices, English terms preserved."""
+    return "، أو ".join(clean(c["text"]) for c in choices)
+
+
+def build_script(course, q, course_index, total_in_course):
+    cslug = slug_course(course)
+    qid = f"surgery-{cslug}-{q['number']:02d}-ar"
+
+    correct = next((c for c in q["choices"] if c["correct"]), None)
+    stem_en = clean(q.get("trigger_en") or q.get("correct_text") or "")
+    stem_ar = fix_ar_latin_spacing(clean(q.get("trigger_ar") or ""))
+    purpose = fix_ar_latin_spacing(clean(q.get("purpose_ar") or ""))
+    trap = fix_ar_latin_spacing(clean(q.get("trap_ar") or ""))
+    conn_ar = fix_ar_latin_spacing(clean(q.get("connection_ar") or ""))
+    conn_en = clean(q.get("connection_en") or "")
+    mnem = clean(q.get("mnemonic") or "")
+    mnem_note = fix_ar_latin_spacing(clean(q.get("mnemonic_note") or ""))
+    bullets = [clean(b) for b in q.get("bullets", []) if clean(b)]
+
+    # ---- per-choice verdicts (mandatory rule) -------------------------
+    # `verdicts` carries the ON-SCREEN (capped) text; `spoken` keeps the
+    # full-length version so narration never loses detail the card had to
+    # trim for layout.
+    verdicts = []
+    spoken = []
+    weak = []
+    # A single sweeping source clause can legitimately describe several
+    # distractors at once. Showing the identical sentence on four rows reads
+    # as a bug even when it's accurate, so reuse is allowed twice and then
+    # falls back to the per-choice generic form.
+    desc_uses = {}
+    for ch in q["choices"]:
+        text = clean(ch["text"])
+        if ch["correct"]:
+            reason = conn_ar or f"هو الإجابة الصحيحة: {text}."
+            verdicts.append({
+                "letter": ch["letter"],
+                "text": cap(text, 90),
+                "verdict": "correct",
+                "reason": cap(reason, 180),
+            })
+            spoken.append({"letter": ch["letter"], "text": text,
+                           "verdict": "correct", "reason": reason, "elsewhere": ""})
+            continue
+        clause = find_clause_for_choice(ch, bullets)
+        desc, contrast = describe_choice(clause, text)
+        if desc:
+            # "Why wrong HERE" uses the contrast half when the source gives
+            # one, so it says something different from the "where it WOULD
+            # be correct" line rather than repeating it.
+            if contrast:
+                reason = f"لا يتوافق مع معطيات هذا السؤال — المطلوب هنا {contrast}."
+            else:
+                reason = (
+                    f"لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي "
+                    f"{clean(correct['text']) if correct else ''}."
+                )
+            elsewhere = f"يصبح صحيحًا في سؤال يصف {desc}."
+        else:
+            weak.append(ch["letter"])
+            reason = f"لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي {clean(correct['text']) if correct else ''}."
+            elsewhere = (
+                f"يصبح صحيحًا في سؤال يستهدف {text} تحديدًا بمعطياته المميزة، "
+                "لا في السيناريو المطروح هنا."
+            )
+        verdicts.append({
+            "letter": ch["letter"],
+            "text": cap(text, 90),
+            "verdict": "wrong",
+            "reason": cap(reason, 170),
+            "elsewhere": cap(elsewhere, 170),
+        })
+        spoken.append({"letter": ch["letter"], "text": text, "verdict": "wrong",
+                       "reason": reason, "elsewhere": elsewhere})
+
+    # ---- narration ----------------------------------------------------
+    n_question = (
+        f"لنبدأ بهذا السؤال. {stem_ar or ''} "
+        f"أمامك هذه الخيارات: {opts_phrase(q['choices'])}. لنحللها معًا."
+    ).strip()
+
+    n_purpose = f"قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: {purpose}"
+
+    concept_bits = [b for b in [conn_ar] if b]
+    if mnem_note:
+        concept_bits.append(mnem_note)
+    n_concept = (
+        "لنفهم الفكرة الطبية وراء السؤال. " + " ".join(concept_bits)
+        if concept_bits else
+        "لنفهم الفكرة الطبية وراء هذا السؤال ونربط المعطيات بالتشخيص الصحيح."
+    )
+
+    # Narration uses the UNCAPPED text so the spoken explanation keeps the
+    # full detail even where the on-screen card had to trim for layout.
+    wrong_v = [v for v in spoken if v["verdict"] == "wrong"]
+    n_wrong_parts = ["لنراجع الخيارات الخاطئة واحدًا واحدًا."]
+    for v in wrong_v:
+        n_wrong_parts.append(f"الخيار {v['letter']}، {v['text']}: {v['reason']} {v['elsewhere']}")
+    n_wrong = " ".join(n_wrong_parts)
+
+    n_trap = f"وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: {trap}"
+
+    n_correct = (
+        f"الإجابة الصحيحة هي الخيار {correct['letter']}: {clean(correct['text'])}. "
+        f"{conn_ar}"
+    ).strip() if correct else "الإجابة الصحيحة موضحة على الشاشة."
+
+    n_take = (
+        f"لنُثبّت الفكرة. {conn_ar} "
+        + (f"وتذكّر القاعدة: {mnem}. " if mnem else "")
+        + (f"والإجابة الصحيحة هي {correct['letter']}." if correct else "")
+    ).strip()
+
+    summary_ar = conn_ar or purpose
+
+    label_en = clean(q.get("correct_text") or stem_en)[:38]
+    illo = build_illustration(q, label_en)
+
+    scenes = [
+        {
+            "id": "QUESTION",
+            "visual": "question_card",
+            "caption": stem_en[:60] if stem_en else "Question",
+            "illustration": illo,
+            "narration": n_question,
+        },
+        {
+            "id": "OPTIONS",
+            "visual": "options_list",
+            "caption": "اختر الإجابة الصحيحة",
+            "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل.",
+        },
+        {
+            "id": "PURPOSE",
+            "visual": "purpose_card",
+            "heading_ar": "مغزى السؤال",
+            "caption": "مغزى السؤال",
+            "text_ar": purpose,
+            "narration": n_purpose,
+        },
+        {
+            "id": "CONCEPT",
+            "visual": "mechanism_card",
+            "heading_ar": "الفكرة الطبية",
+            "caption": label_en or "Key concept",
+            "illustration": illo,
+            "card_text": conn_ar or purpose,
+            "narration": n_concept,
+        },
+        {
+            "id": "WHY_WRONG",
+            "visual": "verdict_list",
+            "heading_ar": "تحليل كل خيار",
+            "caption": "لماذا كل خيار صحيح أو خاطئ",
+            "narration": n_wrong,
+            "verdicts": verdicts,
+        },
+        {
+            "id": "TRAP",
+            "visual": "trap_card",
+            "heading_ar": "الفخ",
+            "caption": "الفخ",
+            "text_ar": trap,
+            "narration": n_trap,
+        },
+        {
+            "id": "WHY_CORRECT",
+            "visual": "correct_gold",
+            "caption": f"{correct['letter']}. {clean(correct['text'])[:48]}" if correct else "الإجابة الصحيحة",
+            "illustration": illo,
+            "pills": [p for p in [mnem[:46] if mnem else None] if p],
+            "narration": n_correct,
+        },
+        {
+            "id": "TAKE_HOME",
+            "visual": "summary_card",
+            "caption": "نلقاكم في السؤال القادم",
+            "narration": n_take,
+        },
+    ]
+
+    script = {
+        "id": qid,
+        "source": f"Surgery Board Question Bank -- {course} Course, Question {q['number']} of {total_in_course}",
+        "language": "ar",
+        "voice": "ar-EG-ShakirNeural",
+        "rate_percent": "-10%",
+        "question": stem_en,
+        "question_ar": stem_ar,
+        "course_label": f"Course: Surgery — {course} Course",
+        "question_number": q["number"],
+        "options": [{"letter": c["letter"], "text": clean(c["text"])} for c in q["choices"]],
+        "correct_letter": correct["letter"] if correct else "",
+        "correct_text": clean(correct["text"]) if correct else "",
+        "purpose_ar": purpose,
+        "trap_ar": trap,
+        "summary_ar": summary_ar,
+        "scenes": scenes,
+    }
+    return script, weak
+
+
+# ------------------------------------------------------------------ main
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("bank")
+    ap.add_argument("outdir")
+    ap.add_argument("--course", help="only this course (substring match)")
+    ap.add_argument("--limit", type=int)
+    ap.add_argument("--report", action="store_true")
+    args = ap.parse_args()
+
+    bank = json.loads(Path(args.bank).read_text(encoding="utf-8"))
+    outdir = Path(args.outdir)
+    outdir.mkdir(parents=True, exist_ok=True)
+
+    written, skipped, weak_report = 0, [], []
+    for course_rec in bank:
+        course = course_rec["course"]
+        if args.course and args.course.lower() not in course.lower():
+            continue
+        total = len(course_rec["questions"])
+        for i, q in enumerate(course_rec["questions"]):
+            if not any(c["correct"] for c in q["choices"]):
+                skipped.append(f"{course} Q{q['number']} (no confirmed answer in source)")
+                continue
+            if not q.get("purpose_ar") or not q.get("trap_ar"):
+                skipped.append(f"{course} Q{q['number']} (missing purpose/trap)")
+                continue
+            script, weak = build_script(course, q, i, total)
+            path = outdir / f"{script['id'][:-3]}.ar.script.json"
+            path.write_text(json.dumps(script, ensure_ascii=False, indent=2), encoding="utf-8")
+            written += 1
+            if weak:
+                weak_report.append(f"{course} Q{q['number']}: weak elsewhere for {','.join(weak)}")
+            if args.limit and written >= args.limit:
+                break
+        if args.limit and written >= args.limit:
+            break
+
+    print(f"Wrote {written} scripts to {outdir}")
+    if skipped:
+        print(f"\nSkipped {len(skipped)} (flagged, never guessed):")
+        for s in skipped:
+            print("  -", s)
+    if args.report and weak_report:
+        print(f"\n{len(weak_report)} questions have auto-derived 'elsewhere' text that "
+              f"should be deepened by hand:")
+        for w in weak_report[:30]:
+            print("  -", w)
+        if len(weak_report) > 30:
+            print(f"  ... and {len(weak_report)-30} more")
+    elif weak_report:
+        print(f"\n{len(weak_report)} questions flagged for hand-deepening (use --report to list)")
+
+
+if __name__ == "__main__":
+    main()

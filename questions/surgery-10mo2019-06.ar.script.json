@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-06-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 6 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "30F + hematemesis + hepatomegaly/ascites + congested liver on CT",
+  "question_ar": "امرأة تبلغ من العمر 30 عامًا تشكو من ألم وانتفاخ في البطن. عانت من ثلاثنوبات من قيء دموي خفيف خلال الأشهر الستة الماضية. عند الفحص، تبينأنها تعاني من تضخم الكبد والاستسقاء. جميع وظائف الكبد مضطربة. أظهرالتصوير المقطعي المحوسب للكبد احتقانًا كبيرًا في الكبد. التشخيص الأكثراحتمالًا هو:",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 6,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Budd-Chiari syndrome"
+    },
+    {
+      "letter": "B",
+      "text": "Primary sclerosing cholangitis"
+    },
+    {
+      "letter": "C",
+      "text": "Primary biliary cirrhosis"
+    },
+    {
+      "letter": "D",
+      "text": "Caroli's disease"
+    },
+    {
+      "letter": "E",
+      "text": "Simple cystic disease"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Budd-Chiari syndrome",
+  "purpose_ar": "التعرف على متلازمة بود-كياري من صورتها الكلاسيكية (كبد كبير محتقن، استسقاء، اختلال وظائف كبد) الناتجة عن تجلط الأوردة الكبدية.",
+  "trap_ar": "قد يختار الطالب التهاب القنوات الصفراوية المصلب الأولي (B) لأنه أيضًا مرض كبدي مزمن مرتبط باختلال وظائف الكبد، متجاهلاً أن الصورة التصويرية المحددة هنا (كبد محتقن كبير) توجّه بدقة أكبر نحو بود-كياري.",
+  "summary_ar": "الكبد المحتقن مع تضخم كبدي واستسقاء يشير لانسداد التصريف الوريدي — تجلط الوريد الكبدي، متلازمة بود-كياري.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "30F + hematemesis + hepatomegaly/ascites + congested liver o",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Budd-Chiari syndrome"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 30 عامًا تشكو من ألم وانتفاخ في البطن. عانت من ثلاثنوبات من قيء دموي خفيف خلال الأشهر الستة الماضية. عند الفحص، تبينأنها تعاني من تضخم الكبد والاستسقاء. جميع وظائف الكبد مضطربة. أظهرالتصوير المقطعي المحوسب للكبد احتقانًا كبيرًا في الكبد. التشخيص الأكثراحتمالًا هو: أمامك هذه الخيارات: Budd-Chiari syndrome، أو Primary sclerosing cholangitis، أو Primary biliary cirrhosis، أو Caroli's disease، أو Simple cystic disease. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التعرف على متلازمة بود-كياري من صورتها الكلاسيكية (كبد كبير محتقن، استسقاء، اختلال وظائف كبد) الناتجة عن تجلط الأوردة الكبدية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التعرف على متلازمة بود-كياري من صورتها الكلاسيكية (كبد كبير محتقن، استسقاء، اختلال وظائف كبد) الناتجة عن تجلط الأوردة الكبدية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Budd-Chiari syndrome",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Budd-Chiari syndrome"
+      },
+      "card_text": "الكبد المحتقن مع تضخم كبدي واستسقاء يشير لانسداد التصريف الوريدي — تجلط الوريد الكبدي، متلازمة بود-كياري.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الكبد المحتقن مع تضخم كبدي واستسقاء يشير لانسداد التصريف الوريدي — تجلط الوريد الكبدي، متلازمة بود-كياري. الثلاثية الكلاسيكية لمتلازمة بود-كياري: ألم بطني، تضخم كبد، واستسقاء، ناتجة عن انسداد تصريف الأوردة الكبدية."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Primary sclerosing cholangitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Budd-Chiari syndrome. يصبح صحيحًا في سؤال يصف Primary sclerosing cholangitis, primary biliary cirrhosis, Caroli's disease, and simple cystic disease are all biliary/hepatic conditions, but Budd-Chiari syndrome specifically explains the congested liver, hepatomegaly, and ascites described here. الخيار C، Primary biliary cirrhosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Budd-Chiari syndrome. يصبح صحيحًا في سؤال يصف Primary sclerosing cholangitis, primary biliary cirrhosis, Caroli's disease, and simple cystic disease are all biliary/hepatic conditions, but Budd-Chiari syndrome specifically explains the congested liver, hepatomegaly, and ascites described here. الخيار D، Caroli's disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Budd-Chiari syndrome. يصبح صحيحًا في سؤال يصف Primary sclerosing cholangitis, primary biliary cirrhosis, Caroli's disease, and simple cystic disease are all biliary/hepatic conditions, but Budd-Chiari syndrome specifically explains the congested liver, hepatomegaly, and ascites described here. الخيار E، Simple cystic disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Budd-Chiari syndrome. يصبح صحيحًا في سؤال يصف Primary sclerosing cholangitis, primary biliary cirrhosis, Caroli's disease, and simple cystic disease are all biliary/hepatic conditions, but Budd-Chiari syndrome specifically explains the congested liver, hepatomegaly, and ascites described here.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Budd-Chiari syndrome",
+          "verdict": "correct",
+          "reason": "الكبد المحتقن مع تضخم كبدي واستسقاء يشير لانسداد التصريف الوريدي — تجلط الوريد الكبدي، متلازمة بود-كياري."
+        },
+        {
+          "letter": "B",
+          "text": "Primary sclerosing cholangitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Budd-Chiari syndrome.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Primary sclerosing cholangitis, primary biliary cirrhosis, Caroli's disease, and simple cystic disease are all biliary/hepatic conditions, but…"
+        },
+        {
+          "letter": "C",
+          "text": "Primary biliary cirrhosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Budd-Chiari syndrome.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Primary sclerosing cholangitis, primary biliary cirrhosis, Caroli's disease, and simple cystic disease are all biliary/hepatic conditions, but…"
+        },
+        {
+          "letter": "D",
+          "text": "Caroli's disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Budd-Chiari syndrome.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Primary sclerosing cholangitis, primary biliary cirrhosis, Caroli's disease, and simple cystic disease are all biliary/hepatic conditions, but…"
+        },
+        {
+          "letter": "E",
+          "text": "Simple cystic disease",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Budd-Chiari syndrome.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Primary sclerosing cholangitis, primary biliary cirrhosis, Caroli's disease, and simple cystic disease are all biliary/hepatic conditions, but…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب التهاب القنوات الصفراوية المصلب الأولي (B) لأنه أيضًا مرض كبدي مزمن مرتبط باختلال وظائف الكبد، متجاهلاً أن الصورة التصويرية المحددة هنا (كبد محتقن كبير) توجّه بدقة أكبر نحو بود-كياري.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب التهاب القنوات الصفراوية المصلب الأولي (B) لأنه أيضًا مرض كبدي مزمن مرتبط باختلال وظائف الكبد، متجاهلاً أن الصورة التصويرية المحددة هنا (كبد محتقن كبير) توجّه بدقة أكبر نحو بود-كياري."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Budd-Chiari syndrome",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Budd-Chiari syndrome"
+      },
+      "pills": [
+        "\"Congested liver + ascites + hepatomegaly = Bu"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Budd-Chiari syndrome. الكبد المحتقن مع تضخم كبدي واستسقاء يشير لانسداد التصريف الوريدي — تجلط الوريد الكبدي، متلازمة بود-كياري."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الكبد المحتقن مع تضخم كبدي واستسقاء يشير لانسداد التصريف الوريدي — تجلط الوريد الكبدي، متلازمة بود-كياري. وتذكّر القاعدة: \"Congested liver + ascites + hepatomegaly = Budd-Chiari\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

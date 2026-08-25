@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-18-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 18 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Causes of Hypersplenism, EXCEPT",
+  "question_ar": "كلها أسباب لفرط نشاط الطحال ما عدا:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 18,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Liver cirrhosis"
+    },
+    {
+      "letter": "B",
+      "text": "Portal HTN"
+    },
+    {
+      "letter": "C",
+      "text": "Sarcoidosis"
+    },
+    {
+      "letter": "D",
+      "text": "HCC"
+    },
+    {
+      "letter": "E",
+      "text": "Papillary thyroid cancer"
+    }
+  ],
+  "correct_letter": "E",
+  "correct_text": "Papillary thyroid cancer",
+  "purpose_ar": "يريد استبعاد سرطان الدرقية الحليمي (لا علاقة له بالطحال) من أسباب فرط نشاط الطحال الحقيقية.",
+  "trap_ar": "الطالب قد يظن أي سرطان مذكور مرتبطًا بالطحال، متناسيًا أن سرطان الدرقية عضو مختلف تمامًا لا صلة تشريحية أو وظيفية له بالطحال.",
+  "summary_ar": "سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Causes of Hypersplenism, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Papillary thyroid cancer"
+      },
+      "narration": "لنبدأ بهذا السؤال. كلها أسباب لفرط نشاط الطحال ما عدا:؟ أمامك هذه الخيارات: Liver cirrhosis، أو Portal HTN، أو Sarcoidosis، أو HCC، أو Papillary thyroid cancer. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد استبعاد سرطان الدرقية الحليمي (لا علاقة له بالطحال) من أسباب فرط نشاط الطحال الحقيقية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد استبعاد سرطان الدرقية الحليمي (لا علاقة له بالطحال) من أسباب فرط نشاط الطحال الحقيقية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Papillary thyroid cancer",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Papillary thyroid cancer"
+      },
+      "card_text": "سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال. حرف P المزدوج يذكرك أن هذا السرطان غريب تمامًا عن الطحال."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Liver cirrhosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer. يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike papillary thyroid cancer which has no direct relationship to splenic function. الخيار B، Portal HTN: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer. يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike papillary thyroid cancer which has no direct relationship to splenic function. الخيار C، Sarcoidosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer. يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike papillary thyroid cancer which has no direct relationship to splenic function. الخيار D، HCC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer. يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike papillary thyroid cancer which has no direct relationship to splenic function.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Liver cirrhosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike…"
+        },
+        {
+          "letter": "B",
+          "text": "Portal HTN",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike…"
+        },
+        {
+          "letter": "C",
+          "text": "Sarcoidosis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike…"
+        },
+        {
+          "letter": "D",
+          "text": "HCC",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary thyroid cancer.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or infiltration leading to hypersplenism, unlike…"
+        },
+        {
+          "letter": "E",
+          "text": "Papillary thyroid cancer",
+          "verdict": "correct",
+          "reason": "سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يظن أي سرطان مذكور مرتبطًا بالطحال، متناسيًا أن سرطان الدرقية عضو مختلف تمامًا لا صلة تشريحية أو وظيفية له بالطحال.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يظن أي سرطان مذكور مرتبطًا بالطحال، متناسيًا أن سرطان الدرقية عضو مختلف تمامًا لا صلة تشريحية أو وظيفية له بالطحال."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "E. Papillary thyroid cancer",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Papillary thyroid cancer"
+      },
+      "pills": [
+        "Papillary thyroid cancer: not a Player in hype"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار E: Papillary thyroid cancer. سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال. وتذكّر القاعدة: Papillary thyroid cancer: not a Player in hypersplenism. والإجابة الصحيحة هي E."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2020-16-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2020 Course, Question 16 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "55M + 2yr dysphagia on PPI + 18kg weight loss + fatigue + smoking history",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 12th Month 2020 Course",
+  "question_number": 16,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Increase the dose of PPI"
+    },
+    {
+      "letter": "B",
+      "text": "Endoscopy and biopsy"
+    },
+    {
+      "letter": "C",
+      "text": "Barium swallow"
+    },
+    {
+      "letter": "D",
+      "text": "24 hours pH monitoring"
+    },
+    {
+      "letter": "E",
+      "text": "CT scan of the chest with and without contrast"
+    }
+  ],
+  "correct_letter": "B",
+  "correct_text": "Endoscopy and biopsy",
+  "purpose_ar": "تطبيق مبدأ أساسي — أي عسر بلع مزمن مصحوب بعلامات إنذارية (نقص وزن كبير، أعراض جهازية، تاريخ تدخين) يستدعي التنظير والخزعة أولًا لاستبعاد الخباثة، وليس تصعيد علاج الجزر الحمضي.",
+  "trap_ar": "قد يختار الطالب زيادة جرعة مثبط مضخة البروتون (A) ظنًا أن الأعراض مجرد ارتجاع مقاوم يحتاج جرعة أعلى، متجاهلاً أن العلامات الإنذارية هنا (نقص وزن كبير، تعب، تاريخ تدخين) تستدعي استبعاد الخباثة أولًا.",
+  "summary_ar": "نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "55M + 2yr dysphagia on PPI + 18kg weight loss + fatigue + sm",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Endoscopy and biopsy"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Increase the dose of PPI، أو Endoscopy and biopsy، أو Barium swallow، أو 24 hours pH monitoring، أو CT scan of the chest with and without contrast. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "تطبيق مبدأ أساسي — أي عسر بلع مزمن مصحوب بعلامات إنذارية (نقص وزن كبير، أعراض جهازية، تاريخ تدخين) يستدعي التنظير والخزعة أولًا لاستبعاد الخباثة، وليس تصعيد علاج الجزر الحمضي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: تطبيق مبدأ أساسي — أي عسر بلع مزمن مصحوب بعلامات إنذارية (نقص وزن كبير، أعراض جهازية، تاريخ تدخين) يستدعي التنظير والخزعة أولًا لاستبعاد الخباثة، وليس تصعيد علاج الجزر الحمضي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Endoscopy and biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Endoscopy and biopsy"
+      },
+      "card_text": "نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط. اجتماع عسر البلع المزمن مع نقص وزن كبير وتاريخ تدخين طويل يستدعي استبعاد سرطان المريء مباشرة بالتنظير والخزعة، وليس افتراض أنها مجرد ارتجاع مقاوم للعلاج."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Increase the dose of PPI: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the alarm features present. يصبح صحيحًا في سؤال يصف Increasing PPI dose. الخيار C، Barium swallow: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا for ruling out malignancy directly. يصبح صحيحًا في سؤال يصف barium swallow and 24-hour pH monitoring are useful for functional assessment but. الخيار D، 24 hours pH monitoring: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا for ruling out malignancy directly. يصبح صحيحًا في سؤال يصف barium swallow and 24-hour pH monitoring are useful for functional assessment but. الخيار E، CT scan of the chest with and without contrast: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Endoscopy and biopsy. يصبح صحيحًا في سؤال يصف CT chest isn't the first-line test for esophageal mucosal pathology — endoscopy with biopsy is needed first.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Increase the dose of PPI",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the alarm features present.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Increasing PPI dose."
+        },
+        {
+          "letter": "B",
+          "text": "Endoscopy and biopsy",
+          "verdict": "correct",
+          "reason": "نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط."
+        },
+        {
+          "letter": "C",
+          "text": "Barium swallow",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا for ruling out malignancy directly.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف barium swallow and 24-hour pH monitoring are useful for functional assessment but."
+        },
+        {
+          "letter": "D",
+          "text": "24 hours pH monitoring",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا for ruling out malignancy directly.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف barium swallow and 24-hour pH monitoring are useful for functional assessment but."
+        },
+        {
+          "letter": "E",
+          "text": "CT scan of the chest with and without contrast",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Endoscopy and biopsy.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CT chest isn't the first-line test for esophageal mucosal pathology — endoscopy with biopsy is needed first."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب زيادة جرعة مثبط مضخة البروتون (A) ظنًا أن الأعراض مجرد ارتجاع مقاوم يحتاج جرعة أعلى، متجاهلاً أن العلامات الإنذارية هنا (نقص وزن كبير، تعب، تاريخ تدخين) تستدعي استبعاد الخباثة أولًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب زيادة جرعة مثبط مضخة البروتون (A) ظنًا أن الأعراض مجرد ارتجاع مقاوم يحتاج جرعة أعلى، متجاهلاً أن العلامات الإنذارية هنا (نقص وزن كبير، تعب، تاريخ تدخين) تستدعي استبعاد الخباثة أولًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "B. Endoscopy and biopsy",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Endoscopy and biopsy"
+      },
+      "pills": [
+        "\"Dysphagia + weight loss + smoking history = E"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار B: Endoscopy and biopsy. نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط. وتذكّر القاعدة: \"Dysphagia + weight loss + smoking history = Endoscopy/biopsy, rule out cancer\". والإجابة الصحيحة هي B."
+    }
+  ]
+}

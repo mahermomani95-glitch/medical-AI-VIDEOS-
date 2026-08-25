@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2014-14-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2014 Course, Question 14 of 30",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common complication, post splenectomy",
+  "question_ar": "المضاعفات الأكثر شيوعا بعد استئصال الطحال هي؟ (سؤال مكرر، راجع السؤال رقم 164)",
+  "course_label": "Course: Surgery — 12th Month 2014 Course",
+  "question_number": 14,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Wound infection"
+    },
+    {
+      "letter": "B",
+      "text": "Gastric dilatation"
+    },
+    {
+      "letter": "C",
+      "text": "Hemorrhage"
+    },
+    {
+      "letter": "D",
+      "text": "Atelactasis"
+    },
+    {
+      "letter": "E",
+      "text": "Pancreatitis"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Atelactasis",
+  "purpose_ar": "يريد التأكيد أن الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال.",
+  "trap_ar": "الطالب قد يختار النزف أو العدوى، متناسيًا أن الانخماص يتصدر إحصائيًا كأشيع مضاعفة بعد هذه الجراحة تحديدًا.",
+  "summary_ar": "الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common complication, post splenectomy",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Atelactasis"
+      },
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا بعد استئصال الطحال هي؟ (سؤال مكرر، راجع السؤال رقم 164) أمامك هذه الخيارات: Wound infection، أو Gastric dilatation، أو Hemorrhage، أو Atelactasis، أو Pancreatitis. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Atelactasis",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Atelactasis"
+      },
+      "card_text": "الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال. حرف A المزدوج يربط الانخماص بموقعه كالمضاعفة الأشيع."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Wound infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atelactasis. يصبح صحيحًا في سؤال يصف Wound infection, gastric dilatation, hemorrhage, and pancreatitis (E, from tail injury) can all occur after splenectomy, but atelectasis (particularly left lower lobe) remains the most common overall complication. الخيار B، Gastric dilatation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atelactasis. يصبح صحيحًا في سؤال يصف Wound infection, gastric dilatation, hemorrhage, and pancreatitis (E, from tail injury) can all occur after splenectomy, but atelectasis (particularly left lower lobe) remains the most common overall complication. الخيار C، Hemorrhage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atelactasis. يصبح صحيحًا في سؤال يصف Wound infection, gastric dilatation, hemorrhage, and pancreatitis (E, from tail injury) can all occur after splenectomy, but atelectasis (particularly left lower lobe) remains the most common overall complication. الخيار E، Pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atelactasis. يصبح صحيحًا في سؤال يستهدف Pancreatitis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Wound infection",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atelactasis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Wound infection, gastric dilatation, hemorrhage, and pancreatitis (E, from tail injury) can all occur after splenectomy, but atelectasis…"
+        },
+        {
+          "letter": "B",
+          "text": "Gastric dilatation",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atelactasis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Wound infection, gastric dilatation, hemorrhage, and pancreatitis (E, from tail injury) can all occur after splenectomy, but atelectasis…"
+        },
+        {
+          "letter": "C",
+          "text": "Hemorrhage",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atelactasis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Wound infection, gastric dilatation, hemorrhage, and pancreatitis (E, from tail injury) can all occur after splenectomy, but atelectasis…"
+        },
+        {
+          "letter": "D",
+          "text": "Atelactasis",
+          "verdict": "correct",
+          "reason": "الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال."
+        },
+        {
+          "letter": "E",
+          "text": "Pancreatitis",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atelactasis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Pancreatitis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار النزف أو العدوى، متناسيًا أن الانخماص يتصدر إحصائيًا كأشيع مضاعفة بعد هذه الجراحة تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار النزف أو العدوى، متناسيًا أن الانخماص يتصدر إحصائيًا كأشيع مضاعفة بعد هذه الجراحة تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Atelactasis",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Atelactasis"
+      },
+      "pills": [
+        "Post-splenectomy: mostly Atelectasis"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Atelactasis. الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الانخماص الرئوي هو المضاعفة الأشيع بعد استئصال الطحال. وتذكّر القاعدة: Post-splenectomy: mostly Atelectasis. والإجابة الصحيحة هي D."
+    }
+  ]
+}

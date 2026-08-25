@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2014-03-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2014 Course, Question 3 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Posterior urethral valve, visualized by",
+  "question_ar": "الصمام الإحليلي الخلفي هو ما يتم تصوره بواسطة؟",
+  "course_label": "Course: Surgery — 6th Month 2014 Course",
+  "question_number": 3,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Bladder U/S"
+    },
+    {
+      "letter": "B",
+      "text": "Static cystogram"
+    },
+    {
+      "letter": "C",
+      "text": "MCUG"
+    },
+    {
+      "letter": "D",
+      "text": "CT cystogram"
+    },
+    {
+      "letter": "E",
+      "text": "Retograde urethrogram"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "MCUG",
+  "purpose_ar": "يريد التأكيد أن تصوير المثانة والإحليل أثناء التبول هو الفحص الأنسب لتشخيص الصمام الإحليلي الخلفي.",
+  "trap_ar": "الطالب قد يختار الموجات فوق الصوتية وحدها، متناسيًا أن الصمام يظهر تحديدًا أثناء فعل التبول الذي يلتقطه MCUG لا الموجات الساكنة.",
+  "summary_ar": "تصوير المثانة أثناء التبول يكشف الصمام الإحليلي الخلفي مباشرة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Posterior urethral valve, visualized by",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "MCUG"
+      },
+      "narration": "لنبدأ بهذا السؤال. الصمام الإحليلي الخلفي هو ما يتم تصوره بواسطة؟ أمامك هذه الخيارات: Bladder U/S، أو Static cystogram، أو MCUG، أو CT cystogram، أو Retograde urethrogram. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن تصوير المثانة والإحليل أثناء التبول هو الفحص الأنسب لتشخيص الصمام الإحليلي الخلفي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن تصوير المثانة والإحليل أثناء التبول هو الفحص الأنسب لتشخيص الصمام الإحليلي الخلفي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "MCUG",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "MCUG"
+      },
+      "card_text": "تصوير المثانة أثناء التبول يكشف الصمام الإحليلي الخلفي مباشرة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. تصوير المثانة أثناء التبول يكشف الصمام الإحليلي الخلفي مباشرة. حرف M و V يذكرانك بالفحص الديناميكي المناسب لهذا التشخيص."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bladder U/S: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirm the diagnosis. يصبح صحيحًا في سؤال يصف Bladder ultrasound can suggest but. الخيار B، Static cystogram: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي MCUG. يصبح صحيحًا في سؤال يصف static cystogram lacks the dynamic voiding phase. الخيار D، CT cystogram: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي MCUG. يصبح صحيحًا في سؤال يصف CT cystogram and retrograde urethrogram aren't the standard tools — micturition cystourethrogram (MCUG) is the standard imaging test that visualizes the valve during voiding. الخيار E، Retograde urethrogram: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي MCUG. يصبح صحيحًا في سؤال يصف CT cystogram and retrograde urethrogram aren't the standard tools — micturition cystourethrogram (MCUG) is the standard imaging test that visualizes the valve during voiding.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Bladder U/S",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirm the diagnosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Bladder ultrasound can suggest but."
+        },
+        {
+          "letter": "B",
+          "text": "Static cystogram",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي MCUG.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف static cystogram lacks the dynamic voiding phase."
+        },
+        {
+          "letter": "C",
+          "text": "MCUG",
+          "verdict": "correct",
+          "reason": "تصوير المثانة أثناء التبول يكشف الصمام الإحليلي الخلفي مباشرة."
+        },
+        {
+          "letter": "D",
+          "text": "CT cystogram",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي MCUG.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CT cystogram and retrograde urethrogram aren't the standard tools — micturition cystourethrogram (MCUG) is the standard imaging test that…"
+        },
+        {
+          "letter": "E",
+          "text": "Retograde urethrogram",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي MCUG.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CT cystogram and retrograde urethrogram aren't the standard tools — micturition cystourethrogram (MCUG) is the standard imaging test that…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الموجات فوق الصوتية وحدها، متناسيًا أن الصمام يظهر تحديدًا أثناء فعل التبول الذي يلتقطه MCUG لا الموجات الساكنة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الموجات فوق الصوتية وحدها، متناسيًا أن الصمام يظهر تحديدًا أثناء فعل التبول الذي يلتقطه MCUG لا الموجات الساكنة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. MCUG",
+      "illustration": {
+        "type": "body",
+        "region": "pelvis",
+        "label": "MCUG"
+      },
+      "pills": [
+        "Posterior urethral valve: seen via MCUG during"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: MCUG. تصوير المثانة أثناء التبول يكشف الصمام الإحليلي الخلفي مباشرة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. تصوير المثانة أثناء التبول يكشف الصمام الإحليلي الخلفي مباشرة. وتذكّر القاعدة: Posterior urethral valve: seen via MCUG during Voiding. والإجابة الصحيحة هي C."
+    }
+  ]
+}

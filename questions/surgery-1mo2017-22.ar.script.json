@@ -1,0 +1,138 @@
+{
+  "id": "surgery-1mo2017-22-ar",
+  "source": "Surgery Board Question Bank -- 1st Month 2017 Course, Question 22 of 46",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "30yo, MEN1, confusion, somnolence, management",
+  "question_ar": "امرأة تبلغ من العمر 30 عامًا تم تشخيصها مؤخرًا بمتلازمة الأورام الصماويةالمتعددة، وتعاني من الارتباك والنعاس والإمساك وفترة \" كيو تي \" قصيرةعلى تخطيط القلب الكهربائي، وهي أفضل خطوة تالية؟ (سؤال مكرر، راجع السؤال رقم 257)",
+  "course_label": "Course: Surgery — 1st Month 2017 Course",
+  "question_number": 22,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Alpha B blockers"
+    },
+    {
+      "letter": "B",
+      "text": "B blockers"
+    },
+    {
+      "letter": "C",
+      "text": "Calcium gluconate"
+    },
+    {
+      "letter": "D",
+      "text": "IV fluid normal saline and Lasix"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "IV fluid normal saline and Lasix",
+  "purpose_ar": "يريد التأكيد أن السوائل الملحية الوريدية مع لاسيكس هما العلاج المناسب لأزمة فرط كالسيوم بمريضة MEN1.",
+  "trap_ar": "الطالب قد يختار الستيرويدات أو البيسفوسفونات كخط أول، متناسيًا أن التمييه بالسوائل الملحية وطرح الكالسيوم بمدر عروي هو النهج الفوري الأسرع للأزمة الحادة.",
+  "summary_ar": "السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "30yo, MEN1, confusion, somnolence, management",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "IV fluid normal saline and Lasix"
+      },
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 30 عامًا تم تشخيصها مؤخرًا بمتلازمة الأورام الصماويةالمتعددة، وتعاني من الارتباك والنعاس والإمساك وفترة \" كيو تي \" قصيرةعلى تخطيط القلب الكهربائي، وهي أفضل خطوة تالية؟ (سؤال مكرر، راجع السؤال رقم 257) أمامك هذه الخيارات: Alpha B blockers، أو B blockers، أو Calcium gluconate، أو IV fluid normal saline and Lasix. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن السوائل الملحية الوريدية مع لاسيكس هما العلاج المناسب لأزمة فرط كالسيوم بمريضة MEN1.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن السوائل الملحية الوريدية مع لاسيكس هما العلاج المناسب لأزمة فرط كالسيوم بمريضة MEN1."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "IV fluid normal saline and Lasix",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "IV fluid normal saline and Lasix"
+      },
+      "card_text": "السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة. حرف S و L يذكرانك بالثنائي العلاجي الفوري لهذه الأزمة."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Alpha B blockers: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Alpha blockers and beta blockers are used for pheochromocytoma. الخيار B، B blockers: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Alpha blockers and beta blockers are used for pheochromocytoma. الخيار C، Calcium gluconate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV fluid normal saline and Lasix. يصبح صحيحًا في سؤال يصف calcium gluconate treats hyperkalemia/cardiac stabilization, the opposite problem — IV fluids with furosemide are correct for the acute hypercalcemia causing confusion/somnolence in MEN1.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Alpha B blockers",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Alpha blockers and beta blockers are used for pheochromocytoma."
+        },
+        {
+          "letter": "B",
+          "text": "B blockers",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Alpha blockers and beta blockers are used for pheochromocytoma."
+        },
+        {
+          "letter": "C",
+          "text": "Calcium gluconate",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV fluid normal saline and Lasix.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف calcium gluconate treats hyperkalemia/cardiac stabilization, the opposite problem — IV fluids with furosemide are correct for the acute…"
+        },
+        {
+          "letter": "D",
+          "text": "IV fluid normal saline and Lasix",
+          "verdict": "correct",
+          "reason": "السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الستيرويدات أو البيسفوسفونات كخط أول، متناسيًا أن التمييه بالسوائل الملحية وطرح الكالسيوم بمدر عروي هو النهج الفوري الأسرع للأزمة الحادة.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الستيرويدات أو البيسفوسفونات كخط أول، متناسيًا أن التمييه بالسوائل الملحية وطرح الكالسيوم بمدر عروي هو النهج الفوري الأسرع للأزمة الحادة."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. IV fluid normal saline and Lasix",
+      "illustration": {
+        "type": "body",
+        "region": "head",
+        "label": "IV fluid normal saline and Lasix"
+      },
+      "pills": [
+        "MEN1 hypercalcemic crisis: Saline plus Lasix"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: IV fluid normal saline and Lasix. السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة. وتذكّر القاعدة: MEN1 hypercalcemic crisis: Saline plus Lasix. والإجابة الصحيحة هي D."
+    }
+  ]
+}

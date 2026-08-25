@@ -1,0 +1,143 @@
+{
+  "id": "surgery-4mo2017-46-ar",
+  "source": "Surgery Board Question Bank -- 4th Month 2017 Course, Question 46 of 68",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most reliable indicator, adequacy of burn resuscitation",
+  "question_ar": "المؤشر الأكثر موثوقية لمدى كفاية إنعاش الحروق هو؟",
+  "course_label": "Course: Surgery — 4th Month 2017 Course",
+  "question_number": 46,
+  "options": [
+    {
+      "letter": "A",
+      "text": "CVP"
+    },
+    {
+      "letter": "B",
+      "text": "PCWP"
+    },
+    {
+      "letter": "C",
+      "text": "Urine output"
+    },
+    {
+      "letter": "D",
+      "text": "Blood pressure"
+    },
+    {
+      "letter": "E",
+      "text": "Heart rate per minute"
+    }
+  ],
+  "correct_letter": "C",
+  "correct_text": "Urine output",
+  "purpose_ar": "يريد التأكيد المتكرر أن إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق.",
+  "trap_ar": "الطالب قد يختار ضغط الدم كمؤشر أساسي، متناسيًا أن إخراج البول أكثر حساسية ومباشرة لتقييم كفاية التروية لحظيًا.",
+  "summary_ar": "إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most reliable indicator, adequacy of burn resuscitation",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. المؤشر الأكثر موثوقية لمدى كفاية إنعاش الحروق هو؟ أمامك هذه الخيارات: CVP، أو PCWP، أو Urine output، أو Blood pressure، أو Heart rate per minute. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد المتكرر أن إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد المتكرر أن إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Urine output",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق. حرف U المزدوج يذكرك بأهمية هذا المؤشر العملي."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، CVP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output. يصبح صحيحًا في سؤال يصف CVP and PCWP require invasive monitoring and are less practical bedside indicators. الخيار B، PCWP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output. يصبح صحيحًا في سؤال يصف CVP and PCWP require invasive monitoring and are less practical bedside indicators. الخيار D، Blood pressure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output. يصبح صحيحًا في سؤال يصف blood pressure can remain deceptively normal despite inadequate perfusion. الخيار E، Heart rate per minute: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output. يصبح صحيحًا في سؤال يصف heart rate is affected by pain/anxiety — urine output remains the most reliable, practical indicator of adequate burn fluid resuscitation.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "CVP",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CVP and PCWP require invasive monitoring and are less practical bedside indicators."
+        },
+        {
+          "letter": "B",
+          "text": "PCWP",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CVP and PCWP require invasive monitoring and are less practical bedside indicators."
+        },
+        {
+          "letter": "C",
+          "text": "Urine output",
+          "verdict": "correct",
+          "reason": "إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق."
+        },
+        {
+          "letter": "D",
+          "text": "Blood pressure",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف blood pressure can remain deceptively normal despite inadequate perfusion."
+        },
+        {
+          "letter": "E",
+          "text": "Heart rate per minute",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف heart rate is affected by pain/anxiety — urine output remains the most reliable, practical indicator of adequate burn fluid resuscitation."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار ضغط الدم كمؤشر أساسي، متناسيًا أن إخراج البول أكثر حساسية ومباشرة لتقييم كفاية التروية لحظيًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار ضغط الدم كمؤشر أساسي، متناسيًا أن إخراج البول أكثر حساسية ومباشرة لتقييم كفاية التروية لحظيًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "C. Urine output",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Burn resuscitation adequacy: Urine output lead"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار C: Urine output. إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. إخراج البول هو المؤشر الأكثر موثوقية لكفاية إنعاش سوائل الحروق. وتذكّر القاعدة: Burn resuscitation adequacy: Urine output leads. والإجابة الصحيحة هي C."
+    }
+  ]
+}

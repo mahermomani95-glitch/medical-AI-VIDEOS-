@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2019-19-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2019 Course, Question 19 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "4 days vomiting + weakness + bradypnea + pH 7.55, CO3 40, PaCO2 50",
+  "question_ar": "أفاد مريضٌ بأنه يتقيأ منذ أربعة أيام. المريض عصبيّ، وضعيف، ويُبلغ عنتقلصات عضلية وضعف. عند التقييم، يُعاني المريض من بطء في التنفس معمعدل تنفس يبلغ 10. كانت نتيجة فحص غازات الدم الشرياني للمريض كمايلي: ثاني أكسيد الكربون 40، درجة الحموضة 7.55، ضغط ثاني أكسيدالكربون 50. ما هي الحالة التالية التي تُعاني منها؟",
+  "course_label": "Course: Surgery — 6th Month 2019 Course",
+  "question_number": 19,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Metabolic alkalosis partially compensated"
+    },
+    {
+      "letter": "B",
+      "text": "Metabolic alkalosis fully compensated"
+    },
+    {
+      "letter": "C",
+      "text": "Metabolic acidosis partially compensated"
+    },
+    {
+      "letter": "D",
+      "text": "Metabolic acidosis not compensated"
+    },
+    {
+      "letter": "E",
+      "text": "Respiratory alkalosis not compensated"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Metabolic alkalosis partially compensated",
+  "purpose_ar": "التدرب على تفسير غازات الدم الشرياني بدقة — تحديد الاضطراب الأساسي (قلاء استقلابي من فقدان الحمض بالقيء) ودرجة التعويض (جزئي وليس كاملًا لأن pH لا يزال غير طبيعي).",
+  "trap_ar": "قد يختار الطالب \"معوَّض بالكامل\" (B) لأن PaCO2 مرتفع فعلاً مما يوحي بتعويض تنفسي نشط، متجاهلاً أن pH لا يزال بعيدًا عن الطبيعي (7.55)، وهذا يعني أن التعويض جزئي فقط وليس كاملًا.",
+  "summary_ar": "ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "4 days vomiting + weakness + bradypnea + pH 7.55, CO3 40, Pa",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Metabolic alkalosis partially compensa"
+      },
+      "narration": "لنبدأ بهذا السؤال. أفاد مريضٌ بأنه يتقيأ منذ أربعة أيام. المريض عصبيّ، وضعيف، ويُبلغ عنتقلصات عضلية وضعف. عند التقييم، يُعاني المريض من بطء في التنفس معمعدل تنفس يبلغ 10. كانت نتيجة فحص غازات الدم الشرياني للمريض كمايلي: ثاني أكسيد الكربون 40، درجة الحموضة 7.55، ضغط ثاني أكسيدالكربون 50. ما هي الحالة التالية التي تُعاني منها؟ أمامك هذه الخيارات: Metabolic alkalosis partially compensated، أو Metabolic alkalosis fully compensated، أو Metabolic acidosis partially compensated، أو Metabolic acidosis not compensated، أو Respiratory alkalosis not compensated. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التدرب على تفسير غازات الدم الشرياني بدقة — تحديد الاضطراب الأساسي (قلاء استقلابي من فقدان الحمض بالقيء) ودرجة التعويض (جزئي وليس كاملًا لأن pH لا يزال غير طبيعي).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التدرب على تفسير غازات الدم الشرياني بدقة — تحديد الاضطراب الأساسي (قلاء استقلابي من فقدان الحمض بالقيء) ودرجة التعويض (جزئي وليس كاملًا لأن pH لا يزال غير طبيعي)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Metabolic alkalosis partially compensa",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Metabolic alkalosis partially compensa"
+      },
+      "card_text": "ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط. التعويض الكامل يُعيد pH لقرب الطبيعي (7.35-7.45)؛ هنا pH لا يزال 7.55 (مرتفع بوضوح)، فهذا يعني أن التعويض التنفسي بدأ لكنه لم يكتمل بعد."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Metabolic alkalosis fully compensated: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic alkalosis partially compensated. يصبح صحيحًا في سؤال يصف Fully compensated metabolic alkalosis would show a near-normal pH, unlike here. الخيار C، Metabolic acidosis partially compensated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the elevated pH and bicarbonate seen. يصبح صحيحًا في سؤال يصف metabolic acidosis. الخيار D، Metabolic acidosis not compensated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the elevated pH and bicarbonate seen. يصبح صحيحًا في سؤال يصف metabolic acidosis. الخيار E، Respiratory alkalosis not compensated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the primary metabolic bicarbonate elevation described. يصبح صحيحًا في سؤال يصف respiratory alkalosis.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Metabolic alkalosis partially compensated",
+          "verdict": "correct",
+          "reason": "ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط."
+        },
+        {
+          "letter": "B",
+          "text": "Metabolic alkalosis fully compensated",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic alkalosis partially compensated.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fully compensated metabolic alkalosis would show a near-normal pH, unlike here."
+        },
+        {
+          "letter": "C",
+          "text": "Metabolic acidosis partially compensated",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the elevated pH and bicarbonate seen.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف metabolic acidosis."
+        },
+        {
+          "letter": "D",
+          "text": "Metabolic acidosis not compensated",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the elevated pH and bicarbonate seen.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف metabolic acidosis."
+        },
+        {
+          "letter": "E",
+          "text": "Respiratory alkalosis not compensated",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the primary metabolic bicarbonate elevation described.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف respiratory alkalosis."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب \"معوَّض بالكامل\" (B) لأن PaCO2 مرتفع فعلاً مما يوحي بتعويض تنفسي نشط، متجاهلاً أن pH لا يزال بعيدًا عن الطبيعي (7.55)، وهذا يعني أن التعويض جزئي فقط وليس كاملًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب \"معوَّض بالكامل\" (B) لأن PaCO2 مرتفع فعلاً مما يوحي بتعويض تنفسي نشط، متجاهلاً أن pH لا يزال بعيدًا عن الطبيعي (7.55)، وهذا يعني أن التعويض جزئي فقط وليس كاملًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Metabolic alkalosis partially compensated",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Metabolic alkalosis partially compensa"
+      },
+      "pills": [
+        "\"pH still abnormal = only PARTIAL compensation"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Metabolic alkalosis partially compensated. ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط. وتذكّر القاعدة: \"pH still abnormal = only PARTIAL compensation\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

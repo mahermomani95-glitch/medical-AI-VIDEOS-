@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2013-15-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 15 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Gas used in laparoscopic operations",
+  "question_ar": "الغاز المستخدم في العمليات الجراحية بالمنظار هو:؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 15,
+  "options": [
+    {
+      "letter": "A",
+      "text": "O2"
+    },
+    {
+      "letter": "B",
+      "text": "N2O"
+    },
+    {
+      "letter": "C",
+      "text": "N2"
+    },
+    {
+      "letter": "D",
+      "text": "Co2"
+    },
+    {
+      "letter": "E",
+      "text": "Не"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Co2",
+  "purpose_ar": "يريد التأكيد أن ثاني أكسيد الكربون هو الغاز القياسي المستخدم لنفخ البطن بالجراحة المنظارية.",
+  "trap_ar": "الطالب قد يختار الأكسجين أو الهواء العادي، متناسيًا أن CO2 تحديدًا هو الخيار الآمن غير القابل للاشتعال والقابل للامتصاص السريع.",
+  "summary_ar": "ثاني أكسيد الكربون هو الغاز القياسي الآمن لنفخ البطن بالمنظار.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Gas used in laparoscopic operations",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. الغاز المستخدم في العمليات الجراحية بالمنظار هو:؟ أمامك هذه الخيارات: O2، أو N2O، أو N2، أو Co2، أو Не. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن ثاني أكسيد الكربون هو الغاز القياسي المستخدم لنفخ البطن بالجراحة المنظارية.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن ثاني أكسيد الكربون هو الغاز القياسي المستخدم لنفخ البطن بالجراحة المنظارية."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Co2",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "ثاني أكسيد الكربون هو الغاز القياسي الآمن لنفخ البطن بالمنظار.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. ثاني أكسيد الكربون هو الغاز القياسي الآمن لنفخ البطن بالمنظار. حرف C المزدوج يربط CO2 بكونه الخيار القياسي الآمن."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، O2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Co2. يصبح صحيحًا في سؤال يصف O2 supports combustion and isn't used for pneumoperitoneum. الخيار B، N2O: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Co2. يصبح صحيحًا في سؤال يصف N2O supports combustion (fire risk with electrocautery) and can diffuse into bowel gas. الخيار C، N2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Co2. يصبح صحيحًا في سؤال يصف N2 and helium are less commonly used and more costly — CO2 is preferred for its rapid absorption, low combustion risk, and solubility. الخيار E، Не: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Co2. يصبح صحيحًا في سؤال يصف N2 and helium are less commonly used and more costly — CO2 is preferred for its rapid absorption, low combustion risk, and solubility.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "O2",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Co2.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف O2 supports combustion and isn't used for pneumoperitoneum."
+        },
+        {
+          "letter": "B",
+          "text": "N2O",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Co2.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف N2O supports combustion (fire risk with electrocautery) and can diffuse into bowel gas."
+        },
+        {
+          "letter": "C",
+          "text": "N2",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Co2.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف N2 and helium are less commonly used and more costly — CO2 is preferred for its rapid absorption, low combustion risk, and solubility."
+        },
+        {
+          "letter": "D",
+          "text": "Co2",
+          "verdict": "correct",
+          "reason": "ثاني أكسيد الكربون هو الغاز القياسي الآمن لنفخ البطن بالمنظار."
+        },
+        {
+          "letter": "E",
+          "text": "Не",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Co2.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف N2 and helium are less commonly used and more costly — CO2 is preferred for its rapid absorption, low combustion risk, and solubility."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الأكسجين أو الهواء العادي، متناسيًا أن CO2 تحديدًا هو الخيار الآمن غير القابل للاشتعال والقابل للامتصاص السريع.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الأكسجين أو الهواء العادي، متناسيًا أن CO2 تحديدًا هو الخيار الآمن غير القابل للاشتعال والقابل للامتصاص السريع."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Co2",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "Laparoscopy gas: CO2, Consistently chosen"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Co2. ثاني أكسيد الكربون هو الغاز القياسي الآمن لنفخ البطن بالمنظار."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. ثاني أكسيد الكربون هو الغاز القياسي الآمن لنفخ البطن بالمنظار. وتذكّر القاعدة: Laparoscopy gas: CO2, Consistently chosen. والإجابة الصحيحة هي D."
+    }
+  ]
+}

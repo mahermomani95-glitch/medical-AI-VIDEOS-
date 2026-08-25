@@ -1,0 +1,149 @@
+{
+  "id": "surgery-6mo2013-47-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2013 Course, Question 47 of 54",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Most common site, distant metastasis breast cancer",
+  "question_ar": "الموقع الأكثر شيوعًا لانتشار سرطان الثدي البعيد هو؟",
+  "course_label": "Course: Surgery — 6th Month 2013 Course",
+  "question_number": 47,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Bone"
+    },
+    {
+      "letter": "B",
+      "text": "Lung"
+    },
+    {
+      "letter": "C",
+      "text": "Brain"
+    },
+    {
+      "letter": "D",
+      "text": "Liver"
+    },
+    {
+      "letter": "E",
+      "text": "Lymphatic nodes"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Bone",
+  "purpose_ar": "يريد التأكيد أن العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي.",
+  "trap_ar": "الطالب قد يختار الرئة أو الكبد، متناسيًا أن العظم يتصدر إحصائيًا كموقع الانتقال الأشيع لسرطان الثدي تحديدًا.",
+  "summary_ar": "العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Most common site, distant metastasis breast cancer",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Bone"
+      },
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لانتشار سرطان الثدي البعيد هو؟ أمامك هذه الخيارات: Bone، أو Lung، أو Brain، أو Liver، أو Lymphatic nodes. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Bone",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Bone"
+      },
+      "card_text": "العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي. حرف B المزدوج يربط العظم بموقعه كالأشيع لانتقال هذا السرطان."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Lung: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone. يصبح صحيحًا في سؤال يصف Lung, brain, liver, and lymph nodes are all common metastatic sites for breast cancer, but bone remains the single most common site overall. الخيار C، Brain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone. يصبح صحيحًا في سؤال يصف Lung, brain, liver, and lymph nodes are all common metastatic sites for breast cancer, but bone remains the single most common site overall. الخيار D، Liver: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone. يصبح صحيحًا في سؤال يصف Lung, brain, liver, and lymph nodes are all common metastatic sites for breast cancer, but bone remains the single most common site overall. الخيار E، Lymphatic nodes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone. يصبح صحيحًا في سؤال يصف Lung, brain, liver, and lymph nodes are all common metastatic sites for breast cancer, but bone remains the single most common site overall.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Bone",
+          "verdict": "correct",
+          "reason": "العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي."
+        },
+        {
+          "letter": "B",
+          "text": "Lung",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lung, brain, liver, and lymph nodes are all common metastatic sites for breast cancer, but bone remains the single most common site overall."
+        },
+        {
+          "letter": "C",
+          "text": "Brain",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lung, brain, liver, and lymph nodes are all common metastatic sites for breast cancer, but bone remains the single most common site overall."
+        },
+        {
+          "letter": "D",
+          "text": "Liver",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lung, brain, liver, and lymph nodes are all common metastatic sites for breast cancer, but bone remains the single most common site overall."
+        },
+        {
+          "letter": "E",
+          "text": "Lymphatic nodes",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Lung, brain, liver, and lymph nodes are all common metastatic sites for breast cancer, but bone remains the single most common site overall."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يختار الرئة أو الكبد، متناسيًا أن العظم يتصدر إحصائيًا كموقع الانتقال الأشيع لسرطان الثدي تحديدًا.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يختار الرئة أو الكبد، متناسيًا أن العظم يتصدر إحصائيًا كموقع الانتقال الأشيع لسرطان الثدي تحديدًا."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Bone",
+      "illustration": {
+        "type": "body",
+        "region": "chest",
+        "label": "Bone"
+      },
+      "pills": [
+        "Breast cancer metastasis: mostly to Bone"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Bone. العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. العظم هو الموقع الأشيع للانتقال البعيد لسرطان الثدي. وتذكّر القاعدة: Breast cancer metastasis: mostly to Bone. والإجابة الصحيحة هي A."
+    }
+  ]
+}

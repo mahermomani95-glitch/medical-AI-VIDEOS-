@@ -1,0 +1,149 @@
+{
+  "id": "surgery-10mo2019-31-ar",
+  "source": "Surgery Board Question Bank -- 10th Month 2019 Course, Question 31 of 50",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Parkland formula — 70kg + both upper limbs full-thickness burn",
+  "question_ar": "باستخدام صيغة باركلاند، فإن متطلبات السوائل في أول 24 ساعة لرجل يزن70 كجم ويعاني من حرق كامل السمك يشمل كلا الطرفين العلويين هي",
+  "course_label": "Course: Surgery — 10th Month 2019 Course",
+  "question_number": 31,
+  "options": [
+    {
+      "letter": "A",
+      "text": "5040 mL"
+    },
+    {
+      "letter": "B",
+      "text": "4200mL"
+    },
+    {
+      "letter": "C",
+      "text": "3920mL"
+    },
+    {
+      "letter": "D",
+      "text": "3360mL"
+    },
+    {
+      "letter": "E",
+      "text": "3000mL"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "5040 mL",
+  "purpose_ar": "التدرب على حساب مساحة سطح الجسم المحروقة (كلا الذراعين = 18%) ثم تطبيق معادلة باركلاند لحساب حجم السوائل الكلي المطلوب خلال 24 ساعة.",
+  "trap_ar": "قد ينسى الطالب أن \"كلا الذراعين\" يعني 18% (9%×2) وليس 9% فقط، فيحصل على نصف الرقم الصحيح.",
+  "summary_ar": "الذراعان معًا تمثلان 18% من مساحة سطح الجسم (9% لكل ذراع) — عوّض هذا الرقم في معادلة 4 × الوزن × النسبة المئوية لحساب الكمية الكلية لـ24 ساعة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Parkland formula — 70kg + both upper limbs full-thickness bu",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "5040 mL"
+      },
+      "narration": "لنبدأ بهذا السؤال. باستخدام صيغة باركلاند، فإن متطلبات السوائل في أول 24 ساعة لرجل يزن70 كجم ويعاني من حرق كامل السمك يشمل كلا الطرفين العلويين هي أمامك هذه الخيارات: 5040 mL، أو 4200mL، أو 3920mL، أو 3360mL، أو 3000mL. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "التدرب على حساب مساحة سطح الجسم المحروقة (كلا الذراعين = 18%) ثم تطبيق معادلة باركلاند لحساب حجم السوائل الكلي المطلوب خلال 24 ساعة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: التدرب على حساب مساحة سطح الجسم المحروقة (كلا الذراعين = 18%) ثم تطبيق معادلة باركلاند لحساب حجم السوائل الكلي المطلوب خلال 24 ساعة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "5040 mL",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "5040 mL"
+      },
+      "card_text": "الذراعان معًا تمثلان 18% من مساحة سطح الجسم (9% لكل ذراع) — عوّض هذا الرقم في معادلة 4 × الوزن × النسبة المئوية لحساب الكمية الكلية لـ24 ساعة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. الذراعان معًا تمثلان 18% من مساحة سطح الجسم (9% لكل ذراع) — عوّض هذا الرقم في معادلة 4 × الوزن × النسبة المئوية لحساب الكمية الكلية لـ24 ساعة. كل ذراع تمثل 9% من مساحة سطح الجسم حسب قاعدة التسعات، فالذراعان معًا = 18%؛ بتطبيق معادلة باركلاند: 4 × 70 × 18 = 5040 مل."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، 4200mL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5040 mL. يصبح صحيحًا في سؤال يصف 4200, 3920, 3360, and 3000 mL don't match the correct Parkland calculation of 5040 mL for both arms (18% TBSA) in a 70kg patient. الخيار C، 3920mL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5040 mL. يصبح صحيحًا في سؤال يصف 4200, 3920, 3360, and 3000 mL don't match the correct Parkland calculation of 5040 mL for both arms (18% TBSA) in a 70kg patient. الخيار D، 3360mL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5040 mL. يصبح صحيحًا في سؤال يصف 4200, 3920, 3360, and 3000 mL don't match the correct Parkland calculation of 5040 mL for both arms (18% TBSA) in a 70kg patient. الخيار E، 3000mL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5040 mL. يصبح صحيحًا في سؤال يصف 4200, 3920, 3360, and 3000 mL don't match the correct Parkland calculation of 5040 mL for both arms (18% TBSA) in a 70kg patient.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "5040 mL",
+          "verdict": "correct",
+          "reason": "الذراعان معًا تمثلان 18% من مساحة سطح الجسم (9% لكل ذراع) — عوّض هذا الرقم في معادلة 4 × الوزن × النسبة المئوية لحساب الكمية الكلية لـ24 ساعة."
+        },
+        {
+          "letter": "B",
+          "text": "4200mL",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5040 mL.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 4200, 3920, 3360, and 3000 mL don't match the correct Parkland calculation of 5040 mL for both arms (18% TBSA) in a 70kg patient."
+        },
+        {
+          "letter": "C",
+          "text": "3920mL",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5040 mL.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 4200, 3920, 3360, and 3000 mL don't match the correct Parkland calculation of 5040 mL for both arms (18% TBSA) in a 70kg patient."
+        },
+        {
+          "letter": "D",
+          "text": "3360mL",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5040 mL.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 4200, 3920, 3360, and 3000 mL don't match the correct Parkland calculation of 5040 mL for both arms (18% TBSA) in a 70kg patient."
+        },
+        {
+          "letter": "E",
+          "text": "3000mL",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5040 mL.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 4200, 3920, 3360, and 3000 mL don't match the correct Parkland calculation of 5040 mL for both arms (18% TBSA) in a 70kg patient."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد ينسى الطالب أن \"كلا الذراعين\" يعني 18% (9%×2) وليس 9% فقط، فيحصل على نصف الرقم الصحيح.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد ينسى الطالب أن \"كلا الذراعين\" يعني 18% (9%×2) وليس 9% فقط، فيحصل على نصف الرقم الصحيح."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. 5040 mL",
+      "illustration": {
+        "type": "body",
+        "region": "limb",
+        "label": "5040 mL"
+      },
+      "pills": [
+        "\"Both arms = 18% TBSA (9% each)\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: 5040 mL. الذراعان معًا تمثلان 18% من مساحة سطح الجسم (9% لكل ذراع) — عوّض هذا الرقم في معادلة 4 × الوزن × النسبة المئوية لحساب الكمية الكلية لـ24 ساعة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. الذراعان معًا تمثلان 18% من مساحة سطح الجسم (9% لكل ذراع) — عوّض هذا الرقم في معادلة 4 × الوزن × النسبة المئوية لحساب الكمية الكلية لـ24 ساعة. وتذكّر القاعدة: \"Both arms = 18% TBSA (9% each)\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

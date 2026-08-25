@@ -1,0 +1,149 @@
+{
+  "id": "surgery-12mo2017-11-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2017 Course, Question 11 of 49",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "60yo, colorectal cancer, EXCEPT",
+  "question_ar": "تم تشخيص مريض يبلغ من العمر 60 عامًا بسرطان القولون والمستقيم، جميعالجمل صحيحة باستثناء؟ (سؤال مكرر، راجع السؤال رقم 515)",
+  "course_label": "Course: Surgery — 12th Month 2017 Course",
+  "question_number": 11,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Most cases are sporadic (not related to inheritance)"
+    },
+    {
+      "letter": "B",
+      "text": "Cure is possible if the disease is localized"
+    },
+    {
+      "letter": "C",
+      "text": "Chemotherapy could be given before or after surgery"
+    },
+    {
+      "letter": "D",
+      "text": "Bleeding per rectum usually indicates that cancer in the Cecum"
+    },
+    {
+      "letter": "E",
+      "text": "CT scan for chest, abdomen, pelvis is the usual imaging test for staging"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "Bleeding per rectum usually indicates that cancer in the Cecum",
+  "purpose_ar": "يريد التأكيد أن النزف عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر/المستقيم، لا الأعور كما بالعبارة الخاطئة.",
+  "trap_ar": "الطالب قد يقبل ارتباطه بالأعور كصحيح، متناسيًا أن أورام الأعور (الجانب الأيمن) تميل للتظاهر بفقر دم خفي لا نزف ظاهر كالجانب الأيسر.",
+  "summary_ar": "النزف الظاهر عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر لا الأعور.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "60yo, colorectal cancer, EXCEPT",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Bleeding per rectum usually indicates "
+      },
+      "narration": "لنبدأ بهذا السؤال. تم تشخيص مريض يبلغ من العمر 60 عامًا بسرطان القولون والمستقيم، جميعالجمل صحيحة باستثناء؟ (سؤال مكرر، راجع السؤال رقم 515) أمامك هذه الخيارات: Most cases are sporadic (not related to inheritance)، أو Cure is possible if the disease is localized، أو Chemotherapy could be given before or after surgery، أو Bleeding per rectum usually indicates that cancer in the Cecum، أو CT scan for chest, abdomen, pelvis is the usual imaging test for staging. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "يريد التأكيد أن النزف عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر/المستقيم، لا الأعور كما بالعبارة الخاطئة.",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: يريد التأكيد أن النزف عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر/المستقيم، لا الأعور كما بالعبارة الخاطئة."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Bleeding per rectum usually indicates ",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Bleeding per rectum usually indicates "
+      },
+      "card_text": "النزف الظاهر عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر لا الأعور.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. النزف الظاهر عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر لا الأعور. حرف L المزدوج يذكرك بالموقع الصحيح المرتبط بهذا العرض."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Most cases are sporadic (not related to inheritance): لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cecal, which more often presents with occult bleeding/anemia), making D the false statement. يصبح صحيحًا في سؤال يصف Most cases being sporadic, curability when localized, and chemotherapy timing flexibility are true statements, and CT staging is also correct — however, bleeding per rectum is more suggestive of LEFT-sided/rectal cancer (. الخيار B، Cure is possible if the disease is localized: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cecal, which more often presents with occult bleeding/anemia), making D the false statement. يصبح صحيحًا في سؤال يصف Most cases being sporadic, curability when localized, and chemotherapy timing flexibility are true statements, and CT staging is also correct — however, bleeding per rectum is more suggestive of LEFT-sided/rectal cancer (. الخيار C، Chemotherapy could be given before or after surgery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cecal, which more often presents with occult bleeding/anemia), making D the false statement. يصبح صحيحًا في سؤال يصف Most cases being sporadic, curability when localized, and chemotherapy timing flexibility are true statements, and CT staging is also correct — however, bleeding per rectum is more suggestive of LEFT-sided/rectal cancer (. الخيار E، CT scan for chest, abdomen, pelvis is the usual imaging test for staging: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cecal, which more often presents with occult bleeding/anemia), making D the false statement. يصبح صحيحًا في سؤال يصف Most cases being sporadic, curability when localized, and chemotherapy timing flexibility are true statements, and CT staging is also correct — however, bleeding per rectum is more suggestive of LEFT-sided/rectal cancer (.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Most cases are sporadic (not related to inheritance)",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cecal, which more often presents with occult bleeding/anemia), making D the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Most cases being sporadic, curability when localized, and chemotherapy timing flexibility are true statements, and CT staging is also correct…"
+        },
+        {
+          "letter": "B",
+          "text": "Cure is possible if the disease is localized",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cecal, which more often presents with occult bleeding/anemia), making D the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Most cases being sporadic, curability when localized, and chemotherapy timing flexibility are true statements, and CT staging is also correct…"
+        },
+        {
+          "letter": "C",
+          "text": "Chemotherapy could be given before or after surgery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cecal, which more often presents with occult bleeding/anemia), making D the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Most cases being sporadic, curability when localized, and chemotherapy timing flexibility are true statements, and CT staging is also correct…"
+        },
+        {
+          "letter": "D",
+          "text": "Bleeding per rectum usually indicates that cancer in the Cecum",
+          "verdict": "correct",
+          "reason": "النزف الظاهر عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر لا الأعور."
+        },
+        {
+          "letter": "E",
+          "text": "CT scan for chest, abdomen, pelvis is the usual imaging test for staging",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cecal, which more often presents with occult bleeding/anemia), making D the false statement.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Most cases being sporadic, curability when localized, and chemotherapy timing flexibility are true statements, and CT staging is also correct…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "الطالب قد يقبل ارتباطه بالأعور كصحيح، متناسيًا أن أورام الأعور (الجانب الأيمن) تميل للتظاهر بفقر دم خفي لا نزف ظاهر كالجانب الأيسر.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: الطالب قد يقبل ارتباطه بالأعور كصحيح، متناسيًا أن أورام الأعور (الجانب الأيمن) تميل للتظاهر بفقر دم خفي لا نزف ظاهر كالجانب الأيسر."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. Bleeding per rectum usually indicates that cance",
+      "illustration": {
+        "type": "body",
+        "region": "abdomen",
+        "label": "Bleeding per rectum usually indicates "
+      },
+      "pills": [
+        "Visible rectal bleeding: points Left, not to c"
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: Bleeding per rectum usually indicates that cancer in the Cecum. النزف الظاهر عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر لا الأعور."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. النزف الظاهر عبر المستقيم يرتبط أكثر بأورام الجانب الأيسر لا الأعور. وتذكّر القاعدة: Visible rectal bleeding: points Left, not to cecum. والإجابة الصحيحة هي D."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "surgery-6mo2020-01-ar",
+  "source": "Surgery Board Question Bank -- 6th Month 2020 Course, Question 1 of 60",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Urgent surgery + chronic warfarin + normal INR",
+  "question_ar": "",
+  "course_label": "Course: Surgery — 6th Month 2020 Course",
+  "question_number": 1,
+  "options": [
+    {
+      "letter": "A",
+      "text": "Proceed with surgery"
+    },
+    {
+      "letter": "B",
+      "text": "Give FFP and do the surgery"
+    },
+    {
+      "letter": "C",
+      "text": "Postpone the surgery for 24 hr and stop warfarin"
+    },
+    {
+      "letter": "D",
+      "text": "Give heparin and do the surgery"
+    },
+    {
+      "letter": "E",
+      "text": "Postpone the surgery for 12 hr and stop warfarin"
+    }
+  ],
+  "correct_letter": "A",
+  "correct_text": "Proceed with surgery",
+  "purpose_ar": "معرفة أن قرار المضي بالجراحة عند مريض على وارفارين يعتمد على قيمة INR الفعلية وليس مجرد كونه \"على وارفارين مزمن\".",
+  "trap_ar": "قد يختار الطالب تأجيل الجراحة (C أو E) تلقائيًا لمجرد أن المريض \"على وارفارين\"، متجاهلاً أن INR الطبيعي يعني عمليًا أن تأثير الدواء قد زال بالفعل.",
+  "summary_ar": "INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Urgent surgery + chronic warfarin + normal INR",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Proceed with surgery، أو Give FFP and do the surgery، أو Postpone the surgery for 24 hr and stop warfarin، أو Give heparin and do the surgery، أو Postpone the surgery for 12 hr and stop warfarin. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "معرفة أن قرار المضي بالجراحة عند مريض على وارفارين يعتمد على قيمة INR الفعلية وليس مجرد كونه \"على وارفارين مزمن\".",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: معرفة أن قرار المضي بالجراحة عند مريض على وارفارين يعتمد على قيمة INR الفعلية وليس مجرد كونه \"على وارفارين مزمن\"."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "Proceed with surgery",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير. INR الطبيعي هو الدليل الموضوعي على أن تأثير الوارفارين التخثري قد زال، فلا داعٍ لتأخير الجراحة أو عكس التأثير."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Give FFP and do the surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery. يصبح صحيحًا في سؤال يصف Giving FFP to proceed immediately is unnecessary when INR is already normal. الخيار C، Postpone the surgery for 24 hr and stop warfarin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery. يصبح صحيحًا في سؤال يصف postponing 24 or 12 hours is unnecessary delay when the coagulation status is already safe. الخيار D، Give heparin and do the surgery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed when there's no ongoing anticoagulant effect to bridge. يصبح صحيحًا في سؤال يصف giving heparin. الخيار E، Postpone the surgery for 12 hr and stop warfarin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery. يصبح صحيحًا في سؤال يصف postponing 24 or 12 hours is unnecessary delay when the coagulation status is already safe.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "Proceed with surgery",
+          "verdict": "correct",
+          "reason": "INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير."
+        },
+        {
+          "letter": "B",
+          "text": "Give FFP and do the surgery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Giving FFP to proceed immediately is unnecessary when INR is already normal."
+        },
+        {
+          "letter": "C",
+          "text": "Postpone the surgery for 24 hr and stop warfarin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف postponing 24 or 12 hours is unnecessary delay when the coagulation status is already safe."
+        },
+        {
+          "letter": "D",
+          "text": "Give heparin and do the surgery",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed when there's no ongoing anticoagulant effect to bridge.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف giving heparin."
+        },
+        {
+          "letter": "E",
+          "text": "Postpone the surgery for 12 hr and stop warfarin",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف postponing 24 or 12 hours is unnecessary delay when the coagulation status is already safe."
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب تأجيل الجراحة (C أو E) تلقائيًا لمجرد أن المريض \"على وارفارين\"، متجاهلاً أن INR الطبيعي يعني عمليًا أن تأثير الدواء قد زال بالفعل.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب تأجيل الجراحة (C أو E) تلقائيًا لمجرد أن المريض \"على وارفارين\"، متجاهلاً أن INR الطبيعي يعني عمليًا أن تأثير الدواء قد زال بالفعل."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "A. Proceed with surgery",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Normal INR = safe to operate\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار A: Proceed with surgery. INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير. وتذكّر القاعدة: \"Normal INR = safe to operate\". والإجابة الصحيحة هي A."
+    }
+  ]
+}

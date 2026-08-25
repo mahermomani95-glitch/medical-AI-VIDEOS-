@@ -1,0 +1,143 @@
+{
+  "id": "surgery-12mo2019-17-ar",
+  "source": "Surgery Board Question Bank -- 12th Month 2019 Course, Question 17 of 26",
+  "language": "ar",
+  "voice": "ar-EG-ShakirNeural",
+  "rate_percent": "-10%",
+  "question": "Caloric requirement — moderately ill patient",
+  "question_ar": "كم كيلو كالوري/كجم يحتاج المريض الذي يعاني من مرض متوسط؟",
+  "course_label": "Course: Surgery — 12th Month 2019 Course",
+  "question_number": 17,
+  "options": [
+    {
+      "letter": "A",
+      "text": "15-20 kcal/kg/day"
+    },
+    {
+      "letter": "B",
+      "text": "20-25 kcal/kg/day"
+    },
+    {
+      "letter": "C",
+      "text": "25-30 kcal/kg/day"
+    },
+    {
+      "letter": "D",
+      "text": "30-35 kcal/kg/day"
+    },
+    {
+      "letter": "E",
+      "text": "35-40 kcal/kg/day"
+    }
+  ],
+  "correct_letter": "D",
+  "correct_text": "30-35 kcal/kg/day",
+  "purpose_ar": "حفظ التقدير التقريبي للاحتياج السعري اليومي عند مريض متوسط الشدة المرضية (25-30 كيلو كالوري/كغ/يوم).",
+  "trap_ar": "قد يختار الطالب رقمًا أعلى (35-40) ظنًا أن أي مريض \"مريض\" يحتاج سعرات عالية جدًا، متجاهلاً أن هذا الرقم الأعلى يُحفظ لحالات الشدة القصوى (كالحروق الكبرى) وليس المرض المتوسط.",
+  "summary_ar": "المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة.",
+  "scenes": [
+    {
+      "id": "QUESTION",
+      "visual": "question_card",
+      "caption": "Caloric requirement — moderately ill patient",
+      "illustration": {
+        "type": "icon"
+      },
+      "narration": "لنبدأ بهذا السؤال. كم كيلو كالوري/كجم يحتاج المريض الذي يعاني من مرض متوسط؟ أمامك هذه الخيارات: 15-20 kcal/kg/day، أو 20-25 kcal/kg/day، أو 25-30 kcal/kg/day، أو 30-35 kcal/kg/day، أو 35-40 kcal/kg/day. لنحللها معًا."
+    },
+    {
+      "id": "OPTIONS",
+      "visual": "options_list",
+      "caption": "اختر الإجابة الصحيحة",
+      "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل."
+    },
+    {
+      "id": "PURPOSE",
+      "visual": "purpose_card",
+      "heading_ar": "مغزى السؤال",
+      "caption": "مغزى السؤال",
+      "text_ar": "حفظ التقدير التقريبي للاحتياج السعري اليومي عند مريض متوسط الشدة المرضية (25-30 كيلو كالوري/كغ/يوم).",
+      "narration": "قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: حفظ التقدير التقريبي للاحتياج السعري اليومي عند مريض متوسط الشدة المرضية (25-30 كيلو كالوري/كغ/يوم)."
+    },
+    {
+      "id": "CONCEPT",
+      "visual": "mechanism_card",
+      "heading_ar": "الفكرة الطبية",
+      "caption": "30-35 kcal/kg/day",
+      "illustration": {
+        "type": "icon"
+      },
+      "card_text": "المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة.",
+      "narration": "لنفهم الفكرة الطبية وراء السؤال. المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة. الاحتياج السعري التقريبي لمريض بشدة مرضية متوسطة هو 25-30 كيلو كالوري/كغ/يوم، أعلى من الحاجة الأساسية للشخص السليم لكن أقل من حالات الشدة الشديدة كالحروق الكبرى."
+    },
+    {
+      "id": "WHY_WRONG",
+      "visual": "verdict_list",
+      "heading_ar": "تحليل كل خيار",
+      "caption": "لماذا كل خيار صحيح أو خاطئ",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 15-20 kcal/kg/day: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day. يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the higher ranges are reserved for more severe stress states like major burns. الخيار B، 20-25 kcal/kg/day: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day. يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the higher ranges are reserved for more severe stress states like major burns. الخيار C، 25-30 kcal/kg/day: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day. يصبح صحيحًا في سؤال يصف 25-30 kcal/kg/day is the typical estimated caloric requirement for a patient with moderate illness. الخيار E، 35-40 kcal/kg/day: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day. يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the higher ranges are reserved for more severe stress states like major burns.",
+      "verdicts": [
+        {
+          "letter": "A",
+          "text": "15-20 kcal/kg/day",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the…"
+        },
+        {
+          "letter": "B",
+          "text": "20-25 kcal/kg/day",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the…"
+        },
+        {
+          "letter": "C",
+          "text": "25-30 kcal/kg/day",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 25-30 kcal/kg/day is the typical estimated caloric requirement for a patient with moderate illness."
+        },
+        {
+          "letter": "D",
+          "text": "30-35 kcal/kg/day",
+          "verdict": "correct",
+          "reason": "المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة."
+        },
+        {
+          "letter": "E",
+          "text": "35-40 kcal/kg/day",
+          "verdict": "wrong",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the…"
+        }
+      ]
+    },
+    {
+      "id": "TRAP",
+      "visual": "trap_card",
+      "heading_ar": "الفخ",
+      "caption": "الفخ",
+      "text_ar": "قد يختار الطالب رقمًا أعلى (35-40) ظنًا أن أي مريض \"مريض\" يحتاج سعرات عالية جدًا، متجاهلاً أن هذا الرقم الأعلى يُحفظ لحالات الشدة القصوى (كالحروق الكبرى) وليس المرض المتوسط.",
+      "narration": "وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: قد يختار الطالب رقمًا أعلى (35-40) ظنًا أن أي مريض \"مريض\" يحتاج سعرات عالية جدًا، متجاهلاً أن هذا الرقم الأعلى يُحفظ لحالات الشدة القصوى (كالحروق الكبرى) وليس المرض المتوسط."
+    },
+    {
+      "id": "WHY_CORRECT",
+      "visual": "correct_gold",
+      "caption": "D. 30-35 kcal/kg/day",
+      "illustration": {
+        "type": "icon"
+      },
+      "pills": [
+        "\"Moderate illness ≈ 25-30 kcal/kg/day\""
+      ],
+      "narration": "الإجابة الصحيحة هي الخيار D: 30-35 kcal/kg/day. المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة."
+    },
+    {
+      "id": "TAKE_HOME",
+      "visual": "summary_card",
+      "caption": "نلقاكم في السؤال القادم",
+      "narration": "لنُثبّت الفكرة. المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة. وتذكّر القاعدة: \"Moderate illness ≈ 25-30 kcal/kg/day\". والإجابة الصحيحة هي D."
+    }
+  ]
+}
