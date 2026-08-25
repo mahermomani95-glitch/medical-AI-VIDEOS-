@@ -1,0 +1,56 @@
+name: Publish Catalog to GitHub Pages
+
+# Publishes docs/ as the public catalog site.
+#
+# Why a workflow rather than a one-off API call: creating a Pages site is not
+# something a personal access token is allowed to do (the REST endpoint answers
+# 403 "Resource not accessible by personal access token"). A workflow running
+# inside the repository uses GITHUB_TOKEN instead, which -- with `pages: write`
+# below -- can provision the site itself via configure-pages' `enablement`
+# flag. So this both switches Pages on and deploys, with no manual setup.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - ".github/workflows/pages.yml"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a running deploy finish rather than cancelling it midway; queued
+# re-runs simply supersede each other.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Enable and configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          # Creates the Pages site if it does not exist yet.
+          enablement: true
+
+      - name: Upload the catalog
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Show the published URL
+        run: echo "Catalog is live at ${{ steps.deployment.outputs.page_url }}"
