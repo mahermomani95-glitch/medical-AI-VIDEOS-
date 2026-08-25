@@ -31,8 +31,9 @@ NO_WEBFONTS = "<!-- offline build: system fonts only, no network requests -->"
 
 ONLINE_SUB = ("Every question from the 2013&ndash;2021 surgery board bank, rebuilt as a narrated "
               "teaching video &mdash; Arabic explanation, English medical terminology, and every "
-              "answer choice worked through: why it&rsquo;s right or wrong here, and where it "
-              "would be the right answer instead.")
+              "answer choice worked through. Tap <strong>Save video</strong> to download a "
+              "question, then open it from your Files or Downloads folder to watch. Videos are "
+              "stored as downloads, so they save rather than stream.")
 OFFLINE_SUB = ("Offline copy. Keep this page in the same folder as the downloaded course folders "
                "and every video plays with no internet connection. Videos you haven&rsquo;t "
                "downloaded yet will say so when you press Play.")
@@ -267,8 +268,10 @@ list.innerHTML = DATA.map(c => `
         ${q.ar ? `<div class="stem-ar">${esc(q.ar)}</div>` : '<div class="stem-ar"></div>'}
         ${q.ans ? `<div class="ans"><span class="chip">${q.let}</span>${esc(q.ans)}</div>`
                 : `<div class="ans">No confirmed answer in the source &mdash; not guessed</div>`}
-        ${q.vid ? `<button class="watch" type="button" data-src="${srcFor(c, q)}"
-             data-title="${esc(c.name)} &middot; Q${q.n}">Play</button>`
+        ${q.vid ? (OFFLINE
+             ? `<button class="watch" type="button" data-src="${srcFor(c, q)}"
+                  data-title="${esc(c.name)} &middot; Q${q.n}">Play</button>`
+             : `<a class="watch" href="${srcFor(c, q)}">Save video</a>`)
                 : `<span class="flag">Flagged</span>`}
       </li>`).join('')}</ol>
   </details>`).join('');
