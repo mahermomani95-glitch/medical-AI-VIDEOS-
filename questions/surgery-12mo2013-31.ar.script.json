@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Steroids are regularly used: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف Steroids are NOT regularly used in head injury management (A is false, they've shown no benefit and can be harmful). الخيار C، Antibiotics are routinely used: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف antibiotics are NOT routinely used without evidence of infection (C is false). الخيار D، Pyrexia is nearly always due to severe infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف fever is not always due to infection — it can be central (D is false). الخيار E، Severe fluid restriction is necessary: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessary — adequate perfusion must be maintained (E is false) — these misstate true head injury management principles. يصبح صحيحًا في سؤال يصف severe fluid restriction.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Steroids are regularly used: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف Steroids are NOT regularly used in head injury management. الخيار C، Antibiotics are routinely used: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف antibiotics are NOT routinely used without evidence of infection. الخيار D، Pyrexia is nearly always due to severe infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated. يصبح صحيحًا في سؤال يصف fever is not always due to infection — it can be central. الخيار E، Severe fluid restriction is necessary: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessary — adequate perfusion must be maintained — these misstate true head injury management principles. يصبح صحيحًا في سؤال يصف severe fluid restriction.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Steroids are regularly used",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Steroids are NOT regularly used in head injury management (A is false, they've shown no benefit and can be harmful)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Steroids are NOT regularly used in head injury management."
         },
         {
           "letter": "B",
@@ -99,20 +99,20 @@
           "text": "Antibiotics are routinely used",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف antibiotics are NOT routinely used without evidence of infection (C is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف antibiotics are NOT routinely used without evidence of infection."
         },
         {
           "letter": "D",
           "text": "Pyrexia is nearly always due to severe infection",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Patient with Glasgow coma score less than 8 are usually intubated and ventilated.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف fever is not always due to infection — it can be central (D is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف fever is not always due to infection — it can be central."
         },
         {
           "letter": "E",
           "text": "Severe fluid restriction is necessary",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessary — adequate perfusion must be maintained (E is false) — these misstate true head injury management principles.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessary — adequate perfusion must be maintained — these misstate true head injury management principles.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف severe fluid restriction."
         }
       ]

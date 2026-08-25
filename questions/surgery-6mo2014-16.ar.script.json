@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Best managed conservatively with hormons: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يصف Conservative hormonal management has limited long-term efficacy. الخيار C، Best corrected at or around puberty: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يصف waiting until puberty risks fertility damage. الخيار D، Have no malignat potential: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يستهدف Have no malignat potential تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Are usually bilateral: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral, in most cases (E is false) — surgical correction (orchidopexy) around age 1 remains the standard. يصبح صحيحًا في سؤال يصف they are usually unilateral.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Best managed conservatively with hormons: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يصف Conservative hormonal management has limited long-term efficacy. الخيار C، Best corrected at or around puberty: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يصف waiting until puberty risks fertility damage. الخيار D، Have no malignat potential: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا none. يصبح صحيحًا في سؤال يصف undescended testes DO carry increased malignancy potential. الخيار E، Are usually bilateral: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral, in most cases — surgical correction (orchidopexy) around age 1 remains the standard. يصبح صحيحًا في سؤال يصف they are usually unilateral.",
       "verdicts": [
         {
           "letter": "A",
@@ -101,14 +101,14 @@
           "letter": "D",
           "text": "Have no malignat potential",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Have no malignat potential تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا none.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف undescended testes DO carry increased malignancy potential."
         },
         {
           "letter": "E",
           "text": "Are usually bilateral",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral, in most cases (E is false) — surgical correction (orchidopexy) around age 1 remains the standard.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral, in most cases — surgical correction (orchidopexy) around age 1 remains the standard.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف they are usually unilateral."
         }
       ]

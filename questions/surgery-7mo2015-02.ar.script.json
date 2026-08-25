@@ -75,14 +75,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، More common in the right: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي More common in the left. يصبح صحيحًا في سؤال يستهدف More common in the right تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، The most common cause is blunt trauma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging (D is false) — the correct statement is that injuries are more common on the left. يصبح صحيحًا في سؤال يصف blunt trauma is a true statement, and plain X-ray is often. الخيار D، X-ray is confirmatory: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging (D is false) — the correct statement is that injuries are more common on the left. يصبح صحيحًا في سؤال يصف blunt trauma is a true statement, and plain X-ray is often.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، More common in the right: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي More common in the left. يصبح صحيحًا في سؤال يصف Diaphragm injuries are actually more common on the LEFT (not right) side since the liver on the right offers some protection. الخيار C، The most common cause is blunt trauma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging — the correct statement is that injuries are more common on the left. يصبح صحيحًا في سؤال يصف blunt trauma is a true statement, and plain X-ray is often. الخيار D، X-ray is confirmatory: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging — the correct statement is that injuries are more common on the left. يصبح صحيحًا في سؤال يصف blunt trauma is a true statement, and plain X-ray is often.",
       "verdicts": [
         {
           "letter": "A",
           "text": "More common in the right",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي More common in the left.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف More common in the right تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Diaphragm injuries are actually more common on the LEFT (not right) side since the liver on the right offers some protection."
         },
         {
           "letter": "B",
@@ -94,14 +94,14 @@
           "letter": "C",
           "text": "The most common cause is blunt trauma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging (D is false) — the correct statement is that injuries are more…",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging — the correct statement is that injuries are more common on…",
           "elsewhere": "يصبح صحيحًا في سؤال يصف blunt trauma is a true statement, and plain X-ray is often."
         },
         {
           "letter": "D",
           "text": "X-ray is confirmatory",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging (D is false) — the correct statement is that injuries are more…",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging — the correct statement is that injuries are more common on…",
           "elsewhere": "يصبح صحيحًا في سؤال يصف blunt trauma is a true statement, and plain X-ray is often."
         }
       ]

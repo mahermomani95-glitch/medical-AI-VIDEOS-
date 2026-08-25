@@ -79,13 +79,13 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The condition occurs in 3 months old in 70% of cases: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 3 months in 70% of cases (A is false). يصبح صحيحًا في سؤال يصف Intussusception classically peaks at 6-18 months. الخيار C، Vomiting occurs early in the presentation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessarily the earliest symptom. يصبح صحيحًا في سؤال يصف vomiting is a common but. الخيار D، Fever excludes intussusception as the diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ileocolic intussusception is most common. يصبح صحيحًا في سؤال يصف fever does NOT exclude intussusception — it can still occur with complications (D is false). الخيار E، Plain abdominal X-Ray is diagnostic: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا diagnostic — ultrasound (target sign) is the diagnostic imaging of choice (E is false). يصبح صحيحًا في سؤال يصف plain X-ray is suggestive but.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The condition occurs in 3 months old in 70% of cases: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 3 months in 70% of cases. يصبح صحيحًا في سؤال يصف Intussusception classically peaks at 6-18 months. الخيار C، Vomiting occurs early in the presentation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessarily the earliest symptom. يصبح صحيحًا في سؤال يصف vomiting is a common but. الخيار D، Fever excludes intussusception as the diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ileocolic intussusception is most common. يصبح صحيحًا في سؤال يصف fever does NOT exclude intussusception — it can still occur with complications. الخيار E، Plain abdominal X-Ray is diagnostic: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا diagnostic — ultrasound (target sign) is the diagnostic imaging of choice. يصبح صحيحًا في سؤال يصف plain X-ray is suggestive but.",
       "verdicts": [
         {
           "letter": "A",
           "text": "The condition occurs in 3 months old in 70% of cases",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 3 months in 70% of cases (A is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 3 months in 70% of cases.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف Intussusception classically peaks at 6-18 months."
         },
         {
@@ -106,13 +106,13 @@
           "text": "Fever excludes intussusception as the diagnosis",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ileocolic intussusception is most common.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف fever does NOT exclude intussusception — it can still occur with complications (D is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف fever does NOT exclude intussusception — it can still occur with complications."
         },
         {
           "letter": "E",
           "text": "Plain abdominal X-Ray is diagnostic",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا diagnostic — ultrasound (target sign) is the diagnostic imaging of choice (E is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا diagnostic — ultrasound (target sign) is the diagnostic imaging of choice.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف plain X-ray is suggestive but."
         }
       ]

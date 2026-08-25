@@ -75,14 +75,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، H pylori serology: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا current status). يصبح صحيحًا في سؤال يصف Serology remains positive long after eradication (reflects past exposure. الخيار C، Histologic biopsy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف histologic biopsy and antral biopsy/culture are invasive. الخيار D، Rapid urease test: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف rapid urease test can have false negatives, especially with recent PPI/antibiotic use — the urea breath test is the preferred non-invasive test to confirm eradication. الخيار E، Antral mucosal biopsy and culture: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف histologic biopsy and antral biopsy/culture are invasive.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، H pylori serology: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف Serology remains positive long after eradication (reflects past exposure, not current status). الخيار C، Histologic biopsy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف histologic biopsy and antral biopsy/culture are invasive. الخيار D، Rapid urease test: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف rapid urease test can have false negatives, especially with recent PPI/antibiotic use — the urea breath test is the preferred non-invasive test to confirm eradication. الخيار E، Antral mucosal biopsy and culture: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف histologic biopsy and antral biopsy/culture are invasive.",
       "verdicts": [
         {
           "letter": "A",
           "text": "H pylori serology",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا current status).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Serology remains positive long after eradication (reflects past exposure."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Serology remains positive long after eradication (reflects past exposure, not current status)."
         },
         {
           "letter": "B",

@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Start after 40 years old in all females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف Screening starting at 40 for all women uniformly is an older, less individualized approach. الخيار B، Breast ultrasound is the best in females age more than 30 years old: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف ultrasound is not necessarily 'best' over mammography for all women over 30. الخيار D، Dense breasts increase the sensitivity of mammography and are associated with an decresed risk for breast cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decrease) cancer risk (D is false). يصبح صحيحًا في سؤال يصف dense breasts actually DECREASE mammographic sensitivity and INCREASE (. الخيار E، Breast MRI is currently the best available population-based method to detect breast cancer at an early stage: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the best population-wide screening method due to cost/availability (E is false) — these misstate current screening principles. يصبح صحيحًا في سؤال يصف MRI, while sensitive.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Start after 40 years old in all females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف Screening starting at 40 for all women uniformly is an older, less individualized approach. الخيار B، Breast ultrasound is the best in females age more than 30 years old: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف ultrasound is not necessarily 'best' over mammography for all women over 30. الخيار D، Dense breasts increase the sensitivity of mammography and are associated with an decresed risk for breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف dense breasts actually DECREASE mammographic sensitivity and INCREASE (not decrease) cancer risk. الخيار E، Breast MRI is currently the best available population-based method to detect breast cancer at an early stage: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the best population-wide screening method due to cost/availability — these misstate current screening principles. يصبح صحيحًا في سؤال يصف MRI, while sensitive.",
       "verdicts": [
         {
           "letter": "A",
@@ -105,14 +105,14 @@
           "letter": "D",
           "text": "Dense breasts increase the sensitivity of mammography and are associated with an decresed…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decrease) cancer risk (D is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف dense breasts actually DECREASE mammographic sensitivity and INCREASE (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف dense breasts actually DECREASE mammographic sensitivity and INCREASE (not decrease) cancer risk."
         },
         {
           "letter": "E",
           "text": "Breast MRI is currently the best available population-based method to detect breast…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the best population-wide screening method due to cost/availability (E is false) — these misstate current screening…",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the best population-wide screening method due to cost/availability — these misstate current screening principles.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف MRI, while sensitive."
         }
       ]

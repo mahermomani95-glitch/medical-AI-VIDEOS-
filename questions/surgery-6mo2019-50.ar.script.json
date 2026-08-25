@@ -79,20 +79,20 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is the underlying cause of the most nonnursing female breast abscess.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stop lactation can increase the risk of breast abscess. يصبح صحيحًا في سؤال يصف It is NOT the underlying cause of most non-nursing female breast abscess in the way described (A is misleading in context). الخيار B، Primary skin infections of the breast (cellulitis or abscess) most commonly affect the skin of the upper half of the breast: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the upper half (B is false). يصبح صحيحًا في سؤال يصف primary skin infections most commonly affect the lower/inner half. الخيار D، Staphylococcus epidermidis and streptococci are the most common causes: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا S. epidermidis) is the most common cause (D is false). يصبح صحيحًا في سؤال يصف Staphylococcus aureus (. الخيار E، It occurs in women who are underweight and have small breasts.: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا underweight women with small breasts (E is false) — these misstate true mastitis facts. يصبح صحيحًا في سؤال يصف it occurs more in obese women with larger breasts.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is the underlying cause of the most nonnursing female breast abscess.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stop lactation can increase the risk of breast abscess. يصبح صحيحًا في سؤال يصف It is NOT the underlying cause of most non-nursing female breast abscess in the way described. الخيار B، Primary skin infections of the breast (cellulitis or abscess) most commonly affect the skin of the upper half of the breast: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the upper half. يصبح صحيحًا في سؤال يصف primary skin infections most commonly affect the lower/inner half. الخيار D، Staphylococcus epidermidis and streptococci are the most common causes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stop lactation can increase the risk of breast abscess. يصبح صحيحًا في سؤال يصف Staphylococcus aureus (not S. epidermidis) is the most common cause. الخيار E، It occurs in women who are underweight and have small breasts.: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا underweight women with small breasts — these misstate true mastitis facts. يصبح صحيحًا في سؤال يصف it occurs more in obese women with larger breasts.",
       "verdicts": [
         {
           "letter": "A",
           "text": "It is the underlying cause of the most nonnursing female breast abscess.",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stop lactation can increase the risk of breast abscess.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف It is NOT the underlying cause of most non-nursing female breast abscess in the way described (A is misleading in context)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف It is NOT the underlying cause of most non-nursing female breast abscess in the way described."
         },
         {
           "letter": "B",
           "text": "Primary skin infections of the breast (cellulitis or abscess) most commonly affect the…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the upper half (B is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the upper half.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف primary skin infections most commonly affect the lower/inner half."
         },
         {
@@ -105,14 +105,14 @@
           "letter": "D",
           "text": "Staphylococcus epidermidis and streptococci are the most common causes",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا S. epidermidis) is the most common cause (D is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Staphylococcus aureus (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stop lactation can increase the risk of breast abscess.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Staphylococcus aureus (not S. epidermidis) is the most common cause."
         },
         {
           "letter": "E",
           "text": "It occurs in women who are underweight and have small breasts.",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا underweight women with small breasts (E is false) — these misstate true mastitis facts.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا underweight women with small breasts — these misstate true mastitis facts.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف it occurs more in obese women with larger breasts."
         }
       ]

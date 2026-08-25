@@ -83,13 +83,13 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Rabies immunoglobulin and one dose of vaccine as soon as possible: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just one) is the correct regimen. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (. الخيار C، Rabies immunoglobulin alone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just one) is the correct regimen. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (. الخيار D، Rabies immunoglobulin and antibiotic: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just one) is the correct regimen. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (. الخيار E، Vaccine and antibiotics: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just one) is the correct regimen. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Rabies immunoglobulin and one dose of vaccine as soon as possible: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (not just one) is the correct regimen. الخيار C، Rabies immunoglobulin alone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (not just one) is the correct regimen. الخيار D، Rabies immunoglobulin and antibiotic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (not just one) is the correct regimen. الخيار E، Vaccine and antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (not just one) is the correct regimen.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Rabies immunoglobulin and one dose of vaccine as soon as possible",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just one) is the correct regimen.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without…"
         },
         {
@@ -102,21 +102,21 @@
           "letter": "C",
           "text": "Rabies immunoglobulin alone",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just one) is the correct regimen.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without…"
         },
         {
           "letter": "D",
           "text": "Rabies immunoglobulin and antibiotic",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just one) is the correct regimen.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without…"
         },
         {
           "letter": "E",
           "text": "Vaccine and antibiotics",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just one) is the correct regimen.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without…"
         }
       ]

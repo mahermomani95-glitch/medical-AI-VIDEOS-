@@ -79,34 +79,34 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Clinical examination, stabilization and resuscitation are not of priority: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Splenectomy is not a routine management for all types of Splenic injuries. يصبح صحيحًا في سؤال يصف Clinical exam/stabilization/resuscitation ARE priorities (A is false). الخيار B، Ultrasound is the diagnostic tool of choice: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Splenectomy is not a routine management for all types of Splenic injuries. يصبح صحيحًا في سؤال يستهدف Ultrasound is the diagnostic tool of choice تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Blood transfusion should be started immediately: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be started immediately without first assessing response to fluids (C is false). يصبح صحيحًا في سؤال يصف blood transfusion should. الخيار D، Peritoneal lavage is contraindicated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routinely contraindicated though less used now (D is false) — the true statement is that splenectomy is not routinely done for all splenic injuries given the preference for non-operative management in children. يصبح صحيحًا في سؤال يصف peritoneal lavage.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Clinical examination, stabilization and resuscitation are not of priority: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Splenectomy is not a routine management for all types of Splenic injuries. يصبح صحيحًا في سؤال يصف Clinical exam/stabilization/resuscitation ARE priorities. الخيار B، Ultrasound is the diagnostic tool of choice: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Splenectomy is not a routine management for all types of Splenic injuries. يصبح صحيحًا في سؤال يصف ultrasound is a useful adjunct but CT remains preferred for definitive pediatric trauma evaluation when stable. الخيار C، Blood transfusion should be started immediately: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be started immediately without first assessing response to fluids. يصبح صحيحًا في سؤال يصف blood transfusion should. الخيار D، Peritoneal lavage is contraindicated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routinely contraindicated though less used now — the true statement is that splenectomy is not routinely done for all splenic injuries given the preference for non-operative management in children. يصبح صحيحًا في سؤال يصف peritoneal lavage.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Clinical examination, stabilization and resuscitation are not of priority",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Splenectomy is not a routine management for all types of Splenic injuries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Clinical exam/stabilization/resuscitation ARE priorities (A is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Clinical exam/stabilization/resuscitation ARE priorities."
         },
         {
           "letter": "B",
           "text": "Ultrasound is the diagnostic tool of choice",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Splenectomy is not a routine management for all types of Splenic injuries.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Ultrasound is the diagnostic tool of choice تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ultrasound is a useful adjunct but CT remains preferred for definitive pediatric trauma evaluation when stable."
         },
         {
           "letter": "C",
           "text": "Blood transfusion should be started immediately",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be started immediately without first assessing response to fluids (C is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be started immediately without first assessing response to fluids.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف blood transfusion should."
         },
         {
           "letter": "D",
           "text": "Peritoneal lavage is contraindicated",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routinely contraindicated though less used now (D is false) — the true statement is that splenectomy is not routinely done…",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routinely contraindicated though less used now — the true statement is that splenectomy is not routinely done for all…",
           "elsewhere": "يصبح صحيحًا في سؤال يصف peritoneal lavage."
         },
         {

@@ -79,34 +79,34 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 65% of breast cancers are missed by population-based mammographic screening: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف The true rate of missed cancers on screening mammography is much lower than 65% (A is false). الخيار B، Ultrasound can not be used as a screening tool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف ultrasound CAN be used as a screening adjunct, especially in dense breasts (B is false). الخيار C، Magnetic (MRI) is the initial imaging screening tool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف MRI is not the initial imaging tool — mammography/ultrasound come first (C is false). الخيار D، Fine-needle aspiration cytology (FNAC) and core biopsy are equally useful diagnostically: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا equally useful — core biopsy gives more diagnostic information (D is false) — these misstate true breast cancer facts. يصبح صحيحًا في سؤال يصف FNAC/core biopsy.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 65% of breast cancers are missed by population-based mammographic screening: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف The true rate of missed cancers on screening mammography is much lower than 65%. الخيار B، Ultrasound can not be used as a screening tool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف ultrasound CAN be used as a screening adjunct, especially in dense breasts. الخيار C، Magnetic (MRI) is the initial imaging screening tool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف MRI is not the initial imaging tool — mammography/ultrasound come first. الخيار D، Fine-needle aspiration cytology (FNAC) and core biopsy are equally useful diagnostically: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا equally useful — core biopsy gives more diagnostic information — these misstate true breast cancer facts. يصبح صحيحًا في سؤال يصف FNAC/core biopsy.",
       "verdicts": [
         {
           "letter": "A",
           "text": "65% of breast cancers are missed by population-based mammographic screening",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The true rate of missed cancers on screening mammography is much lower than 65% (A is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The true rate of missed cancers on screening mammography is much lower than 65%."
         },
         {
           "letter": "B",
           "text": "Ultrasound can not be used as a screening tool",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف ultrasound CAN be used as a screening adjunct, especially in dense breasts (B is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ultrasound CAN be used as a screening adjunct, especially in dense breasts."
         },
         {
           "letter": "C",
           "text": "Magnetic (MRI) is the initial imaging screening tool",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف MRI is not the initial imaging tool — mammography/ultrasound come first (C is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف MRI is not the initial imaging tool — mammography/ultrasound come first."
         },
         {
           "letter": "D",
           "text": "Fine-needle aspiration cytology (FNAC) and core biopsy are equally useful diagnostically",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا equally useful — core biopsy gives more diagnostic information (D is false) — these misstate true breast cancer facts.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا equally useful — core biopsy gives more diagnostic information — these misstate true breast cancer facts.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف FNAC/core biopsy."
         },
         {

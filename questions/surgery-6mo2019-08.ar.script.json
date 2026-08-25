@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a premalignant condition: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements. يصبح صحيحًا في سؤال يستهدف It is a premalignant condition تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، It is common in females > 30 years old: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements. يصبح صحيحًا في سؤال يستهدف It is common in females > 30 years old تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، In general, ultrasonography (US) is not useful in diagnosis of fibroadenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements. يصبح صحيحًا في سؤال يصف ultrasound IS useful for diagnosis (D is false). الخيار E، Mastectomy is only recommended if the fibroadenoma gets larger or causes increased symptoms: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mastectomy reserved only for growth) is the typical approach unless there's diagnostic uncertainty (E is false) — these misstate the true biphasic tumor composition being asked about. يصبح صحيحًا في سؤال يصف observation (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a premalignant condition: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا premalignant. يصبح صحيحًا في سؤال يصف Fibroadenoma. الخيار C، It is common in females > 30 years old: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا over 30. يصبح صحيحًا في سؤال يصف it's most common in women under 30. الخيار D، In general, ultrasonography (US) is not useful in diagnosis of fibroadenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements. يصبح صحيحًا في سؤال يصف ultrasound IS useful for diagnosis. الخيار E، Mastectomy is only recommended if the fibroadenoma gets larger or causes increased symptoms: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements. يصبح صحيحًا في سؤال يصف observation (not mastectomy reserved only for growth) is the typical approach unless there's diagnostic uncertainty — these misstate the true biphasic tumor composition being asked about.",
       "verdicts": [
         {
           "letter": "A",
           "text": "It is a premalignant condition",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف It is a premalignant condition تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا premalignant.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Fibroadenoma."
         },
         {
           "letter": "B",
@@ -98,22 +98,22 @@
           "letter": "C",
           "text": "It is common in females > 30 years old",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف It is common in females > 30 years old تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا over 30.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف it's most common in women under 30."
         },
         {
           "letter": "D",
           "text": "In general, ultrasonography (US) is not useful in diagnosis of fibroadenoma",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف ultrasound IS useful for diagnosis (D is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف ultrasound IS useful for diagnosis."
         },
         {
           "letter": "E",
           "text": "Mastectomy is only recommended if the fibroadenoma gets larger or causes increased…",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mastectomy reserved only for growth) is the typical approach unless there's diagnostic uncertainty (E is false) — these…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف observation (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف observation (not mastectomy reserved only for growth) is the typical approach unless there's diagnostic uncertainty — these misstate the true…"
         }
       ]
     },

@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Increasing pain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reassuring) signs that might suggest malignant transformation. يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (. الخيار B، No response to antibiotics for 2 weeks: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reassuring) signs that might suggest malignant transformation. يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (. الخيار D، Granulation tissue: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that specifically signals malignant transformation. يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (. الخيار E، Mobile: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that specifically signals malignant transformation. يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Increasing pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges. يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (not reassuring) signs that might suggest malignant transformation. الخيار B، No response to antibiotics for 2 weeks: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges. يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (not reassuring) signs that might suggest malignant transformation. الخيار D، Granulation tissue: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges. يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (not fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that specifically signals malignant transformation. الخيار E، Mobile: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges. يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (not fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that specifically signals malignant transformation.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Increasing pain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reassuring) signs that might suggest malignant transformation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (not reassuring) signs that might suggest malignant…"
         },
         {
           "letter": "B",
           "text": "No response to antibiotics for 2 weeks",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reassuring) signs that might suggest malignant transformation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (not reassuring) signs that might suggest malignant…"
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Granulation tissue",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that specifically…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (not fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that…"
         },
         {
           "letter": "E",
           "text": "Mobile",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that specifically…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (not fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that…"
         }
       ]
     },

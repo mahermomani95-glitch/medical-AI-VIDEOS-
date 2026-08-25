@@ -79,20 +79,20 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Present anywhere on breast skin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uncommon breast carcinoma. يصبح صحيحًا في سؤال يصف Paget's disease can present anywhere on the nipple-areolar complex (A is imprecise as the general 'anywhere on breast skin' claim). الخيار B، Usually bilateral: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral (B is false). يصبح صحيحًا في سؤال يصف it's usually UNILATERAL. الخيار D، Bad prognosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uncommon breast carcinoma. يصبح صحيحًا في سؤال يستهدف Bad prognosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Is diagnosed by mammogram: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mammogram alone (E is false) — the true statement is that it is an uncommon form of breast carcinoma. يصبح صحيحًا في سؤال يصف it's diagnosed by biopsy.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Present anywhere on breast skin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uncommon breast carcinoma. يصبح صحيحًا في سؤال يصف Paget's disease can present anywhere on the nipple-areolar complex. الخيار B، Usually bilateral: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral. يصبح صحيحًا في سؤال يصف it's usually UNILATERAL. الخيار D، Bad prognosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uncommon breast carcinoma. يصبح صحيحًا في سؤال يصف it actually carries a relatively good prognosis when limited to the nipple without an underlying mass. الخيار E، Is diagnosed by mammogram: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mammogram alone — the true statement is that it is an uncommon form of breast carcinoma. يصبح صحيحًا في سؤال يصف it's diagnosed by biopsy.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Present anywhere on breast skin",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uncommon breast carcinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Paget's disease can present anywhere on the nipple-areolar complex (A is imprecise as the general 'anywhere on breast skin' claim)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Paget's disease can present anywhere on the nipple-areolar complex."
         },
         {
           "letter": "B",
           "text": "Usually bilateral",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral (B is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف it's usually UNILATERAL."
         },
         {
@@ -106,13 +106,13 @@
           "text": "Bad prognosis",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uncommon breast carcinoma.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف Bad prognosis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف it actually carries a relatively good prognosis when limited to the nipple without an underlying mass."
         },
         {
           "letter": "E",
           "text": "Is diagnosed by mammogram",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mammogram alone (E is false) — the true statement is that it is an uncommon form of breast carcinoma.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mammogram alone — the true statement is that it is an uncommon form of breast carcinoma.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف it's diagnosed by biopsy."
         }
       ]

@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، They should be looked for while the patient is supine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا supine), since gravity accentuates them (A is false as worded). يصبح صحيحًا في سؤال يصف Varicoceles are actually best examined with the patient STANDING (. الخيار B، They usually result infertility: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count. يصبح صحيحًا في سؤال يصف they don't always result in infertility — many men with varicocele remain fertile (B is false). الخيار D، They result in lower testicular temperature: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا lower) testicular temperature, which is the proposed mechanism for reduced fertility (D is false). يصبح صحيحًا في سؤال يصف they actually cause INCREASED (. الخيار E، They should always be required when identified: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count. يصبح صحيحًا في سؤال يصف treatment isn't always required for every identified varicocele, especially if asymptomatic without fertility concerns (E is false) — the true statement is that they may affect sperm motility and count.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، They should be looked for while the patient is supine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count. يصبح صحيحًا في سؤال يصف Varicoceles are actually best examined with the patient STANDING (not supine), since gravity accentuates them. الخيار B، They usually result infertility: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count. يصبح صحيحًا في سؤال يصف they don't always result in infertility — many men with varicocele remain fertile. الخيار D، They result in lower testicular temperature: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count. يصبح صحيحًا في سؤال يصف they actually cause INCREASED (not lower) testicular temperature, which is the proposed mechanism for reduced fertility. الخيار E، They should always be required when identified: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count. يصبح صحيحًا في سؤال يصف treatment isn't always required for every identified varicocele, especially if asymptomatic without fertility concerns — the true statement is that they may affect sperm motility and count.",
       "verdicts": [
         {
           "letter": "A",
           "text": "They should be looked for while the patient is supine",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا supine), since gravity accentuates them (A is false as worded).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Varicoceles are actually best examined with the patient STANDING (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Varicoceles are actually best examined with the patient STANDING (not supine), since gravity accentuates them."
         },
         {
           "letter": "B",
           "text": "They usually result infertility",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف they don't always result in infertility — many men with varicocele remain fertile (B is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف they don't always result in infertility — many men with varicocele remain fertile."
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "They result in lower testicular temperature",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا lower) testicular temperature, which is the proposed mechanism for reduced fertility (D is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف they actually cause INCREASED (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف they actually cause INCREASED (not lower) testicular temperature, which is the proposed mechanism for reduced fertility."
         },
         {
           "letter": "E",
           "text": "They should always be required when identified",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They may affect sperm motility and count.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف treatment isn't always required for every identified varicocele, especially if asymptomatic without fertility concerns (E is false) — the true…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف treatment isn't always required for every identified varicocele, especially if asymptomatic without fertility concerns — the true statement is…"
         }
       ]
     },

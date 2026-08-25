@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، A painful ulcer is the usual presentation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare. يصبح صحيحًا في سؤال يصف A painful ulcer is atypical, BCC is usually painless. الخيار C، UV light is not a cause: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unrelated (C is false). يصبح صحيحًا في سؤال يصف UV light IS a cause. الخيار D، The growth is rapid: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا rapid) (D is false). يصبح صحيحًا في سؤال يصف growth is typically SLOW (. الخيار E، Treatment of choice is radiotherapy': لا يتوافق مع معطيات هذا السؤال — المطلوب هنا radiotherapy) is generally the treatment of choice (E is false) — the true statement is that lymph node metastasis is very rare in basal cell carcinoma. يصبح صحيحًا في سؤال يصف surgical excision (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، A painful ulcer is the usual presentation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare. يصبح صحيحًا في سؤال يصف A painful ulcer is atypical, BCC is usually painless. الخيار C، UV light is not a cause: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unrelated. يصبح صحيحًا في سؤال يصف UV light IS a cause. الخيار D، The growth is rapid: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare. يصبح صحيحًا في سؤال يصف growth is typically SLOW (not rapid). الخيار E، Treatment of choice is radiotherapy': لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare. يصبح صحيحًا في سؤال يصف surgical excision (not radiotherapy) is generally the treatment of choice — the true statement is that lymph node metastasis is very rare in basal cell carcinoma.",
       "verdicts": [
         {
           "letter": "A",
@@ -94,22 +94,22 @@
           "letter": "C",
           "text": "UV light is not a cause",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unrelated (C is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unrelated.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف UV light IS a cause."
         },
         {
           "letter": "D",
           "text": "The growth is rapid",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا rapid) (D is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف growth is typically SLOW (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف growth is typically SLOW (not rapid)."
         },
         {
           "letter": "E",
           "text": "Treatment of choice is radiotherapy'",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا radiotherapy) is generally the treatment of choice (E is false) — the true statement is that lymph node metastasis is very…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف surgical excision (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف surgical excision (not radiotherapy) is generally the treatment of choice — the true statement is that lymph node metastasis is very rare in…"
         }
       ]
     },

@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inferior thyroid artery injury: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction. الخيار B، Superior thyroid artery injury: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction. الخيار D، Unilateral recurrent nerve injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف unilateral recurrent nerve injury causes hoarseness, a different symptom than fatigue. الخيار E، Bilateral recurrent nerve injury: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inferior thyroid artery injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction, not just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury. الخيار B، Superior thyroid artery injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction, not just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury. الخيار D، Unilateral recurrent nerve injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف unilateral recurrent nerve injury causes hoarseness, a different symptom than fatigue. الخيار E، Bilateral recurrent nerve injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction, not just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Inferior thyroid artery injury",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury…"
         },
         {
           "letter": "B",
           "text": "Superior thyroid artery injury",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury…"
         },
         {
           "letter": "C",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Bilateral recurrent nerve injury",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury…"
         }
       ]
     },

@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Primary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف Primary hyperparathyroidism occurs without renal disease. الخيار B، Secondary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا elevated) calcium with high PTH as a compensatory response. يصبح صحيحًا في سؤال يصف secondary hyperparathyroidism shows LOW (. الخيار D، Hypercalcemia of malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف hypercalcemia of malignancy is unrelated to dialysis. الخيار E، Hypoparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف hypoparathyroidism would show low PTH — tertiary hyperparathyroidism (autonomous parathyroid function after prolonged secondary stimulation in dialysis patients) explains both elevated calcium AND elevated PTH here.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Primary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف Primary hyperparathyroidism occurs without renal disease. الخيار B، Secondary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف secondary hyperparathyroidism shows LOW (not elevated) calcium with high PTH as a compensatory response. الخيار D، Hypercalcemia of malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف hypercalcemia of malignancy is unrelated to dialysis. الخيار E، Hypoparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف hypoparathyroidism would show low PTH — tertiary hyperparathyroidism (autonomous parathyroid function after prolonged secondary stimulation in dialysis patients) explains both elevated calcium AND elevated PTH here.",
       "verdicts": [
         {
           "letter": "A",
@@ -92,8 +92,8 @@
           "letter": "B",
           "text": "Secondary hyperparathyroidism",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا elevated) calcium with high PTH as a compensatory response.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف secondary hyperparathyroidism shows LOW (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف secondary hyperparathyroidism shows LOW (not elevated) calcium with high PTH as a compensatory response."
         },
         {
           "letter": "C",
@@ -113,7 +113,7 @@
           "text": "Hypoparathyroidism",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف hypoparathyroidism would show low PTH — tertiary hyperparathyroidism (autonomous parathyroid function after prolonged secondary stimulation in…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف hypoparathyroidism would show low PTH — tertiary hyperparathyroidism…"
         }
       ]
     },

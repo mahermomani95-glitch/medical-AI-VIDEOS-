@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Warthin tumors: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma. يصبح صحيحًا في سؤال يصف Warthin tumor is the second most common. الخيار C، Mucoepidermoid adenoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا benign) salivary tumor. يصبح صحيحًا في سؤال يصف mucoepidermoid is actually the most common malignant (. الخيار D، Adenoid cystic adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma. يصبح صحيحًا في سؤال يصف adenoid cystic is also malignant — pleomorphic adenoma remains the most common benign salivary gland tumor overall.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Warthin tumors: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma. يصبح صحيحًا في سؤال يصف Warthin tumor is the second most common. الخيار C، Mucoepidermoid adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma. يصبح صحيحًا في سؤال يصف mucoepidermoid is actually the most common malignant (not benign) salivary tumor. الخيار D، Adenoid cystic adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma. يصبح صحيحًا في سؤال يصف adenoid cystic is also malignant — pleomorphic adenoma remains the most common benign salivary gland tumor overall.",
       "verdicts": [
         {
           "letter": "A",
@@ -94,8 +94,8 @@
           "letter": "C",
           "text": "Mucoepidermoid adenoma",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا benign) salivary tumor.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف mucoepidermoid is actually the most common malignant (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pleomorphic adenoma.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف mucoepidermoid is actually the most common malignant (not benign) salivary tumor."
         },
         {
           "letter": "D",

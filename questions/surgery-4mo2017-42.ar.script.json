@@ -79,21 +79,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Class 1: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial blood loss potential (up to 1-1.5L per femur) typically corresponds to class III hemorrhagic shock. يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (. الخيار B، Class 2: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial blood loss potential (up to 1-1.5L per femur) typically corresponds to class III hemorrhagic shock. يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (. الخيار D، Class 4: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial blood loss potential (up to 1-1.5L per femur) typically corresponds to class III hemorrhagic shock. يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (. الخيار E، Class 5: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial blood loss potential (up to 1-1.5L per femur) typically corresponds to class III hemorrhagic shock. يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Class 1: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Class 3. يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (not standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial blood loss potential (up to 1-1.5L per femur) typically corresponds to class III hemorrhagic shock. الخيار B، Class 2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Class 3. يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (not standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial blood loss potential (up to 1-1.5L per femur) typically corresponds to class III hemorrhagic shock. الخيار D، Class 4: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Class 3. يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (not standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial blood loss potential (up to 1-1.5L per femur) typically corresponds to class III hemorrhagic shock. الخيار E، Class 5: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Class 3. يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (not standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial blood loss potential (up to 1-1.5L per femur) typically corresponds to class III hemorrhagic shock.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Class 1",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Class 3.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (not standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the…"
         },
         {
           "letter": "B",
           "text": "Class 2",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Class 3.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (not standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the…"
         },
         {
           "letter": "C",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "Class 4",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Class 3.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (not standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the…"
         },
         {
           "letter": "E",
           "text": "Class 5",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the substantial…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Class 3.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Class 1, class 2, and class 4 (not standard classes beyond 4) don't match the expected blood loss from bilateral femur fractures, which given the…"
         }
       ]
     },

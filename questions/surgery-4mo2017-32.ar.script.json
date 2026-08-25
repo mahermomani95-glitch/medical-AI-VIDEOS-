@@ -79,27 +79,27 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is usually felt at the midpoint of inguinal ligament: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the midpoint of the ligament itself (A is imprecise). يصبح صحيحًا في سؤال يصف The femoral pulse is actually felt at the MID-INGUINAL point (midpoint between ASIS and pubic symphysis). الخيار B، The femoral nerve is medial to the femoral pulse: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا medial) to the femoral artery/pulse (B is false). يصبح صحيحًا في سؤال يصف the femoral nerve is LATERAL (. الخيار C، The femoral pulse is lateral to the deep inguinal ring: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا lateral (C is false). يصبح صحيحًا في سؤال يصف the femoral pulse is actually MEDIAL to the deep inguinal ring. الخيار E، A Radio_femoral delay is usually felt in aortic stenosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا aortic stenosis (E is false) — the correct statement is D, that it's felt at the mid-inguinal point. يصبح صحيحًا في سؤال يصف radiofemoral delay is classically associated with aortic COARCTATION.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is usually felt at the midpoint of inguinal ligament: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the midpoint of the ligament itself. يصبح صحيحًا في سؤال يصف The femoral pulse is actually felt at the MID-INGUINAL point (midpoint between ASIS and pubic symphysis). الخيار B، The femoral nerve is medial to the femoral pulse: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The femoral pulse is felt at the mid inguinal point. يصبح صحيحًا في سؤال يصف the femoral nerve is LATERAL (not medial) to the femoral artery/pulse. الخيار C، The femoral pulse is lateral to the deep inguinal ring: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا lateral. يصبح صحيحًا في سؤال يصف the femoral pulse is actually MEDIAL to the deep inguinal ring. الخيار E، A Radio_femoral delay is usually felt in aortic stenosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا aortic stenosis — the correct statement is D, that it's felt at the mid-inguinal point. يصبح صحيحًا في سؤال يصف radiofemoral delay is classically associated with aortic COARCTATION.",
       "verdicts": [
         {
           "letter": "A",
           "text": "It is usually felt at the midpoint of inguinal ligament",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the midpoint of the ligament itself (A is imprecise).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the midpoint of the ligament itself.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف The femoral pulse is actually felt at the MID-INGUINAL point (midpoint between ASIS and pubic symphysis)."
         },
         {
           "letter": "B",
           "text": "The femoral nerve is medial to the femoral pulse",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا medial) to the femoral artery/pulse (B is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف the femoral nerve is LATERAL (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The femoral pulse is felt at the mid inguinal point.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف the femoral nerve is LATERAL (not medial) to the femoral artery/pulse."
         },
         {
           "letter": "C",
           "text": "The femoral pulse is lateral to the deep inguinal ring",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا lateral (C is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا lateral.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف the femoral pulse is actually MEDIAL to the deep inguinal ring."
         },
         {
@@ -112,7 +112,7 @@
           "letter": "E",
           "text": "A Radio_femoral delay is usually felt in aortic stenosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا aortic stenosis (E is false) — the correct statement is D, that it's felt at the mid-inguinal point.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا aortic stenosis — the correct statement is D, that it's felt at the mid-inguinal point.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف radiofemoral delay is classically associated with aortic COARCTATION."
         }
       ]

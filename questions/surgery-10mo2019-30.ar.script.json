@@ -75,13 +75,13 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، They present during puberty: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا puberty (A is false). يصبح صحيحًا في سؤال يصف They typically present in infancy. الخيار C، They are firm on palpation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا firm (C is false). يصبح صحيحًا في سؤال يصف they are soft/compressible. الخيار D، Cosmetic concern is the only indication for treatment: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just cosmetic concern) can be an indication for treatment (D is false). يصبح صحيحًا في سؤال يصف airway/feeding compromise (. الخيار E، They undergo a predictable growth pattern: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا predictable, unlike infantile hemangiomas (E is false) — these misstate true cystic hygroma facts. يصبح صحيحًا في سؤال يصف their growth pattern.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، They present during puberty: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا puberty. يصبح صحيحًا في سؤال يصف They typically present in infancy. الخيار C، They are firm on palpation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا firm. يصبح صحيحًا في سؤال يصف they are soft/compressible. الخيار D، Cosmetic concern is the only indication for treatment: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They are brilliantly translucent. يصبح صحيحًا في سؤال يصف airway/feeding compromise (not just cosmetic concern) can be an indication for treatment. الخيار E، They undergo a predictable growth pattern: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا predictable, unlike infantile hemangiomas — these misstate true cystic hygroma facts. يصبح صحيحًا في سؤال يصف their growth pattern.",
       "verdicts": [
         {
           "letter": "A",
           "text": "They present during puberty",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا puberty (A is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا puberty.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف They typically present in infancy."
         },
         {
@@ -94,21 +94,21 @@
           "letter": "C",
           "text": "They are firm on palpation",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا firm (C is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا firm.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف they are soft/compressible."
         },
         {
           "letter": "D",
           "text": "Cosmetic concern is the only indication for treatment",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just cosmetic concern) can be an indication for treatment (D is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف airway/feeding compromise (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They are brilliantly translucent.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف airway/feeding compromise (not just cosmetic concern) can be an indication for treatment."
         },
         {
           "letter": "E",
           "text": "They undergo a predictable growth pattern",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا predictable, unlike infantile hemangiomas (E is false) — these misstate true cystic hygroma facts.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا predictable, unlike infantile hemangiomas — these misstate true cystic hygroma facts.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف their growth pattern."
         }
       ]

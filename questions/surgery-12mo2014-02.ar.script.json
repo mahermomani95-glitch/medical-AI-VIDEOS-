@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Calcitonin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا papillary/follicular) thyroid cancer. يصبح صحيحًا في سؤال يصف Calcitonin is the marker for medullary (. الخيار B، lonized calcium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin. يصبح صحيحًا في سؤال يصف ionized calcium reflects parathyroid function. الخيار C، Carcinoembroynic antigen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin. يصبح صحيحًا في سؤال يصف CEA is a general marker used mainly for colorectal cancer. الخيار E، Serum thyroid- stimulating hormone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tumor recurrence — thyroglobulin remains the specific marker for post-thyroidectomy cancer follow-up. يصبح صحيحًا في سؤال يصف TSH monitors hormone replacement adequacy.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Calcitonin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin. يصبح صحيحًا في سؤال يصف Calcitonin is the marker for medullary (not papillary/follicular) thyroid cancer. الخيار B، lonized calcium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin. يصبح صحيحًا في سؤال يصف ionized calcium reflects parathyroid function. الخيار C، Carcinoembroynic antigen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin. يصبح صحيحًا في سؤال يصف CEA is a general marker used mainly for colorectal cancer. الخيار E، Serum thyroid- stimulating hormone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tumor recurrence — thyroglobulin remains the specific marker for post-thyroidectomy cancer follow-up. يصبح صحيحًا في سؤال يصف TSH monitors hormone replacement adequacy.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Calcitonin",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا papillary/follicular) thyroid cancer.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Calcitonin is the marker for medullary (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Calcitonin is the marker for medullary (not papillary/follicular) thyroid cancer."
         },
         {
           "letter": "B",

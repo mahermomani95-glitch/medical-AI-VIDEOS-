@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a false diverticulum that includes all three coats of the small intestine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا false) diverticulum with all three bowel wall layers (A is false as stated). يصبح صحيحًا في سؤال يصف Being a true (. الخيار B، It is found 45-90 cm distal to the ileocecal valve: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 45-90cm, from the ileocecal valve. يصبح صحيحًا في سؤال يصف found about 60cm (2 feet). الخيار D، It occurs in about 20% of the general population: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 20%) of the population (D is false). يصبح صحيحًا في سؤال يصف occurring in about 2% (. الخيار E، Small-bowel obstruction is the most common complication in children: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue. يصبح صحيحًا في سؤال يصف bleeding (not obstruction) being the most common complication in children specifically (E is a common but debated point, obstruction being more classic in some sources) — all these misstate the 'Rule of 2's' facts.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a false diverticulum that includes all three coats of the small intestine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue. يصبح صحيحًا في سؤال يصف Being a true (not false) diverticulum with all three bowel wall layers. الخيار B، It is found 45-90 cm distal to the ileocecal valve: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 45-90cm, from the ileocecal valve. يصبح صحيحًا في سؤال يصف found about 60cm (2 feet). الخيار D، It occurs in about 20% of the general population: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue. يصبح صحيحًا في سؤال يصف occurring in about 2% (not 20%) of the population. الخيار E، Small-bowel obstruction is the most common complication in children: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue. يصبح صحيحًا في سؤال يصف bleeding (not obstruction) being the most common complication in children specifically — all these misstate the 'Rule of 2's' facts.",
       "verdicts": [
         {
           "letter": "A",
           "text": "It is a false diverticulum that includes all three coats of the small intestine",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا false) diverticulum with all three bowel wall layers (A is false as stated).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Being a true (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Being a true (not false) diverticulum with all three bowel wall layers."
         },
         {
           "letter": "B",
@@ -105,15 +105,15 @@
           "letter": "D",
           "text": "It occurs in about 20% of the general population",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 20%) of the population (D is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف occurring in about 2% (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف occurring in about 2% (not 20%) of the population."
         },
         {
           "letter": "E",
           "text": "Small-bowel obstruction is the most common complication in children",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف bleeding (not obstruction) being the most common complication in children specifically (E is a common but debated point, obstruction being more…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف bleeding (not obstruction) being the most common complication in children specifically — all these misstate the 'Rule of 2's' facts."
         }
       ]
     },

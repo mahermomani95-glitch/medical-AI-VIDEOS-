@@ -79,28 +79,28 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Injuries are generally more superficial than those with thermal burns: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more superficial) than thermal burns (A is false). يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (. الخيار B، Intravenous fluid replacement is based on the percentage of body surface area burnt: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just BSA percentage as with thermal burns (B is false). يصبح صحيحًا في سؤال يصف fluid replacement in electric burns is based on actual tissue damage/myoglobinuria. الخيار C، Electric burns often result in transient traumatic optic neuropathy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more superficial) than thermal burns (A is false). يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (. الخيار E، Cardiac conduction abnormalities are unlikely: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unlikely) given current passing through the body (E is false) — the true statement is that associated fractures and internal organ injury must be evaluated given the violent muscle contractions/falls associated with electric shock. يصبح صحيحًا في سؤال يصف cardiac conduction abnormalities are actually COMMON (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Injuries are generally more superficial than those with thermal burns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated. يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (not more superficial) than thermal burns. الخيار B، Intravenous fluid replacement is based on the percentage of body surface area burnt: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just BSA percentage as with thermal burns. يصبح صحيحًا في سؤال يصف fluid replacement in electric burns is based on actual tissue damage/myoglobinuria. الخيار C، Electric burns often result in transient traumatic optic neuropathy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated. يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (not more superficial) than thermal burns. الخيار E، Cardiac conduction abnormalities are unlikely: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated. يصبح صحيحًا في سؤال يصف cardiac conduction abnormalities are actually COMMON (not unlikely) given current passing through the body — the true statement is that associated fractures and internal organ injury must be evaluated given the violent muscle contractions/falls associated with electric shock.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Injuries are generally more superficial than those with thermal burns",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more superficial) than thermal burns (A is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (not more superficial) than thermal burns."
         },
         {
           "letter": "B",
           "text": "Intravenous fluid replacement is based on the percentage of body surface area burnt",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just BSA percentage as with thermal burns (B is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just BSA percentage as with thermal burns.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف fluid replacement in electric burns is based on actual tissue damage/myoglobinuria."
         },
         {
           "letter": "C",
           "text": "Electric burns often result in transient traumatic optic neuropathy",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more superficial) than thermal burns (A is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (not more superficial) than thermal burns."
         },
         {
           "letter": "D",
@@ -112,8 +112,8 @@
           "letter": "E",
           "text": "Cardiac conduction abnormalities are unlikely",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unlikely) given current passing through the body (E is false) — the true statement is that associated fractures and internal…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف cardiac conduction abnormalities are actually COMMON (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف cardiac conduction abnormalities are actually COMMON (not unlikely) given current passing through the body — the true statement is that…"
         }
       ]
     },

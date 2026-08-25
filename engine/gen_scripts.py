@@ -78,12 +78,14 @@ def cap(s, limit):
     """
     s = clean(s)
     if len(s) <= limit:
-        return s
+        return balance_parens(s)
     cut = s[:limit]
     sp = cut.rfind(" ")
     if sp > limit * 0.6:
         cut = cut[:sp]
-    return cut.rstrip(" ,;:-—") + "…"
+    # Balance AFTER trimming -- truncation is itself a common way to strand
+    # an opening bracket.
+    return balance_parens(cut.rstrip(" ,;:-—")) + "…"
 
 
 # ------------------------------------------------------- bullet analysis
@@ -154,6 +156,16 @@ META_RE = re.compile(
 )
 
 
+# Option letters are referenced in several shapes across the source:
+#   "(A)"  "(A, B)"  "(C, D, E — byssinosis, silicosis)"  "(A is false)"
+#   "(A, B are false)"
+# Matching only the first two silently loses the explanations attached to the
+# rest, which is why those choices used to fall back to generic text.
+LETTER_GROUP_RE = re.compile(
+    r"\(\s*([A-E](?:\s*(?:,|and|&)\s*[A-E])*)\s*(?:[—\-–:,)]|(?:is|are)\b)"
+)
+
+
 def find_clause_for_choice(choice, bullets):
     """Find the bullet clause that specifically describes THIS choice.
 
@@ -174,7 +186,7 @@ def find_clause_for_choice(choice, bullets):
             # Letter groups appear both as bare "(C, D, E)" and annotated
             # "(C, D, E — byssinosis, pneumoconiosis, silicosis)", so match a
             # leading run of letters and ignore any trailing gloss.
-            for m in re.finditer(r"\(\s*([A-E](?:\s*(?:,|and|&)\s*[A-E])*)\s*(?:[—\-–:,]|\))", clause):
+            for m in re.finditer(LETTER_GROUP_RE, clause):
                 group = re.split(r"\s*(?:,|and|&)\s*", m.group(1))
                 if letter in [x.strip() for x in group]:
                     lettered = True
@@ -191,6 +203,22 @@ def find_clause_for_choice(choice, bullets):
     return best if best_score >= 4 else None
 
 
+def balance_parens(s):
+    """Drop unbalanced brackets left behind by trimming/splitting.
+
+    Derived text is cut at sentence and contrast boundaries, which can strand
+    an opening '(' with no partner (or vice versa); a lone bracket on a card
+    reads as a rendering bug.
+    """
+    if not s:
+        return s
+    if s.count("(") > s.count(")"):
+        s = s[: s.rfind("(")].rstrip(" ,;:-—")
+    while s.count(")") > s.count("("):
+        s = s.replace(")", "", 1)
+    return clean(s)
+
+
 def strip_letter_refs(s):
     """Remove this question's own option letters from derived text.
 
@@ -204,6 +232,10 @@ def strip_letter_refs(s):
     s = re.sub(
         r"\(\s*[A-E](?:\s*(?:,|and|&)\s*[A-E])*\s*[—\-–:]\s*([^)]*)\)",
         r"(\1)", s)
+    # Verdict-style group, e.g. "(A is false)" / "(A, B are false)".
+    s = re.sub(
+        r"\s*\(\s*[A-E](?:\s*(?:,|and|&)\s*[A-E])*\s+(?:is|are)\s+[^)]*\)",
+        "", s)
     # Bare group: drop entirely.
     s = re.sub(r"\s*\(\s*[A-E](?:\s*(?:,|and|&)\s*[A-E])*\s*\)", "", s)
     return clean(s)
@@ -241,15 +273,20 @@ def describe_choice(clause, choice_text):
         return None, None
 
     positive, contrast = c, None
-    m = CONTRAST_RE.search(c)
-    if m:
+    for m in CONTRAST_RE.finditer(c):
+        # Don't split inside a parenthetical aside: source text like
+        # "actually less (not more) common than inguinal" would otherwise cut
+        # at the inner "not" and leave a dangling "(" fragment.
+        if c.count("(", 0, m.start()) != c.count(")", 0, m.start()):
+            continue
         head = clean(c[: m.start()]).rstrip(",").rstrip()
         tail = clean(c[m.end():]).rstrip(".")
         if len(head) >= 12:
             positive = head
             if tail:
                 contrast = tail
-    return positive, contrast
+        break
+    return balance_parens(positive), balance_parens(contrast)
 
 
 # ----------------------------------------------------- illustration logic

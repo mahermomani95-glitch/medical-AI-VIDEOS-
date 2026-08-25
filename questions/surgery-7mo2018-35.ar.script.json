@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Associated abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection. يصبح صحيحًا في سؤال يصف Associated abscess and non-toxic appearance don't relate directly to the border finding described. الخيار C، Patients non-toxic appearance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection. يصبح صحيحًا في سؤال يصف Associated abscess and non-toxic appearance don't relate directly to the border finding described. الخيار D، Usually caused by group B Streptococcus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا group B) Streptococcus (D is false). يصبح صحيحًا في سؤال يصف erysipelas is usually caused by group A (. الخيار E، Usually seem on chest: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا chest specifically. يصبح صحيحًا في سؤال يصف it's more classically seen on the face and legs.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Associated abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection. يصبح صحيحًا في سؤال يصف Associated abscess and non-toxic appearance don't relate directly to the border finding described. الخيار C، Patients non-toxic appearance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection. يصبح صحيحًا في سؤال يصف Associated abscess and non-toxic appearance don't relate directly to the border finding described. الخيار D، Usually caused by group B Streptococcus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection. يصبح صحيحًا في سؤال يصف erysipelas is usually caused by group A (not group B) Streptococcus. الخيار E، Usually seem on chest: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا chest specifically. يصبح صحيحًا في سؤال يصف it's more classically seen on the face and legs.",
       "verdicts": [
         {
           "letter": "A",
@@ -101,8 +101,8 @@
           "letter": "D",
           "text": "Usually caused by group B Streptococcus",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا group B) Streptococcus (D is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف erysipelas is usually caused by group A (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف erysipelas is usually caused by group A (not group B) Streptococcus."
         },
         {
           "letter": "E",

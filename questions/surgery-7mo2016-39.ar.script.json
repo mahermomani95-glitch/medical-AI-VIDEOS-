@@ -75,21 +75,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The most common type is the H type: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies. يصبح صحيحًا في سؤال يستهدف The most common type is the H type تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، It is suspected prenatally by Oligohydramnios: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا oligohydramnios), since the fetus can't swallow amniotic fluid normally (B is false). يصبح صحيحًا في سؤال يصف it's suspected prenatally by POLYhydramnios (. الخيار E، This condition is more in females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies. يصبح صحيحًا في سؤال يستهدف This condition is more in females تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The most common type is the H type: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies. يصبح صحيحًا في سؤال يصف The H-type is actually the RAREST (not most common) type. الخيار B، It is suspected prenatally by Oligohydramnios: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies. يصبح صحيحًا في سؤال يصف it's suspected prenatally by POLYhydramnios (not oligohydramnios), since the fetus can't swallow amniotic fluid normally. الخيار E، This condition is more in females: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have a clear female predominance — the true statement is that about 20% of patients have associated cardiac anomalies, part of the VACTERL association. يصبح صحيحًا في سؤال يصف the condition.",
       "verdicts": [
         {
           "letter": "A",
           "text": "The most common type is the H type",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف The most common type is the H type تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The H-type is actually the RAREST (not most common) type."
         },
         {
           "letter": "B",
           "text": "It is suspected prenatally by Oligohydramnios",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا oligohydramnios), since the fetus can't swallow amniotic fluid normally (B is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف it's suspected prenatally by POLYhydramnios (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف it's suspected prenatally by POLYhydramnios (not oligohydramnios), since the fetus can't swallow amniotic fluid normally."
         },
         {
           "letter": "D",
@@ -101,8 +101,8 @@
           "letter": "E",
           "text": "This condition is more in females",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف This condition is more in females تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have a clear female predominance — the true statement is that about 20% of patients have associated cardiac anomalies, part…",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف the condition."
         }
       ]
     },

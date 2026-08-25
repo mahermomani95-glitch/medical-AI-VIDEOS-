@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، This patient needs admission, painkillers, rehydration (IV fluids) antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase. يصبح صحيحًا في سؤال يصف Admission with pain control/hydration/antibiotics is reasonable supportive care in general. الخيار B، The most likely diagnosis in this patient is gallstones and stone(s) in the common bile duct: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the specific lab finding being tested. يصبح صحيحًا في سؤال يصف gallstones with a CBD stone is a plausible differential but. الخيار D، The cause of color urine is the increased conjugated bilirubin in urine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) lipase, making the described 'decreased lipase' the false element distinguishing this option as correct here. يصبح صحيحًا في سؤال يصف conjugated bilirubin causing dark urine and elevated alkaline phosphatase both relate to obstructive/biliary causes — the classic pancreatitis lab finding is an increased amylase WITH increased (. الخيار E، The serum liver function tests will most likely show increased Alkaline Phosphatase: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) lipase, making the described 'decreased lipase' the false element distinguishing this option as correct here. يصبح صحيحًا في سؤال يصف conjugated bilirubin causing dark urine and elevated alkaline phosphatase both relate to obstructive/biliary causes — the classic pancreatitis lab finding is an increased amylase WITH increased (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، This patient needs admission, painkillers, rehydration (IV fluids) antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase. يصبح صحيحًا في سؤال يصف Admission with pain control/hydration/antibiotics is reasonable supportive care in general. الخيار B، The most likely diagnosis in this patient is gallstones and stone(s) in the common bile duct: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the specific lab finding being tested. يصبح صحيحًا في سؤال يصف gallstones with a CBD stone is a plausible differential but. الخيار D، The cause of color urine is the increased conjugated bilirubin in urine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase. يصبح صحيحًا في سؤال يصف conjugated bilirubin causing dark urine and elevated alkaline phosphatase both relate to obstructive/biliary causes — the classic pancreatitis lab finding is an increased amylase WITH increased (not decreased) lipase, making the described 'decreased lipase' the false element distinguishing this option as correct here. الخيار E، The serum liver function tests will most likely show increased Alkaline Phosphatase: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase. يصبح صحيحًا في سؤال يصف conjugated bilirubin causing dark urine and elevated alkaline phosphatase both relate to obstructive/biliary causes — the classic pancreatitis lab finding is an increased amylase WITH increased (not decreased) lipase, making the described 'decreased lipase' the false element distinguishing this option as correct here.",
       "verdicts": [
         {
           "letter": "A",
@@ -105,14 +105,14 @@
           "letter": "D",
           "text": "The cause of color urine is the increased conjugated bilirubin in urine",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) lipase, making the described 'decreased lipase' the false element distinguishing this option as correct here.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف conjugated bilirubin causing dark urine and elevated alkaline phosphatase both relate to obstructive/biliary causes — the classic pancreatitis…"
         },
         {
           "letter": "E",
           "text": "The serum liver function tests will most likely show increased Alkaline Phosphatase",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) lipase, making the described 'decreased lipase' the false element distinguishing this option as correct here.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف conjugated bilirubin causing dark urine and elevated alkaline phosphatase both relate to obstructive/biliary causes — the classic pancreatitis…"
         }
       ]

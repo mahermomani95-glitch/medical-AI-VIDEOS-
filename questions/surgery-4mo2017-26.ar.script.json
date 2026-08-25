@@ -75,14 +75,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It's found within 2 inches of the ileocecal valve: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 2 inches) of the ileocecal valve (A is false). يصبح صحيحًا في سؤال يصف It's found within 2 FEET (. الخيار C، Ectopic colonic epithelium is found in it: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا colonic) epithelium (C is false). يصبح صحيحًا في سؤال يصف it typically contains ectopic GASTRIC (. الخيار D، Diagnosis is best made by CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routine CT (D is false). يصبح صحيحًا في سؤال يصف diagnosis is best made by a Meckel's (technetium) scan. الخيار E، It's usually found on the mesentric border of the bowel: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mesenteric) border (E is false) — the true statement is that it's a remnant of the embryonic vitelline (omphalomesenteric) duct. يصبح صحيحًا في سؤال يصف it's found on the ANTIMESENTERIC (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It's found within 2 inches of the ileocecal valve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct. يصبح صحيحًا في سؤال يصف It's found within 2 FEET (not 2 inches) of the ileocecal valve. الخيار C، Ectopic colonic epithelium is found in it: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct. يصبح صحيحًا في سؤال يصف it typically contains ectopic GASTRIC (not colonic) epithelium. الخيار D، Diagnosis is best made by CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routine CT. يصبح صحيحًا في سؤال يصف diagnosis is best made by a Meckel's (technetium) scan. الخيار E، It's usually found on the mesentric border of the bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct. يصبح صحيحًا في سؤال يصف it's found on the ANTIMESENTERIC (not mesenteric) border — the true statement is that it's a remnant of the embryonic vitelline (omphalomesenteric) duct.",
       "verdicts": [
         {
           "letter": "A",
           "text": "It's found within 2 inches of the ileocecal valve",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 2 inches) of the ileocecal valve (A is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف It's found within 2 FEET (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف It's found within 2 FEET (not 2 inches) of the ileocecal valve."
         },
         {
           "letter": "B",
@@ -94,22 +94,22 @@
           "letter": "C",
           "text": "Ectopic colonic epithelium is found in it",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا colonic) epithelium (C is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف it typically contains ectopic GASTRIC (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف it typically contains ectopic GASTRIC (not colonic) epithelium."
         },
         {
           "letter": "D",
           "text": "Diagnosis is best made by CT scan",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routine CT (D is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routine CT.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف diagnosis is best made by a Meckel's (technetium) scan."
         },
         {
           "letter": "E",
           "text": "It's usually found on the mesentric border of the bowel",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mesenteric) border (E is false) — the true statement is that it's a remnant of the embryonic vitelline (omphalomesenteric)…",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف it's found on the ANTIMESENTERIC (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف it's found on the ANTIMESENTERIC (not mesenteric) border — the true statement is that it's a remnant of the embryonic vitelline…"
         }
       ]
     },

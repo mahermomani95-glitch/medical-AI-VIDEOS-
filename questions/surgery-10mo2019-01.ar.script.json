@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، The written communication material must always be in English: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always need to be in English (B is false — patient's own language should be used). يصبح صحيحًا في سؤال يصف Written material. الخيار C، Consent is not necessary before physical examination of a patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Consent should be obtained by the person doing the operation. يصبح صحيحًا في سؤال يصف consent IS necessary before physical exam (C is false). الخيار D، Every possible hazard, however remote the possibility, should be explained in detail: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا need detailing, only material risks (D is false). يصبح صحيحًا في سؤال يصف every conceivable remote hazard. الخيار E، Legally, a signed consent from a patient is proof that valid consent has been properly obtained: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Consent should be obtained by the person doing the operation. يصبح صحيحًا في سؤال يصف a signed form alone isn't automatic legal proof of valid understanding (E is false) — all misstate true informed consent principles.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، The written communication material must always be in English: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always need to be in English. يصبح صحيحًا في سؤال يصف Written material. الخيار C، Consent is not necessary before physical examination of a patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Consent should be obtained by the person doing the operation. يصبح صحيحًا في سؤال يصف consent IS necessary before physical exam. الخيار D، Every possible hazard, however remote the possibility, should be explained in detail: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا need detailing, only material risks. يصبح صحيحًا في سؤال يصف every conceivable remote hazard. الخيار E، Legally, a signed consent from a patient is proof that valid consent has been properly obtained: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Consent should be obtained by the person doing the operation. يصبح صحيحًا في سؤال يصف a signed form alone isn't automatic legal proof of valid understanding — all misstate true informed consent principles.",
       "verdicts": [
         {
           "letter": "A",
@@ -91,7 +91,7 @@
           "letter": "B",
           "text": "The written communication material must always be in English",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always need to be in English (B is false — patient's own language should be used).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always need to be in English.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف Written material."
         },
         {
@@ -99,13 +99,13 @@
           "text": "Consent is not necessary before physical examination of a patient",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Consent should be obtained by the person doing the operation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف consent IS necessary before physical exam (C is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف consent IS necessary before physical exam."
         },
         {
           "letter": "D",
           "text": "Every possible hazard, however remote the possibility, should be explained in detail",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا need detailing, only material risks (D is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا need detailing, only material risks.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف every conceivable remote hazard."
         },
         {
@@ -113,7 +113,7 @@
           "text": "Legally, a signed consent from a patient is proof that valid consent has been properly…",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Consent should be obtained by the person doing the operation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف a signed form alone isn't automatic legal proof of valid understanding (E is false) — all misstate true informed consent principles."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف a signed form alone isn't automatic legal proof of valid understanding — all misstate true informed consent principles."
         }
       ]
     },

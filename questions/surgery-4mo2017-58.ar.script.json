@@ -75,21 +75,21 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acidosis should be corrected first: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected. يصبح صحيحًا في سؤال يصف Acidosis is NOT the primary problem to correct first — alkalosis and volume depletion are (A is false). الخيار B، Chloride level is normal in spite alkalosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا normal), reflecting the hypochloremic component (B is false). يصبح صحيحًا في سؤال يصف chloride is actually LOW (. الخيار D، Usually there is compensatory hypocarbia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypocarbia, to compensate for the alkalosis (D is false). يصبح صحيحًا في سؤال يصف there is compensatory HYPERcarbia (retaining CO2). الخيار E، Paradoxical aciduria is not a feature: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected. يصبح صحيحًا في سؤال يصف paradoxical aciduria IS a classic feature (kidneys excrete acidic urine despite systemic alkalosis to conserve sodium) (E is false) — the true statement is that hypokalemia should be corrected as part of management.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acidosis should be corrected first: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected. يصبح صحيحًا في سؤال يصف Acidosis is NOT the primary problem to correct first — alkalosis and volume depletion are. الخيار B، Chloride level is normal in spite alkalosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected. يصبح صحيحًا في سؤال يصف chloride is actually LOW (not normal), reflecting the hypochloremic component. الخيار D، Usually there is compensatory hypocarbia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypocarbia, to compensate for the alkalosis. يصبح صحيحًا في سؤال يصف there is compensatory HYPERcarbia (retaining CO2). الخيار E، Paradoxical aciduria is not a feature: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected. يصبح صحيحًا في سؤال يصف paradoxical aciduria IS a classic feature (kidneys excrete acidic urine despite systemic alkalosis to conserve sodium) — the true statement is that hypokalemia should be corrected as part of management.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Acidosis should be corrected first",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis is NOT the primary problem to correct first — alkalosis and volume depletion are (A is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Acidosis is NOT the primary problem to correct first — alkalosis and volume depletion are."
         },
         {
           "letter": "B",
           "text": "Chloride level is normal in spite alkalosis",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا normal), reflecting the hypochloremic component (B is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف chloride is actually LOW (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف chloride is actually LOW (not normal), reflecting the hypochloremic component."
         },
         {
           "letter": "C",
@@ -101,7 +101,7 @@
           "letter": "D",
           "text": "Usually there is compensatory hypocarbia",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypocarbia, to compensate for the alkalosis (D is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypocarbia, to compensate for the alkalosis.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف there is compensatory HYPERcarbia (retaining CO2)."
         },
         {
@@ -109,7 +109,7 @@
           "text": "Paradoxical aciduria is not a feature",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف paradoxical aciduria IS a classic feature (kidneys excrete acidic urine despite systemic alkalosis to conserve sodium) (E is false) — the true…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف paradoxical aciduria IS a classic feature (kidneys excrete acidic urine despite systemic alkalosis to conserve sodium) — the true statement is…"
         }
       ]
     },

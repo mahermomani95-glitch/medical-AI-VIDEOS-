@@ -79,14 +79,14 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intermittent pain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا continuous) pain is actually reassuring against strangulation. يصبح صحيحًا في سؤال يصف Intermittent (. الخيار C، Alkalosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف alkalosis isn't the typical acid-base finding (acidosis from ischemia is). الخيار D، Heavy watery diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف heavy watery diarrhea isn't a sign of bowel obstruction/strangulation. الخيار E، Reducible hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف a reducible hernia is reassuring, the opposite of a worrying sign.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intermittent pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف Intermittent (not continuous) pain is actually reassuring against strangulation. الخيار C، Alkalosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف alkalosis isn't the typical acid-base finding (acidosis from ischemia is). الخيار D، Heavy watery diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف heavy watery diarrhea isn't a sign of bowel obstruction/strangulation. الخيار E، Reducible hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف a reducible hernia is reassuring, the opposite of a worrying sign.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Intermittent pain",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا continuous) pain is actually reassuring against strangulation.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Intermittent (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف Intermittent (not continuous) pain is actually reassuring against strangulation."
         },
         {
           "letter": "B",

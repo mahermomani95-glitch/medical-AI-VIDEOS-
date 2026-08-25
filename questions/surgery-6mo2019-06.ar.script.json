@@ -79,13 +79,13 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Severe, chronic, or previously treated infections are usually caused by aerobic bacteria: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا purely aerobic (A is false). يصبح صحيحًا في سؤال يصف Severe/chronic diabetic infections are typically polymicrobial including anaerobes. الخيار B، Compromise of the blood supply from macrovascular disease is the underlying cause: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف the underlying vascular problem is more microvascular than macrovascular (B is false). الخيار C، Foul Wound discharge is usually present in Deep-skin and soft tissue diabetic infections: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف Surgical debridement is usually indicated in deep skin and soft-tissue diabetic infections, since antibiotics alone often cannot clear necrotic tissue or drain an abscess. الخيار E، The WBC and ESR are markedly elevated in diabetic Cellulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف WBC/ESR may be only mildly elevated despite severe infection in diabetics (E is false) — these are all incorrect statements about diabetic foot infection distinguishing them from the true one about debridement.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Severe, chronic, or previously treated infections are usually caused by aerobic bacteria: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا purely aerobic. يصبح صحيحًا في سؤال يصف Severe/chronic diabetic infections are typically polymicrobial including anaerobes. الخيار B، Compromise of the blood supply from macrovascular disease is the underlying cause: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف the underlying vascular problem is more microvascular than macrovascular. الخيار C، Foul Wound discharge is usually present in Deep-skin and soft tissue diabetic infections: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف foul discharge IS often present in deep diabetic infections. الخيار E، The WBC and ESR are markedly elevated in diabetic Cellulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف WBC/ESR may be only mildly elevated despite severe infection in diabetics — these are all incorrect statements about diabetic foot infection distinguishing them from the true one about debridement.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Severe, chronic, or previously treated infections are usually caused by aerobic bacteria",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا purely aerobic (A is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا purely aerobic.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف Severe/chronic diabetic infections are typically polymicrobial including anaerobes."
         },
         {
@@ -93,14 +93,14 @@
           "text": "Compromise of the blood supply from macrovascular disease is the underlying cause",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف the underlying vascular problem is more microvascular than macrovascular (B is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف the underlying vascular problem is more microvascular than macrovascular."
         },
         {
           "letter": "C",
           "text": "Foul Wound discharge is usually present in Deep-skin and soft tissue diabetic infections",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف Surgical debridement is usually indicated in deep skin and soft-tissue diabetic infections, since antibiotics alone often cannot clear necrotic…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف foul discharge IS often present in deep diabetic infections."
         },
         {
           "letter": "D",
@@ -113,7 +113,7 @@
           "text": "The WBC and ESR are markedly elevated in diabetic Cellulitis",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف WBC/ESR may be only mildly elevated despite severe infection in diabetics (E is false) — these are all incorrect statements about diabetic foot…"
+          "elsewhere": "يصبح صحيحًا في سؤال يصف WBC/ESR may be only mildly elevated despite severe infection in diabetics — these are all incorrect statements about diabetic foot infection…"
         }
       ]
     },

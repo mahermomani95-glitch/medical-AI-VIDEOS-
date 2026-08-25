@@ -75,13 +75,13 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، CA in situ is always invasive: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always invasive (A is false, it's non-invasive by definition). يصبح صحيحًا في سؤال يصف Carcinoma in situ. الخيار C، It's more than 50% familiall: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast oedema result from superficial lymphatic mets. يصبح صحيحًا في سؤال يستهدف It's more than 50% familiall تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Men breast cancer represent 10% of breast ca: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 10%, of all breast cancers (D is false) — these misstate true breast cancer epidemiology. يصبح صحيحًا في سؤال يصف male breast cancer represents about 1%.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، CA in situ is always invasive: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always invasive. يصبح صحيحًا في سؤال يصف Carcinoma in situ. الخيار C، It's more than 50% familiall: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more than 50%. يصبح صحيحًا في سؤال يصف the true hereditary rate is only 5-10%. الخيار D، Men breast cancer represent 10% of breast ca: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 10%, of all breast cancers — these misstate true breast cancer epidemiology. يصبح صحيحًا في سؤال يصف male breast cancer represents about 1%.",
       "verdicts": [
         {
           "letter": "A",
           "text": "CA in situ is always invasive",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always invasive (A is false, it's non-invasive by definition).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always invasive.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف Carcinoma in situ."
         },
         {
@@ -94,14 +94,14 @@
           "letter": "C",
           "text": "It's more than 50% familiall",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast oedema result from superficial lymphatic mets.",
-          "elsewhere": "يصبح صحيحًا في سؤال يستهدف It's more than 50% familiall تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more than 50%.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف the true hereditary rate is only 5-10%."
         },
         {
           "letter": "D",
           "text": "Men breast cancer represent 10% of breast ca",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 10%, of all breast cancers (D is false) — these misstate true breast cancer epidemiology.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 10%, of all breast cancers — these misstate true breast cancer epidemiology.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف male breast cancer represents about 1%."
         }
       ]

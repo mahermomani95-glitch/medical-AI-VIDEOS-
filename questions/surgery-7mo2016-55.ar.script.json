@@ -79,20 +79,20 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The risk of cancer unrelated to the extent of inflammation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف The risk of cancer actually IS related to the extent of inflammation (A is false, contrary to what's stated). الخيار B، The malignancy typically develops in a polyp: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a discrete polyp (B is false). يصبح صحيحًا في سؤال يصف malignancy in UC typically develops from flat dysplasia. الخيار D، Random endoscopy and biopsies ineffective: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف random biopsies during surveillance ARE effective and standard practice (D is false). الخيار E، CEA level are useful Guid_ when to perform a colonoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف CEA is not a reliable guide for colonoscopy timing (E is false) — the true statement is that cancer risk correlates with disease duration.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The risk of cancer unrelated to the extent of inflammation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف The risk of cancer actually IS related to the extent of inflammation. الخيار B، The malignancy typically develops in a polyp: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a discrete polyp. يصبح صحيحًا في سؤال يصف malignancy in UC typically develops from flat dysplasia. الخيار D، Random endoscopy and biopsies ineffective: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف random biopsies during surveillance ARE effective and standard practice. الخيار E، CEA level are useful Guid_ when to perform a colonoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف CEA is not a reliable guide for colonoscopy timing — the true statement is that cancer risk correlates with disease duration.",
       "verdicts": [
         {
           "letter": "A",
           "text": "The risk of cancer unrelated to the extent of inflammation",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The risk of cancer actually IS related to the extent of inflammation (A is false, contrary to what's stated)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The risk of cancer actually IS related to the extent of inflammation."
         },
         {
           "letter": "B",
           "text": "The malignancy typically develops in a polyp",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a discrete polyp (B is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a discrete polyp.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف malignancy in UC typically develops from flat dysplasia."
         },
         {
@@ -106,14 +106,14 @@
           "text": "Random endoscopy and biopsies ineffective",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف random biopsies during surveillance ARE effective and standard practice (D is false)."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف random biopsies during surveillance ARE effective and standard practice."
         },
         {
           "letter": "E",
           "text": "CEA level are useful Guid_ when to perform a colonoscopy",
           "verdict": "wrong",
           "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration.",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف CEA is not a reliable guide for colonoscopy timing (E is false) — the true statement is that cancer risk correlates with disease duration."
+          "elsewhere": "يصبح صحيحًا في سؤال يصف CEA is not a reliable guide for colonoscopy timing — the true statement is that cancer risk correlates with disease duration."
         }
       ]
     },

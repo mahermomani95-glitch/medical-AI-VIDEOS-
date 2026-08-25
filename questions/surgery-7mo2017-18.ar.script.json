@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، This patient need admission, pain killers and, IV fluids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف Admission with pain control and IV fluids is reasonable supportive care. الخيار B، The most likely diagnosis gallstones and stone in the common bile duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف gallstones/CBD stone is a plausible but less specific diagnosis for this presentation. الخيار C، The cause of clay color stool is absence of stercobilinogen from stool: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) alkaline phosphatase, making E the false statement. يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for obstructive jaundice — however, obstructive causes typically show INCREASED (. الخيار D، The cause of tea color urine is increased conjugated bilirubin in urine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) alkaline phosphatase, making E the false statement. يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for obstructive jaundice — however, obstructive causes typically show INCREASED (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، This patient need admission, pain killers and, IV fluids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف Admission with pain control and IV fluids is reasonable supportive care. الخيار B، The most likely diagnosis gallstones and stone in the common bile duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف gallstones/CBD stone is a plausible but less specific diagnosis for this presentation. الخيار C، The cause of clay color stool is absence of stercobilinogen from stool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for obstructive jaundice — however, obstructive causes typically show INCREASED (not decreased) alkaline phosphatase, making E the false statement. الخيار D، The cause of tea color urine is increased conjugated bilirubin in urine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for obstructive jaundice — however, obstructive causes typically show INCREASED (not decreased) alkaline phosphatase, making E the false statement.",
       "verdicts": [
         {
           "letter": "A",
@@ -99,14 +99,14 @@
           "letter": "C",
           "text": "The cause of clay color stool is absence of stercobilinogen from stool",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) alkaline phosphatase, making E the false statement.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for…"
         },
         {
           "letter": "D",
           "text": "The cause of tea color urine is increased conjugated bilirubin in urine",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا decreased) alkaline phosphatase, making E the false statement.",
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for…"
         },
         {

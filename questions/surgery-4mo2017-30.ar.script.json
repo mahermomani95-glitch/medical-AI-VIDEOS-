@@ -75,35 +75,35 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Is shifted to the left by increase 2.3 _ DPG: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left) by increased 2,3-DPG (A is false). يصبح صحيحًا في سؤال يصف The curve is shifted RIGHT (. الخيار B، Is Sigmoid shape for both hemoglobin and myoglobin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا sigmoid like hemoglobin (B is false). يصبح صحيحًا في سؤال يصف it's hyperbolic for myoglobin. الخيار C، Is shifted to the left when one ascends to high altitude: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left, to aid oxygen unloading (C is false). يصبح صحيحًا في سؤال يصف high altitude actually shifts the curve right. الخيار D، Is shifted to the right by an increase in the PH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left) by increased 2,3-DPG (A is false). يصبح صحيحًا في سؤال يصف The curve is shifted RIGHT (.",
+      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Is shifted to the left by increase 2.3 _ DPG: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Is ideally 50% saturated at a PO2 of 28 mmhg. يصبح صحيحًا في سؤال يصف The curve is shifted RIGHT (not left) by increased 2,3-DPG. الخيار B، Is Sigmoid shape for both hemoglobin and myoglobin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا sigmoid like hemoglobin. يصبح صحيحًا في سؤال يصف it's hyperbolic for myoglobin. الخيار C، Is shifted to the left when one ascends to high altitude: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left, to aid oxygen unloading. يصبح صحيحًا في سؤال يصف high altitude actually shifts the curve right. الخيار D، Is shifted to the right by an increase in the PH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا right — the true statement is the P50 value of approximately 27-28 mmHg for normal hemoglobin. يصبح صحيحًا في سؤال يصف increased pH shifts the curve LEFT.",
       "verdicts": [
         {
           "letter": "A",
           "text": "Is shifted to the left by increase 2.3 _ DPG",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left) by increased 2,3-DPG (A is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The curve is shifted RIGHT (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Is ideally 50% saturated at a PO2 of 28 mmhg.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف The curve is shifted RIGHT (not left) by increased 2,3-DPG."
         },
         {
           "letter": "B",
           "text": "Is Sigmoid shape for both hemoglobin and myoglobin",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا sigmoid like hemoglobin (B is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا sigmoid like hemoglobin.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف it's hyperbolic for myoglobin."
         },
         {
           "letter": "C",
           "text": "Is shifted to the left when one ascends to high altitude",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left, to aid oxygen unloading (C is false).",
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left, to aid oxygen unloading.",
           "elsewhere": "يصبح صحيحًا في سؤال يصف high altitude actually shifts the curve right."
         },
         {
           "letter": "D",
           "text": "Is shifted to the right by an increase in the PH",
           "verdict": "wrong",
-          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left) by increased 2,3-DPG (A is false).",
-          "elsewhere": "يصبح صحيحًا في سؤال يصف The curve is shifted RIGHT (."
+          "reason": "لا يتوافق مع معطيات هذا السؤال — المطلوب هنا right — the true statement is the P50 value of approximately 27-28 mmHg for normal hemoglobin.",
+          "elsewhere": "يصبح صحيحًا في سؤال يصف increased pH shifts the curve LEFT."
         },
         {
           "letter": "E",
