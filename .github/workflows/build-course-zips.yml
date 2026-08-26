@@ -57,33 +57,58 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Work out the folder name the catalog expects
+        id: folder
+        run: |
+          # The offline catalog addresses videos by a relative path built from
+          # the course's real name ("Surgery-12th-Month-2021"), NOT the slug.
+          # Naming the folder after the slug produced a zip where nothing
+          # played. Derive it from bank.json -- the same source the catalog
+          # uses -- so the two cannot drift apart.
+          python3 - << 'PY' >> "$GITHUB_OUTPUT"
+          import json, re, sys
+          sys.path.insert(0, "engine")
+          from build_catalog import slug_course, safe_folder
+          bank = json.load(open("questions/bank.json", encoding="utf-8"))
+          want = "${{ matrix.slug }}"
+          for rec in bank:
+              if slug_course(rec["course"]) == want:
+                  print(f"name={safe_folder(rec['course'])}")
+                  break
+          else:
+              raise SystemExit(f"no course matches slug {want}")
+          PY
+
       - name: Download this course's videos
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          mkdir -p "Surgery-${{ matrix.slug }}"
+          mkdir -p "${{ steps.folder.outputs.name }}"
           # --pattern excludes any previously built zip; we only want the mp4s.
           gh release download "videos-${{ matrix.slug }}" \
             --repo "${{ github.repository }}" \
-            --dir "Surgery-${{ matrix.slug }}" \
+            --dir "${{ steps.folder.outputs.name }}" \
             --pattern '*-ar.mp4' --clobber
-          echo "videos: $(ls "Surgery-${{ matrix.slug }}" | wc -l)"
+          echo "videos: $(ls "${{ steps.folder.outputs.name }}" | wc -l)"
 
       - name: Add the offline catalog and a readme
         run: |
           set -euo pipefail
+          # The catalog sits BESIDE the course folder, not inside it: its paths
+          # are "Surgery-.../video.mp4", so it has to be one level above.
           python3 engine/build_catalog.py questions/bank.json \
-            "Surgery-${{ matrix.slug }}/OPEN-ME-catalog.html" --offline
-          cat > "Surgery-${{ matrix.slug }}/README.txt" << 'EOF'
+            "OPEN-ME-catalog.html" --offline
+          cat > "README.txt" << 'EOF'
           Surgery Board Teaching Videos
 
-          Unzip this folder, then open OPEN-ME-catalog.html to search the
-          questions and play any video - it all works with no internet.
+          Open OPEN-ME-catalog.html to search the questions and play any
+          video - it all works with no internet.
 
-          The catalog lists every course, but only the videos in this folder
-          will play. Download other course zips to add them: put their video
-          folders next to this one, alongside the catalog file.
+          Keep the catalog file NEXT TO the course folder, exactly as it comes
+          out of the zip. The catalog lists every course, but only videos you
+          have downloaded will play. To add more, unzip another course here so
+          its folder sits alongside this one.
 
           On iPhone: tap the zip in the Files app to unzip it, then tap
           OPEN-ME-catalog.html.
@@ -93,7 +118,8 @@ jobs:
         run: |
           set -euo pipefail
           # -0: the videos are already H.264, so compression only burns CPU.
-          zip -0 -q -r "surgery-${{ matrix.slug }}-videos.zip" "Surgery-${{ matrix.slug }}"
+          zip -0 -q -r "surgery-${{ matrix.slug }}-videos.zip" \
+            "${{ steps.folder.outputs.name }}" OPEN-ME-catalog.html README.txt
           ls -lh "surgery-${{ matrix.slug }}-videos.zip"
 
       - name: Attach to the course Release
