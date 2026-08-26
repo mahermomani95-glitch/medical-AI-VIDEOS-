@@ -1,0 +1,106 @@
+name: Build Per-Course ZIPs
+
+# Packs each course's videos into a single zip and attaches it to that
+# course's Release, so a student can take a whole course in one download
+# instead of tapping 54 files.
+#
+# One zip per course rather than one for everything: the full bank is several
+# GB, which is a miserable download on a phone -- if it fails at 90% you start
+# over. A ~150 MB course zip is recoverable, and iOS Files unzips it natively
+# with no extra app.
+#
+# Runs in CI because the videos already live here; pulling several GB down to
+# a laptop just to zip it back up would be pointless.
+
+on:
+  workflow_dispatch:
+    inputs:
+      course:
+        description: "Course slug (e.g. 6mo2013). Blank = all courses."
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      slugs: ${{ steps.list.outputs.slugs }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: list
+        run: |
+          python3 - << 'PY' >> "$GITHUB_OUTPUT"
+          import glob, json, os, re
+          want = "${{ inputs.course }}".strip()
+          slugs = set()
+          for p in glob.glob("questions/*.ar.script.json"):
+              m = re.match(r"surgery-(.+)-\d+$", os.path.basename(p)[:-len(".ar.script.json")])
+              if m:
+                  slugs.add(m.group(1))
+          out = sorted(s for s in slugs if not want or s == want)
+          print(f"slugs={json.dumps(out)}")
+          PY
+
+  zip:
+    needs: plan
+    if: ${{ needs.plan.outputs.slugs != '[]' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        slug: ${{ fromJson(needs.plan.outputs.slugs) }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download this course's videos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          mkdir -p "Surgery-${{ matrix.slug }}"
+          # --pattern excludes any previously built zip; we only want the mp4s.
+          gh release download "videos-${{ matrix.slug }}" \
+            --repo "${{ github.repository }}" \
+            --dir "Surgery-${{ matrix.slug }}" \
+            --pattern '*-ar.mp4' --clobber
+          echo "videos: $(ls "Surgery-${{ matrix.slug }}" | wc -l)"
+
+      - name: Add the offline catalog and a readme
+        run: |
+          set -euo pipefail
+          python3 engine/build_catalog.py questions/bank.json \
+            "Surgery-${{ matrix.slug }}/OPEN-ME-catalog.html" --offline
+          cat > "Surgery-${{ matrix.slug }}/README.txt" << 'EOF'
+          Surgery Board Teaching Videos
+
+          Unzip this folder, then open OPEN-ME-catalog.html to search the
+          questions and play any video - it all works with no internet.
+
+          The catalog lists every course, but only the videos in this folder
+          will play. Download other course zips to add them: put their video
+          folders next to this one, alongside the catalog file.
+
+          On iPhone: tap the zip in the Files app to unzip it, then tap
+          OPEN-ME-catalog.html.
+          EOF
+
+      - name: Zip it
+        run: |
+          set -euo pipefail
+          # -0: the videos are already H.264, so compression only burns CPU.
+          zip -0 -q -r "surgery-${{ matrix.slug }}-videos.zip" "Surgery-${{ matrix.slug }}"
+          ls -lh "surgery-${{ matrix.slug }}-videos.zip"
+
+      - name: Attach to the course Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh release upload "videos-${{ matrix.slug }}" \
+            "surgery-${{ matrix.slug }}-videos.zip" \
+            --repo "${{ github.repository }}" --clobber
