@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Cirrhosis liver"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر لحصوات المرارة الكوليسترولية باستثناء أمامك هذه الخيارات: Obesity، أو Crohn disease، أو Multiparity، أو Cirrhosis liver، أو Family history. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر لحصوات المرارة الكوليسترولية باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver. الخيار B، Crohn disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver. الخيار C، Multiparity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver. الخيار E، Family history: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, Crohn's disease (via bile salt malabsorption), multiparity, and family history are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cirrhosis liver.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: صحيحة، لكنها ليست الاستثناء. الخيار B، Crohn disease: صحيحة، لكنها ليست الاستثناء. الخيار C، Multiparity: صحيحة، لكنها ليست الاستثناء. الخيار E، Family history: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"5 F's = Cholesterol stones\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Cirrhosis liver. تشمع الكبد يرفع خطر حصى الصباغ (البيليروبين) وليس حصى الكوليسترول تحديدًا."
+      "narration": "الخيار D، Cirrhosis liver هو الإجابة الصحيحة. تشمع الكبد يرفع خطر حصى الصباغ (البيليروبين) وليس حصى الكوليسترول تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تشمع الكبد يرفع خطر حصى الصباغ (البيليروبين) وليس حصى الكوليسترول تحديدًا. وتذكّر القاعدة: \"5 F's = Cholesterol stones\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. تشمع الكبد يرفع خطر حصى الصباغ (البيليروبين) وليس حصى الكوليسترول تحديدًا. وتذكّر: \"5 F's = Cholesterol stones\". والإجابة الصحيحة هي D."
     }
   ]
 }

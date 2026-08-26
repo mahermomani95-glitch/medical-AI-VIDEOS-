@@ -48,7 +48,7 @@
           "Decreased tactile fremitus on the affected side and tracheal deviation to the contralateral side"
         ]
       },
-      "narration": "لنبدأ بهذا السؤال. مريض بالغ مصاب بصدمة، حضر إلى قسم الطوارئ مصابًا بضيق تنفسونقص أكسجة مفاجئ. اشتبه في إصابته باسترواح صدري ضاغط. أفضلخطوة تالية لتشخيص استرواح الصدر الضاغط لدى هذا المريض هي: أمامك هذه الخيارات: Chest x-ray finding of absent vascular markings, mediastinum shift, atelectasis، أو Physical examination finding of decreased air entry, hyperresonant, decreased tactile fremitus on the affected side and tracheal deviation to the contralateral side، أو Chest CT - finding، أو Chest ultrasound finding، أو Chest MRI finding. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض بالغ مصاب بصدمة، حضر إلى قسم الطوارئ مصابًا بضيق تنفسونقص أكسجة مفاجئ. اشتبه في إصابته باسترواح صدري ضاغط. أفضلخطوة تالية لتشخيص استرواح الصدر الضاغط لدى هذا المريض هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -85,7 +85,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Chest x-ray finding of absent vascular markings, mediastinum shift, atelectasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Physical examination finding of decreased air entry, hyperresonant, decreased tactile fremitus on the affected side and tracheal deviation to the contralateral side. يصبح صحيحًا في سؤال يصف Chest X-ray findings, CT findings, ultrasound findings, and MRI findings can all show pneumothorax to varying degrees, but tension pneumothorax specifically should be diagnosed clinically without waiting for any imaging modality. الخيار C، Chest CT - finding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Physical examination finding of decreased air entry, hyperresonant, decreased tactile fremitus on the affected side and tracheal deviation to the contralateral side. يصبح صحيحًا في سؤال يصف Chest X-ray findings, CT findings, ultrasound findings, and MRI findings can all show pneumothorax to varying degrees, but tension pneumothorax specifically should be diagnosed clinically without waiting for any imaging modality. الخيار D، Chest ultrasound finding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Physical examination finding of decreased air entry, hyperresonant, decreased tactile fremitus on the affected side and tracheal deviation to the contralateral side. يصبح صحيحًا في سؤال يصف Chest X-ray findings, CT findings, ultrasound findings, and MRI findings can all show pneumothorax to varying degrees, but tension pneumothorax specifically should be diagnosed clinically without waiting for any imaging modality. الخيار E، Chest MRI finding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Physical examination finding of decreased air entry, hyperresonant, decreased tactile fremitus on the affected side and tracheal deviation to the contralateral side. يصبح صحيحًا في سؤال يصف Chest X-ray findings, CT findings, ultrasound findings, and MRI findings can all show pneumothorax to varying degrees, but tension pneumothorax specifically should be diagnosed clinically without waiting for any imaging modality.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C، Chest CT - finding: لا ينطبق على هذه الحالة. الخيار D، Chest ultrasound finding: لا ينطبق على هذه الحالة. الخيار E، Chest MRI finding: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -146,13 +146,13 @@
       "pills": [
         "\"Tension pneumo = Clinical diagnosis, act don'"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Physical examination finding of decreased air entry, hyperresonant, decreased tactile fremitus on the affected side and tracheal deviation to the contralateral side. استرواح الصدر التوتري تشخيص سريري بحت — الفحص السريري وليس التصوير هو ما يجب أن يوجّه التدخل الفوري."
+      "narration": "الخيار B هو الإجابة الصحيحة. استرواح الصدر التوتري تشخيص سريري بحت — الفحص السريري وليس التصوير هو ما يجب أن يوجّه التدخل الفوري."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استرواح الصدر التوتري تشخيص سريري بحت — الفحص السريري وليس التصوير هو ما يجب أن يوجّه التدخل الفوري. وتذكّر القاعدة: \"Tension pneumo = Clinical diagnosis, act don't wait for imaging\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. استرواح الصدر التوتري تشخيص سريري بحت — الفحص السريري وليس التصوير هو ما يجب أن يوجّه التدخل الفوري. وتذكّر: \"Tension pneumo = Clinical diagnosis, act don't wait for imaging\". والإجابة الصحيحة هي B."
     }
   ]
 }

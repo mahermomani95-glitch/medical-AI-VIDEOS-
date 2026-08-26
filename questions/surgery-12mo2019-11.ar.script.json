@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Site of obstruction can be accurately diagnosed by…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية المتعلقة بالانسداد المعوي غير صحيحة؟ أمامك هذه الخيارات: Erect and supine abdominal x-rays are helpful for the diagnosis، أو Jejunum is characterised by its valvulae conniventes، أو Site of obstruction can be accurately diagnosed by physical examination and palpation، أو Barium follow-through is contraindicated if obstruction is suspected، أو A water-soluble enema is helpful in differentiating mechanical obstruction from pseudo-obstruction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية المتعلقة بالانسداد المعوي غير صحيحة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Erect and supine abdominal x-rays are helpful for the diagnosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Erect/supine X-rays being helpful, jejunum's valvulae conniventes, barium follow-through being… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Site of obstruction can be accurately diagnosed by physical examination and palpation. الخيار B، Jejunum is characterised by its valvulae conniventes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Erect/supine X-rays being helpful, jejunum's valvulae conniventes, barium follow-through being… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Site of obstruction can be accurately diagnosed by physical examination and palpation. الخيار D، Barium follow-through is contraindicated if obstruction is suspected: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Erect/supine X-rays being helpful, jejunum's valvulae conniventes, barium follow-through being… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Site of obstruction can be accurately diagnosed by physical examination and palpation. الخيار E، A water-soluble enema is helpful in differentiating mechanical obstruction from pseudo-obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Erect/supine X-rays being helpful, jejunum's valvulae conniventes, barium follow-through being… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Site of obstruction can be accurately diagnosed by physical examination and palpation.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Physical exam can't localize obstruction site"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Site of obstruction can be accurately diagnosed by physical examination and palpation. الفحص السريري والجس لا يمكنهما تحديد موقع الانسداد المعوي بدقة — هذا يتطلب التصوير، وليس الفحص السريري وحده."
+      "narration": "الخيار C هو الإجابة الصحيحة. الفحص السريري والجس لا يمكنهما تحديد موقع الانسداد المعوي بدقة — هذا يتطلب التصوير، وليس الفحص السريري وحده."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفحص السريري والجس لا يمكنهما تحديد موقع الانسداد المعوي بدقة — هذا يتطلب التصوير، وليس الفحص السريري وحده. وتذكّر القاعدة: \"Physical exam can't localize obstruction site — imaging can\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الفحص السريري والجس لا يمكنهما تحديد موقع الانسداد المعوي بدقة — هذا يتطلب التصوير، وليس الفحص السريري وحده. وتذكّر: \"Physical exam can't localize obstruction site — imaging can\". والإجابة الصحيحة هي C."
     }
   ]
 }

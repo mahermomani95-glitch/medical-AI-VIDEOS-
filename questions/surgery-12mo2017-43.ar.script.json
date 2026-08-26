@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Sigmoid diverticulitis"
       },
-      "narration": "لنبدأ بهذا السؤال. تم تحويل طفل يبلغ من العمر خمس سنوات إليك كحالة طارئة يعاني من ألمفي الفخذ الأيمن والورك. جميع ما يلي تشخيصات تفريقية مهمة باستثناء:؟ (سؤال مكرر، راجع السؤال رقم 536) أمامك هذه الخيارات: Complicated inguinal hernia، أو Acute appendicitis، أو Testicular torsion، أو Congenital hip abnormality، أو Sigmoid diverticulitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تم تحويل طفل يبلغ من العمر خمس سنوات إليك كحالة طارئة يعاني من ألمفي الفخذ الأيمن والورك. جميع ما يلي تشخيصات تفريقية مهمة باستثناء:؟ (سؤال مكرر، راجع السؤال رقم 536) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Complicated inguinal hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis. الخيار B، Acute appendicitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis. الخيار C، Testicular torsion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis. الخيار D، Congenital hip abnormality: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complicated inguinal hernia, acute appendicitis, testicular torsion, and congenital hip… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sigmoid diverticulitis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Complicated inguinal hernia: صحيحة، لكنها ليست الاستثناء. الخيار B، Acute appendicitis: صحيحة، لكنها ليست الاستثناء. الخيار C، Testicular torsion: صحيحة، لكنها ليست الاستثناء. الخيار D، Congenital hip abnormality: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "5-year-old groin pain: Skips sigmoid Diverticu"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Sigmoid diverticulitis. التهاب الرتوج السيني مرض بالغين أساسًا، غريب عن هذا العمر الطفولي."
+      "narration": "الخيار E، Sigmoid diverticulitis هو الإجابة الصحيحة. التهاب الرتوج السيني مرض بالغين أساسًا، غريب عن هذا العمر الطفولي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب الرتوج السيني مرض بالغين أساسًا، غريب عن هذا العمر الطفولي. وتذكّر القاعدة: 5-year-old groin pain: Skips sigmoid Diverticulitis. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التهاب الرتوج السيني مرض بالغين أساسًا، غريب عن هذا العمر الطفولي. وتذكّر: 5-year-old groin pain: Skips sigmoid Diverticulitis. والإجابة الصحيحة هي E."
     }
   ]
 }

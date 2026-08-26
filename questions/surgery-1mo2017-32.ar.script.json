@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Damage to long thoracic nerve during surgery"
       },
-      "narration": "لنبدأ بهذا السؤال. بعد استئصال الثدي وإزالة الإبط لمريضة مصابة بسرطان الثدي، وجد أنالمريضة تعاني من لوح كتف مجنح، وهو السبب الأكثر احتمالاً؟ أمامك هذه الخيارات: Patient suffered a TIA، أو Damage to thoracodorsal nerve during surgery، أو Damage to long thoracic nerve during surgery، أو Damage to serratus anterior muscle، أو Dislocated scapula. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بعد استئصال الثدي وإزالة الإبط لمريضة مصابة بسرطان الثدي، وجد أنالمريضة تعاني من لوح كتف مجنح، وهو السبب الأكثر احتمالاً؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Patient suffered a TIA: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery. يصبح صحيحًا في سؤال يصف A TIA is unrelated to axillary surgery directly. الخيار B، Damage to thoracodorsal nerve during surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery. يصبح صحيحًا في سؤال يصف thoracodorsal nerve injury causes weak adduction, a different deficit. الخيار D، Damage to serratus anterior muscle: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a separate primary injury. يصبح صحيحًا في سؤال يصف serratus anterior damage results FROM long thoracic nerve injury. الخيار E، Dislocated scapula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to long thoracic nerve during surgery. يصبح صحيحًا في سؤال يصف scapular dislocation isn't a real described entity here — long thoracic nerve injury causing winged scapula is the classic complication of axillary dissection.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Patient suffered a TIA: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار D: المطلوب هنا a separate primary injury. الخيار E، Dislocated scapula: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Axillary clearance: risks Long thoracic nerve"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Damage to long thoracic nerve during surgery. تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا."
+      "narration": "الخيار C هو الإجابة الصحيحة. تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا. وتذكّر القاعدة: Axillary clearance: risks Long thoracic nerve. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. تنظيف الإبط قد يصيب العصب الصدري الطويل مسببًا لوحًا مجنحًا. وتذكّر: Axillary clearance: risks Long thoracic nerve. والإجابة الصحيحة هي C."
     }
   ]
 }

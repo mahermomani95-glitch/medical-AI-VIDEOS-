@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Urine VMA And metanephrines"
       },
-      "narration": "لنبدأ بهذا السؤال. يأتي إليك شاب في العشرين من عمره، وضغط دمه ٢٤٠/١٢٠. يُشير إلى أنهيُعاني أحيانًا من صداع وتعرق شديد. أي من الاختبارات التالية هو الأنسب للتشخيص؟ أمامك هذه الخيارات: Urine cortisol، أو Urine aldosterone، أو Urine VMA And metanephrines، أو Urine epinephrine، أو Urine norepinephrine. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يأتي إليك شاب في العشرين من عمره، وضغط دمه ٢٤٠/١٢٠. يُشير إلى أنهيُعاني أحيانًا من صداع وتعرق شديد. أي من الاختبارات التالية هو الأنسب للتشخيص؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urine cortisol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine VMA And metanephrines. يصبح صحيحًا في سؤال يصف Urine cortisol, aldosterone, epinephrine, and norepinephrine are less specific or less practical than VMA and metanephrines, which are the stable catecholamine breakdown products used for pheochromocytoma diagnosis. الخيار B، Urine aldosterone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine VMA And metanephrines. يصبح صحيحًا في سؤال يصف Urine cortisol, aldosterone, epinephrine, and norepinephrine are less specific or less practical than VMA and metanephrines, which are the stable catecholamine breakdown products used for pheochromocytoma diagnosis. الخيار D، Urine epinephrine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine VMA And metanephrines. يصبح صحيحًا في سؤال يصف Urine cortisol, aldosterone, epinephrine, and norepinephrine are less specific or less practical than VMA and metanephrines, which are the stable catecholamine breakdown products used for pheochromocytoma diagnosis. الخيار E، Urine norepinephrine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine VMA And metanephrines. يصبح صحيحًا في سؤال يصف Urine cortisol, aldosterone, epinephrine, and norepinephrine are less specific or less practical than VMA and metanephrines, which are the stable catecholamine breakdown products used for pheochromocytoma diagnosis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Urine cortisol: الإجابة الصحيحة هي Urine VMA And metanephrines. الخيار B، Urine aldosterone: الإجابة الصحيحة هي Urine VMA And metanephrines. الخيار D، Urine epinephrine: الإجابة الصحيحة هي Urine VMA And metanephrines. الخيار E، Urine norepinephrine: الإجابة الصحيحة هي Urine VMA And metanephrines. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pheo = Pressure, Pain (headache), Perspiratio"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Urine VMA And metanephrines. ارتفاع الضغط النوبي مع الصداع والتعرق يشير مباشرة لورم القواتم، ويؤكَّد بقياس VMA والميتانفرينات بالبول."
+      "narration": "الخيار C، Urine VMA And metanephrines هو الإجابة الصحيحة. ارتفاع الضغط النوبي مع الصداع والتعرق يشير مباشرة لورم القواتم، ويؤكَّد بقياس VMA والميتانفرينات بالبول."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع الضغط النوبي مع الصداع والتعرق يشير مباشرة لورم القواتم، ويؤكَّد بقياس VMA والميتانفرينات بالبول. وتذكّر القاعدة: \"Pheo = Pressure, Pain (headache), Perspiration\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ارتفاع الضغط النوبي مع الصداع والتعرق يشير مباشرة لورم القواتم، ويؤكَّد بقياس VMA والميتانفرينات بالبول. وتذكّر: \"Pheo = Pressure, Pain (headache), Perspiration\". والإجابة الصحيحة هي C."
     }
   ]
 }

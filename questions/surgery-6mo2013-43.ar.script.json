@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Post hemorrhoidectomy"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لتضيق الشرج هو؟ أمامك هذه الخيارات: Post hemorrhoidectomy، أو Hemorrhoids، أو Anal fissure، أو Perianal abscess، أو Perianal hematoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لتضيق الشرج هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hemorrhoids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Post hemorrhoidectomy. يصبح صحيحًا في سؤال يصف Hemorrhoids, anal fissure, perianal abscess, and perianal hematoma are anal conditions that can occur independently, but anal stricture most commonly results as a scarring complication after hemorrhoidectomy surgery. الخيار C، Anal fissure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Post hemorrhoidectomy. يصبح صحيحًا في سؤال يصف Hemorrhoids, anal fissure, perianal abscess, and perianal hematoma are anal conditions that can occur independently, but anal stricture most commonly results as a scarring complication after hemorrhoidectomy surgery. الخيار D، Perianal abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Post hemorrhoidectomy. يصبح صحيحًا في سؤال يصف Hemorrhoids, anal fissure, perianal abscess, and perianal hematoma are anal conditions that can occur independently, but anal stricture most commonly results as a scarring complication after hemorrhoidectomy surgery. الخيار E، Perianal hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Post hemorrhoidectomy. يصبح صحيحًا في سؤال يصف Hemorrhoids, anal fissure, perianal abscess, and perianal hematoma are anal conditions that can occur independently, but anal stricture most commonly results as a scarring complication after hemorrhoidectomy surgery.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Hemorrhoids: الإجابة الصحيحة هي Post hemorrhoidectomy. الخيار C، Anal fissure: الإجابة الصحيحة هي Post hemorrhoidectomy. الخيار D، Perianal abscess: الإجابة الصحيحة هي Post hemorrhoidectomy. الخيار E، Perianal hematoma: الإجابة الصحيحة هي Post hemorrhoidectomy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Anal stricture: mostly Post-hemorrhoidectomy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Post hemorrhoidectomy. التضيق الشرجي غالبًا ما يلي استئصال البواسير كسبب أشيع."
+      "narration": "الخيار A، Post hemorrhoidectomy هو الإجابة الصحيحة. التضيق الشرجي غالبًا ما يلي استئصال البواسير كسبب أشيع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التضيق الشرجي غالبًا ما يلي استئصال البواسير كسبب أشيع. وتذكّر القاعدة: Anal stricture: mostly Post-hemorrhoidectomy. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التضيق الشرجي غالبًا ما يلي استئصال البواسير كسبب أشيع. وتذكّر: Anal stricture: mostly Post-hemorrhoidectomy. والإجابة الصحيحة هي A."
     }
   ]
 }

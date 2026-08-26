@@ -41,7 +41,7 @@
         "label": "15-35 mmHg and 5-10 mmHg",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. ضغط المريء السفلي في حالة الراحة وأثناء البلع عند الشخص الطبيعي هو؟ أمامك هذه الخيارات: 60-70 mmHg and 10-15 mmHg، أو 10-15 mmHg and 50-70 mmHg، أو 15-35 mmHg and 5-10 mmHg، أو 0-5 mmHg and 10-15 mmHg. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ضغط المريء السفلي في حالة الراحة وأثناء البلع عند الشخص الطبيعي هو؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 60-70 mmHg and 10-15 mmHg: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 15-35 mmHg and 5-10 mmHg. يصبح صحيحًا في سؤال يصف 60-70/10-15, 10-15/50-70, and 0-5/10-15 mmHg don't match the correct approximate LES pressures of 15-35 mmHg at rest and 5-10 mmHg during swallowing (relaxation). الخيار B، 10-15 mmHg and 50-70 mmHg: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 15-35 mmHg and 5-10 mmHg. يصبح صحيحًا في سؤال يصف 60-70/10-15, 10-15/50-70, and 0-5/10-15 mmHg don't match the correct approximate LES pressures of 15-35 mmHg at rest and 5-10 mmHg during swallowing (relaxation). الخيار D، 0-5 mmHg and 10-15 mmHg: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 15-35 mmHg and 5-10 mmHg. يصبح صحيحًا في سؤال يصف 60-70/10-15, 10-15/50-70, and 0-5/10-15 mmHg don't match the correct approximate LES pressures of 15-35 mmHg at rest and 5-10 mmHg during swallowing (relaxation).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي 15-35 mmHg and 5-10 mmHg. الخيار B: الإجابة الصحيحة هي 15-35 mmHg and 5-10 mmHg. الخيار D: الإجابة الصحيحة هي 15-35 mmHg and 5-10 mmHg. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -122,13 +122,13 @@
       "pills": [
         "LES pressure: Fifteen-thirty-five Rest, Five-t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: 15-35 mmHg and 5-10 mmHg. ضغط العضلة العاصرة السفلية 15-35 بالراحة وينخفض لـ5-10 أثناء البلع."
+      "narration": "الخيار C هو الإجابة الصحيحة. ضغط العضلة العاصرة السفلية 15-35 بالراحة وينخفض لـ5-10 أثناء البلع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ضغط العضلة العاصرة السفلية 15-35 بالراحة وينخفض لـ5-10 أثناء البلع. وتذكّر القاعدة: LES pressure: Fifteen-thirty-five Rest, Five-ten Swallow. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ضغط العضلة العاصرة السفلية 15-35 بالراحة وينخفض لـ5-10 أثناء البلع. وتذكّر: LES pressure: Fifteen-thirty-five Rest, Five-ten Swallow. والإجابة الصحيحة هي C."
     }
   ]
 }

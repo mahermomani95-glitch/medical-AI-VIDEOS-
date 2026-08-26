@@ -45,7 +45,7 @@
         "label": "Low sensitivity",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. المعايير المثالية لاختبار الفحص في كل مما يلي باستثناء أمامك هذه الخيارات: High specificity، أو Low sensitivity، أو Safe, rapid and easy، أو Cost-effective، أو For significant suffering disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المعايير المثالية لاختبار الفحص في كل مما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، High specificity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity. الخيار C، Safe, rapid and easy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity. الخيار D، Cost-effective: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity. الخيار E، For significant suffering disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High specificity, being safe/rapid/easy, cost-effectiveness, and targeting diseases with a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low sensitivity.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، High specificity: صحيحة، لكنها ليست الاستثناء. الخيار C، Safe, rapid and easy: صحيحة، لكنها ليست الاستثناء. الخيار D، Cost-effective: صحيحة، لكنها ليست الاستثناء. الخيار E، For significant suffering disease: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Screening = Sensitive, not Selective\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Low sensitivity. اختبار الفرز الجيد يحتاج حساسية عالية لالتقاط أكبر عدد من الحالات، وليس حساسية منخفضة."
+      "narration": "الخيار B، Low sensitivity هو الإجابة الصحيحة. اختبار الفرز الجيد يحتاج حساسية عالية لالتقاط أكبر عدد من الحالات، وليس حساسية منخفضة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اختبار الفرز الجيد يحتاج حساسية عالية لالتقاط أكبر عدد من الحالات، وليس حساسية منخفضة. وتذكّر القاعدة: \"Screening = Sensitive, not Selective\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. اختبار الفرز الجيد يحتاج حساسية عالية لالتقاط أكبر عدد من الحالات، وليس حساسية منخفضة. وتذكّر: \"Screening = Sensitive, not Selective\". والإجابة الصحيحة هي B."
     }
   ]
 }

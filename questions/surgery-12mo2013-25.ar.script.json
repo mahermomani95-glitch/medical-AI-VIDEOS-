@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Barrett esophagus"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الخلايا الحرشفية في المريءباستثناء؟ أمامك هذه الخيارات: Alcohol، أو Tobacco، أو Achalasia، أو Plummer Vinson syndrome، أو Barrett esophagus. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الخلايا الحرشفية في المريءباستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Alcohol: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus. الخيار B، Tobacco: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus. الخيار C، Achalasia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus. الخيار D، Plummer Vinson syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Alcohol, tobacco, achalasia, and Plummer-Vinson syndrome are all recognized risk factors for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Barrett esophagus.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Alcohol: صحيحة، لكنها ليست الاستثناء. الخيار B، Tobacco: صحيحة، لكنها ليست الاستثناء. الخيار C، Achalasia: صحيحة، لكنها ليست الاستثناء. الخيار D، Plummer Vinson syndrome: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Barrett's: Bound to Adenocarcinoma, not squamo"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Barrett esophagus. مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء."
+      "narration": "الخيار E، Barrett esophagus هو الإجابة الصحيحة. مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء. وتذكّر القاعدة: Barrett's: Bound to Adenocarcinoma, not squamous. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. مريء باريت يرتبط بالسرطانة الغدية، لا الحرشفية للمريء. وتذكّر: Barrett's: Bound to Adenocarcinoma, not squamous. والإجابة الصحيحة هي E."
     }
   ]
 }

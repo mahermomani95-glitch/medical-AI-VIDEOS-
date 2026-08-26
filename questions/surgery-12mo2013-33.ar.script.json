@@ -45,7 +45,7 @@
         "label": "Deep cut wound exploration and suturing",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الخطوات التالية لا تعتبر جزءًا من المسح الأولي لمريض الصدمة؟ أمامك هذه الخيارات: Insuring adequate ventilatory support، أو Measurement of blood pressure and pulse، أو Neurologic evaluation، أو Protection of the cervical spine، أو Deep cut wound exploration and suturing. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الخطوات التالية لا تعتبر جزءًا من المسح الأولي لمريض الصدمة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Insuring adequate ventilatory support: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing. الخيار B، Measurement of blood pressure and pulse: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing. الخيار C، Neurologic evaluation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing. الخيار D، Protection of the cervical spine: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ensuring ventilation, measuring BP/pulse, neurologic evaluation, and cervical spine protection… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Deep cut wound exploration and suturing.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Insuring adequate ventilatory support: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C، Neurologic evaluation: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Primary survey: Skips wound Suturing details"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Deep cut wound exploration and suturing. استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي."
+      "narration": "الخيار E هو الإجابة الصحيحة. استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي. وتذكّر القاعدة: Primary survey: Skips wound Suturing details. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. استكشاف الجروح وخياطتها يخص المسح الثانوي، لا الأولي. وتذكّر: Primary survey: Skips wound Suturing details. والإجابة الصحيحة هي E."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Heat"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يرتبط بمتلازمة الحيز؟ أمامك هذه الخيارات: Disproportionate level of pain، أو Absent distal pulses، أو Paresthesia، أو Heat، أو Paralysis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يرتبط بمتلازمة الحيز؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Disproportionate level of pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Disproportionate pain, absent distal pulses (B, a late sign), paresthesia, and paralysis are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heat. الخيار B، Absent distal pulses: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Disproportionate pain, absent distal pulses (B, a late sign), paresthesia, and paralysis are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heat. الخيار C، Paresthesia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Disproportionate pain, absent distal pulses (B, a late sign), paresthesia, and paralysis are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heat. الخيار E، Paralysis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Disproportionate pain, absent distal pulses (B, a late sign), paresthesia, and paralysis are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heat.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Disproportionate level of pain: صحيحة، لكنها ليست الاستثناء. الخيار B، Absent distal pulses: صحيحة، لكنها ليست الاستثناء. الخيار C، Paresthesia: صحيحة، لكنها ليست الاستثناء. الخيار E، Paralysis: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Compartment syndrome: doesn't feature Heat as "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Heat. الحرارة الموضعية ليست علامة كلاسيكية مرتبطة بمتلازمة الحيز."
+      "narration": "الخيار D، Heat هو الإجابة الصحيحة. الحرارة الموضعية ليست علامة كلاسيكية مرتبطة بمتلازمة الحيز."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحرارة الموضعية ليست علامة كلاسيكية مرتبطة بمتلازمة الحيز. وتذكّر القاعدة: Compartment syndrome: doesn't feature Heat as a key sign. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الحرارة الموضعية ليست علامة كلاسيكية مرتبطة بمتلازمة الحيز. وتذكّر: Compartment syndrome: doesn't feature Heat as a key sign. والإجابة الصحيحة هي D."
     }
   ]
 }

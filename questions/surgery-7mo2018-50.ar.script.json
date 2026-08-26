@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Subcutaneous emphysema"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العلامات التالية لا تشير إلى وجود استرواح صدري ضاغط؟ أمامك هذه الخيارات: Hypotension، أو Tachycardia، أو Dyspnea، أو Tracheal deviation، أو Subcutaneous emphysema. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العلامات التالية لا تشير إلى وجود استرواح صدري ضاغط؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypotension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema. الخيار B، Tachycardia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema. الخيار C، Dyspnea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema. الخيار D، Tracheal deviation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypotension, tachycardia, dyspnea, and tracheal deviation are all strong, direct signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Subcutaneous emphysema.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypotension: صحيحة، لكنها ليست الاستثناء. الخيار B، Tachycardia: صحيحة، لكنها ليست الاستثناء. الخيار C، Dyspnea: صحيحة، لكنها ليست الاستثناء. الخيار D، Tracheal deviation: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Subcutaneous air ≠ tension physiology\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Subcutaneous emphysema. الانتفاخ تحت الجلد يشير لوجود هواء تحت الجلد من أسباب متعددة، لكنه لا يشير تحديدًا لفيزيولوجيا التوتر كما يفعل هبوط الضغط أو انحراف الرغامى."
+      "narration": "الخيار E، Subcutaneous emphysema هو الإجابة الصحيحة. الانتفاخ تحت الجلد يشير لوجود هواء تحت الجلد من أسباب متعددة، لكنه لا يشير تحديدًا لفيزيولوجيا التوتر كما يفعل هبوط الضغط أو انحراف الرغامى."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الانتفاخ تحت الجلد يشير لوجود هواء تحت الجلد من أسباب متعددة، لكنه لا يشير تحديدًا لفيزيولوجيا التوتر كما يفعل هبوط الضغط أو انحراف الرغامى. وتذكّر القاعدة: \"Subcutaneous air ≠ tension physiology\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الانتفاخ تحت الجلد يشير لوجود هواء تحت الجلد من أسباب متعددة، لكنه لا يشير تحديدًا لفيزيولوجيا التوتر كما يفعل هبوط الضغط أو انحراف الرغامى. وتذكّر: \"Subcutaneous air ≠ tension physiology\". والإجابة الصحيحة هي E."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Pancreatic cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لانسداد مخرج المعدة هو أمامك هذه الخيارات: HPS، أو Pancreatic cancer، أو Crohn disease، أو Erosive gastritis، أو PUD. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لانسداد مخرج المعدة هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، HPS: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adults. يصبح صحيحًا في سؤال يصف Hypertrophic pyloric stenosis is the most common cause of outlet obstruction in infants. الخيار C، Crohn disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pancreatic cancer. يصبح صحيحًا في سؤال يصف Crohn's disease and erosive gastritis can cause outlet obstruction but less commonly than malignancy or peptic ulcer disease. الخيار D، Erosive gastritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pancreatic cancer. يصبح صحيحًا في سؤال يصف Crohn's disease and erosive gastritis can cause outlet obstruction but less commonly than malignancy or peptic ulcer disease. الخيار E، PUD: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pancreatic cancer. يصبح صحيحًا في سؤال يصف peptic ulcer disease was historically the most common cause but has been surpassed by malignancy in the modern era.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، HPS: المطلوب هنا adults. الخيار C، Crohn disease: الإجابة الصحيحة هي Pancreatic cancer. الخيار D، Erosive gastritis: الإجابة الصحيحة هي Pancreatic cancer. الخيار E، PUD: الإجابة الصحيحة هي Pancreatic cancer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Modern era: Malignancy > PUD\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Pancreatic cancer. في الممارسة الحديثة عند البالغين، تجاوز الخباثة قرحة المعدة الهضمية كسبب أشيع لانسداد مخرج المعدة."
+      "narration": "الخيار B، Pancreatic cancer هو الإجابة الصحيحة. في الممارسة الحديثة عند البالغين، تجاوز الخباثة قرحة المعدة الهضمية كسبب أشيع لانسداد مخرج المعدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. في الممارسة الحديثة عند البالغين، تجاوز الخباثة قرحة المعدة الهضمية كسبب أشيع لانسداد مخرج المعدة. وتذكّر القاعدة: \"Modern era: Malignancy > PUD\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. في الممارسة الحديثة عند البالغين، تجاوز الخباثة قرحة المعدة الهضمية كسبب أشيع لانسداد مخرج المعدة. وتذكّر: \"Modern era: Malignancy > PUD\". والإجابة الصحيحة هي B."
     }
   ]
 }

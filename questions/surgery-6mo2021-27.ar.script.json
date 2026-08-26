@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Endotracheal intubation"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Urgent Chest x-ray، أو Arterial blood gases، أو Endotracheal intubation، أو Chest tube insertion، أو Cricothyroidotomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urgent Chest x-ray: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Urgent chest X-ray and arterial blood gases require time this critically unstable patient. الخيار B، Arterial blood gases: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Urgent chest X-ray and arterial blood gases require time this critically unstable patient. الخيار D، Chest tube insertion: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the very first step. يصبح صحيحًا في سؤال يصف chest tube insertion is definitive treatment that follows needle decompression. الخيار E، Cricothyroidotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tension pneumothorax specifically. يصبح صحيحًا في سؤال يصف cricothyroidotomy addresses a different problem (airway obstruction).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Urgent Chest x-ray: المطلوب هنا have. الخيار B، Arterial blood gases: المطلوب هنا have. الخيار D، Chest tube insertion: المطلوب هنا the very first step. الخيار E، Cricothyroidotomy: المطلوب هنا tension pneumothorax specifically. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Facial burn + hoarseness + tachypnea = Intuba"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Endotracheal intubation. بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن."
+      "narration": "الخيار C، Endotracheal intubation هو الإجابة الصحيحة. بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن. وتذكّر القاعدة: \"Facial burn + hoarseness + tachypnea = Intubate NOW\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. بحّة الصوت مع حرق الوجه وتسرع التنفس تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن. وتذكّر: \"Facial burn + hoarseness + tachypnea = Intubate NOW\". والإجابة الصحيحة هي C."
     }
   ]
 }

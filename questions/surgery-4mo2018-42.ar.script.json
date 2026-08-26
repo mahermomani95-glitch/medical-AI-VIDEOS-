@@ -45,7 +45,7 @@
         "label": "Febrile reaction",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. رد فعل نقل الدم الأكثر شيوعًا هو أمامك هذه الخيارات: Clerical error، أو ABO incompatibility، أو Delayed hemolysis، أو Febrile reaction، أو Transfusion related acute lung injury. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رد فعل نقل الدم الأكثر شيوعًا هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Clerical error: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Febrile reaction. يصبح صحيحًا في سؤال يصف Clerical error, ABO incompatibility, delayed hemolysis, and TRALI are all real transfusion complications or causes, but none occurs as frequently overall as the febrile non-hemolytic reaction. الخيار B، ABO incompatibility: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Febrile reaction. يصبح صحيحًا في سؤال يصف Clerical error, ABO incompatibility, delayed hemolysis, and TRALI are all real transfusion complications or causes, but none occurs as frequently overall as the febrile non-hemolytic reaction. الخيار C، Delayed hemolysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Febrile reaction. يصبح صحيحًا في سؤال يصف Clerical error, ABO incompatibility, delayed hemolysis, and TRALI are all real transfusion complications or causes, but none occurs as frequently overall as the febrile non-hemolytic reaction. الخيار E، Transfusion related acute lung injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Febrile reaction. يصبح صحيحًا في سؤال يصف Clerical error, ABO incompatibility, delayed hemolysis, and TRALI are all real transfusion complications or causes, but none occurs as frequently overall as the febrile non-hemolytic reaction.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Clerical error: الإجابة الصحيحة هي Febrile reaction. الخيار B، ABO incompatibility: الإجابة الصحيحة هي Febrile reaction. الخيار C، Delayed hemolysis: الإجابة الصحيحة هي Febrile reaction. الخيار E: الإجابة الصحيحة هي Febrile reaction. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Febrile = Frequent\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Febrile reaction. التفاعل الحموي غير الانحلالي الناتج عن السيتوكينات المتبقية من الكريات البيض هو أشيع تفاعل نقل دم على الإطلاق."
+      "narration": "الخيار D، Febrile reaction هو الإجابة الصحيحة. التفاعل الحموي غير الانحلالي الناتج عن السيتوكينات المتبقية من الكريات البيض هو أشيع تفاعل نقل دم على الإطلاق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التفاعل الحموي غير الانحلالي الناتج عن السيتوكينات المتبقية من الكريات البيض هو أشيع تفاعل نقل دم على الإطلاق. وتذكّر القاعدة: \"Febrile = Frequent\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. التفاعل الحموي غير الانحلالي الناتج عن السيتوكينات المتبقية من الكريات البيض هو أشيع تفاعل نقل دم على الإطلاق. وتذكّر: \"Febrile = Frequent\". والإجابة الصحيحة هي D."
     }
   ]
 }

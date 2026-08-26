@@ -41,7 +41,7 @@
         "region": "head",
         "label": "Thyroglossal duct cyst"
       },
-      "narration": "لنبدأ بهذا السؤال. تعاني فتاة تبلغ من العمر خمس سنوات من كتلة في الرقبة الأمامية الوسطىغير مؤلمة، تتحرك مع بروز اللسان وصعوبة البلع. السبب الأكثر شيوعًا هو:؟ أمامك هذه الخيارات: Thyroid tumor، أو Branchial cleft cyst، أو Dermoid cyst، أو Thyroglossal duct cyst. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تعاني فتاة تبلغ من العمر خمس سنوات من كتلة في الرقبة الأمامية الوسطىغير مؤلمة، تتحرك مع بروز اللسان وصعوبة البلع. السبب الأكثر شيوعًا هو:؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Thyroid tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglossal duct cyst. يصبح صحيحًا في سؤال يصف A thyroid tumor would be a solid mass without cystic movement pattern. الخيار B، Branchial cleft cyst: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا midline. يصبح صحيحًا في سؤال يصف a branchial cleft cyst is lateral. الخيار C، Dermoid cyst: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا move with tongue protrusion — a thyroglossal duct cyst is confirmed by its midline location and movement with both swallowing and tongue protrusion. يصبح صحيحًا في سؤال يصف a dermoid cyst.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Thyroid tumor: الإجابة الصحيحة هي Thyroglossal duct cyst. الخيار B، Branchial cleft cyst: المطلوب هنا midline. الخيار C، Dermoid cyst: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Thyroglossal cyst: Tugged by Tongue movement"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Thyroglossal duct cyst. حركة التورم مع بروز اللسان توقّع على كيسة القناة الدرقية اللسانية."
+      "narration": "الخيار D، Thyroglossal duct cyst هو الإجابة الصحيحة. حركة التورم مع بروز اللسان توقّع على كيسة القناة الدرقية اللسانية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حركة التورم مع بروز اللسان توقّع على كيسة القناة الدرقية اللسانية. وتذكّر القاعدة: Thyroglossal cyst: Tugged by Tongue movement. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. حركة التورم مع بروز اللسان توقّع على كيسة القناة الدرقية اللسانية. وتذكّر: Thyroglossal cyst: Tugged by Tongue movement. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Radical inguinal orchiectomy"
       },
-      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 28 عامًا إلى العيادة لتقييم كتلة في الخصيةاليسرى. استمرت الكتلة شهرين وازداد حجمها. لم يشعر بأي ألم في الخصيةالمصابة أو فقدان للوزن. وهو بصحة جيدة ولا يعاني من أي أعراض أخرى. لوحظت عقدة صلبة غير مؤلمة في الخصية اليسرى. لا يوجد تضخم في العقداللمفاوية الإربية. كشف فحص كيس الصفن بالموجات فوق الصوتية عن كتلةصلبة في الخصية اليسرى، حجمها 5 سم. ما هي الخطوة التالية الأمثل لعلاجهذا المريض؟ أمامك هذه الخيارات: Androgen deprivation therapy، أو Antibiotics and reexamination in 1 month، أو Fine-needle aspiration cytology، أو Radical inguinal orchiectomy، أو Transscrotal biopsy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 28 عامًا إلى العيادة لتقييم كتلة في الخصيةاليسرى. استمرت الكتلة شهرين وازداد حجمها. لم يشعر بأي ألم في الخصيةالمصابة أو فقدان للوزن. وهو بصحة جيدة ولا يعاني من أي أعراض أخرى. لوحظت عقدة صلبة غير مؤلمة في الخصية اليسرى. لا يوجد تضخم في العقداللمفاوية الإربية. كشف فحص كيس الصفن بالموجات فوق الصوتية عن كتلةصلبة في الخصية اليسرى، حجمها 5 سم. ما هي الخطوة التالية الأمثل لعلاجهذا المريض؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Androgen deprivation therapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Radical inguinal orchiectomy. يصبح صحيحًا في سؤال يصف Androgen deprivation therapy is inappropriate before tissue diagnosis. الخيار B، Antibiotics and reexamination in 1 month: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a solid suspicious mass. يصبح صحيحًا في سؤال يصف antibiotics with re-examination is appropriate for suspected infection/epididymitis. الخيار C، Fine-needle aspiration cytology: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for testicular masses (unlike other solid organ masses) due to seeding risk considerations. يصبح صحيحًا في سؤال يصف FNA cytology. الخيار E، Transscrotal biopsy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Radical inguinal orchiectomy. يصبح صحيحًا في سؤال يصف transscrotal biopsy is specifically contraindicated due to risk of tumor seeding along the biopsy tract.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Androgen deprivation therapy: الإجابة الصحيحة هي Radical inguinal orchiectomy. الخيار B: المطلوب هنا a solid suspicious mass. الخيار C، Fine-needle aspiration cytology: لا ينطبق على هذه الحالة. الخيار E، Transscrotal biopsy: الإجابة الصحيحة هي Radical inguinal orchiectomy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Testicular mass = Radical INGUINAL orchiectom"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Radical inguinal orchiectomy. كتلة خصوية صلبة منخفضة الصدى غير مؤلمة تُعامَل كسرطان حتى يثبت العكس — الاستئصال الجذري عبر المسار الإربي تشخيصي وعلاجي معًا، ولا يُجرى أبدًا خزعة عبر الصفن."
+      "narration": "الخيار D، Radical inguinal orchiectomy هو الإجابة الصحيحة. كتلة خصوية صلبة منخفضة الصدى غير مؤلمة تُعامَل كسرطان حتى يثبت العكس — الاستئصال الجذري عبر المسار الإربي تشخيصي وعلاجي معًا، ولا يُجرى أبدًا خزعة عبر الصفن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كتلة خصوية صلبة منخفضة الصدى غير مؤلمة تُعامَل كسرطان حتى يثبت العكس — الاستئصال الجذري عبر المسار الإربي تشخيصي وعلاجي معًا، ولا يُجرى أبدًا خزعة عبر الصفن. وتذكّر القاعدة: \"Testicular mass = Radical INGUINAL orchiectomy, NEVER scrotal biopsy\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. كتلة خصوية صلبة منخفضة الصدى غير مؤلمة تُعامَل كسرطان حتى يثبت العكس — الاستئصال الجذري عبر المسار الإربي تشخيصي وعلاجي معًا، ولا يُجرى أبدًا خزعة عبر الصفن. وتذكّر: \"Testicular mass = Radical INGUINAL orchiectomy, NEVER scrotal biopsy\". والإجابة الصحيحة هي D."
     }
   ]
 }

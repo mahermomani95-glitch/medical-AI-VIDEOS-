@@ -45,7 +45,7 @@
         "label": "Coma correspond to a GCS of more than 8",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالصدمة صحيحة باستثناء؟ أمامك هذه الخيارات: The term triage is generally used in acute trauma life support (ATLS)، أو The rationale behind triage is for the benefit of the majority، أو The role of the designated triage person is only to triage and not to treat، أو The triage process must be constantly repeated، أو Coma correspond to a GCS of more than 8. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالصدمة صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، The term triage is generally used in acute trauma life support (ATLS): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Coma correspond to a GCS of more than 8. الخيار B، The rationale behind triage is for the benefit of the majority: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Coma correspond to a GCS of more than 8. الخيار C، The role of the designated triage person is only to triage and not to treat: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. the triage role being limited to triage only is debatable but يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Coma correspond to a GCS of more than 8. الخيار D، The triage process must be constantly repeated: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The use of the term triage in ATLS, the utilitarian rationale, and the ongoing/repeated nature… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Coma correspond to a GCS of more than 8.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Coma: GCS Eight or below, not above"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Coma correspond to a GCS of more than 8. الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8."
+      "narration": "الخيار E هو الإجابة الصحيحة. الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8. وتذكّر القاعدة: Coma: GCS Eight or below, not above. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الغيبوبة تتوافق مع غلاسكو 8 أو أقل، لا أكثر من 8. وتذكّر: Coma: GCS Eight or below, not above. والإجابة الصحيحة هي E."
     }
   ]
 }

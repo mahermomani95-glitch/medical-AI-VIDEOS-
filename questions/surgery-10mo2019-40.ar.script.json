@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Age > 55 years"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 45 عامًا، مدرجة على قائمة انتظار استئصال المرارةبالمنظار، حضرت كحالة طارئة تعاني من ألم شديد في المنطقة الشرسوفية يمتدإلى الظهر وبقية البطن لمدة 3 ساعات. تعاني من غثيان، وتقيأت عدة مرات،وتقيؤ. عند الفحص، أظهرت أعراضًا مثل تسرع النفس، وتسرع القلب، وضغطالدم 110/60 ملم زئبق. كما أنها تعاني من يرقان خفيف. كشف فحص البطنعن علامة كولين، وهي ألم شديد في جميع أنحاء البطن مع ارتداد وتيبس. أيمما يلي يُعد معيارًا معروفًا لتقييم شدة التشخيص الأكثر احتمالًا في المرحلةالمبكرة من المرض. أمامك هذه الخيارات: Age > 55 years، أو BUN > 8 mg/dL، أو Pa02 < 60 mmHg، أو Serum calcium < 8 mg/dL، أو Serum glucose < 200 mg/dL. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 45 عامًا، مدرجة على قائمة انتظار استئصال المرارةبالمنظار، حضرت كحالة طارئة تعاني من ألم شديد في المنطقة الشرسوفية يمتدإلى الظهر وبقية البطن لمدة 3 ساعات. تعاني من غثيان، وتقيأت عدة مرات،وتقيؤ. عند الفحص، أظهرت أعراضًا مثل تسرع النفس، وتسرع القلب، وضغطالدم 110/60 ملم زئبق. كما أنها تعاني من يرقان خفيف. كشف فحص البطنعن علامة كولين، وهي ألم شديد في جميع أنحاء البطن مع ارتداد وتيبس. أيمما يلي يُعد معيارًا معروفًا لتقييم شدة التشخيص الأكثر احتمالًا في المرحلةالمبكرة من المرض. أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، BUN > 8 mg/dL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age > 55 years. يصبح صحيحًا في سؤال يصف BUN greater than 8, PaO2 less than 60 (C, actually a real severity criterion), serum calcium less than 8, and serum glucose less than 200 (E, should be greater than 200 for severity) each individually may be correct or incorrect Ranson criteria depending on exact wording, but option A about age is the one being confirmed as correct here. الخيار C، Pa02 < 60 mmHg: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age > 55 years. يصبح صحيحًا في سؤال يصف BUN greater than 8, PaO2 less than 60 (C, actually a real severity criterion), serum calcium less than 8, and serum glucose less than 200 (E, should be greater than 200 for severity) each individually may be correct or incorrect Ranson criteria depending on exact wording, but option A about age is the one being confirmed as correct here. الخيار D، Serum calcium < 8 mg/dL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age > 55 years. يصبح صحيحًا في سؤال يصف BUN greater than 8, PaO2 less than 60 (C, actually a real severity criterion), serum calcium less than 8, and serum glucose less than 200 (E, should be greater than 200 for severity) each individually may be correct or incorrect Ranson criteria depending on exact wording, but option A about age is the one being confirmed as correct here. الخيار E، Serum glucose < 200 mg/dL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age > 55 years. يصبح صحيحًا في سؤال يصف BUN greater than 8, PaO2 less than 60 (C, actually a real severity criterion), serum calcium less than 8, and serum glucose less than 200 (E, should be greater than 200 for severity) each individually may be correct or incorrect Ranson criteria depending on exact wording, but option A about age is the one being confirmed as correct here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، BUN > 8 mg/dL: الإجابة الصحيحة هي Age > 55 years. الخيار C، Pa02 < 60 mmHg: الإجابة الصحيحة هي Age > 55 years. الخيار D: الإجابة الصحيحة هي Age > 55 years. الخيار E: الإجابة الصحيحة هي Age > 55 years. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Ranson's early criteria: Age >55, WBC >16K, G"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Age > 55 years. علامة كولن مع ألم شرسوفي منتشر للظهر عند مريضة بحصى مرارية يوجّه لالتهاب بنكرياس حصوي المنشأ — العمر فوق 55 سنة أحد معايير رانسون المبكرة لتقييم الشدة."
+      "narration": "الخيار A، Age > 55 years هو الإجابة الصحيحة. علامة كولن مع ألم شرسوفي منتشر للظهر عند مريضة بحصى مرارية يوجّه لالتهاب بنكرياس حصوي المنشأ — العمر فوق 55 سنة أحد معايير رانسون المبكرة لتقييم الشدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. علامة كولن مع ألم شرسوفي منتشر للظهر عند مريضة بحصى مرارية يوجّه لالتهاب بنكرياس حصوي المنشأ — العمر فوق 55 سنة أحد معايير رانسون المبكرة لتقييم الشدة. وتذكّر القاعدة: \"Ranson's early criteria: Age >55, WBC >16K, Glucose >200, LDH, AST\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. علامة كولن مع ألم شرسوفي منتشر للظهر عند مريضة بحصى مرارية يوجّه لالتهاب بنكرياس حصوي المنشأ — العمر فوق 55 سنة أحد معايير رانسون المبكرة لتقييم الشدة. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Colon cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لانسداد الأمعاء الغليظة هو؟ أمامك هذه الخيارات: Polyps of the colon، أو Hirschsprung disease، أو Colon cancer، أو Ischemic colitis، أو Ulcerative colitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لانسداد الأمعاء الغليظة هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Polyps of the colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colon cancer. يصبح صحيحًا في سؤال يصف Polyps can be premalignant but rarely cause obstruction themselves. الخيار B، Hirschsprung disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colon cancer. يصبح صحيحًا في سؤال يصف Hirschsprung disease is a pediatric cause of functional obstruction. الخيار D، Ischemic colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colon cancer. يصبح صحيحًا في سؤال يصف ischemic colitis and ulcerative colitis cause inflammation and strictures but less commonly present as the primary cause of mechanical large bowel obstruction compared to colon cancer. الخيار E، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colon cancer. يصبح صحيحًا في سؤال يصف ischemic colitis and ulcerative colitis cause inflammation and strictures but less commonly present as the primary cause of mechanical large bowel obstruction compared to colon cancer.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Polyps of the colon: الإجابة الصحيحة هي Colon cancer. الخيار B، Hirschsprung disease: الإجابة الصحيحة هي Colon cancer. الخيار D، Ischemic colitis: الإجابة الصحيحة هي Colon cancer. الخيار E، Ulcerative colitis: الإجابة الصحيحة هي Colon cancer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Large bowel obstruction: mostly Colon cancer"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Colon cancer. سرطان القولون هو السبب الأشيع لانسداد الأمعاء الغليظة عند البالغين."
+      "narration": "الخيار C، Colon cancer هو الإجابة الصحيحة. سرطان القولون هو السبب الأشيع لانسداد الأمعاء الغليظة عند البالغين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان القولون هو السبب الأشيع لانسداد الأمعاء الغليظة عند البالغين. وتذكّر القاعدة: Large bowel obstruction: mostly Colon cancer. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. سرطان القولون هو السبب الأشيع لانسداد الأمعاء الغليظة عند البالغين. وتذكّر: Large bowel obstruction: mostly Colon cancer. والإجابة الصحيحة هي C."
     }
   ]
 }

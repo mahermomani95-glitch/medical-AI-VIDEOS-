@@ -41,7 +41,7 @@
         "region": "pelvis",
         "label": "Foley catheter for 7 days"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 22 عامًا يعاني من كسر حاد في الحوض ويعاني مننزول دم في البول، وعند تصوير المثانة والإحليل بالرجوع، وُجد أنه يعاني منتمزق في المثانة خارج الصفاق. العلاج الأنسب هو:؟ أمامك هذه الخيارات: Foley catheter for 7 days، أو Exploratory laparotomy and surgical repair، أو Cystectomy، أو Nothing to do and observation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 22 عامًا يعاني من كسر حاد في الحوض ويعاني مننزول دم في البول، وعند تصوير المثانة والإحليل بالرجوع، وُجد أنه يعاني منتمزق في المثانة خارج الصفاق. العلاج الأنسب هو:؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Exploratory laparotomy and surgical repair: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Foley catheter for 7 days. يصبح صحيحًا في سؤال يصف Exploratory laparotomy is more invasive than needed for a stable posterior urethral injury. الخيار C، Cystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Foley catheter for 7 days. يصبح صحيحًا في سؤال يصف cystectomy is far too radical for this injury. الخيار D، Nothing to do and observation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Foley catheter for 7 days. يصبح صحيحًا في سؤال يصف doing nothing ignores a real injury needing management — Foley catheter drainage for about a week is the standard conservative treatment.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي Foley catheter for 7 days. الخيار C، Cystectomy: الإجابة الصحيحة هي Foley catheter for 7 days. الخيار D: الإجابة الصحيحة هي Foley catheter for 7 days. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Urethral injury: Foley for a Full week"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Foley catheter for 7 days. قسطرة فولي لأسبوع كافية غالبًا لإدارة إصابة الإحليل الجزئية بعد كسر الحوض."
+      "narration": "الخيار A هو الإجابة الصحيحة. قسطرة فولي لأسبوع كافية غالبًا لإدارة إصابة الإحليل الجزئية بعد كسر الحوض."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قسطرة فولي لأسبوع كافية غالبًا لإدارة إصابة الإحليل الجزئية بعد كسر الحوض. وتذكّر القاعدة: Urethral injury: Foley for a Full week. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. قسطرة فولي لأسبوع كافية غالبًا لإدارة إصابة الإحليل الجزئية بعد كسر الحوض. وتذكّر: Urethral injury: Foley for a Full week. والإجابة الصحيحة هي A."
     }
   ]
 }

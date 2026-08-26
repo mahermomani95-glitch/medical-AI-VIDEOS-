@@ -45,7 +45,7 @@
         "label": "Most common cause is disc prolapse",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما قيل صحيح عن آلام الظهر باستثناء؟ أمامك هذه الخيارات: Most common cause is disc prolapse، أو Prevalence is almost 100% in a life time، أو In elderly and very young patients should warrant investigation، أو Most patients improve without investigation on pain killers and muscle relaxants، أو When persists more than 4 weeks should be investigated. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما قيل صحيح عن آلام الظهر باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Prevalence is almost 100% in a life time: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A near-universal lifetime prevalence, warranting investigation in elderly/very young… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most common cause is disc prolapse. الخيار C، In elderly and very young patients should warrant investigation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A near-universal lifetime prevalence, warranting investigation in elderly/very young… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most common cause is disc prolapse. الخيار D، Most patients improve without investigation on pain killers and muscle relaxants: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A near-universal lifetime prevalence, warranting investigation in elderly/very young… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most common cause is disc prolapse. الخيار E، When persists more than 4 weeks should be investigated: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A near-universal lifetime prevalence, warranting investigation in elderly/very young… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most common cause is disc prolapse.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Back pain: Mostly Mechanical, not disc prolaps"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Most common cause is disc prolapse. الألم الميكانيكي العضلي، لا انزلاق القرص، هو السبب الأشيع لألم الظهر."
+      "narration": "الخيار A هو الإجابة الصحيحة. الألم الميكانيكي العضلي، لا انزلاق القرص، هو السبب الأشيع لألم الظهر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم الميكانيكي العضلي، لا انزلاق القرص، هو السبب الأشيع لألم الظهر. وتذكّر القاعدة: Back pain: Mostly Mechanical, not disc prolapse. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الألم الميكانيكي العضلي، لا انزلاق القرص، هو السبب الأشيع لألم الظهر. وتذكّر: Back pain: Mostly Mechanical, not disc prolapse. والإجابة الصحيحة هي A."
     }
   ]
 }

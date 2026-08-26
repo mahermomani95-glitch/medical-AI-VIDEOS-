@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "~ 80% of bile is excreted in feces as urobilinogen"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Bile secretion is around 1 litter in 24 hours، أو Is the main organ for bilirubin metabolism، أو Bile contains water and organic molecules (bile salts, pigments, phospholipids, and cholesterol)، أو Most of the organic molecules (90%) are reabsorbed in the terminal ileum، أو ~ 80% of bile is excreted in feces as urobilinogen. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Bile secretion is around 1 litter in 24 hours: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bile secretion of about 1 liter/24hr, the liver's role in bilirubin metabolism, and bile's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو ~ 80% of bile is excreted in feces as urobilinogen. الخيار B، Is the main organ for bilirubin metabolism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bile secretion of about 1 liter/24hr, the liver's role in bilirubin metabolism, and bile's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو ~ 80% of bile is excreted in feces as urobilinogen. الخيار C، Bile contains water and organic molecules (bile salts, pigments, phospholipids, and cholesterol): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bile secretion of about 1 liter/24hr, the liver's role in bilirubin metabolism, and bile's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو ~ 80% of bile is excreted in feces as urobilinogen. الخيار D، Most of the organic molecules (90%) are reabsorbed in the terminal ileum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. About 80% of bile being excreted in feces as urobilinogen misstates the physiology — most bile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو ~ 80% of bile is excreted in feces as urobilinogen.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"~90% of bile salts are reabsorbed (enterohepa"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: ~ 80% of bile is excreted in feces as urobilinogen. معظم الجزيئات العضوية بالصفراء تُطرح فعليًا بالبراز أو تُعاد امتصاصها كيوروبيلينوجين — رقم 80% المطروح بالبراز كيوروبيلينوجين لا يعكس التوازن الحقيقي للدورة الكبدية المعوية."
+      "narration": "الخيار E هو الإجابة الصحيحة. معظم الجزيئات العضوية بالصفراء تُطرح فعليًا بالبراز أو تُعاد امتصاصها كيوروبيلينوجين — رقم 80% المطروح بالبراز كيوروبيلينوجين لا يعكس التوازن الحقيقي للدورة الكبدية المعوية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معظم الجزيئات العضوية بالصفراء تُطرح فعليًا بالبراز أو تُعاد امتصاصها كيوروبيلينوجين — رقم 80% المطروح بالبراز كيوروبيلينوجين لا يعكس التوازن الحقيقي للدورة الكبدية المعوية. وتذكّر القاعدة: \"~90% of bile salts are reabsorbed (enterohepatic circulation), not excreted\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. معظم الجزيئات العضوية بالصفراء تُطرح فعليًا بالبراز أو تُعاد امتصاصها كيوروبيلينوجين — رقم 80% المطروح بالبراز كيوروبيلينوجين لا يعكس التوازن الحقيقي للدورة الكبدية المعوية. وتذكّر: \"~90% of bile salts are reabsorbed (enterohepatic circulation), not excreted\". والإجابة الصحيحة هي E."
     }
   ]
 }

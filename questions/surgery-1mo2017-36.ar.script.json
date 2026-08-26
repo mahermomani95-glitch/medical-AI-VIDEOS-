@@ -45,7 +45,7 @@
         "label": "Azathioprine and immunosuppressive drugs for remission",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بالعلاج الدوائي لمرض كرون؟ أمامك هذه الخيارات: Corticosteroids effective treat acute attack and to prolong remission، أو Sulfasalazine for Acute attack involving small bowel، أو Azathioprine and immunosuppressive drugs for remission، أو Low dose Cyclosporine for patients with both low and high disease activity، أو All of the above. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بالعلاج الدوائي لمرض كرون؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Corticosteroids effective treat acute attack and to prolong remission: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Azathioprine and immunosuppressive drugs for remission. يصبح صحيحًا في سؤال يصف Corticosteroids for acute attacks, sulfasalazine for small bowel disease, and low-dose cyclosporine in select cases are each individually true to varying degrees, but azathioprine/immunosuppressives for maintaining remission is the specific statement marked correct here, distinguishing appropriate use per disease phase. الخيار B، Sulfasalazine for Acute attack involving small bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Azathioprine and immunosuppressive drugs for remission. يصبح صحيحًا في سؤال يصف Corticosteroids for acute attacks, sulfasalazine for small bowel disease, and low-dose cyclosporine in select cases are each individually true to varying degrees, but azathioprine/immunosuppressives for maintaining remission is the specific statement marked correct here, distinguishing appropriate use per disease phase. الخيار D، Low dose Cyclosporine for patients with both low and high disease activity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Azathioprine and immunosuppressive drugs for remission. يصبح صحيحًا في سؤال يصف Corticosteroids for acute attacks, sulfasalazine for small bowel disease, and low-dose cyclosporine in select cases are each individually true to varying degrees, but azathioprine/immunosuppressives for maintaining remission is the specific statement marked correct here, distinguishing appropriate use per disease phase. الخيار E، All of the above: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Azathioprine and immunosuppressive drugs for remission. يصبح صحيحًا في سؤال يستهدف All of the above تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Azathioprine and immunosuppressive drugs for remission. الخيار B: الإجابة الصحيحة هي Azathioprine and immunosuppressive drugs for remission. الخيار D: الإجابة الصحيحة هي Azathioprine and immunosuppressive drugs for remission. الخيار E، All of the above: الإجابة الصحيحة هي Azathioprine and immunosuppressive drugs for remission. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Crohn's remission: Azathioprine helps maintain"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Azathioprine and immunosuppressive drugs for remission. الآزاثيوبرين ومثبطات المناعة تُستخدم فعليًا للحفاظ على هدأة كرون."
+      "narration": "الخيار C هو الإجابة الصحيحة. الآزاثيوبرين ومثبطات المناعة تُستخدم فعليًا للحفاظ على هدأة كرون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الآزاثيوبرين ومثبطات المناعة تُستخدم فعليًا للحفاظ على هدأة كرون. وتذكّر القاعدة: Crohn's remission: Azathioprine helps maintain it. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الآزاثيوبرين ومثبطات المناعة تُستخدم فعليًا للحفاظ على هدأة كرون. وتذكّر: Crohn's remission: Azathioprine helps maintain it. والإجابة الصحيحة هي C."
     }
   ]
 }

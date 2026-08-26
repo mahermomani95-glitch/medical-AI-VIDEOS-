@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "ViPoma"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 50 عامًا تعاني من كتلة في البنكرياس، وتصاب بإسهالمائي، ونقص بوتاسيوم الدم، والتشخيص الأكثر احتمالًا هو؟ أمامك هذه الخيارات: Glucagonoma، أو Gastrinoma، أو Somatostatinoma، أو ViPoma، أو Insulinoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 50 عامًا تعاني من كتلة في البنكرياس، وتصاب بإسهالمائي، ونقص بوتاسيوم الدم، والتشخيص الأكثر احتمالًا هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Glucagonoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ViPoma. يصبح صحيحًا في سؤال يصف Glucagonoma causes migratory erythema and diabetes. الخيار B، Gastrinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ViPoma. يصبح صحيحًا في سؤال يصف gastrinoma causes refractory ulcers. الخيار C، Somatostatinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ViPoma. يصبح صحيحًا في سؤال يصف somatostatinoma causes gallstones/diabetes. الخيار E، Insulinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ViPoma. يصبح صحيحًا في سؤال يصف insulinoma causes hypoglycemia — VIPoma is the tumor causing the classic WDHA syndrome (watery diarrhea, hypokalemia, achlorhydria) described here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Glucagonoma: الإجابة الصحيحة هي ViPoma. الخيار B، Gastrinoma: الإجابة الصحيحة هي ViPoma. الخيار C، Somatostatinoma: الإجابة الصحيحة هي ViPoma. الخيار E، Insulinoma: الإجابة الصحيحة هي ViPoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Watery diarrhea + low K: think VIPoma"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: ViPoma. ثلاثية الإسهال المائي ونقص البوتاسيوم مع كتلة بنكرياسية توقّع على VIPoma."
+      "narration": "الخيار D، ViPoma هو الإجابة الصحيحة. ثلاثية الإسهال المائي ونقص البوتاسيوم مع كتلة بنكرياسية توقّع على VIPoma."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ثلاثية الإسهال المائي ونقص البوتاسيوم مع كتلة بنكرياسية توقّع على VIPoma. وتذكّر القاعدة: Watery diarrhea + low K: think VIPoma. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ثلاثية الإسهال المائي ونقص البوتاسيوم مع كتلة بنكرياسية توقّع على VIPoma. وتذكّر: Watery diarrhea + low K: think VIPoma. والإجابة الصحيحة هي D."
     }
   ]
 }

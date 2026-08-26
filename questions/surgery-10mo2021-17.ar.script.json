@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Right pelvic ectopic kidney"
       },
-      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 25 عامًا لديها تاريخ من ألم أسفل البطن منذ 10 أيام، وعند الفحص وُجدت كتلة جسيّة في الحفرة الحرقفية اليمنى. التشخيص الأقل احتمالاً هو: أمامك هذه الخيارات: Appendicular mass، أو Crohn's disease، أو Complicated right ovarian cyst، أو Carcinoma of the cecum، أو Right pelvic ectopic kidney. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 25 عامًا لديها تاريخ من ألم أسفل البطن منذ 10 أيام، وعند الفحص وُجدت كتلة جسيّة في الحفرة الحرقفية اليمنى. التشخيص الأقل احتمالاً هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Appendicular mass: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a new acquired process at all. يصبح صحيحًا في سؤال يصف Appendicular mass, Crohn's disease, and complicated ovarian cyst are all real differential diagnoses for a new RIF mass over 10 days, but carcinoma of the cecum specifically becomes the least likely given the short symptom duration and patient's younger age — a congenital ectopic kidney remains even less likely still since it's. الخيار B، Crohn's disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a new acquired process at all. يصبح صحيحًا في سؤال يصف Appendicular mass, Crohn's disease, and complicated ovarian cyst are all real differential diagnoses for a new RIF mass over 10 days, but carcinoma of the cecum specifically becomes the least likely given the short symptom duration and patient's younger age — a congenital ectopic kidney remains even less likely still since it's. الخيار C، Complicated right ovarian cyst: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a new acquired process at all. يصبح صحيحًا في سؤال يصف Appendicular mass, Crohn's disease, and complicated ovarian cyst are all real differential diagnoses for a new RIF mass over 10 days, but carcinoma of the cecum specifically becomes the least likely given the short symptom duration and patient's younger age — a congenital ectopic kidney remains even less likely still since it's. الخيار D، Carcinoma of the cecum: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a new acquired process at all. يصبح صحيحًا في سؤال يصف Appendicular mass, Crohn's disease, and complicated ovarian cyst are all real differential diagnoses for a new RIF mass over 10 days, but carcinoma of the cecum specifically becomes the least likely given the short symptom duration and patient's younger age — a congenital ectopic kidney remains even less likely still since it's.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Appendicular mass: المطلوب هنا a new acquired process at all. الخيار B، Crohn's disease: المطلوب هنا a new acquired process at all. الخيار C، Complicated right ovarian cyst: المطلوب هنا a new acquired process at all. الخيار D، Carcinoma of the cecum: المطلوب هنا a new acquired process at all. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Ectopic kidney = congenital, present since bi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Right pelvic ectopic kidney. الكلية الحوضية الهاجرة اليمنى شذوذ تشريحي خلقي، وليست عملية التهابية أو ورمية مكتسبة — لا تتظاهر حديثًا بألم 10 أيام وكتلة جديدة بهذا العمر دون تاريخ سابق."
+      "narration": "الخيار E، Right pelvic ectopic kidney هو الإجابة الصحيحة. الكلية الحوضية الهاجرة اليمنى شذوذ تشريحي خلقي، وليست عملية التهابية أو ورمية مكتسبة — لا تتظاهر حديثًا بألم 10 أيام وكتلة جديدة بهذا العمر دون تاريخ سابق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الكلية الحوضية الهاجرة اليمنى شذوذ تشريحي خلقي، وليست عملية التهابية أو ورمية مكتسبة — لا تتظاهر حديثًا بألم 10 أيام وكتلة جديدة بهذا العمر دون تاريخ سابق. وتذكّر القاعدة: \"Ectopic kidney = congenital, present since birth, not a new 10-day mass\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الكلية الحوضية الهاجرة اليمنى شذوذ تشريحي خلقي، وليست عملية التهابية أو ورمية مكتسبة — لا تتظاهر حديثًا بألم 10 أيام وكتلة جديدة بهذا العمر دون تاريخ سابق. والإجابة الصحيحة هي E."
     }
   ]
 }

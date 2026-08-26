@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Mandibular artery"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي فروع من الشريان السباتي الخارجي باستثناء أمامك هذه الخيارات: Posterior auricular artery، أو Ascending pharyngeal artery، أو Mandibular artery، أو Maxillary artery، أو Superior thyroid artery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي فروع من الشريان السباتي الخارجي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Posterior auricular artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Posterior auricular, ascending pharyngeal, maxillary, and superior thyroid arteries are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mandibular artery. الخيار B، Ascending pharyngeal artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Posterior auricular, ascending pharyngeal, maxillary, and superior thyroid arteries are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mandibular artery. الخيار D، Maxillary artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Posterior auricular, ascending pharyngeal, maxillary, and superior thyroid arteries are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mandibular artery. الخيار E، Superior thyroid artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Posterior auricular, ascending pharyngeal, maxillary, and superior thyroid arteries are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mandibular artery.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Posterior auricular artery: صحيحة، لكنها ليست الاستثناء. الخيار B، Ascending pharyngeal artery: صحيحة، لكنها ليست الاستثناء. الخيار D، Maxillary artery: صحيحة، لكنها ليست الاستثناء. الخيار E، Superior thyroid artery: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"No such artery as 'Mandibular'\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Mandibular artery. لا يوجد شريان باسم \"الشريان الفكي السفلي\" أصلًا — الشريان الفكي العلوي هو الفرع الطرفي الحقيقي القريب من الفك."
+      "narration": "الخيار C، Mandibular artery هو الإجابة الصحيحة. لا يوجد شريان باسم \"الشريان الفكي السفلي\" أصلًا — الشريان الفكي العلوي هو الفرع الطرفي الحقيقي القريب من الفك."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. لا يوجد شريان باسم \"الشريان الفكي السفلي\" أصلًا — الشريان الفكي العلوي هو الفرع الطرفي الحقيقي القريب من الفك. وتذكّر القاعدة: \"No such artery as 'Mandibular'\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. لا يوجد شريان باسم \"الشريان الفكي السفلي\" أصلًا — الشريان الفكي العلوي هو الفرع الطرفي الحقيقي القريب من الفك. وتذكّر: \"No such artery as 'Mandibular'\". والإجابة الصحيحة هي C."
     }
   ]
 }

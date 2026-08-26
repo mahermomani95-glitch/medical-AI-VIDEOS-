@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Right-sided most likely to obstruct"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: May present with a palpable abdominal mass، أو May present with intestinal obstruction or perforation، أو Right-sided colon cancer might be associated with iron deficiency anemia، أو Right-sided most likely to obstruct. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، May present with a palpable abdominal mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct. الخيار B، May present with intestinal obstruction or perforation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct. الخيار C، Right-sided colon cancer might be associated with iron deficiency anemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Palpable abdominal mass, obstruction/perforation as presentations, and right-sided cancer's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Right-sided most likely to obstruct.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Left colon obstructs, Right colon bleeds occu"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Right-sided most likely to obstruct. القولون الأيسر (ضيق اللمعة)، وليس الأيمن، هو الأكثر عرضة للانسداد — القولون الأيمن الواسع ينزف بشكل خفي بدلًا من ذلك."
+      "narration": "الخيار D هو الإجابة الصحيحة. القولون الأيسر (ضيق اللمعة)، وليس الأيمن، هو الأكثر عرضة للانسداد — القولون الأيمن الواسع ينزف بشكل خفي بدلًا من ذلك."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القولون الأيسر (ضيق اللمعة)، وليس الأيمن، هو الأكثر عرضة للانسداد — القولون الأيمن الواسع ينزف بشكل خفي بدلًا من ذلك. وتذكّر القاعدة: \"Left colon obstructs, Right colon bleeds occultly\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. القولون الأيسر (ضيق اللمعة)، وليس الأيمن، هو الأكثر عرضة للانسداد — القولون الأيمن الواسع ينزف بشكل خفي بدلًا من ذلك. وتذكّر: \"Left colon obstructs, Right colon bleeds occultly\". والإجابة الصحيحة هي D."
     }
   ]
 }

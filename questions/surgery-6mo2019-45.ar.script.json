@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Cardiac Arrhythmia"
       },
-      "narration": "لنبدأ بهذا السؤال. أخطر المضاعفات المبكرة لإصابة الحروق الكهربائية هي أمامك هذه الخيارات: Myoglobinuria، أو Brain death، أو Cardiac Arrhythmia، أو compartment syndrome، أو infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أخطر المضاعفات المبكرة لإصابة الحروق الكهربائية هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Myoglobinuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiac Arrhythmia. يصبح صحيحًا في سؤال يصف Myoglobinuria, brain death (B, from cardiac arrest/anoxia), compartment syndrome, and infection are all recognized complications of electrical burns, but cardiac arrhythmia remains the most immediately life-threatening early complication. الخيار B، Brain death: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiac Arrhythmia. يصبح صحيحًا في سؤال يصف Myoglobinuria, brain death (B, from cardiac arrest/anoxia), compartment syndrome, and infection are all recognized complications of electrical burns, but cardiac arrhythmia remains the most immediately life-threatening early complication. الخيار D، compartment syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiac Arrhythmia. يصبح صحيحًا في سؤال يصف Myoglobinuria, brain death (B, from cardiac arrest/anoxia), compartment syndrome, and infection are all recognized complications of electrical burns, but cardiac arrhythmia remains the most immediately life-threatening early complication. الخيار E، infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiac Arrhythmia. يصبح صحيحًا في سؤال يصف Myoglobinuria, brain death (B, from cardiac arrest/anoxia), compartment syndrome, and infection are all recognized complications of electrical burns, but cardiac arrhythmia remains the most immediately life-threatening early complication.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Myoglobinuria: الإجابة الصحيحة هي Cardiac Arrhythmia. الخيار B، Brain death: الإجابة الصحيحة هي Cardiac Arrhythmia. الخيار D، compartment syndrome: الإجابة الصحيحة هي Cardiac Arrhythmia. الخيار E، infection: الإجابة الصحيحة هي Cardiac Arrhythmia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Electrical burn = current through the heart ="
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Cardiac Arrhythmia. التيار الكهربائي قد يُخرّب مباشرة نظام التوصيل الكهربائي للقلب — اضطراب النظم القلبي هو الخطر المبكر الأكثر تهديدًا للحياة."
+      "narration": "الخيار C، Cardiac Arrhythmia هو الإجابة الصحيحة. التيار الكهربائي قد يُخرّب مباشرة نظام التوصيل الكهربائي للقلب — اضطراب النظم القلبي هو الخطر المبكر الأكثر تهديدًا للحياة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التيار الكهربائي قد يُخرّب مباشرة نظام التوصيل الكهربائي للقلب — اضطراب النظم القلبي هو الخطر المبكر الأكثر تهديدًا للحياة. وتذكّر القاعدة: \"Electrical burn = current through the heart = Arrhythmia\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التيار الكهربائي قد يُخرّب مباشرة نظام التوصيل الكهربائي للقلب — اضطراب النظم القلبي هو الخطر المبكر الأكثر تهديدًا للحياة. وتذكّر: \"Electrical burn = current through the heart = Arrhythmia\". والإجابة الصحيحة هي C."
     }
   ]
 }

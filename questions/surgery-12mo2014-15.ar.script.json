@@ -45,7 +45,7 @@
         "label": "Cholesterol stones that are 0.5 cm",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل مؤشرات العلاج الجراحي لحصوة المرارة كل ما يلي باستثناء:؟ (سؤال مكرر، راجع السؤال رقم 165) أمامك هذه الخيارات: Non-functioning gallbladder، أو Porcelain gallbladder، أو Emphysematous gallblader، أو Cholesterol stones that are 0.5 cm، أو Gallstones ≥ 3 cm. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل مؤشرات العلاج الجراحي لحصوة المرارة كل ما يلي باستثناء:؟ (سؤال مكرر، راجع السؤال رقم 165) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Non-functioning gallbladder: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm. الخيار B، Porcelain gallbladder: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm. الخيار C، Emphysematous gallblader: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A non-functioning gallbladder, porcelain gallbladder (B, cancer risk), and an emphysematous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm. الخيار E، Gallstones ≥ 3 cm: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق. يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cholesterol stones that are 0.5 cm.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Non-functioning gallbladder: صحيحة، لكنها ليست الاستثناء. الخيار B، Porcelain gallbladder: صحيحة، لكنها ليست الاستثناء. الخيار C، Emphysematous gallblader: صحيحة، لكنها ليست الاستثناء. الخيار E، Gallstones ≥ 3 cm: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء — أي الخيار الذي لا ينطبق. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Small silent stones: Skip surgery, just observ"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Cholesterol stones that are 0.5 cm. الحصى الصغيرة الصامتة ليست مؤشرًا جراحيًا حتميًا بذاتها."
+      "narration": "الخيار D هو الإجابة الصحيحة. الحصى الصغيرة الصامتة ليست مؤشرًا جراحيًا حتميًا بذاتها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحصى الصغيرة الصامتة ليست مؤشرًا جراحيًا حتميًا بذاتها. وتذكّر القاعدة: Small silent stones: Skip surgery, just observe. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الحصى الصغيرة الصامتة ليست مؤشرًا جراحيًا حتميًا بذاتها. وتذكّر: Small silent stones: Skip surgery, just observe. والإجابة الصحيحة هي D."
     }
   ]
 }

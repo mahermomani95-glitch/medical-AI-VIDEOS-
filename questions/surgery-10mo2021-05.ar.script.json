@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Acute diverticulitis"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 72 عامًا تعاني من ألم في الحفرة الحرقفية اليسرى، ووُجد لديها حمى وتهيج بريتوني في الحفرة الحرقفية اليسرى. التشخيص الأكثر احتمالاً هو: أمامك هذه الخيارات: Left ureteric calculus، أو Tubo-ovarian abscess، أو Irritable bowel syndrome، أو Acute diverticulitis، أو Sigmoid volvulus. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 72 عامًا تعاني من ألم في الحفرة الحرقفية اليسرى، ووُجد لديها حمى وتهيج بريتوني في الحفرة الحرقفية اليسرى. التشخيص الأكثر احتمالاً هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Left ureteric calculus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute diverticulitis. يصبح صحيحًا في سؤال يصف Left ureteric calculus, tubo-ovarian abscess, irritable bowel syndrome, and sigmoid volvulus can all cause left-sided abdominal symptoms, but diverticulitis remains the classic cause of LIF pain with fever and localized peritonism in an elderly patient. الخيار B، Tubo-ovarian abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute diverticulitis. يصبح صحيحًا في سؤال يصف Left ureteric calculus, tubo-ovarian abscess, irritable bowel syndrome, and sigmoid volvulus can all cause left-sided abdominal symptoms, but diverticulitis remains the classic cause of LIF pain with fever and localized peritonism in an elderly patient. الخيار C، Irritable bowel syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute diverticulitis. يصبح صحيحًا في سؤال يصف Left ureteric calculus, tubo-ovarian abscess, irritable bowel syndrome, and sigmoid volvulus can all cause left-sided abdominal symptoms, but diverticulitis remains the classic cause of LIF pain with fever and localized peritonism in an elderly patient. الخيار E، Sigmoid volvulus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute diverticulitis. يصبح صحيحًا في سؤال يصف Left ureteric calculus, tubo-ovarian abscess, irritable bowel syndrome, and sigmoid volvulus can all cause left-sided abdominal symptoms, but diverticulitis remains the classic cause of LIF pain with fever and localized peritonism in an elderly patient.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Left ureteric calculus: الإجابة الصحيحة هي Acute diverticulitis. الخيار B، Tubo-ovarian abscess: الإجابة الصحيحة هي Acute diverticulitis. الخيار C، Irritable bowel syndrome: الإجابة الصحيحة هي Acute diverticulitis. الخيار E، Sigmoid volvulus: الإجابة الصحيحة هي Acute diverticulitis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"LIF pain + fever + peritonism = Diverticuliti"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Acute diverticulitis. ألم بالحفرة الحرقفية اليسرى مع حمى وتهيج بريتوني موضعي عند مريضة مسنّة هو العرض الكلاسيكي لالتهاب الرتوج الحاد."
+      "narration": "الخيار D، Acute diverticulitis هو الإجابة الصحيحة. ألم بالحفرة الحرقفية اليسرى مع حمى وتهيج بريتوني موضعي عند مريضة مسنّة هو العرض الكلاسيكي لالتهاب الرتوج الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم بالحفرة الحرقفية اليسرى مع حمى وتهيج بريتوني موضعي عند مريضة مسنّة هو العرض الكلاسيكي لالتهاب الرتوج الحاد. وتذكّر القاعدة: \"LIF pain + fever + peritonism = Diverticulitis\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ألم بالحفرة الحرقفية اليسرى مع حمى وتهيج بريتوني موضعي عند مريضة مسنّة هو العرض الكلاسيكي لالتهاب الرتوج الحاد. وتذكّر: \"LIF pain + fever + peritonism = Diverticulitis\". والإجابة الصحيحة هي D."
     }
   ]
 }

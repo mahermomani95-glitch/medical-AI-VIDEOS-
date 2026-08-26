@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Fine needle aspiration biopsy"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 65 عامًا يعاني من كتلة صلبة مستمرة في الرقبة، يبلغحجمها حوالي 2.5 سم. أفضل خطوة تالية في العلاج هي:؟ أمامك هذه الخيارات: Positron emission tomography، أو CT scan of the head and neck، أو Fine needle aspiration biopsy، أو Chest radiography، أو Excision of the neck mass. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 65 عامًا يعاني من كتلة صلبة مستمرة في الرقبة، يبلغحجمها حوالي 2.5 سم. أفضل خطوة تالية في العلاج هي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Positron emission tomography: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step. يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but. الخيار B، CT scan of the head and neck: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step. يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but. الخيار D، Chest radiography: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first diagnostic step. يصبح صحيحًا في سؤال يصف PET scan, CT of head/neck, and chest X-ray are useful adjuncts but. الخيار E، Excision of the neck mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fine needle aspiration biopsy. يصبح صحيحًا في سؤال يصف excision is premature before tissue diagnosis — fine-needle aspiration biopsy is the appropriate first step for evaluating a persistent neck mass.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Positron emission tomography: المطلوب هنا the first diagnostic step. الخيار B: المطلوب هنا the first diagnostic step. الخيار D، Chest radiography: المطلوب هنا the first diagnostic step. الخيار E: الإجابة الصحيحة هي Fine needle aspiration biopsy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Persistent neck mass: Fine needle aspiration f"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Fine needle aspiration biopsy. الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة."
+      "narration": "الخيار C، Fine needle aspiration biopsy هو الإجابة الصحيحة. الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة. وتذكّر القاعدة: Persistent neck mass: Fine needle aspiration first. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الخزعة الإبرية هي الخطوة التالية المناسبة لكتلة عنقية صلبة مستمرة. وتذكّر: Persistent neck mass: Fine needle aspiration first. والإجابة الصحيحة هي C."
     }
   ]
 }

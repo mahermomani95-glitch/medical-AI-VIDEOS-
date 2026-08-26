@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Esophageal endoscopy and biopsy"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 57 عامًا يشكو من عسر بلع مستمر منذ عامين. يبدو أنهيعاني من صعوبة أكبر في بلع السوائل والأطعمة الصلبة. لاحظ مؤخرًا أنهاتستيقظ ليلًا بسبب السعال. فقد حوالي 7-8 كجم من وزنه في 6 أشهر. أفضلخطوة تالية لتأكيد التشخيص الأكثر احتمالًا هي: أمامك هذه الخيارات: CT scan of the chest، أو Esophageal manometry، أو 24-hr pH monitoring، أو Barium swallow، أو Esophageal endoscopy and biopsy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 57 عامًا يشكو من عسر بلع مستمر منذ عامين. يبدو أنهيعاني من صعوبة أكبر في بلع السوائل والأطعمة الصلبة. لاحظ مؤخرًا أنهاتستيقظ ليلًا بسبب السعال. فقد حوالي 7-8 كجم من وزنه في 6 أشهر. أفضلخطوة تالية لتأكيد التشخيص الأكثر احتمالًا هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، CT scan of the chest: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy. يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm features (weight loss). الخيار B، Esophageal manometry: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy. يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm features (weight loss). الخيار C، 24-hr pH monitoring: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا malignancy risk. يصبح صحيحًا في سؤال يصف 24-hour pH monitoring evaluates reflux severity. الخيار D، Barium swallow: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophageal endoscopy and biopsy. يصبح صحيحًا في سؤال يصف CT chest, esophageal manometry, and barium swallow may be used later in the workup, but endoscopy with biopsy should come first given alarm features (weight loss).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Esophageal endoscopy and biopsy. الخيار B، Esophageal manometry: الإجابة الصحيحة هي Esophageal endoscopy and biopsy. الخيار C، 24-hr pH monitoring: المطلوب هنا malignancy risk. الخيار D، Barium swallow: الإجابة الصحيحة هي Esophageal endoscopy and biopsy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Dysphagia + weight loss = Endoscopy + biopsy "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Esophageal endoscopy and biopsy. عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي."
+      "narration": "الخيار E، Esophageal endoscopy and biopsy هو الإجابة الصحيحة. عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي. وتذكّر القاعدة: \"Dysphagia + weight loss = Endoscopy + biopsy FIRST, rule out cancer\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. عسر البلع التدريجي مع نقص وزن يحتاج تنظيرًا وخزعة أولًا — للرؤية المباشرة واستبعاد الخباثة قبل أي فحص وظيفي. والإجابة الصحيحة هي E."
     }
   ]
 }

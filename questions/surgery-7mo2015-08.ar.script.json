@@ -41,7 +41,7 @@
         "region": "head",
         "label": "Total paratidectomy"
       },
-      "narration": "لنبدأ بهذا السؤال. العلاج المختار لسرطان الغدد اللعابية المخاطي البشروي؟ أمامك هذه الخيارات: Superficial paratidectomy، أو Total paratidectomy، أو Chemotherapy، أو Radiotherapy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلاج المختار لسرطان الغدد اللعابية المخاطي البشروي؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Superficial paratidectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Total paratidectomy. يصبح صحيحًا في سؤال يصف Superficial parotidectomy may under-treat higher-grade or deep tumors. الخيار C، Chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا primary treatment — total parotidectomy is the standard surgical treatment of choice for mucoepidermoid carcinoma. يصبح صحيحًا في سؤال يصف chemotherapy and radiotherapy are adjuncts. الخيار D، Radiotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا primary treatment — total parotidectomy is the standard surgical treatment of choice for mucoepidermoid carcinoma. يصبح صحيحًا في سؤال يصف chemotherapy and radiotherapy are adjuncts.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Superficial paratidectomy: الإجابة الصحيحة هي Total paratidectomy. الخيار C، Chemotherapy: لا ينطبق على هذه الحالة. الخيار D، Radiotherapy: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Mucoepidermoid CA: needs Total parotidectomy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Total paratidectomy. الاستئصال الكامل للنكفية هو العلاج القياسي لهذا السرطان اللعابي."
+      "narration": "الخيار B، Total paratidectomy هو الإجابة الصحيحة. الاستئصال الكامل للنكفية هو العلاج القياسي لهذا السرطان اللعابي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الاستئصال الكامل للنكفية هو العلاج القياسي لهذا السرطان اللعابي. وتذكّر القاعدة: Mucoepidermoid CA: needs Total parotidectomy. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الاستئصال الكامل للنكفية هو العلاج القياسي لهذا السرطان اللعابي. وتذكّر: Mucoepidermoid CA: needs Total parotidectomy. والإجابة الصحيحة هي B."
     }
   ]
 }

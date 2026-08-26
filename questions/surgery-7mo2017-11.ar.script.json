@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Dilated non reactive pupils"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو علامات كلاسيكية لكسر قاعدة الجمجمة باستثناء؟ أمامك هذه الخيارات: Raccoon eyes، أو Battle sign، أو Hemotympanum، أو Dilated non reactive pupils، أو Cerebrospinal fluid rhinorrhea. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو علامات كلاسيكية لكسر قاعدة الجمجمة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Raccoon eyes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Raccoon eyes, Battle's sign, hemotympanum, and CSF rhinorrhea are all classic signs of basal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dilated non reactive pupils. الخيار B، Battle sign: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Raccoon eyes, Battle's sign, hemotympanum, and CSF rhinorrhea are all classic signs of basal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dilated non reactive pupils. الخيار C، Hemotympanum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Raccoon eyes, Battle's sign, hemotympanum, and CSF rhinorrhea are all classic signs of basal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dilated non reactive pupils. الخيار E، Cerebrospinal fluid rhinorrhea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Raccoon eyes, Battle's sign, hemotympanum, and CSF rhinorrhea are all classic signs of basal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dilated non reactive pupils.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Raccoon eyes: صحيحة، لكنها ليست الاستثناء. الخيار B، Battle sign: صحيحة، لكنها ليست الاستثناء. الخيار C، Hemotympanum: صحيحة، لكنها ليست الاستثناء. الخيار E، Cerebrospinal fluid rhinorrhea: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Basal skull fracture classic signs: don't incl"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Dilated non reactive pupils. الحدقتان المتوسعتان غير المستجيبتين توحيان بمضاعفة أخطر، لا كسر قاعدة الجمجمة بذاته."
+      "narration": "الخيار D، Dilated non reactive pupils هو الإجابة الصحيحة. الحدقتان المتوسعتان غير المستجيبتين توحيان بمضاعفة أخطر، لا كسر قاعدة الجمجمة بذاته."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحدقتان المتوسعتان غير المستجيبتين توحيان بمضاعفة أخطر، لا كسر قاعدة الجمجمة بذاته. وتذكّر القاعدة: Basal skull fracture classic signs: don't include Dilated fixed pupils. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الحدقتان المتوسعتان غير المستجيبتين توحيان بمضاعفة أخطر، لا كسر قاعدة الجمجمة بذاته. وتذكّر: Basal skull fracture classic signs: don't include Dilated fixed pupils. والإجابة الصحيحة هي D."
     }
   ]
 }

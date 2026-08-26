@@ -45,7 +45,7 @@
         "label": "Intubation",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Intubation، أو CT scan must be done first، أو IV fluids، أو Focused Assessment with Sonography for Trauma (FAST) scan، أو ICU admission. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، CT scan must be done first: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف CT scan first, IV fluids alone, FAST scan, and ICU admission all involve delay or insufficient action for a patient this unstable — the priority is airway protection given the critically low GCS. الخيار C، IV fluids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف CT scan first, IV fluids alone, FAST scan, and ICU admission all involve delay or insufficient action for a patient this unstable — the priority is airway protection given the critically low GCS. الخيار D، Focused Assessment with Sonography for Trauma (FAST) scan: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف CT scan first, IV fluids alone, FAST scan, and ICU admission all involve delay or insufficient action for a patient this unstable — the priority is airway protection given the critically low GCS. الخيار E، ICU admission: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف CT scan first, IV fluids alone, FAST scan, and ICU admission all involve delay or insufficient action for a patient this unstable — the priority is airway protection given the critically low GCS.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي Intubation. الخيار C، IV fluids: الإجابة الصحيحة هي Intubation. الخيار D: الإجابة الصحيحة هي Intubation. الخيار E، ICU admission: الإجابة الصحيحة هي Intubation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"GCS <8 = Intubate first, before anything else"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Intubation. GCS يساوي 7 أقل بكثير من عتبة حماية مجرى الهواء (8) — نبِّب فورًا قبل أي شيء آخر، لأن المريض لا يستطيع حماية مجرى هوائه بنفسه."
+      "narration": "الخيار A، Intubation هو الإجابة الصحيحة. GCS يساوي 7 أقل بكثير من عتبة حماية مجرى الهواء (8) — نبِّب فورًا قبل أي شيء آخر، لأن المريض لا يستطيع حماية مجرى هوائه بنفسه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. GCS يساوي 7 أقل بكثير من عتبة حماية مجرى الهواء (8) — نبِّب فورًا قبل أي شيء آخر، لأن المريض لا يستطيع حماية مجرى هوائه بنفسه. وتذكّر القاعدة: \"GCS <8 = Intubate first, before anything else\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. GCS يساوي 7 أقل بكثير من عتبة حماية مجرى الهواء (8) — نبِّب فورًا قبل أي شيء آخر، لأن المريض لا يستطيع حماية مجرى هوائه بنفسه. وتذكّر: \"GCS <8 = Intubate first, before anything else\". والإجابة الصحيحة هي A."
     }
   ]
 }

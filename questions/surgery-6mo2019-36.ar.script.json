@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Exploration laparotomy"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 19 عامًا جاء إلى قسم الطوارئ مصابًا بطلق ناري فيالسرة وضغط دم انقباضي 70 مع انتفاخ البطن المتوتر، وأفضل خطوة تاليةفي العلاج هي أمامك هذه الخيارات: Exploration laparotomy، أو Keep on IV fluid till BP 90/70 then operate.، أو FAST، أو DPL، أو Abdomen CT scan.. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 19 عامًا جاء إلى قسم الطوارئ مصابًا بطلق ناري فيالسرة وضغط دم انقباضي 70 مع انتفاخ البطن المتوتر، وأفضل خطوة تاليةفي العلاج هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Keep on IV fluid till BP 90/70 then operate.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Exploration laparotomy. يصبح صحيحًا في سؤال يصف Waiting for BP to reach 90/70 before operating delays necessary immediate surgery in an unstable patient with ongoing hemorrhage. الخيار C، FAST: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have — immediate laparotomy is indicated. يصبح صحيحًا في سؤال يصف FAST, DPL, and CT scan all require time this unstable patient. الخيار D، DPL: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have — immediate laparotomy is indicated. يصبح صحيحًا في سؤال يصف FAST, DPL, and CT scan all require time this unstable patient. الخيار E، Abdomen CT scan.: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have — immediate laparotomy is indicated. يصبح صحيحًا في سؤال يصف FAST, DPL, and CT scan all require time this unstable patient.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي Exploration laparotomy. الخيار C، FAST: المطلوب هنا have — immediate laparotomy is indicated. الخيار D، DPL: المطلوب هنا have — immediate laparotomy is indicated. الخيار E، Abdomen CT scan.: المطلوب هنا have — immediate laparotomy is indicated. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Unstable + penetrating GSW = straight to OR\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Exploration laparotomy. المريض غير المستقر ديناميكيًا الدموي بإصابة نافذة بالبطن بطلق ناري مع بطن متوتر يذهب مباشرة لغرفة العمليات — لا وقت للتصوير."
+      "narration": "الخيار A، Exploration laparotomy هو الإجابة الصحيحة. المريض غير المستقر ديناميكيًا الدموي بإصابة نافذة بالبطن بطلق ناري مع بطن متوتر يذهب مباشرة لغرفة العمليات — لا وقت للتصوير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المريض غير المستقر ديناميكيًا الدموي بإصابة نافذة بالبطن بطلق ناري مع بطن متوتر يذهب مباشرة لغرفة العمليات — لا وقت للتصوير. وتذكّر القاعدة: \"Unstable + penetrating GSW = straight to OR\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. المريض غير المستقر ديناميكيًا الدموي بإصابة نافذة بالبطن بطلق ناري مع بطن متوتر يذهب مباشرة لغرفة العمليات — لا وقت للتصوير. وتذكّر: \"Unstable + penetrating GSW = straight to OR\". والإجابة الصحيحة هي A."
     }
   ]
 }

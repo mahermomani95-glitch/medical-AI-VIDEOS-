@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Truelove and Witts' severity index"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 40 عامًا يعاني من التهاب القولون التقرحي، ويعاني الآنمن تفاقم أعراض التهاب القولون التقرحي. قيّم شدته بـ؟ أمامك هذه الخيارات: Erythema nodosum، أو Anemia، أو Dose of salazopyrine، أو Ankylosing spondylitis، أو Truelove and Witts' severity index. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 40 عامًا يعاني من التهاب القولون التقرحي، ويعاني الآنمن تفاقم أعراض التهاب القولون التقرحي. قيّم شدته بـ؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Erythema nodosum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Truelove and Witts' severity index. يصبح صحيحًا في سؤال يصف Erythema nodosum, anemia, and salazopyrine dosing are individual findings/treatments that can accompany UC but aren't a formal severity scale. الخيار B، Anemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Truelove and Witts' severity index. يصبح صحيحًا في سؤال يصف Erythema nodosum, anemia, and salazopyrine dosing are individual findings/treatments that can accompany UC but aren't a formal severity scale. الخيار C، Dose of salazopyrine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Truelove and Witts' severity index. يصبح صحيحًا في سؤال يصف Erythema nodosum, anemia, and salazopyrine dosing are individual findings/treatments that can accompany UC but aren't a formal severity scale. الخيار D، Ankylosing spondylitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a severity tool — the Truelove and Witts' index is the classic, formally validated severity assessment tool for ulcerative colitis. يصبح صحيحًا في سؤال يصف ankylosing spondylitis is an extraintestinal association.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Erythema nodosum: الإجابة الصحيحة هي Truelove and Witts' severity index. الخيار B، Anemia: الإجابة الصحيحة هي Truelove and Witts' severity index. الخيار C، Dose of salazopyrine: الإجابة الصحيحة هي Truelove and Witts' severity index. الخيار D، Ankylosing spondylitis: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "UC flare severity: Truelove-Witts index"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Truelove and Witts' severity index. مؤشر ترولوف وويتس هو الأداة القياسية لتقييم شدة نوبة التهاب القولون التقرحي."
+      "narration": "الخيار E هو الإجابة الصحيحة. مؤشر ترولوف وويتس هو الأداة القياسية لتقييم شدة نوبة التهاب القولون التقرحي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مؤشر ترولوف وويتس هو الأداة القياسية لتقييم شدة نوبة التهاب القولون التقرحي. وتذكّر القاعدة: UC flare severity: Truelove-Witts index. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. مؤشر ترولوف وويتس هو الأداة القياسية لتقييم شدة نوبة التهاب القولون التقرحي. وتذكّر: UC flare severity: Truelove-Witts index. والإجابة الصحيحة هي E."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "80 mmhg",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يشير النبض الشعاعي الملموس إلى ضغط دم انقباضي أكبر من؟ أمامك هذه الخيارات: 40 mmhg، أو 60 mmhg، أو 80 mmhg، أو 100 mmhg، أو 120 mmhg. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يشير النبض الشعاعي الملموس إلى ضغط دم انقباضي أكبر من؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 40 mmhg: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 80 mmhg. يصبح صحيحًا في سؤال يصف 40, 60, 100, and 120 mmHg don't match the commonly cited threshold — a palpable radial pulse is generally taken to indicate a systolic BP of at least 80 mmHg (though this is an approximation used in field triage). الخيار B، 60 mmhg: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 80 mmhg. يصبح صحيحًا في سؤال يصف 40, 60, 100, and 120 mmHg don't match the commonly cited threshold — a palpable radial pulse is generally taken to indicate a systolic BP of at least 80 mmHg (though this is an approximation used in field triage). الخيار D، 100 mmhg: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 80 mmhg. يصبح صحيحًا في سؤال يصف 40, 60, 100, and 120 mmHg don't match the commonly cited threshold — a palpable radial pulse is generally taken to indicate a systolic BP of at least 80 mmHg (though this is an approximation used in field triage). الخيار E، 120 mmhg: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 80 mmhg. يصبح صحيحًا في سؤال يصف 40, 60, 100, and 120 mmHg don't match the commonly cited threshold — a palpable radial pulse is generally taken to indicate a systolic BP of at least 80 mmHg (though this is an approximation used in field triage).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 40 mmhg: الإجابة الصحيحة هي 80 mmhg. الخيار B، 60 mmhg: الإجابة الصحيحة هي 80 mmhg. الخيار D، 100 mmhg: الإجابة الصحيحة هي 80 mmhg. الخيار E، 120 mmhg: الإجابة الصحيحة هي 80 mmhg. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Radial pulse palpable: BP above Eighty"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: 80 mmhg. وجود نبض كعبري مجسوس يوحي بضغط انقباضي أعلى من 80 ملم زئبقي تقريبًا."
+      "narration": "الخيار C، 80 mmhg هو الإجابة الصحيحة. وجود نبض كعبري مجسوس يوحي بضغط انقباضي أعلى من 80 ملم زئبقي تقريبًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. وجود نبض كعبري مجسوس يوحي بضغط انقباضي أعلى من 80 ملم زئبقي تقريبًا. وتذكّر القاعدة: Radial pulse palpable: BP above Eighty. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. وجود نبض كعبري مجسوس يوحي بضغط انقباضي أعلى من 80 ملم زئبقي تقريبًا. وتذكّر: Radial pulse palpable: BP above Eighty. والإجابة الصحيحة هي C."
     }
   ]
 }

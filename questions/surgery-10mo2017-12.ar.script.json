@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "No benefit has yet been shown for breast screening…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة باختبارات الفحص صحيحة باستثناء؟ أمامك هذه الخيارات: Screening tests are available for all common cancers، أو Most screening tests are not 100% sensitive and specific، أو No benefit has yet been shown for breast screening in women under 40 years of age، أو Prostatic Specific Antigen (PSA) estimation is currently the best screening tool for prostatic cancer، أو It takes approximately 10 years for a colonic polyp to develop. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة باختبارات الفحص صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Screening tests are available for all common cancers: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age. الخيار B، Most screening tests are not 100% sensitive and specific: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age. الخيار D، Prostatic Specific Antigen (PSA) estimation is currently the best screening tool for prostatic cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age. الخيار E، It takes approximately 10 years for a colonic polyp to develop: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Not all screening tests being 100% sensitive/specific, PSA as the current standard prostate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو No benefit has yet been shown for breast screening in women under 40 years of age.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Breast screening: Beneficial, not without bene"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: No benefit has yet been shown for breast screening in women under 40 years of age. فرز سرطان الثدي أظهر فائدة حقيقية موثقة بتقليل الوفيات."
+      "narration": "الخيار C هو الإجابة الصحيحة. فرز سرطان الثدي أظهر فائدة حقيقية موثقة بتقليل الوفيات."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرز سرطان الثدي أظهر فائدة حقيقية موثقة بتقليل الوفيات. وتذكّر القاعدة: Breast screening: Beneficial, not without benefit. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فرز سرطان الثدي أظهر فائدة حقيقية موثقة بتقليل الوفيات. وتذكّر: Breast screening: Beneficial, not without benefit. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Failure to LES to relax and absent peristals"
       },
-      "narration": "لنبدأ بهذا السؤال. النتيجة القياسية النموذجية للضغط في المريض المصاب بالارتخاء المريئي هي أمامك هذه الخيارات: Normal LES pressure and absent peristals، أو Failure to LES to relax and absent peristals، أو Increased of LES pressure and normal peristals، أو Increased of LES pressure and high peristals، أو Low of LES pressure and absent peristals. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. النتيجة القياسية النموذجية للضغط في المريض المصاب بالارتخاء المريئي هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Normal LES pressure and absent peristals: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the true manometric picture of achalasia, which is failure of LES relaxation (not necessarily elevated resting pressure) combined with absent peristalsis. يصبح صحيحًا في سؤال يصف Normal LES pressure with absent peristalsis, increased LES pressure with normal peristalsis, increased LES pressure with high peristalsis, and low LES pressure with absent peristalsis do. الخيار C، Increased of LES pressure and normal peristals: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the true manometric picture of achalasia, which is failure of LES relaxation (not necessarily elevated resting pressure) combined with absent peristalsis. يصبح صحيحًا في سؤال يصف Normal LES pressure with absent peristalsis, increased LES pressure with normal peristalsis, increased LES pressure with high peristalsis, and low LES pressure with absent peristalsis do. الخيار D، Increased of LES pressure and high peristals: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the true manometric picture of achalasia, which is failure of LES relaxation (not necessarily elevated resting pressure) combined with absent peristalsis. يصبح صحيحًا في سؤال يصف Normal LES pressure with absent peristalsis, increased LES pressure with normal peristalsis, increased LES pressure with high peristalsis, and low LES pressure with absent peristalsis do. الخيار E، Low of LES pressure and absent peristals: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the true manometric picture of achalasia, which is failure of LES relaxation (not necessarily elevated resting pressure) combined with absent peristalsis. يصبح صحيحًا في سؤال يصف Normal LES pressure with absent peristalsis, increased LES pressure with normal peristalsis, increased LES pressure with high peristalsis, and low LES pressure with absent peristalsis do.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"A-chalasia = Absent relaxation, Absent perist"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Failure to LES to relax and absent peristals. التعذر الحركي يُبقي المصرة السفلية للمريء مغلقة ويُسكت حركة جسم المريء تمامًا — فشل الاسترخاء مع غياب التمعج."
+      "narration": "الخيار B هو الإجابة الصحيحة. التعذر الحركي يُبقي المصرة السفلية للمريء مغلقة ويُسكت حركة جسم المريء تمامًا — فشل الاسترخاء مع غياب التمعج."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التعذر الحركي يُبقي المصرة السفلية للمريء مغلقة ويُسكت حركة جسم المريء تمامًا — فشل الاسترخاء مع غياب التمعج. وتذكّر القاعدة: \"A-chalasia = Absent relaxation, Absent peristalsis\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. التعذر الحركي يُبقي المصرة السفلية للمريء مغلقة ويُسكت حركة جسم المريء تمامًا — فشل الاسترخاء مع غياب التمعج. وتذكّر: \"A-chalasia = Absent relaxation, Absent peristalsis\". والإجابة الصحيحة هي B."
     }
   ]
 }

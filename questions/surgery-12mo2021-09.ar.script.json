@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Atypical hyperplasia"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الحالات التالية مرتبطة بزيادة خطر سرطان الثدي؟ أمامك هذه الخيارات: Fibrocystic mastopathy، أو Severe hyperplasia، أو Atypical hyperplasia، أو Papillomatosis، أو Adenosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الحالات التالية مرتبطة بزيادة خطر سرطان الثدي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fibrocystic mastopathy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atypical hyperplasia. يصبح صحيحًا في سؤال يصف Fibrocystic mastopathy, severe (but not atypical) hyperplasia, papillomatosis, and adenosis are all benign breast changes with lower malignant potential than atypical hyperplasia specifically, which carries genuinely abnormal cellular atypia. الخيار B، Severe hyperplasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atypical hyperplasia. يصبح صحيحًا في سؤال يصف Fibrocystic mastopathy, severe (but not atypical) hyperplasia, papillomatosis, and adenosis are all benign breast changes with lower malignant potential than atypical hyperplasia specifically, which carries genuinely abnormal cellular atypia. الخيار D، Papillomatosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atypical hyperplasia. يصبح صحيحًا في سؤال يصف Fibrocystic mastopathy, severe (but not atypical) hyperplasia, papillomatosis, and adenosis are all benign breast changes with lower malignant potential than atypical hyperplasia specifically, which carries genuinely abnormal cellular atypia. الخيار E، Adenosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atypical hyperplasia. يصبح صحيحًا في سؤال يصف Fibrocystic mastopathy, severe (but not atypical) hyperplasia, papillomatosis, and adenosis are all benign breast changes with lower malignant potential than atypical hyperplasia specifically, which carries genuinely abnormal cellular atypia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Fibrocystic mastopathy: الإجابة الصحيحة هي Atypical hyperplasia. الخيار B، Severe hyperplasia: الإجابة الصحيحة هي Atypical hyperplasia. الخيار D، Papillomatosis: الإجابة الصحيحة هي Atypical hyperplasia. الخيار E، Adenosis: الإجابة الصحيحة هي Atypical hyperplasia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Atypical hyperplasia = Atypical cells = prema"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Atypical hyperplasia. فرط التنسج اللانمطي يحتوي خلايا غير نمطية حقيقية — خطوة سابقة للتسرطن فعلية، بعكس التغيرات التكاثرية الحميدة الأخرى المذكورة."
+      "narration": "الخيار C، Atypical hyperplasia هو الإجابة الصحيحة. فرط التنسج اللانمطي يحتوي خلايا غير نمطية حقيقية — خطوة سابقة للتسرطن فعلية، بعكس التغيرات التكاثرية الحميدة الأخرى المذكورة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرط التنسج اللانمطي يحتوي خلايا غير نمطية حقيقية — خطوة سابقة للتسرطن فعلية، بعكس التغيرات التكاثرية الحميدة الأخرى المذكورة. وتذكّر القاعدة: \"Atypical hyperplasia = Atypical cells = premalignant\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فرط التنسج اللانمطي يحتوي خلايا غير نمطية حقيقية — خطوة سابقة للتسرطن فعلية، بعكس التغيرات التكاثرية الحميدة الأخرى المذكورة. وتذكّر: \"Atypical hyperplasia = Atypical cells = premalignant\". والإجابة الصحيحة هي C."
     }
   ]
 }

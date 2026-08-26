@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "IV fluid and IV antibiotics"
       },
-      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 60 عامًا إلى قسم الطوارئ بشكوى رئيسية منألم في منطقة أسفل الظهر (الربع العلوي الأيمن) وحمى، وتبين من الفحصالسريري أنها مصابة باليرقان. ضغط دمها الحيوي 85/40، ومعدل ضرباتقلبها 125، ودرجة حرارتها 39. أفضل خطوة تالية هي:؟ أمامك هذه الخيارات: Emergency Cholecystectomy، أو Emergency ERCP، أو Emergency PTC placement، أو IV fluid and IV antibiotics. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 60 عامًا إلى قسم الطوارئ بشكوى رئيسية منألم في منطقة أسفل الظهر (الربع العلوي الأيمن) وحمى، وتبين من الفحصالسريري أنها مصابة باليرقان. ضغط دمها الحيوي 85/40، ومعدل ضرباتقلبها 125، ودرجة حرارتها 39. أفضل خطوة تالية هي:؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Emergency Cholecystectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed as the very first step — IV fluids and antibiotics are the appropriate initial management for acute cholecystitis before definitive treatment. يصبح صحيحًا في سؤال يصف Emergency cholecystectomy, emergency ERCP, and emergency PTC are more invasive/urgent interventions. الخيار B، Emergency ERCP: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed as the very first step — IV fluids and antibiotics are the appropriate initial management for acute cholecystitis before definitive treatment. يصبح صحيحًا في سؤال يصف Emergency cholecystectomy, emergency ERCP, and emergency PTC are more invasive/urgent interventions. الخيار C، Emergency PTC placement: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed as the very first step — IV fluids and antibiotics are the appropriate initial management for acute cholecystitis before definitive treatment. يصبح صحيحًا في سؤال يصف Emergency cholecystectomy, emergency ERCP, and emergency PTC are more invasive/urgent interventions.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Emergency Cholecystectomy: لا ينطبق على هذه الحالة. الخيار B، Emergency ERCP: لا ينطبق على هذه الحالة. الخيار C، Emergency PTC placement: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Acute cholecystitis: Fluids and Antibiotics fi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: IV fluid and IV antibiotics. السوائل والمضادات الحيوية الوريدية تسبق أي جراحة بالتهاب المرارة الحاد."
+      "narration": "الخيار D هو الإجابة الصحيحة. السوائل والمضادات الحيوية الوريدية تسبق أي جراحة بالتهاب المرارة الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السوائل والمضادات الحيوية الوريدية تسبق أي جراحة بالتهاب المرارة الحاد. وتذكّر القاعدة: Acute cholecystitis: Fluids and Antibiotics first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. السوائل والمضادات الحيوية الوريدية تسبق أي جراحة بالتهاب المرارة الحاد. وتذكّر: Acute cholecystitis: Fluids and Antibiotics first. والإجابة الصحيحة هي D."
     }
   ]
 }

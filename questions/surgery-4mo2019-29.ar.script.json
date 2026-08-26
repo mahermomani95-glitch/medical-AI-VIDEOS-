@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Pain upon passive movement"
       },
-      "narration": "لنبدأ بهذا السؤال. أول أعراض متلازمة الحيز هي أمامك هذه الخيارات: Weakness، أو Paralysis، أو Pain upon passive movement، أو Paresthesia، أو Pallor. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أول أعراض متلازمة الحيز هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Weakness: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a classic finding. يصبح صحيحًا في سؤال يصف Weakness, paralysis, paresthesia, and pallor are all genuine signs of acute limb ischemia (part of the 6 P's), unlike cyanosis which. الخيار B، Paralysis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a classic finding. يصبح صحيحًا في سؤال يصف Weakness, paralysis, paresthesia, and pallor are all genuine signs of acute limb ischemia (part of the 6 P's), unlike cyanosis which. الخيار D، Paresthesia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a classic finding. يصبح صحيحًا في سؤال يصف Weakness, paralysis, paresthesia, and pallor are all genuine signs of acute limb ischemia (part of the 6 P's), unlike cyanosis which. الخيار E، Pallor: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a classic finding. يصبح صحيحًا في سؤال يصف Weakness, paralysis, paresthesia, and pallor are all genuine signs of acute limb ischemia (part of the 6 P's), unlike cyanosis which.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Weakness: المطلوب هنا a classic finding. الخيار B، Paralysis: المطلوب هنا a classic finding. الخيار D، Paresthesia: المطلوب هنا a classic finding. الخيار E، Pallor: المطلوب هنا a classic finding. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pain on passive stretch = the earliest 5 P\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Pain upon passive movement. الألم غير المتناسب مع الإصابة، والمتفاقم بالتمدد السلبي، هو أول وأحسس علامة تحذيرية لمتلازمة الحيز."
+      "narration": "الخيار C، Pain upon passive movement هو الإجابة الصحيحة. الألم غير المتناسب مع الإصابة، والمتفاقم بالتمدد السلبي، هو أول وأحسس علامة تحذيرية لمتلازمة الحيز."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم غير المتناسب مع الإصابة، والمتفاقم بالتمدد السلبي، هو أول وأحسس علامة تحذيرية لمتلازمة الحيز. وتذكّر القاعدة: \"Pain on passive stretch = the earliest 5 P\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الألم غير المتناسب مع الإصابة، والمتفاقم بالتمدد السلبي، هو أول وأحسس علامة تحذيرية لمتلازمة الحيز. وتذكّر: \"Pain on passive stretch = the earliest 5 P\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hepatic vein thrombosis"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 25 عامًا تصاب باليرقان والاستسقاء بعد أسبوعين منالولادة، ومن المرجح أن يكون هذا مرتبطًا بـ أمامك هذه الخيارات: Retained placenta، أو Hepatic vein thrombosis، أو HCC، أو Biliary cystadenocarcinoma، أو Hepatitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 25 عامًا تصاب باليرقان والاستسقاء بعد أسبوعين منالولادة، ومن المرجح أن يكون هذا مرتبطًا بـ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Retained placenta: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا directly cause jaundice and ascites at this timing. يصبح صحيحًا في سؤال يصف Retained placenta is a postpartum bleeding/infection risk but. الخيار C، HCC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatic vein thrombosis. يصبح صحيحًا في سؤال يصف HCC, biliary cystadenocarcinoma, and hepatitis don't fit the acute postpartum timing and rapid onset as well as a prothrombotic event does. الخيار D، Biliary cystadenocarcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatic vein thrombosis. يصبح صحيحًا في سؤال يصف HCC, biliary cystadenocarcinoma, and hepatitis don't fit the acute postpartum timing and rapid onset as well as a prothrombotic event does. الخيار E، Hepatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hepatic vein thrombosis. يصبح صحيحًا في سؤال يصف HCC, biliary cystadenocarcinoma, and hepatitis don't fit the acute postpartum timing and rapid onset as well as a prothrombotic event does.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Retained placenta: لا ينطبق على هذه الحالة. الخيار C، HCC: الإجابة الصحيحة هي Hepatic vein thrombosis. الخيار D، Biliary cystadenocarcinoma: الإجابة الصحيحة هي Hepatic vein thrombosis. الخيار E، Hepatitis: الإجابة الصحيحة هي Hepatic vein thrombosis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Postpartum + ascites = Budd-Chiari\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Hepatic vein thrombosis. الحمل حالة مؤهبة للتخثر، ويمكن أن تنسد الأوردة الكبدية بجلطة بعد الولادة مباشرة (متلازمة بود-كياري)."
+      "narration": "الخيار B، Hepatic vein thrombosis هو الإجابة الصحيحة. الحمل حالة مؤهبة للتخثر، ويمكن أن تنسد الأوردة الكبدية بجلطة بعد الولادة مباشرة (متلازمة بود-كياري)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحمل حالة مؤهبة للتخثر، ويمكن أن تنسد الأوردة الكبدية بجلطة بعد الولادة مباشرة (متلازمة بود-كياري). وتذكّر القاعدة: \"Postpartum + ascites = Budd-Chiari\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الحمل حالة مؤهبة للتخثر، ويمكن أن تنسد الأوردة الكبدية بجلطة بعد الولادة مباشرة (متلازمة بود-كياري). وتذكّر: \"Postpartum + ascites = Budd-Chiari\". والإجابة الصحيحة هي B."
     }
   ]
 }

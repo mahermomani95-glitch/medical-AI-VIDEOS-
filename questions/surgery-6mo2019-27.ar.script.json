@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Lactated Ringer's solution at 700 ml/hr"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل وزنه 70 كجم، حضر إلى قسم الطوارئ مصابًا بحروق من الدرجة الثانية،بلغت 40% من إجمالي مساحة الجسم، وإصابة ناتجة عن استنشاق السوائل. عملية الإنعاش بالسوائل التي يجب البدء بها هي: أمامك هذه الخيارات: Lactated Ringer's solution at 350 ml/hr، أو Lactated Ringer's solution at 700 ml/hr، أو Lactated Ringer's solution at 100 ml/hr، أو Normal saline solution at 700 ml/hr، أو Dextrose 5% in water. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل وزنه 70 كجم، حضر إلى قسم الطوارئ مصابًا بحروق من الدرجة الثانية،بلغت 40% من إجمالي مساحة الجسم، وإصابة ناتجة عن استنشاق السوائل. عملية الإنعاش بالسوائل التي يجب البدء بها هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Lactated Ringer's solution at 350 ml/hr: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. يصبح صحيحًا في سؤال يصف Lactated Ringer's at 350 mL/hr and 100 mL/hr don't match the correct Parkland calculation. الخيار C، Lactated Ringer's solution at 100 ml/hr: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. يصبح صحيحًا في سؤال يصف Lactated Ringer's at 350 mL/hr and 100 mL/hr don't match the correct Parkland calculation. الخيار D، Normal saline solution at 700 ml/hr: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the preferred fluid for burn resuscitation (lactated Ringer's is standard). يصبح صحيحًا في سؤال يصف normal saline. الخيار E، Dextrose 5% in water: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. يصبح صحيحًا في سؤال يصف D5W is inappropriate for burn fluid resuscitation since it lacks adequate electrolytes.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. الخيار C: الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. الخيار D: لا ينطبق على هذه الحالة. الخيار E، Dextrose 5% in water: الإجابة الصحيحة هي Lactated Ringer's solution at 700 ml/hr. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Parkland: 4 x weight x %TBSA, half in first 8"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Lactated Ringer's solution at 700 ml/hr. بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي."
+      "narration": "الخيار B هو الإجابة الصحيحة. بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي. وتذكّر القاعدة: \"Parkland: 4 x weight x %TBSA, half in first 8 hours\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. بتطبيق معادلة باركلاند (4 مل × الوزن × نسبة % مساحة الحرق) نحصل على الكمية الكلية لـ24 ساعة؛ نصفها يُعطى خلال أول 8 ساعات لتحديد المعدل الساعي الأولي. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Epilepsy"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي من المضاعفات المبكرة لإصابة الرأس باستثناء؟ (سؤال مكرر، راجع السؤال رقم 178) أمامك هذه الخيارات: Brain concussion، أو Brain contusion، أو Brain contusion، أو Epilepsy، أو CSF leak. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي من المضاعفات المبكرة لإصابة الرأس باستثناء؟ (سؤال مكرر، راجع السؤال رقم 178) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Brain concussion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion and brain contusion (listed twice) can all present early after head injury… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy. الخيار B، Brain contusion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion and brain contusion (listed twice) can all present early after head injury… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy. الخيار C، Brain contusion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion and brain contusion (listed twice) can all present early after head injury… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy. الخيار E، CSF leak: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Brain concussion and brain contusion (listed twice) can all present early after head injury… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epilepsy.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Brain concussion: صحيحة، لكنها ليست الاستثناء. الخيار B، Brain contusion: صحيحة، لكنها ليست الاستثناء. الخيار C، Brain contusion: صحيحة، لكنها ليست الاستثناء. الخيار E، CSF leak: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Epilepsy post-head injury: Emerges Eventually,"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Epilepsy. الصرع مضاعفة متأخرة لإصابة الرأس تظهر بعد أشهر أو سنوات، لا مبكرة."
+      "narration": "الخيار D، Epilepsy هو الإجابة الصحيحة. الصرع مضاعفة متأخرة لإصابة الرأس تظهر بعد أشهر أو سنوات، لا مبكرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصرع مضاعفة متأخرة لإصابة الرأس تظهر بعد أشهر أو سنوات، لا مبكرة. وتذكّر القاعدة: Epilepsy post-head injury: Emerges Eventually, not early. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الصرع مضاعفة متأخرة لإصابة الرأس تظهر بعد أشهر أو سنوات، لا مبكرة. وتذكّر: Epilepsy post-head injury: Emerges Eventually, not early. والإجابة الصحيحة هي D."
     }
   ]
 }

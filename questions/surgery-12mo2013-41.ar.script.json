@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Fecal impaction"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي من الأسباب الشائعة لانسداد الأمعاء الدقيقة باستثناء؟ أمامك هذه الخيارات: Post surgical adhesion، أو Inguinal hernia، أو Incisional hernia، أو Small bowel tumor، أو Fecal impaction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي من الأسباب الشائعة لانسداد الأمعاء الدقيقة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Post surgical adhesion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction. الخيار B، Inguinal hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction. الخيار C، Incisional hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction. الخيار D، Small bowel tumor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Post-surgical adhesion, inguinal hernia, incisional hernia, and small bowel tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fecal impaction.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Post surgical adhesion: صحيحة، لكنها ليست الاستثناء. الخيار B، Inguinal hernia: صحيحة، لكنها ليست الاستثناء. الخيار C، Incisional hernia: صحيحة، لكنها ليست الاستثناء. الخيار D، Small bowel tumor: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Fecal impaction: Fills the large bowel, not sm"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Fecal impaction. انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة."
+      "narration": "الخيار E، Fecal impaction هو الإجابة الصحيحة. انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة. وتذكّر القاعدة: Fecal impaction: Fills the large bowel, not small. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. انحشار البراز يسبب انسدادًا بالأمعاء الغليظة، لا الدقيقة. وتذكّر: Fecal impaction: Fills the large bowel, not small. والإجابة الصحيحة هي E."
     }
   ]
 }

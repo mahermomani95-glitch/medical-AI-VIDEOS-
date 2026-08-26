@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "WBC less than 5000 U/ L"
       },
-      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 50 عامًا إلى قسم الطوارئ يشكو من ألم شديد فيالمنطقة الشرسوفية استمر لمدة 5 ساعات. ينتشر الألم إلى ظهره مصحوبًابتقيؤ متكرر. مستوى الأميليز لديه 2017 وحدة/لتر. تُستخدم جميع المعاييرالتالية للتنبؤ بشدة الحالة أثناء الدخول باستثناء:؟ أمامك هذه الخيارات: Age over 55 years، أو Blood sugar more than 200 mg/dI، أو AST more than 250 u/ L، أو WBC less than 5000 U/ L، أو LDH more than 350 u/L. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 50 عامًا إلى قسم الطوارئ يشكو من ألم شديد فيالمنطقة الشرسوفية استمر لمدة 5 ساعات. ينتشر الألم إلى ظهره مصحوبًابتقيؤ متكرر. مستوى الأميليز لديه 2017 وحدة/لتر. تُستخدم جميع المعاييرالتالية للتنبؤ بشدة الحالة أثناء الدخول باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Age over 55 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي WBC less than 5000 U/ L. يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER 5000 — the actual Ranson criterion is WBC OVER 16,000 (leukocytosis, not leukopenia) as a poor prognostic sign. الخيار B، Blood sugar more than 200 mg/dI: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي WBC less than 5000 U/ L. يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER 5000 — the actual Ranson criterion is WBC OVER 16,000 (leukocytosis, not leukopenia) as a poor prognostic sign. الخيار C، AST more than 250 u/ L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي WBC less than 5000 U/ L. يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER 5000 — the actual Ranson criterion is WBC OVER 16,000 (leukocytosis, not leukopenia) as a poor prognostic sign. الخيار E، LDH more than 350 u/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي WBC less than 5000 U/ L. يصبح صحيحًا في سؤال يصف Age over 55, blood sugar over 200, AST over 250, and LDH over 350 are all genuine Ranson criteria indicating poor prognosis, unlike a WBC UNDER 5000 — the actual Ranson criterion is WBC OVER 16,000 (leukocytosis, not leukopenia) as a poor prognostic sign.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Age over 55 years: الإجابة الصحيحة هي WBC less than 5000 U/ L. الخيار B: الإجابة الصحيحة هي WBC less than 5000 U/ L. الخيار C: الإجابة الصحيحة هي WBC less than 5000 U/ L. الخيار E: الإجابة الصحيحة هي WBC less than 5000 U/ L. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Atypical finding: WBC below Five thousand"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: WBC less than 5000 U/ L. كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية."
+      "narration": "الخيار D هو الإجابة الصحيحة. كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية. وتذكّر القاعدة: Atypical finding: WBC below Five thousand. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. كريات بيضاء أقل من 5000 موجودة غير متوقعة بحالة التهابية حادة نمطية. وتذكّر: Atypical finding: WBC below Five thousand. والإجابة الصحيحة هي D."
     }
   ]
 }

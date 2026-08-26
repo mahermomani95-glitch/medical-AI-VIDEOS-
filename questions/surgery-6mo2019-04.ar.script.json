@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Femoral artery is located lateral to it"
       },
-      "narration": "لنبدأ بهذا السؤال. بخصوص فتق الفخذ هناك حقيقة واحدة أمامك هذه الخيارات: It is located lateral to femoral vein، أو Femoral artery is located lateral to it، أو It is the most common hernia in females، أو Treatment only for symptomatic patient، أو It rarely becomes incarcerated or strangulated. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بخصوص فتق الفخذ هناك حقيقة واحدة أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is located lateral to femoral vein: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral artery is located lateral to it. يصبح صحيحًا في سؤال يصف It actually lies medial (not lateral) to the femoral vein. الخيار C، It is the most common hernia in females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral artery is located lateral to it. يصبح صحيحًا في سؤال يصف inguinal hernia (not femoral) remains the most common hernia even in females. الخيار D، Treatment only for symptomatic patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral artery is located lateral to it. يصبح صحيحًا في سؤال يصف treatment isn't reserved only for symptomatic cases given high strangulation risk. الخيار E، It rarely becomes incarcerated or strangulated: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral artery is located lateral to it. يصبح صحيحًا في سؤال يصف it actually has a HIGH (not rare) strangulation risk given its narrow neck — all misstate true femoral hernia facts.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"NAVEL: Nerve-Artery-Vein-Empty space-Lymphati"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Femoral artery is located lateral to it. الشريان الفخذي يقع وحشيًا للوريد الفخذي، والذي يقع وحشيًا للقناة الفخذية حيث يبرز الفتق — تذكّر الترتيب من الوحشي للإنسي بمختصر NAVEL."
+      "narration": "الخيار B هو الإجابة الصحيحة. الشريان الفخذي يقع وحشيًا للوريد الفخذي، والذي يقع وحشيًا للقناة الفخذية حيث يبرز الفتق — تذكّر الترتيب من الوحشي للإنسي بمختصر NAVEL."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشريان الفخذي يقع وحشيًا للوريد الفخذي، والذي يقع وحشيًا للقناة الفخذية حيث يبرز الفتق — تذكّر الترتيب من الوحشي للإنسي بمختصر NAVEL. وتذكّر القاعدة: \"NAVEL: Nerve-Artery-Vein-Empty space-Lymphatics\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الشريان الفخذي يقع وحشيًا للوريد الفخذي، والذي يقع وحشيًا للقناة الفخذية حيث يبرز الفتق — تذكّر الترتيب من الوحشي للإنسي بمختصر NAVEL. وتذكّر: \"NAVEL: Nerve-Artery-Vein-Empty space-Lymphatics\". والإجابة الصحيحة هي B."
     }
   ]
 }

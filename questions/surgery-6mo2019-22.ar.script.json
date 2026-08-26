@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Sepsis"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا للوفاة المتأخرة لدى مرضى الحروق هو أمامك هذه الخيارات: Sepsis، أو Hypovolemia، أو Contractures، أو Neurogenic shock، أو Hypothermia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا للوفاة المتأخرة لدى مرضى الحروق هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hypovolemia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا late. يصبح صحيحًا في سؤال يصف Hypovolemia causes early death. الخيار C، Contractures: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a cause of death. يصبح صحيحًا في سؤال يصف contractures are a long-term functional complication. الخيار D، Neurogenic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sepsis. يصبح صحيحًا في سؤال يصف neurogenic shock is unrelated to burns specifically. الخيار E، Hypothermia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the leading late cause of death — sepsis remains the answer. يصبح صحيحًا في سؤال يصف hypothermia is an early complication from exposed burned skin.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Hypovolemia: المطلوب هنا late. الخيار C، Contractures: المطلوب هنا a cause of death. الخيار D، Neurogenic shock: الإجابة الصحيحة هي Sepsis. الخيار E، Hypothermia: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Early death = fluid loss, Late death = Sepsis"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Sepsis. بعد اجتياز أزمة السوائل الأولى، يصبح الإنتان الناتج عن عدوى جرح الحرق هو القاتل الأول خلال الأسابيع التالية."
+      "narration": "الخيار A، Sepsis هو الإجابة الصحيحة. بعد اجتياز أزمة السوائل الأولى، يصبح الإنتان الناتج عن عدوى جرح الحرق هو القاتل الأول خلال الأسابيع التالية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بعد اجتياز أزمة السوائل الأولى، يصبح الإنتان الناتج عن عدوى جرح الحرق هو القاتل الأول خلال الأسابيع التالية. وتذكّر القاعدة: \"Early death = fluid loss, Late death = Sepsis\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. بعد اجتياز أزمة السوائل الأولى، يصبح الإنتان الناتج عن عدوى جرح الحرق هو القاتل الأول خلال الأسابيع التالية. وتذكّر: \"Early death = fluid loss, Late death = Sepsis\". والإجابة الصحيحة هي A."
     }
   ]
 }

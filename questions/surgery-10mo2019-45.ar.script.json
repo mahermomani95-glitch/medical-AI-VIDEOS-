@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Neurogenic shock"
       },
-      "narration": "لنبدأ بهذا السؤال. نُقل سائق يبلغ من العمر 28 عامًا إلى قسم الطوارئ بعد حادث مروري. أُصيب بإصابة معزولة في ظهره، ويعاني من عجز حركي وحسي في كلاالطرفين السفليين. نبضه 40/دقيقة، وضغط دمه 80/40 ملم زئبق. التشخيصالأكثر احتمالًا هو: أمامك هذه الخيارات: Hypovolemic shock، أو Anaphylactic shock، أو Septic shock، أو Neurogenic shock، أو Cardiogenic shock. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. نُقل سائق يبلغ من العمر 28 عامًا إلى قسم الطوارئ بعد حادث مروري. أُصيب بإصابة معزولة في ظهره، ويعاني من عجز حركي وحسي في كلاالطرفين السفليين. نبضه 40/دقيقة، وضغط دمه 80/40 ملم زئبق. التشخيصالأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypovolemic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site redness — anaphylactic shock is actually the correct diagnosis being confirmed here, distinguishing it from these other shock types. الخيار B، Anaphylactic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site redness — anaphylactic shock is actually the correct diagnosis being confirmed here, distinguishing it from these other shock types. الخيار C، Septic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site redness — anaphylactic shock is actually the correct diagnosis being confirmed here, distinguishing it from these other shock types. الخيار E، Cardiogenic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Neurogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and cardiogenic shock don't match the rapid onset directly tied to starting new IV medications with local site redness — anaphylactic shock is actually the correct diagnosis being confirmed here, distinguishing it from these other shock types.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hypovolemic shock: الإجابة الصحيحة هي Neurogenic shock. الخيار B، Anaphylactic shock: الإجابة الصحيحة هي Neurogenic shock. الخيار C، Septic shock: الإجابة الصحيحة هي Neurogenic shock. الخيار E، Cardiogenic shock: الإجابة الصحيحة هي Neurogenic shock. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Neurogenic shock = Bradycardia + Hypotension "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Neurogenic shock. بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب."
+      "narration": "الخيار D، Neurogenic shock هو الإجابة الصحيحة. بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب. وتذكّر القاعدة: \"Neurogenic shock = Bradycardia + Hypotension (opposite of hypovolemic)\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. بطء القلب مع هبوط الضغط بعد رضح نخاعي يشير لفقدان التوتر الودي — صدمة عصبية المنشأ، تختلف عن الصدمة نقص الحجمية التي تسبب تسرع قلب. وتذكّر: \"Neurogenic shock = Bradycardia + Hypotension (opposite of hypovolemic)\". والإجابة الصحيحة هي D."
     }
   ]
 }

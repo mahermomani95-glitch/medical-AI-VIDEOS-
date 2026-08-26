@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Unilaterally dull on percussion"
       },
-      "narration": "لنبدأ بهذا السؤال. تتضمن النتائج التي تم التوصل إليها من خلال فحص الرئة لاسترواح الصدرالتوتري كل ما يلي باستثناء أمامك هذه الخيارات: Tachypnea، أو Asymmetric lung expansion، أو Unilaterally decreased/absent lung sounds common، أو Unilaterally dull on percussion، أو Decreased tactile fremitus. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تتضمن النتائج التي تم التوصل إليها من خلال فحص الرئة لاسترواح الصدرالتوتري كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tachypnea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion. الخيار B، Asymmetric lung expansion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion. الخيار C، Unilaterally decreased/absent lung sounds common: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion. الخيار E، Decreased tactile fremitus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachypnea, asymmetric lung expansion, unilaterally decreased/absent breath sounds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Unilaterally dull on percussion.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tachypnea: صحيحة، لكنها ليست الاستثناء. الخيار B، Asymmetric lung expansion: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E، Decreased tactile fremitus: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Air = hyperresonant, Fluid = dull\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Unilaterally dull on percussion. استرواح الصدر التوتري مليء بالهواء، فيكون الوجس رنينيًا مفرطًا وليس قاتمًا — القتامة تشير لسائل وليس هواء."
+      "narration": "الخيار D، Unilaterally dull on percussion هو الإجابة الصحيحة. استرواح الصدر التوتري مليء بالهواء، فيكون الوجس رنينيًا مفرطًا وليس قاتمًا — القتامة تشير لسائل وليس هواء."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استرواح الصدر التوتري مليء بالهواء، فيكون الوجس رنينيًا مفرطًا وليس قاتمًا — القتامة تشير لسائل وليس هواء. وتذكّر القاعدة: \"Air = hyperresonant, Fluid = dull\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. استرواح الصدر التوتري مليء بالهواء، فيكون الوجس رنينيًا مفرطًا وليس قاتمًا — القتامة تشير لسائل وليس هواء. وتذكّر: \"Air = hyperresonant, Fluid = dull\". والإجابة الصحيحة هي D."
     }
   ]
 }

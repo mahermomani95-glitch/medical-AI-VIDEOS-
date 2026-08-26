@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Full-thickness burns extend into deep reticular…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالحرق صحيحة باستثناء؟ (سؤال مكرر، راجع السؤال رقم 526) أمامك هذه الخيارات: Burn area's can be calculated by the rule of nines، أو Fluid resuscitation is calculated based on the burn area، أو IV fluid resuscitation is necessary for a child with 10% partial thickness burn، أو Prophylactic might be indicated in inhalation burn، أو Full-thickness burns extend into deep reticular dermis, yellow-white appearance, fairly dry texture, painful, needs 3-8 weeks for healing. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالحرق صحيحة باستثناء؟ (سؤال مكرر، راجع السؤال رقم 526) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Burn area's can be calculated by the rule of nines: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Rule of Nines calculation, fluid resuscitation based on burn area, IV fluids needed for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Full-thickness burns extend into deep reticular dermis, yellow-white appearance, fairly dry texture, painful, needs 3-8 weeks for healing. الخيار B، Fluid resuscitation is calculated based on the burn area: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Rule of Nines calculation, fluid resuscitation based on burn area, IV fluids needed for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Full-thickness burns extend into deep reticular dermis, yellow-white appearance, fairly dry texture, painful, needs 3-8 weeks for healing. الخيار C، IV fluid resuscitation is necessary for a child with 10% partial thickness burn: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Rule of Nines calculation, fluid resuscitation based on burn area, IV fluids needed for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Full-thickness burns extend into deep reticular dermis, yellow-white appearance, fairly dry texture, painful, needs 3-8 weeks for healing. الخيار D، Prophylactic might be indicated in inhalation burn: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Rule of Nines calculation, fluid resuscitation based on burn area, IV fluids needed for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Full-thickness burns extend into deep reticular dermis, yellow-white appearance, fairly dry texture, painful, needs 3-8 weeks for healing.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Full-thickness burn: Fixed distinctive appeara"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Full-thickness burns extend into deep reticular dermis, yellow-white appearance, fairly dry texture, painful, needs 3-8 weeks for healing. مظهر الحرق كامل السماكة له وصف محدد دقيق يجب مطابقته بعناية."
+      "narration": "الخيار E هو الإجابة الصحيحة. مظهر الحرق كامل السماكة له وصف محدد دقيق يجب مطابقته بعناية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مظهر الحرق كامل السماكة له وصف محدد دقيق يجب مطابقته بعناية. وتذكّر القاعدة: Full-thickness burn: Fixed distinctive appearance. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. مظهر الحرق كامل السماكة له وصف محدد دقيق يجب مطابقته بعناية. وتذكّر: Full-thickness burn: Fixed distinctive appearance. والإجابة الصحيحة هي E."
     }
   ]
 }

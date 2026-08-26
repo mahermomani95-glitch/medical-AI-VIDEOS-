@@ -45,7 +45,7 @@
         "label": "Civil registry",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الطرق الرئيسية لجمع البيانات من المجتمع هي؟ أمامك هذه الخيارات: Observation, interview, examinations، أو Observation only، أو Morbidity and mortality data، أو Civil registry، أو Health information. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الطرق الرئيسية لجمع البيانات من المجتمع هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Observation, interview, examinations: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Civil registry. يصبح صحيحًا في سؤال يصف Observation/interview/examination, observation alone, morbidity/mortality data, and health information systems are all methods of gathering community health data, but civil (vital) registration systems are considered the major, most systematic method for collecting population-level data (births, deaths, etc.). الخيار B، Observation only: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Civil registry. يصبح صحيحًا في سؤال يصف Observation/interview/examination, observation alone, morbidity/mortality data, and health information systems are all methods of gathering community health data, but civil (vital) registration systems are considered the major, most systematic method for collecting population-level data (births, deaths, etc.). الخيار C، Morbidity and mortality data: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Civil registry. يصبح صحيحًا في سؤال يصف Observation/interview/examination, observation alone, morbidity/mortality data, and health information systems are all methods of gathering community health data, but civil (vital) registration systems are considered the major, most systematic method for collecting population-level data (births, deaths, etc.). الخيار E، Health information: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Civil registry. يصبح صحيحًا في سؤال يصف Observation/interview/examination, observation alone, morbidity/mortality data, and health information systems are all methods of gathering community health data, but civil (vital) registration systems are considered the major, most systematic method for collecting population-level data (births, deaths, etc.).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Observation, interview, examinations: الإجابة الصحيحة هي Civil registry. الخيار B، Observation only: الإجابة الصحيحة هي Civil registry. الخيار C، Morbidity and mortality data: الإجابة الصحيحة هي Civil registry. الخيار E، Health information: الإجابة الصحيحة هي Civil registry. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Community data collection: mainly via Civil re"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Civil registry. السجل المدني هو الطريقة المنهجية الأساسية لجمع بيانات المجتمع الصحية."
+      "narration": "الخيار D، Civil registry هو الإجابة الصحيحة. السجل المدني هو الطريقة المنهجية الأساسية لجمع بيانات المجتمع الصحية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السجل المدني هو الطريقة المنهجية الأساسية لجمع بيانات المجتمع الصحية. وتذكّر القاعدة: Community data collection: mainly via Civil registry. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. السجل المدني هو الطريقة المنهجية الأساسية لجمع بيانات المجتمع الصحية. وتذكّر: Community data collection: mainly via Civil registry. والإجابة الصحيحة هي D."
     }
   ]
 }

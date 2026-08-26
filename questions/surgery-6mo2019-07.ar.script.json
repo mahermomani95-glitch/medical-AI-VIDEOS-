@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Pancreas"
       },
-      "narration": "لنبدأ بهذا السؤال. الناسور المعوي الجلدي الذي يستغرق وقتًا أطول للشفاء هو أمامك هذه الخيارات: Esophagus، أو Pancreas، أو Colon، أو Small Bowel، أو Stomach. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الناسور المعوي الجلدي الذي يستغرق وقتًا أطول للشفاء هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Esophagus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pancreas. يصبح صحيحًا في سؤال يصف The esophagus, colon, small bowel, and stomach can all develop lymphoma, but the stomach remains the single most common GI site overall. الخيار C، Colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pancreas. يصبح صحيحًا في سؤال يصف The esophagus, colon, small bowel, and stomach can all develop lymphoma, but the stomach remains the single most common GI site overall. الخيار D، Small Bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pancreas. يصبح صحيحًا في سؤال يصف The esophagus, colon, small bowel, and stomach can all develop lymphoma, but the stomach remains the single most common GI site overall. الخيار E، Stomach: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pancreas. يصبح صحيحًا في سؤال يصف The esophagus, colon, small bowel, and stomach can all develop lymphoma, but the stomach remains the single most common GI site overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Esophagus: الإجابة الصحيحة هي Pancreas. الخيار C، Colon: الإجابة الصحيحة هي Pancreas. الخيار D، Small Bowel: الإجابة الصحيحة هي Pancreas. الخيار E، Stomach: الإجابة الصحيحة هي Pancreas. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pancreatic fistula = enzymes keep digesting t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Pancreas. الناسور البنكرياسي يُسرّب إنزيمات هضمية تستمر بتخريب النسيج المحيط، مما يجعله بطيء الإغلاق بشكل ملحوظ."
+      "narration": "الخيار B، Pancreas هو الإجابة الصحيحة. الناسور البنكرياسي يُسرّب إنزيمات هضمية تستمر بتخريب النسيج المحيط، مما يجعله بطيء الإغلاق بشكل ملحوظ."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الناسور البنكرياسي يُسرّب إنزيمات هضمية تستمر بتخريب النسيج المحيط، مما يجعله بطيء الإغلاق بشكل ملحوظ. وتذكّر القاعدة: \"Pancreatic fistula = enzymes keep digesting the healing tissue\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الناسور البنكرياسي يُسرّب إنزيمات هضمية تستمر بتخريب النسيج المحيط، مما يجعله بطيء الإغلاق بشكل ملحوظ. وتذكّر: \"Pancreatic fistula = enzymes keep digesting the healing tissue\". والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Lung"
       },
-      "narration": "لنبدأ بهذا السؤال. أعلى تركيز للإنزيم المحول للأنجيوتنسين موجود في؟ أمامك هذه الخيارات: Liver، أو Kidney، أو Lung، أو Bone، أو Colon. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أعلى تركيز للإنزيم المحول للأنجيوتنسين موجود في؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Liver: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung. يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its role in converting angiotensin I to angiotensin II during pulmonary circulation. الخيار B، Kidney: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung. يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its role in converting angiotensin I to angiotensin II during pulmonary circulation. الخيار D، Bone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung. يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its role in converting angiotensin I to angiotensin II during pulmonary circulation. الخيار E، Colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lung. يصبح صحيحًا في سؤال يصف The liver, kidney, bone, and colon have far lower ACE concentrations than the lung, which contains the highest concentration of ACE given its role in converting angiotensin I to angiotensin II during pulmonary circulation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Liver: الإجابة الصحيحة هي Lung. الخيار B، Kidney: الإجابة الصحيحة هي Lung. الخيار D، Bone: الإجابة الصحيحة هي Lung. الخيار E، Colon: الإجابة الصحيحة هي Lung. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Highest ACE concentration: the Lung"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Lung. الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين."
+      "narration": "الخيار C، Lung هو الإجابة الصحيحة. الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين. وتذكّر القاعدة: Highest ACE concentration: the Lung. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الرئة هي الموقع الأعلى تركيزًا لإنزيم محول الأنجيوتنسين. وتذكّر: Highest ACE concentration: the Lung. والإجابة الصحيحة هي C."
     }
   ]
 }

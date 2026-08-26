@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Myoglobinuria"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل الأسباب ما بعد الكلوية للفشل الكلوي الحاد كل ما يلي باستثناء؟ (سؤال مكرر، راجع السؤال رقم 149) أمامك هذه الخيارات: Ureteral obstruction due to stones، أو Urethral obstruction due to prostatic enlargement، أو Blocked Foley catheter، أو Bladder dysfunction due to nerve injury، أو Myoglobinuria. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل الأسباب ما بعد الكلوية للفشل الكلوي الحاد كل ما يلي باستثناء؟ (سؤال مكرر، راجع السؤال رقم 149) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ureteral obstruction due to stones: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ureteral stones, urethral obstruction from prostate enlargement, a blocked catheter, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Myoglobinuria. الخيار B، Urethral obstruction due to prostatic enlargement: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ureteral stones, urethral obstruction from prostate enlargement, a blocked catheter, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Myoglobinuria. الخيار C، Blocked Foley catheter: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ureteral stones, urethral obstruction from prostate enlargement, a blocked catheter, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Myoglobinuria. الخيار D، Bladder dysfunction due to nerve injury: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ureteral stones, urethral obstruction from prostate enlargement, a blocked catheter, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Myoglobinuria.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C، Blocked Foley catheter: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Myoglobinuria: Marks intrinsic injury, not obs"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Myoglobinuria. بيلة الميوغلوبين سبب كلوي داخلي مباشر، لا انسداد ما بعد كلوي."
+      "narration": "الخيار E، Myoglobinuria هو الإجابة الصحيحة. بيلة الميوغلوبين سبب كلوي داخلي مباشر، لا انسداد ما بعد كلوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بيلة الميوغلوبين سبب كلوي داخلي مباشر، لا انسداد ما بعد كلوي. وتذكّر القاعدة: Myoglobinuria: Marks intrinsic injury, not obstruction. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. بيلة الميوغلوبين سبب كلوي داخلي مباشر، لا انسداد ما بعد كلوي. وتذكّر: Myoglobinuria: Marks intrinsic injury, not obstruction. والإجابة الصحيحة هي E."
     }
   ]
 }

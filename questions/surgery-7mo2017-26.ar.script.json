@@ -45,7 +45,7 @@
         "label": "Solar ultraviolet A",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يمكن أن ينتج سرطان الجلد عن التعرض لأحد المواد التالية؟ أمامك هذه الخيارات: Microwave، أو lonizing radiation، أو Solar ultraviolet A، أو X ray، أو Infrared rays. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يمكن أن ينتج سرطان الجلد عن التعرض لأحد المواد التالية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Microwave: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the classic causative link for skin cancer. يصبح صحيحًا في سؤال يصف Microwave, X-ray, and infrared exposure. الخيار B، lonizing radiation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Solar ultraviolet A. يصبح صحيحًا في سؤال يصف ionizing radiation is linked to some skin cancers but less classically than UV — solar ultraviolet radiation (UVA/UVB) remains the primary, best-established environmental cause of skin cancer. الخيار D، X ray: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the classic causative link for skin cancer. يصبح صحيحًا في سؤال يصف Microwave, X-ray, and infrared exposure. الخيار E، Infrared rays: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the classic causative link for skin cancer. يصبح صحيحًا في سؤال يصف Microwave, X-ray, and infrared exposure.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Microwave: لا ينطبق على هذه الحالة. الخيار B، lonizing radiation: الإجابة الصحيحة هي Solar ultraviolet A. الخيار D، X ray: لا ينطبق على هذه الحالة. الخيار E، Infrared rays: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Skin cancer: linked to UV solar exposure"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Solar ultraviolet A. الأشعة فوق البنفسجية الشمسية هي العامل البيئي الأشيع لسرطان الجلد."
+      "narration": "الخيار C، Solar ultraviolet A هو الإجابة الصحيحة. الأشعة فوق البنفسجية الشمسية هي العامل البيئي الأشيع لسرطان الجلد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأشعة فوق البنفسجية الشمسية هي العامل البيئي الأشيع لسرطان الجلد. وتذكّر القاعدة: Skin cancer: linked to UV solar exposure. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الأشعة فوق البنفسجية الشمسية هي العامل البيئي الأشيع لسرطان الجلد. وتذكّر: Skin cancer: linked to UV solar exposure. والإجابة الصحيحة هي C."
     }
   ]
 }

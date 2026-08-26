@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anal fissure"
       },
-      "narration": "لنبدأ بهذا السؤال. إن استئصال العضلة العاصرة الداخلية الجانبية هو العلاج المفضل لـ؟ أمامك هذه الخيارات: Hemorrhoids، أو Anal fissure، أو Perianal abscess، أو Perianal hematoma، أو Intrasphincteric abscess. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. إن استئصال العضلة العاصرة الداخلية الجانبية هو العلاج المفضل لـ؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hemorrhoids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anal fissure. يصبح صحيحًا في سؤال يصف Hemorrhoids, perianal abscess, perianal hematoma, and intrasphincteric abscess are managed with other specific procedures (banding/hemorrhoidectomy, drainage, evacuation) — lateral internal sphincterotomy is specifically the surgical treatment for chronic anal fissure. الخيار C، Perianal abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anal fissure. يصبح صحيحًا في سؤال يصف Hemorrhoids, perianal abscess, perianal hematoma, and intrasphincteric abscess are managed with other specific procedures (banding/hemorrhoidectomy, drainage, evacuation) — lateral internal sphincterotomy is specifically the surgical treatment for chronic anal fissure. الخيار D، Perianal hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anal fissure. يصبح صحيحًا في سؤال يصف Hemorrhoids, perianal abscess, perianal hematoma, and intrasphincteric abscess are managed with other specific procedures (banding/hemorrhoidectomy, drainage, evacuation) — lateral internal sphincterotomy is specifically the surgical treatment for chronic anal fissure. الخيار E، Intrasphincteric abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anal fissure. يصبح صحيحًا في سؤال يصف Hemorrhoids, perianal abscess, perianal hematoma, and intrasphincteric abscess are managed with other specific procedures (banding/hemorrhoidectomy, drainage, evacuation) — lateral internal sphincterotomy is specifically the surgical treatment for chronic anal fissure.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hemorrhoids: الإجابة الصحيحة هي Anal fissure. الخيار C، Perianal abscess: الإجابة الصحيحة هي Anal fissure. الخيار D، Perianal hematoma: الإجابة الصحيحة هي Anal fissure. الخيار E، Intrasphincteric abscess: الإجابة الصحيحة هي Anal fissure. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "LIS: treats the Lingering fissure"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Anal fissure. قطع العضلة العاصرة الجانبي يُخفف تشنج الشق الشرجي المزمن."
+      "narration": "الخيار B، Anal fissure هو الإجابة الصحيحة. قطع العضلة العاصرة الجانبي يُخفف تشنج الشق الشرجي المزمن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قطع العضلة العاصرة الجانبي يُخفف تشنج الشق الشرجي المزمن. وتذكّر القاعدة: LIS: treats the Lingering fissure. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. قطع العضلة العاصرة الجانبي يُخفف تشنج الشق الشرجي المزمن. وتذكّر: LIS: treats the Lingering fissure. والإجابة الصحيحة هي B."
     }
   ]
 }

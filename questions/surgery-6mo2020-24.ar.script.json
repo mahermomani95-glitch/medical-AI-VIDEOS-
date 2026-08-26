@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Clinical symptoms and signs are always diagnostic"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Abdominal ultrasound can help in the diagnosis، أو Clinical symptoms and signs are always diagnostic، أو May mimic intestinal obstruction، أو Colon cancer must be ruled out in patients older than 70 years with an abdominal mass، أو Risk of perforations is high. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Abdominal ultrasound can help in the diagnosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic. الخيار C، May mimic intestinal obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic. الخيار D، Colon cancer must be ruled out in patients older than 70 years with an abdominal mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic. الخيار E، Risk of perforations is high: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ultrasound helping in diagnosis, mimicking intestinal obstruction, ruling out colon cancer in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Clinical symptoms and signs are always diagnostic.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C، May mimic intestinal obstruction: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Elderly appendicitis = atypical, unreliable c"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Clinical symptoms and signs are always diagnostic. الأعراض والعلامات السريرية غير موثوقة بشكل ملحوظ في التهاب الزائدة عند المسنّين — الصورة غير النمطية والخافتة هي القاعدة وليست الاستثناء."
+      "narration": "الخيار B هو الإجابة الصحيحة. الأعراض والعلامات السريرية غير موثوقة بشكل ملحوظ في التهاب الزائدة عند المسنّين — الصورة غير النمطية والخافتة هي القاعدة وليست الاستثناء."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأعراض والعلامات السريرية غير موثوقة بشكل ملحوظ في التهاب الزائدة عند المسنّين — الصورة غير النمطية والخافتة هي القاعدة وليست الاستثناء. وتذكّر القاعدة: \"Elderly appendicitis = atypical, unreliable clinical picture\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الأعراض والعلامات السريرية غير موثوقة بشكل ملحوظ في التهاب الزائدة عند المسنّين — الصورة غير النمطية والخافتة هي القاعدة وليست الاستثناء. وتذكّر: \"Elderly appendicitis = atypical, unreliable clinical picture\". والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Sigmoid"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا للالتواء في منطقة القولون والمستقيم؟ أمامك هذه الخيارات: Descending colon، أو Sigmoid، أو Transverse colon، أو Rectum، أو Ascending colon. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا للالتواء في منطقة القولون والمستقيم؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Descending colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid. يصبح صحيحًا في سؤال يصف The descending colon, transverse colon, rectum, and ascending colon are less common sites — the sigmoid colon remains the most common site for colonic volvulus overall. الخيار C، Transverse colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid. يصبح صحيحًا في سؤال يصف The descending colon, transverse colon, rectum, and ascending colon are less common sites — the sigmoid colon remains the most common site for colonic volvulus overall. الخيار D، Rectum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid. يصبح صحيحًا في سؤال يصف The descending colon, transverse colon, rectum, and ascending colon are less common sites — the sigmoid colon remains the most common site for colonic volvulus overall. الخيار E، Ascending colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid. يصبح صحيحًا في سؤال يصف The descending colon, transverse colon, rectum, and ascending colon are less common sites — the sigmoid colon remains the most common site for colonic volvulus overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Descending colon: الإجابة الصحيحة هي Sigmoid. الخيار C، Transverse colon: الإجابة الصحيحة هي Sigmoid. الخيار D، Rectum: الإجابة الصحيحة هي Sigmoid. الخيار E، Ascending colon: الإجابة الصحيحة هي Sigmoid. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Colorectal volvulus: mostly Sigmoid"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Sigmoid. الالتواء السيني هو الأشيع بمنطقة القولون والمستقيم."
+      "narration": "الخيار B، Sigmoid هو الإجابة الصحيحة. الالتواء السيني هو الأشيع بمنطقة القولون والمستقيم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الالتواء السيني هو الأشيع بمنطقة القولون والمستقيم. وتذكّر القاعدة: Colorectal volvulus: mostly Sigmoid. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الالتواء السيني هو الأشيع بمنطقة القولون والمستقيم. وتذكّر: Colorectal volvulus: mostly Sigmoid. والإجابة الصحيحة هي B."
     }
   ]
 }

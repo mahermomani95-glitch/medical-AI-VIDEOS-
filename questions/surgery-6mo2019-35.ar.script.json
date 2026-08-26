@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Papillay thyroid carcinoma"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 45 عامًا، حضرت إلى عيادة الغدد الصماء مصابة بورمفي الرقبة. بالفحص السريري، وُجدت لديها عقدة درقية ملموسة بحجم حوالي2 × 3 سم. خضعت لخزعة بالإبرة الدقيقة (خزعة بالإبرة الدقيقة)، وتبين وجودخلايا ورمية مع أجسام صدفية (جسم بساموما) ونقائل لمفاوية، وهو التشخيصالأكثر احتمالًا. أمامك هذه الخيارات: Follicular throid carcinoma، أو Medullary thyroid carcinoma، أو Papillay thyroid carcinoma، أو Anaplastic throid Cancer، أو Thyroid Lymphoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 45 عامًا، حضرت إلى عيادة الغدد الصماء مصابة بورمفي الرقبة. بالفحص السريري، وُجدت لديها عقدة درقية ملموسة بحجم حوالي2 × 3 سم. خضعت لخزعة بالإبرة الدقيقة (خزعة بالإبرة الدقيقة)، وتبين وجودخلايا ورمية مع أجسام صدفية (جسم بساموما) ونقائل لمفاوية، وهو التشخيصالأكثر احتمالًا. أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Follicular throid carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillay thyroid carcinoma. يصبح صحيحًا في سؤال يصف Follicular carcinoma, medullary carcinoma, anaplastic carcinoma, and thyroid lymphoma all have different cytologic/histologic features than the psammoma bodies and lymphatic spread pattern specifically characteristic of papillary carcinoma. الخيار B، Medullary thyroid carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillay thyroid carcinoma. يصبح صحيحًا في سؤال يصف Follicular carcinoma, medullary carcinoma, anaplastic carcinoma, and thyroid lymphoma all have different cytologic/histologic features than the psammoma bodies and lymphatic spread pattern specifically characteristic of papillary carcinoma. الخيار D، Anaplastic throid Cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillay thyroid carcinoma. يصبح صحيحًا في سؤال يصف Follicular carcinoma, medullary carcinoma, anaplastic carcinoma, and thyroid lymphoma all have different cytologic/histologic features than the psammoma bodies and lymphatic spread pattern specifically characteristic of papillary carcinoma. الخيار E، Thyroid Lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillay thyroid carcinoma. يصبح صحيحًا في سؤال يصف Follicular carcinoma, medullary carcinoma, anaplastic carcinoma, and thyroid lymphoma all have different cytologic/histologic features than the psammoma bodies and lymphatic spread pattern specifically characteristic of papillary carcinoma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Follicular throid carcinoma: الإجابة الصحيحة هي Papillay thyroid carcinoma. الخيار B، Medullary thyroid carcinoma: الإجابة الصحيحة هي Papillay thyroid carcinoma. الخيار D، Anaplastic throid Cancer: الإجابة الصحيحة هي Papillay thyroid carcinoma. الخيار E، Thyroid Lymphoma: الإجابة الصحيحة هي Papillay thyroid carcinoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Psammoma bodies = Papillary\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Papillay thyroid carcinoma. أجسام السامومة (حلقات متكلسة متحدة المركز) على الخلوية هي التوقيع المجهري لسرطان الدرقية الحليمي، الذي ينتشر كلاسيكيًا عبر الأوعية اللمفاوية."
+      "narration": "الخيار C، Papillay thyroid carcinoma هو الإجابة الصحيحة. أجسام السامومة (حلقات متكلسة متحدة المركز) على الخلوية هي التوقيع المجهري لسرطان الدرقية الحليمي، الذي ينتشر كلاسيكيًا عبر الأوعية اللمفاوية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. أجسام السامومة (حلقات متكلسة متحدة المركز) على الخلوية هي التوقيع المجهري لسرطان الدرقية الحليمي، الذي ينتشر كلاسيكيًا عبر الأوعية اللمفاوية. وتذكّر القاعدة: \"Psammoma bodies = Papillary\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. أجسام السامومة (حلقات متكلسة متحدة المركز) على الخلوية هي التوقيع المجهري لسرطان الدرقية الحليمي، الذي ينتشر كلاسيكيًا عبر الأوعية اللمفاوية. وتذكّر: \"Psammoma bodies = Papillary\". والإجابة الصحيحة هي C."
     }
   ]
 }

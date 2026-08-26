@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Defined as a fracture of the distal radius with…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بكسر كوليس صحيحة باستثناء؟ أمامك هذه الخيارات: A fracture with mild angulation may require closed reduction، أو Usually produced by fall on out stretched hand، أو Defined as a fracture of the distal radius with ventral displacement، أو Occur more frequently in elderly persons as a result ofosteoporosis، أو Could be complicated by neuropathy and volkman ischemic contracture. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بكسر كوليس صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، A fracture with mild angulation may require closed reduction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Requiring closed reduction for mild angulation, the fall-on-outstretched-hand mechanism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Defined as a fracture of the distal radius with ventral displacement. الخيار B، Usually produced by fall on out stretched hand: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Requiring closed reduction for mild angulation, the fall-on-outstretched-hand mechanism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Defined as a fracture of the distal radius with ventral displacement. الخيار D، Occur more frequently in elderly persons as a result ofosteoporosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Requiring closed reduction for mild angulation, the fall-on-outstretched-hand mechanism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Defined as a fracture of the distal radius with ventral displacement. الخيار E، Could be complicated by neuropathy and volkman ischemic contracture: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Requiring closed reduction for mild angulation, the fall-on-outstretched-hand mechanism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Defined as a fracture of the distal radius with ventral displacement.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Colles fracture: Dorsal displacement, not vent"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Defined as a fracture of the distal radius with ventral displacement. كسر كوليس يُعرَّف بانزياح ظهري للكعبرة البعيدة، لا بطني."
+      "narration": "الخيار C هو الإجابة الصحيحة. كسر كوليس يُعرَّف بانزياح ظهري للكعبرة البعيدة، لا بطني."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كسر كوليس يُعرَّف بانزياح ظهري للكعبرة البعيدة، لا بطني. وتذكّر القاعدة: Colles fracture: Dorsal displacement, not ventral. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. كسر كوليس يُعرَّف بانزياح ظهري للكعبرة البعيدة، لا بطني. وتذكّر: Colles fracture: Dorsal displacement, not ventral. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Cushing syndrome"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض مدخن يبلغ من العمر 67 عامًا يعاني من نفث دم متكرر تلقائي. كشفالفحص السريري عن وجود خلل في أصابعه يُسمى \"تعجر الأصابع\". صورةصدرها الشعاعية كما هو موضح أدناه. قد تتضمن النتائج المشتركة للتشخيص الأكثر احتمالاً كل ما يلي باستثناء أمامك هذه الخيارات: Facial swelling، أو Horner's syndrome، أو Cushing syndrome، أو Hoarseness of voice، أو Atrophy of arm and hand muscles. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض مدخن يبلغ من العمر 67 عامًا يعاني من نفث دم متكرر تلقائي. كشفالفحص السريري عن وجود خلل في أصابعه يُسمى \"تعجر الأصابع\". صورةصدرها الشعاعية كما هو موضح أدناه. قد تتضمن النتائج المشتركة للتشخيص الأكثر احتمالاً كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Facial swelling: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome. الخيار B، Horner's syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome. الخيار D، Hoarseness of voice: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome. الخيار E، Atrophy of arm and hand muscles: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Facial swelling (SVC obstruction), Horner's syndrome, hoarseness (recurrent laryngeal nerve)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing syndrome.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Facial swelling: صحيحة، لكنها ليست الاستثناء. الخيار B، Horner's syndrome: صحيحة، لكنها ليست الاستثناء. الخيار D، Hoarseness of voice: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pancoast tumor: Horner's + arm atrophy + hoar"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Cushing syndrome. متلازمة كوشينغ مرتبطة بإفراز ACTH من سرطان الرئة صغير الخلايا تحديدًا — وليست موجودًا عامًا نموذجيًا لسرطان الرئة عمومًا بهذا السياق."
+      "narration": "الخيار C، Cushing syndrome هو الإجابة الصحيحة. متلازمة كوشينغ مرتبطة بإفراز ACTH من سرطان الرئة صغير الخلايا تحديدًا — وليست موجودًا عامًا نموذجيًا لسرطان الرئة عمومًا بهذا السياق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. متلازمة كوشينغ مرتبطة بإفراز ACTH من سرطان الرئة صغير الخلايا تحديدًا — وليست موجودًا عامًا نموذجيًا لسرطان الرئة عمومًا بهذا السياق. وتذكّر القاعدة: \"Pancoast tumor: Horner's + arm atrophy + hoarseness, not routinely Cushing's\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. متلازمة كوشينغ مرتبطة بإفراز ACTH من سرطان الرئة صغير الخلايا تحديدًا — وليست موجودًا عامًا نموذجيًا لسرطان الرئة عمومًا بهذا السياق. والإجابة الصحيحة هي C."
     }
   ]
 }

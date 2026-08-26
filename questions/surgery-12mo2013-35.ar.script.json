@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Pain"
       },
-      "narration": "لنبدأ بهذا السؤال. السمة الأساسية لمتلازمة الحيز هي؟ أمامك هذه الخيارات: Pain، أو Hyperthermia، أو Rubor، أو Ecchymosis، أو Limb hyperactivity. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السمة الأساسية لمتلازمة الحيز هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hyperthermia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classic compartment syndrome features — pain (especially pain out of proportion and with passive stretch) is the cardinal, defining feature. يصبح صحيحًا في سؤال يصف Hyperthermia, rubor/redness, ecchymosis, and limb hyperactivity. الخيار C، Rubor: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classic compartment syndrome features — pain (especially pain out of proportion and with passive stretch) is the cardinal, defining feature. يصبح صحيحًا في سؤال يصف Hyperthermia, rubor/redness, ecchymosis, and limb hyperactivity. الخيار D، Ecchymosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classic compartment syndrome features — pain (especially pain out of proportion and with passive stretch) is the cardinal, defining feature. يصبح صحيحًا في سؤال يصف Hyperthermia, rubor/redness, ecchymosis, and limb hyperactivity. الخيار E، Limb hyperactivity: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classic compartment syndrome features — pain (especially pain out of proportion and with passive stretch) is the cardinal, defining feature. يصبح صحيحًا في سؤال يصف Hyperthermia, rubor/redness, ecchymosis, and limb hyperactivity.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Hyperthermia: لا ينطبق على هذه الحالة. الخيار C، Rubor: لا ينطبق على هذه الحالة. الخيار D، Ecchymosis: لا ينطبق على هذه الحالة. الخيار E، Limb hyperactivity: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Compartment syndrome: Pain is the Cardinal sig"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Pain. الألم غير المتناسب هو السمة المحورية الأبكر لمتلازمة الحيز."
+      "narration": "الخيار A، Pain هو الإجابة الصحيحة. الألم غير المتناسب هو السمة المحورية الأبكر لمتلازمة الحيز."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم غير المتناسب هو السمة المحورية الأبكر لمتلازمة الحيز. وتذكّر القاعدة: Compartment syndrome: Pain is the Cardinal sign. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الألم غير المتناسب هو السمة المحورية الأبكر لمتلازمة الحيز. وتذكّر: Compartment syndrome: Pain is the Cardinal sign. والإجابة الصحيحة هي A."
     }
   ]
 }

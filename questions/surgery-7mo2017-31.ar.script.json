@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Second ring and third ring"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم إجراء عملية فتح القصبة الهوائية الروتينية، مع بعض الاستثناءات، عادةًعلى مستوى؟ أمامك هذه الخيارات: Cricoid cartilage، أو Cricothyroid membrane، أو Cricoid and first ring، أو Second ring and third ring، أو Fifth and sixth tracheal ring. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم إجراء عملية فتح القصبة الهوائية الروتينية، مع بعض الاستثناءات، عادةًعلى مستوى؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cricoid cartilage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Second ring and third ring. يصبح صحيحًا في سؤال يصف The cricoid cartilage alone, cricothyroid membrane (B, used for emergency cricothyroidotomy, not routine tracheostomy), the cricoid plus first ring, and the 5th-6th ring (E, too low) don't match the standard level — routine tracheostomy is performed at the level of the 2nd and 3rd tracheal rings. الخيار B، Cricothyroid membrane: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Second ring and third ring. يصبح صحيحًا في سؤال يصف The cricoid cartilage alone, cricothyroid membrane (B, used for emergency cricothyroidotomy, not routine tracheostomy), the cricoid plus first ring, and the 5th-6th ring (E, too low) don't match the standard level — routine tracheostomy is performed at the level of the 2nd and 3rd tracheal rings. الخيار C، Cricoid and first ring: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Second ring and third ring. يصبح صحيحًا في سؤال يصف The cricoid cartilage alone, cricothyroid membrane (B, used for emergency cricothyroidotomy, not routine tracheostomy), the cricoid plus first ring, and the 5th-6th ring (E, too low) don't match the standard level — routine tracheostomy is performed at the level of the 2nd and 3rd tracheal rings. الخيار E، Fifth and sixth tracheal ring: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Second ring and third ring. يصبح صحيحًا في سؤال يصف The cricoid cartilage alone, cricothyroid membrane (B, used for emergency cricothyroidotomy, not routine tracheostomy), the cricoid plus first ring, and the 5th-6th ring (E, too low) don't match the standard level — routine tracheostomy is performed at the level of the 2nd and 3rd tracheal rings.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Cricoid cartilage: الإجابة الصحيحة هي Second ring and third ring. الخيار B، Cricothyroid membrane: الإجابة الصحيحة هي Second ring and third ring. الخيار C، Cricoid and first ring: الإجابة الصحيحة هي Second ring and third ring. الخيار E: الإجابة الصحيحة هي Second ring and third ring. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Routine tracheostomy: between rings Two and Th"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Second ring and third ring. بضع الرغامى الروتيني يُجرى بين الحلقتين الثانية والثالثة تحديدًا."
+      "narration": "الخيار D هو الإجابة الصحيحة. بضع الرغامى الروتيني يُجرى بين الحلقتين الثانية والثالثة تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بضع الرغامى الروتيني يُجرى بين الحلقتين الثانية والثالثة تحديدًا. وتذكّر القاعدة: Routine tracheostomy: between rings Two and Three. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. بضع الرغامى الروتيني يُجرى بين الحلقتين الثانية والثالثة تحديدًا. وتذكّر: Routine tracheostomy: between rings Two and Three. والإجابة الصحيحة هي D."
     }
   ]
 }

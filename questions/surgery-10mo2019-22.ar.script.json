@@ -45,7 +45,7 @@
         "region": "head",
         "label": "They often present with a binasal hemianopia"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن أورام الغدة النخامية خاطئة؟ أمامك هذه الخيارات: In their early stages, they may cause a Frontal headache، أو They may present with galactorrhoea، أو They can cause reduced cortisol production، أو They often present with a binasal hemianopia، أو They can cause increased cortisol production. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن أورام الغدة النخامية خاطئة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، In their early stages, they may cause a Frontal headache: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Frontal headache, galactorrhea, reduced cortisol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو They often present with a binasal hemianopia. الخيار B، They may present with galactorrhoea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Frontal headache, galactorrhea, reduced cortisol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو They often present with a binasal hemianopia. الخيار C، They can cause reduced cortisol production: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Frontal headache, galactorrhea, reduced cortisol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو They often present with a binasal hemianopia. الخيار E، They can cause increased cortisol production: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Frontal headache, galactorrhea, reduced cortisol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو They often present with a binasal hemianopia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. Frontal headache, galactorrhea, reduced cortisol… الخيار B: صحيحة، لكنها ليست الاستثناء. Frontal headache, galactorrhea, reduced cortisol… الخيار C: صحيحة، لكنها ليست الاستثناء. Frontal headache, galactorrhea, reduced cortisol… الخيار E: صحيحة، لكنها ليست الاستثناء. Frontal headache, galactorrhea, reduced cortisol… والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pituitary tumor = BItemporal hemianopia\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: They often present with a binasal hemianopia. الورم الغدي النخامي المضغوط على التصالب البصري يسبب كلاسيكيًا عمى نصفي ثنائي الصدغ (وليس ثنائي الأنف) — تتأثر الحقول البصرية الجانبية الخارجية."
+      "narration": "الخيار D هو الإجابة الصحيحة. الورم الغدي النخامي المضغوط على التصالب البصري يسبب كلاسيكيًا عمى نصفي ثنائي الصدغ (وليس ثنائي الأنف) — تتأثر الحقول البصرية الجانبية الخارجية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم الغدي النخامي المضغوط على التصالب البصري يسبب كلاسيكيًا عمى نصفي ثنائي الصدغ (وليس ثنائي الأنف) — تتأثر الحقول البصرية الجانبية الخارجية. وتذكّر القاعدة: \"Pituitary tumor = BItemporal hemianopia\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الورم الغدي النخامي المضغوط على التصالب البصري يسبب كلاسيكيًا عمى نصفي ثنائي الصدغ (وليس ثنائي الأنف) — تتأثر الحقول البصرية الجانبية الخارجية. وتذكّر: \"Pituitary tumor = BItemporal hemianopia\". والإجابة الصحيحة هي D."
     }
   ]
 }

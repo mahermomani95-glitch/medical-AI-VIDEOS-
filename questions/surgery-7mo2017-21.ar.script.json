@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Surgery is the primary treatment for diverticulosis"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بداء الرتوج القولوني باستثناء؟ أمامك هذه الخيارات: Sigmoid colon is the commonest site، أو Are considered false diverticulum and it mucosa is lined by normal colonic cell، أو The affected patient may present with bleeding per rectum، أو Surgery is the primary treatment for diverticulosis، أو Low fiber diet is a risk factor for this condition. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بداء الرتوج القولوني باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Sigmoid colon is the commonest site: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sigmoid predominance, the false diverticulum nature with normal mucosal lining, presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the primary treatment for diverticulosis. الخيار B، Are considered false diverticulum and it mucosa is lined by normal colonic cell: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sigmoid predominance, the false diverticulum nature with normal mucosal lining, presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the primary treatment for diverticulosis. الخيار C، The affected patient may present with bleeding per rectum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sigmoid predominance, the false diverticulum nature with normal mucosal lining, presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the primary treatment for diverticulosis. الخيار E، Low fiber diet is a risk factor for this condition: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sigmoid predominance, the false diverticulum nature with normal mucosal lining, presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the primary treatment for diverticulosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Diverticulosis: Diet is the primary treatment,"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Surgery is the primary treatment for diverticulosis. الرتوج البسيطة تُدار غذائيًا محافظة، لا جراحيًا كعلاج أساسي."
+      "narration": "الخيار D هو الإجابة الصحيحة. الرتوج البسيطة تُدار غذائيًا محافظة، لا جراحيًا كعلاج أساسي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الرتوج البسيطة تُدار غذائيًا محافظة، لا جراحيًا كعلاج أساسي. وتذكّر القاعدة: Diverticulosis: Diet is the primary treatment, not surgery. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الرتوج البسيطة تُدار غذائيًا محافظة، لا جراحيًا كعلاج أساسي. وتذكّر: Diverticulosis: Diet is the primary treatment, not surgery. والإجابة الصحيحة هي D."
     }
   ]
 }

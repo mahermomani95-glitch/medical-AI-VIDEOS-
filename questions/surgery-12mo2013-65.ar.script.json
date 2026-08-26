@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Torsion of the testicle"
       },
-      "narration": "لنبدأ بهذا السؤال. استيقظ صبي يبلغ من العمر 15 عامًا فجأةً وهو يعاني من ألم وتورم في كيسالصفن الأيمن مصحوبًا بغثيان وقيء. أي مما يلي هو التشخيص الأنسبويمثل حالة جراحية طارئة؟ أمامك هذه الخيارات: Acute prostatitis، أو Acute epididymitis، أو Torsion of the testicle، أو Acute appendicitis، أو Orchitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. استيقظ صبي يبلغ من العمر 15 عامًا فجأةً وهو يعاني من ألم وتورم في كيسالصفن الأيمن مصحوبًا بغثيان وقيء. أي مما يلي هو التشخيص الأنسبويمثل حالة جراحية طارئة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute prostatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Torsion of the testicle. يصبح صحيحًا في سؤال يصف Acute prostatitis, epididymitis, appendicitis, and orchitis can cause various genitourinary symptoms, but sudden severe scrotal pain with tenderness in an adolescent is the classic presentation of testicular torsion, a time-critical emergency. الخيار B، Acute epididymitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Torsion of the testicle. يصبح صحيحًا في سؤال يصف Acute prostatitis, epididymitis, appendicitis, and orchitis can cause various genitourinary symptoms, but sudden severe scrotal pain with tenderness in an adolescent is the classic presentation of testicular torsion, a time-critical emergency. الخيار D، Acute appendicitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Torsion of the testicle. يصبح صحيحًا في سؤال يصف Acute prostatitis, epididymitis, appendicitis, and orchitis can cause various genitourinary symptoms, but sudden severe scrotal pain with tenderness in an adolescent is the classic presentation of testicular torsion, a time-critical emergency. الخيار E، Orchitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Torsion of the testicle. يصبح صحيحًا في سؤال يصف Acute prostatitis, epididymitis, appendicitis, and orchitis can cause various genitourinary symptoms, but sudden severe scrotal pain with tenderness in an adolescent is the classic presentation of testicular torsion, a time-critical emergency.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acute prostatitis: الإجابة الصحيحة هي Torsion of the testicle. الخيار B، Acute epididymitis: الإجابة الصحيحة هي Torsion of the testicle. الخيار D، Acute appendicitis: الإجابة الصحيحة هي Torsion of the testicle. الخيار E، Orchitis: الإجابة الصحيحة هي Torsion of the testicle. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Sudden scrotal pain: Suspect Torsion"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Torsion of the testicle. الألم الصفني المفاجئ الشديد عند مراهق يوجه لالتواء الخصية الإسعافي."
+      "narration": "الخيار C، Torsion of the testicle هو الإجابة الصحيحة. الألم الصفني المفاجئ الشديد عند مراهق يوجه لالتواء الخصية الإسعافي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم الصفني المفاجئ الشديد عند مراهق يوجه لالتواء الخصية الإسعافي. وتذكّر القاعدة: Sudden scrotal pain: Suspect Torsion. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الألم الصفني المفاجئ الشديد عند مراهق يوجه لالتواء الخصية الإسعافي. وتذكّر: Sudden scrotal pain: Suspect Torsion. والإجابة الصحيحة هي C."
     }
   ]
 }

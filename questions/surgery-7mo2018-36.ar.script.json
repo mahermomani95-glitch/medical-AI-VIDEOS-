@@ -45,7 +45,7 @@
         "region": "head",
         "label": "1 year"
       },
-      "narration": "لنبدأ بهذا السؤال. في أي عمر يوصى بإجراء عملية تثبيت الخصية جراحيًا للطفل الذي يعاني منعدم نزول الخصية من جانب واحد؟ أمامك هذه الخيارات: 4-5 years، أو 5-6 years، أو Any time prior to puberty، أو 1 year، أو Promptly upon discovery, regardless of age. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في أي عمر يوصى بإجراء عملية تثبيت الخصية جراحيًا للطفل الذي يعاني منعدم نزول الخصية من جانب واحد؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 4-5 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1 year. يصبح صحيحًا في سؤال يصف Ages 4-5 years and 5-6 years are too late compared to the recommended age of about 1 year. الخيار B، 5-6 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1 year. يصبح صحيحًا في سؤال يصف Ages 4-5 years and 5-6 years are too late compared to the recommended age of about 1 year. الخيار C، Any time prior to puberty: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1 year. يصبح صحيحًا في سؤال يصف waiting until any time before puberty risks fertility damage. الخيار E، Promptly upon discovery, regardless of age: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا need to be done immediately upon discovery in a newborn, since some spontaneous descent can still occur in the first year. يصبح صحيحًا في سؤال يصف early intervention is preferred, it.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 4-5 years: الإجابة الصحيحة هي 1 year. الخيار B، 5-6 years: الإجابة الصحيحة هي 1 year. الخيار C: الإجابة الصحيحة هي 1 year. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"1 year = the fertility window\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: 1 year. يُفضَّل تثبيت الخصية حوالي عمر السنة — مبكرًا بما يكفي لحماية الخصوبة، ومتأخرًا بما يكفي للسماح بالنزول التلقائي إن حدث."
+      "narration": "الخيار D، 1 year هو الإجابة الصحيحة. يُفضَّل تثبيت الخصية حوالي عمر السنة — مبكرًا بما يكفي لحماية الخصوبة، ومتأخرًا بما يكفي للسماح بالنزول التلقائي إن حدث."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. يُفضَّل تثبيت الخصية حوالي عمر السنة — مبكرًا بما يكفي لحماية الخصوبة، ومتأخرًا بما يكفي للسماح بالنزول التلقائي إن حدث. وتذكّر القاعدة: \"1 year = the fertility window\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. يُفضَّل تثبيت الخصية حوالي عمر السنة — مبكرًا بما يكفي لحماية الخصوبة، ومتأخرًا بما يكفي للسماح بالنزول التلقائي إن حدث. وتذكّر: \"1 year = the fertility window\". والإجابة الصحيحة هي D."
     }
   ]
 }

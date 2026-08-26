@@ -41,7 +41,7 @@
         "label": "Secretin stimulation test",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الاختبار التشخيصي الأكثر حساسية وتحديدًا لورم الغاسترينوما هو؟ أمامك هذه الخيارات: Octreotide scan، أو Fasting serum gastrin، أو Secretin stimulation test، أو Basal and stimulated gastric acid outputs. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الاختبار التشخيصي الأكثر حساسية وتحديدًا لورم الغاسترينوما هو؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Octreotide scan: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Secretin stimulation test. يصبح صحيحًا في سؤال يصف Octreotide scan helps localize but isn't the most sensitive/specific diagnostic test. الخيار B، Fasting serum gastrin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Secretin stimulation test. يصبح صحيحًا في سؤال يستهدف Fasting serum gastrin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Basal and stimulated gastric acid outputs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Secretin stimulation test. يصبح صحيحًا في سؤال يصف basal/stimulated acid outputs support but don't confirm — the secretin stimulation test, showing a paradoxical rise in gastrin, is the most sensitive and specific confirmatory test for gastrinoma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Octreotide scan: الإجابة الصحيحة هي Secretin stimulation test. الخيار B، Fasting serum gastrin: الإجابة الصحيحة هي Secretin stimulation test. الخيار E: الإجابة الصحيحة هي Secretin stimulation test. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -122,13 +122,13 @@
       "pills": [
         "Gastrinoma diagnosis: Secretin stimulation tes"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Secretin stimulation test. اختبار تحفيز السيكرتين يكشف الاستجابة الغاسترينية المتناقضة المميزة لهذا الورم."
+      "narration": "الخيار D، Secretin stimulation test هو الإجابة الصحيحة. اختبار تحفيز السيكرتين يكشف الاستجابة الغاسترينية المتناقضة المميزة لهذا الورم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اختبار تحفيز السيكرتين يكشف الاستجابة الغاسترينية المتناقضة المميزة لهذا الورم. وتذكّر القاعدة: Gastrinoma diagnosis: Secretin stimulation test. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. اختبار تحفيز السيكرتين يكشف الاستجابة الغاسترينية المتناقضة المميزة لهذا الورم. وتذكّر: Gastrinoma diagnosis: Secretin stimulation test. والإجابة الصحيحة هي D."
     }
   ]
 }

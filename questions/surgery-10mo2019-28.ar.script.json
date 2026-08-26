@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Urgent colonoscopic detortion"
       },
-      "narration": "لنبدأ بهذا السؤال. أُحضرت امرأة تبلغ من العمر 68 عامًا تعاني من إمساك مزمن، ولديها تاريخمن انتفاخ البطن السريع والإمساك. وقد عانت سابقًا من نوبات مماثلة عولجتتحفظيًا. أظهرت الأشعة السينية للبطن علامة \"حبة البن\". الخطوة التاليةالأنسب للعلاج هي تشخيص حالتها على الأرجح. أمامك هذه الخيارات: Emergency laparotomy، أو Emergency laparoscopy، أو Urgent colonoscopic detortion، أو Trial with conservative management، أو Trial with a hydrostatic enema.. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أُحضرت امرأة تبلغ من العمر 68 عامًا تعاني من إمساك مزمن، ولديها تاريخمن انتفاخ البطن السريع والإمساك. وقد عانت سابقًا من نوبات مماثلة عولجتتحفظيًا. أظهرت الأشعة السينية للبطن علامة \"حبة البن\". الخطوة التاليةالأنسب للعلاج هي تشخيص حالتها على الأرجح. أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Emergency laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion. يصبح صحيحًا في سؤال يصف Emergency laparotomy and laparoscopy are too invasive as first steps. الخيار B، Emergency laparoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion. يصبح صحيحًا في سؤال يصف Emergency laparotomy and laparoscopy are too invasive as first steps. الخيار D، Trial with conservative management: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the mechanical obstruction. يصبح صحيحًا في سؤال يصف conservative management alone. الخيار E، Trial with a hydrostatic enema.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urgent colonoscopic detortion. يصبح صحيحًا في سؤال يصف a hydrostatic (barium/water) enema is more the pediatric approach — adult intussusception typically needs surgical exploration given the likelihood of a pathologic lead point.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Emergency laparotomy: الإجابة الصحيحة هي Urgent colonoscopic detortion. الخيار B، Emergency laparoscopy: الإجابة الصحيحة هي Urgent colonoscopic detortion. الخيار D، Trial with conservative management: المطلوب هنا address the mechanical obstruction. الخيار E: الإجابة الصحيحة هي Urgent colonoscopic detortion. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Coffee bean sign = sigmoid volvulus, try colo"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Urgent colonoscopic detortion. علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول."
+      "narration": "الخيار C، Urgent colonoscopic detortion هو الإجابة الصحيحة. علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول. وتذكّر القاعدة: \"Coffee bean sign = sigmoid volvulus, try colonoscopic detorsion first\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. علامة حبة القهوة تؤكد الالتواء السيني، وفي غياب التهاب صفاق أو ثقب، يكون فك الالتواء بالتنظير هو الخط العلاجي الأول. وتذكّر: \"Coffee bean sign = sigmoid volvulus, try colonoscopic detorsion first\". والإجابة الصحيحة هي C."
     }
   ]
 }

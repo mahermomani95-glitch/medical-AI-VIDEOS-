@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Liver tissue is not able to regenerate to replace…"
       },
-      "narration": "لنبدأ بهذا السؤال. معظم حالات سرطان الكبد تكون متقدمة في وقت التشخيص بسبب كل ما يليباستثناء؟ أمامك هذه الخيارات: Symptoms usually don't appear until late in the disease، أو Liver cancer grow quickly، أو Liver tumors resemble those of other medical conditions، أو Liver cancer can't be diagnosed using a standard liver tests، أو Liver tissue is not able to regenerate to replace the damaged tissue. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. معظم حالات سرطان الكبد تكون متقدمة في وقت التشخيص بسبب كل ما يليباستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Symptoms usually don't appear until late in the disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver tissue is not able to regenerate to replace the damaged tissue. يصبح صحيحًا في سؤال يصف Symptoms not appearing until late is actually the closest description of the true reason most liver cancers present at an advanced stage. الخيار B، Liver cancer grow quickly: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver tissue is not able to regenerate to replace the damaged tissue. يصبح صحيحًا في سؤال يصف Liver cancer growing quickly, tumors resembling other conditions, inability to diagnose with standard tests, and limited liver regeneration are less central explanations — the main reason most liver cancers are advanced at diagnosis is that symptoms typically don't appear until the disease is already well advanced. الخيار C، Liver tumors resemble those of other medical conditions: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver tissue is not able to regenerate to replace the damaged tissue. يصبح صحيحًا في سؤال يصف Liver cancer growing quickly, tumors resembling other conditions, inability to diagnose with standard tests, and limited liver regeneration are less central explanations — the main reason most liver cancers are advanced at diagnosis is that symptoms typically don't appear until the disease is already well advanced. الخيار D، Liver cancer can't be diagnosed using a standard liver tests: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver tissue is not able to regenerate to replace the damaged tissue. يصبح صحيحًا في سؤال يصف Liver cancer growing quickly, tumors resembling other conditions, inability to diagnose with standard tests, and limited liver regeneration are less central explanations — the main reason most liver cancers are advanced at diagnosis is that symptoms typically don't appear until the disease is already well advanced.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B، Liver cancer grow quickly: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Liver cancer: Late diagnosis from Limited rege"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Liver tissue is not able to regenerate to replace the damaged tissue. محدودية تعويض الكبد الوظيفي تفسر التأخر التشخيصي الشائع لسرطانه."
+      "narration": "الخيار E هو الإجابة الصحيحة. محدودية تعويض الكبد الوظيفي تفسر التأخر التشخيصي الشائع لسرطانه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. محدودية تعويض الكبد الوظيفي تفسر التأخر التشخيصي الشائع لسرطانه. وتذكّر القاعدة: Liver cancer: Late diagnosis from Limited regeneration. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. محدودية تعويض الكبد الوظيفي تفسر التأخر التشخيصي الشائع لسرطانه. وتذكّر: Liver cancer: Late diagnosis from Limited regeneration. والإجابة الصحيحة هي E."
     }
   ]
 }

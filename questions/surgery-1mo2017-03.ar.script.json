@@ -45,7 +45,7 @@
         "label": "Cholesterol gallstones",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. النوع الأكثر شيوعا من حصوات المرارة هو؟ أمامك هذه الخيارات: Pigment gallstones، أو Cholesterol gallstones، أو Cystine stones، أو Calcium oxalate stones، أو Calcium phosphate stones. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. النوع الأكثر شيوعا من حصوات المرارة هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pigment gallstones: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol gallstones. يصبح صحيحًا في سؤال يصف Pigment stones, cystine stones, calcium oxalate, and calcium phosphate stones are all real stone types (cystine/oxalate/phosphate mainly in urinary tract), but cholesterol gallstones remain the most common type of gallstone overall. الخيار C، Cystine stones: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol gallstones. يصبح صحيحًا في سؤال يصف Pigment stones, cystine stones, calcium oxalate, and calcium phosphate stones are all real stone types (cystine/oxalate/phosphate mainly in urinary tract), but cholesterol gallstones remain the most common type of gallstone overall. الخيار D، Calcium oxalate stones: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol gallstones. يصبح صحيحًا في سؤال يصف Pigment stones, cystine stones, calcium oxalate, and calcium phosphate stones are all real stone types (cystine/oxalate/phosphate mainly in urinary tract), but cholesterol gallstones remain the most common type of gallstone overall. الخيار E، Calcium phosphate stones: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol gallstones. يصبح صحيحًا في سؤال يصف Pigment stones, cystine stones, calcium oxalate, and calcium phosphate stones are all real stone types (cystine/oxalate/phosphate mainly in urinary tract), but cholesterol gallstones remain the most common type of gallstone overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Pigment gallstones: الإجابة الصحيحة هي Cholesterol gallstones. الخيار C، Cystine stones: الإجابة الصحيحة هي Cholesterol gallstones. الخيار D، Calcium oxalate stones: الإجابة الصحيحة هي Cholesterol gallstones. الخيار E، Calcium phosphate stones: الإجابة الصحيحة هي Cholesterol gallstones. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Gallstones: mostly Cholesterol type"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Cholesterol gallstones. الحصى الكوليسترولية هي الأشيع بين أنواع حصى المرارة."
+      "narration": "الخيار B، Cholesterol gallstones هو الإجابة الصحيحة. الحصى الكوليسترولية هي الأشيع بين أنواع حصى المرارة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحصى الكوليسترولية هي الأشيع بين أنواع حصى المرارة. وتذكّر القاعدة: Gallstones: mostly Cholesterol type. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الحصى الكوليسترولية هي الأشيع بين أنواع حصى المرارة. وتذكّر: Gallstones: mostly Cholesterol type. والإجابة الصحيحة هي B."
     }
   ]
 }

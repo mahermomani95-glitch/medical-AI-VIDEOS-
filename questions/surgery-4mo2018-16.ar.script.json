@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Triple therapy for H pylori"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل في الخمسين من عمره يعاني من ألم في منطقة فوق المعدة لم يُخفّفهمثبطات مضخة البروتون. أجريتُ تنظيرًا علويًا، ووجدتُ كتلةً في الغشاءالمخاطي فقط. أخذتُ خزعةً ووجدتُ نسيجًا لمفيًا تكاثريًا، والعلاج المناسبالتالي هو: أمامك هذه الخيارات: Total gasterectomy، أو Partial gasterectomy، أو Chemotherapy، أو Radiotherapy، أو Triple therapy for H pylori. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل في الخمسين من عمره يعاني من ألم في منطقة فوق المعدة لم يُخفّفهمثبطات مضخة البروتون. أجريتُ تنظيرًا علويًا، ووجدتُ كتلةً في الغشاءالمخاطي فقط. أخذتُ خزعةً ووجدتُ نسيجًا لمفيًا تكاثريًا، والعلاج المناسبالتالي هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Total gasterectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early, localized gastric MALT lymphoma. يصبح صحيحًا في سؤال يصف Total or partial gastrectomy, chemotherapy, and radiotherapy are all reserved for advanced disease, cases resistant to H. pylori eradication, or non-H. pylori-related lymphoma —. الخيار B، Partial gasterectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early, localized gastric MALT lymphoma. يصبح صحيحًا في سؤال يصف Total or partial gastrectomy, chemotherapy, and radiotherapy are all reserved for advanced disease, cases resistant to H. pylori eradication, or non-H. pylori-related lymphoma —. الخيار C، Chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early, localized gastric MALT lymphoma. يصبح صحيحًا في سؤال يصف Total or partial gastrectomy, chemotherapy, and radiotherapy are all reserved for advanced disease, cases resistant to H. pylori eradication, or non-H. pylori-related lymphoma —. الخيار D، Radiotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early, localized gastric MALT lymphoma. يصبح صحيحًا في سؤال يصف Total or partial gastrectomy, chemotherapy, and radiotherapy are all reserved for advanced disease, cases resistant to H. pylori eradication, or non-H. pylori-related lymphoma —.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Total gasterectomy: لا ينطبق على هذه الحالة. الخيار B، Partial gasterectomy: لا ينطبق على هذه الحالة. الخيار C، Chemotherapy: لا ينطبق على هذه الحالة. الخيار D، Radiotherapy: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"MALT melts with H. pylori treatment\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Triple therapy for H pylori. ليمفوما المالت المعدية منخفضة الدرجة مرتبطة بجرثومة الملوية البوابية، وعلاجها الأول هو استئصال الجرثومة وليس الجراحة أو الكيماوي."
+      "narration": "الخيار E هو الإجابة الصحيحة. ليمفوما المالت المعدية منخفضة الدرجة مرتبطة بجرثومة الملوية البوابية، وعلاجها الأول هو استئصال الجرثومة وليس الجراحة أو الكيماوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ليمفوما المالت المعدية منخفضة الدرجة مرتبطة بجرثومة الملوية البوابية، وعلاجها الأول هو استئصال الجرثومة وليس الجراحة أو الكيماوي. وتذكّر القاعدة: \"MALT melts with H. pylori treatment\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. ليمفوما المالت المعدية منخفضة الدرجة مرتبطة بجرثومة الملوية البوابية، وعلاجها الأول هو استئصال الجرثومة وليس الجراحة أو الكيماوي. وتذكّر: \"MALT melts with H. pylori treatment\". والإجابة الصحيحة هي E."
     }
   ]
 }

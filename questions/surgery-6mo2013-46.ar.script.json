@@ -45,7 +45,7 @@
         "label": "Lipoma",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الورم الأكثر شيوعا في الأنسجة الرخوة هو؟ أمامك هذه الخيارات: Osteoma، أو Epithelioma، أو Lipoma، أو Rodent ulcer، أو Melanoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الورم الأكثر شيوعا في الأنسجة الرخوة هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Osteoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا soft tissue. يصبح صحيحًا في سؤال يصف Osteoma is a bone tumor. الخيار B، Epithelioma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lipoma. يصبح صحيحًا في سؤال يصف epithelioma and rodent ulcer (D, a form of basal cell carcinoma) are skin lesions. الخيار D، Rodent ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lipoma. يصبح صحيحًا في سؤال يصف epithelioma and rodent ulcer (D, a form of basal cell carcinoma) are skin lesions. الخيار E، Melanoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lipoma. يصبح صحيحًا في سؤال يصف melanoma is a skin cancer — lipoma is the most common soft tissue tumor overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Osteoma: المطلوب هنا soft tissue. الخيار B، Epithelioma: الإجابة الصحيحة هي Lipoma. الخيار D، Rodent ulcer: الإجابة الصحيحة هي Lipoma. الخيار E، Melanoma: الإجابة الصحيحة هي Lipoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Soft tissue tumor: mostly Lipoma"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Lipoma. الشحمومة هي الورم النسيجي الرخو الأشيع مطلقًا بفارق كبير."
+      "narration": "الخيار C، Lipoma هو الإجابة الصحيحة. الشحمومة هي الورم النسيجي الرخو الأشيع مطلقًا بفارق كبير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشحمومة هي الورم النسيجي الرخو الأشيع مطلقًا بفارق كبير. وتذكّر القاعدة: Soft tissue tumor: mostly Lipoma. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الشحمومة هي الورم النسيجي الرخو الأشيع مطلقًا بفارق كبير. وتذكّر: Soft tissue tumor: mostly Lipoma. والإجابة الصحيحة هي C."
     }
   ]
 }

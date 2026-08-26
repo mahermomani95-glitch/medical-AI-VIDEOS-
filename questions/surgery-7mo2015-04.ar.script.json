@@ -41,7 +41,7 @@
         "label": "Inhibition of DNA gyrase",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. آلية عمل الفلوروكينولونات هي:؟ أمامك هذه الخيارات: Inhibition of RNA polymerase، أو Inhibition of DNA gyrase، أو Inhibition of ribosomes، أو Production of oxygen radicals. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. آلية عمل الفلوروكينولونات هي:؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inhibition of RNA polymerase: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inhibition of DNA gyrase. يصبح صحيحًا في سؤال يصف Rifampin inhibits RNA polymerase, macrolides inhibit ribosomes, and radiation/some chemo agents produce oxygen radicals. الخيار C، Inhibition of ribosomes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inhibition of DNA gyrase. يصبح صحيحًا في سؤال يصف Rifampin inhibits RNA polymerase, macrolides inhibit ribosomes, and radiation/some chemo agents produce oxygen radicals. الخيار D، Production of oxygen radicals: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inhibition of DNA gyrase. يصبح صحيحًا في سؤال يصف Rifampin inhibits RNA polymerase, macrolides inhibit ribosomes, and radiation/some chemo agents produce oxygen radicals.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Inhibition of RNA polymerase: الإجابة الصحيحة هي Inhibition of DNA gyrase. الخيار C، Inhibition of ribosomes: الإجابة الصحيحة هي Inhibition of DNA gyrase. الخيار D، Production of oxygen radicals: الإجابة الصحيحة هي Inhibition of DNA gyrase. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -122,13 +122,13 @@
       "pills": [
         "Fluoroquinolones: block DNA Gyrase"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Inhibition of DNA gyrase. الفلوروكينولونات تثبط إنزيم DNA gyrase الضروري لتضاعف الجرثومة."
+      "narration": "الخيار B، Inhibition of DNA gyrase هو الإجابة الصحيحة. الفلوروكينولونات تثبط إنزيم DNA gyrase الضروري لتضاعف الجرثومة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفلوروكينولونات تثبط إنزيم DNA gyrase الضروري لتضاعف الجرثومة. وتذكّر القاعدة: Fluoroquinolones: block DNA Gyrase. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الفلوروكينولونات تثبط إنزيم DNA gyrase الضروري لتضاعف الجرثومة. وتذكّر: Fluoroquinolones: block DNA Gyrase. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Thoracic aorta just distal to left Subclavian artery"
       },
-      "narration": "لنبدأ بهذا السؤال. يحدث تضيق الأبهر عادة في؟ أمامك هذه الخيارات: Ascending thoracic aorta، أو Transverse thoracic aorta، أو Thoracic aorta just proximal to left Subclavian artery، أو Thoracic aorta just distal to left Subclavian artery، أو Descending thoracic aorta just above the diaphragm. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يحدث تضيق الأبهر عادة في؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ascending thoracic aorta: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thoracic aorta just distal to left Subclavian artery. يصبح صحيحًا في سؤال يصف The ascending aorta, transverse aortic arch, and area just proximal to the left subclavian are less common sites — coarctation of the aorta most commonly occurs just distal to the left subclavian artery, near the ligamentum arteriosum. الخيار B، Transverse thoracic aorta: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thoracic aorta just distal to left Subclavian artery. يصبح صحيحًا في سؤال يصف The ascending aorta, transverse aortic arch, and area just proximal to the left subclavian are less common sites — coarctation of the aorta most commonly occurs just distal to the left subclavian artery, near the ligamentum arteriosum. الخيار C، Thoracic aorta just proximal to left Subclavian artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thoracic aorta just distal to left Subclavian artery. يصبح صحيحًا في سؤال يصف The ascending aorta, transverse aortic arch, and area just proximal to the left subclavian are less common sites — coarctation of the aorta most commonly occurs just distal to the left subclavian artery, near the ligamentum arteriosum. الخيار E، Descending thoracic aorta just above the diaphragm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thoracic aorta just distal to left Subclavian artery. يصبح صحيحًا في سؤال يصف Thoracic aorta just distal to left subclavian artery.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Ascending thoracic aorta: لا ينطبق على هذه الحالة. الخيار B، Transverse thoracic aorta: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Coarctation: just past the Left subclavian"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Thoracic aorta just distal to left Subclavian artery. تضيق برزخ الأبهر يحدث أشيع بعد الشريان تحت الترقوة الأيسر مباشرة."
+      "narration": "الخيار D هو الإجابة الصحيحة. تضيق برزخ الأبهر يحدث أشيع بعد الشريان تحت الترقوة الأيسر مباشرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تضيق برزخ الأبهر يحدث أشيع بعد الشريان تحت الترقوة الأيسر مباشرة. وتذكّر القاعدة: Coarctation: just past the Left subclavian. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. تضيق برزخ الأبهر يحدث أشيع بعد الشريان تحت الترقوة الأيسر مباشرة. وتذكّر: Coarctation: just past the Left subclavian. والإجابة الصحيحة هي D."
     }
   ]
 }

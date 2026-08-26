@@ -45,7 +45,7 @@
         "label": "Insulinoma",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الإسهال هو السمة المميزة لجميع الحالات التالية باستثناء أمامك هذه الخيارات: Medullary thyroid cancer، أو Gastrinoma، أو Insulinoma، أو VIPoma، أو Carcinoid Tumor. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الإسهال هو السمة المميزة لجميع الحالات التالية باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Medullary thyroid cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma. الخيار B، Gastrinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma. الخيار D، VIPoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma. الخيار E، Carcinoid Tumor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Medullary thyroid cancer (via calcitonin), gastrinoma, VIPoma, and carcinoid tumor are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Insulinoma.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Medullary thyroid cancer: صحيحة، لكنها ليست الاستثناء. الخيار B، Gastrinoma: صحيحة، لكنها ليست الاستثناء. الخيار D، VIPoma: صحيحة، لكنها ليست الاستثناء. الخيار E، Carcinoid Tumor: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Insulinoma = Hypoglycemia, not diarrhea\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Insulinoma. الإنسولينوما تسبب نوبات نقص سكر الدم، وليس إسهالًا — أعراضها عصبية سكرية وليست إفرازية."
+      "narration": "الخيار C، Insulinoma هو الإجابة الصحيحة. الإنسولينوما تسبب نوبات نقص سكر الدم، وليس إسهالًا — أعراضها عصبية سكرية وليست إفرازية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإنسولينوما تسبب نوبات نقص سكر الدم، وليس إسهالًا — أعراضها عصبية سكرية وليست إفرازية. وتذكّر القاعدة: \"Insulinoma = Hypoglycemia, not diarrhea\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الإنسولينوما تسبب نوبات نقص سكر الدم، وليس إسهالًا — أعراضها عصبية سكرية وليست إفرازية. وتذكّر: \"Insulinoma = Hypoglycemia, not diarrhea\". والإجابة الصحيحة هي C."
     }
   ]
 }

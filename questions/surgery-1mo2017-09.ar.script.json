@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hamartomatous polyps"
       },
-      "narration": "لنبدأ بهذا السؤال. كلها عوامل خطر للإصابة بسرطان القولون باستثناء؟ أمامك هذه الخيارات: Hamartomatous polyps، أو Inflammatory bowel disease (IBD)، أو Familial adenomatous polyposis (FAP)، أو Smoking، أو Heavy alcohol use. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كلها عوامل خطر للإصابة بسرطان القولون باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Inflammatory bowel disease (IBD): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps. الخيار C، Familial adenomatous polyposis (FAP): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps. الخيار D، Smoking: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps. الخيار E، Heavy alcohol use: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IBD, FAP, smoking, and heavy alcohol use are all established colon cancer risk factors, unlike… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hamartomatous polyps.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Inflammatory bowel disease (IBD): صحيحة، لكنها ليست الاستثناء. الخيار C، Familial adenomatous polyposis (FAP): صحيحة، لكنها ليست الاستثناء. الخيار D، Smoking: صحيحة، لكنها ليست الاستثناء. الخيار E، Heavy alcohol use: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hamartomatous polyps: Hold lower cancer risk"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Hamartomatous polyps. البوليبات الحرمية أقل خطورة سرطانية من الغدية بشكل عام."
+      "narration": "الخيار A، Hamartomatous polyps هو الإجابة الصحيحة. البوليبات الحرمية أقل خطورة سرطانية من الغدية بشكل عام."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البوليبات الحرمية أقل خطورة سرطانية من الغدية بشكل عام. وتذكّر القاعدة: Hamartomatous polyps: Hold lower cancer risk. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. البوليبات الحرمية أقل خطورة سرطانية من الغدية بشكل عام. وتذكّر: Hamartomatous polyps: Hold lower cancer risk. والإجابة الصحيحة هي A."
     }
   ]
 }

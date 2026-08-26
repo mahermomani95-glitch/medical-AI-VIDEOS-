@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "It is associated with intestinal Malrotation and…"
       },
-      "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بفتق بوخداليك باستثناء؟ أمامك هذه الخيارات: It is type of congenital Diaphragmatic hernia، أو Newborn presents with respiratory distress at birth، أو It is more common in the left side، أو It is associated with intestinal Malrotation and obstruction، أو Can result in pulmonary hypoplasia of both lung. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بفتق بوخداليك باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is type of congenital Diaphragmatic hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a congenital diaphragmatic hernia type, presenting with respiratory distress at birth… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is associated with intestinal Malrotation and obstruction. الخيار B، Newborn presents with respiratory distress at birth: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a congenital diaphragmatic hernia type, presenting with respiratory distress at birth… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is associated with intestinal Malrotation and obstruction. الخيار C، It is more common in the left side: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a congenital diaphragmatic hernia type, presenting with respiratory distress at birth… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is associated with intestinal Malrotation and obstruction. الخيار E، Can result in pulmonary hypoplasia of both lung: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a congenital diaphragmatic hernia type, presenting with respiratory distress at birth… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is associated with intestinal Malrotation and obstruction.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Bochdalek hernia: Bypasses the malrotation lin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: It is associated with intestinal Malrotation and obstruction. فتق بوكدالك غير مرتبط تقليديًا بسوء الدوران المعوي والانسداد."
+      "narration": "الخيار D هو الإجابة الصحيحة. فتق بوكدالك غير مرتبط تقليديًا بسوء الدوران المعوي والانسداد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فتق بوكدالك غير مرتبط تقليديًا بسوء الدوران المعوي والانسداد. وتذكّر القاعدة: Bochdalek hernia: Bypasses the malrotation link. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. فتق بوكدالك غير مرتبط تقليديًا بسوء الدوران المعوي والانسداد. وتذكّر: Bochdalek hernia: Bypasses the malrotation link. والإجابة الصحيحة هي D."
     }
   ]
 }

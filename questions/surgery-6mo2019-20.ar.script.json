@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Stomach"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لسرطان الغدد الليمفاوية في الجهاز الهضمي هو أمامك هذه الخيارات: Esophagus، أو Stomach، أو Small bowel، أو Pancreas، أو Large bowel. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لسرطان الغدد الليمفاوية في الجهاز الهضمي هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Esophagus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stomach. يصبح صحيحًا في سؤال يصف The esophagus, small bowel, pancreas, and large bowel can all rarely develop lymphoma, but the stomach remains the most common GI site overall. الخيار C، Small bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stomach. يصبح صحيحًا في سؤال يصف The esophagus, small bowel, pancreas, and large bowel can all rarely develop lymphoma, but the stomach remains the most common GI site overall. الخيار D، Pancreas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stomach. يصبح صحيحًا في سؤال يصف The esophagus, small bowel, pancreas, and large bowel can all rarely develop lymphoma, but the stomach remains the most common GI site overall. الخيار E، Large bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stomach. يصبح صحيحًا في سؤال يصف The esophagus, small bowel, pancreas, and large bowel can all rarely develop lymphoma, but the stomach remains the most common GI site overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Esophagus: الإجابة الصحيحة هي Stomach. الخيار C، Small bowel: الإجابة الصحيحة هي Stomach. الخيار D، Pancreas: الإجابة الصحيحة هي Stomach. الخيار E، Large bowel: الإجابة الصحيحة هي Stomach. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"GI lymphoma = mostly Gastric (MALT)\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Stomach. المعدة هي الموقع الأشيع خارج العقد اللمفاوية لليمفوما الهضمية، وغالبًا ما ترتبط بليمفوما المالت الناتجة عن التهاب H. pylori المزمن."
+      "narration": "الخيار B، Stomach هو الإجابة الصحيحة. المعدة هي الموقع الأشيع خارج العقد اللمفاوية لليمفوما الهضمية، وغالبًا ما ترتبط بليمفوما المالت الناتجة عن التهاب H. pylori المزمن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المعدة هي الموقع الأشيع خارج العقد اللمفاوية لليمفوما الهضمية، وغالبًا ما ترتبط بليمفوما المالت الناتجة عن التهاب H. pylori المزمن. وتذكّر القاعدة: \"GI lymphoma = mostly Gastric (MALT)\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. المعدة هي الموقع الأشيع خارج العقد اللمفاوية لليمفوما الهضمية، وغالبًا ما ترتبط بليمفوما المالت الناتجة عن التهاب H. pylori المزمن. وتذكّر: \"GI lymphoma = mostly Gastric (MALT)\". والإجابة الصحيحة هي B."
     }
   ]
 }

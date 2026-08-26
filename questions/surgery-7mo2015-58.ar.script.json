@@ -41,7 +41,7 @@
         "label": "Exploratory laparotomy",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 26 عامًا، تعاني من انخفاض ضغط الدم. ضغط دمها85/40، ومعدل ضربات قلبها 120. تم تركيب أنبوب تنفس لها، ولديها بطنمنتفخ. أعطيتها لترين من محلول رينجر لاكتات وبدأت بتكوين خلايا دم حمراء. مع ذلك، لا تزال تعاني من انخفاض ضغط الدم، وهي الخطوة التالية الأفضل.؟ أمامك هذه الخيارات: Abdomen CT scan، أو Angiogram، أو FAST scan، أو Exploratory laparotomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 26 عامًا، تعاني من انخفاض ضغط الدم. ضغط دمها85/40، ومعدل ضربات قلبها 120. تم تركيب أنبوب تنفس لها، ولديها بطنمنتفخ. أعطيتها لترين من محلول رينجر لاكتات وبدأت بتكوين خلايا دم حمراء. مع ذلك، لا تزال تعاني من انخفاض ضغط الدم، وهي الخطوة التالية الأفضل.؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Abdomen CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Abdominal CT and angiogram require time this unstable patient. الخيار B، Angiogram: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Abdominal CT and angiogram require time this unstable patient. الخيار C، FAST scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا replace definitive management in an unstable trauma patient with likely ongoing hemorrhage — exploratory laparotomy is indicated given hemodynamic instability. يصبح صحيحًا في سؤال يصف FAST scan can be done quickly but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Abdomen CT scan: المطلوب هنا have. الخيار B، Angiogram: المطلوب هنا have. الخيار C، FAST scan: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -122,13 +122,13 @@
       "pills": [
         "Unstable trauma patient: Exploratory laparotom"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Exploratory laparotomy. عدم الاستقرار الدموي الشديد بعد حادث سير يستدعي بضع بطن إسعافيًا فوريًا."
+      "narration": "الخيار D، Exploratory laparotomy هو الإجابة الصحيحة. عدم الاستقرار الدموي الشديد بعد حادث سير يستدعي بضع بطن إسعافيًا فوريًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدم الاستقرار الدموي الشديد بعد حادث سير يستدعي بضع بطن إسعافيًا فوريًا. وتذكّر القاعدة: Unstable trauma patient: Exploratory laparotomy now. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. عدم الاستقرار الدموي الشديد بعد حادث سير يستدعي بضع بطن إسعافيًا فوريًا. وتذكّر: Unstable trauma patient: Exploratory laparotomy now. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hypoglycemia"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل علامات وأعراض سرطان البنكرياس الغدي كل ما يلي باستثناء أمامك هذه الخيارات: Weight loss، أو Epigastric pain، أو Hypoglycemia، أو Jaundice، أو Trousseau syndrome. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل علامات وأعراض سرطان البنكرياس الغدي كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia. الخيار B، Epigastric pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia. الخيار D، Jaundice: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia. الخيار E، Trousseau syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss, epigastric pain, jaundice, and migratory thrombophlebitis (Trousseau syndrome)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypoglycemia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Weight loss: صحيحة، لكنها ليست الاستثناء. الخيار B، Epigastric pain: صحيحة، لكنها ليست الاستثناء. الخيار D، Jaundice: صحيحة، لكنها ليست الاستثناء. الخيار E، Trousseau syndrome: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pancreatic cancer = New diabetes, not hypogly"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hypoglycemia. سرطان البنكرياس الغدي يسبب كلاسيكيًا فرط سكر الدم (سكري مستجد)، وليس نقص سكر الدم."
+      "narration": "الخيار C، Hypoglycemia هو الإجابة الصحيحة. سرطان البنكرياس الغدي يسبب كلاسيكيًا فرط سكر الدم (سكري مستجد)، وليس نقص سكر الدم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان البنكرياس الغدي يسبب كلاسيكيًا فرط سكر الدم (سكري مستجد)، وليس نقص سكر الدم. وتذكّر القاعدة: \"Pancreatic cancer = New diabetes, not hypoglycemia\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. سرطان البنكرياس الغدي يسبب كلاسيكيًا فرط سكر الدم (سكري مستجد)، وليس نقص سكر الدم. وتذكّر: \"Pancreatic cancer = New diabetes, not hypoglycemia\". والإجابة الصحيحة هي C."
     }
   ]
 }

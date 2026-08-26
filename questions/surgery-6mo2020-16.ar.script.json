@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Starting warfarin at the day of surgery"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Starting warfarin at the day of surgery، أو Prophylactic heparin، أو Early ambulation، أو Adequate hydration، أو Intermittent pneumatic compression. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Prophylactic heparin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Starting warfarin at the day of surgery. الخيار C، Early ambulation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Starting warfarin at the day of surgery. الخيار D، Adequate hydration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Starting warfarin at the day of surgery. الخيار E، Intermittent pneumatic compression: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Prophylactic heparin, early ambulation, adequate hydration, and intermittent pneumatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Starting warfarin at the day of surgery.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Prophylactic heparin: صحيحة، لكنها ليست الاستثناء. الخيار C، Early ambulation: صحيحة، لكنها ليست الاستثناء. الخيار D، Adequate hydration: صحيحة، لكنها ليست الاستثناء. الخيار E، Intermittent pneumatic compression: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Warfarin alone on day of surgery = too slow t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Starting warfarin at the day of surgery. الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة."
+      "narration": "الخيار A هو الإجابة الصحيحة. الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة. وتذكّر القاعدة: \"Warfarin alone on day of surgery = too slow to prevent early DVT\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الوارفارين يحتاج أيامًا للوصول لتأثير علاجي فعّال ولا يوفر حماية فورية — بدؤه وحده يوم الجراحة لا يقلل بشكل معنوي خطر تجلط الأوردة العميقة المبكر بعد الجراحة. والإجابة الصحيحة هي A."
     }
   ]
 }

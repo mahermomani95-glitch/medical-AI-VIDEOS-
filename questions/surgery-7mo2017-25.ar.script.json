@@ -45,7 +45,7 @@
         "label": "Chills, fever and flank pain",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم تشخيص التهاب الحويضة والكلية الحاد بشكل أفضل من خلال؟ أمامك هذه الخيارات: Vesicoureteral reflux، أو Bacteriuria and pyuria، أو Delayed renal function، أو Focal scar in renal cortex، أو Chills, fever and flank pain. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم تشخيص التهاب الحويضة والكلية الحاد بشكل أفضل من خلال؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Vesicoureteral reflux: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chills, fever and flank pain. يصبح صحيحًا في سؤال يصف Vesicoureteral reflux, bacteriuria/pyuria, delayed renal function, and cortical scarring are all associated findings or complications, but the clinical diagnosis of acute pyelonephritis is best made based on the classic triad of chills, fever, and flank pain, supported by labs. الخيار B، Bacteriuria and pyuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chills, fever and flank pain. يصبح صحيحًا في سؤال يصف Vesicoureteral reflux, bacteriuria/pyuria, delayed renal function, and cortical scarring are all associated findings or complications, but the clinical diagnosis of acute pyelonephritis is best made based on the classic triad of chills, fever, and flank pain, supported by labs. الخيار C، Delayed renal function: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chills, fever and flank pain. يصبح صحيحًا في سؤال يصف Vesicoureteral reflux, bacteriuria/pyuria, delayed renal function, and cortical scarring are all associated findings or complications, but the clinical diagnosis of acute pyelonephritis is best made based on the classic triad of chills, fever, and flank pain, supported by labs. الخيار D، Focal scar in renal cortex: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chills, fever and flank pain. يصبح صحيحًا في سؤال يصف Vesicoureteral reflux, bacteriuria/pyuria, delayed renal function, and cortical scarring are all associated findings or complications, but the clinical diagnosis of acute pyelonephritis is best made based on the classic triad of chills, fever, and flank pain, supported by labs.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Vesicoureteral reflux: الإجابة الصحيحة هي Chills, fever and flank pain. الخيار B، Bacteriuria and pyuria: الإجابة الصحيحة هي Chills, fever and flank pain. الخيار C، Delayed renal function: الإجابة الصحيحة هي Chills, fever and flank pain. الخيار D: الإجابة الصحيحة هي Chills, fever and flank pain. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Pyelonephritis: Chills, Fever, Flank pain tria"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Chills, fever and flank pain. ثلاثية القشعريرة والحمى وألم الخاصرة هي الأساس السريري لهذا التشخيص."
+      "narration": "الخيار E هو الإجابة الصحيحة. ثلاثية القشعريرة والحمى وألم الخاصرة هي الأساس السريري لهذا التشخيص."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ثلاثية القشعريرة والحمى وألم الخاصرة هي الأساس السريري لهذا التشخيص. وتذكّر القاعدة: Pyelonephritis: Chills, Fever, Flank pain triad. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. ثلاثية القشعريرة والحمى وألم الخاصرة هي الأساس السريري لهذا التشخيص. وتذكّر: Pyelonephritis: Chills, Fever, Flank pain triad. والإجابة الصحيحة هي E."
     }
   ]
 }

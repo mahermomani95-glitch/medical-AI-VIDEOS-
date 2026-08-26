@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "10-20 years"
       },
-      "narration": "لنبدأ بهذا السؤال. العمر النموذجي لالتهاب الزائدة الدودية الحاد هو أمامك هذه الخيارات: 2-5 years، أو 5-10 years، أو 10-20 years، أو 35-50 years، أو 50-70 years. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العمر النموذجي لالتهاب الزائدة الدودية الحاد هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 2-5 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10-20 years. يصبح صحيحًا في سؤال يصف Ages 2-5 years, 5-10 years, 35-50 years, and 50-70 years don't match the classic 10-20 year peak age range for acute appendicitis. الخيار B، 5-10 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10-20 years. يصبح صحيحًا في سؤال يصف Ages 2-5 years, 5-10 years, 35-50 years, and 50-70 years don't match the classic 10-20 year peak age range for acute appendicitis. الخيار D، 35-50 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10-20 years. يصبح صحيحًا في سؤال يصف Ages 2-5 years, 5-10 years, 35-50 years, and 50-70 years don't match the classic 10-20 year peak age range for acute appendicitis. الخيار E، 50-70 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10-20 years. يصبح صحيحًا في سؤال يصف Ages 2-5 years, 5-10 years, 35-50 years, and 50-70 years don't match the classic 10-20 year peak age range for acute appendicitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 2-5 years: الإجابة الصحيحة هي 10-20 years. الخيار B، 5-10 years: الإجابة الصحيحة هي 10-20 years. الخيار D، 35-50 years: الإجابة الصحيحة هي 10-20 years. الخيار E، 50-70 years: الإجابة الصحيحة هي 10-20 years. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Appendicitis peaks at 10-20\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: 10-20 years. التهاب الزائدة الدودية يبلغ ذروته في العقد الثاني من العمر — المراهقين والشباب."
+      "narration": "الخيار C، 10-20 years هو الإجابة الصحيحة. التهاب الزائدة الدودية يبلغ ذروته في العقد الثاني من العمر — المراهقين والشباب."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب الزائدة الدودية يبلغ ذروته في العقد الثاني من العمر — المراهقين والشباب. وتذكّر القاعدة: \"Appendicitis peaks at 10-20\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التهاب الزائدة الدودية يبلغ ذروته في العقد الثاني من العمر — المراهقين والشباب. وتذكّر: \"Appendicitis peaks at 10-20\". والإجابة الصحيحة هي C."
     }
   ]
 }

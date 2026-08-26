@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Anaplastic thyroid carcinoma - Very good prognosis"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي يتطابق بشكل صحيح فيما يتعلق بسرطان الغدة الدرقية باستثناء أمامك هذه الخيارات: Follicular carcinoma - Hematogenous metastasis، أو Anaplastic thyroid carcinoma - Very good prognosis، أو Papillary carcinoma - Psammoma bodies، أو Papillary carcinoma - multifocal، أو Papillary carcinoma - Very good prognosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي يتطابق بشكل صحيح فيما يتعلق بسرطان الغدة الدرقية باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Follicular carcinoma - Hematogenous metastasis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis. الخيار C، Papillary carcinoma - Psammoma bodies: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis. الخيار D، Papillary carcinoma - multifocal: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follicular carcinoma's hematogenous spread, papillary carcinoma's psammoma bodies, its… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis. الخيار E، Papillary carcinoma - Very good prognosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Psammoma bodies, multifocal presentation, and very good prognosis are all true features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic thyroid carcinoma - Very good prognosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Papillary carcinoma - multifocal: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Anaplastic = Aggressive, poor prognosis\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Anaplastic thyroid carcinoma - Very good prognosis. السرطان الكشمي بالدرقية من أسوأ السرطانات إنذارًا على الإطلاق — عكس \"إنذار جيد جدًا\" تمامًا."
+      "narration": "الخيار B هو الإجابة الصحيحة. السرطان الكشمي بالدرقية من أسوأ السرطانات إنذارًا على الإطلاق — عكس \"إنذار جيد جدًا\" تمامًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطان الكشمي بالدرقية من أسوأ السرطانات إنذارًا على الإطلاق — عكس \"إنذار جيد جدًا\" تمامًا. وتذكّر القاعدة: \"Anaplastic = Aggressive, poor prognosis\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. السرطان الكشمي بالدرقية من أسوأ السرطانات إنذارًا على الإطلاق — عكس \"إنذار جيد جدًا\" تمامًا. وتذكّر: \"Anaplastic = Aggressive, poor prognosis\". والإجابة الصحيحة هي B."
     }
   ]
 }

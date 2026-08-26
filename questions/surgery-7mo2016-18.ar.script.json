@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Umbilical metastasis"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي يصف العلاقة بين عقيدة الأخت ماري جوزيف وسرطان المعدة؟ أمامك هذه الخيارات: Metastatic left axiallary lymph nodes، أو Metastatic left supraclavicular lymph node، أو Ovarian mass، أو Umbilical metastasis، أو Anterior nodule palpable on rectal exam. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي يصف العلاقة بين عقيدة الأخت ماري جوزيف وسرطان المعدة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Metastatic left axiallary lymph nodes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical metastasis. يصبح صحيحًا في سؤال يصف Metastatic axillary nodes, Virchow's node in the left supraclavicular fossa, Krukenberg tumor to the ovary, and Blumer's shelf on rectal exam are all different named signs of metastatic spread from gastric cancer, but Sister Mary Joseph nodule specifically refers to umbilical metastasis. الخيار B، Metastatic left supraclavicular lymph node: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical metastasis. يصبح صحيحًا في سؤال يصف Metastatic axillary nodes, Virchow's node in the left supraclavicular fossa, Krukenberg tumor to the ovary, and Blumer's shelf on rectal exam are all different named signs of metastatic spread from gastric cancer, but Sister Mary Joseph nodule specifically refers to umbilical metastasis. الخيار C، Ovarian mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical metastasis. يصبح صحيحًا في سؤال يصف Metastatic axillary nodes, Virchow's node in the left supraclavicular fossa, Krukenberg tumor to the ovary, and Blumer's shelf on rectal exam are all different named signs of metastatic spread from gastric cancer, but Sister Mary Joseph nodule specifically refers to umbilical metastasis. الخيار E، Anterior nodule palpable on rectal exam: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical metastasis. يصبح صحيحًا في سؤال يصف Metastatic axillary nodes, Virchow's node in the left supraclavicular fossa, Krukenberg tumor to the ovary, and Blumer's shelf on rectal exam are all different named signs of metastatic spread from gastric cancer, but Sister Mary Joseph nodule specifically refers to umbilical metastasis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Umbilical metastasis. الخيار B: الإجابة الصحيحة هي Umbilical metastasis. الخيار C، Ovarian mass: الإجابة الصحيحة هي Umbilical metastasis. الخيار E: الإجابة الصحيحة هي Umbilical metastasis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Sister Mary Joseph nodule: signals Umbilical m"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Umbilical metastasis. عقيدة سيستر ماري جوزيف انتقال حول السرة يوقّع على سرطان متقدم."
+      "narration": "الخيار D، Umbilical metastasis هو الإجابة الصحيحة. عقيدة سيستر ماري جوزيف انتقال حول السرة يوقّع على سرطان متقدم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عقيدة سيستر ماري جوزيف انتقال حول السرة يوقّع على سرطان متقدم. وتذكّر القاعدة: Sister Mary Joseph nodule: signals Umbilical metastasis. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. عقيدة سيستر ماري جوزيف انتقال حول السرة يوقّع على سرطان متقدم. وتذكّر: Sister Mary Joseph nodule: signals Umbilical metastasis. والإجابة الصحيحة هي D."
     }
   ]
 }

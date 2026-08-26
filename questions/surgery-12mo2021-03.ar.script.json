@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Acids cause more damage to deeper tissue than…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي غير صحيح فيما يخص الحروق الكيميائية؟ أمامك هذه الخيارات: Acids cause more damage to deeper tissue than alkalis، أو The onset of pain may be delayed in alkali burns، أو Water irrigation should be the first line of treatment in chemical burns، أو Admission to burn unit should be considered، أو It is commonly seen in factories and household detergents. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي غير صحيح فيما يخص الحروق الكيميائية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، The onset of pain may be delayed in alkali burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Delayed pain onset in alkali burns, water irrigation as first-line treatment, burn unit… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acids cause more damage to deeper tissue than alkalis. الخيار C، Water irrigation should be the first line of treatment in chemical burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Delayed pain onset in alkali burns, water irrigation as first-line treatment, burn unit… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acids cause more damage to deeper tissue than alkalis. الخيار D، Admission to burn unit should be considered: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Delayed pain onset in alkali burns, water irrigation as first-line treatment, burn unit… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acids cause more damage to deeper tissue than alkalis. الخيار E، It is commonly seen in factories and household detergents: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Delayed pain onset in alkali burns, water irrigation as first-line treatment, burn unit… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acids cause more damage to deeper tissue than alkalis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Alkalis penetrate DEEPER than acids (liquefac"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Acids cause more damage to deeper tissue than alkalis. القلويات تخترق فعليًا بعمق أكبر من الأحماض — القلويات تسبب نخرًا إماهيًا يستمر بإذابة النسيج، بينما الأحماض تسبب نخرًا تجلطيًا يحدّ ذاتيًا من عمق الأذية."
+      "narration": "الخيار A هو الإجابة الصحيحة. القلويات تخترق فعليًا بعمق أكبر من الأحماض — القلويات تسبب نخرًا إماهيًا يستمر بإذابة النسيج، بينما الأحماض تسبب نخرًا تجلطيًا يحدّ ذاتيًا من عمق الأذية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القلويات تخترق فعليًا بعمق أكبر من الأحماض — القلويات تسبب نخرًا إماهيًا يستمر بإذابة النسيج، بينما الأحماض تسبب نخرًا تجلطيًا يحدّ ذاتيًا من عمق الأذية. وتذكّر القاعدة: \"Alkalis penetrate DEEPER than acids (liquefactive vs coagulative necrosis)\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. القلويات تخترق فعليًا بعمق أكبر من الأحماض — القلويات تسبب نخرًا إماهيًا يستمر بإذابة النسيج، بينما الأحماض تسبب نخرًا تجلطيًا يحدّ ذاتيًا من عمق الأذية. وتذكّر: \"Alkalis penetrate DEEPER than acids (liquefactive vs coagulative necrosis)\". والإجابة الصحيحة هي A."
     }
   ]
 }

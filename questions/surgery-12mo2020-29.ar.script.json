@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Anterior duodenal ulcer tends to bleed and…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Anterior duodenal ulcer tends to bleed and posterior tends to perforate، أو Duodenal ulcer more common than gastric، أو Can cause gastric outlet obstruction، أو Multiple ulcers in uncommon areas may be associated with Zollinger Ellison syndrome. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Duodenal ulcer more common than gastric: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anterior duodenal ulcer tends to bleed and posterior tends to perforate. الخيار C، Can cause gastric outlet obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anterior duodenal ulcer tends to bleed and posterior tends to perforate. الخيار D، Multiple ulcers in uncommon areas may be associated with Zollinger Ellison syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal ulcer being more common than gastric, potential for gastric outlet obstruction, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anterior duodenal ulcer tends to bleed and posterior tends to perforate.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Posterior ulcer = Bleeds (artery behind), Ant"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Anterior duodenal ulcer tends to bleed and posterior tends to perforate. الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر)."
+      "narration": "الخيار A هو الإجابة الصحيحة. الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر). وتذكّر القاعدة: \"Posterior ulcer = Bleeds (artery behind), Anterior ulcer = Perforates (free cavity)\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الحقيقة عكسية: القرحة الاثني عشرية الخلفية تميل للنزف (تآكل الشريان المعدي الاثني عشري خلفها)، بينما الأمامية تميل للانثقاب (لا يوجد خلفها شيء صلب، تجويف بريتوني حر). والإجابة الصحيحة هي A."
     }
   ]
 }

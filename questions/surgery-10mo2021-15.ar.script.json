@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "High-riding prostate on rectal examination"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 40 عامًا صدمته سيارة وأصيب بجرح في الحوض. أي مما يلي هو الأكثر دلالة على إصابة الإحليل؟ أمامك هذه الخيارات: Hematuria، أو Scrotal ecchymosis، أو Oliguria، أو High-riding prostate on rectal examination، أو Intravenous pyelography (IVP) showing dye extravasation in the. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 40 عامًا صدمته سيارة وأصيب بجرح في الحوض. أي مما يلي هو الأكثر دلالة على إصابة الإحليل؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hematuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High-riding prostate on rectal examination. يصبح صحيحًا في سؤال يصف Hematuria, scrotal ecchymosis, and oliguria can accompany pelvic/urethral trauma but are less specific. الخيار B، Scrotal ecchymosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High-riding prostate on rectal examination. يصبح صحيحًا في سؤال يصف Hematuria, scrotal ecchymosis, and oliguria can accompany pelvic/urethral trauma but are less specific. الخيار C، Oliguria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High-riding prostate on rectal examination. يصبح صحيحًا في سؤال يصف Hematuria, scrotal ecchymosis, and oliguria can accompany pelvic/urethral trauma but are less specific. الخيار E، Intravenous pyelography (IVP) showing dye extravasation in the: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High-riding prostate on rectal examination. يصبح صحيحًا في سؤال يصف IVP extravasation findings can suggest injury but a high-riding prostate remains the single most specific and direct sign of urethral disruption.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hematuria: الإجابة الصحيحة هي High-riding prostate on rectal examination. الخيار B، Scrotal ecchymosis: الإجابة الصحيحة هي High-riding prostate on rectal examination. الخيار C، Oliguria: الإجابة الصحيحة هي High-riding prostate on rectal examination. الخيار E: الإجابة الصحيحة هي High-riding prostate on rectal examination. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"High-riding prostate = Urethral disruption si"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: High-riding prostate on rectal examination. ارتفاع موقع البروستاتا عند الفحص الشرجي هو العلامة الكلاسيكية الأكثر نوعية لانقطاع الإحليل بعد رضح حوضي."
+      "narration": "الخيار D هو الإجابة الصحيحة. ارتفاع موقع البروستاتا عند الفحص الشرجي هو العلامة الكلاسيكية الأكثر نوعية لانقطاع الإحليل بعد رضح حوضي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع موقع البروستاتا عند الفحص الشرجي هو العلامة الكلاسيكية الأكثر نوعية لانقطاع الإحليل بعد رضح حوضي. وتذكّر القاعدة: \"High-riding prostate = Urethral disruption signature\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ارتفاع موقع البروستاتا عند الفحص الشرجي هو العلامة الكلاسيكية الأكثر نوعية لانقطاع الإحليل بعد رضح حوضي. وتذكّر: \"High-riding prostate = Urethral disruption signature\". والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Serum amylase"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو جزء من معايير رانسون التشخيصية باستثناء؟ أمامك هذه الخيارات: Age، أو Blood sugar، أو Serum amylase، أو White cell count، أو LDH. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو جزء من معايير رانسون التشخيصية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Age: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase. الخيار B، Blood sugar: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase. الخيار D، White cell count: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase. الخيار E، LDH: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age, blood sugar, white cell count, and LDH are all genuine Ranson criteria, unlike serum… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Serum amylase.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Age: صحيحة، لكنها ليست الاستثناء. الخيار B، Blood sugar: صحيحة، لكنها ليست الاستثناء. الخيار D، White cell count: صحيحة، لكنها ليست الاستثناء. الخيار E، LDH: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Ranson criteria: doesn't include Amylase"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Serum amylase. الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة."
+      "narration": "الخيار C، Serum amylase هو الإجابة الصحيحة. الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة. وتذكّر القاعدة: Ranson criteria: doesn't include Amylase. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الأميلاز المصلي ليس ضمن معايير رانسون رغم أهميته التشخيصية العامة. وتذكّر: Ranson criteria: doesn't include Amylase. والإجابة الصحيحة هي C."
     }
   ]
 }

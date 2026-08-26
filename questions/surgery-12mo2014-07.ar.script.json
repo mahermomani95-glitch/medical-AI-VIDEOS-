@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Intraductal papilloma"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعاً لإفرازات الحلمة الدموية هو؟ (سؤال مكرر، راجع السؤال رقم 155) أمامك هذه الخيارات: Breast cancer، أو Duct ectasia، أو Intraductal papilloma، أو Sclerosingadenosis، أو Fibroadenoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعاً لإفرازات الحلمة الدموية هو؟ (سؤال مكرر، راجع السؤال رقم 155) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal papilloma. يصبح صحيحًا في سؤال يصف Breast cancer, duct ectasia, sclerosing adenosis, and fibroadenoma can all cause nipple discharge in some cases, but intraductal papilloma remains the most common overall cause of bloody nipple discharge. الخيار B، Duct ectasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal papilloma. يصبح صحيحًا في سؤال يصف Breast cancer, duct ectasia, sclerosing adenosis, and fibroadenoma can all cause nipple discharge in some cases, but intraductal papilloma remains the most common overall cause of bloody nipple discharge. الخيار D، Sclerosingadenosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal papilloma. يصبح صحيحًا في سؤال يصف Breast cancer, duct ectasia, sclerosing adenosis, and fibroadenoma can all cause nipple discharge in some cases, but intraductal papilloma remains the most common overall cause of bloody nipple discharge. الخيار E، Fibroadenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal papilloma. يصبح صحيحًا في سؤال يصف Breast cancer, duct ectasia, sclerosing adenosis, and fibroadenoma can all cause nipple discharge in some cases, but intraductal papilloma remains the most common overall cause of bloody nipple discharge.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Breast cancer: الإجابة الصحيحة هي Intraductal papilloma. الخيار B، Duct ectasia: الإجابة الصحيحة هي Intraductal papilloma. الخيار D، Sclerosingadenosis: الإجابة الصحيحة هي Intraductal papilloma. الخيار E، Fibroadenoma: الإجابة الصحيحة هي Intraductal papilloma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Bloody nipple discharge: mostly Intraductal pa"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Intraductal papilloma. الورم الحليمي داخل القناة هو السبب الأشيع لنزف الحلمة."
+      "narration": "الخيار C، Intraductal papilloma هو الإجابة الصحيحة. الورم الحليمي داخل القناة هو السبب الأشيع لنزف الحلمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم الحليمي داخل القناة هو السبب الأشيع لنزف الحلمة. وتذكّر القاعدة: Bloody nipple discharge: mostly Intraductal papilloma. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الورم الحليمي داخل القناة هو السبب الأشيع لنزف الحلمة. وتذكّر: Bloody nipple discharge: mostly Intraductal papilloma. والإجابة الصحيحة هي C."
     }
   ]
 }

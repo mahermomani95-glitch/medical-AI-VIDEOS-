@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Gastroduodenitis"
       },
-      "narration": "لنبدأ بهذا السؤال. أسباب آلام البطن المهددة للحياة. جميعها صحيحة باستثناء: أمامك هذه الخيارات: Perforation، أو Gastroduodenitis، أو Acute pancreatitis، أو Ruptured ectopic pregnancy، أو Referred pain ( MI, aortic dissection). لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أسباب آلام البطن المهددة للحياة. جميعها صحيحة باستثناء: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Perforation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis. الخيار C، Acute pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis. الخيار D، Ruptured ectopic pregnancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis. الخيار E، Referred pain ( MI, aortic dissection): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Perforation, acute pancreatitis, ruptured ectopic pregnancy, and referred pain from MI or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastroduodenitis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Perforation: صحيحة، لكنها ليست الاستثناء. الخيار C، Acute pancreatitis: صحيحة، لكنها ليست الاستثناء. الخيار D، Ruptured ectopic pregnancy: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Gastroduodenitis = uncomfortable, not deadly\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Gastroduodenitis. التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة."
+      "narration": "الخيار B، Gastroduodenitis هو الإجابة الصحيحة. التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة. وتذكّر القاعدة: \"Gastroduodenitis = uncomfortable, not deadly\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. التهاب المعدة والاثني عشر مزعج لكنه ليس مهددًا للحياة فورًا — بعكس الطوارئ الجراحية والوعائية الحقيقية المذكورة. وتذكّر: \"Gastroduodenitis = uncomfortable, not deadly\". والإجابة الصحيحة هي B."
     }
   ]
 }

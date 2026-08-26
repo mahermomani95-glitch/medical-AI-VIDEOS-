@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Malignancy found in 15% of the cases"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالتهاب الغدة الدرقية الليمفاوي المزمن(هاشيموتو) باستثناء؟ أمامك هذه الخيارات: It is the most common inflammatory thyroid disorder، أو Leading cause of hypothyroidism، أو Autoimmune، أو Malignancy found in 15% of the cases، أو Age of presentation is 30-50 years. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالتهاب الغدة الدرقية الليمفاوي المزمن(هاشيموتو) باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is the most common inflammatory thyroid disorder: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common inflammatory thyroid disorder, the leading cause of hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Malignancy found in 15% of the cases. الخيار B، Leading cause of hypothyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common inflammatory thyroid disorder, the leading cause of hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Malignancy found in 15% of the cases. الخيار C، Autoimmune: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common inflammatory thyroid disorder, the leading cause of hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Malignancy found in 15% of the cases. الخيار E، Age of presentation is 30-50 years: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common inflammatory thyroid disorder, the leading cause of hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Malignancy found in 15% of the cases.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B، Leading cause of hypothyroidism: صحيحة، لكنها ليست الاستثناء. الخيار C، Autoimmune: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hashimoto malignancy: Much lower than 15 perce"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Malignancy found in 15% of the cases. نسبة الخباثة الحقيقية بهاشيموتو أقل بكثير من 15٪ المبالغ بها."
+      "narration": "الخيار D هو الإجابة الصحيحة. نسبة الخباثة الحقيقية بهاشيموتو أقل بكثير من 15٪ المبالغ بها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نسبة الخباثة الحقيقية بهاشيموتو أقل بكثير من 15٪ المبالغ بها. وتذكّر القاعدة: Hashimoto malignancy: Much lower than 15 percent. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. نسبة الخباثة الحقيقية بهاشيموتو أقل بكثير من 15٪ المبالغ بها. وتذكّر: Hashimoto malignancy: Much lower than 15 percent. والإجابة الصحيحة هي D."
     }
   ]
 }

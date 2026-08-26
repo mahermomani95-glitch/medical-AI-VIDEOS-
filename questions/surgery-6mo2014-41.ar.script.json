@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Urine retention"
       },
-      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا بعد استئصال البواسير هي؟ أمامك هذه الخيارات: Bleeding، أو Urine retention، أو Anal stenosis، أو Incontinence، أو Infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا بعد استئصال البواسير هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bleeding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention. يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain, anesthesia, and pelvic floor spasm) is actually the most common early complication. الخيار C، Anal stenosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention. يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain, anesthesia, and pelvic floor spasm) is actually the most common early complication. الخيار D، Incontinence: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention. يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain, anesthesia, and pelvic floor spasm) is actually the most common early complication. الخيار E، Infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine retention. يصبح صحيحًا في سؤال يصف Bleeding, anal stenosis, incontinence, and infection are all recognized complications of hemorrhoidectomy, but urinary retention (from pain, anesthesia, and pelvic floor spasm) is actually the most common early complication.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Bleeding: الإجابة الصحيحة هي Urine retention. الخيار C، Anal stenosis: الإجابة الصحيحة هي Urine retention. الخيار D، Incontinence: الإجابة الصحيحة هي Urine retention. الخيار E، Infection: الإجابة الصحيحة هي Urine retention. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Post-hemorrhoidectomy: mostly Urinary retentio"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Urine retention. احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير."
+      "narration": "الخيار B، Urine retention هو الإجابة الصحيحة. احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير. وتذكّر القاعدة: Post-hemorrhoidectomy: mostly Urinary retention. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. احتباس البول هو المضاعفة الأشيع بعد استئصال البواسير. وتذكّر: Post-hemorrhoidectomy: mostly Urinary retention. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Chronic duodenal ulcer"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لنزيف الجهاز الهضمي العلوي هو؟ أمامك هذه الخيارات: Chronic gastric ulcer، أو Mallory Weiss syndrome، أو Chronic duodenal ulcer، أو Gastric cancer، أو Varicose veins of esophagus. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لنزيف الجهاز الهضمي العلوي هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Chronic gastric ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chronic duodenal ulcer. يصبح صحيحًا في سؤال يصف Chronic gastric ulcer, Mallory-Weiss syndrome, gastric cancer, and esophageal varices are all recognized causes of upper GI bleeding, but duodenal ulcer remains the single most common cause overall. الخيار B، Mallory Weiss syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chronic duodenal ulcer. يصبح صحيحًا في سؤال يصف Chronic gastric ulcer, Mallory-Weiss syndrome, gastric cancer, and esophageal varices are all recognized causes of upper GI bleeding, but duodenal ulcer remains the single most common cause overall. الخيار D، Gastric cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chronic duodenal ulcer. يصبح صحيحًا في سؤال يصف Chronic gastric ulcer, Mallory-Weiss syndrome, gastric cancer, and esophageal varices are all recognized causes of upper GI bleeding, but duodenal ulcer remains the single most common cause overall. الخيار E، Varicose veins of esophagus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chronic duodenal ulcer. يصبح صحيحًا في سؤال يصف Chronic gastric ulcer, Mallory-Weiss syndrome, gastric cancer, and esophageal varices are all recognized causes of upper GI bleeding, but duodenal ulcer remains the single most common cause overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Chronic gastric ulcer: الإجابة الصحيحة هي Chronic duodenal ulcer. الخيار B، Mallory Weiss syndrome: الإجابة الصحيحة هي Chronic duodenal ulcer. الخيار D، Gastric cancer: الإجابة الصحيحة هي Chronic duodenal ulcer. الخيار E، Varicose veins of esophagus: الإجابة الصحيحة هي Chronic duodenal ulcer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Upper GI bleeding: mostly Duodenal ulcer"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Chronic duodenal ulcer. قرحة الاثني عشر المزمنة هي السبب الأشيع للنزف الهضمي العلوي."
+      "narration": "الخيار C، Chronic duodenal ulcer هو الإجابة الصحيحة. قرحة الاثني عشر المزمنة هي السبب الأشيع للنزف الهضمي العلوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قرحة الاثني عشر المزمنة هي السبب الأشيع للنزف الهضمي العلوي. وتذكّر القاعدة: Upper GI bleeding: mostly Duodenal ulcer. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. قرحة الاثني عشر المزمنة هي السبب الأشيع للنزف الهضمي العلوي. وتذكّر: Upper GI bleeding: mostly Duodenal ulcer. والإجابة الصحيحة هي C."
     }
   ]
 }

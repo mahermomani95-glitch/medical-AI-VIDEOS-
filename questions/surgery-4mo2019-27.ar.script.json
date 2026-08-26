@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Intraductal carcinoma of the comedo type"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الآفات التالية هي خبيثة غير جراحية؟ أمامك هذه الخيارات: Intraductal carcinoma of the comedo type، أو Tubular carcinoma، أو Invasive ductal carcinoma، أو Mucinous carcinoma، أو Invasive lobular carcinoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الآفات التالية هي خبيثة غير جراحية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Tubular carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal carcinoma of the comedo type. يصبح صحيحًا في سؤال يستهدف Tubular carcinoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Invasive ductal carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal carcinoma of the comedo type. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma, mucinous carcinoma, and invasive lobular carcinoma are all invasive breast cancers that have crossed the basement membrane, unlike DCIS which remains confined within the duct. الخيار D، Mucinous carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal carcinoma of the comedo type. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma, mucinous carcinoma, and invasive lobular carcinoma are all invasive breast cancers that have crossed the basement membrane, unlike DCIS which remains confined within the duct. الخيار E، Invasive lobular carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal carcinoma of the comedo type. يصبح صحيحًا في سؤال يصف Invasive ductal carcinoma, mucinous carcinoma, and invasive lobular carcinoma are all invasive breast cancers that have crossed the basement membrane, unlike DCIS which remains confined within the duct.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Tubular carcinoma: الإجابة الصحيحة هي Intraductal carcinoma of the comedo type. الخيار C، Invasive ductal carcinoma: الإجابة الصحيحة هي Intraductal carcinoma of the comedo type. الخيار D، Mucinous carcinoma: الإجابة الصحيحة هي Intraductal carcinoma of the comedo type. الخيار E، Invasive lobular carcinoma: الإجابة الصحيحة هي Intraductal carcinoma of the comedo type. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"DCIS = Ductal Carcinoma In Situ = noninvasive"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Intraductal carcinoma of the comedo type. السرطان القنوي داخل الأقنية من النوع الكوميدوني يبقى محصورًا داخل القناة — غير غازٍ بالتعريف، مع نخر مركزي مميز."
+      "narration": "الخيار A هو الإجابة الصحيحة. السرطان القنوي داخل الأقنية من النوع الكوميدوني يبقى محصورًا داخل القناة — غير غازٍ بالتعريف، مع نخر مركزي مميز."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطان القنوي داخل الأقنية من النوع الكوميدوني يبقى محصورًا داخل القناة — غير غازٍ بالتعريف، مع نخر مركزي مميز. وتذكّر القاعدة: \"DCIS = Ductal Carcinoma In Situ = noninvasive\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. السرطان القنوي داخل الأقنية من النوع الكوميدوني يبقى محصورًا داخل القناة — غير غازٍ بالتعريف، مع نخر مركزي مميز. وتذكّر: \"DCIS = Ductal Carcinoma In Situ = noninvasive\". والإجابة الصحيحة هي A."
     }
   ]
 }

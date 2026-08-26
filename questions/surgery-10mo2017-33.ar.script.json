@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Bloody nipple discharge is always due to cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بسرطان الثدي، كل ما يلي صحيح باستثناء:؟ أمامك هذه الخيارات: Tumor spread to the skin means T4 on TNM classification، أو Eczema around the nipple should always be investigated، أو True-cut biopsy is more accurate than fine needle aspiration (FNA)، أو Bloody nipple discharge is always due to cancer، أو Metastases usually involve lung, liver and /or bone. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بسرطان الثدي، كل ما يلي صحيح باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tumor spread to the skin means T4 on TNM classification: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer. الخيار B، Eczema around the nipple should always be investigated: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer. الخيار C، True-cut biopsy is more accurate than fine needle aspiration (FNA): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer. الخيار E، Metastases usually involve lung, liver and /or bone: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skin involvement corresponding to T4, the need to investigate nipple eczema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bloody nipple discharge is always due to cancer.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Bloody discharge: Isn't always cancer"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Bloody nipple discharge is always due to cancer. الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا."
+      "narration": "الخيار D هو الإجابة الصحيحة. الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا. وتذكّر القاعدة: Bloody discharge: Isn't always cancer. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الإفراز الدموي ليس دومًا سرطانًا، الورم الحليمي الحميد هو السبب الأشيع فعليًا. وتذكّر: Bloody discharge: Isn't always cancer. والإجابة الصحيحة هي D."
     }
   ]
 }

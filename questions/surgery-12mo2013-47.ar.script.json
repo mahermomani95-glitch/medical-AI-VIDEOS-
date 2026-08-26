@@ -45,7 +45,7 @@
         "region": "head",
         "label": "FNAB"
       },
-      "narration": "لنبدأ بهذا السؤال. إن إجراء الفحص التشخيصي الأكثر دقة للتمييز بين عقيدات الغدة الدرقيةالحميدة والخبيثة هو؟ أمامك هذه الخيارات: Thyroid ultrasonography، أو Thyroid scintiscan، أو Thyroid hormone level، أو Neck CT scan، أو FNAB. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. إن إجراء الفحص التشخيصي الأكثر دقة للتمييز بين عقيدات الغدة الدرقيةالحميدة والخبيثة هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Thyroid ultrasonography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي FNAB. يصبح صحيحًا في سؤال يصف Thyroid ultrasonography, scintiscan, hormone levels, and CT scan all provide useful information about a nodule's characteristics or function, but FNAB provides direct cytologic sampling. الخيار B، Thyroid scintiscan: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي FNAB. يصبح صحيحًا في سؤال يصف Thyroid ultrasonography, scintiscan, hormone levels, and CT scan all provide useful information about a nodule's characteristics or function, but FNAB provides direct cytologic sampling. الخيار C، Thyroid hormone level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي FNAB. يصبح صحيحًا في سؤال يصف Thyroid ultrasonography, scintiscan, hormone levels, and CT scan all provide useful information about a nodule's characteristics or function, but FNAB provides direct cytologic sampling. الخيار D، Neck CT scan: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي FNAB. يصبح صحيحًا في سؤال يصف Thyroid ultrasonography, scintiscan, hormone levels, and CT scan all provide useful information about a nodule's characteristics or function, but FNAB provides direct cytologic sampling.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Thyroid ultrasonography: الإجابة الصحيحة هي FNAB. الخيار B، Thyroid scintiscan: الإجابة الصحيحة هي FNAB. الخيار C، Thyroid hormone level: الإجابة الصحيحة هي FNAB. الخيار D، Neck CT scan: الإجابة الصحيحة هي FNAB. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Thyroid nodule screening: FNAB is most Precise"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: FNAB. الخزعة بالإبرة الدقيقة هي الأداة الأدق للتمييز بين عقد الدرقية."
+      "narration": "الخيار E، FNAB هو الإجابة الصحيحة. الخزعة بالإبرة الدقيقة هي الأداة الأدق للتمييز بين عقد الدرقية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخزعة بالإبرة الدقيقة هي الأداة الأدق للتمييز بين عقد الدرقية. وتذكّر القاعدة: Thyroid nodule screening: FNAB is most Precise. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الخزعة بالإبرة الدقيقة هي الأداة الأدق للتمييز بين عقد الدرقية. وتذكّر: Thyroid nodule screening: FNAB is most Precise. والإجابة الصحيحة هي E."
     }
   ]
 }

@@ -41,7 +41,7 @@
         "region": "chest",
         "label": "Small cell cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. ما هو سرطان الرئة الذي من المرجح أن يرتبط بمتلازمة الورم الحليمي؟ أمامك هذه الخيارات: Small cell cancer، أو Adenocarcinoma، أو SCC، أو Large cell cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ما هو سرطان الرئة الذي من المرجح أن يرتبط بمتلازمة الورم الحليمي؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Adenocarcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Small cell cancer. يصبح صحيحًا في سؤال يصف Adenocarcinoma, squamous cell carcinoma, and large cell carcinoma are all lung cancer types, but small cell carcinoma has by far the strongest association with paraneoplastic syndromes given its neuroendocrine origin. الخيار C، SCC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Small cell cancer. يصبح صحيحًا في سؤال يصف Adenocarcinoma, squamous cell carcinoma, and large cell carcinoma are all lung cancer types, but small cell carcinoma has by far the strongest association with paraneoplastic syndromes given its neuroendocrine origin. الخيار D، Large cell cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Small cell cancer. يصبح صحيحًا في سؤال يصف Adenocarcinoma, squamous cell carcinoma, and large cell carcinoma are all lung cancer types, but small cell carcinoma has by far the strongest association with paraneoplastic syndromes given its neuroendocrine origin.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Adenocarcinoma: الإجابة الصحيحة هي Small cell cancer. الخيار C، SCC: الإجابة الصحيحة هي Small cell cancer. الخيار D، Large cell cancer: الإجابة الصحيحة هي Small cell cancer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Paraneoplastic syndrome: mostly Small cell lun"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Small cell cancer. سرطان الرئة صغير الخلايا هو الأكثر ارتباطًا بالمتلازمات الورمية المصاحبة."
+      "narration": "الخيار A، Small cell cancer هو الإجابة الصحيحة. سرطان الرئة صغير الخلايا هو الأكثر ارتباطًا بالمتلازمات الورمية المصاحبة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان الرئة صغير الخلايا هو الأكثر ارتباطًا بالمتلازمات الورمية المصاحبة. وتذكّر القاعدة: Paraneoplastic syndrome: mostly Small cell lung cancer. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. سرطان الرئة صغير الخلايا هو الأكثر ارتباطًا بالمتلازمات الورمية المصاحبة. وتذكّر: Paraneoplastic syndrome: mostly Small cell lung cancer. والإجابة الصحيحة هي A."
     }
   ]
 }

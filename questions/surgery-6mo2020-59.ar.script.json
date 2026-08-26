@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Surgery is the first-line of treatment"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Loss of weight in spite of good appetite، أو Propranolol is used to treat adrenergic hyperstimulation، أو Deposition of hyaluronic acid within the connective tissue، أو Disturbed sleep pattern، أو Surgery is the first-line of treatment. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Loss of weight in spite of good appetite: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss despite good appetite, propranolol for adrenergic symptoms, hyaluronic acid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first-line of treatment. الخيار B، Propranolol is used to treat adrenergic hyperstimulation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss despite good appetite, propranolol for adrenergic symptoms, hyaluronic acid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first-line of treatment. الخيار C، Deposition of hyaluronic acid within the connective tissue: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss despite good appetite, propranolol for adrenergic symptoms, hyaluronic acid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first-line of treatment. الخيار D، Disturbed sleep pattern: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Weight loss despite good appetite, propranolol for adrenergic symptoms, hyaluronic acid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first-line of treatment.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Disturbed sleep pattern: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Graves treatment: Medications first, not surg"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Surgery is the first-line of treatment. داء غريفز يُعالَج بالأدوية أو اليود المشع أو الجراحة — لكن الجراحة ليست الخط الأول؛ الأدوية المضادة للدرقية تأتي عادة أولًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. داء غريفز يُعالَج بالأدوية أو اليود المشع أو الجراحة — لكن الجراحة ليست الخط الأول؛ الأدوية المضادة للدرقية تأتي عادة أولًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. داء غريفز يُعالَج بالأدوية أو اليود المشع أو الجراحة — لكن الجراحة ليست الخط الأول؛ الأدوية المضادة للدرقية تأتي عادة أولًا. وتذكّر القاعدة: \"Graves treatment: Medications first, not surgery\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. داء غريفز يُعالَج بالأدوية أو اليود المشع أو الجراحة — لكن الجراحة ليست الخط الأول؛ الأدوية المضادة للدرقية تأتي عادة أولًا. وتذكّر: \"Graves treatment: Medications first, not surgery\". والإجابة الصحيحة هي E."
     }
   ]
 }

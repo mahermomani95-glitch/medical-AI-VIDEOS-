@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Weak adduction"
       },
-      "narration": "لنبدأ بهذا السؤال. أثناء إجراء استئصال جذري معدّل للثدي لمريضة مصابة بسرطان الثدي، يتمقطع العصب الصدري الظهري. بعد الجراحة، من المرجح أن تعاني هذهالمريضة من: أمامك هذه الخيارات: Weak adduction، أو Winged scapula، أو Weak abduction، أو Paralyzed diaphragm، أو Facial drop. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أثناء إجراء استئصال جذري معدّل للثدي لمريضة مصابة بسرطان الثدي، يتمقطع العصب الصدري الظهري. بعد الجراحة، من المرجح أن تعاني هذهالمريضة من: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Winged scapula: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the one caused by thoracodorsal nerve injury specifically. يصبح صحيحًا في سؤال يصف Winged scapula (B, from long thoracic nerve injury), weak abduction (C, from axillary or suprascapular nerve injury), paralyzed diaphragm (D, from phrenic nerve injury), and facial drop (E, from facial nerve injury) are all real findings from injury to different nerves, but. الخيار C، Weak abduction: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the one caused by thoracodorsal nerve injury specifically. يصبح صحيحًا في سؤال يصف Winged scapula (B, from long thoracic nerve injury), weak abduction (C, from axillary or suprascapular nerve injury), paralyzed diaphragm (D, from phrenic nerve injury), and facial drop (E, from facial nerve injury) are all real findings from injury to different nerves, but. الخيار D، Paralyzed diaphragm: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the one caused by thoracodorsal nerve injury specifically. يصبح صحيحًا في سؤال يصف Winged scapula (B, from long thoracic nerve injury), weak abduction (C, from axillary or suprascapular nerve injury), paralyzed diaphragm (D, from phrenic nerve injury), and facial drop (E, from facial nerve injury) are all real findings from injury to different nerves, but. الخيار E، Facial drop: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the one caused by thoracodorsal nerve injury specifically. يصبح صحيحًا في سؤال يصف Winged scapula (B, from long thoracic nerve injury), weak abduction (C, from axillary or suprascapular nerve injury), paralyzed diaphragm (D, from phrenic nerve injury), and facial drop (E, from facial nerve injury) are all real findings from injury to different nerves, but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Winged scapula: لا ينطبق على هذه الحالة. الخيار C، Weak abduction: لا ينطبق على هذه الحالة. الخيار D، Paralyzed diaphragm: لا ينطبق على هذه الحالة. الخيار E، Facial drop: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Thoracodorsal = lat dorsi = adduction\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Weak adduction. عند قطع العصب الظهري الصدري تضعف عضلة العريضة الظهرية، وهي المسؤولة عن تقريب الذراع."
+      "narration": "الخيار A، Weak adduction هو الإجابة الصحيحة. عند قطع العصب الظهري الصدري تضعف عضلة العريضة الظهرية، وهي المسؤولة عن تقريب الذراع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عند قطع العصب الظهري الصدري تضعف عضلة العريضة الظهرية، وهي المسؤولة عن تقريب الذراع. وتذكّر القاعدة: \"Thoracodorsal = lat dorsi = adduction\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. عند قطع العصب الظهري الصدري تضعف عضلة العريضة الظهرية، وهي المسؤولة عن تقريب الذراع. وتذكّر: \"Thoracodorsal = lat dorsi = adduction\". والإجابة الصحيحة هي A."
     }
   ]
 }

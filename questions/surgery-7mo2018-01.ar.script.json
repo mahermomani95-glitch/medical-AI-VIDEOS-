@@ -45,7 +45,7 @@
         "label": "Pandemia",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تفشي أو معدل مفرط من المرض ينتشر بسرعة على مساحة واسعة، ويتجاوزالحدود الدولية يسمى أمامك هذه الخيارات: Epidemia، أو Pandemia، أو Endemia، أو Outbreak، أو Virulence. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تفشي أو معدل مفرط من المرض ينتشر بسرعة على مساحة واسعة، ويتجاوزالحدود الدولية يسمى أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Epidemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pandemia. يصبح صحيحًا في سؤال يصف Epidemic is a sudden increase in cases within one region without crossing borders. الخيار C، Endemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pandemia. يصبح صحيحًا في سؤال يصف endemic is a steady baseline rate in one area. الخيار D، Outbreak: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pandemia. يصبح صحيحًا في سؤال يصف an outbreak is a localized cluster, smaller in scale than an epidemic. الخيار E، Virulence: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a pattern of spread. يصبح صحيحًا في سؤال يصف virulence describes a pathogen's severity.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Epidemia: الإجابة الصحيحة هي Pandemia. الخيار C، Endemia: الإجابة الصحيحة هي Pandemia. الخيار D، Outbreak: الإجابة الصحيحة هي Pandemia. الخيار E، Virulence: المطلوب هنا a pattern of spread. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Pandemic = Planet-wide\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Pandemia. عندما يتجاوز الوباء الحدود الدولية وينتشر عالميًا، يرتقي من \"وباء محلي\" إلى \"جائحة\"."
+      "narration": "الخيار B، Pandemia هو الإجابة الصحيحة. عندما يتجاوز الوباء الحدود الدولية وينتشر عالميًا، يرتقي من \"وباء محلي\" إلى \"جائحة\"."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عندما يتجاوز الوباء الحدود الدولية وينتشر عالميًا، يرتقي من \"وباء محلي\" إلى \"جائحة\". وتذكّر القاعدة: \"Pandemic = Planet-wide\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. عندما يتجاوز الوباء الحدود الدولية وينتشر عالميًا، يرتقي من \"وباء محلي\" إلى \"جائحة\". وتذكّر: \"Pandemic = Planet-wide\". والإجابة الصحيحة هي B."
     }
   ]
 }

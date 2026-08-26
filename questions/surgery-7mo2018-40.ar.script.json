@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Inguinal hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم التمييز بين الفتق الفخذي وجميع الأمراض التالية باستثناء: أمامك هذه الخيارات: Bartholin gland cyst، أو Lipoma، أو Cold abscess، أو Varicose node، أو Inguinal hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم التمييز بين الفتق الفخذي وجميع الأمراض التالية باستثناء: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Bartholin gland cyst: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bartholin's cyst, lipoma, cold abscess, and saphena varix are all non-hernial masses that may… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inguinal hernia. الخيار B، Lipoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bartholin's cyst, lipoma, cold abscess, and saphena varix are all non-hernial masses that may… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inguinal hernia. الخيار C، Cold abscess: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bartholin's cyst, lipoma, cold abscess, and saphena varix are all non-hernial masses that may… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inguinal hernia. الخيار D، Varicose node: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bartholin's cyst, lipoma, cold abscess, and saphena varix are all non-hernial masses that may… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inguinal hernia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Bartholin gland cyst: صحيحة، لكنها ليست الاستثناء. الخيار B، Lipoma: صحيحة، لكنها ليست الاستثناء. الخيار C، Cold abscess: صحيحة، لكنها ليست الاستثناء. الخيار D، Varicose node: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hernia vs Hernia isn't a differential\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Inguinal hernia. الفتق الفخذي والفتق الإربي كلاهما فتوق أصلًا، فلا حاجة \"للتفريق\" بينهما كما لو كان أحدهما تشخيصًا مختلفًا مقلدًا للآخر."
+      "narration": "الخيار E، Inguinal hernia هو الإجابة الصحيحة. الفتق الفخذي والفتق الإربي كلاهما فتوق أصلًا، فلا حاجة \"للتفريق\" بينهما كما لو كان أحدهما تشخيصًا مختلفًا مقلدًا للآخر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفتق الفخذي والفتق الإربي كلاهما فتوق أصلًا، فلا حاجة \"للتفريق\" بينهما كما لو كان أحدهما تشخيصًا مختلفًا مقلدًا للآخر. وتذكّر القاعدة: \"Hernia vs Hernia isn't a differential\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الفتق الفخذي والفتق الإربي كلاهما فتوق أصلًا، فلا حاجة \"للتفريق\" بينهما كما لو كان أحدهما تشخيصًا مختلفًا مقلدًا للآخر. وتذكّر: \"Hernia vs Hernia isn't a differential\". والإجابة الصحيحة هي E."
     }
   ]
 }

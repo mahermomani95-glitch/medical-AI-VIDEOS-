@@ -45,7 +45,7 @@
         "label": "Documented infection",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يمكن رؤية كل ما يلي في متلازمة الاستجابة الالتهابية الجهازية باستثناء أمامك هذه الخيارات: Hypothermia (<36 C)، أو White cell count (WCC) < 4 x1000/dL، أو Documented infection، أو Tachycardia (>90/min)، أو Tachypnoea (>20/min). لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يمكن رؤية كل ما يلي في متلازمة الاستجابة الالتهابية الجهازية باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypothermia (<36 C): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection. الخيار B، White cell count (WCC) < 4 x1000/dL: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection. الخيار D، Tachycardia (>90/min): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection. الخيار E، Tachypnoea (>20/min): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia/hyperthermia, abnormal white cell count, tachycardia, and tachypnea are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Documented infection.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypothermia (<36 C): صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D، Tachycardia (>90/min): صحيحة، لكنها ليست الاستثناء. الخيار E، Tachypnoea (>20/min): صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"SIRS ≠ requires infection (that's Sepsis)\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Documented infection. متلازمة الاستجابة الالتهابية الجهازية هي نمط استجابة فيزيولوجية قد تحدث دون أي عدوى موثقة — وهذا بالضبط ما يميزها عن الإنتان."
+      "narration": "الخيار C، Documented infection هو الإجابة الصحيحة. متلازمة الاستجابة الالتهابية الجهازية هي نمط استجابة فيزيولوجية قد تحدث دون أي عدوى موثقة — وهذا بالضبط ما يميزها عن الإنتان."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. متلازمة الاستجابة الالتهابية الجهازية هي نمط استجابة فيزيولوجية قد تحدث دون أي عدوى موثقة — وهذا بالضبط ما يميزها عن الإنتان. وتذكّر القاعدة: \"SIRS ≠ requires infection (that's Sepsis)\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. متلازمة الاستجابة الالتهابية الجهازية هي نمط استجابة فيزيولوجية قد تحدث دون أي عدوى موثقة — وهذا بالضبط ما يميزها عن الإنتان. وتذكّر: \"SIRS ≠ requires infection (that's Sepsis)\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Cecal perforation"
       },
-      "narration": "لنبدأ بهذا السؤال. المشكلة الرئيسية في متلازمة أوجيلفي (انسداد حاد في القولون في غياب أيآفة انسداد ميكانيكية يمكن التعرف عليها) هي خطر؟ أمامك هذه الخيارات: Cecal perforation، أو Malignancy، أو Rectal prolapsed، أو Duodenal ulcer، أو Small bowel perforation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المشكلة الرئيسية في متلازمة أوجيلفي (انسداد حاد في القولون في غياب أيآفة انسداد ميكانيكية يمكن التعرف عليها) هي خطر؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cecal perforation. يصبح صحيحًا في سؤال يصف Malignancy, rectal prolapse, duodenal ulcer, and small bowel perforation are unrelated or less central concerns, but the major danger in Ogilvie syndrome (colonic pseudo-obstruction) is cecal perforation from progressive dilation. الخيار C، Rectal prolapsed: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cecal perforation. يصبح صحيحًا في سؤال يصف Malignancy, rectal prolapse, duodenal ulcer, and small bowel perforation are unrelated or less central concerns, but the major danger in Ogilvie syndrome (colonic pseudo-obstruction) is cecal perforation from progressive dilation. الخيار D، Duodenal ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cecal perforation. يصبح صحيحًا في سؤال يصف Malignancy, rectal prolapse, duodenal ulcer, and small bowel perforation are unrelated or less central concerns, but the major danger in Ogilvie syndrome (colonic pseudo-obstruction) is cecal perforation from progressive dilation. الخيار E، Small bowel perforation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cecal perforation. يصبح صحيحًا في سؤال يصف Malignancy, rectal prolapse, duodenal ulcer, and small bowel perforation are unrelated or less central concerns, but the major danger in Ogilvie syndrome (colonic pseudo-obstruction) is cecal perforation from progressive dilation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Malignancy: الإجابة الصحيحة هي Cecal perforation. الخيار C، Rectal prolapsed: الإجابة الصحيحة هي Cecal perforation. الخيار D، Duodenal ulcer: الإجابة الصحيحة هي Cecal perforation. الخيار E، Small bowel perforation: الإجابة الصحيحة هي Cecal perforation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Ogilvie syndrome: worries about Cecal perforat"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Cecal perforation. انثقاب الأعور هو الخطر الرئيسي المخيف بمتلازمة أوغيلفي."
+      "narration": "الخيار A، Cecal perforation هو الإجابة الصحيحة. انثقاب الأعور هو الخطر الرئيسي المخيف بمتلازمة أوغيلفي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انثقاب الأعور هو الخطر الرئيسي المخيف بمتلازمة أوغيلفي. وتذكّر القاعدة: Ogilvie syndrome: worries about Cecal perforation. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. انثقاب الأعور هو الخطر الرئيسي المخيف بمتلازمة أوغيلفي. وتذكّر: Ogilvie syndrome: worries about Cecal perforation. والإجابة الصحيحة هي A."
     }
   ]
 }

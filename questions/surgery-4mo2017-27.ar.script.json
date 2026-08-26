@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Liver cirrhosis"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية ليس من مضاعفات حصوات المرارة؟ أمامك هذه الخيارات: Intestinal obstruction، أو Mucocele، أو Acute cholycystitis، أو Liver cirrhosis، أو Pancreatitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية ليس من مضاعفات حصوات المرارة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intestinal obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار B، Mucocele: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار C، Acute cholycystitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار E، Pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intestinal obstruction (A, gallstone ileus), mucocele, acute cholecystitis, and pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intestinal obstruction: صحيحة، لكنها ليست الاستثناء. الخيار B، Mucocele: صحيحة، لكنها ليست الاستثناء. الخيار C، Acute cholycystitis: صحيحة، لكنها ليست الاستثناء. الخيار E، Pancreatitis: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Gallstone complications: don't Cause cirrhosis"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Liver cirrhosis. تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية)."
+      "narration": "الخيار D، Liver cirrhosis هو الإجابة الصحيحة. تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية). وتذكّر القاعدة: Gallstone complications: don't Cause cirrhosis. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. تشمع الكبد ليس مضاعفة مباشرة لحصى المرارة (تصيب الطرق الصفراوية). وتذكّر: Gallstone complications: don't Cause cirrhosis. والإجابة الصحيحة هي D."
     }
   ]
 }

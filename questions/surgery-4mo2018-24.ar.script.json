@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Thyroglobulin"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من القيم المعملية التالية هي الأكثر فعالية في اكتشاف سرطان الغدةالدرقية الحليمي أو الجريبي المتكرر؟ أمامك هذه الخيارات: TSH، أو Free T4، أو Thyroglobulin، أو Transferrin، أو TRH. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من القيم المعملية التالية هي الأكثر فعالية في اكتشاف سرطان الغدةالدرقية الحليمي أو الجريبي المتكرر؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، TSH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely produced only by thyroid tissue itself. يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH. الخيار B، Free T4: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely produced only by thyroid tissue itself. يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH. الخيار D، Transferrin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely produced only by thyroid tissue itself. يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH. الخيار E، TRH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the marker of choice for detecting residual/recurrent thyroid tissue after total thyroidectomy — thyroglobulin is uniquely produced only by thyroid tissue itself. يصبح صحيحًا في سؤال يصف TSH, free T4, transferrin, and TRH.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، TSH: لا ينطبق على هذه الحالة. الخيار B، Free T4: لا ينطبق على هذه الحالة. الخيار D، Transferrin: لا ينطبق على هذه الحالة. الخيار E، TRH: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Thyroglobulin tells on thyroid tissue\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Thyroglobulin. بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس."
+      "narration": "الخيار C، Thyroglobulin هو الإجابة الصحيحة. بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس. وتذكّر القاعدة: \"Thyroglobulin tells on thyroid tissue\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. بعد استئصال الغدة الدرقية الكلي، أي ارتفاع في الثيروغلوبولين بالدم يشير لوجود نسيج درقي متبقٍ أو ناكس. وتذكّر: \"Thyroglobulin tells on thyroid tissue\". والإجابة الصحيحة هي C."
     }
   ]
 }

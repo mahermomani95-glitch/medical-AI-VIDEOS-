@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Consent should be obtained by the person doing the…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بالموافقة المستنيرة؟ أمامك هذه الخيارات: Consent should be obtained by the person doing the operation، أو The written communication material must always be in English، أو Consent is not necessary before physical examination of a patient، أو Every possible hazard, however remote the possibility, should be explained in detail، أو Legally, a signed consent from a patient is proof that valid consent has been properly obtained. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بالموافقة المستنيرة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، The written communication material must always be in English: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always need to be in English. يصبح صحيحًا في سؤال يصف Written material. الخيار C، Consent is not necessary before physical examination of a patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Consent should be obtained by the person doing the operation. يصبح صحيحًا في سؤال يصف consent IS necessary before physical exam. الخيار D، Every possible hazard, however remote the possibility, should be explained in detail: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا need detailing, only material risks. يصبح صحيحًا في سؤال يصف every conceivable remote hazard. الخيار E، Legally, a signed consent from a patient is proof that valid consent has been properly obtained: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Consent should be obtained by the person doing the operation. يصبح صحيحًا في سؤال يصف a signed form alone isn't automatic legal proof of valid understanding — all misstate true informed consent principles.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: المطلوب هنا always need to be in English. الخيار C: لا ينطبق على هذه الحالة. الخيار D: المطلوب هنا need detailing, only material risks. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Operating surgeon = consenting surgeon\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Consent should be obtained by the person doing the operation. الجراح الذي سيجري العملية فعليًا هو من يجب أن يأخذ الموافقة — وليس تفويض ذلك لأي شخص آخر."
+      "narration": "الخيار A هو الإجابة الصحيحة. الجراح الذي سيجري العملية فعليًا هو من يجب أن يأخذ الموافقة — وليس تفويض ذلك لأي شخص آخر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الجراح الذي سيجري العملية فعليًا هو من يجب أن يأخذ الموافقة — وليس تفويض ذلك لأي شخص آخر. وتذكّر القاعدة: \"Operating surgeon = consenting surgeon\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الجراح الذي سيجري العملية فعليًا هو من يجب أن يأخذ الموافقة — وليس تفويض ذلك لأي شخص آخر. وتذكّر: \"Operating surgeon = consenting surgeon\". والإجابة الصحيحة هي A."
     }
   ]
 }

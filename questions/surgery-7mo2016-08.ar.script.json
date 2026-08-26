@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Factor 5 Leiden"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو عامل الخطر الأكثر شيوعًا للانصمام الخثاري الوريديالتلقائي؟ أمامك هذه الخيارات: Antithrombin 3 deficiency، أو Factor 5 Leiden، أو Protein C deficiency، أو Protein S deficiency، أو Antiphospholipid syndrome. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو عامل الخطر الأكثر شيوعًا للانصمام الخثاري الوريديالتلقائي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Antithrombin 3 deficiency: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Factor 5 Leiden. يصبح صحيحًا في سؤال يصف Antithrombin III deficiency, protein C deficiency, protein S deficiency, and antiphospholipid syndrome are all recognized thrombophilias, but Factor V Leiden remains the single most common inherited risk factor for venous thromboembolism. الخيار C، Protein C deficiency: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Factor 5 Leiden. يصبح صحيحًا في سؤال يصف Antithrombin III deficiency, protein C deficiency, protein S deficiency, and antiphospholipid syndrome are all recognized thrombophilias, but Factor V Leiden remains the single most common inherited risk factor for venous thromboembolism. الخيار D، Protein S deficiency: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Factor 5 Leiden. يصبح صحيحًا في سؤال يصف Antithrombin III deficiency, protein C deficiency, protein S deficiency, and antiphospholipid syndrome are all recognized thrombophilias, but Factor V Leiden remains the single most common inherited risk factor for venous thromboembolism. الخيار E، Antiphospholipid syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Factor 5 Leiden. يصبح صحيحًا في سؤال يصف Antithrombin III deficiency, protein C deficiency, protein S deficiency, and antiphospholipid syndrome are all recognized thrombophilias, but Factor V Leiden remains the single most common inherited risk factor for venous thromboembolism.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Antithrombin 3 deficiency: الإجابة الصحيحة هي Factor 5 Leiden. الخيار C، Protein C deficiency: الإجابة الصحيحة هي Factor 5 Leiden. الخيار D، Protein S deficiency: الإجابة الصحيحة هي Factor 5 Leiden. الخيار E، Antiphospholipid syndrome: الإجابة الصحيحة هي Factor 5 Leiden. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Spontaneous VTE: mostly Factor V Leiden"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Factor 5 Leiden. عامل V ليدن هو أشيع اضطراب تخثري وراثي مسبب لانصمام وريدي تلقائي."
+      "narration": "الخيار B، Factor 5 Leiden هو الإجابة الصحيحة. عامل V ليدن هو أشيع اضطراب تخثري وراثي مسبب لانصمام وريدي تلقائي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عامل V ليدن هو أشيع اضطراب تخثري وراثي مسبب لانصمام وريدي تلقائي. وتذكّر القاعدة: Spontaneous VTE: mostly Factor V Leiden. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. عامل V ليدن هو أشيع اضطراب تخثري وراثي مسبب لانصمام وريدي تلقائي. وتذكّر: Spontaneous VTE: mostly Factor V Leiden. والإجابة الصحيحة هي B."
     }
   ]
 }

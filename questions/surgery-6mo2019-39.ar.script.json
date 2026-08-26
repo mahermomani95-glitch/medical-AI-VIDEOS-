@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anaphylaxis"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 45 عامًا، حضرت إلى المستشفى مصابة بالتهاب حادفي المرارة، لإجراء عملية استئصال مرارة اختيارية بالمنظار. أُدخلت إلىالمستشفى وبدأت العلاج بالسوائل الوريدية، ومسكنات الألم، ومضادات القيء،والمضادات الحيوية. بعد ساعتين من بدء هذا العلاج، شعرت المريضة بضيقفي التنفس، وكانت المؤشرات الحيوية: ضغط الدم 80/40، و\"ت\"=36.6،ومعدل ضربات القلب 125، ومعدل الرجفان 25. بالفحص السريري، لوحظاحمرار واضح حول القنية الوريدية الطرفية، والتشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Hypovolemic Shock، أو Septic Shock، أو Cardiogenic Shock، أو Anaphylaxis، أو Pulmonary Embolism. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 45 عامًا، حضرت إلى المستشفى مصابة بالتهاب حادفي المرارة، لإجراء عملية استئصال مرارة اختيارية بالمنظار. أُدخلت إلىالمستشفى وبدأت العلاج بالسوائل الوريدية، ومسكنات الألم، ومضادات القيء،والمضادات الحيوية. بعد ساعتين من بدء هذا العلاج، شعرت المريضة بضيقفي التنفس، وكانت المؤشرات الحيوية: ضغط الدم 80/40، و\"ت\"=36.6،ومعدل ضربات القلب 125، ومعدل الرجفان 25. بالفحص السريري، لوحظاحمرار واضح حول القنية الوريدية الطرفية، والتشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypovolemic Shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of bradycardia with hypotension seen specifically in neurogenic shock from spinal cord injury. الخيار B، Septic Shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of bradycardia with hypotension seen specifically in neurogenic shock from spinal cord injury. الخيار C، Cardiogenic Shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of bradycardia with hypotension seen specifically in neurogenic shock from spinal cord injury. الخيار E، Pulmonary Embolism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylaxis. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and pulmonary embolism are all real conditions but don't match the unique combination of bradycardia with hypotension seen specifically in neurogenic shock from spinal cord injury.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hypovolemic Shock: الإجابة الصحيحة هي Anaphylaxis. الخيار B، Septic Shock: الإجابة الصحيحة هي Anaphylaxis. الخيار C، Cardiogenic Shock: الإجابة الصحيحة هي Anaphylaxis. الخيار E، Pulmonary Embolism: الإجابة الصحيحة هي Anaphylaxis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Redness at IV site + sudden shock = Anaphylax"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Anaphylaxis. الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة."
+      "narration": "الخيار D، Anaphylaxis هو الإجابة الصحيحة. الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة. وتذكّر القاعدة: \"Redness at IV site + sudden shock = Anaphylaxis\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الاحمرار عند موضع القسطرة الوريدية تحديدًا مع صدمة مفاجئة بعد بدء التسريب بوقت قصير يوجّه لتفاعل تأقي تجاه أحد الأدوية المُعطاة. وتذكّر: \"Redness at IV site + sudden shock = Anaphylaxis\". والإجابة الصحيحة هي D."
     }
   ]
 }

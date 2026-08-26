@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Bowel obstruction"
       },
-      "narration": "لنبدأ بهذا السؤال. الشكل الأكثر شيوعًا لسرطان غدة القولون الأيسر أمامك هذه الخيارات: Weight loss، أو IDA، أو Bowel obstruction، أو Abdominal pain، أو Rectal bleeding. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الشكل الأكثر شيوعًا لسرطان غدة القولون الأيسر أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Weight loss: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction. يصبح صحيحًا في سؤال يصف Weight loss, iron deficiency anemia, abdominal pain, and rectal bleeding can all occur with left colon cancer, but obstruction remains the most characteristic presenting feature given the narrow lumen. الخيار B، IDA: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction. يصبح صحيحًا في سؤال يصف Weight loss, iron deficiency anemia, abdominal pain, and rectal bleeding can all occur with left colon cancer, but obstruction remains the most characteristic presenting feature given the narrow lumen. الخيار D، Abdominal pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction. يصبح صحيحًا في سؤال يصف Weight loss, iron deficiency anemia, abdominal pain, and rectal bleeding can all occur with left colon cancer, but obstruction remains the most characteristic presenting feature given the narrow lumen. الخيار E، Rectal bleeding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bowel obstruction. يصبح صحيحًا في سؤال يصف Weight loss, iron deficiency anemia, abdominal pain, and rectal bleeding can all occur with left colon cancer, but obstruction remains the most characteristic presenting feature given the narrow lumen.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Weight loss: الإجابة الصحيحة هي Bowel obstruction. الخيار B، IDA: الإجابة الصحيحة هي Bowel obstruction. الخيار D، Abdominal pain: الإجابة الصحيحة هي Bowel obstruction. الخيار E، Rectal bleeding: الإجابة الصحيحة هي Bowel obstruction. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Left = narrow lumen = obstruction\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Bowel obstruction. لمعة القولون الأيسر ضيقة، فينسد بسهولة عند نمو الورم فيها — وهذا هو العرض الأشيع."
+      "narration": "الخيار C، Bowel obstruction هو الإجابة الصحيحة. لمعة القولون الأيسر ضيقة، فينسد بسهولة عند نمو الورم فيها — وهذا هو العرض الأشيع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. لمعة القولون الأيسر ضيقة، فينسد بسهولة عند نمو الورم فيها — وهذا هو العرض الأشيع. وتذكّر القاعدة: \"Left = narrow lumen = obstruction\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. لمعة القولون الأيسر ضيقة، فينسد بسهولة عند نمو الورم فيها — وهذا هو العرض الأشيع. وتذكّر: \"Left = narrow lumen = obstruction\". والإجابة الصحيحة هي C."
     }
   ]
 }

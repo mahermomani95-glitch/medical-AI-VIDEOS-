@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Phyllodes tumors tend to be larger and grow faster…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Rarely benign، أو Can not be treated with surgical excision، أو Peak incidence: 20-30 years، أو Phyllodes tumors tend to be larger and grow faster than fibroadenomas، أو Painful breast mass. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Rarely benign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phyllodes tumors tend to be larger and grow faster than fibroadenomas. يصبح صحيحًا في سؤال يصف Being rarely benign is false — phyllodes tumors, though needing careful monitoring, are mostly benign. الخيار B، Can not be treated with surgical excision: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phyllodes tumors tend to be larger and grow faster than fibroadenomas. يصبح صحيحًا في سؤال يصف they ARE typically treated with surgical excision. الخيار C، Peak incidence: 20-30 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phyllodes tumors tend to be larger and grow faster than fibroadenomas. يصبح صحيحًا في سؤال يصف peak incidence is actually in the 35-55 age range, older than fibroadenoma's typical 20-30 age range. الخيار E، Painful breast mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Phyllodes tumors tend to be larger and grow faster than fibroadenomas. يصبح صحيحًا في سؤال يصف they typically present as a painless (not painful) mass — these misstate true phyllodes tumor facts.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Rarely benign: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C، Peak incidence: 20-30 years: لا ينطبق على هذه الحالة. الخيار E، Painful breast mass: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Phyllodes = Faster, larger growth than fibroa"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Phyllodes tumors tend to be larger and grow faster than fibroadenomas. ورم فيلود ينمو بشكل ملحوظ أسرع ويصل لحجم أكبر من الورم الغدي الليفي — هذا النمو السريع دليل سريري مهم يميّزه."
+      "narration": "الخيار D هو الإجابة الصحيحة. ورم فيلود ينمو بشكل ملحوظ أسرع ويصل لحجم أكبر من الورم الغدي الليفي — هذا النمو السريع دليل سريري مهم يميّزه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ورم فيلود ينمو بشكل ملحوظ أسرع ويصل لحجم أكبر من الورم الغدي الليفي — هذا النمو السريع دليل سريري مهم يميّزه. وتذكّر القاعدة: \"Phyllodes = Faster, larger growth than fibroadenoma\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ورم فيلود ينمو بشكل ملحوظ أسرع ويصل لحجم أكبر من الورم الغدي الليفي — هذا النمو السريع دليل سريري مهم يميّزه. وتذكّر: \"Phyllodes = Faster, larger growth than fibroadenoma\". والإجابة الصحيحة هي D."
     }
   ]
 }

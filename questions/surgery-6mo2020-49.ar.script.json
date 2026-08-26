@@ -45,7 +45,7 @@
         "label": "Decreased tissue perfusion",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Increased tissue perfusion، أو Decreased tissue perfusion، أو Inability of the heart to circulate blood، أو Low circulating volume، أو Abnormal vascular resistance. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Increased tissue perfusion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased tissue perfusion. يصبح صحيحًا في سؤال يصف Increased tissue perfusion is the opposite of shock's definition. الخيار C، Inability of the heart to circulate blood: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا all shock types. يصبح صحيحًا في سؤال يصف inability of the heart to pump describes only cardiogenic shock specifically. الخيار D، Low circulating volume: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased tissue perfusion. يصبح صحيحًا في سؤال يصف low circulating volume describes only hypovolemic shock. الخيار E، Abnormal vascular resistance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Decreased tissue perfusion. يصبح صحيحًا في سؤال يصف abnormal vascular resistance describes only distributive shock — the comprehensive definition of decreased tissue perfusion encompasses all shock types.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Increased tissue perfusion: الإجابة الصحيحة هي Decreased tissue perfusion. الخيار C: المطلوب هنا all shock types. الخيار D، Low circulating volume: الإجابة الصحيحة هي Decreased tissue perfusion. الخيار E، Abnormal vascular resistance: الإجابة الصحيحة هي Decreased tissue perfusion. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Shock = Decreased tissue perfusion (the unive"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Decreased tissue perfusion. الصدمة في جوهرها هي نقص تروية النسج — وليست سببًا محددًا واحدًا، لأن آليات مختلفة كثيرة قد تؤدي جميعها لنفس النتيجة النهائية."
+      "narration": "الخيار B، Decreased tissue perfusion هو الإجابة الصحيحة. الصدمة في جوهرها هي نقص تروية النسج — وليست سببًا محددًا واحدًا، لأن آليات مختلفة كثيرة قد تؤدي جميعها لنفس النتيجة النهائية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصدمة في جوهرها هي نقص تروية النسج — وليست سببًا محددًا واحدًا، لأن آليات مختلفة كثيرة قد تؤدي جميعها لنفس النتيجة النهائية. وتذكّر القاعدة: \"Shock = Decreased tissue perfusion (the universal definition)\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الصدمة في جوهرها هي نقص تروية النسج — وليست سببًا محددًا واحدًا، لأن آليات مختلفة كثيرة قد تؤدي جميعها لنفس النتيجة النهائية. وتذكّر: \"Shock = Decreased tissue perfusion (the universal definition)\". والإجابة الصحيحة هي B."
     }
   ]
 }

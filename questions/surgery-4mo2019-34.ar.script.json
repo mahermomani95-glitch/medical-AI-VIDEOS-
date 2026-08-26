@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Femoral hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الفتوق التالية هو الأكثر احتمالا للاحتجاز والاختناق؟ أمامك هذه الخيارات: Congenital umbilical hernia، أو Spigelian hernia، أو Direct inguinal hernia، أو Epigastric hernia، أو Femoral hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الفتوق التالية هو الأكثر احتمالا للاحتجاز والاختناق؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Congenital umbilical hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Congenital umbilical hernia, Spigelian hernia, and direct inguinal hernia are all different hernia types with different mechanisms, but incisional hernia specifically has the highest recurrence rate due to weakened scar tissue. الخيار B، Spigelian hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Congenital umbilical hernia, Spigelian hernia, and direct inguinal hernia are all different hernia types with different mechanisms, but incisional hernia specifically has the highest recurrence rate due to weakened scar tissue. الخيار C، Direct inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Congenital umbilical hernia, Spigelian hernia, and direct inguinal hernia are all different hernia types with different mechanisms, but incisional hernia specifically has the highest recurrence rate due to weakened scar tissue. الخيار D، Epigastric hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يستهدف Epigastric hernia تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Congenital umbilical hernia: الإجابة الصحيحة هي Femoral hernia. الخيار B، Spigelian hernia: الإجابة الصحيحة هي Femoral hernia. الخيار C، Direct inguinal hernia: الإجابة الصحيحة هي Femoral hernia. الخيار D، Epigastric hernia: الإجابة الصحيحة هي Femoral hernia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Femoral canal = tightest, highest strangulati"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Femoral hernia. القناة الفخذية ضيقة وصلبة الجدران، فهي الأضيق بين كل فتوق جدار البطن والأربية — أعلى خطر للاختناق."
+      "narration": "الخيار E، Femoral hernia هو الإجابة الصحيحة. القناة الفخذية ضيقة وصلبة الجدران، فهي الأضيق بين كل فتوق جدار البطن والأربية — أعلى خطر للاختناق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القناة الفخذية ضيقة وصلبة الجدران، فهي الأضيق بين كل فتوق جدار البطن والأربية — أعلى خطر للاختناق. وتذكّر القاعدة: \"Femoral canal = tightest, highest strangulation risk\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. القناة الفخذية ضيقة وصلبة الجدران، فهي الأضيق بين كل فتوق جدار البطن والأربية — أعلى خطر للاختناق. وتذكّر: \"Femoral canal = tightest, highest strangulation risk\". والإجابة الصحيحة هي E."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Fistulas with long track",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. من غير المرجح أن تغلق جميع الناسور التالية تلقائيًا باستثناء؟ أمامك هذه الخيارات: Fistulas secondary to malignancy، أو Fistulas due to Crohn disease، أو Fistulas with epithelized track، أو Fistulas with long track، أو Fistulas with foreign bodies. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. من غير المرجح أن تغلق جميع الناسور التالية تلقائيًا باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Fistulas secondary to malignancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fistulas from malignancy, Crohn's disease, epithelialized tracts, and those with retained… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fistulas with long track. الخيار B، Fistulas due to Crohn disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fistulas from malignancy, Crohn's disease, epithelialized tracts, and those with retained… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fistulas with long track. الخيار C، Fistulas with epithelized track: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fistulas from malignancy, Crohn's disease, epithelialized tracts, and those with retained… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fistulas with long track. الخيار E، Fistulas with foreign bodies: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fistulas from malignancy, Crohn's disease, epithelialized tracts, and those with retained… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fistulas with long track.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Fistulas secondary to malignancy: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C، Fistulas with epithelized track: صحيحة، لكنها ليست الاستثناء. الخيار E، Fistulas with foreign bodies: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Long-tract fistula: Less likely to close spont"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Fistulas with long track. النواسير ذات المسار الطويل أقل احتمالاً للانغلاق التلقائي."
+      "narration": "الخيار D، Fistulas with long track هو الإجابة الصحيحة. النواسير ذات المسار الطويل أقل احتمالاً للانغلاق التلقائي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النواسير ذات المسار الطويل أقل احتمالاً للانغلاق التلقائي. وتذكّر القاعدة: Long-tract fistula: Less likely to close spontaneously. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. النواسير ذات المسار الطويل أقل احتمالاً للانغلاق التلقائي. وتذكّر: Long-tract fistula: Less likely to close spontaneously. والإجابة الصحيحة هي D."
     }
   ]
 }

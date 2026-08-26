@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "PPI"
       },
-      "narration": "لنبدأ بهذا السؤال. العلاج الأنسب لمريء باريت؟ أمامك هذه الخيارات: Photodynamic therapy، أو Chemotherapy، أو PPI، أو Esophagectomy، أو Radiotherapy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلاج الأنسب لمريء باريت؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Photodynamic therapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي PPI. يصبح صحيحًا في سؤال يصف Photodynamic therapy, chemotherapy, esophagectomy, and radiotherapy are reserved for dysplastic or malignant progression — PPI therapy to control acid reflux is the most appropriate initial therapy for uncomplicated Barrett's esophagus. الخيار B، Chemotherapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي PPI. يصبح صحيحًا في سؤال يصف Photodynamic therapy, chemotherapy, esophagectomy, and radiotherapy are reserved for dysplastic or malignant progression — PPI therapy to control acid reflux is the most appropriate initial therapy for uncomplicated Barrett's esophagus. الخيار D، Esophagectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي PPI. يصبح صحيحًا في سؤال يصف Photodynamic therapy, chemotherapy, esophagectomy, and radiotherapy are reserved for dysplastic or malignant progression — PPI therapy to control acid reflux is the most appropriate initial therapy for uncomplicated Barrett's esophagus. الخيار E، Radiotherapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي PPI. يصبح صحيحًا في سؤال يصف Photodynamic therapy, chemotherapy, esophagectomy, and radiotherapy are reserved for dysplastic or malignant progression — PPI therapy to control acid reflux is the most appropriate initial therapy for uncomplicated Barrett's esophagus.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Photodynamic therapy: الإجابة الصحيحة هي PPI. الخيار B، Chemotherapy: الإجابة الصحيحة هي PPI. الخيار D، Esophagectomy: الإجابة الصحيحة هي PPI. الخيار E، Radiotherapy: الإجابة الصحيحة هي PPI. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Barrett's esophagus: treated with PPI"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: PPI. مثبطات مضخة البروتون هي العلاج الأساسي الأنسب لمريء باريت."
+      "narration": "الخيار C، PPI هو الإجابة الصحيحة. مثبطات مضخة البروتون هي العلاج الأساسي الأنسب لمريء باريت."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مثبطات مضخة البروتون هي العلاج الأساسي الأنسب لمريء باريت. وتذكّر القاعدة: Barrett's esophagus: treated with PPI. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. مثبطات مضخة البروتون هي العلاج الأساسي الأنسب لمريء باريت. وتذكّر: Barrett's esophagus: treated with PPI. والإجابة الصحيحة هي C."
     }
   ]
 }

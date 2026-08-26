@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Sigmoid colon"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعا لسرطان القولون هو أمامك هذه الخيارات: Right colon، أو Left colon، أو Transverse colon، أو Descending colon، أو Sigmoid colon. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعا لسرطان القولون هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Right colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid colon. يصبح صحيحًا في سؤال يصف The right colon, left colon (excluding sigmoid), and transverse colon are all less common sites for colon cancer than the sigmoid. الخيار B، Left colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid colon. يصبح صحيحًا في سؤال يصف The right colon, left colon (excluding sigmoid), and transverse colon are all less common sites for colon cancer than the sigmoid. الخيار C، Transverse colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid colon. يصبح صحيحًا في سؤال يصف The right colon, left colon (excluding sigmoid), and transverse colon are all less common sites for colon cancer than the sigmoid. الخيار D، Descending colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid colon. يصبح صحيحًا في سؤال يصف the descending colon is also less frequently affected than the sigmoid specifically.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Right colon: الإجابة الصحيحة هي Sigmoid colon. الخيار B، Left colon: الإجابة الصحيحة هي Sigmoid colon. الخيار C، Transverse colon: الإجابة الصحيحة هي Sigmoid colon. الخيار D، Descending colon: الإجابة الصحيحة هي Sigmoid colon. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Sigmoid = Site most often\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Sigmoid colon. البراز يبقى لأطول فترة في القولون السيني، فيزداد تعرضه للمواد المسرطنة، مما يجعله الموقع الأشيع لسرطان القولون."
+      "narration": "الخيار E، Sigmoid colon هو الإجابة الصحيحة. البراز يبقى لأطول فترة في القولون السيني، فيزداد تعرضه للمواد المسرطنة، مما يجعله الموقع الأشيع لسرطان القولون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البراز يبقى لأطول فترة في القولون السيني، فيزداد تعرضه للمواد المسرطنة، مما يجعله الموقع الأشيع لسرطان القولون. وتذكّر القاعدة: \"Sigmoid = Site most often\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. البراز يبقى لأطول فترة في القولون السيني، فيزداد تعرضه للمواد المسرطنة، مما يجعله الموقع الأشيع لسرطان القولون. وتذكّر: \"Sigmoid = Site most often\". والإجابة الصحيحة هي E."
     }
   ]
 }

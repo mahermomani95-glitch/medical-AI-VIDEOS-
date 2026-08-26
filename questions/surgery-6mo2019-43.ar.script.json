@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Compartment Syndrome"
       },
-      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر أهمية للحروق المحيطية في الطرف العلوي هي أمامك هذه الخيارات: Infection، أو Rhabdomyolysis، أو Compartment Syndrome، أو Curling Ulcer، أو Hypovolemic Shock. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر أهمية للحروق المحيطية في الطرف العلوي هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment Syndrome. يصبح صحيحًا في سؤال يصف Infection, rhabdomyolysis (B, from muscle breakdown), Curling's ulcer (D, a stress ulcer specific to burns), and hypovolemic shock are all recognized burn complications, but compartment syndrome is the complication most specifically tied to circumferential limb burns. الخيار B، Rhabdomyolysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment Syndrome. يصبح صحيحًا في سؤال يصف Infection, rhabdomyolysis (B, from muscle breakdown), Curling's ulcer (D, a stress ulcer specific to burns), and hypovolemic shock are all recognized burn complications, but compartment syndrome is the complication most specifically tied to circumferential limb burns. الخيار D، Curling Ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment Syndrome. يصبح صحيحًا في سؤال يصف Infection, rhabdomyolysis (B, from muscle breakdown), Curling's ulcer (D, a stress ulcer specific to burns), and hypovolemic shock are all recognized burn complications, but compartment syndrome is the complication most specifically tied to circumferential limb burns. الخيار E، Hypovolemic Shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment Syndrome. يصبح صحيحًا في سؤال يصف Infection, rhabdomyolysis (B, from muscle breakdown), Curling's ulcer (D, a stress ulcer specific to burns), and hypovolemic shock are all recognized burn complications, but compartment syndrome is the complication most specifically tied to circumferential limb burns.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Infection: الإجابة الصحيحة هي Compartment Syndrome. الخيار B، Rhabdomyolysis: الإجابة الصحيحة هي Compartment Syndrome. الخيار D، Curling Ulcer: الإجابة الصحيحة هي Compartment Syndrome. الخيار E، Hypovolemic Shock: الإجابة الصحيحة هي Compartment Syndrome. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Circumferential burn = tourniquet effect = Co"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Compartment Syndrome. القشرة الصلبة للحرق المحيطي تعمل كعاصبة مع تراكم التورّم — متلازمة الحيز هي التهديد الحرج هنا."
+      "narration": "الخيار C، Compartment Syndrome هو الإجابة الصحيحة. القشرة الصلبة للحرق المحيطي تعمل كعاصبة مع تراكم التورّم — متلازمة الحيز هي التهديد الحرج هنا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القشرة الصلبة للحرق المحيطي تعمل كعاصبة مع تراكم التورّم — متلازمة الحيز هي التهديد الحرج هنا. وتذكّر القاعدة: \"Circumferential burn = tourniquet effect = Compartment syndrome\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. القشرة الصلبة للحرق المحيطي تعمل كعاصبة مع تراكم التورّم — متلازمة الحيز هي التهديد الحرج هنا. وتذكّر: \"Circumferential burn = tourniquet effect = Compartment syndrome\". والإجابة الصحيحة هي C."
     }
   ]
 }

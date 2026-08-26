@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Abdominal X-Ray (upright and supine) can be…"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 63 عامًا حضر كحالة طارئة يعاني من ألم بطني تقلصياستمر 4 أيام، مصحوبًا بقيء وانتفاخ بطني وإمساك. ينكر المريض فقدانالوزن. لم يكن تاريخه المرضي مهمًا إلا لجراحة استئصال الزائدة الدوديةالمفتوحة واستئصال المرارة المفتوحة. جميع الجمل التالية صحيحة باستثناء:؟ أمامك هذه الخيارات: Abdominal X-Ray (upright and supine) can be postponed for few days، أو It is essential to obtain an upright CXR، أو incarceration or herniation are possible causes for this condition، أو Abdominal and groin examination should be carried out to rule out hernia، أو He should be admitted for IV fluid hydration and electrolyte replacement. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 63 عامًا حضر كحالة طارئة يعاني من ألم بطني تقلصياستمر 4 أيام، مصحوبًا بقيء وانتفاخ بطني وإمساك. ينكر المريض فقدانالوزن. لم يكن تاريخه المرضي مهمًا إلا لجراحة استئصال الزائدة الدوديةالمفتوحة واستئصال المرارة المفتوحة. جميع الجمل التالية صحيحة باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، It is essential to obtain an upright CXR: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be postponed — upright CXR, possible incarceration/herniation as a cause, abdominal/groin exam to rule out hernia, and admission for IV fluids are all true and appropriate statements for suspected bowel obstruction, making A the false statement (the one intentionally reversing correct urgency). يصبح صحيحًا في سؤال يصف Abdominal/chest X-rays should. الخيار C، incarceration or herniation are possible causes for this condition: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be postponed — upright CXR, possible incarceration/herniation as a cause, abdominal/groin exam to rule out hernia, and admission for IV fluids are all true and appropriate statements for suspected bowel obstruction, making A the false statement (the one intentionally reversing correct urgency). يصبح صحيحًا في سؤال يصف Abdominal/chest X-rays should. الخيار D، Abdominal and groin examination should be carried out to rule out hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be postponed — upright CXR, possible incarceration/herniation as a cause, abdominal/groin exam to rule out hernia, and admission for IV fluids are all true and appropriate statements for suspected bowel obstruction, making A the false statement (the one intentionally reversing correct urgency). يصبح صحيحًا في سؤال يصف Abdominal/chest X-rays should. الخيار E، He should be admitted for IV fluid hydration and electrolyte replacement: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be postponed — upright CXR, possible incarceration/herniation as a cause, abdominal/groin exam to rule out hernia, and admission for IV fluids are all true and appropriate statements for suspected bowel obstruction, making A the false statement (the one intentionally reversing correct urgency). يصبح صحيحًا في سؤال يصف Abdominal/chest X-rays should.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Suspected obstruction: X-ray (upright/supine) "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Abdominal X-Ray (upright and supine) can be postponed for few days. الأشعة البطنية (واقفة ومستلقية) خطوة تصويرية أولى سريعة ومفيدة لاشتباه انسداد."
+      "narration": "الخيار A هو الإجابة الصحيحة. الأشعة البطنية (واقفة ومستلقية) خطوة تصويرية أولى سريعة ومفيدة لاشتباه انسداد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأشعة البطنية (واقفة ومستلقية) خطوة تصويرية أولى سريعة ومفيدة لاشتباه انسداد. وتذكّر القاعدة: Suspected obstruction: X-ray (upright/supine) First. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الأشعة البطنية (واقفة ومستلقية) خطوة تصويرية أولى سريعة ومفيدة لاشتباه انسداد. وتذكّر: Suspected obstruction: X-ray (upright/supine) First. والإجابة الصحيحة هي A."
     }
   ]
 }

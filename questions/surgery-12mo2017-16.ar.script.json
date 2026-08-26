@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "The serum will most likely show an increased level…"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر أربعين عامًا، كانت تتمتع بصحة جيدة سابقًا، قُدّمتكحالة طارئة تعاني من ألم في البطن تفاقم بسبب وجبات دسمة، مصحوبًابتغير لون صلبة عينها إلى الأصفر، وقيء، وحكة، وبراز بلون الطين، وبولداكن. لا يوجد تاريخ لفقدان الوزن. جميعها صحيحة باستثناء:؟ (سؤال مكرر، راجع السؤال رقم 505) أمامك هذه الخيارات: The cause of dark urine is the increased conjugated bilirubin in urine، أو The serum liver function tests will most likely shows increase alkaline phosphatase، أو The serum will most likely show an increased level of amylase with a decreased level of lipase، أو The most likely diagnosis in this patient is gallstones and stones in the common bile duct، أو This patient needs admission, painkillers, rehydration IV fluid, antibiotics and arrangement for ERCP. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر أربعين عامًا، كانت تتمتع بصحة جيدة سابقًا، قُدّمتكحالة طارئة تعاني من ألم في البطن تفاقم بسبب وجبات دسمة، مصحوبًابتغير لون صلبة عينها إلى الأصفر، وقيء، وحكة، وبراز بلون الطين، وبولداكن. لا يوجد تاريخ لفقدان الوزن. جميعها صحيحة باستثناء:؟ (سؤال مكرر، راجع السؤال رقم 505) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The cause of dark urine is the increased conjugated bilirubin in urine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase. يصبح صحيحًا في سؤال يصف Dark urine from conjugated bilirubin and elevated alkaline phosphatase relate to obstructive/biliary causes. الخيار B، The serum liver function tests will most likely shows increase alkaline phosphatase: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase. يصبح صحيحًا في سؤال يصف Dark urine from conjugated bilirubin and elevated alkaline phosphatase relate to obstructive/biliary causes. الخيار D، The most likely diagnosis in this patient is gallstones and stones in the common bile duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase. يصبح صحيحًا في سؤال يصف gallstones with a CBD stone is a plausible but different differential. الخيار E، This patient needs admission, painkillers, rehydration IV fluid, antibiotics and arrangement for ERCP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum will most likely show an increased level of amylase with a decreased level of lipase. يصبح صحيحًا في سؤال يصف admission with ERCP arrangement is reasonable supportive care in general — the classic pancreatitis lab finding is increased amylase WITH increased (not decreased) lipase, making the described 'decreased lipase' the false element that makes C the.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pancreatitis diagnosis: Amylase rises"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: The serum will most likely show an increased level of amylase with a decreased level of lipase. ارتفاع الأميلاز المصلي هو الفحص التشخيصي الكلاسيكي لالتهاب البنكرياس الحاد."
+      "narration": "الخيار C هو الإجابة الصحيحة. ارتفاع الأميلاز المصلي هو الفحص التشخيصي الكلاسيكي لالتهاب البنكرياس الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع الأميلاز المصلي هو الفحص التشخيصي الكلاسيكي لالتهاب البنكرياس الحاد. وتذكّر القاعدة: Pancreatitis diagnosis: Amylase rises. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ارتفاع الأميلاز المصلي هو الفحص التشخيصي الكلاسيكي لالتهاب البنكرياس الحاد. وتذكّر: Pancreatitis diagnosis: Amylase rises. والإجابة الصحيحة هي C."
     }
   ]
 }

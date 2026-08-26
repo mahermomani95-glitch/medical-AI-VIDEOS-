@@ -45,7 +45,7 @@
         "label": "Inadequate tissue perfusion",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو التعريف المناسب للصدمة؟ أمامك هذه الخيارات: Low blood pressure، أو Low cardiac output، أو Low circulating volumes، أو Inadequate tissue perfusion، أو Abnormal vascular resistance. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو التعريف المناسب للصدمة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Low blood pressure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inadequate tissue perfusion. يصبح صحيحًا في سؤال يصف Low blood pressure, low cardiac output, low circulating volume, and abnormal vascular resistance each describe only ONE specific type of shock, unlike inadequate tissue perfusion, which is the comprehensive definition encompassing all shock types. الخيار B، Low cardiac output: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inadequate tissue perfusion. يصبح صحيحًا في سؤال يصف Low blood pressure, low cardiac output, low circulating volume, and abnormal vascular resistance each describe only ONE specific type of shock, unlike inadequate tissue perfusion, which is the comprehensive definition encompassing all shock types. الخيار C، Low circulating volumes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inadequate tissue perfusion. يصبح صحيحًا في سؤال يصف Low blood pressure, low cardiac output, low circulating volume, and abnormal vascular resistance each describe only ONE specific type of shock, unlike inadequate tissue perfusion, which is the comprehensive definition encompassing all shock types. الخيار E، Abnormal vascular resistance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inadequate tissue perfusion. يصبح صحيحًا في سؤال يصف Low blood pressure, low cardiac output, low circulating volume, and abnormal vascular resistance each describe only ONE specific type of shock, unlike inadequate tissue perfusion, which is the comprehensive definition encompassing all shock types.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Low blood pressure: الإجابة الصحيحة هي Inadequate tissue perfusion. الخيار B، Low cardiac output: الإجابة الصحيحة هي Inadequate tissue perfusion. الخيار C، Low circulating volumes: الإجابة الصحيحة هي Inadequate tissue perfusion. الخيار E، Abnormal vascular resistance: الإجابة الصحيحة هي Inadequate tissue perfusion. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Shock: Shortage of tissue Perfusion"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Inadequate tissue perfusion. الصدمة تُعرَّف بنقص التروية النسيجية، لا انخفاض الضغط وحده."
+      "narration": "الخيار D، Inadequate tissue perfusion هو الإجابة الصحيحة. الصدمة تُعرَّف بنقص التروية النسيجية، لا انخفاض الضغط وحده."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصدمة تُعرَّف بنقص التروية النسيجية، لا انخفاض الضغط وحده. وتذكّر القاعدة: Shock: Shortage of tissue Perfusion. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الصدمة تُعرَّف بنقص التروية النسيجية، لا انخفاض الضغط وحده. وتذكّر: Shock: Shortage of tissue Perfusion. والإجابة الصحيحة هي D."
     }
   ]
 }

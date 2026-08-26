@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Large bore cannula and IV fluid"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Large bore cannula and IV fluid، أو Morphine for pain relief، أو IV Antibiotic، أو Intubation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Morphine for pain relief: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Large bore cannula and IV fluid. يصبح صحيحًا في سؤال يصف Morphine for pain relief, IV antibiotics, and intubation may all be needed at some point, but IV fluid resuscitation remains the single most important initial management priority given the massive fluid sequestration in acute pancreatitis. الخيار C، IV Antibiotic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Large bore cannula and IV fluid. يصبح صحيحًا في سؤال يصف Morphine for pain relief, IV antibiotics, and intubation may all be needed at some point, but IV fluid resuscitation remains the single most important initial management priority given the massive fluid sequestration in acute pancreatitis. الخيار D، Intubation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Large bore cannula and IV fluid. يصبح صحيحًا في سؤال يصف Morphine for pain relief, IV antibiotics, and intubation may all be needed at some point, but IV fluid resuscitation remains the single most important initial management priority given the massive fluid sequestration in acute pancreatitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Morphine for pain relief: الإجابة الصحيحة هي Large bore cannula and IV fluid. الخيار C، IV Antibiotic: الإجابة الصحيحة هي Large bore cannula and IV fluid. الخيار D، Intubation: الإجابة الصحيحة هي Large bore cannula and IV fluid. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Pancreatitis initial management = Large-bore "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Large bore cannula and IV fluid. كانيولا وريدية واسعة القطر وإرواء وريدي قوي هما الخطوة الأولى الأساسية، نظرًا للتسرب الهائل للسوائل في التهاب البنكرياس الحاد."
+      "narration": "الخيار A هو الإجابة الصحيحة. كانيولا وريدية واسعة القطر وإرواء وريدي قوي هما الخطوة الأولى الأساسية، نظرًا للتسرب الهائل للسوائل في التهاب البنكرياس الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كانيولا وريدية واسعة القطر وإرواء وريدي قوي هما الخطوة الأولى الأساسية، نظرًا للتسرب الهائل للسوائل في التهاب البنكرياس الحاد. وتذكّر القاعدة: \"Pancreatitis initial management = Large-bore IV + aggressive fluids\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. كانيولا وريدية واسعة القطر وإرواء وريدي قوي هما الخطوة الأولى الأساسية، نظرًا للتسرب الهائل للسوائل في التهاب البنكرياس الحاد. وتذكّر: \"Pancreatitis initial management = Large-bore IV + aggressive fluids\". والإجابة الصحيحة هي A."
     }
   ]
 }

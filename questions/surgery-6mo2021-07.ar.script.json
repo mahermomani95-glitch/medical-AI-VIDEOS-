@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Cyanosis"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Pain، أو Paraesthesia، أو Pulselessness، أو Cyanosis، أو Paralysis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis. الخيار B، Paraesthesia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis. الخيار C، Pulselessness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis. الخيار E، Paralysis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, paresthesia, pulselessness, and paralysis are all part of the classic 6 P's of acute… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cyanosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: صحيحة، لكنها ليست الاستثناء. الخيار B، Paraesthesia: صحيحة، لكنها ليست الاستثناء. الخيار C، Pulselessness: صحيحة، لكنها ليست الاستثناء. الخيار E، Paralysis: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"6 P's: Pallor, not Cyanosis\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Cyanosis. الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد."
+      "narration": "الخيار D، Cyanosis هو الإجابة الصحيحة. الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد. وتذكّر القاعدة: \"6 P's: Pallor, not Cyanosis\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الشحوب، وليس الزرقة، هو التغير اللوني الكلاسيكي لنقص التروية الشرياني الحاد. وتذكّر: \"6 P's: Pallor, not Cyanosis\". والإجابة الصحيحة هي D."
     }
   ]
 }

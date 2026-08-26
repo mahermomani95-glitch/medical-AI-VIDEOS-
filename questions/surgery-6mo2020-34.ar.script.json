@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Congenital hydrocele"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Torsion، أو Varicocele، أو Testicular abscess، أو Congenital hydrocele، أو Inguinal hernias. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Torsion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Congenital hydrocele. يصبح صحيحًا في سؤال يصف Testicular torsion, varicocele, testicular abscess, and inguinal hernia can all cause scrotal swelling but have different findings than the transilluminant, reducible, activity-dependent mass matching a congenital hydrocele. الخيار B، Varicocele: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Congenital hydrocele. يصبح صحيحًا في سؤال يصف Testicular torsion, varicocele, testicular abscess, and inguinal hernia can all cause scrotal swelling but have different findings than the transilluminant, reducible, activity-dependent mass matching a congenital hydrocele. الخيار C، Testicular abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Congenital hydrocele. يصبح صحيحًا في سؤال يصف Testicular torsion, varicocele, testicular abscess, and inguinal hernia can all cause scrotal swelling but have different findings than the transilluminant, reducible, activity-dependent mass matching a congenital hydrocele. الخيار E، Inguinal hernias: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Congenital hydrocele. يصبح صحيحًا في سؤال يصف Testicular torsion, varicocele, testicular abscess, and inguinal hernia can all cause scrotal swelling but have different findings than the transilluminant, reducible, activity-dependent mass matching a congenital hydrocele.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Torsion: الإجابة الصحيحة هي Congenital hydrocele. الخيار B، Varicocele: الإجابة الصحيحة هي Congenital hydrocele. الخيار C، Testicular abscess: الإجابة الصحيحة هي Congenital hydrocele. الخيار E، Inguinal hernias: الإجابة الصحيحة هي Congenital hydrocele. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Transilluminant + varies with crying = Congen"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Congenital hydrocele. ورم صفني طري قابل للإرجاع يتوهج بالضوء ويتغير مع النشاط والبكاء (زيادة الضغط داخل البطن تدفع السائل عبر القناة) هو قيلة مائية خلقية متصلة."
+      "narration": "الخيار D، Congenital hydrocele هو الإجابة الصحيحة. ورم صفني طري قابل للإرجاع يتوهج بالضوء ويتغير مع النشاط والبكاء (زيادة الضغط داخل البطن تدفع السائل عبر القناة) هو قيلة مائية خلقية متصلة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ورم صفني طري قابل للإرجاع يتوهج بالضوء ويتغير مع النشاط والبكاء (زيادة الضغط داخل البطن تدفع السائل عبر القناة) هو قيلة مائية خلقية متصلة. وتذكّر القاعدة: \"Transilluminant + varies with crying = Congenital hydrocele\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ورم صفني طري قابل للإرجاع يتوهج بالضوء ويتغير مع النشاط والبكاء (زيادة الضغط داخل البطن تدفع السائل عبر القناة) هو قيلة مائية خلقية متصلة. وتذكّر: \"Transilluminant + varies with crying = Congenital hydrocele\". والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Femoral hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. أُحيلت امرأة تبلغ من العمر 78 عامًا إلى عيادتكم بسبب انتفاخ في الفخذ. لاحظته لأول مرة قبل شهرين، وتقول إنه يكبر مع الوقوف لفترات طويلة ويتقلصمع الاستلقاء، ولكنه غير مؤلم. كشف الفحص عن وجود كتلة صلبة وغير قابلةللاختزال بقطر 2 سم فوق الجانب الإنسي للفخذ الأيسر أسفل الرباط الإربي. لا يوجد أي دافع للسعال. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Direct inguinal hernia، أو Femoral hernia، أو Indirct inguinal hernia، أو Incisional hernia، أو Femoral artery aneurysm. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أُحيلت امرأة تبلغ من العمر 78 عامًا إلى عيادتكم بسبب انتفاخ في الفخذ. لاحظته لأول مرة قبل شهرين، وتقول إنه يكبر مع الوقوف لفترات طويلة ويتقلصمع الاستلقاء، ولكنه غير مؤلم. كشف الفحص عن وجود كتلة صلبة وغير قابلةللاختزال بقطر 2 سم فوق الجانب الإنسي للفخذ الأيسر أسفل الرباط الإربي. لا يوجد أي دافع للسعال. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Direct inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Direct inguinal hernia, indirect inguinal hernia, incisional hernia, and femoral artery aneurysm are all groin/abdominal wall conditions with different locations than the firm, irreducible lump specifically below the inguinal ligament matching femoral hernia. الخيار C، Indirct inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Direct inguinal hernia, indirect inguinal hernia, incisional hernia, and femoral artery aneurysm are all groin/abdominal wall conditions with different locations than the firm, irreducible lump specifically below the inguinal ligament matching femoral hernia. الخيار D، Incisional hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Direct inguinal hernia, indirect inguinal hernia, incisional hernia, and femoral artery aneurysm are all groin/abdominal wall conditions with different locations than the firm, irreducible lump specifically below the inguinal ligament matching femoral hernia. الخيار E، Femoral artery aneurysm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Direct inguinal hernia, indirect inguinal hernia, incisional hernia, and femoral artery aneurysm are all groin/abdominal wall conditions with different locations than the firm, irreducible lump specifically below the inguinal ligament matching femoral hernia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Direct inguinal hernia: الإجابة الصحيحة هي Femoral hernia. الخيار C، Indirct inguinal hernia: الإجابة الصحيحة هي Femoral hernia. الخيار D، Incisional hernia: الإجابة الصحيحة هي Femoral hernia. الخيار E، Femoral artery aneurysm: الإجابة الصحيحة هي Femoral hernia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Below inguinal ligament + elderly woman = Fem"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Femoral hernia. كتلة صلبة غير قابلة للإرجاع أسفل الرباط الإربي بدون دافع سعال عند امرأة مسنّة هي العرض الكلاسيكي للفتق الفخذي."
+      "narration": "الخيار B، Femoral hernia هو الإجابة الصحيحة. كتلة صلبة غير قابلة للإرجاع أسفل الرباط الإربي بدون دافع سعال عند امرأة مسنّة هي العرض الكلاسيكي للفتق الفخذي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كتلة صلبة غير قابلة للإرجاع أسفل الرباط الإربي بدون دافع سعال عند امرأة مسنّة هي العرض الكلاسيكي للفتق الفخذي. وتذكّر القاعدة: \"Below inguinal ligament + elderly woman = Femoral hernia\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. كتلة صلبة غير قابلة للإرجاع أسفل الرباط الإربي بدون دافع سعال عند امرأة مسنّة هي العرض الكلاسيكي للفتق الفخذي. وتذكّر: \"Below inguinal ligament + elderly woman = Femoral hernia\". والإجابة الصحيحة هي B."
     }
   ]
 }

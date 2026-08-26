@@ -45,7 +45,7 @@
         "label": "Infant mortality rate",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. المؤشر الأهم لصحة السكان هو؟ أمامك هذه الخيارات: Crude birth rate، أو Crude mortality rate، أو Infant mortality rate، أو Maternal mortality rate، أو Total fertality rate. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المؤشر الأهم لصحة السكان هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Crude birth rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infant mortality rate. يصبح صحيحًا في سؤال يصف Crude birth rate, crude mortality rate, maternal mortality rate, and total fertility rate are all useful demographic indicators, but infant mortality rate is widely considered the single most sensitive overall indicator of a population's health status. الخيار B، Crude mortality rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infant mortality rate. يصبح صحيحًا في سؤال يصف Crude birth rate, crude mortality rate, maternal mortality rate, and total fertility rate are all useful demographic indicators, but infant mortality rate is widely considered the single most sensitive overall indicator of a population's health status. الخيار D، Maternal mortality rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infant mortality rate. يصبح صحيحًا في سؤال يصف Crude birth rate, crude mortality rate, maternal mortality rate, and total fertility rate are all useful demographic indicators, but infant mortality rate is widely considered the single most sensitive overall indicator of a population's health status. الخيار E، Total fertality rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infant mortality rate. يصبح صحيحًا في سؤال يصف Crude birth rate, crude mortality rate, maternal mortality rate, and total fertility rate are all useful demographic indicators, but infant mortality rate is widely considered the single most sensitive overall indicator of a population's health status.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Crude birth rate: الإجابة الصحيحة هي Infant mortality rate. الخيار B، Crude mortality rate: الإجابة الصحيحة هي Infant mortality rate. الخيار D، Maternal mortality rate: الإجابة الصحيحة هي Infant mortality rate. الخيار E، Total fertality rate: الإجابة الصحيحة هي Infant mortality rate. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Population health: Infant mortality rate leads"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Infant mortality rate. معدل وفيات الرضع هو المؤشر الأكثر استخدامًا لتقييم صحة المجتمع."
+      "narration": "الخيار C، Infant mortality rate هو الإجابة الصحيحة. معدل وفيات الرضع هو المؤشر الأكثر استخدامًا لتقييم صحة المجتمع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معدل وفيات الرضع هو المؤشر الأكثر استخدامًا لتقييم صحة المجتمع. وتذكّر القاعدة: Population health: Infant mortality rate leads. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. معدل وفيات الرضع هو المؤشر الأكثر استخدامًا لتقييم صحة المجتمع. وتذكّر: Population health: Infant mortality rate leads. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Ultrasound"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Ligation of the patent processus vaginalis، أو Excision of dilated pampiniform plexus، أو Ultrasound، أو Percutaneous drainage، أو Radical inguinal orchiectomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ligation of the patent processus vaginalis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound. يصبح صحيحًا في سؤال يصف Ligation of the patent processus vaginalis is actually the correct pediatric hernia repair technique itself (relevant to a different question). الخيار B، Excision of dilated pampiniform plexus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hydrocele. يصبح صحيحًا في سؤال يصف excision of the pampiniform plexus treats varicocele. الخيار D، Percutaneous drainage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound. يصبح صحيحًا في سؤال يصف percutaneous drainage isn't standard for a congenital hydrocele. الخيار E، Radical inguinal orchiectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound. يصبح صحيحًا في سؤال يصف radical orchiectomy is for suspected malignancy, inappropriate here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Ultrasound. الخيار B: المطلوب هنا hydrocele. الخيار D، Percutaneous drainage: الإجابة الصحيحة هي Ultrasound. الخيار E، Radical inguinal orchiectomy: الإجابة الصحيحة هي Ultrasound. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Transilluminates + no bowel sounds = Hydrocel"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Ultrasound. ورم صفني قابل للإرجاع، يتوهج بالضوء، بلا أصوات معوية، يتغير مع النشاط، هو قيلة مائية متصلة — أكّد بالأمواج فوق الصوتية قبل أي تدخل."
+      "narration": "الخيار C، Ultrasound هو الإجابة الصحيحة. ورم صفني قابل للإرجاع، يتوهج بالضوء، بلا أصوات معوية، يتغير مع النشاط، هو قيلة مائية متصلة — أكّد بالأمواج فوق الصوتية قبل أي تدخل."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ورم صفني قابل للإرجاع، يتوهج بالضوء، بلا أصوات معوية، يتغير مع النشاط، هو قيلة مائية متصلة — أكّد بالأمواج فوق الصوتية قبل أي تدخل. وتذكّر القاعدة: \"Transilluminates + no bowel sounds = Hydrocele, confirm with US\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ورم صفني قابل للإرجاع، يتوهج بالضوء، بلا أصوات معوية، يتغير مع النشاط، هو قيلة مائية متصلة — أكّد بالأمواج فوق الصوتية قبل أي تدخل. وتذكّر: \"Transilluminates + no bowel sounds = Hydrocele, confirm with US\". والإجابة الصحيحة هي C."
     }
   ]
 }

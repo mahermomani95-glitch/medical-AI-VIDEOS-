@@ -45,7 +45,7 @@
         "label": "Case fatality rate",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. عندما يتم عرض العدد الإجمالي للوفيات بسبب الحصبة فيما يتعلق بإجماليحالات الحصبة، فمن الأفضل تسميتها بـ؟ أمامك هذه الخيارات: Cause-specific death rate، أو Incidence rate، أو Prevalence rate، أو Case fatality rate، أو Proportional mortality. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. عندما يتم عرض العدد الإجمالي للوفيات بسبب الحصبة فيما يتعلق بإجماليحالات الحصبة، فمن الأفضل تسميتها بـ؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cause-specific death rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Case fatality rate. يصبح صحيحًا في سؤال يصف Cause-specific death rate, incidence rate, prevalence rate, and proportional mortality are all different epidemiologic measures — the ratio of deaths to total diagnosed cases specifically defines the case fatality rate. الخيار B، Incidence rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Case fatality rate. يصبح صحيحًا في سؤال يصف Cause-specific death rate, incidence rate, prevalence rate, and proportional mortality are all different epidemiologic measures — the ratio of deaths to total diagnosed cases specifically defines the case fatality rate. الخيار C، Prevalence rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Case fatality rate. يصبح صحيحًا في سؤال يصف Cause-specific death rate, incidence rate, prevalence rate, and proportional mortality are all different epidemiologic measures — the ratio of deaths to total diagnosed cases specifically defines the case fatality rate. الخيار E، Proportional mortality: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Case fatality rate. يصبح صحيحًا في سؤال يصف Cause-specific death rate, incidence rate, prevalence rate, and proportional mortality are all different epidemiologic measures — the ratio of deaths to total diagnosed cases specifically defines the case fatality rate.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Cause-specific death rate: الإجابة الصحيحة هي Case fatality rate. الخيار B، Incidence rate: الإجابة الصحيحة هي Case fatality rate. الخيار C، Prevalence rate: الإجابة الصحيحة هي Case fatality rate. الخيار E، Proportional mortality: الإجابة الصحيحة هي Case fatality rate. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Deaths per Cases: Case Fatality rate"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Case fatality rate. معدل قاتلية الحالة يُحسب بنسبة الوفيات للمصابين تحديدًا لا السكان الكلي."
+      "narration": "الخيار D، Case fatality rate هو الإجابة الصحيحة. معدل قاتلية الحالة يُحسب بنسبة الوفيات للمصابين تحديدًا لا السكان الكلي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معدل قاتلية الحالة يُحسب بنسبة الوفيات للمصابين تحديدًا لا السكان الكلي. وتذكّر القاعدة: Deaths per Cases: Case Fatality rate. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. معدل قاتلية الحالة يُحسب بنسبة الوفيات للمصابين تحديدًا لا السكان الكلي. وتذكّر: Deaths per Cases: Case Fatality rate. والإجابة الصحيحة هي D."
     }
   ]
 }

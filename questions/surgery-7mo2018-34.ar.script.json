@@ -45,7 +45,7 @@
         "label": "Unenhanced urinary tract CT",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الصورة الأكثر حساسية لحصوات المسالك البولية هي أمامك هذه الخيارات: MRI، أو Ultrasound، أو Intravenous pyelogram، أو Enhanced urinary tract CT، أو Unenhanced urinary tract CT. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الصورة الأكثر حساسية لحصوات المسالك البولية هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، MRI: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unenhanced urinary tract CT. يصبح صحيحًا في سؤال يصف MRI, intravenous pyelogram, and enhanced (contrast) CT are all imaging options for urinary stones, but none matches the sensitivity of unenhanced CT specifically for stone detection. الخيار B، Ultrasound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unenhanced urinary tract CT. يصبح صحيحًا في سؤال يستهدف Ultrasound تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Intravenous pyelogram: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unenhanced urinary tract CT. يصبح صحيحًا في سؤال يصف MRI, intravenous pyelogram, and enhanced (contrast) CT are all imaging options for urinary stones, but none matches the sensitivity of unenhanced CT specifically for stone detection. الخيار D، Enhanced urinary tract CT: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Unenhanced urinary tract CT. يصبح صحيحًا في سؤال يصف MRI, intravenous pyelogram, and enhanced (contrast) CT are all imaging options for urinary stones, but none matches the sensitivity of unenhanced CT specifically for stone detection.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، MRI: الإجابة الصحيحة هي Unenhanced urinary tract CT. الخيار B، Ultrasound: الإجابة الصحيحة هي Unenhanced urinary tract CT. الخيار C، Intravenous pyelogram: الإجابة الصحيحة هي Unenhanced urinary tract CT. الخيار D، Enhanced urinary tract CT: الإجابة الصحيحة هي Unenhanced urinary tract CT. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Unenhanced CT sees it all\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Unenhanced urinary tract CT. الأشعة المقطعية غير المحقونة بالصبغة تكشف الحصى التي تفوتها الموجات فوق الصوتية والأشعة السينية — الفحص الأكثر حساسية."
+      "narration": "الخيار E، Unenhanced urinary tract CT هو الإجابة الصحيحة. الأشعة المقطعية غير المحقونة بالصبغة تكشف الحصى التي تفوتها الموجات فوق الصوتية والأشعة السينية — الفحص الأكثر حساسية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأشعة المقطعية غير المحقونة بالصبغة تكشف الحصى التي تفوتها الموجات فوق الصوتية والأشعة السينية — الفحص الأكثر حساسية. وتذكّر القاعدة: \"Unenhanced CT sees it all\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الأشعة المقطعية غير المحقونة بالصبغة تكشف الحصى التي تفوتها الموجات فوق الصوتية والأشعة السينية — الفحص الأكثر حساسية. وتذكّر: \"Unenhanced CT sees it all\". والإجابة الصحيحة هي E."
     }
   ]
 }

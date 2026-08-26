@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Place a three-sided occlusive dressing over injury…"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 25 عامًا حضر إلى قسم الطوارئ مصابًا بإصابة نافذةفي جدار الصدر ناتجة عن طلق ناري. ما هو العلاج الفوري لاسترواح الصدرالمفتوح الرضحي في غرفة الطوارئ؟ أمامك هذه الخيارات: Chest tube placement in 4th intercostal space، أو Place a three-sided occlusive dressing over injury site، أو Needle thoracentesis in 2nd intercostal space، أو Emergancy thoracotomy، أو VATS (video-assisted thoracoscopic surgery). لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 25 عامًا حضر إلى قسم الطوارئ مصابًا بإصابة نافذةفي جدار الصدر ناتجة عن طلق ناري. ما هو العلاج الفوري لاسترواح الصدرالمفتوح الرضحي في غرفة الطوارئ؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Chest tube placement in 4th intercostal space: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Place a three-sided occlusive dressing over injury site. يصبح صحيحًا في سؤال يصف Chest tube in the 4th intercostal space, needle thoracentesis in the 2nd space, emergency thoracotomy, and VATS are all real procedures for chest emergencies but none is the immediate first step for an open (sucking) chest wound, which requires a three-sided occlusive dressing first. الخيار C، Needle thoracentesis in 2nd intercostal space: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Place a three-sided occlusive dressing over injury site. يصبح صحيحًا في سؤال يصف Chest tube in the 4th intercostal space, needle thoracentesis in the 2nd space, emergency thoracotomy, and VATS are all real procedures for chest emergencies but none is the immediate first step for an open (sucking) chest wound, which requires a three-sided occlusive dressing first. الخيار D، Emergancy thoracotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Place a three-sided occlusive dressing over injury site. يصبح صحيحًا في سؤال يصف Chest tube in the 4th intercostal space, needle thoracentesis in the 2nd space, emergency thoracotomy, and VATS are all real procedures for chest emergencies but none is the immediate first step for an open (sucking) chest wound, which requires a three-sided occlusive dressing first. الخيار E، VATS (video-assisted thoracoscopic surgery): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Place a three-sided occlusive dressing over injury site. يصبح صحيحًا في سؤال يصف Chest tube in the 4th intercostal space, needle thoracentesis in the 2nd space, emergency thoracotomy, and VATS are all real procedures for chest emergencies but none is the immediate first step for an open (sucking) chest wound, which requires a three-sided occlusive dressing first.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D، Emergancy thoracotomy: لا ينطبق على هذه الحالة. الخيار E، VATS (video-assisted thoracoscopic surgery): لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"3-sided dressing = one-way flutter valve\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Place a three-sided occlusive dressing over injury site. أغلق ثلاثة جوانب من الجرح واترك جانبًا واحدًا مفتوحًا كصمام رفرفة — يسمح بخروج الهواء دون دخوله، مانعًا تطور فيزيولوجيا التوتر."
+      "narration": "الخيار B هو الإجابة الصحيحة. أغلق ثلاثة جوانب من الجرح واترك جانبًا واحدًا مفتوحًا كصمام رفرفة — يسمح بخروج الهواء دون دخوله، مانعًا تطور فيزيولوجيا التوتر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. أغلق ثلاثة جوانب من الجرح واترك جانبًا واحدًا مفتوحًا كصمام رفرفة — يسمح بخروج الهواء دون دخوله، مانعًا تطور فيزيولوجيا التوتر. وتذكّر القاعدة: \"3-sided dressing = one-way flutter valve\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. أغلق ثلاثة جوانب من الجرح واترك جانبًا واحدًا مفتوحًا كصمام رفرفة — يسمح بخروج الهواء دون دخوله، مانعًا تطور فيزيولوجيا التوتر. وتذكّر: \"3-sided dressing = one-way flutter valve\". والإجابة الصحيحة هي B."
     }
   ]
 }

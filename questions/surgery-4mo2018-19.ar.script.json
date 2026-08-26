@@ -45,7 +45,7 @@
         "label": "Carotid endarterectomy",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 60 عامًا يُصاب بنوبة نقص تروية عابرة، وأظهر فحصبالموجات فوق الصوتية للشريان السباتي تضيقًا بنسبة 80%. الخطوة التاليةالمناسبة هي: أمامك هذه الخيارات: Plavix، أو ASA، أو Warfarin، أو Carotid endarterectomy، أو Observation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 60 عامًا يُصاب بنوبة نقص تروية عابرة، وأظهر فحصبالموجات فوق الصوتية للشريان السباتي تضيقًا بنسبة 80%. الخطوة التاليةالمناسبة هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Plavix: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا preferred as the primary treatment once stenosis is this severe and symptomatic. يصبح صحيحًا في سؤال يصف Plavix, aspirin, and warfarin are all antiplatelet/anticoagulant options but. الخيار B، ASA: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا preferred as the primary treatment once stenosis is this severe and symptomatic. يصبح صحيحًا في سؤال يصف Plavix, aspirin, and warfarin are all antiplatelet/anticoagulant options but. الخيار C، Warfarin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا preferred as the primary treatment once stenosis is this severe and symptomatic. يصبح صحيحًا في سؤال يصف Plavix, aspirin, and warfarin are all antiplatelet/anticoagulant options but. الخيار E، Observation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carotid endarterectomy. يصبح صحيحًا في سؤال يصف observation alone is inappropriate given the high stroke risk at 80% symptomatic stenosis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Plavix: لا ينطبق على هذه الحالة. الخيار B، ASA: لا ينطبق على هذه الحالة. الخيار C، Warfarin: لا ينطبق على هذه الحالة. الخيار E، Observation: الإجابة الصحيحة هي Carotid endarterectomy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Symptomatic + severe = surgery\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Carotid endarterectomy. التضيق السباتي الشديد المصحوب بأعراض (نوبات إقفارية عابرة) يعني وجوب استئصال اللويحة جراحيًا الآن."
+      "narration": "الخيار D، Carotid endarterectomy هو الإجابة الصحيحة. التضيق السباتي الشديد المصحوب بأعراض (نوبات إقفارية عابرة) يعني وجوب استئصال اللويحة جراحيًا الآن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التضيق السباتي الشديد المصحوب بأعراض (نوبات إقفارية عابرة) يعني وجوب استئصال اللويحة جراحيًا الآن. وتذكّر القاعدة: \"Symptomatic + severe = surgery\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. التضيق السباتي الشديد المصحوب بأعراض (نوبات إقفارية عابرة) يعني وجوب استئصال اللويحة جراحيًا الآن. وتذكّر: \"Symptomatic + severe = surgery\". والإجابة الصحيحة هي D."
     }
   ]
 }

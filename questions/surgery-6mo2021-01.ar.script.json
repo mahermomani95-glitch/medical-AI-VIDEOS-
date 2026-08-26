@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Partial-thickness burns more than 10% in adultsb"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Full-thickness burns more than 5% of total body surface area (TBSA)، أو Partial-thickness burns more than 10% in adultsb، أو Partial-thickness burns more than 10% in children، أو Inhalations burns، أو Electric burns. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Full-thickness burns more than 5% of total body surface area (TBSA): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb. الخيار C، Partial-thickness burns more than 10% in children: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb. الخيار D، Inhalations burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb. الخيار E، Electric burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Full-thickness burns over 5% TBSA, partial-thickness burns over 10% in children, inhalation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Partial-thickness burns more than 10% in adultsb.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Inhalations burns: صحيحة، لكنها ليست الاستثناء. الخيار E، Electric burns: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Partial-thickness >10% adults = DOES need adm"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Partial-thickness burns more than 10% in adultsb. الحروق الجزئية السماكة فوق 10% عند البالغين هي فعليًا استطباب للقبول — هذه العبارة صحيحة، مما يجعلها الاستثناء لـ\"ليست استطبابًا\"."
+      "narration": "الخيار B هو الإجابة الصحيحة. الحروق الجزئية السماكة فوق 10% عند البالغين هي فعليًا استطباب للقبول — هذه العبارة صحيحة، مما يجعلها الاستثناء لـ\"ليست استطبابًا\"."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحروق الجزئية السماكة فوق 10% عند البالغين هي فعليًا استطباب للقبول — هذه العبارة صحيحة، مما يجعلها الاستثناء لـ\"ليست استطبابًا\". وتذكّر القاعدة: \"Partial-thickness >10% adults = DOES need admission\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الحروق الجزئية السماكة فوق 10% عند البالغين هي فعليًا استطباب للقبول — هذه العبارة صحيحة، مما يجعلها الاستثناء لـ\"ليست استطبابًا\". وتذكّر: \"Partial-thickness >10% adults = DOES need admission\". والإجابة الصحيحة هي B."
     }
   ]
 }

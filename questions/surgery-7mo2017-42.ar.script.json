@@ -45,7 +45,7 @@
         "label": "Hemorrhage",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. لقد طُلب منك الموافقة على إدخال خط مركزي لمريض، وقد نصحته بشأن سببالإجراء، وما هي المضاعفات الفورية الأكثر شيوعًا لإدخال الخط المركزي؟ أمامك هذه الخيارات: Infection، أو Thrombus، أو Hemorrhage، أو Nerve injury، أو Catheter migration. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. لقد طُلب منك الموافقة على إدخال خط مركزي لمريض، وقد نصحته بشأن سببالإجراء، وما هي المضاعفات الفورية الأكثر شيوعًا لإدخال الخط المركزي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hemorrhage. يصبح صحيحًا في سؤال يصف Infection, thrombus, nerve injury, and catheter migration are all recognized risks of central line placement, but hemorrhage (from vessel puncture, especially arterial) is generally considered the primary/most significant acute risk to specifically discuss for informed consent. الخيار B، Thrombus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hemorrhage. يصبح صحيحًا في سؤال يصف Infection, thrombus, nerve injury, and catheter migration are all recognized risks of central line placement, but hemorrhage (from vessel puncture, especially arterial) is generally considered the primary/most significant acute risk to specifically discuss for informed consent. الخيار D، Nerve injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hemorrhage. يصبح صحيحًا في سؤال يصف Infection, thrombus, nerve injury, and catheter migration are all recognized risks of central line placement, but hemorrhage (from vessel puncture, especially arterial) is generally considered the primary/most significant acute risk to specifically discuss for informed consent. الخيار E، Catheter migration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hemorrhage. يصبح صحيحًا في سؤال يصف Infection, thrombus, nerve injury, and catheter migration are all recognized risks of central line placement, but hemorrhage (from vessel puncture, especially arterial) is generally considered the primary/most significant acute risk to specifically discuss for informed consent.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Infection: الإجابة الصحيحة هي Hemorrhage. الخيار B، Thrombus: الإجابة الصحيحة هي Hemorrhage. الخيار D، Nerve injury: الإجابة الصحيحة هي Hemorrhage. الخيار E، Catheter migration: الإجابة الصحيحة هي Hemorrhage. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Central line consent: Hemorrhage risk must be "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hemorrhage. النزف خطر حقيقي واجب مناقشته صراحة قبل تركيب القسطرة المركزية."
+      "narration": "الخيار C، Hemorrhage هو الإجابة الصحيحة. النزف خطر حقيقي واجب مناقشته صراحة قبل تركيب القسطرة المركزية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النزف خطر حقيقي واجب مناقشته صراحة قبل تركيب القسطرة المركزية. وتذكّر القاعدة: Central line consent: Hemorrhage risk must be discussed. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. النزف خطر حقيقي واجب مناقشته صراحة قبل تركيب القسطرة المركزية. وتذكّر: Central line consent: Hemorrhage risk must be discussed. والإجابة الصحيحة هي C."
     }
   ]
 }

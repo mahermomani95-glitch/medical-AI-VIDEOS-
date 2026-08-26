@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Compartment syndrome"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 60 عامًا يعاني من تورم ملحوظ في ساقه بعد يوم واحد منخضوعه لجراحة مجازة فخذية بعيدة بسبب نقص تروية حرج. نبضات القلبموجودة، لكن الساق متوترة ومؤلمة. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: DVT، أو Compartment syndrome، أو Critical ischemia، أو Lymphoedema، أو Cellulitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 60 عامًا يعاني من تورم ملحوظ في ساقه بعد يوم واحد منخضوعه لجراحة مجازة فخذية بعيدة بسبب نقص تروية حرج. نبضات القلبموجودة، لكن الساق متوترة ومؤلمة. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، DVT: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome. يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense, tender calf with preserved pulses after revascularization. الخيار C، Critical ischemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome. يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense, tender calf with preserved pulses after revascularization. الخيار D، Lymphoedema: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome. يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense, tender calf with preserved pulses after revascularization. الخيار E، Cellulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Compartment syndrome. يصبح صحيحًا في سؤال يصف DVT, critical ischemia, lymphedema, and cellulitis can all cause leg swelling/tenderness, but compartment syndrome specifically fits the tense, tender calf with preserved pulses after revascularization.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، DVT: الإجابة الصحيحة هي Compartment syndrome. الخيار C، Critical ischemia: الإجابة الصحيحة هي Compartment syndrome. الخيار D، Lymphoedema: الإجابة الصحيحة هي Compartment syndrome. الخيار E، Cellulitis: الإجابة الصحيحة هي Compartment syndrome. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Present pulse doesn't rule out compartment sy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Compartment syndrome. ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز."
+      "narration": "الخيار B، Compartment syndrome هو الإجابة الصحيحة. ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز. وتذكّر القاعدة: \"Present pulse doesn't rule out compartment syndrome\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. ربلة ساق متوترة ومؤلمة مع نبض محفوظ بعد إعادة التوعية توجّه لتورم إعادة التروية المسبب لمتلازمة الحيز — النبض قد يبقى محفوظًا حتى مع ارتفاع ضغط الحيز. وتذكّر: \"Present pulse doesn't rule out compartment syndrome\". والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Diffuse pain out of proportion to tenderness"
       },
-      "narration": "لنبدأ بهذا السؤال. من المرجح أن يتم تشخيص نقص تروية المساريقا الحاد عندما يكون لدىالمريض؟ أمامك هذه الخيارات: Elevation of WBC، أو Elevation of serum amylase level، أو Bloody stool in the rectum، أو Diffuse pain out of proportion to tenderness، أو Gas in cecum on abdominal X ray. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. من المرجح أن يتم تشخيص نقص تروية المساريقا الحاد عندما يكون لدىالمريض؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Elevation of WBC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diffuse pain out of proportion to tenderness. يصبح صحيحًا في سؤال يصف Elevated WBC, elevated amylase, bloody stool, and cecal gas on X-ray are nonspecific findings that can occur in many abdominal conditions, but the classic hallmark of acute mesenteric ischemia is severe pain that is out of proportion to the relatively mild physical exam findings. الخيار B، Elevation of serum amylase level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diffuse pain out of proportion to tenderness. يصبح صحيحًا في سؤال يصف Elevated WBC, elevated amylase, bloody stool, and cecal gas on X-ray are nonspecific findings that can occur in many abdominal conditions, but the classic hallmark of acute mesenteric ischemia is severe pain that is out of proportion to the relatively mild physical exam findings. الخيار C، Bloody stool in the rectum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diffuse pain out of proportion to tenderness. يصبح صحيحًا في سؤال يصف Elevated WBC, elevated amylase, bloody stool, and cecal gas on X-ray are nonspecific findings that can occur in many abdominal conditions, but the classic hallmark of acute mesenteric ischemia is severe pain that is out of proportion to the relatively mild physical exam findings. الخيار E، Gas in cecum on abdominal X ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diffuse pain out of proportion to tenderness. يصبح صحيحًا في سؤال يصف Elevated WBC, elevated amylase, bloody stool, and cecal gas on X-ray are nonspecific findings that can occur in many abdominal conditions, but the classic hallmark of acute mesenteric ischemia is severe pain that is out of proportion to the relatively mild physical exam findings.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Elevation of WBC: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Mesenteric ischemia: Pain out of Proportion"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Diffuse pain out of proportion to tenderness. الألم غير المتناسب مع فحص بطني هادئ يوجه لإقفار الأمعاء المساريقي."
+      "narration": "الخيار D هو الإجابة الصحيحة. الألم غير المتناسب مع فحص بطني هادئ يوجه لإقفار الأمعاء المساريقي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم غير المتناسب مع فحص بطني هادئ يوجه لإقفار الأمعاء المساريقي. وتذكّر القاعدة: Mesenteric ischemia: Pain out of Proportion. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الألم غير المتناسب مع فحص بطني هادئ يوجه لإقفار الأمعاء المساريقي. وتذكّر: Mesenteric ischemia: Pain out of Proportion. والإجابة الصحيحة هي D."
     }
   ]
 }

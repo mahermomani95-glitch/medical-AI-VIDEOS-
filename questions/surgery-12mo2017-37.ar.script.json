@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hypokalemia"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس سببًا لالتهاب البنكرياس؟ (سؤال مكرر، راجع السؤال رقم 530) أمامك هذه الخيارات: Hypercalcemia، أو Hypokalemia، أو Hypertriglyceridemia، أو Obstruction of ampulla of Vater، أو Thiazides. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس سببًا لالتهاب البنكرياس؟ (سؤال مكرر، راجع السؤال رقم 530) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypercalcemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia. الخيار C، Hypertriglyceridemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia. الخيار D، Obstruction of ampulla of Vater: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia. الخيار E، Thiazides: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypercalcemia, hypertriglyceridemia, ampullary obstruction, and thiazide diuretics are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypokalemia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypercalcemia: صحيحة، لكنها ليست الاستثناء. الخيار C، Hypertriglyceridemia: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Thiazides: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pancreatitis: not caused by Hypokalemia"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Hypokalemia. نقص البوتاسيوم ليس سببًا لالتهاب البنكرياس، فرط الكالسيوم هو المرتبط فعليًا."
+      "narration": "الخيار B، Hypokalemia هو الإجابة الصحيحة. نقص البوتاسيوم ليس سببًا لالتهاب البنكرياس، فرط الكالسيوم هو المرتبط فعليًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقص البوتاسيوم ليس سببًا لالتهاب البنكرياس، فرط الكالسيوم هو المرتبط فعليًا. وتذكّر القاعدة: Pancreatitis: not caused by Hypokalemia. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. نقص البوتاسيوم ليس سببًا لالتهاب البنكرياس، فرط الكالسيوم هو المرتبط فعليًا. وتذكّر: Pancreatitis: not caused by Hypokalemia. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Femoral hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. الفتق الأكثر شيوعا للاختناق هو؟ أمامك هذه الخيارات: Indirect inguinal hernia، أو Femoral hernia، أو Direct inguinal hernia، أو Epigastric hernia، أو Slidling hiatus hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الفتق الأكثر شيوعا للاختناق هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Indirect inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Indirect inguinal hernia, direct inguinal hernia, epigastric hernia, and sliding hiatus hernia have varying strangulation risk, but femoral hernia carries the highest strangulation risk of all due to its narrow, rigid canal. الخيار C، Direct inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Indirect inguinal hernia, direct inguinal hernia, epigastric hernia, and sliding hiatus hernia have varying strangulation risk, but femoral hernia carries the highest strangulation risk of all due to its narrow, rigid canal. الخيار D، Epigastric hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Indirect inguinal hernia, direct inguinal hernia, epigastric hernia, and sliding hiatus hernia have varying strangulation risk, but femoral hernia carries the highest strangulation risk of all due to its narrow, rigid canal. الخيار E، Slidling hiatus hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Indirect inguinal hernia, direct inguinal hernia, epigastric hernia, and sliding hiatus hernia have varying strangulation risk, but femoral hernia carries the highest strangulation risk of all due to its narrow, rigid canal.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Indirect inguinal hernia: الإجابة الصحيحة هي Femoral hernia. الخيار C، Direct inguinal hernia: الإجابة الصحيحة هي Femoral hernia. الخيار D، Epigastric hernia: الإجابة الصحيحة هي Femoral hernia. الخيار E، Slidling hiatus hernia: الإجابة الصحيحة هي Femoral hernia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Strangulation risk: highest with Femoral herni"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Femoral hernia. الفتق الفخذي هو الأكثر عرضة للاختناق رغم كونه أقل شيوعًا عمومًا."
+      "narration": "الخيار B، Femoral hernia هو الإجابة الصحيحة. الفتق الفخذي هو الأكثر عرضة للاختناق رغم كونه أقل شيوعًا عمومًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفتق الفخذي هو الأكثر عرضة للاختناق رغم كونه أقل شيوعًا عمومًا. وتذكّر القاعدة: Strangulation risk: highest with Femoral hernia. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الفتق الفخذي هو الأكثر عرضة للاختناق رغم كونه أقل شيوعًا عمومًا. وتذكّر: Strangulation risk: highest with Femoral hernia. والإجابة الصحيحة هي B."
     }
   ]
 }

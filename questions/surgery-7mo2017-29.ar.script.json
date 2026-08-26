@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Uric acid stones are not visualized by CT scan"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح فيما يتعلق بالتصوير المقطعي المحوسب المستخدم فيطب المسالك البولية باستثناء؟ أمامك هذه الخيارات: CT without contrast is the imaging of choice for acute flank pain، أو CT with contrast is preferred in renal trauma، أو MRI is more sensitive in evaluating adrenal masses، أو CT is not operator dependent، أو Uric acid stones are not visualized by CT scan. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح فيما يتعلق بالتصوير المقطعي المحوسب المستخدم فيطب المسالك البولية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، CT without contrast is the imaging of choice for acute flank pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Non-contrast CT as the imaging of choice for acute flank pain, contrast CT for renal trauma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uric acid stones are not visualized by CT scan. الخيار B، CT with contrast is preferred in renal trauma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Non-contrast CT as the imaging of choice for acute flank pain, contrast CT for renal trauma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uric acid stones are not visualized by CT scan. الخيار C، MRI is more sensitive in evaluating adrenal masses: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Non-contrast CT as the imaging of choice for acute flank pain, contrast CT for renal trauma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uric acid stones are not visualized by CT scan. الخيار D، CT is not operator dependent: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Non-contrast CT as the imaging of choice for acute flank pain, contrast CT for renal trauma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uric acid stones are not visualized by CT scan.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Uric acid stones: Uncovered well by CT"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Uric acid stones are not visualized by CT scan. حصى حمض اليوريك تظهر جيدًا بالتصوير الطبقي، بخلاف الأشعة البسيطة."
+      "narration": "الخيار E هو الإجابة الصحيحة. حصى حمض اليوريك تظهر جيدًا بالتصوير الطبقي، بخلاف الأشعة البسيطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حصى حمض اليوريك تظهر جيدًا بالتصوير الطبقي، بخلاف الأشعة البسيطة. وتذكّر القاعدة: Uric acid stones: Uncovered well by CT. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. حصى حمض اليوريك تظهر جيدًا بالتصوير الطبقي، بخلاف الأشعة البسيطة. وتذكّر: Uric acid stones: Uncovered well by CT. والإجابة الصحيحة هي E."
     }
   ]
 }

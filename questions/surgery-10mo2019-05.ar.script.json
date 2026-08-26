@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Courvoisier's law is usually associated with…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن حصوات المرارة خاطئة؟ أمامك هذه الخيارات: Cholesterol stones are more common than pigment stones on Jordan، أو Biliary colic is typically present in 10-25% of patients، أو Antibiotics might be required in the management of acute cholecystitis، أو Courvoisier's law is usually associated with gallstones، أو Murphy's sign suggests the presence of acute inflammation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن حصوات المرارة خاطئة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Cholesterol stones are more common than pigment stones on Jordan: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Cholesterol stones being more common than pigment stones in Jordan, biliary colic occurring in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Courvoisier's law is usually associated with gallstones. الخيار B، Biliary colic is typically present in 10-25% of patients: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Cholesterol stones being more common than pigment stones in Jordan, biliary colic occurring in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Courvoisier's law is usually associated with gallstones. الخيار C، Antibiotics might be required in the management of acute cholecystitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Cholesterol stones being more common than pigment stones in Jordan, biliary colic occurring in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Courvoisier's law is usually associated with gallstones. الخيار E، Murphy's sign suggests the presence of acute inflammation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Cholesterol stones being more common than pigment stones in Jordan, biliary colic occurring in… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Courvoisier's law is usually associated with gallstones.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Courvoisier's law = jaundice + palpable GB → "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Courvoisier's law is usually associated with gallstones. قانون كورفوازييه ينص على أن المرارة المتضخمة المجسوسة مع اليرقان غالبًا ليست بسبب الحصى — بل تشير لانسداد خبيث."
+      "narration": "الخيار D هو الإجابة الصحيحة. قانون كورفوازييه ينص على أن المرارة المتضخمة المجسوسة مع اليرقان غالبًا ليست بسبب الحصى — بل تشير لانسداد خبيث."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قانون كورفوازييه ينص على أن المرارة المتضخمة المجسوسة مع اليرقان غالبًا ليست بسبب الحصى — بل تشير لانسداد خبيث. وتذكّر القاعدة: \"Courvoisier's law = jaundice + palpable GB → think malignancy, NOT stones\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. قانون كورفوازييه ينص على أن المرارة المتضخمة المجسوسة مع اليرقان غالبًا ليست بسبب الحصى — بل تشير لانسداد خبيث. والإجابة الصحيحة هي D."
     }
   ]
 }

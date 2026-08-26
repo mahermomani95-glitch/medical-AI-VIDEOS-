@@ -45,7 +45,7 @@
         "label": "It is more in giris",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية غير صحيحة فيما يتعلق بمرض هيرشسبرونج؟ أمامك هذه الخيارات: It is more in giris، أو It may involve the small bowel، أو It may be associated with enterocolitis، أو There is an increased incidence of Downs syndrome، أو There are no ganglionic cells seen in Auerbach plexus. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية غير صحيحة فيما يتعلق بمرض هيرشسبرونج؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، It may involve the small bowel: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. It may involve the small bowel in total colonic forms, it's associated with enterocolitis and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is more in giris. الخيار C، It may be associated with enterocolitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. It may involve the small bowel in total colonic forms, it's associated with enterocolitis and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is more in giris. الخيار D، There is an increased incidence of Downs syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. It may involve the small bowel in total colonic forms, it's associated with enterocolitis and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is more in giris. الخيار E، There are no ganglionic cells seen in Auerbach plexus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. It may involve the small bowel in total colonic forms, it's associated with enterocolitis and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is more in giris.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Hirschsprung: Hits Boys more often"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: It is more in giris. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة."
+      "narration": "الخيار A هو الإجابة الصحيحة. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة. وتذكّر القاعدة: Hirschsprung: Hits Boys more often. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة. وتذكّر: Hirschsprung: Hits Boys more often. والإجابة الصحيحة هي A."
     }
   ]
 }

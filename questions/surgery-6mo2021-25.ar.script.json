@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Ensure the patient is given intravenous crystalloid…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Administer strong analgesia via an intravenous line، أو Ensure the patient is given intravenous crystalloid fluid، أو Determine the predicted severity by calculating the Glasgow score، أو Commence broad-spectrum antibiotics intravenously، أو Arrange an urgent ERCP if the patient has a fever. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Administer strong analgesia via an intravenous line: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ensure the patient is given intravenous crystalloid fluid. يصبح صحيحًا في سؤال يصف Strong IV analgesia, calculating Glasgow severity score, and IV broad-spectrum antibiotics are all appropriate components of pancreatitis management, but IV fluids remain the most important initial priority. الخيار C، Determine the predicted severity by calculating the Glasgow score: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ensure the patient is given intravenous crystalloid fluid. يصبح صحيحًا في سؤال يصف Strong IV analgesia, calculating Glasgow severity score, and IV broad-spectrum antibiotics are all appropriate components of pancreatitis management, but IV fluids remain the most important initial priority. الخيار D، Commence broad-spectrum antibiotics intravenously: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ensure the patient is given intravenous crystalloid fluid. يصبح صحيحًا في سؤال يصف Strong IV analgesia, calculating Glasgow severity score, and IV broad-spectrum antibiotics are all appropriate components of pancreatitis management, but IV fluids remain the most important initial priority. الخيار E، Arrange an urgent ERCP if the patient has a fever: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا simply fever alone. يصبح صحيحًا في سؤال يصف urgent ERCP is appropriate specifically if there's evidence of ongoing biliary obstruction/cholangitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D، Commence broad-spectrum antibiotics intravenously: لا ينطبق على هذه الحالة. الخيار E: المطلوب هنا simply fever alone. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pancreatitis initial management = Aggressive "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Ensure the patient is given intravenous crystalloid fluid. ضمان الإرواء الوريدي القوي بالمحاليل البلورية هو الخطوة الأولى الأساسية، نظرًا للتسرب الهائل للسوائل في التهاب البنكرياس الحاد."
+      "narration": "الخيار B هو الإجابة الصحيحة. ضمان الإرواء الوريدي القوي بالمحاليل البلورية هو الخطوة الأولى الأساسية، نظرًا للتسرب الهائل للسوائل في التهاب البنكرياس الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ضمان الإرواء الوريدي القوي بالمحاليل البلورية هو الخطوة الأولى الأساسية، نظرًا للتسرب الهائل للسوائل في التهاب البنكرياس الحاد. وتذكّر القاعدة: \"Pancreatitis initial management = Aggressive IV fluids first\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. ضمان الإرواء الوريدي القوي بالمحاليل البلورية هو الخطوة الأولى الأساسية، نظرًا للتسرب الهائل للسوائل في التهاب البنكرياس الحاد. وتذكّر: \"Pancreatitis initial management = Aggressive IV fluids first\". والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "0.5 to 1.5 cc/kg/hour"
       },
-      "narration": "لنبدأ بهذا السؤال. معدل إخراج البول الطبيعي هو؟ أمامك هذه الخيارات: 0.5 to 1.5 cc/kg/hour، أو < 0.5 cc/kg/hour in children، أو < 500 cc/day in adults، أو < 100 mL/day in adults، أو < 1.0 cc/kg/hour in infants. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. معدل إخراج البول الطبيعي هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، < 0.5 cc/kg/hour in children: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 0.5 to 1.5 cc/kg/hour. يصبح صحيحًا في سؤال يصف Under 0.5cc/kg/hr in children, under 500cc/day in adults, under 100mL/day, and under 1.0cc/kg/hr in infants all describe abnormal (oliguric) states — the normal target urine output is about 0.5 to 1.5 cc/kg/hour. الخيار C، < 500 cc/day in adults: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 0.5 to 1.5 cc/kg/hour. يصبح صحيحًا في سؤال يصف Under 0.5cc/kg/hr in children, under 500cc/day in adults, under 100mL/day, and under 1.0cc/kg/hr in infants all describe abnormal (oliguric) states — the normal target urine output is about 0.5 to 1.5 cc/kg/hour. الخيار D، < 100 mL/day in adults: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 0.5 to 1.5 cc/kg/hour. يصبح صحيحًا في سؤال يصف Under 0.5cc/kg/hr in children, under 500cc/day in adults, under 100mL/day, and under 1.0cc/kg/hr in infants all describe abnormal (oliguric) states — the normal target urine output is about 0.5 to 1.5 cc/kg/hour. الخيار E، < 1.0 cc/kg/hour in infants: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 0.5 to 1.5 cc/kg/hour. يصبح صحيحًا في سؤال يصف Under 0.5cc/kg/hr in children, under 500cc/day in adults, under 100mL/day, and under 1.0cc/kg/hr in infants all describe abnormal (oliguric) states — the normal target urine output is about 0.5 to 1.5 cc/kg/hour.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي 0.5 to 1.5 cc/kg/hour. الخيار C: الإجابة الصحيحة هي 0.5 to 1.5 cc/kg/hour. الخيار D: الإجابة الصحيحة هي 0.5 to 1.5 cc/kg/hour. الخيار E: الإجابة الصحيحة هي 0.5 to 1.5 cc/kg/hour. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Normal urine output: Half to one-and-a-half mL"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: 0.5 to 1.5 cc/kg/hour. إخراج البول الطبيعي يتراوح بين 0.5 و1.5 مل لكل كيلوغرام بالساعة."
+      "narration": "الخيار A، 0.5 to 1.5 cc/kg/hour هو الإجابة الصحيحة. إخراج البول الطبيعي يتراوح بين 0.5 و1.5 مل لكل كيلوغرام بالساعة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إخراج البول الطبيعي يتراوح بين 0.5 و1.5 مل لكل كيلوغرام بالساعة. وتذكّر القاعدة: Normal urine output: Half to one-and-a-half mL/kg. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. إخراج البول الطبيعي يتراوح بين 0.5 و1.5 مل لكل كيلوغرام بالساعة. وتذكّر: Normal urine output: Half to one-and-a-half mL/kg. والإجابة الصحيحة هي A."
     }
   ]
 }

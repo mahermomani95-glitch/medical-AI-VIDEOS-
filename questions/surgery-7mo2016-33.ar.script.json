@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Yersinia enterocolitica"
       },
-      "narration": "لنبدأ بهذا السؤال. الكائن الحي الأكثر شيوعًا المرتبط بالتهاب العقد اللمفاوية المساريقية الحاد هو؟ أمامك هذه الخيارات: Campylobacter jejuni، أو E Coli، أو Enterococcus، أو Yersinia enterocolitica، أو Pinworms. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الكائن الحي الأكثر شيوعًا المرتبط بالتهاب العقد اللمفاوية المساريقية الحاد هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Campylobacter jejuni: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Yersinia enterocolitica. يصبح صحيحًا في سؤال يصف Campylobacter jejuni, E. coli, Enterococcus, and pinworms can cause various GI symptoms, but Yersinia enterocolitica is the organism classically associated with acute mesenteric lymphadenitis, often mimicking appendicitis. الخيار B، E Coli: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Yersinia enterocolitica. يصبح صحيحًا في سؤال يصف Campylobacter jejuni, E. coli, Enterococcus, and pinworms can cause various GI symptoms, but Yersinia enterocolitica is the organism classically associated with acute mesenteric lymphadenitis, often mimicking appendicitis. الخيار C، Enterococcus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Yersinia enterocolitica. يصبح صحيحًا في سؤال يصف Campylobacter jejuni, E. coli, Enterococcus, and pinworms can cause various GI symptoms, but Yersinia enterocolitica is the organism classically associated with acute mesenteric lymphadenitis, often mimicking appendicitis. الخيار E، Pinworms: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Yersinia enterocolitica. يصبح صحيحًا في سؤال يصف Campylobacter jejuni, E. coli, Enterococcus, and pinworms can cause various GI symptoms, but Yersinia enterocolitica is the organism classically associated with acute mesenteric lymphadenitis, often mimicking appendicitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Campylobacter jejuni: الإجابة الصحيحة هي Yersinia enterocolitica. الخيار B، E Coli: الإجابة الصحيحة هي Yersinia enterocolitica. الخيار C، Enterococcus: الإجابة الصحيحة هي Yersinia enterocolitica. الخيار E، Pinworms: الإجابة الصحيحة هي Yersinia enterocolitica. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Mesenteric lymphadenitis: caused by Yersinia"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Yersinia enterocolitica. اليرسينيا المعوية القولونية هي الجرثومة الأشيع لالتهاب العقد المساريقية الحاد."
+      "narration": "الخيار D، Yersinia enterocolitica هو الإجابة الصحيحة. اليرسينيا المعوية القولونية هي الجرثومة الأشيع لالتهاب العقد المساريقية الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اليرسينيا المعوية القولونية هي الجرثومة الأشيع لالتهاب العقد المساريقية الحاد. وتذكّر القاعدة: Mesenteric lymphadenitis: caused by Yersinia. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. اليرسينيا المعوية القولونية هي الجرثومة الأشيع لالتهاب العقد المساريقية الحاد. وتذكّر: Mesenteric lymphadenitis: caused by Yersinia. والإجابة الصحيحة هي D."
     }
   ]
 }

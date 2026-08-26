@@ -41,7 +41,7 @@
         "region": "head",
         "label": "Warthin tumors"
       },
-      "narration": "لنبدأ بهذا السؤال. الورم الأكثر احتمالا أن يصيب الغدد النكفية الثنائية في وقت العرض؟ أمامك هذه الخيارات: Mucoepidermoid carcinoma، أو Adenoid cystic carcinoma، أو Pleomorphic adenoma، أو Warthin tumors. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الورم الأكثر احتمالا أن يصيب الغدد النكفية الثنائية في وقت العرض؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Mucoepidermoid carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Warthin tumors. يصبح صحيحًا في سؤال يصف Mucoepidermoid carcinoma, adenoid cystic carcinoma, and pleomorphic adenoma are typically unilateral — Warthin tumor is the one classically associated with bilateral parotid gland involvement. الخيار B، Adenoid cystic carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Warthin tumors. يصبح صحيحًا في سؤال يصف Mucoepidermoid carcinoma, adenoid cystic carcinoma, and pleomorphic adenoma are typically unilateral — Warthin tumor is the one classically associated with bilateral parotid gland involvement. الخيار C، Pleomorphic adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Warthin tumors. يصبح صحيحًا في سؤال يصف Mucoepidermoid carcinoma, adenoid cystic carcinoma, and pleomorphic adenoma are typically unilateral — Warthin tumor is the one classically associated with bilateral parotid gland involvement.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Mucoepidermoid carcinoma: الإجابة الصحيحة هي Warthin tumors. الخيار B، Adenoid cystic carcinoma: الإجابة الصحيحة هي Warthin tumors. الخيار C، Pleomorphic adenoma: الإجابة الصحيحة هي Warthin tumors. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Bilateral parotid tumor: Warthin's signature"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Warthin tumors. ورم وارثين يتميز بميله الخاص للإصابة الثنائية الجانب بالنكفيتين."
+      "narration": "الخيار D، Warthin tumors هو الإجابة الصحيحة. ورم وارثين يتميز بميله الخاص للإصابة الثنائية الجانب بالنكفيتين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ورم وارثين يتميز بميله الخاص للإصابة الثنائية الجانب بالنكفيتين. وتذكّر القاعدة: Bilateral parotid tumor: Warthin's signature. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ورم وارثين يتميز بميله الخاص للإصابة الثنائية الجانب بالنكفيتين. وتذكّر: Bilateral parotid tumor: Warthin's signature. والإجابة الصحيحة هي D."
     }
   ]
 }

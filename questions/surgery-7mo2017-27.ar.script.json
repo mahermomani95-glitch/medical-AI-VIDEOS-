@@ -45,7 +45,7 @@
         "label": "All are true",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. العلاج الطبي الأمثل للمريض الذي يعاني من تضيق الشريان السباتي يشمل:؟ أمامك هذه الخيارات: Smoking cessation، أو Antiplatelet agent's، أو Control HTN، أو Statins drugs، أو All are true. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلاج الطبي الأمثل للمريض الذي يعاني من تضيق الشريان السباتي يشمل:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Smoking cessation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي All are true. يصبح صحيحًا في سؤال يصف Smoking cessation, antiplatelet agents, blood pressure control, and statins are all individually important components of optimal medical therapy for carotid stenosis — the correct comprehensive answer recognizes that all of these together constitute optimal management. الخيار B، Antiplatelet agent's: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي All are true. يصبح صحيحًا في سؤال يصف Smoking cessation, antiplatelet agents, blood pressure control, and statins are all individually important components of optimal medical therapy for carotid stenosis — the correct comprehensive answer recognizes that all of these together constitute optimal management. الخيار C، Control HTN: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي All are true. يصبح صحيحًا في سؤال يصف Smoking cessation, antiplatelet agents, blood pressure control, and statins are all individually important components of optimal medical therapy for carotid stenosis — the correct comprehensive answer recognizes that all of these together constitute optimal management. الخيار D، Statins drugs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي All are true. يصبح صحيحًا في سؤال يصف Smoking cessation, antiplatelet agents, blood pressure control, and statins are all individually important components of optimal medical therapy for carotid stenosis — the correct comprehensive answer recognizes that all of these together constitute optimal management.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Smoking cessation: الإجابة الصحيحة هي All are true. الخيار B، Antiplatelet agent's: الإجابة الصحيحة هي All are true. الخيار C، Control HTN: الإجابة الصحيحة هي All are true. الخيار D، Statins drugs: الإجابة الصحيحة هي All are true. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Carotid stenosis therapy: Combines All element"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: All are true. العلاج الطبي الأمثل لتضيق السباتي يجمع عدة عناصر معًا لا عنصرًا واحدًا."
+      "narration": "الخيار E، All are true هو الإجابة الصحيحة. العلاج الطبي الأمثل لتضيق السباتي يجمع عدة عناصر معًا لا عنصرًا واحدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العلاج الطبي الأمثل لتضيق السباتي يجمع عدة عناصر معًا لا عنصرًا واحدًا. وتذكّر القاعدة: Carotid stenosis therapy: Combines All elements. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. العلاج الطبي الأمثل لتضيق السباتي يجمع عدة عناصر معًا لا عنصرًا واحدًا. وتذكّر: Carotid stenosis therapy: Combines All elements. والإجابة الصحيحة هي E."
     }
   ]
 }

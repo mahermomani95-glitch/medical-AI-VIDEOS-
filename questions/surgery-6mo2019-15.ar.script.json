@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Increase fluid intake and Diet modification"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 25 عامًا، تعاني من تاريخ طويل من الإمساك وخروجبراز صلب. حضرت إلى المستشفى وهي تعاني من ألم متكرر في المستقيم،وُصف بأنه حرقة أو قطع أو تمزق، يحدث مع التبرز مصحوبًا بدم أحمر فاتحاللون يظهر على سطح البراز. بالفحص السريري، وُجد تمزق في النصفالسفلي من القناة الشرجية، وقرحة شرجية عميقة، وكومة حارسة، وتضخم فيالحليمات الشرجية عند الخط المسنن. أفضل خطوة تالية في العلاج هي: أمامك هذه الخيارات: Hemorrhoidectomy، أو Topical anesthetic، أو Lateral Internal Sphincterotomy، أو Increase fluid intake and Diet modification، أو Fistulectomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 25 عامًا، تعاني من تاريخ طويل من الإمساك وخروجبراز صلب. حضرت إلى المستشفى وهي تعاني من ألم متكرر في المستقيم،وُصف بأنه حرقة أو قطع أو تمزق، يحدث مع التبرز مصحوبًا بدم أحمر فاتحاللون يظهر على سطح البراز. بالفحص السريري، وُجد تمزق في النصفالسفلي من القناة الشرجية، وقرحة شرجية عميقة، وكومة حارسة، وتضخم فيالحليمات الشرجية عند الخط المسنن. أفضل خطوة تالية في العلاج هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hemorrhoidectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increase fluid intake and Diet modification. يصبح صحيحًا في سؤال يصف Hemorrhoidectomy, topical anesthetic, and fistulectomy are more invasive or address a different condition than the fiber/fluid-based conservative approach appropriate as first-line for a chronic fissure. الخيار B، Topical anesthetic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increase fluid intake and Diet modification. يصبح صحيحًا في سؤال يصف Hemorrhoidectomy, topical anesthetic, and fistulectomy are more invasive or address a different condition than the fiber/fluid-based conservative approach appropriate as first-line for a chronic fissure. الخيار C، Lateral Internal Sphincterotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increase fluid intake and Diet modification. يصبح صحيحًا في سؤال يصف lateral internal sphincterotomy is reserved for cases that fail conservative therapy. الخيار E، Fistulectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increase fluid intake and Diet modification. يصبح صحيحًا في سؤال يصف Hemorrhoidectomy, topical anesthetic, and fistulectomy are more invasive or address a different condition than the fiber/fluid-based conservative approach appropriate as first-line for a chronic fissure.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hemorrhoidectomy: الإجابة الصحيحة هي Increase fluid intake and Diet modification. الخيار B، Topical anesthetic: الإجابة الصحيحة هي Increase fluid intake and Diet modification. الخيار C، Lateral Internal Sphincterotomy: الإجابة الصحيحة هي Increase fluid intake and Diet modification. الخيار E، Fistulectomy: الإجابة الصحيحة هي Increase fluid intake and Diet modification. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Fissure first-line = Fiber and Fluids\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Increase fluid intake and Diet modification. الشق الشرجي المزمن بالخط الخلفي مع اللحمية الحارسة يُعالَج أولًا بزيادة الألياف والسوائل — إجراءات محافظة قبل أي تدخل."
+      "narration": "الخيار D هو الإجابة الصحيحة. الشق الشرجي المزمن بالخط الخلفي مع اللحمية الحارسة يُعالَج أولًا بزيادة الألياف والسوائل — إجراءات محافظة قبل أي تدخل."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشق الشرجي المزمن بالخط الخلفي مع اللحمية الحارسة يُعالَج أولًا بزيادة الألياف والسوائل — إجراءات محافظة قبل أي تدخل. وتذكّر القاعدة: \"Fissure first-line = Fiber and Fluids\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الشق الشرجي المزمن بالخط الخلفي مع اللحمية الحارسة يُعالَج أولًا بزيادة الألياف والسوائل — إجراءات محافظة قبل أي تدخل. وتذكّر: \"Fissure first-line = Fiber and Fluids\". والإجابة الصحيحة هي D."
     }
   ]
 }

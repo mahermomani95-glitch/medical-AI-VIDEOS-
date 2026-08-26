@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Aneurysm"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض ذكر يبلغ من العمر 35 عامًا يعاني من تورم نابض غير مؤلم في الفخذفي منطقة الفخذ، والتشخيص الأكثر احتمالًا هو:؟ أمامك هذه الخيارات: Inguinal hernia، أو Femoral hernia، أو Varicose veins، أو Lipoma، أو Aneurysm. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض ذكر يبلغ من العمر 35 عامًا يعاني من تورم نابض غير مؤلم في الفخذفي منطقة الفخذ، والتشخيص الأكثر احتمالًا هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inguinal hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pulsatile masses. يصبح صحيحًا في سؤال يصف Inguinal hernia and femoral hernia typically present as reducible groin bulges. الخيار B، Femoral hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pulsatile masses. يصبح صحيحًا في سؤال يصف Inguinal hernia and femoral hernia typically present as reducible groin bulges. الخيار C، Varicose veins: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a pulsatile swelling. يصبح صحيحًا في سؤال يصف varicose veins cause dilated, compressible veins. الخيار D، Lipoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aneurysm. يصبح صحيحًا في سؤال يصف a lipoma is a soft, non-pulsatile mass.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Inguinal hernia: المطلوب هنا pulsatile masses. الخيار B، Femoral hernia: المطلوب هنا pulsatile masses. الخيار C، Varicose veins: المطلوب هنا a pulsatile swelling. الخيار D، Lipoma: الإجابة الصحيحة هي Aneurysm. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pulsatile swelling: Points to Aneurysm"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Aneurysm. التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق."
+      "narration": "الخيار E، Aneurysm هو الإجابة الصحيحة. التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق. وتذكّر القاعدة: Pulsatile swelling: Points to Aneurysm. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التورم النابض بالفخذ يوجه مباشرة لأم الدم لا الفتق. وتذكّر: Pulsatile swelling: Points to Aneurysm. والإجابة الصحيحة هي E."
     }
   ]
 }

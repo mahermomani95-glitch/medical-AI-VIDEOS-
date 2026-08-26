@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Biliary obstruction"
       },
-      "narration": "لنبدأ بهذا السؤال. اليرقان مع غياب اليوروبيلينوجين في البول من المرجح أن يكون متوافقًا مع؟ أمامك هذه الخيارات: Hepatitis، أو Cirrhosis، أو Hemolysis، أو Biliary obstruction، أو Sepsis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. اليرقان مع غياب اليوروبيلينوجين في البول من المرجح أن يكون متوافقًا مع؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hepatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen — complete biliary obstruction prevents bilirubin from reaching the gut to be converted to urobilinogen, so it's absent from urine. الخيار B، Cirrhosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen — complete biliary obstruction prevents bilirubin from reaching the gut to be converted to urobilinogen, so it's absent from urine. الخيار C، Hemolysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen — complete biliary obstruction prevents bilirubin from reaching the gut to be converted to urobilinogen, so it's absent from urine. الخيار E، Sepsis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hepatitis, cirrhosis, hemolysis (C, which would actually INCREASE urobilinogen), and sepsis don't typically show absent urine urobilinogen — complete biliary obstruction prevents bilirubin from reaching the gut to be converted to urobilinogen, so it's absent from urine.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hepatitis: الإجابة الصحيحة هي Biliary obstruction. الخيار B، Cirrhosis: الإجابة الصحيحة هي Biliary obstruction. الخيار C، Hemolysis: الإجابة الصحيحة هي Biliary obstruction. الخيار E، Sepsis: الإجابة الصحيحة هي Biliary obstruction. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "No urobilinogen: points to biliary Obstruction"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Biliary obstruction. غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل."
+      "narration": "الخيار D، Biliary obstruction هو الإجابة الصحيحة. غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل. وتذكّر القاعدة: No urobilinogen: points to biliary Obstruction. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. غياب اليوروبيلينوجين البولي التام يوجه لانسداد صفراوي كامل. وتذكّر: No urobilinogen: points to biliary Obstruction. والإجابة الصحيحة هي D."
     }
   ]
 }

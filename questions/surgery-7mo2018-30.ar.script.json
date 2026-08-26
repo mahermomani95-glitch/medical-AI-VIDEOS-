@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "5-10% of breast cancer is hereditary"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بسرطان الثدي؟ أمامك هذه الخيارات: The majority of case's with breast cancer are familial in origin، أو Due to low levels of estrogen، أو Breast density has no correlation with the risk of breast cancer، أو 5-10% of breast cancer is hereditary، أو BRCA1 mutation is associated with significant increase in breast and endometrial cancer risk. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بسرطان الثدي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The majority of case's with breast cancer are familial in origin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا familial. يصبح صحيحًا في سؤال يصف Most breast cancer cases are actually sporadic. الخيار B، Due to low levels of estrogen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5-10% of breast cancer is hereditary. يصبح صحيحًا في سؤال يصف breast cancer risk is linked to high (not low) estrogen levels. الخيار C، Breast density has no correlation with the risk of breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 5-10% of breast cancer is hereditary. يصبح صحيحًا في سؤال يصف breast density DOES correlate with increased risk, contrary to. الخيار E، BRCA1 mutation is associated with significant increase in breast and endometrial cancer risk: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا endometrial cancer specifically — these are all incorrect statements, distinguishing them from the one true statement about the 5-10% hereditary rate. يصبح صحيحًا في سؤال يصف BRCA1 is linked mainly to breast/ovarian cancer.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا familial. الخيار B: الإجابة الصحيحة هي 5-10% of breast cancer is hereditary. الخيار C: الإجابة الصحيحة هي 5-10% of breast cancer is hereditary. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"5-10% hereditary, 90% sporadic\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: 5-10% of breast cancer is hereditary. فقط 5-10% من سرطان الثدي وراثي حقًا — معظم الحالات متفرقة وليست عائلية."
+      "narration": "الخيار D هو الإجابة الصحيحة. فقط 5-10% من سرطان الثدي وراثي حقًا — معظم الحالات متفرقة وليست عائلية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فقط 5-10% من سرطان الثدي وراثي حقًا — معظم الحالات متفرقة وليست عائلية. وتذكّر القاعدة: \"5-10% hereditary, 90% sporadic\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. فقط 5-10% من سرطان الثدي وراثي حقًا — معظم الحالات متفرقة وليست عائلية. وتذكّر: \"5-10% hereditary, 90% sporadic\". والإجابة الصحيحة هي D."
     }
   ]
 }

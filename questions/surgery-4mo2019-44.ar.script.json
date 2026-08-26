@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Basal cell carcinoma"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض ذكر، يبلغ من العمر 55 عامًا، ذو بشرة فاتحة، يعاني من آفة تتوسعببطء في الجفن السفلي، لا تلتئم وتنزف عند تعرضها لصدمة. بالفحصالسريري، تبيّن وجود قرحة لؤلؤية الشكل (مرتفعة) على الحافة. ​​التشخيصالأكثر احتمالًا هو: أمامك هذه الخيارات: Squamous cell carcinoma، أو Basal cell carcinoma، أو Melanoma، أو impetigo، أو Actinic keratosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض ذكر، يبلغ من العمر 55 عامًا، ذو بشرة فاتحة، يعاني من آفة تتوسعببطء في الجفن السفلي، لا تلتئم وتنزف عند تعرضها لصدمة. بالفحصالسريري، تبيّن وجود قرحة لؤلؤية الشكل (مرتفعة) على الحافة. ​​التشخيصالأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Squamous cell carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Basal cell carcinoma. يصبح صحيحًا في سؤال يصف Squamous cell carcinoma, melanoma, and actinic keratosis (E, a precancerous lesion) are all skin lesions of concern, and impetigo is an infectious condition. الخيار C، Melanoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Basal cell carcinoma. يصبح صحيحًا في سؤال يصف Squamous cell carcinoma, melanoma, and actinic keratosis (E, a precancerous lesion) are all skin lesions of concern, and impetigo is an infectious condition. الخيار D، impetigo: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Basal cell carcinoma. يصبح صحيحًا في سؤال يصف Squamous cell carcinoma, melanoma, and actinic keratosis (E, a precancerous lesion) are all skin lesions of concern, and impetigo is an infectious condition. الخيار E، Actinic keratosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Basal cell carcinoma. يصبح صحيحًا في سؤال يصف Squamous cell carcinoma, melanoma, and actinic keratosis (E, a precancerous lesion) are all skin lesions of concern, and impetigo is an infectious condition.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Squamous cell carcinoma: الإجابة الصحيحة هي Basal cell carcinoma. الخيار C، Melanoma: الإجابة الصحيحة هي Basal cell carcinoma. الخيار D، impetigo: الإجابة الصحيحة هي Basal cell carcinoma. الخيار E، Actinic keratosis: الإجابة الصحيحة هي Basal cell carcinoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pearly rolled border = BCC\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Basal cell carcinoma. آفة لؤلؤية الحواف المرتفعة، لا تلتئم، على جلد معرض للشمس، هي الوصف الكلاسيكي للسرطان الخلوي القاعدي."
+      "narration": "الخيار B، Basal cell carcinoma هو الإجابة الصحيحة. آفة لؤلؤية الحواف المرتفعة، لا تلتئم، على جلد معرض للشمس، هي الوصف الكلاسيكي للسرطان الخلوي القاعدي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. آفة لؤلؤية الحواف المرتفعة، لا تلتئم، على جلد معرض للشمس، هي الوصف الكلاسيكي للسرطان الخلوي القاعدي. وتذكّر القاعدة: \"Pearly rolled border = BCC\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. آفة لؤلؤية الحواف المرتفعة، لا تلتئم، على جلد معرض للشمس، هي الوصف الكلاسيكي للسرطان الخلوي القاعدي. وتذكّر: \"Pearly rolled border = BCC\". والإجابة الصحيحة هي B."
     }
   ]
 }

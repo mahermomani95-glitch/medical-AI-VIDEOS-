@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "3 cm Lipoma in the tibialis anterior"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي يعتبر مؤشرا لإزالة الورم الشحمي؟ أمامك هذه الخيارات: 3 cm Lipoma in the tibialis anterior، أو 3 cm Lipoma in the subcutaneous fat of the anterior abdominal wall، أو 3 cm Lipoma in the subcutaneous fat of the buttock، أو A Lipoma of many years standing which has not changed in size، أو A Lipoma on CT scanning of homogeneous density. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي يعتبر مؤشرا لإزالة الورم الشحمي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، 3 cm Lipoma in the subcutaneous fat of the anterior abdominal wall: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا removed, unlike a lipoma in an intramuscular location like the tibialis anterior, which carries higher risk of being an atypical lipomatous tumor and warrants removal. يصبح صحيحًا في سؤال يصف A lipoma in subcutaneous fat of the abdominal wall, buttock, a longstanding stable lipoma, and one with homogeneous density on CT are all typically observed. الخيار C، 3 cm Lipoma in the subcutaneous fat of the buttock: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا removed, unlike a lipoma in an intramuscular location like the tibialis anterior, which carries higher risk of being an atypical lipomatous tumor and warrants removal. يصبح صحيحًا في سؤال يصف A lipoma in subcutaneous fat of the abdominal wall, buttock, a longstanding stable lipoma, and one with homogeneous density on CT are all typically observed. الخيار D، A Lipoma of many years standing which has not changed in size: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا removed, unlike a lipoma in an intramuscular location like the tibialis anterior, which carries higher risk of being an atypical lipomatous tumor and warrants removal. يصبح صحيحًا في سؤال يصف A lipoma in subcutaneous fat of the abdominal wall, buttock, a longstanding stable lipoma, and one with homogeneous density on CT are all typically observed. الخيار E، A Lipoma on CT scanning of homogeneous density: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا removed, unlike a lipoma in an intramuscular location like the tibialis anterior, which carries higher risk of being an atypical lipomatous tumor and warrants removal. يصبح صحيحًا في سؤال يصف A lipoma in subcutaneous fat of the abdominal wall, buttock, a longstanding stable lipoma, and one with homogeneous density on CT are all typically observed.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Deep intramuscular lipoma: Demands removal con"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: 3 cm Lipoma in the tibialis anterior. الشحمومة العميقة داخل العضلة مؤشر حقيقي للاستئصال، لا السطحية البسيطة."
+      "narration": "الخيار A هو الإجابة الصحيحة. الشحمومة العميقة داخل العضلة مؤشر حقيقي للاستئصال، لا السطحية البسيطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشحمومة العميقة داخل العضلة مؤشر حقيقي للاستئصال، لا السطحية البسيطة. وتذكّر القاعدة: Deep intramuscular lipoma: Demands removal consideration. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الشحمومة العميقة داخل العضلة مؤشر حقيقي للاستئصال، لا السطحية البسيطة. وتذكّر: Deep intramuscular lipoma: Demands removal consideration. والإجابة الصحيحة هي A."
     }
   ]
 }

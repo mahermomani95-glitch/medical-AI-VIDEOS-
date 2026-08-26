@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Proximal esophageal atresia without a fistula"
       },
-      "narration": "لنبدأ بهذا السؤال. رضيع وزنه 3 كجم يعاني من إفراز لعاب مفرط، ويُصاب بضيق تنفس. فشلتمحاولات إدخال أنبوب المعدة. يُظهر تصوير الصدر انخماصًا في الفصالعلوي الأيمن وبطنًا خاليًا من الغازات، والتشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Proximal esophageal atresia with distal Tracheoesophageal fistula، أو H type Tracheoesophageal fistula، أو Congenital esophageal stricture، أو Proximal esophageal atresia without a fistula، أو Esophageal atresia with both proximal and distal Tracheoesophageal fistula. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رضيع وزنه 3 كجم يعاني من إفراز لعاب مفرط، ويُصاب بضيق تنفس. فشلتمحاولات إدخال أنبوب المعدة. يُظهر تصوير الصدر انخماصًا في الفصالعلوي الأيمن وبطنًا خاليًا من الغازات، والتشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Proximal esophageal atresia with distal Tracheoesophageal fistula: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a gasless one. يصبح صحيحًا في سؤال يصف Proximal atresia with distal fistula is the most common type but would show air in the abdomen. الخيار B، H type Tracheoesophageal fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proximal esophageal atresia without a fistula. يصبح صحيحًا في سؤال يصف H-type fistula has no atresia. الخيار C، Congenital esophageal stricture: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا part of the Gross classification. يصبح صحيحًا في سؤال يصف congenital esophageal stricture is a different anomaly entirely. الخيار E، Esophageal atresia with both proximal and distal Tracheoesophageal fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proximal esophageal atresia without a fistula. يصبح صحيحًا في سؤال يصف atresia with both proximal and distal fistulas would also allow some air to reach the stomach via the distal fistula.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا a gasless one. الخيار B، H type Tracheoesophageal fistula: الإجابة الصحيحة هي Proximal esophageal atresia without a fistula. الخيار C، Congenital esophageal stricture: المطلوب هنا part of the Gross classification. الخيار E: الإجابة الصحيحة هي Proximal esophageal atresia without a fistula. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Gasless belly = No fistula\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Proximal esophageal atresia without a fistula. عدم وجود ناسور يعني عدم وصول الهواء للمعدة — والبطن الخالي من الغازات يشير لرتق نقي بدون اتصال سفلي."
+      "narration": "الخيار D هو الإجابة الصحيحة. عدم وجود ناسور يعني عدم وصول الهواء للمعدة — والبطن الخالي من الغازات يشير لرتق نقي بدون اتصال سفلي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدم وجود ناسور يعني عدم وصول الهواء للمعدة — والبطن الخالي من الغازات يشير لرتق نقي بدون اتصال سفلي. وتذكّر القاعدة: \"Gasless belly = No fistula\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. عدم وجود ناسور يعني عدم وصول الهواء للمعدة — والبطن الخالي من الغازات يشير لرتق نقي بدون اتصال سفلي. وتذكّر: \"Gasless belly = No fistula\". والإجابة الصحيحة هي D."
     }
   ]
 }

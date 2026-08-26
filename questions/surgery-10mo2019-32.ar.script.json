@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Intubation and ventilation"
       },
-      "narration": "لنبدأ بهذا السؤال. انهارت فتاة تبلغ من العمر 19 عامًا في حفل موسيقي، وشُوهدت وهي تعانيمن نوبة تشنجية ارتجاجية استمرت دقيقتين. عندما وصل المسعفون وسألوها،تمتمت، لكن لم يفهم أحد ما تقوله. فقط عندما ضغط المسعف على ظفرها،فتحت عينيها، لكنها لم تستطع مد يدها الأخرى لفرك ظفرها ثم دفعه بعيدًا. ماهي الخطوة التالية الأنسب في العلاج؟ أمامك هذه الخيارات: Brain CT scan، أو Skull X-ray، أو Intubation and ventilation، أو Emergency craniotomy، أو IV fluid therapy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. انهارت فتاة تبلغ من العمر 19 عامًا في حفل موسيقي، وشُوهدت وهي تعانيمن نوبة تشنجية ارتجاجية استمرت دقيقتين. عندما وصل المسعفون وسألوها،تمتمت، لكن لم يفهم أحد ما تقوله. فقط عندما ضغط المسعف على ظفرها،فتحت عينيها، لكنها لم تستطع مد يدها الأخرى لفرك ظفرها ثم دفعه بعيدًا. ماهي الخطوة التالية الأنسب في العلاج؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Brain CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the immediate management priority in a rapidly deteriorating patient. يصبح صحيحًا في سؤال يصف Brain CT is useful for diagnosis but. الخيار B، Skull X-ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation and ventilation. يصبح صحيحًا في سؤال يصف skull X-ray has limited utility for intracranial bleeds. الخيار D، Emergency craniotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the very first step. يصبح صحيحًا في سؤال يصف emergency craniotomy is the definitive treatment reserved for confirmed cases. الخيار E، IV fluid therapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the urgent neurosurgical emergency directly. يصبح صحيحًا في سؤال يصف IV fluid therapy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Brain CT scan: لا ينطبق على هذه الحالة. الخيار B، Skull X-ray: الإجابة الصحيحة هي Intubation and ventilation. الخيار D، Emergency craniotomy: المطلوب هنا the very first step. الخيار E، IV fluid therapy: المطلوب هنا address the urgent neurosurgical emergency directly. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"GCS ≤8 = protect the airway (intubate)\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Intubation and ventilation. فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء."
+      "narration": "الخيار C، Intubation and ventilation هو الإجابة الصحيحة. فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء. وتذكّر القاعدة: \"GCS ≤8 = protect the airway (intubate)\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فتح العين للألم فقط (2) + أصوات غير مفهومة (2) + عدم توطين الألم، بل انسحاب بسيط على الأكثر (2) يعطي GCS منخفضًا يستدعي حماية مجرى الهواء. وتذكّر: \"GCS ≤8 = protect the airway (intubate)\". والإجابة الصحيحة هي C."
     }
   ]
 }

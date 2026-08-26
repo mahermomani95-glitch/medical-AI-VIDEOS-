@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Extracorporeal shock wave lithotripsy is one of the…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل التالية عن حصوات المرارة صحيحة باستثناء؟ أمامك هذه الخيارات: Gallstones in diabetic patients are more dangerous due to silent cholecystiti، أو Obesity and sickle cell anemia are risk factors for gallstones formation، أو Cholecystectomy can be performed in pregnant woman، أو Associated with right upper quadrant pain، أو Extracorporeal shock wave lithotripsy is one of the first treatments for gallstones. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل التالية عن حصوات المرارة صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Gallstones in diabetic patients are more dangerous due to silent cholecystiti: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Increased danger from silent cholecystitis in diabetics, obesity/sickle cell as risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extracorporeal shock wave lithotripsy is one of the first treatments for gallstones. الخيار B، Obesity and sickle cell anemia are risk factors for gallstones formation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Increased danger from silent cholecystitis in diabetics, obesity/sickle cell as risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extracorporeal shock wave lithotripsy is one of the first treatments for gallstones. الخيار C، Cholecystectomy can be performed in pregnant woman: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Increased danger from silent cholecystitis in diabetics, obesity/sickle cell as risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extracorporeal shock wave lithotripsy is one of the first treatments for gallstones. الخيار D، Associated with right upper quadrant pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Increased danger from silent cholecystitis in diabetics, obesity/sickle cell as risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extracorporeal shock wave lithotripsy is one of the first treatments for gallstones.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Gallstones: Cholecystectomy, not ESWL, is firs"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Extracorporeal shock wave lithotripsy is one of the first treatments for gallstones. تفتيت الحصى ليس علاجًا أول الخط لحصى المرارة، الاستئصال هو الأساسي."
+      "narration": "الخيار E هو الإجابة الصحيحة. تفتيت الحصى ليس علاجًا أول الخط لحصى المرارة، الاستئصال هو الأساسي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تفتيت الحصى ليس علاجًا أول الخط لحصى المرارة، الاستئصال هو الأساسي. وتذكّر القاعدة: Gallstones: Cholecystectomy, not ESWL, is first-line. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. تفتيت الحصى ليس علاجًا أول الخط لحصى المرارة، الاستئصال هو الأساسي. وتذكّر: Gallstones: Cholecystectomy, not ESWL, is first-line. والإجابة الصحيحة هي E."
     }
   ]
 }

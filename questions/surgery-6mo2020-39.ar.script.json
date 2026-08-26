@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Positive rebound pain"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Positive rebound pain، أو Vomiting is more severe، أو High fever، أو if the appendix in the pelvis, it will cause diarrhea، أو Late presentation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Vomiting is more severe: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain. الخيار C، High fever: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain. الخيار D، if the appendix in the pelvis, it will cause diarrhea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain. الخيار E، Late presentation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. More severe vomiting, high fever, pelvic appendix causing diarrhea, and late presentation are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive rebound pain.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Vomiting is more severe: صحيحة، لكنها ليست الاستثناء. الخيار C، High fever: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Late presentation: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Young children: unreliable exam findings, not"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Positive rebound pain. الألم الارتدادي غالبًا صعب التأكد منه بموثوقية عند الأطفال الصغار بسبب ضعف التعاون وعدم دقة التوطين — ليس موجودًا إيجابيًا موثوقًا كما عند البالغين."
+      "narration": "الخيار A، Positive rebound pain هو الإجابة الصحيحة. الألم الارتدادي غالبًا صعب التأكد منه بموثوقية عند الأطفال الصغار بسبب ضعف التعاون وعدم دقة التوطين — ليس موجودًا إيجابيًا موثوقًا كما عند البالغين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم الارتدادي غالبًا صعب التأكد منه بموثوقية عند الأطفال الصغار بسبب ضعف التعاون وعدم دقة التوطين — ليس موجودًا إيجابيًا موثوقًا كما عند البالغين. وتذكّر القاعدة: \"Young children: unreliable exam findings, not classic rebound\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الألم الارتدادي غالبًا صعب التأكد منه بموثوقية عند الأطفال الصغار بسبب ضعف التعاون وعدم دقة التوطين — ليس موجودًا إيجابيًا موثوقًا كما عند البالغين. وتذكّر: \"Young children: unreliable exam findings, not classic rebound\". والإجابة الصحيحة هي A."
     }
   ]
 }

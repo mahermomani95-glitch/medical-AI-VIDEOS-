@@ -45,7 +45,7 @@
         "label": "Hypercalcemia",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل مضاعفات نقل الدم الضخم كل ما يلي باستثناء؟ (سؤال مكرر، راجع السؤال رقم 160) أمامك هذه الخيارات: Acidosis، أو Coagulopathy، أو Hypercalcemia، أو Hypothermia، أو Coagulopathy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل مضاعفات نقل الدم الضخم كل ما يلي باستثناء؟ (سؤال مكرر، راجع السؤال رقم 160) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, coagulopathy (listed twice), and hypothermia are all recognized complications of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار B، Coagulopathy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, coagulopathy (listed twice), and hypothermia are all recognized complications of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار D، Hypothermia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, coagulopathy (listed twice), and hypothermia are all recognized complications of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار E، Coagulopathy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, coagulopathy (listed twice), and hypothermia are all recognized complications of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acidosis: صحيحة، لكنها ليست الاستثناء. الخيار B، Coagulopathy: صحيحة، لكنها ليست الاستثناء. الخيار D، Hypothermia: صحيحة، لكنها ليست الاستثناء. الخيار E، Coagulopathy: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Massive transfusion: causes Hypocalcemia via c"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hypercalcemia. نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه."
+      "narration": "الخيار C، Hypercalcemia هو الإجابة الصحيحة. نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه. وتذكّر القاعدة: Massive transfusion: causes Hypocalcemia via citrate. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. نقل الدم الضخم يخفض الكالسيوم (تسمم سيترات)، لا يرفعه. وتذكّر: Massive transfusion: causes Hypocalcemia via citrate. والإجابة الصحيحة هي C."
     }
   ]
 }

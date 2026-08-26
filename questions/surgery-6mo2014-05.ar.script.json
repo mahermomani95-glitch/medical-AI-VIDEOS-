@@ -45,7 +45,7 @@
         "label": "Vit A",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يمكن عكس ضعف التئام الجروح الناجم عن تناول الكورتيكوستيرويد عن طريق؟ أمامك هذه الخيارات: Vit A، أو Vit C، أو Vit K، أو Vit B12، أو Zinc. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يمكن عكس ضعف التئام الجروح الناجم عن تناول الكورتيكوستيرويد عن طريق؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Vit C: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vit A. يصبح صحيحًا في سؤال يصف Vitamin C, vitamin K, vitamin B12, and zinc all play roles in wound healing generally, but vitamin A specifically is known to reverse/counteract the wound-healing-impairing effects of corticosteroids. الخيار C، Vit K: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vit A. يصبح صحيحًا في سؤال يصف Vitamin C, vitamin K, vitamin B12, and zinc all play roles in wound healing generally, but vitamin A specifically is known to reverse/counteract the wound-healing-impairing effects of corticosteroids. الخيار D، Vit B12: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vit A. يصبح صحيحًا في سؤال يصف Vitamin C, vitamin K, vitamin B12, and zinc all play roles in wound healing generally, but vitamin A specifically is known to reverse/counteract the wound-healing-impairing effects of corticosteroids. الخيار E، Zinc: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vit A. يصبح صحيحًا في سؤال يصف Vitamin C, vitamin K, vitamin B12, and zinc all play roles in wound healing generally, but vitamin A specifically is known to reverse/counteract the wound-healing-impairing effects of corticosteroids.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Vit C: الإجابة الصحيحة هي Vit A. الخيار C، Vit K: الإجابة الصحيحة هي Vit A. الخيار D، Vit B12: الإجابة الصحيحة هي Vit A. الخيار E، Zinc: الإجابة الصحيحة هي Vit A. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Steroid healing impairment: reversed by vitami"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Vit A. فيتامين A يعاكس تثبيط الستيرويدات لالتئام الجروح تحديدًا."
+      "narration": "الخيار A، Vit A هو الإجابة الصحيحة. فيتامين A يعاكس تثبيط الستيرويدات لالتئام الجروح تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فيتامين A يعاكس تثبيط الستيرويدات لالتئام الجروح تحديدًا. وتذكّر القاعدة: Steroid healing impairment: reversed by vitamin A. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. فيتامين A يعاكس تثبيط الستيرويدات لالتئام الجروح تحديدًا. وتذكّر: Steroid healing impairment: reversed by vitamin A. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "head",
         "label": "pupils size"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس جزءًا من مقياس غلاسكو للغيبوبة؟ أمامك هذه الخيارات: obey commands، أو Localizes painful stimuli، أو Open eyes to calling، أو Incomprehensible sounds، أو pupils size. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس جزءًا من مقياس غلاسكو للغيبوبة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، obey commands: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size. الخيار B، Localizes painful stimuli: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size. الخيار C، Open eyes to calling: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size. الخيار D، Incomprehensible sounds: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obeying commands, localizing pain, eye opening to voice, and incomprehensible sounds are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو pupils size.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، obey commands: صحيحة، لكنها ليست الاستثناء. الخيار B، Localizes painful stimuli: صحيحة، لكنها ليست الاستثناء. الخيار C، Open eyes to calling: صحيحة، لكنها ليست الاستثناء. الخيار D، Incomprehensible sounds: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "GCS: Gauges Eye, verbal, Motor — not pupil siz"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: pupils size. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة."
+      "narration": "الخيار E، pupils size هو الإجابة الصحيحة. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. وتذكّر القاعدة: GCS: Gauges Eye, verbal, Motor — not pupil size. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. حجم الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. وتذكّر: GCS: Gauges Eye, verbal, Motor — not pupil size. والإجابة الصحيحة هي E."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Tertiary hyperparathyroidism"
       },
-      "narration": "لنبدأ بهذا السؤال. وُجد أن رجلاً يبلغ من العمر 54 عامًا ويخضع لغسيل الكلى يعاني من ارتفاعفي مستوى الكالسيوم في المصل وهرمون الغدة جار الدرقية. وهذا ما يُسمى؟ أمامك هذه الخيارات: Primary hyperparathyroidism، أو Secondary hyperparathyroidism، أو Tertiary hyperparathyroidism، أو Hypercalcemia of malignancy، أو Hypoparathyroidism. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. وُجد أن رجلاً يبلغ من العمر 54 عامًا ويخضع لغسيل الكلى يعاني من ارتفاعفي مستوى الكالسيوم في المصل وهرمون الغدة جار الدرقية. وهذا ما يُسمى؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Primary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف Primary hyperparathyroidism occurs without renal disease. الخيار B، Secondary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف secondary hyperparathyroidism shows LOW (not elevated) calcium with high PTH as a compensatory response. الخيار D، Hypercalcemia of malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف hypercalcemia of malignancy is unrelated to dialysis. الخيار E، Hypoparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tertiary hyperparathyroidism. يصبح صحيحًا في سؤال يصف hypoparathyroidism would show low PTH — tertiary hyperparathyroidism (autonomous parathyroid function after prolonged secondary stimulation in dialysis patients) explains both elevated calcium AND elevated PTH here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Primary hyperparathyroidism: الإجابة الصحيحة هي Tertiary hyperparathyroidism. الخيار B، Secondary hyperparathyroidism: الإجابة الصحيحة هي Tertiary hyperparathyroidism. الخيار D، Hypercalcemia of malignancy: الإجابة الصحيحة هي Tertiary hyperparathyroidism. الخيار E، Hypoparathyroidism: الإجابة الصحيحة هي Tertiary hyperparathyroidism. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Dialysis + high Ca + high PTH: Tertiary hyperp"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Tertiary hyperparathyroidism. ارتفاع الكالسيوم مع PTH عند مريض غسيل مزمن يوجه لفرط جارات الدرقية الثالثي."
+      "narration": "الخيار C، Tertiary hyperparathyroidism هو الإجابة الصحيحة. ارتفاع الكالسيوم مع PTH عند مريض غسيل مزمن يوجه لفرط جارات الدرقية الثالثي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع الكالسيوم مع PTH عند مريض غسيل مزمن يوجه لفرط جارات الدرقية الثالثي. وتذكّر القاعدة: Dialysis + high Ca + high PTH: Tertiary hyperparathyroidism. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ارتفاع الكالسيوم مع PTH عند مريض غسيل مزمن يوجه لفرط جارات الدرقية الثالثي. وتذكّر: Dialysis + high Ca + high PTH: Tertiary hyperparathyroidism. والإجابة الصحيحة هي C."
     }
   ]
 }

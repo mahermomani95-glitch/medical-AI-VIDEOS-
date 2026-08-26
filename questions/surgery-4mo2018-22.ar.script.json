@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Small cell lung cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. ما هو سرطان الرئة الأكثر احتمالا أن يرتبط بمتلازمة الورم الحليمي؟ أمامك هذه الخيارات: Small cell lung cancer، أو Adenocarcinoma، أو SCC، أو Large cell cancer، أو Mesothelioma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ما هو سرطان الرئة الأكثر احتمالا أن يرتبط بمتلازمة الورم الحليمي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Adenocarcinoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا as strongly linked to paraneoplastic syndromes as small cell carcinoma, given its distinct neuroendocrine origin. يصبح صحيحًا في سؤال يصف Adenocarcinoma, SCC, large cell cancer, and mesothelioma are all lung malignancies but. الخيار C، SCC: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا as strongly linked to paraneoplastic syndromes as small cell carcinoma, given its distinct neuroendocrine origin. يصبح صحيحًا في سؤال يصف Adenocarcinoma, SCC, large cell cancer, and mesothelioma are all lung malignancies but. الخيار D، Large cell cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا as strongly linked to paraneoplastic syndromes as small cell carcinoma, given its distinct neuroendocrine origin. يصبح صحيحًا في سؤال يصف Adenocarcinoma, SCC, large cell cancer, and mesothelioma are all lung malignancies but. الخيار E، Mesothelioma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا as strongly linked to paraneoplastic syndromes as small cell carcinoma, given its distinct neuroendocrine origin. يصبح صحيحًا في سؤال يصف Adenocarcinoma, SCC, large cell cancer, and mesothelioma are all lung malignancies but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Adenocarcinoma: لا ينطبق على هذه الحالة. الخيار C، SCC: لا ينطبق على هذه الحالة. الخيار D، Large cell cancer: لا ينطبق على هذه الحالة. الخيار E، Mesothelioma: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Small cell = SIADH, Cushing's, Lambert-Eaton\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Small cell lung cancer. سرطان الرئة صغير الخلايا ذو منشأ عصبي صماوي، فيفرز هرمونات وموادّ مناعية تسبب المتلازمات نظيرة الورمية."
+      "narration": "الخيار A، Small cell lung cancer هو الإجابة الصحيحة. سرطان الرئة صغير الخلايا ذو منشأ عصبي صماوي، فيفرز هرمونات وموادّ مناعية تسبب المتلازمات نظيرة الورمية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان الرئة صغير الخلايا ذو منشأ عصبي صماوي، فيفرز هرمونات وموادّ مناعية تسبب المتلازمات نظيرة الورمية. وتذكّر القاعدة: \"Small cell = SIADH, Cushing's, Lambert-Eaton\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. سرطان الرئة صغير الخلايا ذو منشأ عصبي صماوي، فيفرز هرمونات وموادّ مناعية تسبب المتلازمات نظيرة الورمية. وتذكّر: \"Small cell = SIADH, Cushing's, Lambert-Eaton\". والإجابة الصحيحة هي A."
     }
   ]
 }

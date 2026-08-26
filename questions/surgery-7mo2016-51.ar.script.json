@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Preoperative endoscopic biopsy should be done"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن الورم الليفي المريئي خاطئة؟ أمامك هذه الخيارات: It is the most common benign esophageal neoplasm، أو Most common sites middle and lower third، أو They have risk of malignant degeneration، أو Preoperative endoscopic biopsy should be done، أو Treatment of choice is endoscopic enucleation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن الورم الليفي المريئي خاطئة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is the most common benign esophageal neoplasm: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common benign esophageal tumor, typically found in the middle/lower thirds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Preoperative endoscopic biopsy should be done. الخيار B، Most common sites middle and lower third: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common benign esophageal tumor, typically found in the middle/lower thirds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Preoperative endoscopic biopsy should be done. الخيار C، They have risk of malignant degeneration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common benign esophageal tumor, typically found in the middle/lower thirds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Preoperative endoscopic biopsy should be done. الخيار E، Treatment of choice is endoscopic enucleation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common benign esophageal tumor, typically found in the middle/lower thirds, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Preoperative endoscopic biopsy should be done.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Esophageal leiomyoma: Biopsy Bypassed preopera"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Preoperative endoscopic biopsy should be done. الخزعة التنظيرية قبل الجراحة تُتجنب فعليًا لهذا الورم لخطر تعقيد الاستئصال."
+      "narration": "الخيار D هو الإجابة الصحيحة. الخزعة التنظيرية قبل الجراحة تُتجنب فعليًا لهذا الورم لخطر تعقيد الاستئصال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخزعة التنظيرية قبل الجراحة تُتجنب فعليًا لهذا الورم لخطر تعقيد الاستئصال. وتذكّر القاعدة: Esophageal leiomyoma: Biopsy Bypassed preoperatively. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الخزعة التنظيرية قبل الجراحة تُتجنب فعليًا لهذا الورم لخطر تعقيد الاستئصال. وتذكّر: Esophageal leiomyoma: Biopsy Bypassed preoperatively. والإجابة الصحيحة هي D."
     }
   ]
 }

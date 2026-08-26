@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "As a female patient, groin examination can be…"
       },
-      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 53 عامًا كحالة طارئة تعاني من ألم بطنيتشنجي استمر 4 أيام، مصحوبًا بقيء وانتفاخ بطني وإمساك. تنكر المريضةفقدان الوزن. كان تاريخها المرضي السابق ذا دلالة إحصائية فقط فيما يتعلقبجراحة استئصال الزائدة الدودية المفتوحة واستئصال المرارة المفتوحة. لميكشف فحص البطن عن وجود فتق جراحي. جميع الجمل التالية صحيحةباستثناء:؟ أمامك هذه الخيارات: She should be admitted for intravenous fluid hydration and electrolyte، أو As a female patient, groin examination can be postponed for a few days، أو Adhesions are the most likely cause for her condition، أو It is essential is to obtain an upright chest x-Ray، أو It is essential is to obtain an abdominal x-Ray. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 53 عامًا كحالة طارئة تعاني من ألم بطنيتشنجي استمر 4 أيام، مصحوبًا بقيء وانتفاخ بطني وإمساك. تنكر المريضةفقدان الوزن. كان تاريخها المرضي السابق ذا دلالة إحصائية فقط فيما يتعلقبجراحة استئصال الزائدة الدودية المفتوحة واستئصال المرارة المفتوحة. لميكشف فحص البطن عن وجود فتق جراحي. جميع الجمل التالية صحيحةباستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، She should be admitted for intravenous fluid hydration and electrolyte: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days. يصبح صحيحًا في سؤال يصف Admission for fluids/electrolytes is appropriate supportive care. الخيار C، Adhesions are the most likely cause for her condition: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days. يصبح صحيحًا في سؤال يصف adhesions as the most likely cause is plausible in a patient with prior surgery but isn't the point being tested. الخيار D، It is essential is to obtain an upright chest x-Ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days. يصبح صحيحًا في سؤال يصف obtaining chest/abdominal X-rays are appropriate diagnostic steps — however, groin examination should NEVER be postponed since an incarcerated/strangulated hernia is a critical, time-sensitive cause of obstruction, making B the false statement. الخيار E، It is essential is to obtain an abdominal x-Ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي As a female patient, groin examination can be postponed for a few days. يصبح صحيحًا في سؤال يصف obtaining chest/abdominal X-rays are appropriate diagnostic steps — however, groin examination should NEVER be postponed since an incarcerated/strangulated hernia is a critical, time-sensitive cause of obstruction, making B the false statement.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Female, abdominal pain: Groin exam shouldn't w"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: As a female patient, groin examination can be postponed for a few days. فحص المنطقة الإربية ضروري فورًا عند مريضة بألم بطني لاستبعاد فتق فخذي مختنق."
+      "narration": "الخيار B هو الإجابة الصحيحة. فحص المنطقة الإربية ضروري فورًا عند مريضة بألم بطني لاستبعاد فتق فخذي مختنق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فحص المنطقة الإربية ضروري فورًا عند مريضة بألم بطني لاستبعاد فتق فخذي مختنق. وتذكّر القاعدة: Female, abdominal pain: Groin exam shouldn't wait. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. فحص المنطقة الإربية ضروري فورًا عند مريضة بألم بطني لاستبعاد فتق فخذي مختنق. وتذكّر: Female, abdominal pain: Groin exam shouldn't wait. والإجابة الصحيحة هي B."
     }
   ]
 }

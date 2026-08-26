@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Pneumothorax"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل نحيف وطويل يبلغ من العمر 25 عامًا يصاب فجأة بألم في الجانب الأيسرمن الصدر مع السعال وضيق التنفس، التشخيص المؤقت هو؟ أمامك هذه الخيارات: Atelectasis، أو Pneumothorax، أو Pulmonary embolism، أو Myocardial infarction، أو Bronchopneumonia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل نحيف وطويل يبلغ من العمر 25 عامًا يصاب فجأة بألم في الجانب الأيسرمن الصدر مع السعال وضيق التنفس، التشخيص المؤقت هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Atelectasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pneumothorax. يصبح صحيحًا في سؤال يصف Atelectasis, pulmonary embolism, MI, and bronchopneumonia don't match this classic demographic and presentation — sudden pleuritic chest pain and dyspnea in a young, thin, tall man is the classic presentation of spontaneous pneumothorax. الخيار C، Pulmonary embolism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pneumothorax. يصبح صحيحًا في سؤال يصف Atelectasis, pulmonary embolism, MI, and bronchopneumonia don't match this classic demographic and presentation — sudden pleuritic chest pain and dyspnea in a young, thin, tall man is the classic presentation of spontaneous pneumothorax. الخيار D، Myocardial infarction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pneumothorax. يصبح صحيحًا في سؤال يصف Atelectasis, pulmonary embolism, MI, and bronchopneumonia don't match this classic demographic and presentation — sudden pleuritic chest pain and dyspnea in a young, thin, tall man is the classic presentation of spontaneous pneumothorax. الخيار E، Bronchopneumonia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pneumothorax. يصبح صحيحًا في سؤال يصف Atelectasis, pulmonary embolism, MI, and bronchopneumonia don't match this classic demographic and presentation — sudden pleuritic chest pain and dyspnea in a young, thin, tall man is the classic presentation of spontaneous pneumothorax.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Atelectasis: الإجابة الصحيحة هي Pneumothorax. الخيار C، Pulmonary embolism: الإجابة الصحيحة هي Pneumothorax. الخيار D، Myocardial infarction: الإجابة الصحيحة هي Pneumothorax. الخيار E، Bronchopneumonia: الإجابة الصحيحة هي Pneumothorax. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Tall, thin young man, sudden chest pain: Pneum"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Pneumothorax. الشاب النحيل الطويل بألم صدري مفاجئ يوجه لاسترواح الصدر التلقائي."
+      "narration": "الخيار B، Pneumothorax هو الإجابة الصحيحة. الشاب النحيل الطويل بألم صدري مفاجئ يوجه لاسترواح الصدر التلقائي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشاب النحيل الطويل بألم صدري مفاجئ يوجه لاسترواح الصدر التلقائي. وتذكّر القاعدة: Tall, thin young man, sudden chest pain: Pneumothorax. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الشاب النحيل الطويل بألم صدري مفاجئ يوجه لاسترواح الصدر التلقائي. وتذكّر: Tall, thin young man, sudden chest pain: Pneumothorax. والإجابة الصحيحة هي B."
     }
   ]
 }

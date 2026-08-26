@@ -45,7 +45,7 @@
         "region": "head",
         "label": "serum calcitonin levels"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل الاختبارات المعملية قبل الجراحة في المرضى المصابين بسرطان الغدةالدرقية النخاعي العلامة الكيميائية الحيوية الرئيسية وهي أمامك هذه الخيارات: serum PTH level، أو carcinoembryonic antigen (CEA)، أو urinalysis for catecholamine metabolites، أو serum calcitonin levels، أو serum-free T4 level. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل الاختبارات المعملية قبل الجراحة في المرضى المصابين بسرطان الغدةالدرقية النخاعي العلامة الكيميائية الحيوية الرئيسية وهي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، serum PTH level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي serum calcitonin levels. يصبح صحيحًا في سؤال يصف Serum PTH, CEA, urinary catecholamine metabolites, and free T4 are all useful markers for other endocrine or oncologic conditions, but serum calcitonin remains the specific marker for medullary thyroid carcinoma given its origin from calcitonin-secreting C cells. الخيار B، carcinoembryonic antigen (CEA): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي serum calcitonin levels. يصبح صحيحًا في سؤال يصف Serum PTH, CEA, urinary catecholamine metabolites, and free T4 are all useful markers for other endocrine or oncologic conditions, but serum calcitonin remains the specific marker for medullary thyroid carcinoma given its origin from calcitonin-secreting C cells. الخيار C، urinalysis for catecholamine metabolites: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي serum calcitonin levels. يصبح صحيحًا في سؤال يصف Serum PTH, CEA, urinary catecholamine metabolites, and free T4 are all useful markers for other endocrine or oncologic conditions, but serum calcitonin remains the specific marker for medullary thyroid carcinoma given its origin from calcitonin-secreting C cells. الخيار E، serum-free T4 level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي serum calcitonin levels. يصبح صحيحًا في سؤال يصف Serum PTH, CEA, urinary catecholamine metabolites, and free T4 are all useful markers for other endocrine or oncologic conditions, but serum calcitonin remains the specific marker for medullary thyroid carcinoma given its origin from calcitonin-secreting C cells.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، serum PTH level: الإجابة الصحيحة هي serum calcitonin levels. الخيار B، carcinoembryonic antigen (CEA): الإجابة الصحيحة هي serum calcitonin levels. الخيار C، urinalysis for catecholamine metabolites: الإجابة الصحيحة هي serum calcitonin levels. الخيار E، serum-free T4 level: الإجابة الصحيحة هي serum calcitonin levels. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Medullary = C cells = Calcitonin\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: serum calcitonin levels. سرطان الدرقية النخاعي ينشأ من الخلايا C المفرزة للكالسيتونين — الكالسيتونين المصلي هو واسمه الورمي الأساسي."
+      "narration": "الخيار D، serum calcitonin levels هو الإجابة الصحيحة. سرطان الدرقية النخاعي ينشأ من الخلايا C المفرزة للكالسيتونين — الكالسيتونين المصلي هو واسمه الورمي الأساسي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان الدرقية النخاعي ينشأ من الخلايا C المفرزة للكالسيتونين — الكالسيتونين المصلي هو واسمه الورمي الأساسي. وتذكّر القاعدة: \"Medullary = C cells = Calcitonin\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. سرطان الدرقية النخاعي ينشأ من الخلايا C المفرزة للكالسيتونين — الكالسيتونين المصلي هو واسمه الورمي الأساسي. وتذكّر: \"Medullary = C cells = Calcitonin\". والإجابة الصحيحة هي D."
     }
   ]
 }

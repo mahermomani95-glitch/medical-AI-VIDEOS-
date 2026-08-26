@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Femoral nerve is present within the femoral sheath"
       },
-      "narration": "لنبدأ بهذا السؤال. واحدة خاطئة ؟ أمامك هذه الخيارات: Femoral artery is lateral to femoral vein in the inguinal area، أو Femoral nerve is present within the femoral sheath، أو Femoral triangle is bounded by sartorius muscle laterally، أو Siatic nerve injury can be avoided by giving im injection on the upper lateral quadrant on the gluteal area، أو Great saphenous vein drain to femoral vein below the inguinal ligament. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. واحدة خاطئة ؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Femoral artery is lateral to femoral vein in the inguinal area: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The femoral artery being lateral to the vein, the sartorius forming the lateral triangle… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Femoral nerve is present within the femoral sheath. الخيار C، Femoral triangle is bounded by sartorius muscle laterally: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The femoral artery being lateral to the vein, the sartorius forming the lateral triangle… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Femoral nerve is present within the femoral sheath. الخيار D، Siatic nerve injury can be avoided by giving im injection on the upper lateral quadrant on the gluteal area: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The femoral artery being lateral to the vein, the sartorius forming the lateral triangle… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Femoral nerve is present within the femoral sheath. الخيار E، Great saphenous vein drain to femoral vein below the inguinal ligament: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The femoral artery being lateral to the vein, the sartorius forming the lateral triangle… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Femoral nerve is present within the femoral sheath.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Femoral nerve: Falls Outside the sheath"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Femoral nerve is present within the femoral sheath. العصب الفخذي يقع خارج الغمد الفخذي، لا داخله كما بالعبارة الخاطئة."
+      "narration": "الخيار B هو الإجابة الصحيحة. العصب الفخذي يقع خارج الغمد الفخذي، لا داخله كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العصب الفخذي يقع خارج الغمد الفخذي، لا داخله كما بالعبارة الخاطئة. وتذكّر القاعدة: Femoral nerve: Falls Outside the sheath. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. العصب الفخذي يقع خارج الغمد الفخذي، لا داخله كما بالعبارة الخاطئة. وتذكّر: Femoral nerve: Falls Outside the sheath. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Ceftriaxone"
       },
-      "narration": "لنبدأ بهذا السؤال. الترسب في المرارة واليرقان الركودي من السمات المميزة لأي من المضاداتالحيوية التالية أمامك هذه الخيارات: Quinolones، أو Metronidazole، أو Ceftriaxone، أو Erythromycin، أو Ampicillin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الترسب في المرارة واليرقان الركودي من السمات المميزة لأي من المضاداتالحيوية التالية أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Quinolones: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا particularly associated with gallbladder sludge formation the way ceftriaxone is, due to its unique calcium-binding property. يصبح صحيحًا في سؤال يصف Quinolones, metronidazole, and ampicillin. الخيار B، Metronidazole: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا particularly associated with gallbladder sludge formation the way ceftriaxone is, due to its unique calcium-binding property. يصبح صحيحًا في سؤال يصف Quinolones, metronidazole, and ampicillin. الخيار D، Erythromycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ceftriaxone. يصبح صحيحًا في سؤال يستهدف Erythromycin تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Ampicillin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا particularly associated with gallbladder sludge formation the way ceftriaxone is, due to its unique calcium-binding property. يصبح صحيحًا في سؤال يصف Quinolones, metronidazole, and ampicillin.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Quinolones: لا ينطبق على هذه الحالة. الخيار B، Metronidazole: لا ينطبق على هذه الحالة. الخيار D، Erythromycin: الإجابة الصحيحة هي Ceftriaxone. الخيار E، Ampicillin: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"CefTRIaxone TRIggers biliary sludge\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Ceftriaxone. سيفترياكسون يترسّب مع الكالسيوم داخل الصفراء مكوّنًا حصى كاذبة (pseudolithiasis) وركودًا صفراويًا."
+      "narration": "الخيار C، Ceftriaxone هو الإجابة الصحيحة. سيفترياكسون يترسّب مع الكالسيوم داخل الصفراء مكوّنًا حصى كاذبة (pseudolithiasis) وركودًا صفراويًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سيفترياكسون يترسّب مع الكالسيوم داخل الصفراء مكوّنًا حصى كاذبة (pseudolithiasis) وركودًا صفراويًا. وتذكّر القاعدة: \"CefTRIaxone TRIggers biliary sludge\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. سيفترياكسون يترسّب مع الكالسيوم داخل الصفراء مكوّنًا حصى كاذبة (pseudolithiasis) وركودًا صفراويًا. وتذكّر: \"CefTRIaxone TRIggers biliary sludge\". والإجابة الصحيحة هي C."
     }
   ]
 }

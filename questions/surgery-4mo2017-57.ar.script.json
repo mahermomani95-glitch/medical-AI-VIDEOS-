@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Splenic vein thrombosis"
       },
-      "narration": "لنبدأ بهذا السؤال. يتضمن التشخيص التفريقي لألم الحفرة الحرقفية اليمنى كل ما يلي باستثناء؟ أمامك هذه الخيارات: Tubo_ ovarian mass، أو Acute pyelonephritis، أو Crohn disease، أو Empyema of the gallbladder، أو Splenic vein thrombosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتضمن التشخيص التفريقي لألم الحفرة الحرقفية اليمنى كل ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tubo_ ovarian mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis. الخيار B، Acute pyelonephritis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis. الخيار C، Crohn disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis. الخيار D، Empyema of the gallbladder: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tubo-ovarian mass, pyelonephritis, Crohn's disease, and gallbladder empyema… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenic vein thrombosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tubo_ ovarian mass: صحيحة، لكنها ليست الاستثناء. الخيار B، Acute pyelonephritis: صحيحة، لكنها ليست الاستثناء. الخيار C، Crohn disease: صحيحة، لكنها ليست الاستثناء. الخيار D، Empyema of the gallbladder: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Splenic vein thrombosis: Situated on the left,"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Splenic vein thrombosis. تخثر الوريد الطحالي يخص الجانب الأيسر، لا الحفرة الحرقفية اليمنى."
+      "narration": "الخيار E، Splenic vein thrombosis هو الإجابة الصحيحة. تخثر الوريد الطحالي يخص الجانب الأيسر، لا الحفرة الحرقفية اليمنى."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تخثر الوريد الطحالي يخص الجانب الأيسر، لا الحفرة الحرقفية اليمنى. وتذكّر القاعدة: Splenic vein thrombosis: Situated on the left, not right. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. تخثر الوريد الطحالي يخص الجانب الأيسر، لا الحفرة الحرقفية اليمنى. وتذكّر: Splenic vein thrombosis: Situated on the left, not right. والإجابة الصحيحة هي E."
     }
   ]
 }

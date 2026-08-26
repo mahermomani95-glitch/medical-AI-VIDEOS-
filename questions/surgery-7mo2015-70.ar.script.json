@@ -45,7 +45,7 @@
         "label": "Febrile non Hemolytic reaction",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. رد فعل نقل الدم الأكثر شيوعًا هو؟ أمامك هذه الخيارات: ABO incompatibility reaction، أو Acute lung injury، أو Delayed Hemolytic reaction، أو Febrile non Hemolytic reaction، أو Hypocalcemia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رد فعل نقل الدم الأكثر شيوعًا هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، ABO incompatibility reaction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Febrile non Hemolytic reaction. يصبح صحيحًا في سؤال يصف ABO incompatibility, acute lung injury/TRALI, delayed hemolytic reaction, and hypocalcemia (E, from massive transfusion) are all recognized transfusion reactions, but febrile non-hemolytic reactions remain the most common overall type of transfusion reaction. الخيار B، Acute lung injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Febrile non Hemolytic reaction. يصبح صحيحًا في سؤال يصف ABO incompatibility, acute lung injury/TRALI, delayed hemolytic reaction, and hypocalcemia (E, from massive transfusion) are all recognized transfusion reactions, but febrile non-hemolytic reactions remain the most common overall type of transfusion reaction. الخيار C، Delayed Hemolytic reaction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Febrile non Hemolytic reaction. يصبح صحيحًا في سؤال يصف ABO incompatibility, acute lung injury/TRALI, delayed hemolytic reaction, and hypocalcemia (E, from massive transfusion) are all recognized transfusion reactions, but febrile non-hemolytic reactions remain the most common overall type of transfusion reaction. الخيار E، Hypocalcemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Febrile non Hemolytic reaction. يصبح صحيحًا في سؤال يصف ABO incompatibility, acute lung injury/TRALI, delayed hemolytic reaction, and hypocalcemia (E, from massive transfusion) are all recognized transfusion reactions, but febrile non-hemolytic reactions remain the most common overall type of transfusion reaction.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، ABO incompatibility reaction: الإجابة الصحيحة هي Febrile non Hemolytic reaction. الخيار B، Acute lung injury: الإجابة الصحيحة هي Febrile non Hemolytic reaction. الخيار C، Delayed Hemolytic reaction: الإجابة الصحيحة هي Febrile non Hemolytic reaction. الخيار E، Hypocalcemia: الإجابة الصحيحة هي Febrile non Hemolytic reaction. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Transfusion reaction: mostly Febrile non-hemol"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Febrile non Hemolytic reaction. التفاعل الحموي غير الانحلالي هو الأشيع بين تفاعلات نقل الدم."
+      "narration": "الخيار D، Febrile non Hemolytic reaction هو الإجابة الصحيحة. التفاعل الحموي غير الانحلالي هو الأشيع بين تفاعلات نقل الدم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التفاعل الحموي غير الانحلالي هو الأشيع بين تفاعلات نقل الدم. وتذكّر القاعدة: Transfusion reaction: mostly Febrile non-hemolytic. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. التفاعل الحموي غير الانحلالي هو الأشيع بين تفاعلات نقل الدم. وتذكّر: Transfusion reaction: mostly Febrile non-hemolytic. والإجابة الصحيحة هي D."
     }
   ]
 }

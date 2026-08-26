@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Cyclophosphamide"
       },
-      "narration": "لنبدأ بهذا السؤال. التهاب المثانة النزفي هو سمة من سمات العلاج الكيميائي التالي:؟ أمامك هذه الخيارات: Cisplatin، أو Bleomycin، أو Cyclophosphamide، أو Methotrexate، أو Tamoxifen. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. التهاب المثانة النزفي هو سمة من سمات العلاج الكيميائي التالي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cisplatin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyclophosphamide. يصبح صحيحًا في سؤال يصف Cisplatin is associated with nephrotoxicity/ototoxicity. الخيار B، Bleomycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyclophosphamide. يصبح صحيحًا في سؤال يصف bleomycin with pulmonary fibrosis. الخيار D، Methotrexate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyclophosphamide. يصبح صحيحًا في سؤال يصف methotrexate with mucositis/myelosuppression. الخيار E، Tamoxifen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cyclophosphamide. يصبح صحيحًا في سؤال يصف tamoxifen with endometrial changes — cyclophosphamide is specifically associated with hemorrhagic cystitis due to its toxic metabolite acrolein.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Cisplatin: الإجابة الصحيحة هي Cyclophosphamide. الخيار B، Bleomycin: الإجابة الصحيحة هي Cyclophosphamide. الخيار D، Methotrexate: الإجابة الصحيحة هي Cyclophosphamide. الخيار E، Tamoxifen: الإجابة الصحيحة هي Cyclophosphamide. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hemorrhagic cystitis: caused by Cyclophosphami"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Cyclophosphamide. سيكلوفوسفاميد يسبب التهاب مثانة نزفي عبر مستقلبه السام (أكرولين)."
+      "narration": "الخيار C، Cyclophosphamide هو الإجابة الصحيحة. سيكلوفوسفاميد يسبب التهاب مثانة نزفي عبر مستقلبه السام (أكرولين)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سيكلوفوسفاميد يسبب التهاب مثانة نزفي عبر مستقلبه السام (أكرولين). وتذكّر القاعدة: Hemorrhagic cystitis: caused by Cyclophosphamide. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. سيكلوفوسفاميد يسبب التهاب مثانة نزفي عبر مستقلبه السام (أكرولين). وتذكّر: Hemorrhagic cystitis: caused by Cyclophosphamide. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Superior mesenteric artery"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل مصاب بالوهن مع أعراض مزمنة لانسداد الأمعاء القريبة، ما هو الوعاءالذي يعتبر السبب الأكثر إيحاءً للانسداد؟ أمامك هذه الخيارات: Inferior vena cava، أو Superior mesenteric artery، أو Superior epigastric artery، أو Celiac trunk، أو Abdominal aorta. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل مصاب بالوهن مع أعراض مزمنة لانسداد الأمعاء القريبة، ما هو الوعاءالذي يعتبر السبب الأكثر إيحاءً للانسداد؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inferior vena cava: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior mesenteric artery. يصبح صحيحًا في سؤال يصف The inferior vena cava, superior epigastric artery, celiac trunk, and abdominal aorta are all major abdominal vessels, but the SMA is specifically the one compressing the duodenum in SMA syndrome due to its direct anatomic relationship with the aorta at that level. الخيار C، Superior epigastric artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior mesenteric artery. يصبح صحيحًا في سؤال يصف The inferior vena cava, superior epigastric artery, celiac trunk, and abdominal aorta are all major abdominal vessels, but the SMA is specifically the one compressing the duodenum in SMA syndrome due to its direct anatomic relationship with the aorta at that level. الخيار D، Celiac trunk: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior mesenteric artery. يصبح صحيحًا في سؤال يصف The inferior vena cava, superior epigastric artery, celiac trunk, and abdominal aorta are all major abdominal vessels, but the SMA is specifically the one compressing the duodenum in SMA syndrome due to its direct anatomic relationship with the aorta at that level. الخيار E، Abdominal aorta: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior mesenteric artery. يصبح صحيحًا في سؤال يصف The inferior vena cava, superior epigastric artery, celiac trunk, and abdominal aorta are all major abdominal vessels, but the SMA is specifically the one compressing the duodenum in SMA syndrome due to its direct anatomic relationship with the aorta at that level.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Inferior vena cava: الإجابة الصحيحة هي Superior mesenteric artery. الخيار C، Superior epigastric artery: الإجابة الصحيحة هي Superior mesenteric artery. الخيار D، Celiac trunk: الإجابة الصحيحة هي Superior mesenteric artery. الخيار E، Abdominal aorta: الإجابة الصحيحة هي Superior mesenteric artery. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Thin + SMA = duodenal pinch\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Superior mesenteric artery. النحافة الشديدة تسمح للشريان المساريقي العلوي بضغط الاثني عشر على الأبهر — وهذا ما يُعرف بمتلازمة الشريان المساريقي العلوي."
+      "narration": "الخيار B، Superior mesenteric artery هو الإجابة الصحيحة. النحافة الشديدة تسمح للشريان المساريقي العلوي بضغط الاثني عشر على الأبهر — وهذا ما يُعرف بمتلازمة الشريان المساريقي العلوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النحافة الشديدة تسمح للشريان المساريقي العلوي بضغط الاثني عشر على الأبهر — وهذا ما يُعرف بمتلازمة الشريان المساريقي العلوي. وتذكّر القاعدة: \"Thin + SMA = duodenal pinch\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. النحافة الشديدة تسمح للشريان المساريقي العلوي بضغط الاثني عشر على الأبهر — وهذا ما يُعرف بمتلازمة الشريان المساريقي العلوي. وتذكّر: \"Thin + SMA = duodenal pinch\". والإجابة الصحيحة هي B."
     }
   ]
 }

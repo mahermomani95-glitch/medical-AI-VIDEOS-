@@ -41,7 +41,7 @@
         "region": "chest",
         "label": "Multiparity"
       },
-      "narration": "لنبدأ بهذا السؤال. تعتبر جميع العوامل التالية عوامل خطر للإصابة بسرطان الثدي باستثناء A Obesity…………. بدانة؟ أمامك هذه الخيارات: History of ovarian cancer، أو History of endometrial cancer، أو Multiparity، أو Late menopause. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تعتبر جميع العوامل التالية عوامل خطر للإصابة بسرطان الثدي باستثناء A Obesity…………. بدانة؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، History of ovarian cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity. الخيار C، History of endometrial cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity. الخيار E، Late menopause: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. History of ovarian cancer and endometrial cancer reflect shared hormonal/genetic risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Multiparity.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، History of ovarian cancer: صحيحة، لكنها ليست الاستثناء. الخيار C، History of endometrial cancer: صحيحة، لكنها ليست الاستثناء. الخيار E، Late menopause: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "B",
@@ -126,13 +126,13 @@
       "pills": [
         "Multiparity: Mostly protective against breast "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Multiparity. تعدد الولادات عامل وقائي نسبي ضد سرطان الثدي، لا خطر."
+      "narration": "الخيار D، Multiparity هو الإجابة الصحيحة. تعدد الولادات عامل وقائي نسبي ضد سرطان الثدي، لا خطر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تعدد الولادات عامل وقائي نسبي ضد سرطان الثدي، لا خطر. وتذكّر القاعدة: Multiparity: Mostly protective against breast cancer. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. تعدد الولادات عامل وقائي نسبي ضد سرطان الثدي، لا خطر. وتذكّر: Multiparity: Mostly protective against breast cancer. والإجابة الصحيحة هي D."
     }
   ]
 }

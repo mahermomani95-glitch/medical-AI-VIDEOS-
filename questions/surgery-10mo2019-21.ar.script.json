@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Infected thyroglossal duct cyst"
       },
-      "narration": "لنبدأ بهذا السؤال. أُحضرت طفلة تبلغ من العمر ثماني سنوات إلى المستشفى من قِبل والديهابشكوى من وجود كتلة غير مؤلمة في منتصف الرقبة الأمامية. وبالفحصالسريري، وُجدت كتلة في منتصف الرقبة مع احمرار موضعي في الجلدالمحيط بها. كما تتحرك وترتفع عند البلع وبروز اللسان. التشخيص الأكثراحتمالاً هو: أمامك هذه الخيارات: Infected Branchial cleft cyst، أو Infected Submental lymph node، أو Infected thyroglossal duct cyst، أو Dermoid cyst، أو Carotid body tumor. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أُحضرت طفلة تبلغ من العمر ثماني سنوات إلى المستشفى من قِبل والديهابشكوى من وجود كتلة غير مؤلمة في منتصف الرقبة الأمامية. وبالفحصالسريري، وُجدت كتلة في منتصف الرقبة مع احمرار موضعي في الجلدالمحيط بها. كما تتحرك وترتفع عند البلع وبروز اللسان. التشخيص الأكثراحتمالاً هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Infected Branchial cleft cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infected thyroglossal duct cyst. يصبح صحيحًا في سؤال يصف Infected branchial cleft cyst, infected submental lymph node, dermoid cyst, and carotid body tumor are all differential diagnoses for a lateral neck mass, but cholesterol crystals on aspiration specifically confirm a branchial cleft cyst. الخيار B، Infected Submental lymph node: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infected thyroglossal duct cyst. يصبح صحيحًا في سؤال يصف Infected branchial cleft cyst, infected submental lymph node, dermoid cyst, and carotid body tumor are all differential diagnoses for a lateral neck mass, but cholesterol crystals on aspiration specifically confirm a branchial cleft cyst. الخيار D، Dermoid cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infected thyroglossal duct cyst. يصبح صحيحًا في سؤال يصف Infected branchial cleft cyst, infected submental lymph node, dermoid cyst, and carotid body tumor are all differential diagnoses for a lateral neck mass, but cholesterol crystals on aspiration specifically confirm a branchial cleft cyst. الخيار E، Carotid body tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infected thyroglossal duct cyst. يصبح صحيحًا في سؤال يصف Infected branchial cleft cyst, infected submental lymph node, dermoid cyst, and carotid body tumor are all differential diagnoses for a lateral neck mass, but cholesterol crystals on aspiration specifically confirm a branchial cleft cyst.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Infected Branchial cleft cyst: الإجابة الصحيحة هي Infected thyroglossal duct cyst. الخيار B، Infected Submental lymph node: الإجابة الصحيحة هي Infected thyroglossal duct cyst. الخيار D، Dermoid cyst: الإجابة الصحيحة هي Infected thyroglossal duct cyst. الخيار E، Carotid body tumor: الإجابة الصحيحة هي Infected thyroglossal duct cyst. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Moves with tongue protrusion = Thyroglossal d"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Infected thyroglossal duct cyst. الحركة مع بروز اللسان (وليس البلع فقط) هي الدليل النوعي الذي يميز كيس القناة الدرقية اللسانية عن باقي كتل الرقبة المتوسطة."
+      "narration": "الخيار C، Infected thyroglossal duct cyst هو الإجابة الصحيحة. الحركة مع بروز اللسان (وليس البلع فقط) هي الدليل النوعي الذي يميز كيس القناة الدرقية اللسانية عن باقي كتل الرقبة المتوسطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحركة مع بروز اللسان (وليس البلع فقط) هي الدليل النوعي الذي يميز كيس القناة الدرقية اللسانية عن باقي كتل الرقبة المتوسطة. وتذكّر القاعدة: \"Moves with tongue protrusion = Thyroglossal duct cyst\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الحركة مع بروز اللسان (وليس البلع فقط) هي الدليل النوعي الذي يميز كيس القناة الدرقية اللسانية عن باقي كتل الرقبة المتوسطة. وتذكّر: \"Moves with tongue protrusion = Thyroglossal duct cyst\". والإجابة الصحيحة هي C."
     }
   ]
 }

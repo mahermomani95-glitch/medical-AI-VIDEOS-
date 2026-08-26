@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hypercalcemia"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر ٥٦ عامًا يعاني من الإمساك وآلام البطن وحصوات الكلىوالاكتئاب. أي مما يلي هو السبب الأكثر احتمالًا؟ أمامك هذه الخيارات: Hypercalcemia، أو Hypokalemia، أو Hypothyroidism، أو Dehydration، أو DM. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر ٥٦ عامًا يعاني من الإمساك وآلام البطن وحصوات الكلىوالاكتئاب. أي مما يلي هو السبب الأكثر احتمالًا؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hypokalemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Hypokalemia, hypothyroidism, dehydration, and diabetes mellitus can all cause some overlapping symptoms, but hypercalcemia specifically and uniquely explains the full combination of constipation, abdominal pain, kidney stones, and depression together. الخيار C، Hypothyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Hypokalemia, hypothyroidism, dehydration, and diabetes mellitus can all cause some overlapping symptoms, but hypercalcemia specifically and uniquely explains the full combination of constipation, abdominal pain, kidney stones, and depression together. الخيار D، Dehydration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Hypokalemia, hypothyroidism, dehydration, and diabetes mellitus can all cause some overlapping symptoms, but hypercalcemia specifically and uniquely explains the full combination of constipation, abdominal pain, kidney stones, and depression together. الخيار E، DM: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Hypokalemia, hypothyroidism, dehydration, and diabetes mellitus can all cause some overlapping symptoms, but hypercalcemia specifically and uniquely explains the full combination of constipation, abdominal pain, kidney stones, and depression together.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Hypokalemia: الإجابة الصحيحة هي Hypercalcemia. الخيار C، Hypothyroidism: الإجابة الصحيحة هي Hypercalcemia. الخيار D، Dehydration: الإجابة الصحيحة هي Hypercalcemia. الخيار E، DM: الإجابة الصحيحة هي Hypercalcemia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Stones, bones, groans, psychiatric overtones\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Hypercalcemia. \"حصى، عظام، أنين، ونغمات نفسية\" — العبارة الكلاسيكية الشهيرة لوصف أعراض فرط كالسيوم الدم."
+      "narration": "الخيار A، Hypercalcemia هو الإجابة الصحيحة. \"حصى، عظام، أنين، ونغمات نفسية\" — العبارة الكلاسيكية الشهيرة لوصف أعراض فرط كالسيوم الدم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. \"حصى، عظام، أنين، ونغمات نفسية\" — العبارة الكلاسيكية الشهيرة لوصف أعراض فرط كالسيوم الدم. وتذكّر القاعدة: \"Stones, bones, groans, psychiatric overtones\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. \"حصى، عظام، أنين، ونغمات نفسية\" — العبارة الكلاسيكية الشهيرة لوصف أعراض فرط كالسيوم الدم. وتذكّر: \"Stones, bones, groans, psychiatric overtones\". والإجابة الصحيحة هي A."
     }
   ]
 }

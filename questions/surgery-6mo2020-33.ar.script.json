@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Internal hemorrhoids can originate below the…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Internal hemorrhoids originate above the dentate line، أو Sphincter damage can result as a postoperative complication، أو Internal hemorrhoids can originate below the dentate line، أو Can be caused by portal HTN and rectal cancer، أو Bleeding internal hemorrhoids is best treated by surgical excision. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Internal hemorrhoids originate above the dentate line: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal hemorrhoids originating above the dentate line, sphincter damage as a postoperative… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Internal hemorrhoids can originate below the dentate line. الخيار B، Sphincter damage can result as a postoperative complication: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal hemorrhoids originating above the dentate line, sphincter damage as a postoperative… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Internal hemorrhoids can originate below the dentate line. الخيار D، Can be caused by portal HTN and rectal cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal hemorrhoids originating above the dentate line, sphincter damage as a postoperative… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Internal hemorrhoids can originate below the dentate line. الخيار E، Bleeding internal hemorrhoids is best treated by surgical excision: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal hemorrhoids originating above the dentate line, sphincter damage as a postoperative… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Internal hemorrhoids can originate below the dentate line.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Internal hemorrhoids = ABOVE dentate line, by"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Internal hemorrhoids can originate below the dentate line. البواسير الداخلية تنشأ فوق خط المسنن بحكم التعريف — لا يمكن أن تنشأ تحته (وإلا لكانت بحكم التعريف بواسير خارجية)."
+      "narration": "الخيار C هو الإجابة الصحيحة. البواسير الداخلية تنشأ فوق خط المسنن بحكم التعريف — لا يمكن أن تنشأ تحته (وإلا لكانت بحكم التعريف بواسير خارجية)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البواسير الداخلية تنشأ فوق خط المسنن بحكم التعريف — لا يمكن أن تنشأ تحته (وإلا لكانت بحكم التعريف بواسير خارجية). وتذكّر القاعدة: \"Internal hemorrhoids = ABOVE dentate line, by definition\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. البواسير الداخلية تنشأ فوق خط المسنن بحكم التعريف — لا يمكن أن تنشأ تحته (وإلا لكانت بحكم التعريف بواسير خارجية). وتذكّر: \"Internal hemorrhoids = ABOVE dentate line, by definition\". والإجابة الصحيحة هي C."
     }
   ]
 }

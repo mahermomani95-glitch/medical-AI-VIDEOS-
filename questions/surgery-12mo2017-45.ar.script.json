@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Left hemothorax"
       },
-      "narration": "لنبدأ بهذا السؤال. حضر إليكم رجل يبلغ من العمر 65 عامًا إلى قسم الطوارئ بعد حادث مرورييشكو من ألم في الصدر الأيسر. كانت علاماته الحيوية ضغط الدم 110/50،معدل ضربات القلب 100، معدل التنفس 20، ودرجة حرارة الجسم 14/15. عندالفحص، وُجد انخفاض في أصوات التنفس في الجانب الأيسر. أظهر تصويرالصدر بالأشعة السينية هدوءًا في نصف الصدر الأيسر. ما هو التشخيصالأكثر احتمالًا؟ أمامك هذه الخيارات: Left hemothorax، أو Left pneumothorax، أو Cardiac tamponade، أو Splenic injury، أو Left tension pneumothorax. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضر إليكم رجل يبلغ من العمر 65 عامًا إلى قسم الطوارئ بعد حادث مرورييشكو من ألم في الصدر الأيسر. كانت علاماته الحيوية ضغط الدم 110/50،معدل ضربات القلب 100، معدل التنفس 20، ودرجة حرارة الجسم 14/15. عندالفحص، وُجد انخفاض في أصوات التنفس في الجانب الأيسر. أظهر تصويرالصدر بالأشعة السينية هدوءًا في نصف الصدر الأيسر. ما هو التشخيصالأكثر احتمالًا؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Left pneumothorax: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the findings implied here. يصبح صحيحًا في سؤال يصف A left pneumothorax presents with hyperresonance. الخيار C، Cardiac tamponade: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left hemothorax. يصبح صحيحًا في سؤال يصف cardiac tamponade shows muffled heart sounds/JVD. الخيار D، Splenic injury: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا directly explain chest findings. يصبح صحيحًا في سؤال يصف splenic injury alone. الخيار E، Left tension pneumothorax: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left hemothorax. يصبح صحيحًا في سؤال يصف tension pneumothorax shows tracheal deviation and hemodynamic compromise — the described trauma presentation is most consistent with left hemothorax (dull to percussion, decreased breath sounds from blood accumulation).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Left pneumothorax: المطلوب هنا the findings implied here. الخيار C، Cardiac tamponade: الإجابة الصحيحة هي Left hemothorax. الخيار D، Splenic injury: المطلوب هنا directly explain chest findings. الخيار E، Left tension pneumothorax: الإجابة الصحيحة هي Left hemothorax. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "This trauma scenario: Left hemothorax"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Left hemothorax. رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا."
+      "narration": "الخيار A، Left hemothorax هو الإجابة الصحيحة. رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا. وتذكّر القاعدة: This trauma scenario: Left hemothorax. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. رض صدري قد يسبب تجمعًا دمويًا بالحيز الجنبي الأيسر تحديدًا. وتذكّر: This trauma scenario: Left hemothorax. والإجابة الصحيحة هي A."
     }
   ]
 }

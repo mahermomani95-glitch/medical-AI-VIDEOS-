@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "IV fluids"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: IV fluids، أو IV analgesia، أو Abdominal ultrasound، أو IV antibiotic، أو Abdominal CT. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، IV analgesia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV fluids. يصبح صحيحًا في سؤال يصف IV analgesia, abdominal ultrasound, IV antibiotics, and abdominal CT are all appropriate components of pancreatitis management, but IV fluids remain the single most important initial priority given the massive fluid sequestration. الخيار C، Abdominal ultrasound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV fluids. يصبح صحيحًا في سؤال يصف IV analgesia, abdominal ultrasound, IV antibiotics, and abdominal CT are all appropriate components of pancreatitis management, but IV fluids remain the single most important initial priority given the massive fluid sequestration. الخيار D، IV antibiotic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV fluids. يصبح صحيحًا في سؤال يصف IV analgesia, abdominal ultrasound, IV antibiotics, and abdominal CT are all appropriate components of pancreatitis management, but IV fluids remain the single most important initial priority given the massive fluid sequestration. الخيار E، Abdominal CT: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV fluids. يصبح صحيحًا في سؤال يصف IV analgesia, abdominal ultrasound, IV antibiotics, and abdominal CT are all appropriate components of pancreatitis management, but IV fluids remain the single most important initial priority given the massive fluid sequestration.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، IV analgesia: الإجابة الصحيحة هي IV fluids. الخيار C، Abdominal ultrasound: الإجابة الصحيحة هي IV fluids. الخيار D، IV antibiotic: الإجابة الصحيحة هي IV fluids. الخيار E، Abdominal CT: الإجابة الصحيحة هي IV fluids. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pancreatitis initial management = Aggressive "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: IV fluids. الإرواء الوريدي بالسوائل بقوة هو الخطوة الأولى الأساسية في التهاب البنكرياس الحاد، بسبب التسرب الهائل للسوائل خلف الصفاق."
+      "narration": "الخيار A، IV fluids هو الإجابة الصحيحة. الإرواء الوريدي بالسوائل بقوة هو الخطوة الأولى الأساسية في التهاب البنكرياس الحاد، بسبب التسرب الهائل للسوائل خلف الصفاق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإرواء الوريدي بالسوائل بقوة هو الخطوة الأولى الأساسية في التهاب البنكرياس الحاد، بسبب التسرب الهائل للسوائل خلف الصفاق. وتذكّر القاعدة: \"Pancreatitis initial management = Aggressive IV fluids first\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الإرواء الوريدي بالسوائل بقوة هو الخطوة الأولى الأساسية في التهاب البنكرياس الحاد، بسبب التسرب الهائل للسوائل خلف الصفاق. وتذكّر: \"Pancreatitis initial management = Aggressive IV fluids first\". والإجابة الصحيحة هي A."
     }
   ]
 }

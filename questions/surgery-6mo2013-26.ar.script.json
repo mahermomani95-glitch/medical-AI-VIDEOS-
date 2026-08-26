@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "CT scan"
       },
-      "narration": "لنبدأ بهذا السؤال. الأداة التشخيصية الأكثر تحديدًا لإصابة الطحال هي؟ أمامك هذه الخيارات: CT scan، أو Abdominal ultrasound، أو Abdominal X-Ray، أو DPL، أو Angiography. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الأداة التشخيصية الأكثر تحديدًا لإصابة الطحال هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Abdominal ultrasound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan. يصبح صحيحًا في سؤال يصف Abdominal ultrasound is useful for rapid bedside screening (FAST) but less sensitive/specific than CT. الخيار C، Abdominal X-Ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan. يصبح صحيحًا في سؤال يصف plain X-ray has very limited utility for solid organ injury. الخيار D، DPL: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan. يصبح صحيحًا في سؤال يصف DPL is invasive and non-specific for grading. الخيار E، Angiography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي CT scan. يصبح صحيحًا في سؤال يصف angiography is more for therapeutic embolization than initial diagnosis — CT scan remains the most specific tool for characterizing splenic injury.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Abdominal ultrasound: الإجابة الصحيحة هي CT scan. الخيار C، Abdominal X-Ray: الإجابة الصحيحة هي CT scan. الخيار D، DPL: الإجابة الصحيحة هي CT scan. الخيار E، Angiography: الإجابة الصحيحة هي CT scan. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Spleen injury: CT scan is most Specific"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: CT scan. التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال."
+      "narration": "الخيار A، CT scan هو الإجابة الصحيحة. التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال. وتذكّر القاعدة: Spleen injury: CT scan is most Specific. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التصوير الطبقي المحوري هو الأداة التشخيصية الأدق لإصابة الطحال. وتذكّر: Spleen injury: CT scan is most Specific. والإجابة الصحيحة هي A."
     }
   ]
 }

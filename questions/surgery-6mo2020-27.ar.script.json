@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Duodenal obstruction"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Duodenal obstruction، أو Acute cholecystitis، أو Gallstone pancreatitis، أو Obstructive jaundice، أو Gallbladder empyema. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Acute cholecystitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct complication. يصبح صحيحًا في سؤال يصف Acute cholecystitis, gallstone pancreatitis, obstructive jaundice, and gallbladder empyema are all genuine complications of gallstones, unlike liver cirrhosis which. الخيار C، Gallstone pancreatitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct complication. يصبح صحيحًا في سؤال يصف Acute cholecystitis, gallstone pancreatitis, obstructive jaundice, and gallbladder empyema are all genuine complications of gallstones, unlike liver cirrhosis which. الخيار D، Obstructive jaundice: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct complication. يصبح صحيحًا في سؤال يصف Acute cholecystitis, gallstone pancreatitis, obstructive jaundice, and gallbladder empyema are all genuine complications of gallstones, unlike liver cirrhosis which. الخيار E، Gallbladder empyema: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a direct complication. يصبح صحيحًا في سؤال يصف Acute cholecystitis, gallstone pancreatitis, obstructive jaundice, and gallbladder empyema are all genuine complications of gallstones, unlike liver cirrhosis which.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Acute cholecystitis: المطلوب هنا a direct complication. الخيار C، Gallstone pancreatitis: المطلوب هنا a direct complication. الخيار D، Obstructive jaundice: المطلوب هنا a direct complication. الخيار E، Gallbladder empyema: المطلوب هنا a direct complication. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Gallstone ileus classically obstructs the ile"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Duodenal obstruction. انسداد الاثني عشر بحصاة مرارية يتطلب تآكلها عبر ناسور بين المرارة والاثني عشر واستقرارها بعيدًا — حدث نادر (انسداد الأمعاء الحصوي يصيب اللفائفي كلاسيكيًا وليس الاثني عشر)."
+      "narration": "الخيار A، Duodenal obstruction هو الإجابة الصحيحة. انسداد الاثني عشر بحصاة مرارية يتطلب تآكلها عبر ناسور بين المرارة والاثني عشر واستقرارها بعيدًا — حدث نادر (انسداد الأمعاء الحصوي يصيب اللفائفي كلاسيكيًا وليس الاثني عشر)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انسداد الاثني عشر بحصاة مرارية يتطلب تآكلها عبر ناسور بين المرارة والاثني عشر واستقرارها بعيدًا — حدث نادر (انسداد الأمعاء الحصوي يصيب اللفائفي كلاسيكيًا وليس الاثني عشر). وتذكّر القاعدة: \"Gallstone ileus classically obstructs the ileum, not the duodenum\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. انسداد الاثني عشر بحصاة مرارية يتطلب تآكلها عبر ناسور بين المرارة والاثني عشر واستقرارها بعيدًا — حدث نادر (انسداد الأمعاء الحصوي يصيب اللفائفي كلاسيكيًا وليس الاثني عشر). وتذكّر: \"Gallstone ileus classically obstructs the ileum, not the duodenum\". والإجابة الصحيحة هي A."
     }
   ]
 }

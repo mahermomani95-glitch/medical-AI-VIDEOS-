@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Hereditary spherocytosis"
       },
-      "narration": "لنبدأ بهذا السؤال. أكثر التشوهات الخلقية شيوعًا والتي تتطلب استئصال الطحال هي؟ أمامك هذه الخيارات: Hereditary spherocytosis، أو Hereditary elliptocytosis، أو Protein kinase deficiency، أو B-Thalassemia minor. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أكثر التشوهات الخلقية شيوعًا والتي تتطلب استئصال الطحال هي؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hereditary elliptocytosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis. يصبح صحيحًا في سؤال يصف Hereditary elliptocytosis, pyruvate kinase deficiency (C, more classic than 'protein kinase'), and beta-thalassemia minor (D, rarely requires splenectomy) are less common indications than hereditary spherocytosis, which remains the most common congenital hemolytic anemia requiring splenectomy. الخيار C، Protein kinase deficiency: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis. يصبح صحيحًا في سؤال يصف Hereditary elliptocytosis, pyruvate kinase deficiency (C, more classic than 'protein kinase'), and beta-thalassemia minor (D, rarely requires splenectomy) are less common indications than hereditary spherocytosis, which remains the most common congenital hemolytic anemia requiring splenectomy. الخيار D، B-Thalassemia minor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hereditary spherocytosis. يصبح صحيحًا في سؤال يصف Hereditary elliptocytosis, pyruvate kinase deficiency (C, more classic than 'protein kinase'), and beta-thalassemia minor (D, rarely requires splenectomy) are less common indications than hereditary spherocytosis, which remains the most common congenital hemolytic anemia requiring splenectomy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Hereditary elliptocytosis: الإجابة الصحيحة هي Hereditary spherocytosis. الخيار C، Protein kinase deficiency: الإجابة الصحيحة هي Hereditary spherocytosis. الخيار D، B-Thalassemia minor: الإجابة الصحيحة هي Hereditary spherocytosis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Splenectomy in congenital disease: mostly Sphe"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Hereditary spherocytosis. الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال."
+      "narration": "الخيار A، Hereditary spherocytosis هو الإجابة الصحيحة. الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال. وتذكّر القاعدة: Splenectomy in congenital disease: mostly Spherocytosis. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الكروية الوراثية هي الشذوذ الخلقي الأشيع المستدعي لاستئصال الطحال. وتذكّر: Splenectomy in congenital disease: mostly Spherocytosis. والإجابة الصحيحة هي A."
     }
   ]
 }

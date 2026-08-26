@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Splenectomy is not a routine management for all…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بصدمة البطن في الفئة العمرية للأطفال، أي مما يلي صحيح؟ أمامك هذه الخيارات: Clinical examination, stabilization and resuscitation are not of priority، أو Ultrasound is the diagnostic tool of choice، أو Blood transfusion should be started immediately، أو Peritoneal lavage is contraindicated، أو Splenectomy is not a routine management for all types of Splenic injuries. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بصدمة البطن في الفئة العمرية للأطفال، أي مما يلي صحيح؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Clinical examination, stabilization and resuscitation are not of priority: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Splenectomy is not a routine management for all types of Splenic injuries. يصبح صحيحًا في سؤال يصف Clinical exam/stabilization/resuscitation ARE priorities. الخيار B، Ultrasound is the diagnostic tool of choice: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Splenectomy is not a routine management for all types of Splenic injuries. يصبح صحيحًا في سؤال يصف ultrasound is a useful adjunct but CT remains preferred for definitive pediatric trauma evaluation when stable. الخيار C، Blood transfusion should be started immediately: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا be started immediately without first assessing response to fluids. يصبح صحيحًا في سؤال يصف blood transfusion should. الخيار D، Peritoneal lavage is contraindicated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routinely contraindicated though less used now — the true statement is that splenectomy is not routinely done for all splenic injuries given the preference for non-operative management in children. يصبح صحيحًا في سؤال يصف peritoneal lavage.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D، Peritoneal lavage is contraindicated: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pediatric spleen injury: Selective, not routin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Splenectomy is not a routine management for all types of Splenic injuries. استئصال الطحال ليس الإدارة الروتينية لكل إصابات الطحال عند الأطفال."
+      "narration": "الخيار E هو الإجابة الصحيحة. استئصال الطحال ليس الإدارة الروتينية لكل إصابات الطحال عند الأطفال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استئصال الطحال ليس الإدارة الروتينية لكل إصابات الطحال عند الأطفال. وتذكّر القاعدة: Pediatric spleen injury: Selective, not routine splenectomy. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. استئصال الطحال ليس الإدارة الروتينية لكل إصابات الطحال عند الأطفال. وتذكّر: Pediatric spleen injury: Selective, not routine splenectomy. والإجابة الصحيحة هي E."
     }
   ]
 }

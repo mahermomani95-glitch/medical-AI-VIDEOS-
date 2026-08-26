@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "uncontrolled sepsis"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل موانع زراعة الكبد ما يلي:؟ أمامك هذه الخيارات: fulminant hepatic failure with hepatic coma، أو chronic active hepatitis، أو hepatic malignancy، أو portal vein thrombosis، أو uncontrolled sepsis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل موانع زراعة الكبد ما يلي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، fulminant hepatic failure with hepatic coma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي uncontrolled sepsis. يصبح صحيحًا في سؤال يصف Fulminant hepatic failure with coma, chronic active hepatitis, hepatic malignancy meeting criteria, and portal vein thrombosis (D, a relative rather than absolute contraindication in many centers) can all still be transplant candidates in appropriate contexts, unlike uncontrolled sepsis, which is an absolute contraindication given the risks of immunosuppression. الخيار B، chronic active hepatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي uncontrolled sepsis. يصبح صحيحًا في سؤال يصف Fulminant hepatic failure with coma, chronic active hepatitis, hepatic malignancy meeting criteria, and portal vein thrombosis (D, a relative rather than absolute contraindication in many centers) can all still be transplant candidates in appropriate contexts, unlike uncontrolled sepsis, which is an absolute contraindication given the risks of immunosuppression. الخيار C، hepatic malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي uncontrolled sepsis. يصبح صحيحًا في سؤال يصف Fulminant hepatic failure with coma, chronic active hepatitis, hepatic malignancy meeting criteria, and portal vein thrombosis (D, a relative rather than absolute contraindication in many centers) can all still be transplant candidates in appropriate contexts, unlike uncontrolled sepsis, which is an absolute contraindication given the risks of immunosuppression. الخيار D، portal vein thrombosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي uncontrolled sepsis. يصبح صحيحًا في سؤال يصف Fulminant hepatic failure with coma, chronic active hepatitis, hepatic malignancy meeting criteria, and portal vein thrombosis (D, a relative rather than absolute contraindication in many centers) can all still be transplant candidates in appropriate contexts, unlike uncontrolled sepsis, which is an absolute contraindication given the risks of immunosuppression.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي uncontrolled sepsis. الخيار B، chronic active hepatitis: الإجابة الصحيحة هي uncontrolled sepsis. الخيار C، hepatic malignancy: الإجابة الصحيحة هي uncontrolled sepsis. الخيار D، portal vein thrombosis: الإجابة الصحيحة هي uncontrolled sepsis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Liver transplant: blocked by Uncontrolled Seps"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: uncontrolled sepsis. الإنتان غير المسيطر عليه مانع مطلق حقيقي لزراعة الكبد."
+      "narration": "الخيار E، uncontrolled sepsis هو الإجابة الصحيحة. الإنتان غير المسيطر عليه مانع مطلق حقيقي لزراعة الكبد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإنتان غير المسيطر عليه مانع مطلق حقيقي لزراعة الكبد. وتذكّر القاعدة: Liver transplant: blocked by Uncontrolled Sepsis. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الإنتان غير المسيطر عليه مانع مطلق حقيقي لزراعة الكبد. وتذكّر: Liver transplant: blocked by Uncontrolled Sepsis. والإجابة الصحيحة هي E."
     }
   ]
 }

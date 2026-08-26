@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Half-life is 4 hours"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع العبارات التالية عن الوارفارين صحيحة باستثناء: أمامك هذه الخيارات: Half-life is 4 hours، أو Warfarin crosses the placenta, causing teratogenicity and fetal bleeding، أو INR is used to monitor warfarin، أو Vitamin K is a warfarin antidote، أو fresh frozen plasma is a warfarin antidote. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع العبارات التالية عن الوارفارين صحيحة باستثناء: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Warfarin crosses the placenta, causing teratogenicity and fetal bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Crossing the placenta causing teratogenicity, INR monitoring, vitamin K as an antidote, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Half-life is 4 hours. الخيار C، INR is used to monitor warfarin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Crossing the placenta causing teratogenicity, INR monitoring, vitamin K as an antidote, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Half-life is 4 hours. الخيار D، Vitamin K is a warfarin antidote: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Crossing the placenta causing teratogenicity, INR monitoring, vitamin K as an antidote, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Half-life is 4 hours. الخيار E، fresh frozen plasma is a warfarin antidote: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Crossing the placenta causing teratogenicity, INR monitoring, vitamin K as an antidote, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Half-life is 4 hours.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Warfarin half-life ≈ 36-42 hours, not 4\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Half-life is 4 hours. نصف عمر الوارفارين يقارب 36-42 ساعة، وليس 4 ساعات — لهذا تحتاج آثاره أيامًا لتظهر وأيامًا لتزول."
+      "narration": "الخيار A، Half-life is 4 hours هو الإجابة الصحيحة. نصف عمر الوارفارين يقارب 36-42 ساعة، وليس 4 ساعات — لهذا تحتاج آثاره أيامًا لتظهر وأيامًا لتزول."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نصف عمر الوارفارين يقارب 36-42 ساعة، وليس 4 ساعات — لهذا تحتاج آثاره أيامًا لتظهر وأيامًا لتزول. وتذكّر القاعدة: \"Warfarin half-life ≈ 36-42 hours, not 4\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. نصف عمر الوارفارين يقارب 36-42 ساعة، وليس 4 ساعات — لهذا تحتاج آثاره أيامًا لتظهر وأيامًا لتزول. وتذكّر: \"Warfarin half-life ≈ 36-42 hours, not 4\". والإجابة الصحيحة هي A."
     }
   ]
 }

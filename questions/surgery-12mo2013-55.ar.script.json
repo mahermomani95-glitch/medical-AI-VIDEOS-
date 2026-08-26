@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "If there is no intra abdominal free fluid on CT…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يلي مؤشرات لإجراء عملية فتح البطن في حالة الصدمات البطنيةباستثناء:؟ أمامك هذه الخيارات: Peritonitis، أو Persistent shock، أو If there is no intra abdominal free fluid on CT scan and ultrasound، أو Uncontrolled hemorrhage، أو Gunshot wounds. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يلي مؤشرات لإجراء عملية فتح البطن في حالة الصدمات البطنيةباستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peritonitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound. الخيار B، Persistent shock: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound. الخيار D، Uncontrolled hemorrhage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound. الخيار E، Gunshot wounds: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peritonitis, persistent shock, uncontrolled hemorrhage, and gunshot wounds are all indications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If there is no intra abdominal free fluid on CT scan and ultrasound.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peritonitis: صحيحة، لكنها ليست الاستثناء. الخيار B، Persistent shock: صحيحة، لكنها ليست الاستثناء. الخيار D، Uncontrolled hemorrhage: صحيحة، لكنها ليست الاستثناء. الخيار E، Gunshot wounds: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "No free fluid: Not an indication for laparotom"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: If there is no intra abdominal free fluid on CT scan and ultrasound. غياب السائل الحر بالتصوير يدعم الترقب لا الجراحة الفورية."
+      "narration": "الخيار C هو الإجابة الصحيحة. غياب السائل الحر بالتصوير يدعم الترقب لا الجراحة الفورية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. غياب السائل الحر بالتصوير يدعم الترقب لا الجراحة الفورية. وتذكّر القاعدة: No free fluid: Not an indication for laparotomy. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. غياب السائل الحر بالتصوير يدعم الترقب لا الجراحة الفورية. وتذكّر: No free fluid: Not an indication for laparotomy. والإجابة الصحيحة هي C."
     }
   ]
 }

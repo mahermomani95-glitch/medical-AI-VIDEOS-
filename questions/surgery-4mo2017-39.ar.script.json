@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Elevated CEA is associated with chondrosarcoma"
       },
-      "narration": "لنبدأ بهذا السؤال. إحدى العبارات التالية غير صحيحة؟ أمامك هذه الخيارات: Elevated CA125 is associated with ovarian carcinoma، أو Elevated CEA is associated with chondrosarcoma، أو Elevated CA 15_3 is associated with certain breast cancer، أو Elevated B_HCG is associated with certain testicular cancer، أو Elevated CA 19_9 is associated with pancreatic cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. إحدى العبارات التالية غير صحيحة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Elevated CA125 is associated with ovarian carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma. الخيار C، Elevated CA 15_3 is associated with certain breast cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma. الخيار D، Elevated B_HCG is associated with certain testicular cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma. الخيار E، Elevated CA 19_9 is associated with pancreatic cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Elevated CA-125 with ovarian cancer, CA 15-3 with breast cancer, beta-hCG with testicular… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevated CEA is associated with chondrosarcoma.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "CEA: Concerns GI cancers, not chondrosarcoma"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Elevated CEA is associated with chondrosarcoma. CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف."
+      "narration": "الخيار B هو الإجابة الصحيحة. CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف. وتذكّر القاعدة: CEA: Concerns GI cancers, not chondrosarcoma. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. CEA علامة هضمية نوعية، لا علاقة له بساركوما الغضروف. وتذكّر: CEA: Concerns GI cancers, not chondrosarcoma. والإجابة الصحيحة هي B."
     }
   ]
 }

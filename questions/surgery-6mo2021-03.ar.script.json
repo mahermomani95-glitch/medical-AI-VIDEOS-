@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Diverticular disease"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Familial polyposis، أو Amebiasis، أو Colon cancer، أو Ulcerative colitis، أو Diverticular disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Familial polyposis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا undergo full colonoscopy during a severe acute flare due to perforation risk. يصبح صحيحًا في سؤال يصف Familial polyposis, amebiasis, and colon cancer can cause various colonic pathology, but ulcerative colitis specifically should. الخيار B، Amebiasis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا undergo full colonoscopy during a severe acute flare due to perforation risk. يصبح صحيحًا في سؤال يصف Familial polyposis, amebiasis, and colon cancer can cause various colonic pathology, but ulcerative colitis specifically should. الخيار C، Colon cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا undergo full colonoscopy during a severe acute flare due to perforation risk. يصبح صحيحًا في سؤال يصف Familial polyposis, amebiasis, and colon cancer can cause various colonic pathology, but ulcerative colitis specifically should. الخيار D، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا undergo full colonoscopy during a severe acute flare due to perforation risk. يصبح صحيحًا في سؤال يصف Familial polyposis, amebiasis, and colon cancer can cause various colonic pathology, but ulcerative colitis specifically should.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Familial polyposis: لا ينطبق على هذه الحالة. الخيار B، Amebiasis: لا ينطبق على هذه الحالة. الخيار C، Colon cancer: لا ينطبق على هذه الحالة. الخيار D، Ulcerative colitis: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Diverticular disease = #1 massive colonic ble"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Diverticular disease. داء الرتوج هو السبب الكلاسيكي للنزيف الهضمي السفلي المفاجئ الغزير غير المؤلم."
+      "narration": "الخيار E، Diverticular disease هو الإجابة الصحيحة. داء الرتوج هو السبب الكلاسيكي للنزيف الهضمي السفلي المفاجئ الغزير غير المؤلم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. داء الرتوج هو السبب الكلاسيكي للنزيف الهضمي السفلي المفاجئ الغزير غير المؤلم. وتذكّر القاعدة: \"Diverticular disease = #1 massive colonic bleed\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. داء الرتوج هو السبب الكلاسيكي للنزيف الهضمي السفلي المفاجئ الغزير غير المؤلم. وتذكّر: \"Diverticular disease = #1 massive colonic bleed\". والإجابة الصحيحة هي E."
     }
   ]
 }

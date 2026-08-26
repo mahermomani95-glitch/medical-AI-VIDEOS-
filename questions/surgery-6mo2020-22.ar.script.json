@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Mostly associated with benign anal condition"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Mostly associated with benign anal condition، أو Lymphatic spread to the inguinal area، أو Patients may present with rectal bleeding، أو The most common type is squamous cell carcinoma، أو May cause fecal incontinence. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Lymphatic spread to the inguinal area: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lymphatic spread to inguinal nodes, rectal bleeding presentation, squamous cell carcinoma as… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mostly associated with benign anal condition. الخيار C، Patients may present with rectal bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lymphatic spread to inguinal nodes, rectal bleeding presentation, squamous cell carcinoma as… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mostly associated with benign anal condition. الخيار D، The most common type is squamous cell carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lymphatic spread to inguinal nodes, rectal bleeding presentation, squamous cell carcinoma as… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mostly associated with benign anal condition. الخيار E، May cause fecal incontinence: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Lymphatic spread to inguinal nodes, rectal bleeding presentation, squamous cell carcinoma as… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mostly associated with benign anal condition.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، May cause fecal incontinence: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Anal cancer = HPV-related, not from benign an"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Mostly associated with benign anal condition. سرطان الشرج مرتبط غالبًا بعدوى HPV ، وليس بحالات شرجية حميدة كالبواسير أو الشقوق — هذا فرق مهم ومختبر بكثرة."
+      "narration": "الخيار A هو الإجابة الصحيحة. سرطان الشرج مرتبط غالبًا بعدوى HPV ، وليس بحالات شرجية حميدة كالبواسير أو الشقوق — هذا فرق مهم ومختبر بكثرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان الشرج مرتبط غالبًا بعدوى HPV ، وليس بحالات شرجية حميدة كالبواسير أو الشقوق — هذا فرق مهم ومختبر بكثرة. وتذكّر القاعدة: \"Anal cancer = HPV-related, not from benign anal disease\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. سرطان الشرج مرتبط غالبًا بعدوى HPV ، وليس بحالات شرجية حميدة كالبواسير أو الشقوق — هذا فرق مهم ومختبر بكثرة. وتذكّر: \"Anal cancer = HPV-related, not from benign anal disease\". والإجابة الصحيحة هي A."
     }
   ]
 }

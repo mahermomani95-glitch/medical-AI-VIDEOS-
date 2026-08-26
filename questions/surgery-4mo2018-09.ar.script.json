@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Serotonin"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض مصاب بورم سرطاني في الأمعاء الدقيقة، يعاني من احمرار وإسهال. غالبًا ما تكون هذه الأعراض ناتجة عن: أمامك هذه الخيارات: Epinephrine، أو Serotonin، أو Bradykinin، أو ACTH، أو Gastrin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض مصاب بورم سرطاني في الأمعاء الدقيقة، يعاني من احمرار وإسهال. غالبًا ما تكون هذه الأعراض ناتجة عن: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Epinephrine: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the mediator responsible for carcinoid syndrome's flushing and diarrhea — serotonin is the key culprit, though bradykinin can contribute to flushing in some cases. يصبح صحيحًا في سؤال يصف Epinephrine, bradykinin, ACTH, and gastrin. الخيار C، Bradykinin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the mediator responsible for carcinoid syndrome's flushing and diarrhea — serotonin is the key culprit, though bradykinin can contribute to flushing in some cases. يصبح صحيحًا في سؤال يصف Epinephrine, bradykinin, ACTH, and gastrin. الخيار D، ACTH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the mediator responsible for carcinoid syndrome's flushing and diarrhea — serotonin is the key culprit, though bradykinin can contribute to flushing in some cases. يصبح صحيحًا في سؤال يصف Epinephrine, bradykinin, ACTH, and gastrin. الخيار E، Gastrin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the mediator responsible for carcinoid syndrome's flushing and diarrhea — serotonin is the key culprit, though bradykinin can contribute to flushing in some cases. يصبح صحيحًا في سؤال يصف Epinephrine, bradykinin, ACTH, and gastrin.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Epinephrine: لا ينطبق على هذه الحالة. الخيار C، Bradykinin: لا ينطبق على هذه الحالة. الخيار D، ACTH: لا ينطبق على هذه الحالة. الخيار E، Gastrin: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Serotonin = flushing & sinking bowels\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Serotonin. عندما ينتشر الورم السرطاوي إلى الكبد، يتجاوز السيروتونين استقلاب المرور الأول بالكبد ويصل للدورة الدموية العامة مسببًا الهبّات والإسهال."
+      "narration": "الخيار B، Serotonin هو الإجابة الصحيحة. عندما ينتشر الورم السرطاوي إلى الكبد، يتجاوز السيروتونين استقلاب المرور الأول بالكبد ويصل للدورة الدموية العامة مسببًا الهبّات والإسهال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عندما ينتشر الورم السرطاوي إلى الكبد، يتجاوز السيروتونين استقلاب المرور الأول بالكبد ويصل للدورة الدموية العامة مسببًا الهبّات والإسهال. وتذكّر القاعدة: \"Serotonin = flushing & sinking bowels\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. عندما ينتشر الورم السرطاوي إلى الكبد، يتجاوز السيروتونين استقلاب المرور الأول بالكبد ويصل للدورة الدموية العامة مسببًا الهبّات والإسهال. وتذكّر: \"Serotonin = flushing & sinking bowels\". والإجابة الصحيحة هي B."
     }
   ]
 }

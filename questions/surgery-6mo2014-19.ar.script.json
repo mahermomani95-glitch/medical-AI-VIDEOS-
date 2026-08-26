@@ -41,7 +41,7 @@
         "region": "head",
         "label": "Pubic tubercle"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يشكل المثلث الإربي (هسلباخ)؟ أمامك هذه الخيارات: Rectus abdominis medially، أو Inguinal ligament، أو Pubic tubercle، أو Inferior epigastric vessels. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يشكل المثلث الإربي (هسلباخ)؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Rectus abdominis medially: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The rectus abdominis medially, the inguinal ligament, and inferior epigastric vessels are the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pubic tubercle. الخيار B، Inguinal ligament: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The rectus abdominis medially, the inguinal ligament, and inferior epigastric vessels are the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pubic tubercle. الخيار D، Inferior epigastric vessels: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The rectus abdominis medially, the inguinal ligament, and inferior epigastric vessels are the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pubic tubercle.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Rectus abdominis medially: صحيحة، لكنها ليست الاستثناء. الخيار B، Inguinal ligament: صحيحة، لكنها ليست الاستثناء. الخيار D، Inferior epigastric vessels: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Hesselbach triangle: doesn't include the Pubic"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Pubic tubercle. الحدبة العانية ليست أحد الحدود الثلاثة الحقيقية لمثلث هيسلباخ."
+      "narration": "الخيار C، Pubic tubercle هو الإجابة الصحيحة. الحدبة العانية ليست أحد الحدود الثلاثة الحقيقية لمثلث هيسلباخ."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحدبة العانية ليست أحد الحدود الثلاثة الحقيقية لمثلث هيسلباخ. وتذكّر القاعدة: Hesselbach triangle: doesn't include the Pubic tubercle. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الحدبة العانية ليست أحد الحدود الثلاثة الحقيقية لمثلث هيسلباخ. وتذكّر: Hesselbach triangle: doesn't include the Pubic tubercle. والإجابة الصحيحة هي C."
     }
   ]
 }

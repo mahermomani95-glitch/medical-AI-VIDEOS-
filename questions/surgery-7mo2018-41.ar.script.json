@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Familial adenomatous polyposis"
       },
-      "narration": "لنبدأ بهذا السؤال. يرتبط سرطان الأمعاء الدقيقة الغدي في أغلب الأحيان بـ أمامك هذه الخيارات: Familial adenomatous polyposis، أو Tuberculosis of the small bowel، أو Lymphoma، أو Prolonged use of cytotoxic chemotherapy for breast cancer، أو Ulcerative colitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يرتبط سرطان الأمعاء الدقيقة الغدي في أغلب الأحيان بـ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Tuberculosis of the small bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Familial adenomatous polyposis. يصبح صحيحًا في سؤال يصف TB of the small bowel, lymphoma, prolonged cytotoxic chemotherapy, and ulcerative colitis can all cause small bowel perforation in certain contexts, but none is as consistently identifiable as a lack of any cause at all (spontaneous perforation being the rarest). الخيار C، Lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Familial adenomatous polyposis. يصبح صحيحًا في سؤال يصف TB of the small bowel, lymphoma, prolonged cytotoxic chemotherapy, and ulcerative colitis can all cause small bowel perforation in certain contexts, but none is as consistently identifiable as a lack of any cause at all (spontaneous perforation being the rarest). الخيار D، Prolonged use of cytotoxic chemotherapy for breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Familial adenomatous polyposis. يصبح صحيحًا في سؤال يصف TB of the small bowel, lymphoma, prolonged cytotoxic chemotherapy, and ulcerative colitis can all cause small bowel perforation in certain contexts, but none is as consistently identifiable as a lack of any cause at all (spontaneous perforation being the rarest). الخيار E، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Familial adenomatous polyposis. يصبح صحيحًا في سؤال يصف TB of the small bowel, lymphoma, prolonged cytotoxic chemotherapy, and ulcerative colitis can all cause small bowel perforation in certain contexts, but none is as consistently identifiable as a lack of any cause at all (spontaneous perforation being the rarest).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي Familial adenomatous polyposis. الخيار C، Lymphoma: الإجابة الصحيحة هي Familial adenomatous polyposis. الخيار D: الإجابة الصحيحة هي Familial adenomatous polyposis. الخيار E، Ulcerative colitis: الإجابة الصحيحة هي Familial adenomatous polyposis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"FAP polyps everywhere, not just colon\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Familial adenomatous polyposis. داء السلائل الغدومي العائلي (FAP) يصيب الأمعاء الدقيقة بسلائل أيضًا وليس القولون فقط — طريق مباشر لسرطانها الغدي، خصوصًا قرب الحليمة الاثني عشرية."
+      "narration": "الخيار A، Familial adenomatous polyposis هو الإجابة الصحيحة. داء السلائل الغدومي العائلي (FAP) يصيب الأمعاء الدقيقة بسلائل أيضًا وليس القولون فقط — طريق مباشر لسرطانها الغدي، خصوصًا قرب الحليمة الاثني عشرية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. داء السلائل الغدومي العائلي (FAP) يصيب الأمعاء الدقيقة بسلائل أيضًا وليس القولون فقط — طريق مباشر لسرطانها الغدي، خصوصًا قرب الحليمة الاثني عشرية. وتذكّر القاعدة: \"FAP polyps everywhere, not just colon\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. داء السلائل الغدومي العائلي (FAP) يصيب الأمعاء الدقيقة بسلائل أيضًا وليس القولون فقط — طريق مباشر لسرطانها الغدي، خصوصًا قرب الحليمة الاثني عشرية. وتذكّر: \"FAP polyps everywhere, not just colon\". والإجابة الصحيحة هي A."
     }
   ]
 }

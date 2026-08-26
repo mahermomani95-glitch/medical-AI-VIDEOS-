@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "The left posterior lower esophagus"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لمتلازمة بورهاف هو أمامك هذه الخيارات: The left posterior lower esophagus، أو The left posterior middle esophagus، أو The left posterior upper esophagus، أو The right posterior middle esophagus، أو The right posterior upper esophagus. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لمتلازمة بورهاف هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، The left posterior middle esophagus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The left posterior lower esophagus. يصبح صحيحًا في سؤال يصف The other options describing different combinations of left/right and upper/middle esophagus don't match the classic distal, left, posterior location where Boerhaave tears most often occur. الخيار C، The left posterior upper esophagus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The left posterior lower esophagus. يصبح صحيحًا في سؤال يصف The other options describing different combinations of left/right and upper/middle esophagus don't match the classic distal, left, posterior location where Boerhaave tears most often occur. الخيار D، The right posterior middle esophagus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The left posterior lower esophagus. يصبح صحيحًا في سؤال يصف The other options describing different combinations of left/right and upper/middle esophagus don't match the classic distal, left, posterior location where Boerhaave tears most often occur. الخيار E، The right posterior upper esophagus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The left posterior lower esophagus. يصبح صحيحًا في سؤال يصف The other options describing different combinations of left/right and upper/middle esophagus don't match the classic distal, left, posterior location where Boerhaave tears most often occur.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي The left posterior lower esophagus. الخيار C: الإجابة الصحيحة هي The left posterior lower esophagus. الخيار D: الإجابة الصحيحة هي The left posterior lower esophagus. الخيار E: الإجابة الصحيحة هي The left posterior lower esophagus. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Boerhaave blows Left, Low, and Posterior\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: The left posterior lower esophagus. الجدار الخلفي الأيسر للجزء السفلي من المريء هو أضعف نقطة تشريحيًا، لذلك ينفجر عنده المريء أثناء القيء العنيف الشديد."
+      "narration": "الخيار A هو الإجابة الصحيحة. الجدار الخلفي الأيسر للجزء السفلي من المريء هو أضعف نقطة تشريحيًا، لذلك ينفجر عنده المريء أثناء القيء العنيف الشديد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الجدار الخلفي الأيسر للجزء السفلي من المريء هو أضعف نقطة تشريحيًا، لذلك ينفجر عنده المريء أثناء القيء العنيف الشديد. وتذكّر القاعدة: \"Boerhaave blows Left, Low, and Posterior\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الجدار الخلفي الأيسر للجزء السفلي من المريء هو أضعف نقطة تشريحيًا، لذلك ينفجر عنده المريء أثناء القيء العنيف الشديد. وتذكّر: \"Boerhaave blows Left, Low, and Posterior\". والإجابة الصحيحة هي A."
     }
   ]
 }

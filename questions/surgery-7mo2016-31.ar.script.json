@@ -45,7 +45,7 @@
         "label": "24 hour urinary 5-HIAA",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم تشخيص متلازمة الكارسينويد بشكل أفضل من خلال؟ أمامك هذه الخيارات: Serum Serotonin level، أو Serum substance P levels، أو 24 hour urinary 5-HIAA، أو Serum Neurotensin levels، أو Serum Neurokinin A levels. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم تشخيص متلازمة الكارسينويد بشكل أفضل من خلال؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Serum Serotonin level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 24 hour urinary 5-HIAA. يصبح صحيحًا في سؤال يصف Serum serotonin, substance P, neurotensin, and neurokinin A levels are less standardized/reliable, unlike 24-hour urinary 5-HIAA (the serotonin breakdown product), which remains the best-established diagnostic test for carcinoid syndrome. الخيار B، Serum substance P levels: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 24 hour urinary 5-HIAA. يصبح صحيحًا في سؤال يصف Serum serotonin, substance P, neurotensin, and neurokinin A levels are less standardized/reliable, unlike 24-hour urinary 5-HIAA (the serotonin breakdown product), which remains the best-established diagnostic test for carcinoid syndrome. الخيار D، Serum Neurotensin levels: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 24 hour urinary 5-HIAA. يصبح صحيحًا في سؤال يصف Serum serotonin, substance P, neurotensin, and neurokinin A levels are less standardized/reliable, unlike 24-hour urinary 5-HIAA (the serotonin breakdown product), which remains the best-established diagnostic test for carcinoid syndrome. الخيار E، Serum Neurokinin A levels: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 24 hour urinary 5-HIAA. يصبح صحيحًا في سؤال يصف Serum serotonin, substance P, neurotensin, and neurokinin A levels are less standardized/reliable, unlike 24-hour urinary 5-HIAA (the serotonin breakdown product), which remains the best-established diagnostic test for carcinoid syndrome.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Serum Serotonin level: الإجابة الصحيحة هي 24 hour urinary 5-HIAA. الخيار B، Serum substance P levels: الإجابة الصحيحة هي 24 hour urinary 5-HIAA. الخيار D، Serum Neurotensin levels: الإجابة الصحيحة هي 24 hour urinary 5-HIAA. الخيار E، Serum Neurokinin A levels: الإجابة الصحيحة هي 24 hour urinary 5-HIAA. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Carcinoid syndrome: diagnosed via 24-hour 5-HI"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: 24 hour urinary 5-HIAA. قياس 5-HIAA ببول 24 ساعة هو الفحص الأفضل لتشخيص متلازمة الكارسينويد."
+      "narration": "الخيار C، 24 hour urinary 5-HIAA هو الإجابة الصحيحة. قياس 5-HIAA ببول 24 ساعة هو الفحص الأفضل لتشخيص متلازمة الكارسينويد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قياس 5-HIAA ببول 24 ساعة هو الفحص الأفضل لتشخيص متلازمة الكارسينويد. وتذكّر القاعدة: Carcinoid syndrome: diagnosed via 24-hour 5-HIAA. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. قياس 5-HIAA ببول 24 ساعة هو الفحص الأفضل لتشخيص متلازمة الكارسينويد. وتذكّر: Carcinoid syndrome: diagnosed via 24-hour 5-HIAA. والإجابة الصحيحة هي C."
     }
   ]
 }

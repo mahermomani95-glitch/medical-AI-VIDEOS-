@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Blood"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Ringer lactate، أو Blood، أو Dextrose (DW 5%)، أو Sodium chloride، أو Normal saline. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ringer lactate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood. يصبح صحيحًا في سؤال يصف Ringer's lactate, D5W, sodium chloride alone description, and normal saline are all IV fluid options, but for actual blood loss replacement in massive hemorrhage, blood itself is needed to restore oxygen-carrying capacity and clotting factors. الخيار C، Dextrose (DW 5%): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood. يصبح صحيحًا في سؤال يصف Ringer's lactate, D5W, sodium chloride alone description, and normal saline are all IV fluid options, but for actual blood loss replacement in massive hemorrhage, blood itself is needed to restore oxygen-carrying capacity and clotting factors. الخيار D، Sodium chloride: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood. يصبح صحيحًا في سؤال يصف Ringer's lactate, D5W, sodium chloride alone description, and normal saline are all IV fluid options, but for actual blood loss replacement in massive hemorrhage, blood itself is needed to restore oxygen-carrying capacity and clotting factors. الخيار E، Normal saline: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood. يصبح صحيحًا في سؤال يصف Ringer's lactate, D5W, sodium chloride alone description, and normal saline are all IV fluid options, but for actual blood loss replacement in massive hemorrhage, blood itself is needed to restore oxygen-carrying capacity and clotting factors.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Ringer lactate: الإجابة الصحيحة هي Blood. الخيار C، Dextrose (DW 5%): الإجابة الصحيحة هي Blood. الخيار D، Sodium chloride: الإجابة الصحيحة هي Blood. الخيار E، Normal saline: الإجابة الصحيحة هي Blood. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Massive hemorrhage = Blood, not just crystall"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Blood. تمزق طحالي درجة 4 يعني نزفًا نشطًا كبيرًا — الدم، وليس المحاليل البلورية، هو ما يستعيد فعليًا القدرة على حمل الأكسجين ويصحح اعتلال التخثر."
+      "narration": "الخيار B، Blood هو الإجابة الصحيحة. تمزق طحالي درجة 4 يعني نزفًا نشطًا كبيرًا — الدم، وليس المحاليل البلورية، هو ما يستعيد فعليًا القدرة على حمل الأكسجين ويصحح اعتلال التخثر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تمزق طحالي درجة 4 يعني نزفًا نشطًا كبيرًا — الدم، وليس المحاليل البلورية، هو ما يستعيد فعليًا القدرة على حمل الأكسجين ويصحح اعتلال التخثر. وتذكّر القاعدة: \"Massive hemorrhage = Blood, not just crystalloid\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. تمزق طحالي درجة 4 يعني نزفًا نشطًا كبيرًا — الدم، وليس المحاليل البلورية، هو ما يستعيد فعليًا القدرة على حمل الأكسجين ويصحح اعتلال التخثر. وتذكّر: \"Massive hemorrhage = Blood, not just crystalloid\". والإجابة الصحيحة هي B."
     }
   ]
 }

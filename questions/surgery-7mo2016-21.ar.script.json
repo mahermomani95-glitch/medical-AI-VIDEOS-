@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Typical small bowel lesion adenomatous polyps"
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بمتلازمة بوتز-جيغرز باستثناء؟ أمامك هذه الخيارات: Typical small bowel lesion adenomatous polyps، أو It's autosomal dominant، أو Small bowel obstruction is the most common presentation، أو There is an increased risk of small bowel cancer، أو There is an increased risk of breast cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بمتلازمة بوتز-جيغرز باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، It's autosomal dominant: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps. الخيار C، Small bowel obstruction is the most common presentation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps. الخيار D، There is an increased risk of small bowel cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps. الخيار E، There is an increased risk of breast cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being autosomal dominant, causing small bowel obstruction as the most common presentation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Typical small bowel lesion adenomatous polyps.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، It's autosomal dominant: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Peutz-Jeghers polyps: Hamartomatous, not adeno"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Typical small bowel lesion adenomatous polyps. بوليبات بوتز جيغرز حرمية النسيج، لا غدية كما بالعبارة الخاطئة."
+      "narration": "الخيار A هو الإجابة الصحيحة. بوليبات بوتز جيغرز حرمية النسيج، لا غدية كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بوليبات بوتز جيغرز حرمية النسيج، لا غدية كما بالعبارة الخاطئة. وتذكّر القاعدة: Peutz-Jeghers polyps: Hamartomatous, not adenomatous. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. بوليبات بوتز جيغرز حرمية النسيج، لا غدية كما بالعبارة الخاطئة. وتذكّر: Peutz-Jeghers polyps: Hamartomatous, not adenomatous. والإجابة الصحيحة هي A."
     }
   ]
 }

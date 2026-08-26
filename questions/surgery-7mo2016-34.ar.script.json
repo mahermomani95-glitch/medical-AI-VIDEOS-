@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Hypercalcemia"
       },
-      "narration": "لنبدأ بهذا السؤال. تم اكتشاف أول خلل كيميائي حيوي في غالبية المرضى المصابين بـ الأورامالصماوية المتعددة من النوع الأول؟ أمامك هذه الخيارات: Hypoglycemia، أو Hyperchloremia، أو Hypocalcemia، أو Hypercalcemia، أو Polycythemia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تم اكتشاف أول خلل كيميائي حيوي في غالبية المرضى المصابين بـ الأورامالصماوية المتعددة من النوع الأول؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypoglycemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Hypoglycemia, hyperchloremia, and polycythemia don't match the typical pattern. الخيار B، Hyperchloremia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Hypoglycemia, hyperchloremia, and polycythemia don't match the typical pattern. الخيار C، Hypocalcemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف hypocalcemia is the opposite of the true finding — hypercalcemia (from hyperparathyroidism) is the first and most common biochemical abnormality in MEN1 patients. الخيار E، Polycythemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypercalcemia. يصبح صحيحًا في سؤال يصف Hypoglycemia, hyperchloremia, and polycythemia don't match the typical pattern.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hypoglycemia: الإجابة الصحيحة هي Hypercalcemia. الخيار B، Hyperchloremia: الإجابة الصحيحة هي Hypercalcemia. الخيار C، Hypocalcemia: الإجابة الصحيحة هي Hypercalcemia. الخيار E، Polycythemia: الإجابة الصحيحة هي Hypercalcemia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "MEN1: Hypercalcemia comes first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Hypercalcemia. فرط كالسيوم الدم هو أول شذوذ كيميائي يظهر بمعظم مرضى MEN1."
+      "narration": "الخيار D، Hypercalcemia هو الإجابة الصحيحة. فرط كالسيوم الدم هو أول شذوذ كيميائي يظهر بمعظم مرضى MEN1."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرط كالسيوم الدم هو أول شذوذ كيميائي يظهر بمعظم مرضى MEN1. وتذكّر القاعدة: MEN1: Hypercalcemia comes first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. فرط كالسيوم الدم هو أول شذوذ كيميائي يظهر بمعظم مرضى MEN1. وتذكّر: MEN1: Hypercalcemia comes first. والإجابة الصحيحة هي D."
     }
   ]
 }

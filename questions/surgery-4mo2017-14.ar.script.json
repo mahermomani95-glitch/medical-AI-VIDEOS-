@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Fat necrosis of breast"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي من أسباب إفرازات الحلمة الملطخة بالدم باستثناء؟ أمامك هذه الخيارات: Intraductal papilloma، أو Carcinoma، أو Ductectasia، أو Fibrocystic disease، أو Fat necrosis of breast. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي من أسباب إفرازات الحلمة الملطخة بالدم باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intraductal papilloma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraductal papilloma, carcinoma, duct ectasia, and fibrocystic disease can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fat necrosis of breast. الخيار B، Carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraductal papilloma, carcinoma, duct ectasia, and fibrocystic disease can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fat necrosis of breast. الخيار C، Ductectasia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraductal papilloma, carcinoma, duct ectasia, and fibrocystic disease can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fat necrosis of breast. الخيار D، Fibrocystic disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraductal papilloma, carcinoma, duct ectasia, and fibrocystic disease can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fat necrosis of breast.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intraductal papilloma: صحيحة، لكنها ليست الاستثناء. الخيار B، Carcinoma: صحيحة، لكنها ليست الاستثناء. الخيار C، Ductectasia: صحيحة، لكنها ليست الاستثناء. الخيار D، Fibrocystic disease: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Fat necrosis: Fails to cause bloody discharge"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Fat necrosis of breast. نخر الدهن الثديي لا يسبب عادة إفرازًا دمويًا من الحلمة."
+      "narration": "الخيار E، Fat necrosis of breast هو الإجابة الصحيحة. نخر الدهن الثديي لا يسبب عادة إفرازًا دمويًا من الحلمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نخر الدهن الثديي لا يسبب عادة إفرازًا دمويًا من الحلمة. وتذكّر القاعدة: Fat necrosis: Fails to cause bloody discharge. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. نخر الدهن الثديي لا يسبب عادة إفرازًا دمويًا من الحلمة. وتذكّر: Fat necrosis: Fails to cause bloody discharge. والإجابة الصحيحة هي E."
     }
   ]
 }

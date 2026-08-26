@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Intubation"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Give analgesic، أو Intubation، أو Give I.V fluid، أو Broad-spectrum antibiotics، أو High-dose corticosteroids. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Give analgesic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف Analgesics manage symptoms but aren't the priority. الخيار C، Give I.V fluid: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف IV fluids are important but secondary to airway in this specific facial-burn-with-hoarseness scenario. الخيار D، Broad-spectrum antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف broad-spectrum antibiotics and high-dose corticosteroids don't address the immediate airway threat from developing edema — intubation takes priority. الخيار E، High-dose corticosteroids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intubation. يصبح صحيحًا في سؤال يصف broad-spectrum antibiotics and high-dose corticosteroids don't address the immediate airway threat from developing edema — intubation takes priority.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Give analgesic: الإجابة الصحيحة هي Intubation. الخيار C، Give I.V fluid: الإجابة الصحيحة هي Intubation. الخيار D، Broad-spectrum antibiotics: الإجابة الصحيحة هي Intubation. الخيار E، High-dose corticosteroids: الإجابة الصحيحة هي Intubation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Sooty sputum + oral burns = Inhalation injury"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Intubation. بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا."
+      "narration": "الخيار B، Intubation هو الإجابة الصحيحة. بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا. وتذكّر القاعدة: \"Sooty sputum + oral burns = Inhalation injury = Intubate NOW\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. بلغم أسود مع التهاب المخاطية الفموية بعد حرق يشير لإصابة استنشاقية — أمّن مجرى الهواء بالتنبيب قبل أن يجعل التورم ذلك مستحيلًا. والإجابة الصحيحة هي B."
     }
   ]
 }

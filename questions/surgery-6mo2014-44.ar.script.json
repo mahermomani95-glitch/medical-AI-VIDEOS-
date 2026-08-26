@@ -45,7 +45,7 @@
         "label": "Staphylococcus aureus",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أصعب طريقة للانتقال يمكن الوقاية منها هي؟ أمامك هذه الخيارات: Streptoccuspyogen، أو E.coli، أو Bacteroidfragilis، أو Staphylococcus aureus، أو Staphylococcus epidemis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أصعب طريقة للانتقال يمكن الوقاية منها هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Streptoccuspyogen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, Bacteroides fragilis, and Staphylococcus epidermidis can all cause wound infections in certain contexts, but Staphylococcus aureus remains the most common overall cause of surgical wound infections. الخيار B، E.coli: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, Bacteroides fragilis, and Staphylococcus epidermidis can all cause wound infections in certain contexts, but Staphylococcus aureus remains the most common overall cause of surgical wound infections. الخيار C، Bacteroidfragilis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, Bacteroides fragilis, and Staphylococcus epidermidis can all cause wound infections in certain contexts, but Staphylococcus aureus remains the most common overall cause of surgical wound infections. الخيار E، Staphylococcus epidemis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, Bacteroides fragilis, and Staphylococcus epidermidis can all cause wound infections in certain contexts, but Staphylococcus aureus remains the most common overall cause of surgical wound infections.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Streptoccuspyogen: الإجابة الصحيحة هي Staphylococcus aureus. الخيار B، E.coli: الإجابة الصحيحة هي Staphylococcus aureus. الخيار C، Bacteroidfragilis: الإجابة الصحيحة هي Staphylococcus aureus. الخيار E، Staphylococcus epidemis: الإجابة الصحيحة هي Staphylococcus aureus. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Wound infection: mostly Staph aureus"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Staphylococcus aureus. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح."
+      "narration": "الخيار D، Staphylococcus aureus هو الإجابة الصحيحة. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح. وتذكّر القاعدة: Wound infection: mostly Staph aureus. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. المكورات العنقودية الذهبية هي الجرثومة الأشيع المسببة لعدوى الجروح. وتذكّر: Wound infection: mostly Staph aureus. والإجابة الصحيحة هي D."
     }
   ]
 }

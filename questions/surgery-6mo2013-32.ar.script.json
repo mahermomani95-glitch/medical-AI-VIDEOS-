@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Head of bed elevation to ~ 30°"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية ليس سببًا لزيادة الضغط داخل الجمجمة؟ أمامك هذه الخيارات: CNS inflammation، أو Intracranial hemorrhage، أو Epilepsy and seizures، أو Metabolic disturbances، أو Head of bed elevation to ~ 30°. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية ليس سببًا لزيادة الضغط داخل الجمجمة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، CNS inflammation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. CNS inflammation, intracranial hemorrhage, epilepsy/seizures, and metabolic disturbances can… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Head of bed elevation to ~ 30°. الخيار B، Intracranial hemorrhage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. CNS inflammation, intracranial hemorrhage, epilepsy/seizures, and metabolic disturbances can… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Head of bed elevation to ~ 30°. الخيار C، Epilepsy and seizures: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. CNS inflammation, intracranial hemorrhage, epilepsy/seizures, and metabolic disturbances can… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Head of bed elevation to ~ 30°. الخيار D، Metabolic disturbances: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. CNS inflammation, intracranial hemorrhage, epilepsy/seizures, and metabolic disturbances can… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Head of bed elevation to ~ 30°.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، CNS inflammation: صحيحة، لكنها ليست الاستثناء. الخيار B، Intracranial hemorrhage: صحيحة، لكنها ليست الاستثناء. الخيار C، Epilepsy and seizures: صحيحة، لكنها ليست الاستثناء. الخيار D، Metabolic disturbances: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Head elevation: Helps lower ICP, doesn't raise"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Head of bed elevation to ~ 30°. رفع رأس السرير لـ30 درجة يخفض الضغط داخل القحف، لا يرفعه."
+      "narration": "الخيار E هو الإجابة الصحيحة. رفع رأس السرير لـ30 درجة يخفض الضغط داخل القحف، لا يرفعه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. رفع رأس السرير لـ30 درجة يخفض الضغط داخل القحف، لا يرفعه. وتذكّر القاعدة: Head elevation: Helps lower ICP, doesn't raise it. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. رفع رأس السرير لـ30 درجة يخفض الضغط داخل القحف، لا يرفعه. وتذكّر: Head elevation: Helps lower ICP, doesn't raise it. والإجابة الصحيحة هي E."
     }
   ]
 }

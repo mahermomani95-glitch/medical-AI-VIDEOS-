@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Increased margin of infection"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي يميز بشكل موثوق الحمرة عن الأسباب الأخرى لعدوى الجلد؟ أمامك هذه الخيارات: Associated abscess، أو Increased margin of infection، أو Patients non-toxic appearance، أو Usually caused by group B Streptococcus، أو Usually seem on chest. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي يميز بشكل موثوق الحمرة عن الأسباب الأخرى لعدوى الجلد؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Associated abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection. يصبح صحيحًا في سؤال يصف Associated abscess and non-toxic appearance don't relate directly to the border finding described. الخيار C، Patients non-toxic appearance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection. يصبح صحيحًا في سؤال يصف Associated abscess and non-toxic appearance don't relate directly to the border finding described. الخيار D، Usually caused by group B Streptococcus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Increased margin of infection. يصبح صحيحًا في سؤال يصف erysipelas is usually caused by group A (not group B) Streptococcus. الخيار E، Usually seem on chest: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا chest specifically. يصبح صحيحًا في سؤال يصف it's more classically seen on the face and legs.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Associated abscess: الإجابة الصحيحة هي Increased margin of infection. الخيار C، Patients non-toxic appearance: الإجابة الصحيحة هي Increased margin of infection. الخيار D: الإجابة الصحيحة هي Increased margin of infection. الخيار E، Usually seem on chest: المطلوب هنا chest specifically. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Erysipelas = Elevated, sharp Edge\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Increased margin of infection. الحمرة تتميز بحافة مرتفعة وواضحة الحدود بشكل حاد — وهذا الوضوح الحدّي هو ما يميزها عن التهاب النسيج الخلوي."
+      "narration": "الخيار B، Increased margin of infection هو الإجابة الصحيحة. الحمرة تتميز بحافة مرتفعة وواضحة الحدود بشكل حاد — وهذا الوضوح الحدّي هو ما يميزها عن التهاب النسيج الخلوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحمرة تتميز بحافة مرتفعة وواضحة الحدود بشكل حاد — وهذا الوضوح الحدّي هو ما يميزها عن التهاب النسيج الخلوي. وتذكّر القاعدة: \"Erysipelas = Elevated, sharp Edge\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الحمرة تتميز بحافة مرتفعة وواضحة الحدود بشكل حاد — وهذا الوضوح الحدّي هو ما يميزها عن التهاب النسيج الخلوي. وتذكّر: \"Erysipelas = Elevated, sharp Edge\". والإجابة الصحيحة هي B."
     }
   ]
 }

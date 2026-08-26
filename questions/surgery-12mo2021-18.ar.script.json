@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Heart rate 130 per minute"
       },
-      "narration": "لنبدأ بهذا السؤال. لدى بالغ متوسط، جميع ما يلي متوافق مع نزيف من الدرجة الثانية ما عدا: أمامك هذه الخيارات: Blood loss of 1000 cc، أو Heart rate 130 per minute، أو Postural hypotension، أو Anxiety، أو Decreased central venous pressure. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. لدى بالغ متوسط، جميع ما يلي متوافق مع نزيف من الدرجة الثانية ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Blood loss of 1000 cc: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute. الخيار C، Postural hypotension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute. الخيار D، Anxiety: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute. الخيار E، Decreased central venous pressure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Blood loss of 1000cc, postural hypotension, anxiety, and decreased CVP are all compatible with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Heart rate 130 per minute.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C، Postural hypotension: صحيحة، لكنها ليست الاستثناء. الخيار D، Anxiety: صحيحة، لكنها ليست الاستثناء. الخيار E، Decreased central venous pressure: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Class II heart rate ≈ 100-120, Class III is c"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Heart rate 130 per minute. معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة."
+      "narration": "الخيار B هو الإجابة الصحيحة. معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة. وتذكّر القاعدة: \"Class II heart rate ≈ 100-120, Class III is closer to 120-140\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. معدل ضربات قلب 130/دقيقة مرتفع جدًا لدرجة الصف الثاني من النزف — هذا المعدل السريع أقرب للدرجة الثالثة، بينما الدرجة الثانية عادة 100-120/دقيقة. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Painful ulcer"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Peripheral ischemia، أو Painful ulcer، أو Bacterial gases، أو Charcot joint، أو Multimicrobial infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peripheral ischemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer. الخيار C، Bacterial gases: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer. الخيار D، Charcot joint: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer. الخيار E، Multimicrobial infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral ischemia, bacterial gas formation, Charcot joint, and multimicrobial infection are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Painful ulcer.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peripheral ischemia: صحيحة، لكنها ليست الاستثناء. الخيار C، Bacterial gases: صحيحة، لكنها ليست الاستثناء. الخيار D، Charcot joint: صحيحة، لكنها ليست الاستثناء. الخيار E، Multimicrobial infection: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Diabetic foot ulcer = classically PAINLESS (n"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Painful ulcer. قرحة القدم السكرية غير مؤلمة كلاسيكيًا بسبب الاعتلال العصبي المحيطي — الألم فعليًا يكون مطمئنًا في هذا السياق، وليس متوقعًا."
+      "narration": "الخيار B، Painful ulcer هو الإجابة الصحيحة. قرحة القدم السكرية غير مؤلمة كلاسيكيًا بسبب الاعتلال العصبي المحيطي — الألم فعليًا يكون مطمئنًا في هذا السياق، وليس متوقعًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قرحة القدم السكرية غير مؤلمة كلاسيكيًا بسبب الاعتلال العصبي المحيطي — الألم فعليًا يكون مطمئنًا في هذا السياق، وليس متوقعًا. وتذكّر القاعدة: \"Diabetic foot ulcer = classically PAINLESS (neuropathy)\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. قرحة القدم السكرية غير مؤلمة كلاسيكيًا بسبب الاعتلال العصبي المحيطي — الألم فعليًا يكون مطمئنًا في هذا السياق، وليس متوقعًا. وتذكّر: \"Diabetic foot ulcer = classically PAINLESS (neuropathy)\". والإجابة الصحيحة هي B."
     }
   ]
 }

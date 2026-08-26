@@ -45,7 +45,7 @@
         "label": "Bleeding time",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الاختبار المعملي الأكثر فائدة لتقييم خطر النزيف والاستجابة للعلاج فيالمرضى الذين يعانون من داء البولينا هو؟ أمامك هذه الخيارات: Bleeding time، أو Platelet count، أو INR، أو PTT، أو Thrombin time. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الاختبار المعملي الأكثر فائدة لتقييم خطر النزيف والاستجابة للعلاج فيالمرضى الذين يعانون من داء البولينا هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Platelet count: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا function. يصبح صحيحًا في سؤال يصف Platelet count measures quantity. الخيار C، INR: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا platelet function specifically — bleeding time is the classic (though largely historical) test that best reflects platelet function. يصبح صحيحًا في سؤال يصف INR, PTT, and thrombin time assess the coagulation cascade. الخيار D، PTT: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا platelet function specifically — bleeding time is the classic (though largely historical) test that best reflects platelet function. يصبح صحيحًا في سؤال يصف INR, PTT, and thrombin time assess the coagulation cascade. الخيار E، Thrombin time: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا platelet function specifically — bleeding time is the classic (though largely historical) test that best reflects platelet function. يصبح صحيحًا في سؤال يصف INR, PTT, and thrombin time assess the coagulation cascade.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Platelet count: المطلوب هنا function. الخيار C، INR: لا ينطبق على هذه الحالة. الخيار D، PTT: لا ينطبق على هذه الحالة. الخيار E، Thrombin time: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Platelet function assessment: Bleeding time"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Bleeding time. زمن النزف يقيّم الوظيفة الفعلية للصفيحات لا عددها فقط."
+      "narration": "الخيار A، Bleeding time هو الإجابة الصحيحة. زمن النزف يقيّم الوظيفة الفعلية للصفيحات لا عددها فقط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. زمن النزف يقيّم الوظيفة الفعلية للصفيحات لا عددها فقط. وتذكّر القاعدة: Platelet function assessment: Bleeding time. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. زمن النزف يقيّم الوظيفة الفعلية للصفيحات لا عددها فقط. وتذكّر: Platelet function assessment: Bleeding time. والإجابة الصحيحة هي A."
     }
   ]
 }

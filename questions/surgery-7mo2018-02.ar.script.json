@@ -45,7 +45,7 @@
         "label": "Crude death rate",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. معدل الوفيات من جميع أسباب الوفاة لكل 1000 من السكان يسمى أمامك هذه الخيارات: Life expectancy، أو Infant mortality rate، أو Crude death rate، أو Crude death radio، أو Total death rate. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. معدل الوفيات من جميع أسباب الوفاة لكل 1000 من السكان يسمى أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Life expectancy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a death rate. يصبح صحيحًا في سؤال يصف Life expectancy measures average years of life. الخيار B، Infant mortality rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crude death rate. يصبح صحيحًا في سؤال يستهدف Infant mortality rate تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Crude death radio: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard distinct epidemiologic terms separate from the crude death rate itself. يصبح صحيحًا في سؤال يصف crude death ratio and total death rate. الخيار E، Total death rate: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا standard distinct epidemiologic terms separate from the crude death rate itself. يصبح صحيحًا في سؤال يصف crude death ratio and total death rate.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Life expectancy: المطلوب هنا a death rate. الخيار B، Infant mortality rate: الإجابة الصحيحة هي Crude death rate. الخيار D، Crude death radio: لا ينطبق على هذه الحالة. الخيار E، Total death rate: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Crude = Counts everyone\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Crude death rate. احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام."
+      "narration": "الخيار C، Crude death rate هو الإجابة الصحيحة. احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام. وتذكّر القاعدة: \"Crude = Counts everyone\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. احسب كل الوفيات من كل الأسباب لكل 1000 نسمة، وستحصل على معدل الوفيات الخام. وتذكّر: \"Crude = Counts everyone\". والإجابة الصحيحة هي C."
     }
   ]
 }

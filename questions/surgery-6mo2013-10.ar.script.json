@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Pupil reaction to light"
       },
-      "narration": "لنبدأ بهذا السؤال. يتضمن مقياس غلاسكو للغيبوبة كل ما يلي باستثناء:؟ أمامك هذه الخيارات: Motor response، أو Eye opening، أو Verbal response، أو Pain response، أو Pupil reaction to light. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتضمن مقياس غلاسكو للغيبوبة كل ما يلي باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Motor response: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light. الخيار B، Eye opening: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light. الخيار C، Verbal response: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Motor response, eye opening, and verbal response are the three actual GCS components يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light. الخيار D، Pain response: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. pain response is used as the stimulus to elicit motor/verbal/eye scores يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pupil reaction to light.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Motor response: صحيحة، لكنها ليست الاستثناء. الخيار B، Eye opening: صحيحة، لكنها ليست الاستثناء. الخيار C، Verbal response: صحيحة، لكنها ليست الاستثناء. الخيار D، Pain response: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "GCS: Gauges Eye, verbal, Motor — not pupils"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Pupil reaction to light. رد فعل الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة."
+      "narration": "الخيار E، Pupil reaction to light هو الإجابة الصحيحة. رد فعل الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. رد فعل الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. وتذكّر القاعدة: GCS: Gauges Eye, verbal, Motor — not pupils. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. رد فعل الحدقة ليس ضمن مكونات مقياس غلاسكو الثلاثة. وتذكّر: GCS: Gauges Eye, verbal, Motor — not pupils. والإجابة الصحيحة هي E."
     }
   ]
 }

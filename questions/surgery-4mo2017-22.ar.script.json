@@ -45,7 +45,7 @@
         "label": "170 kcal",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كم عدد السعرات الحرارية لكل لتر في دكستروز 5٪؟ أمامك هذه الخيارات: 150 kcal، أو 170 kcal، أو 180 kcal، أو 200 kcal، أو 250 kcal. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كم عدد السعرات الحرارية لكل لتر في دكستروز 5٪؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 150 kcal: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 170 kcal. يصبح صحيحًا في سؤال يصف 150, 180, 200, and 250 kcal don't match the standard caloric content of D5W, which provides approximately 170 kcal per liter (50g glucose x ~3.4 kcal/g). الخيار C، 180 kcal: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 170 kcal. يصبح صحيحًا في سؤال يصف 150, 180, 200, and 250 kcal don't match the standard caloric content of D5W, which provides approximately 170 kcal per liter (50g glucose x ~3.4 kcal/g). الخيار D، 200 kcal: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 170 kcal. يصبح صحيحًا في سؤال يصف 150, 180, 200, and 250 kcal don't match the standard caloric content of D5W, which provides approximately 170 kcal per liter (50g glucose x ~3.4 kcal/g). الخيار E، 250 kcal: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 170 kcal. يصبح صحيحًا في سؤال يصف 150, 180, 200, and 250 kcal don't match the standard caloric content of D5W, which provides approximately 170 kcal per liter (50g glucose x ~3.4 kcal/g).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 150 kcal: الإجابة الصحيحة هي 170 kcal. الخيار C، 180 kcal: الإجابة الصحيحة هي 170 kcal. الخيار D، 200 kcal: الإجابة الصحيحة هي 170 kcal. الخيار E، 250 kcal: الإجابة الصحيحة هي 170 kcal. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "D5W: Delivers 170 calories per liter"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: 170 kcal. لتر واحد من غلوكوز 5٪ يحتوي حوالي 170 سعرة حرارية."
+      "narration": "الخيار B، 170 kcal هو الإجابة الصحيحة. لتر واحد من غلوكوز 5٪ يحتوي حوالي 170 سعرة حرارية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. لتر واحد من غلوكوز 5٪ يحتوي حوالي 170 سعرة حرارية. وتذكّر القاعدة: D5W: Delivers 170 calories per liter. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. لتر واحد من غلوكوز 5٪ يحتوي حوالي 170 سعرة حرارية. وتذكّر: D5W: Delivers 170 calories per liter. والإجابة الصحيحة هي B."
     }
   ]
 }

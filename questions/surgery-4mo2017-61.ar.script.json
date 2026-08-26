@@ -47,7 +47,7 @@
           "Several doses of vaccine"
         ]
       },
-      "narration": "لنبدأ بهذا السؤال. بعد التعرض لحيوان مشتبه به مصاب بداء الكلب، أي مما يلي يجب إعطاؤه؟ أمامك هذه الخيارات: Rabies immunoglobulin and one dose of vaccine as soon as possible، أو Rabies immunoglobulin then several doses of vaccine، أو Rabies immunoglobulin alone، أو Rabies immunoglobulin and antibiotic، أو Vaccine and antibiotics. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بعد التعرض لحيوان مشتبه به مصاب بداء الكلب، أي مما يلي يجب إعطاؤه؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -83,7 +83,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Rabies immunoglobulin and one dose of vaccine as soon as possible: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (not just one) is the correct regimen. الخيار C، Rabies immunoglobulin alone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (not just one) is the correct regimen. الخيار D، Rabies immunoglobulin and antibiotic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (not just one) is the correct regimen. الخيار E، Vaccine and antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rabies immunoglobulin then several doses of vaccine. يصبح صحيحًا في سؤال يصف A single dose of vaccine with immunoglobulin, immunoglobulin alone, immunoglobulin with antibiotics, and vaccine with antibiotics without immunoglobulin don't match the correct post-exposure prophylaxis protocol — rabies immunoglobulin PLUS a full series of several vaccine doses (not just one) is the correct regimen.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C، Rabies immunoglobulin alone: لا ينطبق على هذه الحالة. الخيار D، Rabies immunoglobulin and antibiotic: لا ينطبق على هذه الحالة. الخيار E، Vaccine and antibiotics: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -143,13 +143,13 @@
       "pills": [
         "Rabies exposure: Immunoglobulin, then Vaccine "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Rabies immunoglobulin then several doses of vaccine. الغلوبولين المناعي الفوري مع سلسلة اللقاح معًا يشكلان الحماية الكاملة بعد التعرض للسعار."
+      "narration": "الخيار B هو الإجابة الصحيحة. الغلوبولين المناعي الفوري مع سلسلة اللقاح معًا يشكلان الحماية الكاملة بعد التعرض للسعار."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الغلوبولين المناعي الفوري مع سلسلة اللقاح معًا يشكلان الحماية الكاملة بعد التعرض للسعار. وتذكّر القاعدة: Rabies exposure: Immunoglobulin, then Vaccine series. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الغلوبولين المناعي الفوري مع سلسلة اللقاح معًا يشكلان الحماية الكاملة بعد التعرض للسعار. وتذكّر: Rabies exposure: Immunoglobulin, then Vaccine series. والإجابة الصحيحة هي B."
     }
   ]
 }

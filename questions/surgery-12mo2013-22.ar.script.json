@@ -45,7 +45,7 @@
         "label": "Adenopathy",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. ما هو السبب الأقل شيوعاً لألم الحفرة الحرقفية اليمنى عند المرأة الحامل؟ أمامك هذه الخيارات: Acute appendicitis، أو Ectopic pregnancy، أو Right acute pyelonephritis، أو Adenopathy، أو Twisting ovarian cyst. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ما هو السبب الأقل شيوعاً لألم الحفرة الحرقفية اليمنى عند المرأة الحامل؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute appendicitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenopathy. يصبح صحيحًا في سؤال يصف Acute appendicitis, ectopic pregnancy, pyelonephritis, and twisted ovarian cyst are all common and important causes of RIF pain in pregnancy, unlike adenopathy (lymph node enlargement) which is a much less common/likely cause. الخيار B، Ectopic pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenopathy. يصبح صحيحًا في سؤال يصف Acute appendicitis, ectopic pregnancy, pyelonephritis, and twisted ovarian cyst are all common and important causes of RIF pain in pregnancy, unlike adenopathy (lymph node enlargement) which is a much less common/likely cause. الخيار C، Right acute pyelonephritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenopathy. يصبح صحيحًا في سؤال يصف Acute appendicitis, ectopic pregnancy, pyelonephritis, and twisted ovarian cyst are all common and important causes of RIF pain in pregnancy, unlike adenopathy (lymph node enlargement) which is a much less common/likely cause. الخيار E، Twisting ovarian cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Adenopathy. يصبح صحيحًا في سؤال يصف Acute appendicitis, ectopic pregnancy, pyelonephritis, and twisted ovarian cyst are all common and important causes of RIF pain in pregnancy, unlike adenopathy (lymph node enlargement) which is a much less common/likely cause.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acute appendicitis: الإجابة الصحيحة هي Adenopathy. الخيار B، Ectopic pregnancy: الإجابة الصحيحة هي Adenopathy. الخيار C، Right acute pyelonephritis: الإجابة الصحيحة هي Adenopathy. الخيار E، Twisting ovarian cyst: الإجابة الصحيحة هي Adenopathy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "RIF pain in pregnancy: Adenopathy is Atypical "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Adenopathy. اعتلال العقد اللمفاوية سبب نادر نسبيًا لهذا الألم مقارنة بأسباب أخرى."
+      "narration": "الخيار D، Adenopathy هو الإجابة الصحيحة. اعتلال العقد اللمفاوية سبب نادر نسبيًا لهذا الألم مقارنة بأسباب أخرى."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اعتلال العقد اللمفاوية سبب نادر نسبيًا لهذا الألم مقارنة بأسباب أخرى. وتذكّر القاعدة: RIF pain in pregnancy: Adenopathy is Atypical (least common). والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. اعتلال العقد اللمفاوية سبب نادر نسبيًا لهذا الألم مقارنة بأسباب أخرى. وتذكّر: RIF pain in pregnancy: Adenopathy is Atypical (least common). والإجابة الصحيحة هي D."
     }
   ]
 }

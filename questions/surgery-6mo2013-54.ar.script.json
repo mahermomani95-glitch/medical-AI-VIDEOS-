@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Breast feeding"
       },
-      "narration": "لنبدأ بهذا السؤال. عامل الخطر الرئيسي لالتهاب الضرع؟ أمامك هذه الخيارات: DM، أو Twins، أو Breast cancer، أو Breast feeding، أو Bad hygiene. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. عامل الخطر الرئيسي لالتهاب الضرع؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، DM: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding. يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself (through nipple trauma and milk stasis) is the major risk factor for mastitis. الخيار B، Twins: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding. يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself (through nipple trauma and milk stasis) is the major risk factor for mastitis. الخيار C، Breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding. يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself (through nipple trauma and milk stasis) is the major risk factor for mastitis. الخيار E، Bad hygiene: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast feeding. يصبح صحيحًا في سؤال يصف Diabetes, twins/multiple births, breast cancer (C, unrelated), and poor hygiene can contribute to risk in some contexts, but breastfeeding itself (through nipple trauma and milk stasis) is the major risk factor for mastitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، DM: الإجابة الصحيحة هي Breast feeding. الخيار B، Twins: الإجابة الصحيحة هي Breast feeding. الخيار C، Breast cancer: الإجابة الصحيحة هي Breast feeding. الخيار E، Bad hygiene: الإجابة الصحيحة هي Breast feeding. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Mastitis: mainly linked to Breastfeeding"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Breast feeding. الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي."
+      "narration": "الخيار D، Breast feeding هو الإجابة الصحيحة. الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي. وتذكّر القاعدة: Mastitis: mainly linked to Breastfeeding. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الرضاعة الطبيعية نفسها هي عامل الخطر الأساسي لالتهاب الثدي. وتذكّر: Mastitis: mainly linked to Breastfeeding. والإجابة الصحيحة هي D."
     }
   ]
 }

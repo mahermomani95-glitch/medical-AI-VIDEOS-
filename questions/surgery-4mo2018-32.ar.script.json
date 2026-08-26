@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Foley drainage for 7 day"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 22 عامًا يعاني من كسر حاد في الحوض ويعاني من نزولدم في البول. خضع لتصوير المثانة والإحليل الراجع، ولاحظ تمزقًا في المثانةخارج الصفاق. العلاج الأنسب هو: أمامك هذه الخيارات: Foley drainage for 7 day، أو Exploratory laparotomy، أو Cystectomy، أو Observation، أو Cystoscopy and repair. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 22 عامًا يعاني من كسر حاد في الحوض ويعاني من نزولدم في البول. خضع لتصوير المثانة والإحليل الراجع، ولاحظ تمزقًا في المثانةخارج الصفاق. العلاج الأنسب هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Exploratory laparotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the standard conservative Foley catheter management for this injury type. يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation alone, and cystoscopy with repair (E, not the standard approach for extraperitoneal rupture) do. الخيار C، Cystectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the standard conservative Foley catheter management for this injury type. يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation alone, and cystoscopy with repair (E, not the standard approach for extraperitoneal rupture) do. الخيار D، Observation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the standard conservative Foley catheter management for this injury type. يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation alone, and cystoscopy with repair (E, not the standard approach for extraperitoneal rupture) do. الخيار E، Cystoscopy and repair: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the standard conservative Foley catheter management for this injury type. يصبح صحيحًا في سؤال يصف Exploratory laparotomy without a specific bladder repair plan, cystectomy (C, removing the whole bladder — far too aggressive here), observation alone, and cystoscopy with repair (E, not the standard approach for extraperitoneal rupture) do.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Exploratory laparotomy: لا ينطبق على هذه الحالة. الخيار C، Cystectomy: لا ينطبق على هذه الحالة. الخيار D، Observation: لا ينطبق على هذه الحالة. الخيار E، Cystoscopy and repair: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Extra = Extra time to heal with a catheter\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Foley drainage for 7 day. تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط."
+      "narration": "الخيار A هو الإجابة الصحيحة. تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط. وتذكّر القاعدة: \"Extra = Extra time to heal with a catheter\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. تمزق المثانة خارج الصفاق يشفى غالبًا تلقائيًا، ويكفي تصريفه بقسطرة فولي فقط. وتذكّر: \"Extra = Extra time to heal with a catheter\". والإجابة الصحيحة هي A."
     }
   ]
 }

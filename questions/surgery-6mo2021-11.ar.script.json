@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Abdominal aortic dissection"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Acute pancreatitis، أو Acute gangrenous cholecystitis، أو Perforated gastric ulcer، أو Ruptured hepatic hydatid cyst، أو Abdominal aortic dissection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal aortic dissection. يصبح صحيحًا في سؤال يصف Acute pancreatitis, acute gangrenous cholecystitis, and perforated gastric ulcer can all cause acute abdominal emergencies, but a ruptured hepatic hydatid cyst carries the specific well-known risk of anaphylactic shock during surgical manipulation due to antigenic cyst fluid release. الخيار B، Acute gangrenous cholecystitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal aortic dissection. يصبح صحيحًا في سؤال يصف Acute pancreatitis, acute gangrenous cholecystitis, and perforated gastric ulcer can all cause acute abdominal emergencies, but a ruptured hepatic hydatid cyst carries the specific well-known risk of anaphylactic shock during surgical manipulation due to antigenic cyst fluid release. الخيار C، Perforated gastric ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal aortic dissection. يصبح صحيحًا في سؤال يصف Acute pancreatitis, acute gangrenous cholecystitis, and perforated gastric ulcer can all cause acute abdominal emergencies, but a ruptured hepatic hydatid cyst carries the specific well-known risk of anaphylactic shock during surgical manipulation due to antigenic cyst fluid release. الخيار D، Ruptured hepatic hydatid cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal aortic dissection. يصبح صحيحًا في سؤال يصف Acute pancreatitis, acute gangrenous cholecystitis, and perforated gastric ulcer can all cause acute abdominal emergencies, but a ruptured hepatic hydatid cyst carries the specific well-known risk of anaphylactic shock during surgical manipulation due to antigenic cyst fluid release.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acute pancreatitis: الإجابة الصحيحة هي Abdominal aortic dissection. الخيار B، Acute gangrenous cholecystitis: الإجابة الصحيحة هي Abdominal aortic dissection. الخيار C، Perforated gastric ulcer: الإجابة الصحيحة هي Abdominal aortic dissection. الخيار D، Ruptured hepatic hydatid cyst: الإجابة الصحيحة هي Abdominal aortic dissection. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Expansile pulsatile mass + hypotension + pain"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Abdominal aortic dissection. كتلة نابضة متوسعة (وليست منقولة فقط) بالشرسوف مع هبوط ضغط وألم هي الثلاثية الكلاسيكية لتمزق أو تسلخ أم دم الأبهر البطني."
+      "narration": "الخيار E، Abdominal aortic dissection هو الإجابة الصحيحة. كتلة نابضة متوسعة (وليست منقولة فقط) بالشرسوف مع هبوط ضغط وألم هي الثلاثية الكلاسيكية لتمزق أو تسلخ أم دم الأبهر البطني."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كتلة نابضة متوسعة (وليست منقولة فقط) بالشرسوف مع هبوط ضغط وألم هي الثلاثية الكلاسيكية لتمزق أو تسلخ أم دم الأبهر البطني. وتذكّر القاعدة: \"Expansile pulsatile mass + hypotension + pain = AAA rupture/dissection\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. كتلة نابضة متوسعة (وليست منقولة فقط) بالشرسوف مع هبوط ضغط وألم هي الثلاثية الكلاسيكية لتمزق أو تسلخ أم دم الأبهر البطني. وتذكّر: \"Expansile pulsatile mass + hypotension + pain = AAA rupture/dissection\". والإجابة الصحيحة هي E."
     }
   ]
 }

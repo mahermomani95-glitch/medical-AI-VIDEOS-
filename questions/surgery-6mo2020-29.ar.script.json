@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Commonly injured with blunt abdominal trauma in…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Commonly injured with blunt abdominal trauma in adults، أو Duodenal ulcer bleeding arises from the gastroduodenal artery، أو Pnacreatic tumors present with obstructive jaundice، أو First and widest part of the small intestine، أو The common bile duct opens at the posterior wall of the second part. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Duodenal ulcer bleeding arises from the gastroduodenal artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal ulcer bleeding from the gastroduodenal artery, pancreatic tumors presenting with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Commonly injured with blunt abdominal trauma in adults. الخيار C، Pnacreatic tumors present with obstructive jaundice: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal ulcer bleeding from the gastroduodenal artery, pancreatic tumors presenting with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Commonly injured with blunt abdominal trauma in adults. الخيار D، First and widest part of the small intestine: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal ulcer bleeding from the gastroduodenal artery, pancreatic tumors presenting with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Commonly injured with blunt abdominal trauma in adults. الخيار E، The common bile duct opens at the posterior wall of the second part: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal ulcer bleeding from the gastroduodenal artery, pancreatic tumors presenting with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Commonly injured with blunt abdominal trauma in adults.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Duodenum = retroperitoneal, protected, rarely"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Commonly injured with blunt abdominal trauma in adults. الاثني عشر محمي جيدًا خلف الصفاق ومحاط بأعضاء أخرى — نادرًا ما يتأذى فعليًا في الرضح البطني الكليل عند البالغين، بعكس بنى أكثر عرضة."
+      "narration": "الخيار A هو الإجابة الصحيحة. الاثني عشر محمي جيدًا خلف الصفاق ومحاط بأعضاء أخرى — نادرًا ما يتأذى فعليًا في الرضح البطني الكليل عند البالغين، بعكس بنى أكثر عرضة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الاثني عشر محمي جيدًا خلف الصفاق ومحاط بأعضاء أخرى — نادرًا ما يتأذى فعليًا في الرضح البطني الكليل عند البالغين، بعكس بنى أكثر عرضة. وتذكّر القاعدة: \"Duodenum = retroperitoneal, protected, rarely injured in blunt trauma\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الاثني عشر محمي جيدًا خلف الصفاق ومحاط بأعضاء أخرى — نادرًا ما يتأذى فعليًا في الرضح البطني الكليل عند البالغين، بعكس بنى أكثر عرضة. وتذكّر: \"Duodenum = retroperitoneal, protected, rarely injured in blunt trauma\". والإجابة الصحيحة هي A."
     }
   ]
 }

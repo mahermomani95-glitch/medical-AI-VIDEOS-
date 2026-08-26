@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Gastrointestinal stromal in the stomach"
       },
-      "narration": "لنبدأ بهذا السؤال. قد تسبب بكتيريا هيليكوباكتر بيلوري الحالات التالية في المعدة والاثني عشرباستثناء: أمامك هذه الخيارات: Gastric ulcer، أو Duodenal ulcer، أو Gastric lymphoma، أو Gastrointestinal stromal in the stomach، أو Gastric adenocarcinoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. قد تسبب بكتيريا هيليكوباكتر بيلوري الحالات التالية في المعدة والاثني عشرباستثناء: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Gastric ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach. الخيار B، Duodenal ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach. الخيار C، Gastric lymphoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach. الخيار E، Gastric adenocarcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gastric and duodenal ulcers, gastric MALT lymphoma, and gastric adenocarcinoma are all proven… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal in the stomach.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Gastric ulcer: صحيحة، لكنها ليست الاستثناء. الخيار B، Duodenal ulcer: صحيحة، لكنها ليست الاستثناء. الخيار C، Gastric lymphoma: صحيحة، لكنها ليست الاستثناء. الخيار E، Gastric adenocarcinoma: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"GIST ≠ H. pylori\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Gastrointestinal stromal in the stomach. الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori."
+      "narration": "الخيار D هو الإجابة الصحيحة. الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori. وتذكّر القاعدة: \"GIST ≠ H. pylori\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الأورام اللحمية المعدية المعوية (GIST) تنشأ من خلايا كاخال الخلالية، وليست نتيجة الالتهاب المخاطي الذي تسببه جرثومة H. pylori. وتذكّر: \"GIST ≠ H. pylori\". والإجابة الصحيحة هي D."
     }
   ]
 }

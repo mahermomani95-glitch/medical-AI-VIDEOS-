@@ -45,7 +45,7 @@
         "label": "Sickle cell disease",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Rapid weight loss، أو Colon resection، أو Sickle cell disease، أو Oral contraceptive pills، أو Obesity. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Rapid weight loss: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sickle cell disease. يصبح صحيحًا في سؤال يصف Rapid weight loss, colon resection (B, via bile salt malabsorption), OCPs, and obesity are all genuine risk factors for cholesterol gallstones, unlike sickle cell disease which drives pigment stone formation instead. الخيار B، Colon resection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sickle cell disease. يصبح صحيحًا في سؤال يصف Rapid weight loss, colon resection (B, via bile salt malabsorption), OCPs, and obesity are all genuine risk factors for cholesterol gallstones, unlike sickle cell disease which drives pigment stone formation instead. الخيار D، Oral contraceptive pills: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sickle cell disease. يصبح صحيحًا في سؤال يصف Rapid weight loss, colon resection (B, via bile salt malabsorption), OCPs, and obesity are all genuine risk factors for cholesterol gallstones, unlike sickle cell disease which drives pigment stone formation instead. الخيار E، Obesity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sickle cell disease. يصبح صحيحًا في سؤال يصف Rapid weight loss, colon resection (B, via bile salt malabsorption), OCPs, and obesity are all genuine risk factors for cholesterol gallstones, unlike sickle cell disease which drives pigment stone formation instead.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Rapid weight loss: الإجابة الصحيحة هي Sickle cell disease. الخيار B، Colon resection: الإجابة الصحيحة هي Sickle cell disease. الخيار D، Oral contraceptive pills: الإجابة الصحيحة هي Sickle cell disease. الخيار E، Obesity: الإجابة الصحيحة هي Sickle cell disease. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Sickle cell = Pigment stones, not cholesterol"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Sickle cell disease. فقر الدم المنجلي يسبب انحلالًا دمويًا مزمنًا، مؤديًا لحصى الصباغ (البيليروبين) — وليس مسار حصى الكوليسترول المسؤول عنه هذا السؤال."
+      "narration": "الخيار C، Sickle cell disease هو الإجابة الصحيحة. فقر الدم المنجلي يسبب انحلالًا دمويًا مزمنًا، مؤديًا لحصى الصباغ (البيليروبين) — وليس مسار حصى الكوليسترول المسؤول عنه هذا السؤال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فقر الدم المنجلي يسبب انحلالًا دمويًا مزمنًا، مؤديًا لحصى الصباغ (البيليروبين) — وليس مسار حصى الكوليسترول المسؤول عنه هذا السؤال. وتذكّر القاعدة: \"Sickle cell = Pigment stones, not cholesterol stones\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فقر الدم المنجلي يسبب انحلالًا دمويًا مزمنًا، مؤديًا لحصى الصباغ (البيليروبين) — وليس مسار حصى الكوليسترول المسؤول عنه هذا السؤال. وتذكّر: \"Sickle cell = Pigment stones, not cholesterol stones\". والإجابة الصحيحة هي C."
     }
   ]
 }

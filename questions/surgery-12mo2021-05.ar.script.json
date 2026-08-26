@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Usually on the lateral aspect of the leg"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح عن قرح الأوردة ما عدا: أمامك هذه الخيارات: Associated with varicose veins، أو Usually on the lateral aspect of the leg، أو Usually shallow، أو The affected limb is usuallywarm، أو More common in women. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح عن قرح الأوردة ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Associated with varicose veins: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Association with varicose veins, being usually shallow, a warm affected limb, and higher… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually on the lateral aspect of the leg. الخيار C، Usually shallow: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Association with varicose veins, being usually shallow, a warm affected limb, and higher… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually on the lateral aspect of the leg. الخيار D، The affected limb is usuallywarm: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Association with varicose veins, being usually shallow, a warm affected limb, and higher… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually on the lateral aspect of the leg. الخيار E، More common in women: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Association with varicose veins, being usually shallow, a warm affected limb, and higher… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually on the lateral aspect of the leg.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Associated with varicose veins: صحيحة، لكنها ليست الاستثناء. الخيار C، Usually shallow: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، More common in women: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Venous ulcer = MEDIAL malleolus, not lateral\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Usually on the lateral aspect of the leg. القرحة الوريدية تحدث كلاسيكيًا على الجانب الإنسي من الساق (قرب الكعب الإنسي)، وليس الجانب الوحشي."
+      "narration": "الخيار B هو الإجابة الصحيحة. القرحة الوريدية تحدث كلاسيكيًا على الجانب الإنسي من الساق (قرب الكعب الإنسي)، وليس الجانب الوحشي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القرحة الوريدية تحدث كلاسيكيًا على الجانب الإنسي من الساق (قرب الكعب الإنسي)، وليس الجانب الوحشي. وتذكّر القاعدة: \"Venous ulcer = MEDIAL malleolus, not lateral\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. القرحة الوريدية تحدث كلاسيكيًا على الجانب الإنسي من الساق (قرب الكعب الإنسي)، وليس الجانب الوحشي. وتذكّر: \"Venous ulcer = MEDIAL malleolus, not lateral\". والإجابة الصحيحة هي B."
     }
   ]
 }

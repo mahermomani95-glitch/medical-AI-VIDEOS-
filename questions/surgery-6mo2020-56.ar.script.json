@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Colon cancer"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Colon cancer، أو Adhesion، أو Foreign body، أو Volvulus، أو Diverticulitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Adhesion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colon cancer. يصبح صحيحًا في سؤال يصف Adhesions, foreign body, volvulus, and diverticulitis are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction overall. الخيار C، Foreign body: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colon cancer. يصبح صحيحًا في سؤال يصف Adhesions, foreign body, volvulus, and diverticulitis are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction overall. الخيار D، Volvulus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colon cancer. يصبح صحيحًا في سؤال يصف Adhesions, foreign body, volvulus, and diverticulitis are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction overall. الخيار E، Diverticulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colon cancer. يصبح صحيحًا في سؤال يصف Adhesions, foreign body, volvulus, and diverticulitis are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Adhesion: الإجابة الصحيحة هي Colon cancer. الخيار C، Foreign body: الإجابة الصحيحة هي Colon cancer. الخيار D، Volvulus: الإجابة الصحيحة هي Colon cancer. الخيار E، Diverticulitis: الإجابة الصحيحة هي Colon cancer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Colon cancer = #1 cause of large bowel obstru"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Colon cancer. سرطان القولون هو السبب الأشيع لانسداد الأمعاء الغليظة الميكانيكي إجمالًا، أكثر من الالتواء أو التهاب الرتوج."
+      "narration": "الخيار A، Colon cancer هو الإجابة الصحيحة. سرطان القولون هو السبب الأشيع لانسداد الأمعاء الغليظة الميكانيكي إجمالًا، أكثر من الالتواء أو التهاب الرتوج."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان القولون هو السبب الأشيع لانسداد الأمعاء الغليظة الميكانيكي إجمالًا، أكثر من الالتواء أو التهاب الرتوج. وتذكّر القاعدة: \"Colon cancer = #1 cause of large bowel obstruction\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. سرطان القولون هو السبب الأشيع لانسداد الأمعاء الغليظة الميكانيكي إجمالًا، أكثر من الالتواء أو التهاب الرتوج. وتذكّر: \"Colon cancer = #1 cause of large bowel obstruction\". والإجابة الصحيحة هي A."
     }
   ]
 }

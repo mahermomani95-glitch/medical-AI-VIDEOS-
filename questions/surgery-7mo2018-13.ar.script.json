@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "IV hydration and hypertonic gastrografin enema"
       },
-      "narration": "لنبدأ بهذا السؤال. العلاج المفضل للأطفال حديثي الولادة الذين يعانون من انسداد الأمعاء غيرالمعقد هو أمامك هذه الخيارات: Observation، أو Emergency laparotomy، أو IV hydration and hypertonic gastrografin enema، أو Sweat chloride test and pancreatic enzyme therapy، أو Lower GI endoscopy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلاج المفضل للأطفال حديثي الولادة الذين يعانون من انسداد الأمعاء غيرالمعقد هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Observation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hydration and hypertonic gastrografin enema. يصبح صحيحًا في سؤال يصف Observation is inappropriate for a true mechanical obstruction requiring intervention. الخيار B، Emergency laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hydration and hypertonic gastrografin enema. يصبح صحيحًا في سؤال يصف emergency laparotomy is more invasive than needed for an uncomplicated case. الخيار D، Sweat chloride test and pancreatic enzyme therapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hydration and hypertonic gastrografin enema. يصبح صحيحًا في سؤال يستهدف Sweat chloride test and pancreatic enzyme therapy تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Lower GI endoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hydration and hypertonic gastrografin enema. يصبح صحيحًا في سؤال يصف lower GI endoscopy isn't the standard approach for meconium ileus, which is a small bowel problem.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Observation: الإجابة الصحيحة هي IV hydration and hypertonic gastrografin enema. الخيار B، Emergency laparotomy: الإجابة الصحيحة هي IV hydration and hypertonic gastrografin enema. الخيار D: الإجابة الصحيحة هي IV hydration and hypertonic gastrografin enema. الخيار E، Lower GI endoscopy: الإجابة الصحيحة هي IV hydration and hypertonic gastrografin enema. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Gastrografin = diagnostic AND therapeutic\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: IV hydration and hypertonic gastrografin enema. حقنة الغاستروجرافين مفرطة التوتر لا تُظهر الانسداد فقط، بل قد تُذيبه أيضًا بفضل خاصيتها الأسموزية."
+      "narration": "الخيار C هو الإجابة الصحيحة. حقنة الغاستروجرافين مفرطة التوتر لا تُظهر الانسداد فقط، بل قد تُذيبه أيضًا بفضل خاصيتها الأسموزية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حقنة الغاستروجرافين مفرطة التوتر لا تُظهر الانسداد فقط، بل قد تُذيبه أيضًا بفضل خاصيتها الأسموزية. وتذكّر القاعدة: \"Gastrografin = diagnostic AND therapeutic\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. حقنة الغاستروجرافين مفرطة التوتر لا تُظهر الانسداد فقط، بل قد تُذيبه أيضًا بفضل خاصيتها الأسموزية. وتذكّر: \"Gastrografin = diagnostic AND therapeutic\". والإجابة الصحيحة هي C."
     }
   ]
 }

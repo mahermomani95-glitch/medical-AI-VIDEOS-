@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Pain and tenderness"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي يزيد من الشك في وجود عقيدة خبيثة في الغدة الدرقية باستثناء؟ (سؤال مكرر، راجع السؤال رقم 529) أمامك هذه الخيارات: Age less than 20 years، أو Age more than 60 years، أو Pain and tenderness، أو New Onest of hoarseness، أو Female gender. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي يزيد من الشك في وجود عقيدة خبيثة في الغدة الدرقية باستثناء؟ (سؤال مكرر، راجع السؤال رقم 529) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Age less than 20 years: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار B، Age more than 60 years: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار D، New Onest of hoarseness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار E، Female gender: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, new hoarseness (D, suggesting nerve invasion), and female gender… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D، New Onest of hoarseness: صحيحة، لكنها ليست الاستثناء. الخيار E، Female gender: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Painful thyroid nodule: Points toward Benign c"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Pain and tenderness. الألم والتحسس يوجهان لسبب حميد، لا يرفعان الشك بالخباثة."
+      "narration": "الخيار C، Pain and tenderness هو الإجابة الصحيحة. الألم والتحسس يوجهان لسبب حميد، لا يرفعان الشك بالخباثة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم والتحسس يوجهان لسبب حميد، لا يرفعان الشك بالخباثة. وتذكّر القاعدة: Painful thyroid nodule: Points toward Benign cause. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الألم والتحسس يوجهان لسبب حميد، لا يرفعان الشك بالخباثة. وتذكّر: Painful thyroid nodule: Points toward Benign cause. والإجابة الصحيحة هي C."
     }
   ]
 }

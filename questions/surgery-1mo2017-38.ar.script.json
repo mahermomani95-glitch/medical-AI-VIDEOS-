@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Total thyroidectomy"
       },
-      "narration": "لنبدأ بهذا السؤال. العملية المفضلة للإدارة الأولية لعقدة الغدة الدرقية التي تعتبر خبيثة بواسطة FNAB هي؟ أمامك هذه الخيارات: Nodule excision، أو Partial lobectomy، أو Total lobectomy and isthmusectomy، أو Total thyroidectomy، أو Near total thyroidectomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العملية المفضلة للإدارة الأولية لعقدة الغدة الدرقية التي تعتبر خبيثة بواسطة FNAB هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Nodule excision: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Total thyroidectomy. يصبح صحيحًا في سؤال يصف Simple nodule excision, partial lobectomy, lobectomy with isthmusectomy, and near-total thyroidectomy are all less complete than what's typically preferred — total thyroidectomy is the preferred initial operation for most malignant thyroid nodules given recurrence and multifocality risk. الخيار B، Partial lobectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Total thyroidectomy. يصبح صحيحًا في سؤال يصف Simple nodule excision, partial lobectomy, lobectomy with isthmusectomy, and near-total thyroidectomy are all less complete than what's typically preferred — total thyroidectomy is the preferred initial operation for most malignant thyroid nodules given recurrence and multifocality risk. الخيار C، Total lobectomy and isthmusectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Total thyroidectomy. يصبح صحيحًا في سؤال يصف Simple nodule excision, partial lobectomy, lobectomy with isthmusectomy, and near-total thyroidectomy are all less complete than what's typically preferred — total thyroidectomy is the preferred initial operation for most malignant thyroid nodules given recurrence and multifocality risk. الخيار E، Near total thyroidectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Total thyroidectomy. يصبح صحيحًا في سؤال يصف Simple nodule excision, partial lobectomy, lobectomy with isthmusectomy, and near-total thyroidectomy are all less complete than what's typically preferred — total thyroidectomy is the preferred initial operation for most malignant thyroid nodules given recurrence and multifocality risk.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Nodule excision: الإجابة الصحيحة هي Total thyroidectomy. الخيار B، Partial lobectomy: الإجابة الصحيحة هي Total thyroidectomy. الخيار C، Total lobectomy and isthmusectomy: الإجابة الصحيحة هي Total thyroidectomy. الخيار E، Near total thyroidectomy: الإجابة الصحيحة هي Total thyroidectomy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Malignant thyroid nodule: Total thyroidectomy "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Total thyroidectomy. الاستئصال الكامل للدرقية هو الجراحة المفضلة الأولى لعقيدة مؤكدة الخباثة."
+      "narration": "الخيار D، Total thyroidectomy هو الإجابة الصحيحة. الاستئصال الكامل للدرقية هو الجراحة المفضلة الأولى لعقيدة مؤكدة الخباثة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الاستئصال الكامل للدرقية هو الجراحة المفضلة الأولى لعقيدة مؤكدة الخباثة. وتذكّر القاعدة: Malignant thyroid nodule: Total thyroidectomy preferred. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الاستئصال الكامل للدرقية هو الجراحة المفضلة الأولى لعقيدة مؤكدة الخباثة. وتذكّر: Malignant thyroid nodule: Total thyroidectomy preferred. والإجابة الصحيحة هي D."
     }
   ]
 }

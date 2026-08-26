@@ -45,7 +45,7 @@
         "label": "Gentamycin",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل من المضادات الحيوية التالية مضادة للبكتيريا باستثناء؟ أمامك هذه الخيارات: Sulfonamides، أو Tetracycline، أو Erythromycin، أو Gentamycin، أو Azithromycin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل من المضادات الحيوية التالية مضادة للبكتيريا باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Sulfonamides: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin. الخيار B، Tetracycline: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin. الخيار C، Erythromycin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin. الخيار E، Azithromycin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sulfonamides, tetracycline, erythromycin, and azithromycin are all bacteriostatic antibiotics… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gentamycin.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Sulfonamides: صحيحة، لكنها ليست الاستثناء. الخيار B، Tetracycline: صحيحة، لكنها ليست الاستثناء. الخيار C، Erythromycin: صحيحة، لكنها ليست الاستثناء. الخيار E، Azithromycin: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Gentamicin: Genuinely bactericidal, not bacter"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Gentamycin. الجنتاميسين مبيد جرثومي فعليًا، لا كابح نمو كباقي القائمة."
+      "narration": "الخيار D، Gentamycin هو الإجابة الصحيحة. الجنتاميسين مبيد جرثومي فعليًا، لا كابح نمو كباقي القائمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الجنتاميسين مبيد جرثومي فعليًا، لا كابح نمو كباقي القائمة. وتذكّر القاعدة: Gentamicin: Genuinely bactericidal, not bacteriostatic. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الجنتاميسين مبيد جرثومي فعليًا، لا كابح نمو كباقي القائمة. وتذكّر: Gentamicin: Genuinely bactericidal, not bacteriostatic. والإجابة الصحيحة هي D."
     }
   ]
 }

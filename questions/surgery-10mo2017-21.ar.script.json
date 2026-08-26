@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Femoral"
       },
-      "narration": "لنبدأ بهذا السؤال. أكثر أنواع الفتق شيوعًا والذي يمكن رؤيته مختنقًا هو؟ أمامك هذه الخيارات: Incisional، أو Inguinal، أو Para-umbilical، أو Femoral، أو Linea alba. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أكثر أنواع الفتق شيوعًا والذي يمكن رؤيته مختنقًا هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Incisional: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral. يصبح صحيحًا في سؤال يصف Incisional, inguinal (B, overall, though direct/indirect together), para-umbilical, and linea alba/epigastric hernias have lower strangulation risk than femoral hernia, which carries the highest risk due to its narrow, rigid canal. الخيار B، Inguinal: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral. يصبح صحيحًا في سؤال يصف Incisional, inguinal (B, overall, though direct/indirect together), para-umbilical, and linea alba/epigastric hernias have lower strangulation risk than femoral hernia, which carries the highest risk due to its narrow, rigid canal. الخيار C، Para-umbilical: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral. يصبح صحيحًا في سؤال يصف Incisional, inguinal (B, overall, though direct/indirect together), para-umbilical, and linea alba/epigastric hernias have lower strangulation risk than femoral hernia, which carries the highest risk due to its narrow, rigid canal. الخيار E، Linea alba: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral. يصبح صحيحًا في سؤال يصف Incisional, inguinal (B, overall, though direct/indirect together), para-umbilical, and linea alba/epigastric hernias have lower strangulation risk than femoral hernia, which carries the highest risk due to its narrow, rigid canal.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Incisional: الإجابة الصحيحة هي Femoral. الخيار B، Inguinal: الإجابة الصحيحة هي Femoral. الخيار C، Para-umbilical: الإجابة الصحيحة هي Femoral. الخيار E، Linea alba: الإجابة الصحيحة هي Femoral. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Strangulation risk: highest with Femoral herni"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Femoral. الفتق الفخذي هو الأكثر عرضة للاختناق رغم كونه أقل شيوعًا عمومًا."
+      "narration": "الخيار D، Femoral هو الإجابة الصحيحة. الفتق الفخذي هو الأكثر عرضة للاختناق رغم كونه أقل شيوعًا عمومًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفتق الفخذي هو الأكثر عرضة للاختناق رغم كونه أقل شيوعًا عمومًا. وتذكّر القاعدة: Strangulation risk: highest with Femoral hernia. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الفتق الفخذي هو الأكثر عرضة للاختناق رغم كونه أقل شيوعًا عمومًا. وتذكّر: Strangulation risk: highest with Femoral hernia. والإجابة الصحيحة هي D."
     }
   ]
 }

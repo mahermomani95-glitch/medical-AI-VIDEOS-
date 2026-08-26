@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Proper common hepatic artery"
       },
-      "narration": "لنبدأ بهذا السؤال. الشريان المعدي الأيمن هو عادة فرع من أمامك هذه الخيارات: Gastroduodenal artery، أو Right gastro_epiploic artery، أو Pancreatoduodenal artery، أو Proper common hepatic artery، أو Right hepatic artery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الشريان المعدي الأيمن هو عادة فرع من أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Gastroduodenal artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the origin of the right gastric artery, which arises from the proper hepatic artery. يصبح صحيحًا في سؤال يصف The gastroduodenal, right gastroepiploic, pancreatoduodenal, and right hepatic arteries all supply nearby stomach/duodenal/pancreatic regions but. الخيار B، Right gastro_epiploic artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the origin of the right gastric artery, which arises from the proper hepatic artery. يصبح صحيحًا في سؤال يصف The gastroduodenal, right gastroepiploic, pancreatoduodenal, and right hepatic arteries all supply nearby stomach/duodenal/pancreatic regions but. الخيار C، Pancreatoduodenal artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the origin of the right gastric artery, which arises from the proper hepatic artery. يصبح صحيحًا في سؤال يصف The gastroduodenal, right gastroepiploic, pancreatoduodenal, and right hepatic arteries all supply nearby stomach/duodenal/pancreatic regions but. الخيار E، Right hepatic artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the origin of the right gastric artery, which arises from the proper hepatic artery. يصبح صحيحًا في سؤال يصف The gastroduodenal, right gastroepiploic, pancreatoduodenal, and right hepatic arteries all supply nearby stomach/duodenal/pancreatic regions but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Gastroduodenal artery: لا ينطبق على هذه الحالة. الخيار B، Right gastro_epiploic artery: لا ينطبق على هذه الحالة. الخيار C، Pancreatoduodenal artery: لا ينطبق على هذه الحالة. الخيار E، Right hepatic artery: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Right gastric rides the proper hepatic\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Proper common hepatic artery. الشريان المعدي الأيمن فرع صغير من الشريان الكبدي الخاص، ويغذي الانحناء الصغير للمعدة."
+      "narration": "الخيار D، Proper common hepatic artery هو الإجابة الصحيحة. الشريان المعدي الأيمن فرع صغير من الشريان الكبدي الخاص، ويغذي الانحناء الصغير للمعدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشريان المعدي الأيمن فرع صغير من الشريان الكبدي الخاص، ويغذي الانحناء الصغير للمعدة. وتذكّر القاعدة: \"Right gastric rides the proper hepatic\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الشريان المعدي الأيمن فرع صغير من الشريان الكبدي الخاص، ويغذي الانحناء الصغير للمعدة. وتذكّر: \"Right gastric rides the proper hepatic\". والإجابة الصحيحة هي D."
     }
   ]
 }

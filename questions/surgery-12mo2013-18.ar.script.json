@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Left lower lobe lung Atelectasis"
       },
-      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا بعد استئصال الطحال المفتوح هي؟ أمامك هذه الخيارات: Left lower lobe lung Atelectasis، أو Pleural effusion and pneumonia، أو Subphrenic hematoma، أو Subphrenic abscess، أو Pancreatitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا بعد استئصال الطحال المفتوح هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Pleural effusion and pneumonia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left lower lobe lung Atelectasis. يصبح صحيحًا في سؤال يصف Pleural effusion/pneumonia, subphrenic hematoma, subphrenic abscess, and pancreatitis (E, from tail injury) can all occur after splenectomy, but left lower lobe atelectasis remains the most common overall complication. الخيار C، Subphrenic hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left lower lobe lung Atelectasis. يصبح صحيحًا في سؤال يصف Pleural effusion/pneumonia, subphrenic hematoma, subphrenic abscess, and pancreatitis (E, from tail injury) can all occur after splenectomy, but left lower lobe atelectasis remains the most common overall complication. الخيار D، Subphrenic abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left lower lobe lung Atelectasis. يصبح صحيحًا في سؤال يصف Pleural effusion/pneumonia, subphrenic hematoma, subphrenic abscess, and pancreatitis (E, from tail injury) can all occur after splenectomy, but left lower lobe atelectasis remains the most common overall complication. الخيار E، Pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Left lower lobe lung Atelectasis. يصبح صحيحًا في سؤال يصف Pleural effusion/pneumonia, subphrenic hematoma, subphrenic abscess, and pancreatitis (E, from tail injury) can all occur after splenectomy, but left lower lobe atelectasis remains the most common overall complication.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Pleural effusion and pneumonia: الإجابة الصحيحة هي Left lower lobe lung Atelectasis. الخيار C، Subphrenic hematoma: الإجابة الصحيحة هي Left lower lobe lung Atelectasis. الخيار D، Subphrenic abscess: الإجابة الصحيحة هي Left lower lobe lung Atelectasis. الخيار E، Pancreatitis: الإجابة الصحيحة هي Left lower lobe lung Atelectasis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Open splenectomy: mostly Left lung atelectasis"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Left lower lobe lung Atelectasis. انخماص الفص السفلي الأيسر هو المضاعفة الأشيع بعد استئصال الطحال المفتوح."
+      "narration": "الخيار A هو الإجابة الصحيحة. انخماص الفص السفلي الأيسر هو المضاعفة الأشيع بعد استئصال الطحال المفتوح."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انخماص الفص السفلي الأيسر هو المضاعفة الأشيع بعد استئصال الطحال المفتوح. وتذكّر القاعدة: Open splenectomy: mostly Left lung atelectasis. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. انخماص الفص السفلي الأيسر هو المضاعفة الأشيع بعد استئصال الطحال المفتوح. وتذكّر: Open splenectomy: mostly Left lung atelectasis. والإجابة الصحيحة هي A."
     }
   ]
 }

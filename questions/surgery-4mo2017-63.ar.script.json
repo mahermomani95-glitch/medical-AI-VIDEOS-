@@ -45,7 +45,7 @@
         "label": "Lymph node resection surgery",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا للوذمة غير المنقّرة؟ أمامك هذه الخيارات: latrogenic، أو Filariasis، أو Lymph node resection surgery، أو Leptospirosis، أو Chagas disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا للوذمة غير المنقّرة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، latrogenic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery. يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes. الخيار B، Filariasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery. يصبح صحيحًا في سؤال يصف filariasis is a globally significant cause of lymphedema but less common than surgical causes in many practice settings — lymph node resection/dissection (as in cancer surgery) remains a very common cause of secondary lymphedema (non-pitting edema) in clinical practice. الخيار D، Leptospirosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery. يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes. الخيار E، Chagas disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node resection surgery. يصبح صحيحًا في سؤال يصف Iatrogenic causes, leptospirosis, and Chagas disease are less common overall causes.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، latrogenic: الإجابة الصحيحة هي Lymph node resection surgery. الخيار B، Filariasis: الإجابة الصحيحة هي Lymph node resection surgery. الخيار D، Leptospirosis: الإجابة الصحيحة هي Lymph node resection surgery. الخيار E، Chagas disease: الإجابة الصحيحة هي Lymph node resection surgery. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Non-pitting edema: mostly from Lymph node rese"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Lymph node resection surgery. استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية."
+      "narration": "الخيار C، Lymph node resection surgery هو الإجابة الصحيحة. استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية. وتذكّر القاعدة: Non-pitting edema: mostly from Lymph node resection. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. استئصال العقد اللمفاوية الجراحي هو السبب الأشيع للوذمة اللاحفرية اللمفية. وتذكّر: Non-pitting edema: mostly from Lymph node resection. والإجابة الصحيحة هي C."
     }
   ]
 }

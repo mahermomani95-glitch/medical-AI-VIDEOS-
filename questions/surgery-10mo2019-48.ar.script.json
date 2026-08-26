@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Oral fluids containing no salt are essential when…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن الحرق خاطئة؟ أمامك هذه الخيارات: Oral fluids containing no salt are essential when given as fluid replacement in burns، أو Fluids required can be calculated from a standard formula، أو Urine output gives a major clue as to the adequacy of fluid replacement، أو Circumferential full-thickness burns of a limb can result Inischemia، أو Analgesia is a vital part of burn management. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن الحرق خاطئة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Fluids required can be calculated from a standard formula: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Standard formulas for calculating fluid needs, urine output as a marker of adequate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Oral fluids containing no salt are essential when given as fluid replacement in burns. الخيار C، Urine output gives a major clue as to the adequacy of fluid replacement: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Standard formulas for calculating fluid needs, urine output as a marker of adequate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Oral fluids containing no salt are essential when given as fluid replacement in burns. الخيار D، Circumferential full-thickness burns of a limb can result Inischemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Standard formulas for calculating fluid needs, urine output as a marker of adequate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Oral fluids containing no salt are essential when given as fluid replacement in burns. الخيار E، Analgesia is a vital part of burn management: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Standard formulas for calculating fluid needs, urine output as a marker of adequate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Oral fluids containing no salt are essential when given as fluid replacement in burns.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Burn fluid replacement needs salt, not plain "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Oral fluids containing no salt are essential when given as fluid replacement in burns. السوائل الفموية للإرواء في الحروق يجب أن تحتوي أملاحًا/شوارد — الماء الصافي وحده لا يعوّض الفقد الشاردي الهائل وقد يسبب نقص صوديوم خطيرًا."
+      "narration": "الخيار A هو الإجابة الصحيحة. السوائل الفموية للإرواء في الحروق يجب أن تحتوي أملاحًا/شوارد — الماء الصافي وحده لا يعوّض الفقد الشاردي الهائل وقد يسبب نقص صوديوم خطيرًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السوائل الفموية للإرواء في الحروق يجب أن تحتوي أملاحًا/شوارد — الماء الصافي وحده لا يعوّض الفقد الشاردي الهائل وقد يسبب نقص صوديوم خطيرًا. وتذكّر القاعدة: \"Burn fluid replacement needs salt, not plain water\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. السوائل الفموية للإرواء في الحروق يجب أن تحتوي أملاحًا/شوارد — الماء الصافي وحده لا يعوّض الفقد الشاردي الهائل وقد يسبب نقص صوديوم خطيرًا. وتذكّر: \"Burn fluid replacement needs salt, not plain water\". والإجابة الصحيحة هي A."
     }
   ]
 }

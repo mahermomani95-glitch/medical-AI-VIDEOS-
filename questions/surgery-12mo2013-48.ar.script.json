@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Severe abdominal pain"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل السمات السريرية للانسداد المعوي الشللي ما يلي باستثناء؟ أمامك هذه الخيارات: Effortless vomiting، أو Absolute constipation، أو Abdominal distension، أو Severe abdominal pain، أو Absent bowel sounds. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل السمات السريرية للانسداد المعوي الشللي ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Effortless vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain. الخيار B، Absolute constipation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain. الخيار C، Abdominal distension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain. الخيار E، Absent bowel sounds: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Effortless (non-bilious, passive) vomiting, absolute constipation, abdominal distension, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe abdominal pain.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Effortless vomiting: صحيحة، لكنها ليست الاستثناء. الخيار B، Absolute constipation: صحيحة، لكنها ليست الاستثناء. الخيار C، Abdominal distension: صحيحة، لكنها ليست الاستثناء. الخيار E، Absent bowel sounds: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Paralytic ileus: Isn't the Painful kind of obs"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Severe abdominal pain. شلل الأمعاء يترافق بانزعاج خفيف لا ألمًا شديدًا كالانسداد الميكانيكي."
+      "narration": "الخيار D، Severe abdominal pain هو الإجابة الصحيحة. شلل الأمعاء يترافق بانزعاج خفيف لا ألمًا شديدًا كالانسداد الميكانيكي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. شلل الأمعاء يترافق بانزعاج خفيف لا ألمًا شديدًا كالانسداد الميكانيكي. وتذكّر القاعدة: Paralytic ileus: Isn't the Painful kind of obstruction. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. شلل الأمعاء يترافق بانزعاج خفيف لا ألمًا شديدًا كالانسداد الميكانيكي. وتذكّر: Paralytic ileus: Isn't the Painful kind of obstruction. والإجابة الصحيحة هي D."
     }
   ]
 }

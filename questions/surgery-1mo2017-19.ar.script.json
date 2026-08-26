@@ -41,7 +41,7 @@
         "region": "chest",
         "label": "Propranolol"
       },
-      "narration": "لنبدأ بهذا السؤال. أفضل علاج أولي لعاصفة الغدة الدرقية هو؟ (سؤال مكرر، راجع السؤال رقم 254) أمامك هذه الخيارات: Dantrolene، أو Propranolol، أو Emergency thyroidectomy، أو Steroids. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أفضل علاج أولي لعاصفة الغدة الدرقية هو؟ (سؤال مكرر، راجع السؤال رقم 254) أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Dantrolene: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Propranolol. يصبح صحيحًا في سؤال يصف Dantrolene treats malignant hyperthermia. الخيار C، Emergency thyroidectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Propranolol. يصبح صحيحًا في سؤال يصف emergency thyroidectomy is far too drastic during an acute crisis. الخيار D، Steroids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Propranolol. يصبح صحيحًا في سؤال يصف steroids are adjunctive — beta-blockade with propranolol is the best initial treatment for the severe adrenergic symptoms of thyroid storm.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Dantrolene: الإجابة الصحيحة هي Propranolol. الخيار C، Emergency thyroidectomy: الإجابة الصحيحة هي Propranolol. الخيار D، Steroids: الإجابة الصحيحة هي Propranolol. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Thyroid storm: Propranolol Provides fastest co"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Propranolol. البروبرانولول يسيطر بسرعة على أعراض عاصفة الدرقية قبل الأدوية الأبطأ."
+      "narration": "الخيار B، Propranolol هو الإجابة الصحيحة. البروبرانولول يسيطر بسرعة على أعراض عاصفة الدرقية قبل الأدوية الأبطأ."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البروبرانولول يسيطر بسرعة على أعراض عاصفة الدرقية قبل الأدوية الأبطأ. وتذكّر القاعدة: Thyroid storm: Propranolol Provides fastest control. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. البروبرانولول يسيطر بسرعة على أعراض عاصفة الدرقية قبل الأدوية الأبطأ. وتذكّر: Thyroid storm: Propranolol Provides fastest control. والإجابة الصحيحة هي B."
     }
   ]
 }

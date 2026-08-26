@@ -45,7 +45,7 @@
         "label": "Urea breath test",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أفضل اختبار لتأكيد القضاء على جرثومة المعدة بعد العلاج هو:؟ أمامك هذه الخيارات: H pylori serology، أو Urea breath test، أو Histologic biopsy، أو Rapid urease test، أو Antral mucosal biopsy and culture. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أفضل اختبار لتأكيد القضاء على جرثومة المعدة بعد العلاج هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، H pylori serology: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف Serology remains positive long after eradication (reflects past exposure, not current status). الخيار C، Histologic biopsy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف histologic biopsy and antral biopsy/culture are invasive. الخيار D، Rapid urease test: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف rapid urease test can have false negatives, especially with recent PPI/antibiotic use — the urea breath test is the preferred non-invasive test to confirm eradication. الخيار E، Antral mucosal biopsy and culture: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urea breath test. يصبح صحيحًا في سؤال يصف histologic biopsy and antral biopsy/culture are invasive.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، H pylori serology: الإجابة الصحيحة هي Urea breath test. الخيار C، Histologic biopsy: الإجابة الصحيحة هي Urea breath test. الخيار D، Rapid urease test: الإجابة الصحيحة هي Urea breath test. الخيار E: الإجابة الصحيحة هي Urea breath test. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "H. pylori eradication check: Urea breath test"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Urea breath test. اختبار اليوريا بالتنفس هو الفحص الأفضل لتأكيد استئصال الملوية البوابية."
+      "narration": "الخيار B، Urea breath test هو الإجابة الصحيحة. اختبار اليوريا بالتنفس هو الفحص الأفضل لتأكيد استئصال الملوية البوابية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اختبار اليوريا بالتنفس هو الفحص الأفضل لتأكيد استئصال الملوية البوابية. وتذكّر القاعدة: H. pylori eradication check: Urea breath test. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. اختبار اليوريا بالتنفس هو الفحص الأفضل لتأكيد استئصال الملوية البوابية. وتذكّر: H. pylori eradication check: Urea breath test. والإجابة الصحيحة هي B."
     }
   ]
 }

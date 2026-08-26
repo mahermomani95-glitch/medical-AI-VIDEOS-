@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Paralysis"
       },
-      "narration": "لنبدأ بهذا السؤال. العلامة التحذيرية الأكثر شيوعًا لنقص تروية الأطراف الحاد المتقدم هي أمامك هذه الخيارات: Severe Pain، أو Palor، أو Weak distal pulse، أو Audible venous flow، أو Paralysis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلامة التحذيرية الأكثر شيوعًا لنقص تروية الأطراف الحاد المتقدم هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Severe Pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Paralysis. يصبح صحيحًا في سؤال يصف Severe pain, pallor, and weak distal pulse are all earlier warning signs of advancing limb ischemia, unlike paralysis which signals the most advanced, most urgent stage. الخيار B، Palor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Paralysis. يصبح صحيحًا في سؤال يصف Severe pain, pallor, and weak distal pulse are all earlier warning signs of advancing limb ischemia, unlike paralysis which signals the most advanced, most urgent stage. الخيار C، Weak distal pulse: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Paralysis. يصبح صحيحًا في سؤال يصف Severe pain, pallor, and weak distal pulse are all earlier warning signs of advancing limb ischemia, unlike paralysis which signals the most advanced, most urgent stage. الخيار D، Audible venous flow: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Paralysis. يصبح صحيحًا في سؤال يصف audible venous flow isn't a standard ischemia sign at all.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Severe Pain: الإجابة الصحيحة هي Paralysis. الخيار B، Palor: الإجابة الصحيحة هي Paralysis. الخيار C، Weak distal pulse: الإجابة الصحيحة هي Paralysis. الخيار D، Audible venous flow: الإجابة الصحيحة هي Paralysis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"6 P's: Paralysis = late, severe ischemia warn"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Paralysis. الشلل يعني أن الأعصاب فقدت بالفعل ما يكفي من التروية الدموية لتتوقف عن العمل — علامة متأخرة ومنذرة لنقص تروية شديد."
+      "narration": "الخيار E، Paralysis هو الإجابة الصحيحة. الشلل يعني أن الأعصاب فقدت بالفعل ما يكفي من التروية الدموية لتتوقف عن العمل — علامة متأخرة ومنذرة لنقص تروية شديد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشلل يعني أن الأعصاب فقدت بالفعل ما يكفي من التروية الدموية لتتوقف عن العمل — علامة متأخرة ومنذرة لنقص تروية شديد. وتذكّر القاعدة: \"6 P's: Paralysis = late, severe ischemia warning\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الشلل يعني أن الأعصاب فقدت بالفعل ما يكفي من التروية الدموية لتتوقف عن العمل — علامة متأخرة ومنذرة لنقص تروية شديد. وتذكّر: \"6 P's: Paralysis = late, severe ischemia warning\". والإجابة الصحيحة هي E."
     }
   ]
 }

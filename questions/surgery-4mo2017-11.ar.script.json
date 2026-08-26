@@ -45,7 +45,7 @@
         "label": "Sodium 131 mmol/L",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية صحيح فيما يتعلق بتركيز الإلكتروليت في محلول هارتمان؟ أمامك هذه الخيارات: Chloride 200 mmol/L، أو Lactate 70 mmol/L، أو Sodium 131 mmol/L، أو Potassium 40 mmol /L، أو Calcium 15 mmol/L. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية صحيح فيما يتعلق بتركيز الإلكتروليت في محلول هارتمان؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Chloride 200 mmol/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sodium 131 mmol/L. يصبح صحيحًا في سؤال يصف 200 mmol/L chloride, 70 mmol/L lactate, 40 mmol/L potassium, and 15 mmol/L calcium all overstate the true concentrations — Hartmann's solution contains approximately 131 mmol/L sodium, matching option C. الخيار B، Lactate 70 mmol/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sodium 131 mmol/L. يصبح صحيحًا في سؤال يصف 200 mmol/L chloride, 70 mmol/L lactate, 40 mmol/L potassium, and 15 mmol/L calcium all overstate the true concentrations — Hartmann's solution contains approximately 131 mmol/L sodium, matching option C. الخيار D، Potassium 40 mmol /L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sodium 131 mmol/L. يصبح صحيحًا في سؤال يصف 200 mmol/L chloride, 70 mmol/L lactate, 40 mmol/L potassium, and 15 mmol/L calcium all overstate the true concentrations — Hartmann's solution contains approximately 131 mmol/L sodium, matching option C. الخيار E، Calcium 15 mmol/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sodium 131 mmol/L. يصبح صحيحًا في سؤال يصف 200 mmol/L chloride, 70 mmol/L lactate, 40 mmol/L potassium, and 15 mmol/L calcium all overstate the true concentrations — Hartmann's solution contains approximately 131 mmol/L sodium, matching option C.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Chloride 200 mmol/L: الإجابة الصحيحة هي Sodium 131 mmol/L. الخيار B، Lactate 70 mmol/L: الإجابة الصحيحة هي Sodium 131 mmol/L. الخيار D، Potassium 40 mmol /L: الإجابة الصحيحة هي Sodium 131 mmol/L. الخيار E، Calcium 15 mmol/L: الإجابة الصحيحة هي Sodium 131 mmol/L. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Hartmann's solution: Sodium at One-thirty-one"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Sodium 131 mmol/L. محلول هارتمان يحتوي صوديومًا بتركيز 131، أقل من المحلول الملحي الطبيعي."
+      "narration": "الخيار C، Sodium 131 mmol/L هو الإجابة الصحيحة. محلول هارتمان يحتوي صوديومًا بتركيز 131، أقل من المحلول الملحي الطبيعي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. محلول هارتمان يحتوي صوديومًا بتركيز 131، أقل من المحلول الملحي الطبيعي. وتذكّر القاعدة: Hartmann's solution: Sodium at One-thirty-one. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. محلول هارتمان يحتوي صوديومًا بتركيز 131، أقل من المحلول الملحي الطبيعي. وتذكّر: Hartmann's solution: Sodium at One-thirty-one. والإجابة الصحيحة هي C."
     }
   ]
 }

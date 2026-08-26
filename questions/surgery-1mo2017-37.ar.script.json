@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anorexia, abdominal pain, RLQ tenderness"
       },
-      "narration": "لنبدأ بهذا السؤال. يرتبط التهاب الزائدة الدودية الحاد عادةً بأي من العلامات التالية؟ أمامك هذه الخيارات: Temperature above 40 Celsius، أو Frequent loose stools، أو Anorexia, abdominal pain, RLQ tenderness، أو WBC count > 20.000 per cu ml، أو None of above. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يرتبط التهاب الزائدة الدودية الحاد عادةً بأي من العلامات التالية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Temperature above 40 Celsius: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the usual presentation. يصبح صحيحًا في سؤال يصف A fever above 40°C is atypical and would suggest a complication like abscess/perforation. الخيار B، Frequent loose stools: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classic. يصبح صحيحًا في سؤال يصف frequent loose stools. الخيار D، WBC count > 20.000 per cu ml: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the typical uncomplicated presentation — anorexia with abdominal pain and RLQ tenderness remains the classic, most commonly associated sign complex. يصبح صحيحًا في سؤال يصف WBC over 20,000 suggests perforation/abscess. الخيار E، None of above: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anorexia, abdominal pain, RLQ tenderness. يصبح صحيحًا في سؤال يستهدف None of above تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Temperature above 40 Celsius: المطلوب هنا the usual presentation. الخيار B، Frequent loose stools: المطلوب هنا classic. الخيار D: لا ينطبق على هذه الحالة. الخيار E، None of above: الإجابة الصحيحة هي Anorexia, abdominal pain, RLQ tenderness. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Appendicitis triad: Anorexia, Abdominal pain, "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Anorexia, abdominal pain, RLQ tenderness. ثلاثية فقدان الشهية والألم البطني وتحسس الحفرة الحرقفية توقّع على التهاب الزائدة."
+      "narration": "الخيار C هو الإجابة الصحيحة. ثلاثية فقدان الشهية والألم البطني وتحسس الحفرة الحرقفية توقّع على التهاب الزائدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ثلاثية فقدان الشهية والألم البطني وتحسس الحفرة الحرقفية توقّع على التهاب الزائدة. وتذكّر القاعدة: Appendicitis triad: Anorexia, Abdominal pain, RLQ tenderness. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ثلاثية فقدان الشهية والألم البطني وتحسس الحفرة الحرقفية توقّع على التهاب الزائدة. وتذكّر: Appendicitis triad: Anorexia, Abdominal pain, RLQ tenderness. والإجابة الصحيحة هي C."
     }
   ]
 }

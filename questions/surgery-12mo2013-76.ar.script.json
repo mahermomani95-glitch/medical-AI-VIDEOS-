@@ -45,7 +45,7 @@
         "region": "head",
         "label": "If it is painless"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو مؤشرات لاستئصال الغدة الدرقية في حالة وجود كيس في الغدةالدرقية باستثناء؟ أمامك هذه الخيارات: Failure to do complete aspiration، أو Large cyst > 4 cm، أو Complex cyst (solid _ cystic)، أو Recurrence after frequent aspirations، أو If it is painless. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو مؤشرات لاستئصال الغدة الدرقية في حالة وجود كيس في الغدةالدرقية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Failure to do complete aspiration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless. الخيار B، Large cyst > 4 cm: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless. الخيار C، Complex cyst (solid _ cystic): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless. الخيار D، Recurrence after frequent aspirations: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Failed complete aspiration, large cyst size over 4cm, complex solid-cystic composition, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو If it is painless.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Recurrence after frequent aspirations: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Painless cyst: Poses no Automatic surgical ind"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: If it is painless. غياب الألم وحده بالكيسة الدرقية ليس مؤشرًا كافيًا للاستئصال."
+      "narration": "الخيار E، If it is painless هو الإجابة الصحيحة. غياب الألم وحده بالكيسة الدرقية ليس مؤشرًا كافيًا للاستئصال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. غياب الألم وحده بالكيسة الدرقية ليس مؤشرًا كافيًا للاستئصال. وتذكّر القاعدة: Painless cyst: Poses no Automatic surgical indication. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. غياب الألم وحده بالكيسة الدرقية ليس مؤشرًا كافيًا للاستئصال. وتذكّر: Painless cyst: Poses no Automatic surgical indication. والإجابة الصحيحة هي E."
     }
   ]
 }

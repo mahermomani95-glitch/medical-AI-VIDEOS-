@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "The most common site for metastasis is the liver"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: The most common site for metastasis is the liver، أو The most common type is invasive ductal carcinoma، أو Inflammatory breast cancer has the worst prognosis، أو lymph node metastasis is an important risk facor. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، The most common type is invasive ductal carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver. الخيار C، Inflammatory breast cancer has the worst prognosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver. الخيار D، lymph node metastasis is an important risk facor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, inflammatory breast cancer's poor… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The most common site for metastasis is the liver.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Breast cancer metastasizes to BONE most commo"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: The most common site for metastasis is the liver. العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى."
+      "narration": "الخيار A هو الإجابة الصحيحة. العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى. وتذكّر القاعدة: \"Breast cancer metastasizes to BONE most commonly\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. العظم، وليس الكبد، هو الموقع الأشيع لانتشار سرطان الثدي — فرق يُختبَر كثيرًا مقارنة بسرطانات أخرى. وتذكّر: \"Breast cancer metastasizes to BONE most commonly\". والإجابة الصحيحة هي A."
     }
   ]
 }

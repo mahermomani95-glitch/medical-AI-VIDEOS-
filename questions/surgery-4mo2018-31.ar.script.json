@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Exploratory laparotomy"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 26 عامًا تعرضت لحادث سير خطير. ضغط دمها 80/40،ومعدل ضربات قلبها 120، وتعاني من تصلب وانتفاخ في البطن. أعطيتهامحلول رينجر لاكتات سعة لترين، ثم بدأت بنقل الدم، ومع ذلك، لا تزال تعانيمن انخفاض ضغط الدم، والخطوة التالية الأنسب هي: أمامك هذه الخيارات: Abdomen CT scan، أو Abdomen angiography، أو Diagnostic peritoneal lavage or FAST، أو Exploratory laparotomy، أو Abdomen X_Ray. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 26 عامًا تعرضت لحادث سير خطير. ضغط دمها 80/40،ومعدل ضربات قلبها 120، وتعاني من تصلب وانتفاخ في البطن. أعطيتهامحلول رينجر لاكتات سعة لترين، ثم بدأت بنقل الدم، ومع ذلك، لا تزال تعانيمن انخفاض ضغط الدم، والخطوة التالية الأنسب هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Abdomen CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient. الخيار B، Abdomen angiography: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient. الخيار C، Diagnostic peritoneal lavage or FAST: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا further workup. يصبح صحيحًا في سؤال يصف DPL/FAST can be useful in unstable patients but here the clinical picture already mandates immediate laparotomy. الخيار E، Abdomen X_Ray: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have. يصبح صحيحًا في سؤال يصف Abdominal CT scan, angiography, and X-ray all require time and relative hemodynamic stability that this unstable patient.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Abdomen CT scan: المطلوب هنا have. الخيار B، Abdomen angiography: المطلوب هنا have. الخيار C: المطلوب هنا further workup. الخيار E، Abdomen X_Ray: المطلوب هنا have. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Unstable + rigid = OR, not radiology\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Exploratory laparotomy. عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات."
+      "narration": "الخيار D، Exploratory laparotomy هو الإجابة الصحيحة. عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات. وتذكّر القاعدة: \"Unstable + rigid = OR, not radiology\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. عدم استقرار الضغط رغم الإنعاش مع بطن متصلب يعني التوقف عن التصوير والتوجه مباشرة لغرفة العمليات. وتذكّر: \"Unstable + rigid = OR, not radiology\". والإجابة الصحيحة هي D."
     }
   ]
 }

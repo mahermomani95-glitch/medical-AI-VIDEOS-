@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Fibrocystic disease"
       },
-      "narration": "لنبدأ بهذا السؤال. ما هي أكثر حالات الثدي شيوعًا التي يمكن أن تعاني منها المرأة في منتصفالعمر من بين الحالات التالية؟ أمامك هذه الخيارات: Breast cancer، أو Fibroadenoma، أو Fibrocystic disease، أو Ductectasia، أو Lipoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ما هي أكثر حالات الثدي شيوعًا التي يمكن أن تعاني منها المرأة في منتصفالعمر من بين الحالات التالية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fibrocystic disease. يصبح صحيحًا في سؤال يصف Breast cancer, fibroadenoma, ductectasia, and lipoma are all breast conditions but less common overall in middle-aged women than fibrocystic disease, which is the most common benign breast condition in this age group. الخيار B، Fibroadenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fibrocystic disease. يصبح صحيحًا في سؤال يصف Breast cancer, fibroadenoma, ductectasia, and lipoma are all breast conditions but less common overall in middle-aged women than fibrocystic disease, which is the most common benign breast condition in this age group. الخيار D، Ductectasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fibrocystic disease. يصبح صحيحًا في سؤال يصف Breast cancer, fibroadenoma, ductectasia, and lipoma are all breast conditions but less common overall in middle-aged women than fibrocystic disease, which is the most common benign breast condition in this age group. الخيار E، Lipoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fibrocystic disease. يصبح صحيحًا في سؤال يصف Breast cancer, fibroadenoma, ductectasia, and lipoma are all breast conditions but less common overall in middle-aged women than fibrocystic disease, which is the most common benign breast condition in this age group.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Breast cancer: الإجابة الصحيحة هي Fibrocystic disease. الخيار B، Fibroadenoma: الإجابة الصحيحة هي Fibrocystic disease. الخيار D، Ductectasia: الإجابة الصحيحة هي Fibrocystic disease. الخيار E، Lipoma: الإجابة الصحيحة هي Fibrocystic disease. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Middle-aged breast condition: mostly Fibrocyst"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Fibrocystic disease. المرض الليفي الكيسي هو الحالة الثديية الأشيع عند المرأة متوسطة العمر."
+      "narration": "الخيار C، Fibrocystic disease هو الإجابة الصحيحة. المرض الليفي الكيسي هو الحالة الثديية الأشيع عند المرأة متوسطة العمر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المرض الليفي الكيسي هو الحالة الثديية الأشيع عند المرأة متوسطة العمر. وتذكّر القاعدة: Middle-aged breast condition: mostly Fibrocystic disease. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. المرض الليفي الكيسي هو الحالة الثديية الأشيع عند المرأة متوسطة العمر. وتذكّر: Middle-aged breast condition: mostly Fibrocystic disease. والإجابة الصحيحة هي C."
     }
   ]
 }

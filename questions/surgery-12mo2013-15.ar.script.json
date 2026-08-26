@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Metastasis"
       },
-      "narration": "لنبدأ بهذا السؤال. الورم الدماغي الأكثر شيوعاً لدى البالغين هو؟ أمامك هذه الخيارات: Glioblastoma multiforme، أو Medulloblastoma، أو Meningioma، أو Pituitary tumors، أو Metastasis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الورم الدماغي الأكثر شيوعاً لدى البالغين هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Glioblastoma multiforme: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis. يصبح صحيحًا في سؤال يصف Glioblastoma multiforme, meningioma, and pituitary tumors are common primary brain tumors, and medulloblastoma is more typical in children — but metastatic tumors are actually the most common brain tumors overall in adults. الخيار B، Medulloblastoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis. يصبح صحيحًا في سؤال يصف Glioblastoma multiforme, meningioma, and pituitary tumors are common primary brain tumors, and medulloblastoma is more typical in children — but metastatic tumors are actually the most common brain tumors overall in adults. الخيار C، Meningioma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis. يصبح صحيحًا في سؤال يصف Glioblastoma multiforme, meningioma, and pituitary tumors are common primary brain tumors, and medulloblastoma is more typical in children — but metastatic tumors are actually the most common brain tumors overall in adults. الخيار D، Pituitary tumors: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis. يصبح صحيحًا في سؤال يصف Glioblastoma multiforme, meningioma, and pituitary tumors are common primary brain tumors, and medulloblastoma is more typical in children — but metastatic tumors are actually the most common brain tumors overall in adults.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Glioblastoma multiforme: الإجابة الصحيحة هي Metastasis. الخيار B، Medulloblastoma: الإجابة الصحيحة هي Metastasis. الخيار C، Meningioma: الإجابة الصحيحة هي Metastasis. الخيار D، Pituitary tumors: الإجابة الصحيحة هي Metastasis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Adult brain tumor: mostly Metastasis"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Metastasis. الأورام النقيلية هي الأشيع بين أورام الدماغ عند البالغين إجمالاً."
+      "narration": "الخيار E، Metastasis هو الإجابة الصحيحة. الأورام النقيلية هي الأشيع بين أورام الدماغ عند البالغين إجمالاً."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأورام النقيلية هي الأشيع بين أورام الدماغ عند البالغين إجمالاً. وتذكّر القاعدة: Adult brain tumor: mostly Metastasis. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الأورام النقيلية هي الأشيع بين أورام الدماغ عند البالغين إجمالاً. وتذكّر: Adult brain tumor: mostly Metastasis. والإجابة الصحيحة هي E."
     }
   ]
 }

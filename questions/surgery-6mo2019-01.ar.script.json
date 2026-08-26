@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Amylase and lipase can be used to predict the…"
       },
-      "narration": "لنبدأ بهذا السؤال. ليس صحيحا أن هناك شيء واحد صحيح بشأن التهاب البنكرياس أمامك هذه الخيارات: Pancreatic necrosis is often seen on CT and might result in pancreatic Failure، أو Most of the mortality due to systemic effect، أو Choledocholithiasis may cause pancreatitis، أو Amylase and lipase can be used to predict the prognosis، أو Pleural effusion could be a complication of acute pancreatitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ليس صحيحا أن هناك شيء واحد صحيح بشأن التهاب البنكرياس أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pancreatic necrosis is often seen on CT and might result in pancreatic Failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis. الخيار B، Most of the mortality due to systemic effect: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis. الخيار C، Choledocholithiasis may cause pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis. الخيار E، Pleural effusion could be a complication of acute pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pancreatic necrosis on CT leading to pancreatic failure, systemic effects driving most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Amylase and lipase can be used to predict the prognosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C، Choledocholithiasis may cause pancreatitis: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Amylase/lipase confirm, don't predict\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Amylase and lipase can be used to predict the prognosis. الأميليز والليباز يؤكدان التشخيص لكن مستواهما لا يتنبأ بالشدة أو الإنذار — هذه مهمة أنظمة التسجيل الإنذارية."
+      "narration": "الخيار D هو الإجابة الصحيحة. الأميليز والليباز يؤكدان التشخيص لكن مستواهما لا يتنبأ بالشدة أو الإنذار — هذه مهمة أنظمة التسجيل الإنذارية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأميليز والليباز يؤكدان التشخيص لكن مستواهما لا يتنبأ بالشدة أو الإنذار — هذه مهمة أنظمة التسجيل الإنذارية. وتذكّر القاعدة: \"Amylase/lipase confirm, don't predict\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الأميليز والليباز يؤكدان التشخيص لكن مستواهما لا يتنبأ بالشدة أو الإنذار — هذه مهمة أنظمة التسجيل الإنذارية. وتذكّر: \"Amylase/lipase confirm, don't predict\". والإجابة الصحيحة هي D."
     }
   ]
 }

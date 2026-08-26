@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Open is always better and safer than laparoscopic…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل التالية عن الفتق صحيحة باستثناء:؟ أمامك هذه الخيارات: Inguinal hernia is the most common hernia in both females and males، أو Femoral hernias are more common in females than males، أو Morbidity is increased after emergency compared with elective repair of hernia، أو Straining during micturition increases the risk for hernia formation، أو Open is always better and safer than laparoscopic approach for hernia repair. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل التالية عن الفتق صحيحة باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Inguinal hernia is the most common hernia in both females and males: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Inguinal hernia being most common overall in both sexes, femoral hernia's female predominance… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Open is always better and safer than laparoscopic approach for hernia repair. الخيار B، Femoral hernias are more common in females than males: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Inguinal hernia being most common overall in both sexes, femoral hernia's female predominance… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Open is always better and safer than laparoscopic approach for hernia repair. الخيار C، Morbidity is increased after emergency compared with elective repair of hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Inguinal hernia being most common overall in both sexes, femoral hernia's female predominance… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Open is always better and safer than laparoscopic approach for hernia repair. الخيار D، Straining during micturition increases the risk for hernia formation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Inguinal hernia being most common overall in both sexes, femoral hernia's female predominance… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Open is always better and safer than laparoscopic approach for hernia repair.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hernia repair approach: Assessed per case, not"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Open is always better and safer than laparoscopic approach for hernia repair. لا يوجد تفوق مطلق ثابت بين الإصلاح المفتوح والمنظاري، يعتمد على الحالة."
+      "narration": "الخيار E هو الإجابة الصحيحة. لا يوجد تفوق مطلق ثابت بين الإصلاح المفتوح والمنظاري، يعتمد على الحالة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. لا يوجد تفوق مطلق ثابت بين الإصلاح المفتوح والمنظاري، يعتمد على الحالة. وتذكّر القاعدة: Hernia repair approach: Assessed per case, not Always open. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. لا يوجد تفوق مطلق ثابت بين الإصلاح المفتوح والمنظاري، يعتمد على الحالة. وتذكّر: Hernia repair approach: Assessed per case, not Always open. والإجابة الصحيحة هي E."
     }
   ]
 }

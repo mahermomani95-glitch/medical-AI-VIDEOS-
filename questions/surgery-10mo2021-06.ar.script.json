@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Immediately before the operation"
       },
-      "narration": "لنبدأ بهذا السؤال. ما هو الوقت المناسب لبدء إعطاء المضادات الحيوية الوقائية لجراحة البطن؟ أمامك هذه الخيارات: One day before surgery and to be continued for 3 days، أو Two days before the operation، أو Immediately before the operation، أو As the incision is being made، أو After closure of the abdomen. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ما هو الوقت المناسب لبدء إعطاء المضادات الحيوية الوقائية لجراحة البطن؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، One day before surgery and to be continued for 3 days: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation. يصبح صحيحًا في سؤال يصف Extending antibiotics before and after surgery is unnecessarily prolonged for routine prophylaxis. الخيار B، Two days before the operation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation. يصبح صحيحًا في سؤال يصف giving them 2 days before allows drug levels to decline before incision. الخيار D، As the incision is being made: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا allow time to reach peak tissue levels. يصبح صحيحًا في سؤال يصف during incision. الخيار E، After closure of the abdomen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediately before the operation. يصبح صحيحًا في سؤال يصف after abdominal closure is far too late — immediately before the operation achieves correct timing.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Immediately before the operation. الخيار B: الإجابة الصحيحة هي Immediately before the operation. الخيار D: لا ينطبق على هذه الحالة. الخيار E: الإجابة الصحيحة هي Immediately before the operation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Prophylactic antibiotics: immediately before "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Immediately before the operation. إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا."
+      "narration": "الخيار C، Immediately before the operation هو الإجابة الصحيحة. إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا. وتذكّر القاعدة: \"Prophylactic antibiotics: immediately before incision\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. إعطاء المضاد الحيوي مباشرة قبل العملية يضمن أعلى تركيز نسيجي عند لحظة الشق تحديدًا. وتذكّر: \"Prophylactic antibiotics: immediately before incision\". والإجابة الصحيحة هي C."
     }
   ]
 }

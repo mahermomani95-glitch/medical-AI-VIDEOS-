@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Duration of disease"
       },
-      "narration": "لنبدأ بهذا السؤال. تحول التهاب القولون التقرحي إلى خباثة مرتبط بـ؟ أمامك هذه الخيارات: Activity of disease، أو Race of the patients، أو Immunity of the patients، أو Duration of disease، أو Drugs administration. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تحول التهاب القولون التقرحي إلى خباثة مرتبط بـ؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Activity of disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Duration of disease. يصبح صحيحًا في سؤال يصف Activity of disease, race, immunity, and drug administration have weaker or inconsistent associations with UC-related colorectal cancer risk — duration of disease is the best-established risk factor, with risk rising notably after about 8-10 years of colitis. الخيار B، Race of the patients: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Duration of disease. يصبح صحيحًا في سؤال يصف Activity of disease, race, immunity, and drug administration have weaker or inconsistent associations with UC-related colorectal cancer risk — duration of disease is the best-established risk factor, with risk rising notably after about 8-10 years of colitis. الخيار C، Immunity of the patients: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Duration of disease. يصبح صحيحًا في سؤال يصف Activity of disease, race, immunity, and drug administration have weaker or inconsistent associations with UC-related colorectal cancer risk — duration of disease is the best-established risk factor, with risk rising notably after about 8-10 years of colitis. الخيار E، Drugs administration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Duration of disease. يصبح صحيحًا في سؤال يصف Activity of disease, race, immunity, and drug administration have weaker or inconsistent associations with UC-related colorectal cancer risk — duration of disease is the best-established risk factor, with risk rising notably after about 8-10 years of colitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Activity of disease: الإجابة الصحيحة هي Duration of disease. الخيار B، Race of the patients: الإجابة الصحيحة هي Duration of disease. الخيار C، Immunity of the patients: الإجابة الصحيحة هي Duration of disease. الخيار E، Drugs administration: الإجابة الصحيحة هي Duration of disease. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "UC malignancy risk: Determined by Duration"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Duration of disease. مدة الإصابة بالتهاب القولون التقرحي هي العامل الأهم لخطر التحول الخبيث."
+      "narration": "الخيار D، Duration of disease هو الإجابة الصحيحة. مدة الإصابة بالتهاب القولون التقرحي هي العامل الأهم لخطر التحول الخبيث."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مدة الإصابة بالتهاب القولون التقرحي هي العامل الأهم لخطر التحول الخبيث. وتذكّر القاعدة: UC malignancy risk: Determined by Duration. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. مدة الإصابة بالتهاب القولون التقرحي هي العامل الأهم لخطر التحول الخبيث. وتذكّر: UC malignancy risk: Determined by Duration. والإجابة الصحيحة هي D."
     }
   ]
 }

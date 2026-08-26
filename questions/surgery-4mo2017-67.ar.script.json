@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Rodent ulcer"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 84 عامًا يعاني من قرحة صغيرة على جسر أنفه. استمرتالقرحة لعدة أشهر. عند الفحص، كانت حوافها بيضاء لؤلؤية. نوع القرحة هو:؟ أمامك هذه الخيارات: Curling ulcer، أو Cushing ulcer، أو Marjolin ulcer، أو Rodent ulcer، أو Venous ulcer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 84 عامًا يعاني من قرحة صغيرة على جسر أنفه. استمرتالقرحة لعدة أشهر. عند الفحص، كانت حوافها بيضاء لؤلؤية. نوع القرحة هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Curling ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rodent ulcer. يصبح صحيحًا في سؤال يصف Curling's ulcer is a stress ulcer related to burns. الخيار B، Cushing ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rodent ulcer. يصبح صحيحًا في سؤال يصف Cushing's ulcer relates to CNS injury. الخيار C، Marjolin ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rodent ulcer. يصبح صحيحًا في سؤال يصف Marjolin's ulcer arises from chronic wounds/scars, typically as SCC. الخيار E، Venous ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Rodent ulcer. يصبح صحيحًا في سؤال يصف venous ulcer occurs on the lower leg near the medial malleolus — a longstanding, slowly growing ulcer on the nose in an elderly patient is the classic presentation of a rodent ulcer (a form of basal cell carcinoma).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Curling ulcer: الإجابة الصحيحة هي Rodent ulcer. الخيار B، Cushing ulcer: الإجابة الصحيحة هي Rodent ulcer. الخيار C، Marjolin ulcer: الإجابة الصحيحة هي Rodent ulcer. الخيار E، Venous ulcer: الإجابة الصحيحة هي Rodent ulcer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Slow, long-standing nose ulcer: Rodent ulcer"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Rodent ulcer. القرحة القارضة توقيع كلاسيكي للسرطان القاعدي الخلايا الجلدي."
+      "narration": "الخيار D، Rodent ulcer هو الإجابة الصحيحة. القرحة القارضة توقيع كلاسيكي للسرطان القاعدي الخلايا الجلدي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القرحة القارضة توقيع كلاسيكي للسرطان القاعدي الخلايا الجلدي. وتذكّر القاعدة: Slow, long-standing nose ulcer: Rodent ulcer. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. القرحة القارضة توقيع كلاسيكي للسرطان القاعدي الخلايا الجلدي. وتذكّر: Slow, long-standing nose ulcer: Rodent ulcer. والإجابة الصحيحة هي D."
     }
   ]
 }

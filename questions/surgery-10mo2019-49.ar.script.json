@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "T4 level"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 50 عامًا حضرت إلى قسم الطوارئ كحالة طارئة. بالفحص السريري، وُجد أنها لا تشعر بأي إحساس أسفل خط الحلمة. منالمرجح أن يكون مستوى إصابة الحبل الشوكي أمامك هذه الخيارات: C4 level، أو C8 level، أو T1 level، أو T4 level، أو T10 level. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 50 عامًا حضرت إلى قسم الطوارئ كحالة طارئة. بالفحص السريري، وُجد أنها لا تشعر بأي إحساس أسفل خط الحلمة. منالمرجح أن يكون مستوى إصابة الحبل الشوكي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، C4 level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي T4 level. يصبح صحيحًا في سؤال يصف C4, C8, T1, and T10 don't match the correct T4 dermatome level that corresponds to the nipple line landmark. الخيار B، C8 level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي T4 level. يصبح صحيحًا في سؤال يصف C4, C8, T1, and T10 don't match the correct T4 dermatome level that corresponds to the nipple line landmark. الخيار C، T1 level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي T4 level. يصبح صحيحًا في سؤال يصف C4, C8, T1, and T10 don't match the correct T4 dermatome level that corresponds to the nipple line landmark. الخيار E، T10 level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي T4 level. يصبح صحيحًا في سؤال يصف C4, C8, T1, and T10 don't match the correct T4 dermatome level that corresponds to the nipple line landmark.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، C4 level: الإجابة الصحيحة هي T4 level. الخيار B، C8 level: الإجابة الصحيحة هي T4 level. الخيار C، T1 level: الإجابة الصحيحة هي T4 level. الخيار E، T10 level: الإجابة الصحيحة هي T4 level. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"T4 at the nipples\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: T4 level. خط الحلمة يقابل الدرماتوم T4 — معلم مهم لتحديد مستوى الإصابة النخاعية أثناء الفحص السريري."
+      "narration": "الخيار D، T4 level هو الإجابة الصحيحة. خط الحلمة يقابل الدرماتوم T4 — معلم مهم لتحديد مستوى الإصابة النخاعية أثناء الفحص السريري."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. خط الحلمة يقابل الدرماتوم T4 — معلم مهم لتحديد مستوى الإصابة النخاعية أثناء الفحص السريري. وتذكّر القاعدة: \"T4 at the nipples\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. خط الحلمة يقابل الدرماتوم T4 — معلم مهم لتحديد مستوى الإصابة النخاعية أثناء الفحص السريري. وتذكّر: \"T4 at the nipples\". والإجابة الصحيحة هي D."
     }
   ]
 }

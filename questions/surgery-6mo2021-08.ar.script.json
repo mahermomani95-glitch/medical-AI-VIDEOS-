@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "An important physical finding is positive Murphy's…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: The most common cause in Jordan is gallbladder stones، أو Diagnosis is based on the clinical manifestations and raised serum amylase levels، أو Can range from mild edematous form to severe necrotizing pancreatitis، أو One of the complications is formation of pseudocysts، أو An important physical finding is positive Murphy's sign. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، The most common cause in Jordan is gallbladder stones: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gallstones as the most common cause in Jordan, clinical diagnosis with elevated amylase, the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو An important physical finding is positive Murphy's sign. الخيار B، Diagnosis is based on the clinical manifestations and raised serum amylase levels: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gallstones as the most common cause in Jordan, clinical diagnosis with elevated amylase, the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو An important physical finding is positive Murphy's sign. الخيار C، Can range from mild edematous form to severe necrotizing pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gallstones as the most common cause in Jordan, clinical diagnosis with elevated amylase, the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو An important physical finding is positive Murphy's sign. الخيار D، One of the complications is formation of pseudocysts: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Gallstones as the most common cause in Jordan, clinical diagnosis with elevated amylase, the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو An important physical finding is positive Murphy's sign.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Murphy's sign = Gallbladder, not pancreas\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: An important physical finding is positive Murphy's sign. علامة ميرفي خاصة بأمراض المرارة (التهاب المرارة)، وليس البنكرياس."
+      "narration": "الخيار E هو الإجابة الصحيحة. علامة ميرفي خاصة بأمراض المرارة (التهاب المرارة)، وليس البنكرياس."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. علامة ميرفي خاصة بأمراض المرارة (التهاب المرارة)، وليس البنكرياس. وتذكّر القاعدة: \"Murphy's sign = Gallbladder, not pancreas\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. علامة ميرفي خاصة بأمراض المرارة (التهاب المرارة)، وليس البنكرياس. وتذكّر: \"Murphy's sign = Gallbladder, not pancreas\". والإجابة الصحيحة هي E."
     }
   ]
 }

@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Metronidazole"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم علاج الخراج الأميبي بشكل أفضل بـ؟ أمامك هذه الخيارات: Percutaneous drainage and antibiotics، أو Levofloxacin، أو Praziquantel، أو Metronidazole. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم علاج الخراج الأميبي بشكل أفضل بـ؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Percutaneous drainage and antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole. يصبح صحيحًا في سؤال يصف Percutaneous drainage with antibiotics is reserved for large or refractory abscesses. الخيار B، Levofloxacin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole. يصبح صحيحًا في سؤال يصف levofloxacin and praziquantel (C, used for other parasites like schistosomiasis/flukes) aren't the standard treatment — metronidazole is the first-line treatment for amoebic liver abscess. الخيار C، Praziquantel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metronidazole. يصبح صحيحًا في سؤال يصف levofloxacin and praziquantel (C, used for other parasites like schistosomiasis/flukes) aren't the standard treatment — metronidazole is the first-line treatment for amoebic liver abscess.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Percutaneous drainage and antibiotics: الإجابة الصحيحة هي Metronidazole. الخيار B، Levofloxacin: الإجابة الصحيحة هي Metronidazole. الخيار C، Praziquantel: الإجابة الصحيحة هي Metronidazole. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Amoebic abscess: treated with Metronidazole"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Metronidazole. الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي."
+      "narration": "الخيار D، Metronidazole هو الإجابة الصحيحة. الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي. وتذكّر القاعدة: Amoebic abscess: treated with Metronidazole. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الميترونيدازول هو العلاج الدوائي الأفضل للخراج الأميبي. وتذكّر: Amoebic abscess: treated with Metronidazole. والإجابة الصحيحة هي D."
     }
   ]
 }

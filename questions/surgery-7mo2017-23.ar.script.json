@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Oral polio vaccine"
       },
-      "narration": "لنبدأ بهذا السؤال. لا يمكن إعطاء أحد اللقاحات التالية للمريض الذي يعاني من ضعف المناعة؟ أمامك هذه الخيارات: Hepatitis B، أو DPT، أو Influenza vaccine، أو Inactivated polio vaccine، أو Oral polio vaccine. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. لا يمكن إعطاء أحد اللقاحات التالية للمريض الذي يعاني من ضعف المناعة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hepatitis B: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Oral polio vaccine. يصبح صحيحًا في سؤال يصف Hepatitis B, DPT, influenza vaccine (C, injectable inactivated form), and inactivated polio vaccine are all inactivated/subunit vaccines safe for immunocompromised patients, unlike oral polio vaccine, which is LIVE attenuated and contraindicated in immunocompromised hosts. الخيار B، DPT: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Oral polio vaccine. يصبح صحيحًا في سؤال يصف Hepatitis B, DPT, influenza vaccine (C, injectable inactivated form), and inactivated polio vaccine are all inactivated/subunit vaccines safe for immunocompromised patients, unlike oral polio vaccine, which is LIVE attenuated and contraindicated in immunocompromised hosts. الخيار C، Influenza vaccine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Oral polio vaccine. يصبح صحيحًا في سؤال يصف Hepatitis B, DPT, influenza vaccine (C, injectable inactivated form), and inactivated polio vaccine are all inactivated/subunit vaccines safe for immunocompromised patients, unlike oral polio vaccine, which is LIVE attenuated and contraindicated in immunocompromised hosts. الخيار D، Inactivated polio vaccine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Oral polio vaccine. يصبح صحيحًا في سؤال يصف Hepatitis B, DPT, influenza vaccine (C, injectable inactivated form), and inactivated polio vaccine are all inactivated/subunit vaccines safe for immunocompromised patients, unlike oral polio vaccine, which is LIVE attenuated and contraindicated in immunocompromised hosts.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hepatitis B: الإجابة الصحيحة هي Oral polio vaccine. الخيار B، DPT: الإجابة الصحيحة هي Oral polio vaccine. الخيار C، Influenza vaccine: الإجابة الصحيحة هي Oral polio vaccine. الخيار D، Inactivated polio vaccine: الإجابة الصحيحة هي Oral polio vaccine. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Immunocompromised: Avoid the live OPV"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Oral polio vaccine. لقاح شلل الأطفال الفموي الحي ممنوع عند ضعيفي المناعة."
+      "narration": "الخيار E، Oral polio vaccine هو الإجابة الصحيحة. لقاح شلل الأطفال الفموي الحي ممنوع عند ضعيفي المناعة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. لقاح شلل الأطفال الفموي الحي ممنوع عند ضعيفي المناعة. وتذكّر القاعدة: Immunocompromised: Avoid the live OPV. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. لقاح شلل الأطفال الفموي الحي ممنوع عند ضعيفي المناعة. وتذكّر: Immunocompromised: Avoid the live OPV. والإجابة الصحيحة هي E."
     }
   ]
 }

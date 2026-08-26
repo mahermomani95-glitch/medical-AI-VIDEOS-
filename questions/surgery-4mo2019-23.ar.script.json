@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "It frequently contains heterotopic tissue"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالسبب الأكثر شيوعًا للنزيف الغزير غير المؤلم في الجهاز الهضميالسفلي عند الأطفال الذين تقل أعمارهم عن عامين، فإن أحد الأسباب التاليةصحيح أمامك هذه الخيارات: It is a false diverticulum that includes all three coats of the small intestine، أو It is found 45-90 cm distal to the ileocecal valve، أو It frequently contains heterotopic tissue، أو It occurs in about 20% of the general population، أو Small-bowel obstruction is the most common complication in children. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالسبب الأكثر شيوعًا للنزيف الغزير غير المؤلم في الجهاز الهضميالسفلي عند الأطفال الذين تقل أعمارهم عن عامين، فإن أحد الأسباب التاليةصحيح أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a false diverticulum that includes all three coats of the small intestine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue. يصبح صحيحًا في سؤال يصف Being a true (not false) diverticulum with all three bowel wall layers. الخيار B، It is found 45-90 cm distal to the ileocecal valve: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 45-90cm, from the ileocecal valve. يصبح صحيحًا في سؤال يصف found about 60cm (2 feet). الخيار D، It occurs in about 20% of the general population: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue. يصبح صحيحًا في سؤال يصف occurring in about 2% (not 20%) of the population. الخيار E، Small-bowel obstruction is the most common complication in children: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It frequently contains heterotopic tissue. يصبح صحيحًا في سؤال يصف bleeding (not obstruction) being the most common complication in children specifically — all these misstate the 'Rule of 2's' facts.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي It frequently contains heterotopic tissue. الخيار B: المطلوب هنا 45-90cm, from the ileocecal valve. الخيار D: الإجابة الصحيحة هي It frequently contains heterotopic tissue. الخيار E: الإجابة الصحيحة هي It frequently contains heterotopic tissue. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Rule of 2's: Meckel's diverticulum\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: It frequently contains heterotopic tissue. رتج حقيقي يحتوي على طبقات جدار الأمعاء الثلاث، وغالبًا يحمل نسيجًا معديًا أو بنكرياسيًا هاجرًا — هذا هو رتج ميكل، والنسيج الهاجر هو ما ينزف فعليًا."
+      "narration": "الخيار C هو الإجابة الصحيحة. رتج حقيقي يحتوي على طبقات جدار الأمعاء الثلاث، وغالبًا يحمل نسيجًا معديًا أو بنكرياسيًا هاجرًا — هذا هو رتج ميكل، والنسيج الهاجر هو ما ينزف فعليًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. رتج حقيقي يحتوي على طبقات جدار الأمعاء الثلاث، وغالبًا يحمل نسيجًا معديًا أو بنكرياسيًا هاجرًا — هذا هو رتج ميكل، والنسيج الهاجر هو ما ينزف فعليًا. وتذكّر القاعدة: \"Rule of 2's: Meckel's diverticulum\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. رتج حقيقي يحتوي على طبقات جدار الأمعاء الثلاث، وغالبًا يحمل نسيجًا معديًا أو بنكرياسيًا هاجرًا — هذا هو رتج ميكل، والنسيج الهاجر هو ما ينزف فعليًا. وتذكّر: \"Rule of 2's: Meckel's diverticulum\". والإجابة الصحيحة هي C."
     }
   ]
 }

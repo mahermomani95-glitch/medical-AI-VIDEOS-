@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Circumoral numbness"
       },
-      "narration": "لنبدأ بهذا السؤال. أول مظهر من مظاهر الإزالة اللاتروجينية لجميع الغدد جارات الدرقية بعداستئصال الغدة الدرقية بالكامل هو؟ أمامك هذه الخيارات: Carpal spasm، أو Facial twitching on tapping the facial nerve، أو Circumoral numbness، أو Pedal spasm، أو Diarrhea. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أول مظهر من مظاهر الإزالة اللاتروجينية لجميع الغدد جارات الدرقية بعداستئصال الغدة الدرقية بالكامل هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Carpal spasm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Circumoral numbness. يصبح صحيحًا في سؤال يصف Carpal spasm (A, Trousseau's sign), facial twitching (B, Chvostek's sign), pedal spasm, and diarrhea can all occur with hypocalcemia from parathyroid injury, but circumoral numbness/tingling is typically the earliest symptom to appear. الخيار B، Facial twitching on tapping the facial nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Circumoral numbness. يصبح صحيحًا في سؤال يصف Carpal spasm (A, Trousseau's sign), facial twitching (B, Chvostek's sign), pedal spasm, and diarrhea can all occur with hypocalcemia from parathyroid injury, but circumoral numbness/tingling is typically the earliest symptom to appear. الخيار D، Pedal spasm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Circumoral numbness. يصبح صحيحًا في سؤال يصف Carpal spasm (A, Trousseau's sign), facial twitching (B, Chvostek's sign), pedal spasm, and diarrhea can all occur with hypocalcemia from parathyroid injury, but circumoral numbness/tingling is typically the earliest symptom to appear. الخيار E، Diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Circumoral numbness. يصبح صحيحًا في سؤال يصف Carpal spasm (A, Trousseau's sign), facial twitching (B, Chvostek's sign), pedal spasm, and diarrhea can all occur with hypocalcemia from parathyroid injury, but circumoral numbness/tingling is typically the earliest symptom to appear.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Carpal spasm: الإجابة الصحيحة هي Circumoral numbness. الخيار B: الإجابة الصحيحة هي Circumoral numbness. الخيار D، Pedal spasm: الإجابة الصحيحة هي Circumoral numbness. الخيار E، Diarrhea: الإجابة الصحيحة هي Circumoral numbness. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Parathyroid injury: Circumoral numbness Comes "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Circumoral numbness. الخدر حول الفم أول علامة تظهر لنقص الكالسيوم الحاد بعد إصابة جراحية."
+      "narration": "الخيار C، Circumoral numbness هو الإجابة الصحيحة. الخدر حول الفم أول علامة تظهر لنقص الكالسيوم الحاد بعد إصابة جراحية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخدر حول الفم أول علامة تظهر لنقص الكالسيوم الحاد بعد إصابة جراحية. وتذكّر القاعدة: Parathyroid injury: Circumoral numbness Comes first. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الخدر حول الفم أول علامة تظهر لنقص الكالسيوم الحاد بعد إصابة جراحية. وتذكّر: Parathyroid injury: Circumoral numbness Comes first. والإجابة الصحيحة هي C."
     }
   ]
 }

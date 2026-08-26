@@ -45,7 +45,7 @@
         "label": "Infection",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تظهر بقايا الشق الخيشومي غالبًا بسبب أي من المضاعفات التالية أمامك هذه الخيارات: Airway obstruction، أو Hemorrhage، أو Malignancy، أو Pain، أو Infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تظهر بقايا الشق الخيشومي غالبًا بسبب أي من المضاعفات التالية أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Airway obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infection. يصبح صحيحًا في سؤال يصف Airway obstruction, hemorrhage, and pain are recognized complications of branchial cleft remnants, but none is as common as infection. الخيار B، Hemorrhage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infection. يصبح صحيحًا في سؤال يصف Airway obstruction, hemorrhage, and pain are recognized complications of branchial cleft remnants, but none is as common as infection. الخيار C، Malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infection. يصبح صحيحًا في سؤال يصف malignancy is possible but very rare. الخيار D، Pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Infection. يصبح صحيحًا في سؤال يصف Airway obstruction, hemorrhage, and pain are recognized complications of branchial cleft remnants, but none is as common as infection.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Airway obstruction: الإجابة الصحيحة هي Infection. الخيار B، Hemorrhage: الإجابة الصحيحة هي Infection. الخيار C، Malignancy: الإجابة الصحيحة هي Infection. الخيار D، Pain: الإجابة الصحيحة هي Infection. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Branchial tract = tunnel for infection\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Infection. بقايا الشق الخيشومي عبارة عن نفق باتجاه الجلد، فتجد البكتيريا طريقها للدخول وتسبب العدوى."
+      "narration": "الخيار E، Infection هو الإجابة الصحيحة. بقايا الشق الخيشومي عبارة عن نفق باتجاه الجلد، فتجد البكتيريا طريقها للدخول وتسبب العدوى."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بقايا الشق الخيشومي عبارة عن نفق باتجاه الجلد، فتجد البكتيريا طريقها للدخول وتسبب العدوى. وتذكّر القاعدة: \"Branchial tract = tunnel for infection\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. بقايا الشق الخيشومي عبارة عن نفق باتجاه الجلد، فتجد البكتيريا طريقها للدخول وتسبب العدوى. وتذكّر: \"Branchial tract = tunnel for infection\". والإجابة الصحيحة هي E."
     }
   ]
 }

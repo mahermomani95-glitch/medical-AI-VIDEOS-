@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Admission, iv fluid, antibiotics, recommend for…"
       },
-      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 35 عامًا إلى قسم الطوارئ تعاني من ألم فيالمرارة. أظهر الفحص السريري إصابتها باليرقان والحمى. خضعت لتصويربالموجات فوق الصوتية للبطن، وكانت النتيجة زيادة في سماكة جدار المرارة،وتوسع في قناة الصفراء بأكثر من 12 مم. مع وجود حصوات صفراوية، فإنالخطوة التالية الأنسب للعلاج هي: أمامك هذه الخيارات: Admission and Emergency Laparatomy.، أو Admission and Emergency opened cholesyctectomy.، أو Admission, iv fluid, antibiotics, recommend for urgent ERCP.، أو Admission and Emergency opened CBD exploration.، أو Admission and iv fluid, antibiotics, recommend for urgent MRCP.. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 35 عامًا إلى قسم الطوارئ تعاني من ألم فيالمرارة. أظهر الفحص السريري إصابتها باليرقان والحمى. خضعت لتصويربالموجات فوق الصوتية للبطن، وكانت النتيجة زيادة في سماكة جدار المرارة،وتوسع في قناة الصفراء بأكثر من 12 مم. مع وجود حصوات صفراوية، فإنالخطوة التالية الأنسب للعلاج هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Admission and Emergency Laparatomy.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP.. يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first step. الخيار B، Admission and Emergency opened cholesyctectomy.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP.. يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first step. الخيار D، Admission and Emergency opened CBD exploration.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP.. يصبح صحيحًا في سؤال يصف Emergency laparotomy, emergency open cholecystectomy, and emergency open CBD exploration are all more invasive than needed as an immediate first step. الخيار E، Admission and iv fluid, antibiotics, recommend for urgent MRCP.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission, iv fluid, antibiotics, recommend for urgent ERCP.. يصبح صحيحًا في سؤال يصف option with IV fluids/antibiotics plus urgent MRCP delays the more time-appropriate urgent ERCP, which directly treats the obstruction endoscopically.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Admission and Emergency Laparatomy.: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Dilated CBD + cholangitis = urgent ERCP after"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Admission, iv fluid, antibiotics, recommend for urgent ERCP.. الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي."
+      "narration": "الخيار C هو الإجابة الصحيحة. الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي. وتذكّر القاعدة: \"Dilated CBD + cholangitis = urgent ERCP after stabilization\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الأمواج فوق الصوتية التي تُظهر توسّع القناة الصفراوية الجامعة مع حصى وأعراض التهاب طرق صفراوية تعني أن الشجرة الصفراوية تحتاج تصريفًا عاجلًا — عبر ERCP ، بعد الاستقرار الأولي. وتذكّر: \"Dilated CBD + cholangitis = urgent ERCP after stabilization\". والإجابة الصحيحة هي C."
     }
   ]
 }

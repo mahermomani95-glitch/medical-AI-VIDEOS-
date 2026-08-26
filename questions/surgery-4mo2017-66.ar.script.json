@@ -45,7 +45,7 @@
         "label": "BCC",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الأورام الجلدية التالية هو الأكثر شيوعًا في البشرة البيضاء؟ أمامك هذه الخيارات: SCC، أو BCC، أو Malignant melanoma، أو Merkel cell tumor، أو Dermatofibrosarcoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الأورام الجلدية التالية هو الأكثر شيوعًا في البشرة البيضاء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، SCC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC. يصبح صحيحًا في سؤال يصف SCC, malignant melanoma, Merkel cell tumor, and dermatofibrosarcoma are all real skin cancers but less common overall than basal cell carcinoma, which remains the most common skin cancer in fair-skinned (white) populations. الخيار C، Malignant melanoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC. يصبح صحيحًا في سؤال يصف SCC, malignant melanoma, Merkel cell tumor, and dermatofibrosarcoma are all real skin cancers but less common overall than basal cell carcinoma, which remains the most common skin cancer in fair-skinned (white) populations. الخيار D، Merkel cell tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC. يصبح صحيحًا في سؤال يصف SCC, malignant melanoma, Merkel cell tumor, and dermatofibrosarcoma are all real skin cancers but less common overall than basal cell carcinoma, which remains the most common skin cancer in fair-skinned (white) populations. الخيار E، Dermatofibrosarcoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي BCC. يصبح صحيحًا في سؤال يصف SCC, malignant melanoma, Merkel cell tumor, and dermatofibrosarcoma are all real skin cancers but less common overall than basal cell carcinoma, which remains the most common skin cancer in fair-skinned (white) populations.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، SCC: الإجابة الصحيحة هي BCC. الخيار C، Malignant melanoma: الإجابة الصحيحة هي BCC. الخيار D، Merkel cell tumor: الإجابة الصحيحة هي BCC. الخيار E، Dermatofibrosarcoma: الإجابة الصحيحة هي BCC. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Most common skin tumor: BCC"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: BCC. السرطانة القاعدية هي الأشيع بين أورام الجلد عند ذوي البشرة الفاتحة."
+      "narration": "الخيار B، BCC هو الإجابة الصحيحة. السرطانة القاعدية هي الأشيع بين أورام الجلد عند ذوي البشرة الفاتحة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة القاعدية هي الأشيع بين أورام الجلد عند ذوي البشرة الفاتحة. وتذكّر القاعدة: Most common skin tumor: BCC. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. السرطانة القاعدية هي الأشيع بين أورام الجلد عند ذوي البشرة الفاتحة. وتذكّر: Most common skin tumor: BCC. والإجابة الصحيحة هي B."
     }
   ]
 }

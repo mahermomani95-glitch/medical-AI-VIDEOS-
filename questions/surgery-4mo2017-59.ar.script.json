@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Medullary carcinoma of the thyroid"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم تصنيع الكالسيتونين أحيانًا عن طريق أحد الأورام التالية؟ أمامك هذه الخيارات: Medullary carcinoma of the breast، أو Medullary carcinoma of the thyroid، أو Giant cell carcinoma of the pancreas، أو Carcinoid tumor of appendix، أو Ganglioneuromas. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم تصنيع الكالسيتونين أحيانًا عن طريق أحد الأورام التالية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Medullary carcinoma of the breast: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Medullary carcinoma of the thyroid. يصبح صحيحًا في سؤال يصف Medullary carcinoma of the breast, pancreatic giant cell carcinoma, appendiceal carcinoid, and ganglioneuroma don't classically secrete calcitonin — medullary carcinoma of the THYROID (arising from calcitonin-secreting C cells) is the tumor associated with calcitonin production. الخيار C، Giant cell carcinoma of the pancreas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Medullary carcinoma of the thyroid. يصبح صحيحًا في سؤال يصف Medullary carcinoma of the breast, pancreatic giant cell carcinoma, appendiceal carcinoid, and ganglioneuroma don't classically secrete calcitonin — medullary carcinoma of the THYROID (arising from calcitonin-secreting C cells) is the tumor associated with calcitonin production. الخيار D، Carcinoid tumor of appendix: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Medullary carcinoma of the thyroid. يصبح صحيحًا في سؤال يصف Medullary carcinoma of the breast, pancreatic giant cell carcinoma, appendiceal carcinoid, and ganglioneuroma don't classically secrete calcitonin — medullary carcinoma of the THYROID (arising from calcitonin-secreting C cells) is the tumor associated with calcitonin production. الخيار E، Ganglioneuromas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Medullary carcinoma of the thyroid. يصبح صحيحًا في سؤال يصف Medullary carcinoma of the breast, pancreatic giant cell carcinoma, appendiceal carcinoid, and ganglioneuroma don't classically secrete calcitonin — medullary carcinoma of the THYROID (arising from calcitonin-secreting C cells) is the tumor associated with calcitonin production.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Medullary carcinoma of the thyroid. الخيار C: الإجابة الصحيحة هي Medullary carcinoma of the thyroid. الخيار D، Carcinoid tumor of appendix: الإجابة الصحيحة هي Medullary carcinoma of the thyroid. الخيار E، Ganglioneuromas: الإجابة الصحيحة هي Medullary carcinoma of the thyroid. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Calcitonin secretion: Medullary thyroid carcin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Medullary carcinoma of the thyroid. السرطانة النخاعية للدرقية تنشأ من خلايا C المفرزة للكالسيتونين."
+      "narration": "الخيار B هو الإجابة الصحيحة. السرطانة النخاعية للدرقية تنشأ من خلايا C المفرزة للكالسيتونين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة النخاعية للدرقية تنشأ من خلايا C المفرزة للكالسيتونين. وتذكّر القاعدة: Calcitonin secretion: Medullary thyroid carcinoma. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. السرطانة النخاعية للدرقية تنشأ من خلايا C المفرزة للكالسيتونين. وتذكّر: Calcitonin secretion: Medullary thyroid carcinoma. والإجابة الصحيحة هي B."
     }
   ]
 }

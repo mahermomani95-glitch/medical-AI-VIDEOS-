@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Sigmoid volvulus"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعا للانفتال هو؟ أمامك هذه الخيارات: Small bowel، أو Splenic flexure، أو Transverse colon، أو Sigmoid volvulus، أو Cecum. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعا للانفتال هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Small bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus. يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most common site of colonic volvulus overall. الخيار B، Splenic flexure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus. يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most common site of colonic volvulus overall. الخيار C، Transverse colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus. يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most common site of colonic volvulus overall. الخيار E، Cecum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid volvulus. يصبح صحيحًا في سؤال يصف Small bowel volvulus, splenic flexure, transverse colon, and cecal volvulus are all real but less common — sigmoid volvulus remains the most common site of colonic volvulus overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Small bowel: الإجابة الصحيحة هي Sigmoid volvulus. الخيار B، Splenic flexure: الإجابة الصحيحة هي Sigmoid volvulus. الخيار C، Transverse colon: الإجابة الصحيحة هي Sigmoid volvulus. الخيار E، Cecum: الإجابة الصحيحة هي Sigmoid volvulus. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Volvulus: mostly Sigmoid"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Sigmoid volvulus. الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه."
+      "narration": "الخيار D، Sigmoid volvulus هو الإجابة الصحيحة. الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه. وتذكّر القاعدة: Volvulus: mostly Sigmoid. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الالتواء السيني هو الأشيع بين مواقع التواء الأمعاء لمرونة مساريقه. وتذكّر: Volvulus: mostly Sigmoid. والإجابة الصحيحة هي D."
     }
   ]
 }

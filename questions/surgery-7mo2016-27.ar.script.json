@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Gastrointestinal stromal tumors are associated with…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بالأورام الخبيثة في الأمعاء الدقيقة باستثناء؟ أمامك هذه الخيارات: Adenocarcinoma most commonly in the duodenum، أو Adenocarcinoma and Carcinoid are the most common types، أو Gastrointestinal stromal tumors are associated with acquired immunodeficiency syndrome، أو Lymphoma most commonly in the lleum، أو Majority of small bowel malignancy are treated surgically. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بالأورام الخبيثة في الأمعاء الدقيقة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Adenocarcinoma most commonly in the duodenum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal predominance of adenocarcinoma, adenocarcinoma/carcinoid as the most common types… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal tumors are associated with acquired immunodeficiency syndrome. الخيار B، Adenocarcinoma and Carcinoid are the most common types: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal predominance of adenocarcinoma, adenocarcinoma/carcinoid as the most common types… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal tumors are associated with acquired immunodeficiency syndrome. الخيار D، Lymphoma most commonly in the lleum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal predominance of adenocarcinoma, adenocarcinoma/carcinoid as the most common types… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal tumors are associated with acquired immunodeficiency syndrome. الخيار E، Majority of small bowel malignancy are treated surgically: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Duodenal predominance of adenocarcinoma, adenocarcinoma/carcinoid as the most common types… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gastrointestinal stromal tumors are associated with acquired immunodeficiency syndrome.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "GIST: Grounded in c-KIT mutation specifics"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Gastrointestinal stromal tumors are associated with acquired immunodeficiency syndrome. الأورام السدوية المعدية المعوية ترتبط بطفرات c-KIT جينية محددة دقيقة."
+      "narration": "الخيار C هو الإجابة الصحيحة. الأورام السدوية المعدية المعوية ترتبط بطفرات c-KIT جينية محددة دقيقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأورام السدوية المعدية المعوية ترتبط بطفرات c-KIT جينية محددة دقيقة. وتذكّر القاعدة: GIST: Grounded in c-KIT mutation specifics. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الأورام السدوية المعدية المعوية ترتبط بطفرات c-KIT جينية محددة دقيقة. وتذكّر: GIST: Grounded in c-KIT mutation specifics. والإجابة الصحيحة هي C."
     }
   ]
 }

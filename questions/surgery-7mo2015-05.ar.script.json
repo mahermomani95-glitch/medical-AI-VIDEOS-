@@ -45,7 +45,7 @@
         "label": "Cotrimoxazole (TMP/SMX)",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يرتبط الحمامي المتعددة الأشكال عادةً بأي من المضادات الحيوية التالية؟ أمامك هذه الخيارات: Quinolones، أو Cotrimoxazole (TMP/SMX)، أو Erythromycin، أو Ciprofloxacin، أو Vancomycin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يرتبط الحمامي المتعددة الأشكال عادةً بأي من المضادات الحيوية التالية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Quinolones: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cotrimoxazole (TMP/SMX). يصبح صحيحًا في سؤال يصف Quinolones, erythromycin, ciprofloxacin, and vancomycin are less classically linked to erythema multiforme than sulfonamides (cotrimoxazole/TMP-SMX), which carries one of the strongest known associations with this hypersensitivity reaction. الخيار C، Erythromycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cotrimoxazole (TMP/SMX). يصبح صحيحًا في سؤال يصف Quinolones, erythromycin, ciprofloxacin, and vancomycin are less classically linked to erythema multiforme than sulfonamides (cotrimoxazole/TMP-SMX), which carries one of the strongest known associations with this hypersensitivity reaction. الخيار D، Ciprofloxacin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cotrimoxazole (TMP/SMX). يصبح صحيحًا في سؤال يصف Quinolones, erythromycin, ciprofloxacin, and vancomycin are less classically linked to erythema multiforme than sulfonamides (cotrimoxazole/TMP-SMX), which carries one of the strongest known associations with this hypersensitivity reaction. الخيار E، Vancomycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cotrimoxazole (TMP/SMX). يصبح صحيحًا في سؤال يصف Quinolones, erythromycin, ciprofloxacin, and vancomycin are less classically linked to erythema multiforme than sulfonamides (cotrimoxazole/TMP-SMX), which carries one of the strongest known associations with this hypersensitivity reaction.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Quinolones: الإجابة الصحيحة هي Cotrimoxazole (TMP/SMX). الخيار C، Erythromycin: الإجابة الصحيحة هي Cotrimoxazole (TMP/SMX). الخيار D، Ciprofloxacin: الإجابة الصحيحة هي Cotrimoxazole (TMP/SMX). الخيار E، Vancomycin: الإجابة الصحيحة هي Cotrimoxazole (TMP/SMX). والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Erythema multiforme: linked to Cotrimoxazole"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Cotrimoxazole (TMP/SMX). الكوتريموكسازول هو المضاد الحيوي الأكثر ارتباطًا بالحمامى متعددة الأشكال."
+      "narration": "الخيار B، Cotrimoxazole (TMP/SMX) هو الإجابة الصحيحة. الكوتريموكسازول هو المضاد الحيوي الأكثر ارتباطًا بالحمامى متعددة الأشكال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الكوتريموكسازول هو المضاد الحيوي الأكثر ارتباطًا بالحمامى متعددة الأشكال. وتذكّر القاعدة: Erythema multiforme: linked to Cotrimoxazole. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الكوتريموكسازول هو المضاد الحيوي الأكثر ارتباطًا بالحمامى متعددة الأشكال. وتذكّر: Erythema multiforme: linked to Cotrimoxazole. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Airway obscure",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أول ما يتم فعله في مرضى الصدمات المتعددة هو؟ أمامك هذه الخيارات: Immobilization، أو Breathing، أو Blood pressure، أو Pupil reaction، أو Airway obscure. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أول ما يتم فعله في مرضى الصدمات المتعددة هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Immobilization: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Airway obscure. يصبح صحيحًا في سؤال يصف Immobilization, breathing, blood pressure, and pupil reaction are all important trauma assessment steps, but airway management is always the very first priority per the ABC approach, before circulation or neurological checks. الخيار B، Breathing: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Airway obscure. يصبح صحيحًا في سؤال يصف Immobilization, breathing, blood pressure, and pupil reaction are all important trauma assessment steps, but airway management is always the very first priority per the ABC approach, before circulation or neurological checks. الخيار C، Blood pressure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Airway obscure. يصبح صحيحًا في سؤال يصف Immobilization, breathing, blood pressure, and pupil reaction are all important trauma assessment steps, but airway management is always the very first priority per the ABC approach, before circulation or neurological checks. الخيار D، Pupil reaction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Airway obscure. يصبح صحيحًا في سؤال يصف Immobilization, breathing, blood pressure, and pupil reaction are all important trauma assessment steps, but airway management is always the very first priority per the ABC approach, before circulation or neurological checks.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Immobilization: الإجابة الصحيحة هي Airway obscure. الخيار B، Breathing: الإجابة الصحيحة هي Airway obscure. الخيار C، Blood pressure: الإجابة الصحيحة هي Airway obscure. الخيار D، Pupil reaction: الإجابة الصحيحة هي Airway obscure. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Trauma priority: Airway Always first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Airway obscure. تأمين مجرى الهواء هو الخطوة الأولى المطلقة بمريض الرضوض المتعددة."
+      "narration": "الخيار E، Airway obscure هو الإجابة الصحيحة. تأمين مجرى الهواء هو الخطوة الأولى المطلقة بمريض الرضوض المتعددة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تأمين مجرى الهواء هو الخطوة الأولى المطلقة بمريض الرضوض المتعددة. وتذكّر القاعدة: Trauma priority: Airway Always first. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. تأمين مجرى الهواء هو الخطوة الأولى المطلقة بمريض الرضوض المتعددة. وتذكّر: Trauma priority: Airway Always first. والإجابة الصحيحة هي E."
     }
   ]
 }

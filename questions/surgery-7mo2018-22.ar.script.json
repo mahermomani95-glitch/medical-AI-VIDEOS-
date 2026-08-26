@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Plain skull x-ray is the best imaging modality to…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بكسر قاعدة الجمجمة باستثناء أمامك هذه الخيارات: Plain skull x-ray is the best imaging modality to diagnose Base of skull fracture، أو Base of skull fractures are often diagnosed on head CT scan، أو Cerebrospinal fluid otorrhea and rhinorrhea are signs of BSF، أو Postauricular ecchymosis and periorbital ecchymosis and finding on examination، أو Nasogastric tube is contraindicated. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بكسر قاعدة الجمجمة باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Base of skull fractures are often diagnosed on head CT scan: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Its common diagnosis by CT, CSF otorrhea/rhinorrhea, postauricular ecchymosis (Battle's sign)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Plain skull x-ray is the best imaging modality to diagnose Base of skull fracture. الخيار C، Cerebrospinal fluid otorrhea and rhinorrhea are signs of BSF: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. CSF otorrhea/rhinorrhea, postauricular/periorbital ecchymosis, and NG tube contraindication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Plain skull x-ray is the best imaging modality to diagnose Base of skull fracture. الخيار D، Postauricular ecchymosis and periorbital ecchymosis and finding on examination: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Its common diagnosis by CT, CSF otorrhea/rhinorrhea, postauricular ecchymosis (Battle's sign)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Plain skull x-ray is the best imaging modality to diagnose Base of skull fracture. الخيار E، Nasogastric tube is contraindicated: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Its common diagnosis by CT, CSF otorrhea/rhinorrhea, postauricular ecchymosis (Battle's sign)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Plain skull x-ray is the best imaging modality to diagnose Base of skull fracture.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Nasogastric tube is contraindicated: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"CT sees the Base, X-ray doesn't\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Plain skull x-ray is the best imaging modality to diagnose Base of skull fracture. الأشعة السينية العادية للجمجمة تفوت معظم كسور قاعدة الجمجمة — الأشعة المقطعية هي الأداة التشخيصية الحقيقية."
+      "narration": "الخيار A هو الإجابة الصحيحة. الأشعة السينية العادية للجمجمة تفوت معظم كسور قاعدة الجمجمة — الأشعة المقطعية هي الأداة التشخيصية الحقيقية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأشعة السينية العادية للجمجمة تفوت معظم كسور قاعدة الجمجمة — الأشعة المقطعية هي الأداة التشخيصية الحقيقية. وتذكّر القاعدة: \"CT sees the Base, X-ray doesn't\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الأشعة السينية العادية للجمجمة تفوت معظم كسور قاعدة الجمجمة — الأشعة المقطعية هي الأداة التشخيصية الحقيقية. وتذكّر: \"CT sees the Base, X-ray doesn't\". والإجابة الصحيحة هي A."
     }
   ]
 }

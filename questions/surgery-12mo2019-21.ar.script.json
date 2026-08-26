@@ -41,7 +41,7 @@
         "region": "limb",
         "label": "Antibiotic administration is required"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضٌ حضر إلى قسم الطوارئ بعد إصابته بحروقٍ في شقته. فيما يتعلقبإدارة الحروق الاستنشاقية، جميع ما يلي صحيح باستثناء: أمامك هذه الخيارات: Early airway intubation may be needed، أو Antibiotic administration is required، أو IV fluid replacement is a must، أو Monitoring of urine output. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضٌ حضر إلى قسم الطوارئ بعد إصابته بحروقٍ في شقته. فيما يتعلقبإدارة الحروق الاستنشاقية، جميع ما يلي صحيح باستثناء: أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Early airway intubation may be needed: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required. الخيار C، IV fluid replacement is a must: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required. الخيار D، Monitoring of urine output: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early airway intubation, IV fluid replacement, and monitoring urine output are all correct… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antibiotic administration is required.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Monitoring of urine output: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Inhalation injury: no routine prophylactic an"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Antibiotic administration is required. المضادات الحيوية الوقائية ليست جزءًا معياريًا من إدارة إصابة الاستنشاق — تُحفظ لعدوى موثقة، تمامًا كما في حروق الجلد."
+      "narration": "الخيار B، Antibiotic administration is required هو الإجابة الصحيحة. المضادات الحيوية الوقائية ليست جزءًا معياريًا من إدارة إصابة الاستنشاق — تُحفظ لعدوى موثقة، تمامًا كما في حروق الجلد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المضادات الحيوية الوقائية ليست جزءًا معياريًا من إدارة إصابة الاستنشاق — تُحفظ لعدوى موثقة، تمامًا كما في حروق الجلد. وتذكّر القاعدة: \"Inhalation injury: no routine prophylactic antibiotics\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. المضادات الحيوية الوقائية ليست جزءًا معياريًا من إدارة إصابة الاستنشاق — تُحفظ لعدوى موثقة، تمامًا كما في حروق الجلد. وتذكّر: \"Inhalation injury: no routine prophylactic antibiotics\". والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Surgery is the only effective treatment",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يتعلق بمتلازمة الإغراق صحيح باستثناء؟ أمامك هذه الخيارات: Caused by rapid gastric emptying، أو Bariatric surgery is one of its causes، أو It is caused by gastrectomy، أو Symptoms include nausea, vomiting, diarrhea, and cramps، أو Surgery is the only effective treatment. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يتعلق بمتلازمة الإغراق صحيح باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Caused by rapid gastric emptying: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Rapid gastric emptying as the mechanism, bariatric surgery and gastrectomy as causes, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the only effective treatment. الخيار B، Bariatric surgery is one of its causes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Rapid gastric emptying as the mechanism, bariatric surgery and gastrectomy as causes, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the only effective treatment. الخيار C، It is caused by gastrectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Rapid gastric emptying as the mechanism, bariatric surgery and gastrectomy as causes, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the only effective treatment. الخيار D، Symptoms include nausea, vomiting, diarrhea, and cramps: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Rapid gastric emptying as the mechanism, bariatric surgery and gastrectomy as causes, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the only effective treatment.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Dumping syndrome: Diet modification works firs"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Surgery is the only effective treatment. التعديل الغذائي، لا الجراحة حصرًا، هو العلاج الفعال الأول لمتلازمة الإغراق."
+      "narration": "الخيار E هو الإجابة الصحيحة. التعديل الغذائي، لا الجراحة حصرًا، هو العلاج الفعال الأول لمتلازمة الإغراق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التعديل الغذائي، لا الجراحة حصرًا، هو العلاج الفعال الأول لمتلازمة الإغراق. وتذكّر القاعدة: Dumping syndrome: Diet modification works first. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التعديل الغذائي، لا الجراحة حصرًا، هو العلاج الفعال الأول لمتلازمة الإغراق. وتذكّر: Dumping syndrome: Diet modification works first. والإجابة الصحيحة هي E."
     }
   ]
 }

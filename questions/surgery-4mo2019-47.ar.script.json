@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Furosemide long-term use"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل عوامل خطر الإصابة بقرحة الجلد لدى القوارض كل ما يلي باستثناء أمامك هذه الخيارات: Ultraviolet (UV) exposure، أو Arsenic exposure، أو Xeroderma pigmentosum، أو Hydrochlorothiazide long-term use، أو Furosemide long-term use. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل عوامل خطر الإصابة بقرحة الجلد لدى القوارض كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ultraviolet (UV) exposure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use. الخيار B، Arsenic exposure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use. الخيار C، Xeroderma pigmentosum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use. الخيار D، Hydrochlorothiazide long-term use: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. UV exposure, arsenic exposure, xeroderma pigmentosum, and long-term hydrochlorothiazide use… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Furosemide long-term use.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ultraviolet (UV) exposure: صحيحة، لكنها ليست الاستثناء. الخيار B، Arsenic exposure: صحيحة، لكنها ليست الاستثناء. الخيار C، Xeroderma pigmentosum: صحيحة، لكنها ليست الاستثناء. الخيار D، Hydrochlorothiazide long-term use: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hydrochlorothiazide (not furosemide) = skin c"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Furosemide long-term use. الفوروسيميد غير مرتبط بزيادة خطر سرطان الجلد كما هو الحال مع مدرات الثيازيد — فرق دوائي دقيق لكنه حقيقي."
+      "narration": "الخيار E، Furosemide long-term use هو الإجابة الصحيحة. الفوروسيميد غير مرتبط بزيادة خطر سرطان الجلد كما هو الحال مع مدرات الثيازيد — فرق دوائي دقيق لكنه حقيقي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفوروسيميد غير مرتبط بزيادة خطر سرطان الجلد كما هو الحال مع مدرات الثيازيد — فرق دوائي دقيق لكنه حقيقي. وتذكّر القاعدة: \"Hydrochlorothiazide (not furosemide) = skin cancer risk\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الفوروسيميد غير مرتبط بزيادة خطر سرطان الجلد كما هو الحال مع مدرات الثيازيد — فرق دوائي دقيق لكنه حقيقي. وتذكّر: \"Hydrochlorothiazide (not furosemide) = skin cancer risk\". والإجابة الصحيحة هي E."
     }
   ]
 }

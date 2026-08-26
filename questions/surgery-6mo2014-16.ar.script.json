@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Best treated surgically at the age of one year"
       },
-      "narration": "لنبدأ بهذا السؤال. الخصيتين غير النازلتين؟ أمامك هذه الخيارات: Best treated surgically at the age of one year، أو Best managed conservatively with hormons، أو Best corrected at or around puberty، أو Have no malignat potential، أو Are usually bilateral. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الخصيتين غير النازلتين؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Best managed conservatively with hormons: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يصف Conservative hormonal management has limited long-term efficacy. الخيار C، Best corrected at or around puberty: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Best treated surgically at the age of one year. يصبح صحيحًا في سؤال يصف waiting until puberty risks fertility damage. الخيار D، Have no malignat potential: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا none. يصبح صحيحًا في سؤال يصف undescended testes DO carry increased malignancy potential. الخيار E، Are usually bilateral: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral, in most cases — surgical correction (orchidopexy) around age 1 remains the standard. يصبح صحيحًا في سؤال يصف they are usually unilateral.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D، Have no malignat potential: المطلوب هنا none. الخيار E، Are usually bilateral: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Undescended testis: Treated surgically at One "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Best treated surgically at the age of one year. التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة."
+      "narration": "الخيار A هو الإجابة الصحيحة. التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة. وتذكّر القاعدة: Undescended testis: Treated surgically at One year. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التصحيح الجراحي بعمر سنة واحدة هو التوقيت الأمثل للخصية غير النازلة. وتذكّر: Undescended testis: Treated surgically at One year. والإجابة الصحيحة هي A."
     }
   ]
 }

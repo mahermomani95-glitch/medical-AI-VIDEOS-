@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Second intercostal space mid clavicular line"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لإجراء عملية ثقب الصدر بالإبرة في علاج استرواح الصدرالضاغط هو أمامك هذه الخيارات: First intercostal space mid clavicular line، أو Second intercostal space mid axillary line، أو Second intercostal space mid clavicular line، أو Fifth intercostal space mid clavicular line، أو Fifth intercostal space anterior axillary line. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لإجراء عملية ثقب الصدر بالإبرة في علاج استرواح الصدرالضاغط هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، First intercostal space mid clavicular line: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Second intercostal space mid clavicular line. يصبح صحيحًا في سؤال يصف The 2nd intercostal space at the mid-clavicular line is the classic traditional landmark for needle decompression in tension pneumothorax. الخيار B، Second intercostal space mid axillary line: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Second intercostal space mid clavicular line. يصبح صحيحًا في سؤال يصف the 2nd space at the mid-axillary line is the wrong line (should be mid-clavicular). الخيار D، Fifth intercostal space mid clavicular line: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the classic first-line site. يصبح صحيحًا في سؤال يصف the 5th space at the mid-clavicular line and 5th space anterior axillary line are alternate/newer landmarks but. الخيار E، Fifth intercostal space anterior axillary line: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the classic first-line site. يصبح صحيحًا في سؤال يصف the 5th space at the mid-clavicular line and 5th space anterior axillary line are alternate/newer landmarks but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Second intercostal space mid clavicular line. الخيار B: الإجابة الصحيحة هي Second intercostal space mid clavicular line. الخيار D: المطلوب هنا the classic first-line site. الخيار E: المطلوب هنا the classic first-line site. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"2nd ICS, MCL\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Second intercostal space mid clavicular line. المسافة الوربية الثانية على خط الترقوة المنتصف هي المعلم التشريحي الكلاسيكي لتفريغ استرواح الصدر التوتري بالإبرة."
+      "narration": "الخيار C هو الإجابة الصحيحة. المسافة الوربية الثانية على خط الترقوة المنتصف هي المعلم التشريحي الكلاسيكي لتفريغ استرواح الصدر التوتري بالإبرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المسافة الوربية الثانية على خط الترقوة المنتصف هي المعلم التشريحي الكلاسيكي لتفريغ استرواح الصدر التوتري بالإبرة. وتذكّر القاعدة: \"2nd ICS, MCL\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. المسافة الوربية الثانية على خط الترقوة المنتصف هي المعلم التشريحي الكلاسيكي لتفريغ استرواح الصدر التوتري بالإبرة. وتذكّر: \"2nd ICS, MCL\". والإجابة الصحيحة هي C."
     }
   ]
 }

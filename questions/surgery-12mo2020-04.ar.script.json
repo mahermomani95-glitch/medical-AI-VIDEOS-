@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "HIDA scan"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: US، أو ERCP، أو CT، أو HIDA scan. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، US: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the actual functional emptying that HIDA scan uniquely demonstrates. يصبح صحيحًا في سؤال يصف Ultrasound can show gallbladder findings but. الخيار B، ERCP: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا diagnostic accuracy comparison. يصبح صحيحًا في سؤال يصف ERCP is invasive and used for therapeutic biliary intervention. الخيار C، CT: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي HIDA scan. يصبح صحيحًا في سؤال يصف CT can show inflammation but is less specific for functional cystic duct obstruction than HIDA.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، US: لا ينطبق على هذه الحالة. الخيار B، ERCP: المطلوب هنا diagnostic accuracy comparison. الخيار C، CT: الإجابة الصحيحة هي HIDA scan. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"HIDA scan = most accurate for cholecystitis ("
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: HIDA scan. مسح HIDA يُظهر مباشرة ما إذا كانت المرارة تمتلئ بالمادة المشعة — عدم الامتلاء يؤكد انسداد القناة المرارية، السمة المميزة لالتهاب المرارة الحاد، بدقة أعلى من الأمواج فوق الصوتية."
+      "narration": "الخيار D، HIDA scan هو الإجابة الصحيحة. مسح HIDA يُظهر مباشرة ما إذا كانت المرارة تمتلئ بالمادة المشعة — عدم الامتلاء يؤكد انسداد القناة المرارية، السمة المميزة لالتهاب المرارة الحاد، بدقة أعلى من الأمواج فوق الصوتية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مسح HIDA يُظهر مباشرة ما إذا كانت المرارة تمتلئ بالمادة المشعة — عدم الامتلاء يؤكد انسداد القناة المرارية، السمة المميزة لالتهاب المرارة الحاد، بدقة أعلى من الأمواج فوق الصوتية. وتذكّر القاعدة: \"HIDA scan = most accurate for cholecystitis (non-filling GB)\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. مسح HIDA يُظهر مباشرة ما إذا كانت المرارة تمتلئ بالمادة المشعة — عدم الامتلاء يؤكد انسداد القناة المرارية، السمة المميزة لالتهاب المرارة الحاد، بدقة أعلى من الأمواج فوق الصوتية. وتذكّر: \"HIDA scan = most accurate for cholecystitis (non-filling GB)\". والإجابة الصحيحة هي D."
     }
   ]
 }

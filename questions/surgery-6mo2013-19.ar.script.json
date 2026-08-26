@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Basal skull fracture"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية هو موانع وضع أنبوب التغذية الأنفية المعدية؟ أمامك هذه الخيارات: Acute pancreatitis، أو Intestinal obstruction، أو Drug poisoning، أو Basal skull fracture، أو Laparoscopic surgery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية هو موانع وضع أنبوب التغذية الأنفية المعدية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Basal skull fracture. يصبح صحيحًا في سؤال يصف Acute pancreatitis, intestinal obstruction, drug poisoning, and even laparoscopic surgery (E, where NG decompression is often used) are all situations where NG tube placement is appropriate or helpful, unlike suspected basal skull fracture where the tube risks passing intracranially. الخيار B، Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Basal skull fracture. يصبح صحيحًا في سؤال يصف Acute pancreatitis, intestinal obstruction, drug poisoning, and even laparoscopic surgery (E, where NG decompression is often used) are all situations where NG tube placement is appropriate or helpful, unlike suspected basal skull fracture where the tube risks passing intracranially. الخيار C، Drug poisoning: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Basal skull fracture. يصبح صحيحًا في سؤال يصف Acute pancreatitis, intestinal obstruction, drug poisoning, and even laparoscopic surgery (E, where NG decompression is often used) are all situations where NG tube placement is appropriate or helpful, unlike suspected basal skull fracture where the tube risks passing intracranially. الخيار E، Laparoscopic surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Basal skull fracture. يصبح صحيحًا في سؤال يصف Acute pancreatitis, intestinal obstruction, drug poisoning, and even laparoscopic surgery (E, where NG decompression is often used) are all situations where NG tube placement is appropriate or helpful, unlike suspected basal skull fracture where the tube risks passing intracranially.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acute pancreatitis: الإجابة الصحيحة هي Basal skull fracture. الخيار B، Intestinal obstruction: الإجابة الصحيحة هي Basal skull fracture. الخيار C، Drug poisoning: الإجابة الصحيحة هي Basal skull fracture. الخيار E، Laparoscopic surgery: الإجابة الصحيحة هي Basal skull fracture. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Basal skull fracture: Blocks NG tube placement"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Basal skull fracture. كسر قاعدة الجمجمة مانع حقيقي خطير لإدخال الأنبوب الأنفي المعدي."
+      "narration": "الخيار D، Basal skull fracture هو الإجابة الصحيحة. كسر قاعدة الجمجمة مانع حقيقي خطير لإدخال الأنبوب الأنفي المعدي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كسر قاعدة الجمجمة مانع حقيقي خطير لإدخال الأنبوب الأنفي المعدي. وتذكّر القاعدة: Basal skull fracture: Blocks NG tube placement. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. كسر قاعدة الجمجمة مانع حقيقي خطير لإدخال الأنبوب الأنفي المعدي. وتذكّر: Basal skull fracture: Blocks NG tube placement. والإجابة الصحيحة هي D."
     }
   ]
 }

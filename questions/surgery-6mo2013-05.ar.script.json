@@ -45,7 +45,7 @@
         "label": "Submental abscess",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر 7 سنوات يعاني من تورم تحت الذقن وسخونة واحمراروكان مؤلمًا للغاية والتشخيص الأكثر احتمالاً هو؟ أمامك هذه الخيارات: Cystic hygroma، أو Thyroglossal cyst، أو Lipoma، أو Dental caries، أو Submental abscess. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر 7 سنوات يعاني من تورم تحت الذقن وسخونة واحمراروكان مؤلمًا للغاية والتشخيص الأكثر احتمالاً هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cystic hygroma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess. يصبح صحيحًا في سؤال يصف Cystic hygroma and thyroglossal cyst are typically painless unless infected. الخيار B، Thyroglossal cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess. يصبح صحيحًا في سؤال يصف Cystic hygroma and thyroglossal cyst are typically painless unless infected. الخيار C، Lipoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Submental abscess. يصبح صحيحًا في سؤال يصف a lipoma is soft and non-inflamed. الخيار D، Dental caries: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a hot, red submental swelling — the acute inflammatory signs point to an abscess. يصبح صحيحًا في سؤال يصف dental caries causes tooth pain.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Cystic hygroma: الإجابة الصحيحة هي Submental abscess. الخيار B، Thyroglossal cyst: الإجابة الصحيحة هي Submental abscess. الخيار C، Lipoma: الإجابة الصحيحة هي Submental abscess. الخيار D، Dental caries: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Hot, red, painful: Hints at Abscess"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Submental abscess. التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد."
+      "narration": "الخيار E، Submental abscess هو الإجابة الصحيحة. التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد. وتذكّر القاعدة: Hot, red, painful: Hints at Abscess. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التورم الساخن الأحمر المؤلم تحت الذقن يوجه لخراج التهابي حاد. وتذكّر: Hot, red, painful: Hints at Abscess. والإجابة الصحيحة هي E."
     }
   ]
 }

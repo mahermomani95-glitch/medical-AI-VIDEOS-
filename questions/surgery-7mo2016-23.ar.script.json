@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "20 cm H2o"
       },
-      "narration": "لنبدأ بهذا السؤال. يجب الاشتباه في متلازمة الحيز البطني عندما يتجاوز ضغط المثانة؟ أمامك هذه الخيارات: 10 cm H2o، أو 20 cm H2o، أو 35 cm H2o، أو 40 cm H2o، أو 50 cm H2o. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يجب الاشتباه في متلازمة الحيز البطني عندما يتجاوز ضغط المثانة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 10 cm H2o: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20 cm H2o. يصبح صحيحًا في سؤال يصف 10, 35, 40, and 50 cm H2O don't match the generally accepted threshold of about 20 cm H2O (or specific mmHg equivalents) used to define elevated intra-abdominal pressure/bladder pressure concerning for abdominal compartment syndrome. الخيار C، 35 cm H2o: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20 cm H2o. يصبح صحيحًا في سؤال يصف 10, 35, 40, and 50 cm H2O don't match the generally accepted threshold of about 20 cm H2O (or specific mmHg equivalents) used to define elevated intra-abdominal pressure/bladder pressure concerning for abdominal compartment syndrome. الخيار D، 40 cm H2o: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20 cm H2o. يصبح صحيحًا في سؤال يصف 10, 35, 40, and 50 cm H2O don't match the generally accepted threshold of about 20 cm H2O (or specific mmHg equivalents) used to define elevated intra-abdominal pressure/bladder pressure concerning for abdominal compartment syndrome. الخيار E، 50 cm H2o: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20 cm H2o. يصبح صحيحًا في سؤال يصف 10, 35, 40, and 50 cm H2O don't match the generally accepted threshold of about 20 cm H2O (or specific mmHg equivalents) used to define elevated intra-abdominal pressure/bladder pressure concerning for abdominal compartment syndrome.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 10 cm H2o: الإجابة الصحيحة هي 20 cm H2o. الخيار C، 35 cm H2o: الإجابة الصحيحة هي 20 cm H2o. الخيار D، 40 cm H2o: الإجابة الصحيحة هي 20 cm H2o. الخيار E، 50 cm H2o: الإجابة الصحيحة هي 20 cm H2o. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Abdominal compartment syndrome: Bladder pressu"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: 20 cm H2o. ضغط المثانة فوق 20 سم ماء يوحي بمتلازمة الحيز البطني."
+      "narration": "الخيار B، 20 cm H2o هو الإجابة الصحيحة. ضغط المثانة فوق 20 سم ماء يوحي بمتلازمة الحيز البطني."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ضغط المثانة فوق 20 سم ماء يوحي بمتلازمة الحيز البطني. وتذكّر القاعدة: Abdominal compartment syndrome: Bladder pressure over Twenty. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. ضغط المثانة فوق 20 سم ماء يوحي بمتلازمة الحيز البطني. وتذكّر: Abdominal compartment syndrome: Bladder pressure over Twenty. والإجابة الصحيحة هي B."
     }
   ]
 }

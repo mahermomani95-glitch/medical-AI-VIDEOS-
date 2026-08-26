@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "It is commonly complicated by ascites"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بانسداد الأمعاء الغليظة، كل ما يلي صحيح باستثناء أمامك هذه الخيارات: It is low or distal intestinal obstruction، أو It is commonly complicated by ascites، أو The most common cause is cystic fibrosis، أو It is associated with abdominal distention، أو Could be treated with gastrografin enem. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بانسداد الأمعاء الغليظة، كل ما يلي صحيح باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is low or distal intestinal obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is commonly complicated by ascites. يصبح صحيحًا في سؤال يصف Being a low/distal intestinal obstruction, most commonly caused by cystic fibrosis, presenting with abdominal distension, and treatable with a gastrografin enema are all true statements. الخيار C، The most common cause is cystic fibrosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is commonly complicated by ascites. يصبح صحيحًا في سؤال يصف Being a low/distal intestinal obstruction, most commonly caused by cystic fibrosis, presenting with abdominal distension, and treatable with a gastrografin enema are all true statements. الخيار D، It is associated with abdominal distention: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is commonly complicated by ascites. يصبح صحيحًا في سؤال يصف Being a low/distal intestinal obstruction, most commonly caused by cystic fibrosis, presenting with abdominal distension, and treatable with a gastrografin enema are all true statements. الخيار E، Could be treated with gastrografin enem: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is commonly complicated by ascites. يصبح صحيحًا في سؤال يصف Being a low/distal intestinal obstruction, most commonly caused by cystic fibrosis, presenting with abdominal distension, and treatable with a gastrografin enema are all true statements.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي It is commonly complicated by ascites. الخيار C: الإجابة الصحيحة هي It is commonly complicated by ascites. الخيار D: الإجابة الصحيحة هي It is commonly complicated by ascites. الخيار E: الإجابة الصحيحة هي It is commonly complicated by ascites. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Meconium ileus ≠ routine ascites\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: It is commonly complicated by ascites. الانسداد العقي لا يترافق عادة مع استسقاء إلا إذا تعقّد بثقب معوي — لذلك هذه هي العبارة الخاطئة."
+      "narration": "الخيار B هو الإجابة الصحيحة. الانسداد العقي لا يترافق عادة مع استسقاء إلا إذا تعقّد بثقب معوي — لذلك هذه هي العبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الانسداد العقي لا يترافق عادة مع استسقاء إلا إذا تعقّد بثقب معوي — لذلك هذه هي العبارة الخاطئة. وتذكّر القاعدة: \"Meconium ileus ≠ routine ascites\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الانسداد العقي لا يترافق عادة مع استسقاء إلا إذا تعقّد بثقب معوي — لذلك هذه هي العبارة الخاطئة. وتذكّر: \"Meconium ileus ≠ routine ascites\". والإجابة الصحيحة هي B."
     }
   ]
 }

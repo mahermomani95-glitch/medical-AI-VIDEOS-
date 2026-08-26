@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Diarrhea"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو الأقل احتمالا أن يرتبط بفرط نشاط الغدة جار الدرقية؟ أمامك هذه الخيارات: Urolithiasis، أو Acute pancreatitis، أو Osteitis fibrosa cystica، أو Diarrhea، أو Peptic ulcer disease (PUD). لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو الأقل احتمالا أن يرتبط بفرط نشاط الغدة جار الدرقية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urolithiasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diarrhea. يصبح صحيحًا في سؤال يصف Urolithiasis, acute pancreatitis, osteitis fibrosa cystica, and peptic ulcer disease are all classic associations with hyperparathyroidism (via hypercalcemia), unlike diarrhea — constipation (not diarrhea) is more typically associated with hypercalcemia from hyperparathyroidism. الخيار B، Acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diarrhea. يصبح صحيحًا في سؤال يصف Urolithiasis, acute pancreatitis, osteitis fibrosa cystica, and peptic ulcer disease are all classic associations with hyperparathyroidism (via hypercalcemia), unlike diarrhea — constipation (not diarrhea) is more typically associated with hypercalcemia from hyperparathyroidism. الخيار C، Osteitis fibrosa cystica: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diarrhea. يصبح صحيحًا في سؤال يصف Urolithiasis, acute pancreatitis, osteitis fibrosa cystica, and peptic ulcer disease are all classic associations with hyperparathyroidism (via hypercalcemia), unlike diarrhea — constipation (not diarrhea) is more typically associated with hypercalcemia from hyperparathyroidism. الخيار E، Peptic ulcer disease (PUD): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diarrhea. يصبح صحيحًا في سؤال يصف Urolithiasis, acute pancreatitis, osteitis fibrosa cystica, and peptic ulcer disease are all classic associations with hyperparathyroidism (via hypercalcemia), unlike diarrhea — constipation (not diarrhea) is more typically associated with hypercalcemia from hyperparathyroidism.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Urolithiasis: الإجابة الصحيحة هي Diarrhea. الخيار B، Acute pancreatitis: الإجابة الصحيحة هي Diarrhea. الخيار C، Osteitis fibrosa cystica: الإجابة الصحيحة هي Diarrhea. الخيار E، Peptic ulcer disease (PUD): الإجابة الصحيحة هي Diarrhea. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hyperparathyroidism: Constipation, not diarrhe"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Diarrhea. فرط الكالسيوم بفرط جارات الدرقية يُبطئ الأمعاء (إمساك)، لا يُسرّعها."
+      "narration": "الخيار D، Diarrhea هو الإجابة الصحيحة. فرط الكالسيوم بفرط جارات الدرقية يُبطئ الأمعاء (إمساك)، لا يُسرّعها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرط الكالسيوم بفرط جارات الدرقية يُبطئ الأمعاء (إمساك)، لا يُسرّعها. وتذكّر القاعدة: Hyperparathyroidism: Constipation, not diarrhea. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. فرط الكالسيوم بفرط جارات الدرقية يُبطئ الأمعاء (إمساك)، لا يُسرّعها. وتذكّر: Hyperparathyroidism: Constipation, not diarrhea. والإجابة الصحيحة هي D."
     }
   ]
 }

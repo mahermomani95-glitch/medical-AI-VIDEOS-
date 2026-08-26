@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Perforation is the most common complication"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Perforation is the most common complication، أو Multiple ulcers are present with gastrinoma، أو Gastric ulcer is less common than duodenal ulcer، أو Exclusion of H.pylori infection must be done، أو Gastroduodenal artery is the artery involved with bleeding duodenal ulcer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Multiple ulcers are present with gastrinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Multiple ulcers with gastrinoma, gastric ulcer being less common than duodenal, H. pylori… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Perforation is the most common complication. الخيار C، Gastric ulcer is less common than duodenal ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Multiple ulcers with gastrinoma, gastric ulcer being less common than duodenal, H. pylori… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Perforation is the most common complication. الخيار D، Exclusion of H.pylori infection must be done: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Multiple ulcers with gastrinoma, gastric ulcer being less common than duodenal, H. pylori… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Perforation is the most common complication. الخيار E، Gastroduodenal artery is the artery involved with bleeding duodenal ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Multiple ulcers with gastrinoma, gastric ulcer being less common than duodenal, H. pylori… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Perforation is the most common complication.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Duodenal ulcer: Bleeding > Perforation in fre"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Perforation is the most common complication. النزف، وليس الانثقاب، هو المضاعفة الأشيع للقرحة الاثني عشرية إجمالًا — الانثقاب دراماتيكي لكنه أقل شيوعًا."
+      "narration": "الخيار A هو الإجابة الصحيحة. النزف، وليس الانثقاب، هو المضاعفة الأشيع للقرحة الاثني عشرية إجمالًا — الانثقاب دراماتيكي لكنه أقل شيوعًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النزف، وليس الانثقاب، هو المضاعفة الأشيع للقرحة الاثني عشرية إجمالًا — الانثقاب دراماتيكي لكنه أقل شيوعًا. وتذكّر القاعدة: \"Duodenal ulcer: Bleeding > Perforation in frequency\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. النزف، وليس الانثقاب، هو المضاعفة الأشيع للقرحة الاثني عشرية إجمالًا — الانثقاب دراماتيكي لكنه أقل شيوعًا. وتذكّر: \"Duodenal ulcer: Bleeding > Perforation in frequency\". والإجابة الصحيحة هي A."
     }
   ]
 }

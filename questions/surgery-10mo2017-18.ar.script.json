@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Epidural hematoma"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو التشخيص الأكثر احتمالا في مريض إصابة في الرأس يفقدالوعي، ثم يتعافى ويحصل على فترة صفاء ذهني، ثم يفقد الوعي مرة أخرى؟ أمامك هذه الخيارات: Contusion، أو Subdural hematoma، أو Subarachnoid haemorrhage، أو Epidural hematoma، أو Concussion. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو التشخيص الأكثر احتمالا في مريض إصابة في الرأس يفقدالوعي، ثم يتعافى ويحصل على فترة صفاء ذهني، ثم يفقد الوعي مرة أخرى؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Contusion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epidural hematoma. يصبح صحيحًا في سؤال يصف Cerebral contusion, subdural hematoma, subarachnoid hemorrhage, and concussion don't classically present with a lucid interval followed by deterioration — this pattern is the hallmark of epidural hematoma. الخيار B، Subdural hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epidural hematoma. يصبح صحيحًا في سؤال يصف Cerebral contusion, subdural hematoma, subarachnoid hemorrhage, and concussion don't classically present with a lucid interval followed by deterioration — this pattern is the hallmark of epidural hematoma. الخيار C، Subarachnoid haemorrhage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epidural hematoma. يصبح صحيحًا في سؤال يصف Cerebral contusion, subdural hematoma, subarachnoid hemorrhage, and concussion don't classically present with a lucid interval followed by deterioration — this pattern is the hallmark of epidural hematoma. الخيار E، Concussion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epidural hematoma. يصبح صحيحًا في سؤال يصف Cerebral contusion, subdural hematoma, subarachnoid hemorrhage, and concussion don't classically present with a lucid interval followed by deterioration — this pattern is the hallmark of epidural hematoma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Contusion: الإجابة الصحيحة هي Epidural hematoma. الخيار B، Subdural hematoma: الإجابة الصحيحة هي Epidural hematoma. الخيار C، Subarachnoid haemorrhage: الإجابة الصحيحة هي Epidural hematoma. الخيار E، Concussion: الإجابة الصحيحة هي Epidural hematoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Head trauma, loss of consciousness: Epidural h"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Epidural hematoma. فقدان الوعي بعد رض رأسي يوجه كلاسيكيًا للورم الدموي فوق الجافية."
+      "narration": "الخيار D، Epidural hematoma هو الإجابة الصحيحة. فقدان الوعي بعد رض رأسي يوجه كلاسيكيًا للورم الدموي فوق الجافية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فقدان الوعي بعد رض رأسي يوجه كلاسيكيًا للورم الدموي فوق الجافية. وتذكّر القاعدة: Head trauma, loss of consciousness: Epidural hematoma classic. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. فقدان الوعي بعد رض رأسي يوجه كلاسيكيًا للورم الدموي فوق الجافية. وتذكّر: Head trauma, loss of consciousness: Epidural hematoma classic. والإجابة الصحيحة هي D."
     }
   ]
 }

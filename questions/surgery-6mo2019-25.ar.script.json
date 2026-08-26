@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "screening depends on patient clinical risk factors"
       },
-      "narration": "لنبدأ بهذا السؤال. بخصوص فحص سرطان الثدي، العبارة الأدق مما يلي هي: أمامك هذه الخيارات: Start after 40 years old in all females، أو Breast ultrasound is the best in females age more than 30 years old، أو screening depends on patient clinical risk factors، أو Dense breasts increase the sensitivity of mammography and are associated with an decresed risk for breast cancer، أو Breast MRI is currently the best available population-based method to detect breast cancer at an early stage. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بخصوص فحص سرطان الثدي، العبارة الأدق مما يلي هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Start after 40 years old in all females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف Screening starting at 40 for all women uniformly is an older, less individualized approach. الخيار B، Breast ultrasound is the best in females age more than 30 years old: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف ultrasound is not necessarily 'best' over mammography for all women over 30. الخيار D، Dense breasts increase the sensitivity of mammography and are associated with an decresed risk for breast cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي screening depends on patient clinical risk factors. يصبح صحيحًا في سؤال يصف dense breasts actually DECREASE mammographic sensitivity and INCREASE (not decrease) cancer risk. الخيار E، Breast MRI is currently the best available population-based method to detect breast cancer at an early stage: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the best population-wide screening method due to cost/availability — these misstate current screening principles. يصبح صحيحًا في سؤال يصف MRI, while sensitive.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Screening = Individualized by risk\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: screening depends on patient clinical risk factors. الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع."
+      "narration": "الخيار C هو الإجابة الصحيحة. الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع. وتذكّر القاعدة: \"Screening = Individualized by risk\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الفرز ليس مقاسًا واحدًا يناسب الجميع — يجب أن يُصمَّم حسب عوامل الخطر الفردية لكل مريضة، وليس قاعدة عامة موحدة للجميع. وتذكّر: \"Screening = Individualized by risk\". والإجابة الصحيحة هي C."
     }
   ]
 }

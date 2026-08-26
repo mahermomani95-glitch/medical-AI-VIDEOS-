@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Uncommon breast carcinoma"
       },
-      "narration": "لنبدأ بهذا السؤال. مرض باجيت في الثدي؟ أمامك هذه الخيارات: Present anywhere on breast skin، أو Usually bilateral، أو Uncommon breast carcinoma، أو Bad prognosis، أو Is diagnosed by mammogram. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مرض باجيت في الثدي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Present anywhere on breast skin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uncommon breast carcinoma. يصبح صحيحًا في سؤال يصف Paget's disease can present anywhere on the nipple-areolar complex. الخيار B، Usually bilateral: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bilateral. يصبح صحيحًا في سؤال يصف it's usually UNILATERAL. الخيار D، Bad prognosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Uncommon breast carcinoma. يصبح صحيحًا في سؤال يصف it actually carries a relatively good prognosis when limited to the nipple without an underlying mass. الخيار E، Is diagnosed by mammogram: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا mammogram alone — the true statement is that it is an uncommon form of breast carcinoma. يصبح صحيحًا في سؤال يصف it's diagnosed by biopsy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Uncommon breast carcinoma. الخيار B، Usually bilateral: المطلوب هنا bilateral. الخيار D، Bad prognosis: الإجابة الصحيحة هي Uncommon breast carcinoma. الخيار E، Is diagnosed by mammogram: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Paget's breast disease: an Uncommon carcinoma"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Uncommon breast carcinoma. داء باجيت الثديي شكل نادر من سرطان الثدي رغم مظهره الجلدي."
+      "narration": "الخيار C، Uncommon breast carcinoma هو الإجابة الصحيحة. داء باجيت الثديي شكل نادر من سرطان الثدي رغم مظهره الجلدي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. داء باجيت الثديي شكل نادر من سرطان الثدي رغم مظهره الجلدي. وتذكّر القاعدة: Paget's breast disease: an Uncommon carcinoma. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. داء باجيت الثديي شكل نادر من سرطان الثدي رغم مظهره الجلدي. وتذكّر: Paget's breast disease: an Uncommon carcinoma. والإجابة الصحيحة هي C."
     }
   ]
 }

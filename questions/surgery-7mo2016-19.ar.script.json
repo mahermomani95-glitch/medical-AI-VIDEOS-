@@ -45,7 +45,7 @@
         "label": "It does not lead to Hemolysis",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بـالبرفرية الخثارية قليلة الصفائح الدمويةباستثناء؟ أمامك هذه الخيارات: It does not lead to Hemolysis، أو The Coombs test is negative، أو Lower limbs petechiae are the most common presentation، أو Seizures and coma are common complications، أو The first line of treatment is plasma exchange. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بـالبرفرية الخثارية قليلة الصفائح الدمويةباستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، The Coombs test is negative: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis. الخيار C، Lower limbs petechiae are the most common presentation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis. الخيار D، Seizures and coma are common complications: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis. الخيار E، The first line of treatment is plasma exchange: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The Coombs test being negative, lower limb petechiae as a common presentation, seizures/coma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It does not lead to Hemolysis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "TTP: Truly causes hemolysis, doesn't exclude i"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: It does not lead to Hemolysis. TTP يسبب انحلالاً دمويًا فعليًا كأحد مكوناته الأساسية."
+      "narration": "الخيار A هو الإجابة الصحيحة. TTP يسبب انحلالاً دمويًا فعليًا كأحد مكوناته الأساسية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. TTP يسبب انحلالاً دمويًا فعليًا كأحد مكوناته الأساسية. وتذكّر القاعدة: TTP: Truly causes hemolysis, doesn't exclude it. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. TTP يسبب انحلالاً دمويًا فعليًا كأحد مكوناته الأساسية. وتذكّر: TTP: Truly causes hemolysis, doesn't exclude it. والإجابة الصحيحة هي A."
     }
   ]
 }

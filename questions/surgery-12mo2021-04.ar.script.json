@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Due to ligation of the superior thyroid artery"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض بعد استئصال الغدة الدرقية أصيب بخدر وتنميل حول الفم. جميع ما يلي صحيح ما عدا: أمامك هذه الخيارات: Due to ischemic injury to the parathyroid glands، أو Perioral numbness، أو Management by calcium measurement and replacement، أو Due to ligation of the superior thyroid artery، أو Is the most common complication after thyroidectomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض بعد استئصال الغدة الدرقية أصيب بخدر وتنميل حول الفم. جميع ما يلي صحيح ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Due to ischemic injury to the parathyroid glands: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ischemic parathyroid injury as the cause, perioral numbness as the symptom, calcium… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Due to ligation of the superior thyroid artery. الخيار B، Perioral numbness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ischemic parathyroid injury as the cause, perioral numbness as the symptom, calcium… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Due to ligation of the superior thyroid artery. الخيار C، Management by calcium measurement and replacement: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ischemic parathyroid injury as the cause, perioral numbness as the symptom, calcium… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Due to ligation of the superior thyroid artery. الخيار E، Is the most common complication after thyroidectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ischemic parathyroid injury as the cause, perioral numbness as the symptom, calcium… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Due to ligation of the superior thyroid artery.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B، Perioral numbness: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Perioral numbness = Hypocalcemia from parathy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Due to ligation of the superior thyroid artery. التنميل حول الفم ناتج عن نقص كالسيوم بسبب أذية إقفارية للغدد جارات الدرقية أثناء جراحة الدرقية — وليس ربط الشريان الدرقي العلوي الذي لا علاقة له بالكالسيوم."
+      "narration": "الخيار D هو الإجابة الصحيحة. التنميل حول الفم ناتج عن نقص كالسيوم بسبب أذية إقفارية للغدد جارات الدرقية أثناء جراحة الدرقية — وليس ربط الشريان الدرقي العلوي الذي لا علاقة له بالكالسيوم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التنميل حول الفم ناتج عن نقص كالسيوم بسبب أذية إقفارية للغدد جارات الدرقية أثناء جراحة الدرقية — وليس ربط الشريان الدرقي العلوي الذي لا علاقة له بالكالسيوم. وتذكّر القاعدة: \"Perioral numbness = Hypocalcemia from parathyroid injury, not thyroid artery ligation\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. التنميل حول الفم ناتج عن نقص كالسيوم بسبب أذية إقفارية للغدد جارات الدرقية أثناء جراحة الدرقية — وليس ربط الشريان الدرقي العلوي الذي لا علاقة له بالكالسيوم. والإجابة الصحيحة هي D."
     }
   ]
 }

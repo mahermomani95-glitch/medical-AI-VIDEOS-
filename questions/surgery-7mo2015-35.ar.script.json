@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Inferior mesenteric artery"
       },
-      "narration": "لنبدأ بهذا السؤال. الشريان الأكثر شيوعًا الذي يتم ربطه في إصلاح تمدد الأوعية الدموية الأبهريالبطني هو؟ أمامك هذه الخيارات: Right colic artery، أو Inferior mesenteric artery، أو Superior mesenteric artery، أو Middle colic artery، أو Inferior rectal artery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الشريان الأكثر شيوعًا الذي يتم ربطه في إصلاح تمدد الأوعية الدموية الأبهريالبطني هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Right colic artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inferior mesenteric artery. يصبح صحيحًا في سؤال يصف The right colic artery, superior mesenteric artery, middle colic artery, and inferior rectal artery are generally preserved during AAA repair, but the inferior mesenteric artery is the vessel most commonly ligated since it often arises directly from the aneurysmal segment. الخيار C، Superior mesenteric artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inferior mesenteric artery. يصبح صحيحًا في سؤال يصف The right colic artery, superior mesenteric artery, middle colic artery, and inferior rectal artery are generally preserved during AAA repair, but the inferior mesenteric artery is the vessel most commonly ligated since it often arises directly from the aneurysmal segment. الخيار D، Middle colic artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inferior mesenteric artery. يصبح صحيحًا في سؤال يصف The right colic artery, superior mesenteric artery, middle colic artery, and inferior rectal artery are generally preserved during AAA repair, but the inferior mesenteric artery is the vessel most commonly ligated since it often arises directly from the aneurysmal segment. الخيار E، Inferior rectal artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inferior mesenteric artery. يصبح صحيحًا في سؤال يصف The right colic artery, superior mesenteric artery, middle colic artery, and inferior rectal artery are generally preserved during AAA repair, but the inferior mesenteric artery is the vessel most commonly ligated since it often arises directly from the aneurysmal segment.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Right colic artery: الإجابة الصحيحة هي Inferior mesenteric artery. الخيار C، Superior mesenteric artery: الإجابة الصحيحة هي Inferior mesenteric artery. الخيار D، Middle colic artery: الإجابة الصحيحة هي Inferior mesenteric artery. الخيار E، Inferior rectal artery: الإجابة الصحيحة هي Inferior mesenteric artery. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "AAA repair: Inferior mesenteric artery routine"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Inferior mesenteric artery. الشريان المساريقي السفلي هو الأكثر ربطًا روتينيًا بإصلاح أم دم الأبهر."
+      "narration": "الخيار B، Inferior mesenteric artery هو الإجابة الصحيحة. الشريان المساريقي السفلي هو الأكثر ربطًا روتينيًا بإصلاح أم دم الأبهر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشريان المساريقي السفلي هو الأكثر ربطًا روتينيًا بإصلاح أم دم الأبهر. وتذكّر القاعدة: AAA repair: Inferior mesenteric artery routinely ligated. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الشريان المساريقي السفلي هو الأكثر ربطًا روتينيًا بإصلاح أم دم الأبهر. وتذكّر: AAA repair: Inferior mesenteric artery routinely ligated. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Arterial Injury"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل أسباب الوذمة الثنائية في الأطراف السفلية كل ما يلي باستثناء أمامك هذه الخيارات: Congestive heart failure، أو Nephrotic Syndrome، أو Retroperitoneal Sarcoma، أو Arterial Injury، أو Liver Cirrhosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل أسباب الوذمة الثنائية في الأطراف السفلية كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Congestive heart failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury. الخيار B، Nephrotic Syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury. الخيار C، Retroperitoneal Sarcoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury. الخيار E، Liver Cirrhosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Congestive heart failure, nephrotic syndrome, retroperitoneal sarcoma… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Arterial Injury.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Congestive heart failure: صحيحة، لكنها ليست الاستثناء. الخيار B، Nephrotic Syndrome: صحيحة، لكنها ليست الاستثناء. الخيار C، Retroperitoneal Sarcoma: صحيحة، لكنها ليست الاستثناء. الخيار E، Liver Cirrhosis: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Arterial injury = ischemia, not edema\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Arterial Injury. أذية الشريان تسبب طرفًا باردًا شاحبًا بلا نبض بسبب نقص التروية — وليس وذمة، التي تتطلب آليات وريدية/لمفاوية أو فرط حمل سائلي جهازي."
+      "narration": "الخيار D، Arterial Injury هو الإجابة الصحيحة. أذية الشريان تسبب طرفًا باردًا شاحبًا بلا نبض بسبب نقص التروية — وليس وذمة، التي تتطلب آليات وريدية/لمفاوية أو فرط حمل سائلي جهازي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. أذية الشريان تسبب طرفًا باردًا شاحبًا بلا نبض بسبب نقص التروية — وليس وذمة، التي تتطلب آليات وريدية/لمفاوية أو فرط حمل سائلي جهازي. وتذكّر القاعدة: \"Arterial injury = ischemia, not edema\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. أذية الشريان تسبب طرفًا باردًا شاحبًا بلا نبض بسبب نقص التروية — وليس وذمة، التي تتطلب آليات وريدية/لمفاوية أو فرط حمل سائلي جهازي. وتذكّر: \"Arterial injury = ischemia, not edema\". والإجابة الصحيحة هي D."
     }
   ]
 }

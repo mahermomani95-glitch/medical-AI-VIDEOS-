@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Bleeding internal hemorrhoids are always managed by…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Internal hemorrhoids are vascular cushions above the dentate line، أو Bleeding internal hemorrhoids are always managed by surgical excision، أو Prolapsing hemorrhoids are internal hemorrhoids that prolapse beyond the dentate line، أو Complications of hemorrhoidectomy include sphincter damage، أو Hemorrhoids can be secondary to portal hypertension or cancer of the rectum. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Internal hemorrhoids are vascular cushions above the dentate line: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal hemorrhoids as vascular cushions above the dentate line, prolapsing hemorrhoids… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bleeding internal hemorrhoids are always managed by surgical excision. الخيار C، Prolapsing hemorrhoids are internal hemorrhoids that prolapse beyond the dentate line: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal hemorrhoids as vascular cushions above the dentate line, prolapsing hemorrhoids… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bleeding internal hemorrhoids are always managed by surgical excision. الخيار D، Complications of hemorrhoidectomy include sphincter damage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal hemorrhoids as vascular cushions above the dentate line, prolapsing hemorrhoids… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bleeding internal hemorrhoids are always managed by surgical excision. الخيار E، Hemorrhoids can be secondary to portal hypertension or cancer of the rectum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal hemorrhoids as vascular cushions above the dentate line, prolapsing hemorrhoids… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Bleeding internal hemorrhoids are always managed by surgical excision.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Bleeding hemorrhoids ≠ always surgery\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Bleeding internal hemorrhoids are always managed by surgical excision. البواسير الداخلية النازفة تُعالَج عادة أولًا بإجراءات محافظة/عيادية (ربط مطاطي، ألياف) — الجراحة ليست الحل دائمًا."
+      "narration": "الخيار B هو الإجابة الصحيحة. البواسير الداخلية النازفة تُعالَج عادة أولًا بإجراءات محافظة/عيادية (ربط مطاطي، ألياف) — الجراحة ليست الحل دائمًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البواسير الداخلية النازفة تُعالَج عادة أولًا بإجراءات محافظة/عيادية (ربط مطاطي، ألياف) — الجراحة ليست الحل دائمًا. وتذكّر القاعدة: \"Bleeding hemorrhoids ≠ always surgery\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. البواسير الداخلية النازفة تُعالَج عادة أولًا بإجراءات محافظة/عيادية (ربط مطاطي، ألياف) — الجراحة ليست الحل دائمًا. وتذكّر: \"Bleeding hemorrhoids ≠ always surgery\". والإجابة الصحيحة هي B."
     }
   ]
 }

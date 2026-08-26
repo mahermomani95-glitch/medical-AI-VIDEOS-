@@ -45,7 +45,7 @@
         "label": "hoarsenness is presenting symptom",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. ما هو الخطأ في التهاب لسان المزمار الحاد؟ (سؤال مكرر، راجع السؤال رقم 158) أمامك هذه الخيارات: common in children، أو caused by H.influenzae، أو hoarsenness is presenting symptom، أو painfull swallowing، أو orooling of saliva. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ما هو الخطأ في التهاب لسان المزمار الحاد؟ (سؤال مكرر، راجع السؤال رقم 158) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، common in children: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically a presenting symptom (a muffled voice and stridor are more typical), making C the false statement. يصبح صحيحًا في سؤال يصف Being common in children, caused by H. influenzae, causing painful swallowing, and drooling are all true statements about acute epiglottitis — however, hoarseness. الخيار B، caused by H.influenzae: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically a presenting symptom (a muffled voice and stridor are more typical), making C the false statement. يصبح صحيحًا في سؤال يصف Being common in children, caused by H. influenzae, causing painful swallowing, and drooling are all true statements about acute epiglottitis — however, hoarseness. الخيار D، painfull swallowing: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically a presenting symptom (a muffled voice and stridor are more typical), making C the false statement. يصبح صحيحًا في سؤال يصف Being common in children, caused by H. influenzae, causing painful swallowing, and drooling are all true statements about acute epiglottitis — however, hoarseness. الخيار E، orooling of saliva: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically a presenting symptom (a muffled voice and stridor are more typical), making C the false statement. يصبح صحيحًا في سؤال يصف Being common in children, caused by H. influenzae, causing painful swallowing, and drooling are all true statements about acute epiglottitis — however, hoarseness.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، common in children: لا ينطبق على هذه الحالة. الخيار B، caused by H.influenzae: لا ينطبق على هذه الحالة. الخيار D، painfull swallowing: لا ينطبق على هذه الحالة. الخيار E، orooling of saliva: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Epiglottitis: presents with Drooling, not hoar"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: hoarsenness is presenting symptom. سيلان اللعاب والصرير، لا البحة، هما العرضان المقدمان النمطيان لالتهاب لسان المزمار."
+      "narration": "الخيار C، hoarsenness is presenting symptom هو الإجابة الصحيحة. سيلان اللعاب والصرير، لا البحة، هما العرضان المقدمان النمطيان لالتهاب لسان المزمار."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سيلان اللعاب والصرير، لا البحة، هما العرضان المقدمان النمطيان لالتهاب لسان المزمار. وتذكّر القاعدة: Epiglottitis: presents with Drooling, not hoarseness. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. سيلان اللعاب والصرير، لا البحة، هما العرضان المقدمان النمطيان لالتهاب لسان المزمار. وتذكّر: Epiglottitis: presents with Drooling, not hoarseness. والإجابة الصحيحة هي C."
     }
   ]
 }

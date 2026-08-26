@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Age, gender, and family history in immediate…"
       },
-      "narration": "لنبدأ بهذا السؤال. ما هي أهم عوامل الخطر السريرية المفيدة لسرطان الثدي؟ أمامك هذه الخيارات: Fibrocystic disease, age, gender، أو Cysts, family history, immediate relatives and gender، أو Age, gender, and family history in immediate relatives، أو Obesity and alcohol use، أو Nulliparity. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ما هي أهم عوامل الخطر السريرية المفيدة لسرطان الثدي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fibrocystic disease, age, gender: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives. يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or associations, but the combination of age, gender, and family history in immediate relatives remains the most clinically useful and actionable set for risk assessment. الخيار B، Cysts, family history, immediate relatives and gender: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives. يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or associations, but the combination of age, gender, and family history in immediate relatives remains the most clinically useful and actionable set for risk assessment. الخيار D، Obesity and alcohol use: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives. يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or associations, but the combination of age, gender, and family history in immediate relatives remains the most clinically useful and actionable set for risk assessment. الخيار E، Nulliparity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age, gender, and family history in immediate relatives. يصبح صحيحًا في سؤال يصف Fibrocystic disease combined with age/gender, cysts with family history, obesity/alcohol use, and nulliparity are all recognized risk factors or associations, but the combination of age, gender, and family history in immediate relatives remains the most clinically useful and actionable set for risk assessment.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Fibrocystic disease, age, gender: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار D، Obesity and alcohol use: لا ينطبق على هذه الحالة. الخيار E، Nulliparity: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Age, gender, family history = the 'big 3' cli"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Age, gender, and family history in immediate relatives. العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا."
+      "narration": "الخيار C هو الإجابة الصحيحة. العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا. وتذكّر القاعدة: \"Age, gender, family history = the 'big 3' clinically useful risk factors\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. العمر والجنس والقصة العائلية بالأقارب من الدرجة الأولى هي عوامل الخطر ذات الأدلة الأقوى والأكثر ثباتًا وقابلية للتطبيق سريريًا. والإجابة الصحيحة هي C."
     }
   ]
 }

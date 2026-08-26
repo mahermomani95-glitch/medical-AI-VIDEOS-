@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Inferior thyroid arteries"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم إمداد الغدد جارات الدرقية بالدم بشكل رئيسي عن طريق؟ أمامك هذه الخيارات: Superior thyroid arteries، أو Inferior thyroid arteries، أو Thyroidea ima arteries، أو Parathyroid arterial branches from external carotid arteries، أو Highly varible. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم إمداد الغدد جارات الدرقية بالدم بشكل رئيسي عن طريق؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Superior thyroid arteries: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the principal supply — inferior thyroid arteries provide the principal blood supply to the parathyroid glands. يصبح صحيحًا في سؤال يصف Superior thyroid arteries, thyroidea ima arteries, and external carotid branches directly. الخيار C، Thyroidea ima arteries: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the principal supply — inferior thyroid arteries provide the principal blood supply to the parathyroid glands. يصبح صحيحًا في سؤال يصف Superior thyroid arteries, thyroidea ima arteries, and external carotid branches directly. الخيار D، Parathyroid arterial branches from external carotid arteries: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the principal supply — inferior thyroid arteries provide the principal blood supply to the parathyroid glands. يصبح صحيحًا في سؤال يصف Superior thyroid arteries, thyroidea ima arteries, and external carotid branches directly. الخيار E، Highly varible: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Inferior thyroid arteries. يصبح صحيحًا في سؤال يصف supply is not typically described as 'highly variable' as the primary answer.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Superior thyroid arteries: لا ينطبق على هذه الحالة. الخيار C، Thyroidea ima arteries: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E، Highly varible: الإجابة الصحيحة هي Inferior thyroid arteries. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Parathyroid blood supply: Inferior thyroid art"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Inferior thyroid arteries. الشرايين الدرقية السفلية هي المصدر الأساسي لتغذية الغدد الجار درقية."
+      "narration": "الخيار B، Inferior thyroid arteries هو الإجابة الصحيحة. الشرايين الدرقية السفلية هي المصدر الأساسي لتغذية الغدد الجار درقية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشرايين الدرقية السفلية هي المصدر الأساسي لتغذية الغدد الجار درقية. وتذكّر القاعدة: Parathyroid blood supply: Inferior thyroid arteries. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الشرايين الدرقية السفلية هي المصدر الأساسي لتغذية الغدد الجار درقية. وتذكّر: Parathyroid blood supply: Inferior thyroid arteries. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Small bowel obstruction"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Small bowel obstruction، أو Large bowel obstruction، أو Acute mesenteric ischemia، أو Colon cancer، أو Colonic pseudo-obstruction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Large bowel obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Small bowel obstruction. يصبح صحيحًا في سؤال يصف Large bowel obstruction, colon cancer, and colonic pseudo-obstruction can cause distension and altered bowel habits, but the specific progressive colicky-to-continuous pain with complete obstipation after prior abdominal surgery points most to adhesive small bowel obstruction. الخيار C، Acute mesenteric ischemia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا this obstructive pattern. يصبح صحيحًا في سؤال يصف acute mesenteric ischemia typically shows pain out of proportion to exam. الخيار D، Colon cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Small bowel obstruction. يصبح صحيحًا في سؤال يصف Large bowel obstruction, colon cancer, and colonic pseudo-obstruction can cause distension and altered bowel habits, but the specific progressive colicky-to-continuous pain with complete obstipation after prior abdominal surgery points most to adhesive small bowel obstruction. الخيار E، Colonic pseudo-obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Small bowel obstruction. يصبح صحيحًا في سؤال يصف Large bowel obstruction, colon cancer, and colonic pseudo-obstruction can cause distension and altered bowel habits, but the specific progressive colicky-to-continuous pain with complete obstipation after prior abdominal surgery points most to adhesive small bowel obstruction.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Large bowel obstruction: الإجابة الصحيحة هي Small bowel obstruction. الخيار C، Acute mesenteric ischemia: المطلوب هنا this obstructive pattern. الخيار D، Colon cancer: الإجابة الصحيحة هي Small bowel obstruction. الخيار E، Colonic pseudo-obstruction: الإجابة الصحيحة هي Small bowel obstruction. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Prior abdominal surgery + obstipation = Adhes"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Small bowel obstruction. التحول من ألم نوبي لمستمر مع انتفاخ وانحباس تام (لا غازات ولا براز) عند مريضة بجراحة بطنية سابقة يوجّه لانسداد الأمعاء الدقيقة، غالبًا بسبب التصاقات."
+      "narration": "الخيار A، Small bowel obstruction هو الإجابة الصحيحة. التحول من ألم نوبي لمستمر مع انتفاخ وانحباس تام (لا غازات ولا براز) عند مريضة بجراحة بطنية سابقة يوجّه لانسداد الأمعاء الدقيقة، غالبًا بسبب التصاقات."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التحول من ألم نوبي لمستمر مع انتفاخ وانحباس تام (لا غازات ولا براز) عند مريضة بجراحة بطنية سابقة يوجّه لانسداد الأمعاء الدقيقة، غالبًا بسبب التصاقات. وتذكّر القاعدة: \"Prior abdominal surgery + obstipation = Adhesive SBO\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التحول من ألم نوبي لمستمر مع انتفاخ وانحباس تام (لا غازات ولا براز) عند مريضة بجراحة بطنية سابقة يوجّه لانسداد الأمعاء الدقيقة، غالبًا بسبب التصاقات. وتذكّر: \"Prior abdominal surgery + obstipation = Adhesive SBO\". والإجابة الصحيحة هي A."
     }
   ]
 }

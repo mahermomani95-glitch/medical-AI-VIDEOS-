@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "ß-blockers"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو أفضل طريقة لمنع النزيف الأول في مريض مصاب بدواليالمريء المعروفة؟ أمامك هذه الخيارات: ß-blockers، أو TIPS surgery، أو Sclerotherapy، أو Endoscopic ligation، أو Nitrate. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو أفضل طريقة لمنع النزيف الأول في مريض مصاب بدواليالمريء المعروفة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، TIPS surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ß-blockers. يصبح صحيحًا في سؤال يصف TIPS, sclerotherapy, endoscopic ligation, and nitrates are generally reserved for active bleeding or secondary prevention — non-selective beta-blockers remain the best method for PRIMARY prevention of a first variceal bleed in patients with known varices. الخيار C، Sclerotherapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ß-blockers. يصبح صحيحًا في سؤال يصف TIPS, sclerotherapy, endoscopic ligation, and nitrates are generally reserved for active bleeding or secondary prevention — non-selective beta-blockers remain the best method for PRIMARY prevention of a first variceal bleed in patients with known varices. الخيار D، Endoscopic ligation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ß-blockers. يصبح صحيحًا في سؤال يصف TIPS, sclerotherapy, endoscopic ligation, and nitrates are generally reserved for active bleeding or secondary prevention — non-selective beta-blockers remain the best method for PRIMARY prevention of a first variceal bleed in patients with known varices. الخيار E، Nitrate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ß-blockers. يصبح صحيحًا في سؤال يصف TIPS, sclerotherapy, endoscopic ligation, and nitrates are generally reserved for active bleeding or secondary prevention — non-selective beta-blockers remain the best method for PRIMARY prevention of a first variceal bleed in patients with known varices.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، TIPS surgery: الإجابة الصحيحة هي ß-blockers. الخيار C، Sclerotherapy: الإجابة الصحيحة هي ß-blockers. الخيار D، Endoscopic ligation: الإجابة الصحيحة هي ß-blockers. الخيار E، Nitrate: الإجابة الصحيحة هي ß-blockers. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "First variceal bleed prevention: Beta-blockers"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: ß-blockers. حاصرات بيتا تخفض الضغط البابي وقائيًا لمنع النزف الأول من الدوالي."
+      "narration": "الخيار A، ß-blockers هو الإجابة الصحيحة. حاصرات بيتا تخفض الضغط البابي وقائيًا لمنع النزف الأول من الدوالي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حاصرات بيتا تخفض الضغط البابي وقائيًا لمنع النزف الأول من الدوالي. وتذكّر القاعدة: First variceal bleed prevention: Beta-blockers. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. حاصرات بيتا تخفض الضغط البابي وقائيًا لمنع النزف الأول من الدوالي. وتذكّر: First variceal bleed prevention: Beta-blockers. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Posterior femoral cutaneous nerve"
       },
-      "narration": "لنبدأ بهذا السؤال. قد يكون الألم العصبي بعد الجراحة بعد إصلاح الفتق الإربي ناتجًا عن إصابةأي من الأعصاب التالية باستثناء أمامك هذه الخيارات: ilioinguinal nerve، أو iliohypogastric nerve، أو Genital branch of the genito-femoral nerve، أو Posterior femoral cutaneous nerve، أو Lateral femoral cutaneous nerve. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. قد يكون الألم العصبي بعد الجراحة بعد إصلاح الفتق الإربي ناتجًا عن إصابةأي من الأعصاب التالية باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، ilioinguinal nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The ilioinguinal, iliohypogastric, genital branch of genitofemoral, and lateral femoral… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Posterior femoral cutaneous nerve. الخيار B، iliohypogastric nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The ilioinguinal, iliohypogastric, genital branch of genitofemoral, and lateral femoral… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Posterior femoral cutaneous nerve. الخيار C، Genital branch of the genito-femoral nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The ilioinguinal, iliohypogastric, genital branch of genitofemoral, and lateral femoral… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Posterior femoral cutaneous nerve. الخيار E، Lateral femoral cutaneous nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The ilioinguinal, iliohypogastric, genital branch of genitofemoral, and lateral femoral… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Posterior femoral cutaneous nerve.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، ilioinguinal nerve: صحيحة، لكنها ليست الاستثناء. الخيار B، iliohypogastric nerve: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E، Lateral femoral cutaneous nerve: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Posterior femoral cutaneous = buttock territo"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Posterior femoral cutaneous nerve. العصب الجلدي الفخذي الخلفي يمر عبر الأرداف والفخذ الخلفي، بعيدًا تمامًا عن القناة الإربية — لا يتعرض للخطر في جراحة الفتق الإربي."
+      "narration": "الخيار D، Posterior femoral cutaneous nerve هو الإجابة الصحيحة. العصب الجلدي الفخذي الخلفي يمر عبر الأرداف والفخذ الخلفي، بعيدًا تمامًا عن القناة الإربية — لا يتعرض للخطر في جراحة الفتق الإربي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العصب الجلدي الفخذي الخلفي يمر عبر الأرداف والفخذ الخلفي، بعيدًا تمامًا عن القناة الإربية — لا يتعرض للخطر في جراحة الفتق الإربي. وتذكّر القاعدة: \"Posterior femoral cutaneous = buttock territory, not the groin\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. العصب الجلدي الفخذي الخلفي يمر عبر الأرداف والفخذ الخلفي، بعيدًا تمامًا عن القناة الإربية — لا يتعرض للخطر في جراحة الفتق الإربي. وتذكّر: \"Posterior femoral cutaneous = buttock territory, not the groin\". والإجابة الصحيحة هي D."
     }
   ]
 }

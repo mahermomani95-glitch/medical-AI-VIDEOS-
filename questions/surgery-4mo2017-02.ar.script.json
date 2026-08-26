@@ -45,7 +45,7 @@
         "label": "FFP and vitamin K",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل في الخمسين من عمره دخل المستشفى مصابًا بنزيف وكدمات شديدة. يتناول الوارفارين، و النسبة المعيارية الدولية لديه 10. لعكس النسبة المعياريةالدولية لديه بسرعة وكاملة، أي مما يلي يُستخدم غالبًا:؟ أمامك هذه الخيارات: Platelets، أو FFP and vitamin K، أو IV vitamin K، أو Whole blood and vitamin K، أو Fresh frozen and vitamin C. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل في الخمسين من عمره دخل المستشفى مصابًا بنزيف وكدمات شديدة. يتناول الوارفارين، و النسبة المعيارية الدولية لديه 10. لعكس النسبة المعياريةالدولية لديه بسرعة وكاملة، أي مما يلي يُستخدم غالبًا:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Platelets: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي FFP and vitamin K. يصبح صحيحًا في سؤال يصف Platelets alone don't reverse warfarin. الخيار C، IV vitamin K: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي FFP and vitamin K. يصبح صحيحًا في سؤال يصف IV vitamin K alone takes hours without immediate correction. الخيار D، Whole blood and vitamin K: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي FFP and vitamin K. يصبح صحيحًا في سؤال يصف whole blood isn't standard component therapy. الخيار E، Fresh frozen and vitamin C: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي FFP and vitamin K. يصبح صحيحًا في سؤال يصف FFP with vitamin C is wrong, should be vitamin K — FFP plus vitamin K is correct for severe warfarin-related bleeding.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Platelets: الإجابة الصحيحة هي FFP and vitamin K. الخيار C، IV vitamin K: الإجابة الصحيحة هي FFP and vitamin K. الخيار D: الإجابة الصحيحة هي FFP and vitamin K. الخيار E: الإجابة الصحيحة هي FFP and vitamin K. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Warfarin reversal, active bleeding: FFP plus v"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: FFP and vitamin K. FFP يعوض عوامل التخثر فورًا بينما فيتامين K يصحح السبب الكامن."
+      "narration": "الخيار B، FFP and vitamin K هو الإجابة الصحيحة. FFP يعوض عوامل التخثر فورًا بينما فيتامين K يصحح السبب الكامن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. FFP يعوض عوامل التخثر فورًا بينما فيتامين K يصحح السبب الكامن. وتذكّر القاعدة: Warfarin reversal, active bleeding: FFP plus vitamin K. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. FFP يعوض عوامل التخثر فورًا بينما فيتامين K يصحح السبب الكامن. وتذكّر: Warfarin reversal, active bleeding: FFP plus vitamin K. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Femoral hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. شعر رجل يبلغ من العمر 50 عامًا بألم في فخذه بعد رفع صندوق ثقيل. نُصحبإجراء عملية جراحية. أثناء الجراحة، وُجد كيس فتق مع مفصل صغير منالأمعاء بارزًا أسفل الرباط الإربي مباشرةً. شُخِّص الفتق بأنه؟ (سؤال مكرر، راجع السؤال رقم 550) أمامك هذه الخيارات: Direct inguinal hernia، أو Indirect inguinal hernia، أو Incisional hernia، أو Femoral hernia، أو Congenital inguinal hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. شعر رجل يبلغ من العمر 50 عامًا بألم في فخذه بعد رفع صندوق ثقيل. نُصحبإجراء عملية جراحية. أثناء الجراحة، وُجد كيس فتق مع مفصل صغير منالأمعاء بارزًا أسفل الرباط الإربي مباشرةً. شُخِّص الفتق بأنه؟ (سؤال مكرر، راجع السؤال رقم 550) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Direct inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Direct and indirect inguinal hernias present above the inguinal ligament. الخيار B، Indirect inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Direct and indirect inguinal hernias present above the inguinal ligament. الخيار C، Incisional hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف incisional hernia requires a prior surgical scar. الخيار E، Congenital inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف a congenital inguinal hernia would typically present earlier in life — sudden groin pain after heavy lifting in a woman classically points to femoral hernia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Direct inguinal hernia: الإجابة الصحيحة هي Femoral hernia. الخيار B، Indirect inguinal hernia: الإجابة الصحيحة هي Femoral hernia. الخيار C، Incisional hernia: الإجابة الصحيحة هي Femoral hernia. الخيار E، Congenital inguinal hernia: الإجابة الصحيحة هي Femoral hernia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Woman, heavy lifting, groin pain: Femoral hern"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Femoral hernia. ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا."
+      "narration": "الخيار D، Femoral hernia هو الإجابة الصحيحة. ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا. وتذكّر القاعدة: Woman, heavy lifting, groin pain: Femoral hernia. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ألم إربي بعد رفع ثقيل عند سيدة يوجه للفتق الفخذي تحديدًا. وتذكّر: Woman, heavy lifting, groin pain: Femoral hernia. والإجابة الصحيحة هي D."
     }
   ]
 }

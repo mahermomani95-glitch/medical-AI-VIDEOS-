@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Hypernatremia"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 63 عامًا يعاني من اضطراب النوم وترنح وتشنجات توترية. تركيز المصل الاسموزي 330 مول/كجم. التشخيص الأكثر احتمالًا:؟ أمامك هذه الخيارات: Hyponatremia، أو Hypercalcemia، أو Hyperkalemia، أو Hypernatremia، أو Hypermagnesemia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 63 عامًا يعاني من اضطراب النوم وترنح وتشنجات توترية. تركيز المصل الاسموزي 330 مول/كجم. التشخيص الأكثر احتمالًا:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hyponatremia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypernatremia. يصبح صحيحًا في سؤال يصف Hyponatremia, hypercalcemia, hyperkalemia, and hypermagnesemia don't typically produce this combination with an elevated serum osmolality of 330 — severe hypernatremia is the electrolyte disturbance that raises serum osmolality and causes neurological symptoms like restlessness, ataxia, and tonic spasms. الخيار B، Hypercalcemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypernatremia. يصبح صحيحًا في سؤال يصف Hyponatremia, hypercalcemia, hyperkalemia, and hypermagnesemia don't typically produce this combination with an elevated serum osmolality of 330 — severe hypernatremia is the electrolyte disturbance that raises serum osmolality and causes neurological symptoms like restlessness, ataxia, and tonic spasms. الخيار C، Hyperkalemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypernatremia. يصبح صحيحًا في سؤال يصف Hyponatremia, hypercalcemia, hyperkalemia, and hypermagnesemia don't typically produce this combination with an elevated serum osmolality of 330 — severe hypernatremia is the electrolyte disturbance that raises serum osmolality and causes neurological symptoms like restlessness, ataxia, and tonic spasms. الخيار E، Hypermagnesemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypernatremia. يصبح صحيحًا في سؤال يصف Hyponatremia, hypercalcemia, hyperkalemia, and hypermagnesemia don't typically produce this combination with an elevated serum osmolality of 330 — severe hypernatremia is the electrolyte disturbance that raises serum osmolality and causes neurological symptoms like restlessness, ataxia, and tonic spasms.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hyponatremia: الإجابة الصحيحة هي Hypernatremia. الخيار B، Hypercalcemia: الإجابة الصحيحة هي Hypernatremia. الخيار C، Hyperkalemia: الإجابة الصحيحة هي Hypernatremia. الخيار E، Hypermagnesemia: الإجابة الصحيحة هي Hypernatremia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Osmolality 330 + neuro symptoms: think Hyperna"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Hypernatremia. ارتفاع الأسمولية الشديد مع أعراض عصبية يوجه لفرط صوديوم الدم."
+      "narration": "الخيار D، Hypernatremia هو الإجابة الصحيحة. ارتفاع الأسمولية الشديد مع أعراض عصبية يوجه لفرط صوديوم الدم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع الأسمولية الشديد مع أعراض عصبية يوجه لفرط صوديوم الدم. وتذكّر القاعدة: Osmolality 330 + neuro symptoms: think Hypernatremia. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ارتفاع الأسمولية الشديد مع أعراض عصبية يوجه لفرط صوديوم الدم. وتذكّر: Osmolality 330 + neuro symptoms: think Hypernatremia. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Proceed with surgery",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Proceed with surgery، أو Give FFP and do the surgery، أو Postpone the surgery for 24 hr and stop warfarin، أو Give heparin and do the surgery، أو Postpone the surgery for 12 hr and stop warfarin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Give FFP and do the surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery. يصبح صحيحًا في سؤال يصف Giving FFP to proceed immediately is unnecessary when INR is already normal. الخيار C، Postpone the surgery for 24 hr and stop warfarin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery. يصبح صحيحًا في سؤال يصف postponing 24 or 12 hours is unnecessary delay when the coagulation status is already safe. الخيار D، Give heparin and do the surgery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed when there's no ongoing anticoagulant effect to bridge. يصبح صحيحًا في سؤال يصف giving heparin. الخيار E، Postpone the surgery for 12 hr and stop warfarin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proceed with surgery. يصبح صحيحًا في سؤال يصف postponing 24 or 12 hours is unnecessary delay when the coagulation status is already safe.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي Proceed with surgery. الخيار C: الإجابة الصحيحة هي Proceed with surgery. الخيار D: لا ينطبق على هذه الحالة. الخيار E: الإجابة الصحيحة هي Proceed with surgery. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Normal INR = safe to operate\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Proceed with surgery. INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير."
+      "narration": "الخيار A، Proceed with surgery هو الإجابة الصحيحة. INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير. وتذكّر القاعدة: \"Normal INR = safe to operate\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. INR طبيعي يعني أن تأثير الوارفارين قد زال بالفعل — آمن للمضي بالجراحة دون تأخير. وتذكّر: \"Normal INR = safe to operate\". والإجابة الصحيحة هي A."
     }
   ]
 }

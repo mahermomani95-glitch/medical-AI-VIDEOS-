@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "It is much more common (approximately 80-90%) in…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بدوالي الخصية، كل ما يلي صحيح ما عدا أمامك هذه الخيارات: It is a dilatation of the pampiniform venous plexus and the internal spermatic vein، أو It is a recognised cause of decreased testicular function، أو It impairs sperm structure, function, and production، أو It is much more common (approximately 80-90%) in the right testicle than in the left، أو Physical examination remains the primary method of varicocele detection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بدوالي الخصية، كل ما يلي صحيح ما عدا أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is a dilatation of the pampiniform venous plexus and the internal spermatic vein: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a dilation of the pampiniform plexus and internal spermatic vein, a recognized cause of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is much more common (approximately 80-90%) in the right testicle than in the left. الخيار B، It is a recognised cause of decreased testicular function: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a recognized cause of decreased testicular function, impairing sperm parameters, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is much more common (approximately 80-90%) in the right testicle than in the left. الخيار C، It impairs sperm structure, function, and production: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a dilation of the pampiniform plexus and internal spermatic vein, a recognized cause of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is much more common (approximately 80-90%) in the right testicle than in the left. الخيار E، Physical examination remains the primary method of varicocele detection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a recognized cause of decreased testicular function, impairing sperm parameters, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is much more common (approximately 80-90%) in the right testicle than in the left.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Varicocele = mostly Left (drains into renal v"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: It is much more common (approximately 80-90%) in the right testicle than in the left. دوالي الخصية أشيع بكثير في الجانب الأيسر وليس الأيمن — بسبب تشريح تصريف الوريد التناسلي الأيسر."
+      "narration": "الخيار D هو الإجابة الصحيحة. دوالي الخصية أشيع بكثير في الجانب الأيسر وليس الأيمن — بسبب تشريح تصريف الوريد التناسلي الأيسر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. دوالي الخصية أشيع بكثير في الجانب الأيسر وليس الأيمن — بسبب تشريح تصريف الوريد التناسلي الأيسر. وتذكّر القاعدة: \"Varicocele = mostly Left (drains into renal vein at right angle)\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. دوالي الخصية أشيع بكثير في الجانب الأيسر وليس الأيمن — بسبب تشريح تصريف الوريد التناسلي الأيسر. والإجابة الصحيحة هي D."
     }
   ]
 }

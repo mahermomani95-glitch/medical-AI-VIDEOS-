@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Operative exploration"
       },
-      "narration": "لنبدأ بهذا السؤال. بعد يومين من حادث سيارة، يتعافى رجل في الثلاثين من عمره، يتمتع بصحةجيدة، في وحدة العناية المركزة من كسور في الضلع الأيمن، ونزيف داخلالبطن، وكدمة رئوية دون استرواح صدري، وتمزق في الكبد. يشكو من ألممتزايد في الربع العلوي الأيمن من البطن، ويتقيأ دمًا أحمر فاتحًا. أظهرالتقييم المُركّز بالموجات فوق الصوتية للصدمات عدم وجود انصباب تاموري،ولكن كمية كبيرة من السوائل الحرة داخل الصفاق. أي من الطرق التالية هوالأفضل؟ أمامك هذه الخيارات: Operative exploration، أو Admission for serial hematocrits، أو Discharge home with close follow-up ) D. ERCP with sphincterotomy، أو Retrograde cystourethrography. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بعد يومين من حادث سيارة، يتعافى رجل في الثلاثين من عمره، يتمتع بصحةجيدة، في وحدة العناية المركزة من كسور في الضلع الأيمن، ونزيف داخلالبطن، وكدمة رئوية دون استرواح صدري، وتمزق في الكبد. يشكو من ألممتزايد في الربع العلوي الأيمن من البطن، ويتقيأ دمًا أحمر فاتحًا. أظهرالتقييم المُركّز بالموجات فوق الصوتية للصدمات عدم وجود انصباب تاموري،ولكن كمية كبيرة من السوائل الحرة داخل الصفاق. أي من الطرق التالية هوالأفضل؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Admission for serial hematocrits: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration. يصبح صحيحًا في سؤال يصف Admission for serial hematocrits and discharge with follow-up risk missing ongoing/delayed bleeding requiring intervention. الخيار C، Discharge home with close follow-up ) D. ERCP with sphincterotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration. يصبح صحيحًا في سؤال يصف Admission for serial hematocrits and discharge with follow-up risk missing ongoing/delayed bleeding requiring intervention. الخيار E، Retrograde cystourethrography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Operative exploration. يصبح صحيحًا في سؤال يصف ERCP and cystourethrography are unrelated to splenic injury — operative exploration is indicated given signs suggesting delayed splenic rupture/deterioration.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Admission for serial hematocrits: الإجابة الصحيحة هي Operative exploration. الخيار C: الإجابة الصحيحة هي Operative exploration. الخيار E، Retrograde cystourethrography: الإجابة الصحيحة هي Operative exploration. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Delayed post-trauma deterioration: Demands Exp"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Operative exploration. تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر."
+      "narration": "الخيار A، Operative exploration هو الإجابة الصحيحة. تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر. وتذكّر القاعدة: Delayed post-trauma deterioration: Demands Exploration. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. تدهور مفاجئ بعد رض بيومين يستدعي استكشافًا جراحيًا فوريًا لاستبعاد انفجار طحال متأخر. وتذكّر: Delayed post-trauma deterioration: Demands Exploration. والإجابة الصحيحة هي A."
     }
   ]
 }

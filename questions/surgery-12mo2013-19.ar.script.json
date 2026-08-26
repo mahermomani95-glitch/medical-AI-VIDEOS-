@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Cystic duct"
       },
-      "narration": "لنبدأ بهذا السؤال. الحدث المبدئي الذي يؤدي إلى التهاب المرارة الحصوي الحاد هو انسداد؟ أمامك هذه الخيارات: Common bile duct، أو Common hepatic duct، أو Cystic duct، أو Right hepatic duct، أو Left hepatic duct. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الحدث المبدئي الذي يؤدي إلى التهاب المرارة الحصوي الحاد هو انسداد؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Common bile duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cystic duct. يصبح صحيحًا في سؤال يصف The common bile duct, common hepatic duct, and right/left hepatic ducts are downstream structures, but cystic duct obstruction by a stone is the initiating event in acute calculous cholecystitis. الخيار B، Common hepatic duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cystic duct. يصبح صحيحًا في سؤال يصف The common bile duct, common hepatic duct, and right/left hepatic ducts are downstream structures, but cystic duct obstruction by a stone is the initiating event in acute calculous cholecystitis. الخيار D، Right hepatic duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cystic duct. يصبح صحيحًا في سؤال يصف The common bile duct, common hepatic duct, and right/left hepatic ducts are downstream structures, but cystic duct obstruction by a stone is the initiating event in acute calculous cholecystitis. الخيار E، Left hepatic duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cystic duct. يصبح صحيحًا في سؤال يصف The common bile duct, common hepatic duct, and right/left hepatic ducts are downstream structures, but cystic duct obstruction by a stone is the initiating event in acute calculous cholecystitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Common bile duct: الإجابة الصحيحة هي Cystic duct. الخيار B، Common hepatic duct: الإجابة الصحيحة هي Cystic duct. الخيار D، Right hepatic duct: الإجابة الصحيحة هي Cystic duct. الخيار E، Left hepatic duct: الإجابة الصحيحة هي Cystic duct. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Acute cholecystitis: starts with Cystic duct o"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Cystic duct. انسداد القناة المرارية هو الحدث المبدئي لالتهاب المرارة الحصوي الحاد."
+      "narration": "الخيار C، Cystic duct هو الإجابة الصحيحة. انسداد القناة المرارية هو الحدث المبدئي لالتهاب المرارة الحصوي الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انسداد القناة المرارية هو الحدث المبدئي لالتهاب المرارة الحصوي الحاد. وتذكّر القاعدة: Acute cholecystitis: starts with Cystic duct obstruction. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. انسداد القناة المرارية هو الحدث المبدئي لالتهاب المرارة الحصوي الحاد. وتذكّر: Acute cholecystitis: starts with Cystic duct obstruction. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Admission and consider Tracheal intubation"
       },
-      "narration": "لنبدأ بهذا السؤال. حضر مريض يبلغ من العمر 23 عامًا إلى قسم الطوارئ مصابًا بحروق فيالوجه وضيق في التنفس. بالفحص السريري، وُجد حرق جزئي في الأنفوالشفتين والحاجبين والفم ومنطقة الرقبة الأمامية، بالإضافة إلى معدل نبضاتقلب 30 نبضة في الدقيقة، وكان هناك بحة خفيفة في الصوت وسرعة فيالتنفس. الخطوة التالية الأنسب للعلاج هي: أمامك هذه الخيارات: Admission and start IV fluid therapy، أو Observation in the ER for 24 hours، أو Admission and consider Tracheal intubation، أو Admission and consider crycothyroidotomy، أو Admission and consult plastic surgery team. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضر مريض يبلغ من العمر 23 عامًا إلى قسم الطوارئ مصابًا بحروق فيالوجه وضيق في التنفس. بالفحص السريري، وُجد حرق جزئي في الأنفوالشفتين والحاجبين والفم ومنطقة الرقبة الأمامية، بالإضافة إلى معدل نبضاتقلب 30 نبضة في الدقيقة، وكان هناك بحة خفيفة في الصوت وسرعة فيالتنفس. الخطوة التالية الأنسب للعلاج هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Admission and start IV fluid therapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the airway risk. يصبح صحيحًا في سؤال يصف Admission with IV fluids alone. الخيار B، Observation in the ER for 24 hours: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission and consider Tracheal intubation. يصبح صحيحًا في سؤال يصف observation for 24 hours risks missing rapidly progressing airway edema. الخيار D، Admission and consider crycothyroidotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first proactive step. يصبح صحيحًا في سؤال يصف cricothyroidotomy is a more invasive fallback. الخيار E، Admission and consult plastic surgery team: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Admission and consider Tracheal intubation. يصبح صحيحًا في سؤال يصف plastic surgery consultation isn't the immediate priority compared to airway management.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا address the airway risk. الخيار B: الإجابة الصحيحة هي Admission and consider Tracheal intubation. الخيار D، Admission and consider crycothyroidotomy: المطلوب هنا the first proactive step. الخيار E: الإجابة الصحيحة هي Admission and consider Tracheal intubation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hoarseness + facial burn = secure airway NOW\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Admission and consider Tracheal intubation. بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم."
+      "narration": "الخيار C هو الإجابة الصحيحة. بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم. وتذكّر القاعدة: \"Hoarseness + facial burn = secure airway NOW\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. بحّة الصوت مع حروق الوجه/الرقبة وضيق التنفس علامات إنذار لوذمة مجرى الهواء — يجب تأمين المجرى قبل أن ينسد تمامًا بالتورم. وتذكّر: \"Hoarseness + facial burn = secure airway NOW\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "UTI"
       },
-      "narration": "لنبدأ بهذا السؤال. في اليوم الخامس بعد استئصال الكبد، لوحظت حمى لدى مريض سليم يبلغمن العمر 55 عامًا بلغت 38.6 درجة مئوية. أي مما يلي هو الأكثر شيوعًا:؟ أمامك هذه الخيارات: UTI، أو Wound infection، أو Pneumonia، أو Intra_abdominal abscess، أو Intravenous catheter related infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في اليوم الخامس بعد استئصال الكبد، لوحظت حمى لدى مريض سليم يبلغمن العمر 55 عامًا بلغت 38.6 درجة مئوية. أي مما يلي هو الأكثر شيوعًا:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Wound infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي UTI. يصبح صحيحًا في سؤال يصف Wound infection, pneumonia, intra-abdominal abscess, and catheter-related infection tend to present later in the postoperative course (per the classic timeline), but urinary tract infection remains the most common cause of fever specifically around day 3-5 postoperatively. الخيار C، Pneumonia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي UTI. يصبح صحيحًا في سؤال يصف Wound infection, pneumonia, intra-abdominal abscess, and catheter-related infection tend to present later in the postoperative course (per the classic timeline), but urinary tract infection remains the most common cause of fever specifically around day 3-5 postoperatively. الخيار D، Intra_abdominal abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي UTI. يصبح صحيحًا في سؤال يصف Wound infection, pneumonia, intra-abdominal abscess, and catheter-related infection tend to present later in the postoperative course (per the classic timeline), but urinary tract infection remains the most common cause of fever specifically around day 3-5 postoperatively. الخيار E، Intravenous catheter related infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي UTI. يصبح صحيحًا في سؤال يصف Wound infection, pneumonia, intra-abdominal abscess, and catheter-related infection tend to present later in the postoperative course (per the classic timeline), but urinary tract infection remains the most common cause of fever specifically around day 3-5 postoperatively.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Wound infection: الإجابة الصحيحة هي UTI. الخيار C، Pneumonia: الإجابة الصحيحة هي UTI. الخيار D، Intra_abdominal abscess: الإجابة الصحيحة هي UTI. الخيار E، Intravenous catheter related infection: الإجابة الصحيحة هي UTI. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Post-op day 5 fever: UTI remains a common caus"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: UTI. عدوى المسالك البولية سبب شائع للحمى حتى باليوم الخامس بعد الجراحة."
+      "narration": "الخيار A، UTI هو الإجابة الصحيحة. عدوى المسالك البولية سبب شائع للحمى حتى باليوم الخامس بعد الجراحة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدوى المسالك البولية سبب شائع للحمى حتى باليوم الخامس بعد الجراحة. وتذكّر القاعدة: Post-op day 5 fever: UTI remains a common cause. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. عدوى المسالك البولية سبب شائع للحمى حتى باليوم الخامس بعد الجراحة. وتذكّر: Post-op day 5 fever: UTI remains a common cause. والإجابة الصحيحة هي A."
     }
   ]
 }

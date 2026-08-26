@@ -45,7 +45,7 @@
         "region": "head",
         "label": "They are common benign salivary tumors"
       },
-      "narration": "لنبدأ بهذا السؤال. تتميز الأورام الغدية متعددة الأشكال في الغدد اللعابية بواحدة مما يلي؟ أمامك هذه الخيارات: They occur only in the parotid glands، أو They grow rapidly، أو They rarely recur if simply enucleated، أو They present as rock _ hard masses، أو They are common benign salivary tumors. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تتميز الأورام الغدية متعددة الأشكال في الغدد اللعابية بواحدة مما يلي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، They occur only in the parotid glands: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا only parotid. يصبح صحيحًا في سؤال يصف Pleomorphic adenomas can occur in other salivary glands too. الخيار B، They grow rapidly: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They are common benign salivary tumors. يصبح صحيحًا في سؤال يصف they actually grow SLOWLY (not rapidly). الخيار C، They rarely recur if simply enucleated: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They are common benign salivary tumors. يصبح صحيحًا في سؤال يصف they DO have a tendency to recur if simply enucleated without a margin of normal tissue. الخيار D، They present as rock _ hard masses: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They are common benign salivary tumors. يصبح صحيحًا في سؤال يصف they present as firm/rubbery (not rock-hard, which would suggest malignancy) masses — the true statement is that they are the most common benign salivary tumor overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا only parotid. الخيار B، They grow rapidly: الإجابة الصحيحة هي They are common benign salivary tumors. الخيار C: الإجابة الصحيحة هي They are common benign salivary tumors. الخيار D: الإجابة الصحيحة هي They are common benign salivary tumors. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pleomorphic adenoma: Predominantly benign and "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: They are common benign salivary tumors. الورم الغدي متعدد الأشكال هو الأشيع بين الأورام الحميدة اللعابية."
+      "narration": "الخيار E هو الإجابة الصحيحة. الورم الغدي متعدد الأشكال هو الأشيع بين الأورام الحميدة اللعابية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم الغدي متعدد الأشكال هو الأشيع بين الأورام الحميدة اللعابية. وتذكّر القاعدة: Pleomorphic adenoma: Predominantly benign and common. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الورم الغدي متعدد الأشكال هو الأشيع بين الأورام الحميدة اللعابية. وتذكّر: Pleomorphic adenoma: Predominantly benign and common. والإجابة الصحيحة هي E."
     }
   ]
 }

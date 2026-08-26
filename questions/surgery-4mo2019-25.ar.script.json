@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Prostate size > 100 g"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض مسن شُخِّص بتضخم البروستاتا الحميد. تشمل المؤشرات المطلقةلاستئصال البروستاتا جميع ما يلي باستثناء: أمامك هذه الخيارات: Refractory urine retention، أو Refractory UTI، أو Prostate size > 100 g، أو Renal insufficiency، أو Refractory hematuria. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض مسن شُخِّص بتضخم البروستاتا الحميد. تشمل المؤشرات المطلقةلاستئصال البروستاتا جميع ما يلي باستثناء: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Refractory urine retention: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g. الخيار B، Refractory UTI: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g. الخيار D، Renal insufficiency: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g. الخيار E، Refractory hematuria: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, refractory UTI, renal insufficiency, and refractory hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prostate size > 100 g.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Refractory urine retention: صحيحة، لكنها ليست الاستثناء. الخيار B، Refractory UTI: صحيحة، لكنها ليست الاستثناء. الخيار D، Renal insufficiency: صحيحة، لكنها ليست الاستثناء. الخيار E، Refractory hematuria: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Complications, not size, drive absolute indic"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Prostate size > 100 g. حجم البروستاتا الكبير وحده لا يفرض الجراحة — المضاعفات هي التي تفرضها."
+      "narration": "الخيار C هو الإجابة الصحيحة. حجم البروستاتا الكبير وحده لا يفرض الجراحة — المضاعفات هي التي تفرضها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حجم البروستاتا الكبير وحده لا يفرض الجراحة — المضاعفات هي التي تفرضها. وتذكّر القاعدة: \"Complications, not size, drive absolute indications\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. حجم البروستاتا الكبير وحده لا يفرض الجراحة — المضاعفات هي التي تفرضها. وتذكّر: \"Complications, not size, drive absolute indications\". والإجابة الصحيحة هي C."
     }
   ]
 }

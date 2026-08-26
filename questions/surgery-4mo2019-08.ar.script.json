@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "High socioeconomic status is a risk factor"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بسرطان المعدة، كل ما يلي صحيح باستثناء أمامك هذه الخيارات: Nicotine use is a risk factor، أو An infection with H.pylori is a frequent cause of gastric cancer، أو Partial gastrectomy is a known risk factor، أو Gastric ulcers pose a risk for gastric cancer، أو High socioeconomic status is a risk factor. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بسرطان المعدة، كل ما يلي صحيح باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Nicotine use is a risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor. الخيار B، An infection with H.pylori is a frequent cause of gastric cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor. الخيار C، Partial gastrectomy is a known risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor. الخيار D، Gastric ulcers pose a risk for gastric cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, H. pylori infection, partial gastrectomy, and gastric ulcers are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High socioeconomic status is a risk factor.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Gastric cancer = Low SES, not high\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: High socioeconomic status is a risk factor. سرطان المعدة يرتبط بانخفاض المستوى الاجتماعي الاقتصادي وليس ارتفاعه — بسبب سوء الصرف الصحي والتغذية المرتبطين بزيادة التعرض لجرثومة الملوية البوابية."
+      "narration": "الخيار E هو الإجابة الصحيحة. سرطان المعدة يرتبط بانخفاض المستوى الاجتماعي الاقتصادي وليس ارتفاعه — بسبب سوء الصرف الصحي والتغذية المرتبطين بزيادة التعرض لجرثومة الملوية البوابية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان المعدة يرتبط بانخفاض المستوى الاجتماعي الاقتصادي وليس ارتفاعه — بسبب سوء الصرف الصحي والتغذية المرتبطين بزيادة التعرض لجرثومة الملوية البوابية. وتذكّر القاعدة: \"Gastric cancer = Low SES, not high\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. سرطان المعدة يرتبط بانخفاض المستوى الاجتماعي الاقتصادي وليس ارتفاعه — بسبب سوء الصرف الصحي والتغذية المرتبطين بزيادة التعرض لجرثومة الملوية البوابية. وتذكّر: \"Gastric cancer = Low SES, not high\". والإجابة الصحيحة هي E."
     }
   ]
 }

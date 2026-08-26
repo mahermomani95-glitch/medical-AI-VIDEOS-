@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Lower limb varicose veins"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس علامة على ارتفاع ضغط الدم الوريدي البابي؟ أمامك هذه الخيارات: Caput medus، أو Gastric varices، أو Ascites، أو Splenomegaly، أو Lower limb varicose veins. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس علامة على ارتفاع ضغط الدم الوريدي البابي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Caput medus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Caput medusae, gastric varices, ascites, and splenomegaly are all classic signs of portal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower limb varicose veins. الخيار B، Gastric varices: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Caput medusae, gastric varices, ascites, and splenomegaly are all classic signs of portal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower limb varicose veins. الخيار C، Ascites: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Caput medusae, gastric varices, ascites, and splenomegaly are all classic signs of portal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower limb varicose veins. الخيار D، Splenomegaly: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Caput medusae, gastric varices, ascites, and splenomegaly are all classic signs of portal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower limb varicose veins.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Caput medus: صحيحة، لكنها ليست الاستثناء. الخيار B، Gastric varices: صحيحة، لكنها ليست الاستثناء. الخيار C، Ascites: صحيحة، لكنها ليست الاستثناء. الخيار D، Splenomegaly: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Lower limb varicose veins: not Linked to porta"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Lower limb varicose veins. دوالي الأطراف السفلية حالة وريدية منفصلة عن ارتفاع الضغط البابي."
+      "narration": "الخيار E، Lower limb varicose veins هو الإجابة الصحيحة. دوالي الأطراف السفلية حالة وريدية منفصلة عن ارتفاع الضغط البابي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. دوالي الأطراف السفلية حالة وريدية منفصلة عن ارتفاع الضغط البابي. وتذكّر القاعدة: Lower limb varicose veins: not Linked to portal hypertension. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. دوالي الأطراف السفلية حالة وريدية منفصلة عن ارتفاع الضغط البابي. وتذكّر: Lower limb varicose veins: not Linked to portal hypertension. والإجابة الصحيحة هي E."
     }
   ]
 }

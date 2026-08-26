@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Carcinoma of the head of the pancreas"
       },
-      "narration": "لنبدأ بهذا السؤال. يشكو رجل يبلغ من العمر 65 عامًا من حكة شديدة ويرقان مستمر لمدة ستةأسابيع. يعاني من ألم في الجزء العلوي من البطن، ولاحظ مؤخرًا أن لون بولهأصفر داكن وبرازه شاحب. يعاني من فقدان طفيف في الوزن. عند الفحص،كان مصابًا بيارقًا حادًا مع وجود علامات خدش في جميع أنحاء جسمه؛وكشف فحص البطن عن وجود كتلة كروية منفصلة في الربع العلوي الأيمن. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Acute pancreatitis، أو Chronic pancreatitis، أو Carcinoma of the head of the pancreas، أو Pseudocyst of the pancreas، أو Periampullary carcinoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يشكو رجل يبلغ من العمر 65 عامًا من حكة شديدة ويرقان مستمر لمدة ستةأسابيع. يعاني من ألم في الجزء العلوي من البطن، ولاحظ مؤخرًا أن لون بولهأصفر داكن وبرازه شاحب. يعاني من فقدان طفيف في الوزن. عند الفحص،كان مصابًا بيارقًا حادًا مع وجود علامات خدش في جميع أنحاء جسمه؛وكشف فحص البطن عن وجود كتلة كروية منفصلة في الربع العلوي الأيمن. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carcinoma of the head of the pancreas. يصبح صحيحًا في سؤال يصف Acute pancreatitis, chronic pancreatitis, pancreatic pseudocyst, and periampullary carcinoma are all pancreatic conditions, but painless progressive jaundice with a palpable gallbladder (Courvoisier's sign) points most specifically to pancreatic head carcinoma. الخيار B، Chronic pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carcinoma of the head of the pancreas. يصبح صحيحًا في سؤال يصف Acute pancreatitis, chronic pancreatitis, pancreatic pseudocyst, and periampullary carcinoma are all pancreatic conditions, but painless progressive jaundice with a palpable gallbladder (Courvoisier's sign) points most specifically to pancreatic head carcinoma. الخيار D، Pseudocyst of the pancreas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carcinoma of the head of the pancreas. يصبح صحيحًا في سؤال يصف Acute pancreatitis, chronic pancreatitis, pancreatic pseudocyst, and periampullary carcinoma are all pancreatic conditions, but painless progressive jaundice with a palpable gallbladder (Courvoisier's sign) points most specifically to pancreatic head carcinoma. الخيار E، Periampullary carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carcinoma of the head of the pancreas. يصبح صحيحًا في سؤال يصف Acute pancreatitis, chronic pancreatitis, pancreatic pseudocyst, and periampullary carcinoma are all pancreatic conditions, but painless progressive jaundice with a palpable gallbladder (Courvoisier's sign) points most specifically to pancreatic head carcinoma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acute pancreatitis: لا ينطبق على هذه الحالة. الخيار B، Chronic pancreatitis: لا ينطبق على هذه الحالة. الخيار D، Pseudocyst of the pancreas: لا ينطبق على هذه الحالة. الخيار E، Periampullary carcinoma: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Painless jaundice + palpable gallbladder = Co"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Carcinoma of the head of the pancreas. اليرقان غير المؤلم مع مرارة مجسوسة (علامة كورفوازييه) يشير لانسداد صفراوي بعيد خبيث المنشأ — غالبًا سرطان رأس البنكرياس."
+      "narration": "الخيار C هو الإجابة الصحيحة. اليرقان غير المؤلم مع مرارة مجسوسة (علامة كورفوازييه) يشير لانسداد صفراوي بعيد خبيث المنشأ — غالبًا سرطان رأس البنكرياس."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اليرقان غير المؤلم مع مرارة مجسوسة (علامة كورفوازييه) يشير لانسداد صفراوي بعيد خبيث المنشأ — غالبًا سرطان رأس البنكرياس. وتذكّر القاعدة: \"Painless jaundice + palpable gallbladder = Courvoisier's law\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. اليرقان غير المؤلم مع مرارة مجسوسة (علامة كورفوازييه) يشير لانسداد صفراوي بعيد خبيث المنشأ — غالبًا سرطان رأس البنكرياس. وتذكّر: \"Painless jaundice + palpable gallbladder = Courvoisier's law\". والإجابة الصحيحة هي C."
     }
   ]
 }

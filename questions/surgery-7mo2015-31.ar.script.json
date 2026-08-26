@@ -41,7 +41,7 @@
         "region": "chest",
         "label": "Change in esophageal mucosa from squamous to…"
       },
-      "narration": "لنبدأ بهذا السؤال. يشير مريء باريت إلى؟ أمامك هذه الخيارات: The change in esophageal mucosa from columnar to squamous epithelium، أو The change in esophageal mucosa to transitional epithelium، أو Keratinization of the esophageal mucosa، أو Change in esophageal mucosa from squamous to columnar epithelium. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يشير مريء باريت إلى؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The change in esophageal mucosa from columnar to squamous epithelium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Change in esophageal mucosa from squamous to columnar epithelium. يصبح صحيحًا في سؤال يصف Options A, B, and C all describe the WRONG direction or type of epithelial change — Barrett's esophagus is specifically the metaplastic change from squamous to columnar epithelium (not columnar to squamous, transitional, or keratinized), matching option D. الخيار B، The change in esophageal mucosa to transitional epithelium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Change in esophageal mucosa from squamous to columnar epithelium. يصبح صحيحًا في سؤال يصف Options A, B, and C all describe the WRONG direction or type of epithelial change — Barrett's esophagus is specifically the metaplastic change from squamous to columnar epithelium (not columnar to squamous, transitional, or keratinized), matching option D. الخيار C، Keratinization of the esophageal mucosa: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Change in esophageal mucosa from squamous to columnar epithelium. يصبح صحيحًا في سؤال يستهدف Keratinization of the esophageal mucosa تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Barrett's: squamous Becomes Columnar"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Change in esophageal mucosa from squamous to columnar epithelium. مريء باريت يُعرَّف بتحول الظهارة من حرشفية لعمودية تحديدًا."
+      "narration": "الخيار D هو الإجابة الصحيحة. مريء باريت يُعرَّف بتحول الظهارة من حرشفية لعمودية تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مريء باريت يُعرَّف بتحول الظهارة من حرشفية لعمودية تحديدًا. وتذكّر القاعدة: Barrett's: squamous Becomes Columnar. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. مريء باريت يُعرَّف بتحول الظهارة من حرشفية لعمودية تحديدًا. وتذكّر: Barrett's: squamous Becomes Columnar. والإجابة الصحيحة هي D."
     }
   ]
 }

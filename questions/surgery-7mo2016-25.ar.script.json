@@ -45,7 +45,7 @@
         "label": "Vancomycin",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من المضادات الحيوية التالية يمكن أن يسبب متلازمة الرجل الأحمر إذا تمإعطاؤه عن طريق الوريد السريع؟ أمامك هذه الخيارات: Clindamycin، أو Gentamicin، أو Levofloxacin، أو Vancomycin، أو Ciprofloxacin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من المضادات الحيوية التالية يمكن أن يسبب متلازمة الرجل الأحمر إذا تمإعطاؤه عن طريق الوريد السريع؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Clindamycin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically linked to red man syndrome — this reaction is specifically associated with rapid IV vancomycin infusion causing histamine release. يصبح صحيحًا في سؤال يصف Clindamycin, gentamicin, levofloxacin, and ciprofloxacin. الخيار B، Gentamicin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically linked to red man syndrome — this reaction is specifically associated with rapid IV vancomycin infusion causing histamine release. يصبح صحيحًا في سؤال يصف Clindamycin, gentamicin, levofloxacin, and ciprofloxacin. الخيار C، Levofloxacin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically linked to red man syndrome — this reaction is specifically associated with rapid IV vancomycin infusion causing histamine release. يصبح صحيحًا في سؤال يصف Clindamycin, gentamicin, levofloxacin, and ciprofloxacin. الخيار E، Ciprofloxacin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classically linked to red man syndrome — this reaction is specifically associated with rapid IV vancomycin infusion causing histamine release. يصبح صحيحًا في سؤال يصف Clindamycin, gentamicin, levofloxacin, and ciprofloxacin.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Clindamycin: لا ينطبق على هذه الحالة. الخيار B، Gentamicin: لا ينطبق على هذه الحالة. الخيار C، Levofloxacin: لا ينطبق على هذه الحالة. الخيار E، Ciprofloxacin: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Rapid IV: Reddens the man with Vancomycin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Vancomycin. الفانكومايسين يسبب متلازمة الرجل الأحمر إن أُعطي وريديًا بسرعة."
+      "narration": "الخيار D، Vancomycin هو الإجابة الصحيحة. الفانكومايسين يسبب متلازمة الرجل الأحمر إن أُعطي وريديًا بسرعة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفانكومايسين يسبب متلازمة الرجل الأحمر إن أُعطي وريديًا بسرعة. وتذكّر القاعدة: Rapid IV: Reddens the man with Vancomycin. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الفانكومايسين يسبب متلازمة الرجل الأحمر إن أُعطي وريديًا بسرعة. وتذكّر: Rapid IV: Reddens the man with Vancomycin. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Risk of flare up is decreased with smoking",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس من سمات مرض كرون؟ أمامك هذه الخيارات: Involvement from mouth to anus، أو Risk of flare up is decreased with smoking، أو Macroscopically demonstrates cobblestone، أو Endoscopically demonstrates skip lesions، أو Histologically demonstrates transmural granulomatous inflammation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس من سمات مرض كرون؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Involvement from mouth to anus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Involvement from mouth to anus, cobblestoning, skip lesions, and transmural granulomatous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk of flare up is decreased with smoking. الخيار C، Macroscopically demonstrates cobblestone: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Involvement from mouth to anus, cobblestoning, skip lesions, and transmural granulomatous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk of flare up is decreased with smoking. الخيار D، Endoscopically demonstrates skip lesions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Involvement from mouth to anus, cobblestoning, skip lesions, and transmural granulomatous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk of flare up is decreased with smoking. الخيار E، Histologically demonstrates transmural granulomatous inflammation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Involvement from mouth to anus, cobblestoning, skip lesions, and transmural granulomatous… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Risk of flare up is decreased with smoking.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C، Macroscopically demonstrates cobblestone: صحيحة، لكنها ليست الاستثناء. الخيار D، Endoscopically demonstrates skip lesions: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Smoking + Crohn's: Increases flares, unlike in"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Risk of flare up is decreased with smoking. التدخين يرفع خطر انتكاس كرون، لا يخفضه كما بالعبارة الخاطئة."
+      "narration": "الخيار B هو الإجابة الصحيحة. التدخين يرفع خطر انتكاس كرون، لا يخفضه كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التدخين يرفع خطر انتكاس كرون، لا يخفضه كما بالعبارة الخاطئة. وتذكّر القاعدة: Smoking + Crohn's: Increases flares, unlike in UC. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. التدخين يرفع خطر انتكاس كرون، لا يخفضه كما بالعبارة الخاطئة. وتذكّر: Smoking + Crohn's: Increases flares, unlike in UC. والإجابة الصحيحة هي B."
     }
   ]
 }

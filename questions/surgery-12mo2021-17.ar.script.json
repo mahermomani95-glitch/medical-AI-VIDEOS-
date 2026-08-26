@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Nasopharyngeal intubation"
       },
-      "narration": "لنبدأ بهذا السؤال. بعد رضح حاد كبير، وصل مريض إلى الطوارئ بمقياس غلاسكو للغيبوبة (GCS) 4/15. تشبع الأكسجين ضعيف 89% بعد استخدام قناع عدم إعادة التنفس. عيناه متكدمتان وسائل ملطخ بالدم يخرج من أذنيه. طريقة إدارة مجرى الهواء التي يُفضل تجنبها هي: أمامك هذه الخيارات: Oropharyngeal intubation، أو Laryngeal mask airway، أو Cricothyroidotomy، أو Nasopharyngeal intubation، أو Oropharyngeal intubation with bronchoscopy guidance. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بعد رضح حاد كبير، وصل مريض إلى الطوارئ بمقياس غلاسكو للغيبوبة (GCS) 4/15. تشبع الأكسجين ضعيف 89% بعد استخدام قناع عدم إعادة التنفس. عيناه متكدمتان وسائل ملطخ بالدم يخرج من أذنيه. طريقة إدارة مجرى الهواء التي يُفضل تجنبها هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Oropharyngeal intubation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Nasopharyngeal intubation. يصبح صحيحًا في سؤال يصف Oropharyngeal intubation, laryngeal mask airway, cricothyroidotomy, and bronchoscopy-guided oropharyngeal intubation can all still be attempted or used as alternatives, but nasopharyngeal intubation specifically should be avoided given the signs of a likely base of skull fracture (bruised eyes, blood-stained ear fluid), due to risk of the tube passing through the fracture into the cranial vault. الخيار B، Laryngeal mask airway: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Nasopharyngeal intubation. يصبح صحيحًا في سؤال يصف Oropharyngeal intubation, laryngeal mask airway, cricothyroidotomy, and bronchoscopy-guided oropharyngeal intubation can all still be attempted or used as alternatives, but nasopharyngeal intubation specifically should be avoided given the signs of a likely base of skull fracture (bruised eyes, blood-stained ear fluid), due to risk of the tube passing through the fracture into the cranial vault. الخيار C، Cricothyroidotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Nasopharyngeal intubation. يصبح صحيحًا في سؤال يصف Oropharyngeal intubation, laryngeal mask airway, cricothyroidotomy, and bronchoscopy-guided oropharyngeal intubation can all still be attempted or used as alternatives, but nasopharyngeal intubation specifically should be avoided given the signs of a likely base of skull fracture (bruised eyes, blood-stained ear fluid), due to risk of the tube passing through the fracture into the cranial vault. الخيار E، Oropharyngeal intubation with bronchoscopy guidance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Nasopharyngeal intubation. يصبح صحيحًا في سؤال يصف Oropharyngeal intubation, laryngeal mask airway, cricothyroidotomy, and bronchoscopy-guided oropharyngeal intubation can all still be attempted or used as alternatives, but nasopharyngeal intubation specifically should be avoided given the signs of a likely base of skull fracture (bruised eyes, blood-stained ear fluid), due to risk of the tube passing through the fracture into the cranial vault.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Oropharyngeal intubation: الإجابة الصحيحة هي Nasopharyngeal intubation. الخيار B، Laryngeal mask airway: الإجابة الصحيحة هي Nasopharyngeal intubation. الخيار C، Cricothyroidotomy: الإجابة الصحيحة هي Nasopharyngeal intubation. الخيار E: الإجابة الصحيحة هي Nasopharyngeal intubation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Base of skull fracture signs = AVOID nasophar"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Nasopharyngeal intubation. كدمة حول العينين (عين الراكون) وسائل مدمّى من الأذن يوحيان بكسر قاعدة الجمجمة — الأنبوب الأنفي البلعومي في هذا السياق يخاطر بالمرور خطأً عبر الكسر إلى داخل الجمجمة."
+      "narration": "الخيار D، Nasopharyngeal intubation هو الإجابة الصحيحة. كدمة حول العينين (عين الراكون) وسائل مدمّى من الأذن يوحيان بكسر قاعدة الجمجمة — الأنبوب الأنفي البلعومي في هذا السياق يخاطر بالمرور خطأً عبر الكسر إلى داخل الجمجمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كدمة حول العينين (عين الراكون) وسائل مدمّى من الأذن يوحيان بكسر قاعدة الجمجمة — الأنبوب الأنفي البلعومي في هذا السياق يخاطر بالمرور خطأً عبر الكسر إلى داخل الجمجمة. وتذكّر القاعدة: \"Base of skull fracture signs = AVOID nasopharyngeal/nasogastric tubes\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. كدمة حول العينين (عين الراكون) وسائل مدمّى من الأذن يوحيان بكسر قاعدة الجمجمة — الأنبوب الأنفي البلعومي في هذا السياق يخاطر بالمرور خطأً عبر الكسر إلى داخل الجمجمة. وتذكّر: \"Base of skull fracture signs = AVOID nasopharyngeal/nasogastric tubes\". والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Stop lactation can increase the risk of breast…"
       },
-      "narration": "لنبدأ بهذا السؤال. أما بالنسبة لالتهاب الضرع الحاد، فهناك حقيقة واحدة أمامك هذه الخيارات: It is the underlying cause of the most nonnursing female breast abscess.، أو Primary skin infections of the breast (cellulitis or abscess) most commonly affect the skin of the upper half of the breast، أو Stop lactation can increase the risk of breast abscess، أو Staphylococcus epidermidis and streptococci are the most common causes، أو It occurs in women who are underweight and have small breasts.. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أما بالنسبة لالتهاب الضرع الحاد، فهناك حقيقة واحدة أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is the underlying cause of the most nonnursing female breast abscess.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stop lactation can increase the risk of breast abscess. يصبح صحيحًا في سؤال يصف It is NOT the underlying cause of most non-nursing female breast abscess in the way described. الخيار B، Primary skin infections of the breast (cellulitis or abscess) most commonly affect the skin of the upper half of the breast: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the upper half. يصبح صحيحًا في سؤال يصف primary skin infections most commonly affect the lower/inner half. الخيار D، Staphylococcus epidermidis and streptococci are the most common causes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Stop lactation can increase the risk of breast abscess. يصبح صحيحًا في سؤال يصف Staphylococcus aureus (not S. epidermidis) is the most common cause. الخيار E، It occurs in women who are underweight and have small breasts.: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا underweight women with small breasts — these misstate true mastitis facts. يصبح صحيحًا في سؤال يصف it occurs more in obese women with larger breasts.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: المطلوب هنا the upper half. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Stopping lactation = milk stasis = Abscess ri"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Stop lactation can increase the risk of breast abscess. التوقف المفاجئ عن الإرضاع (بدل الاستمرار بالرضاعة أو الشفط) يزيد ركود الحليب ويرفع خطر تشكل خراج."
+      "narration": "الخيار C هو الإجابة الصحيحة. التوقف المفاجئ عن الإرضاع (بدل الاستمرار بالرضاعة أو الشفط) يزيد ركود الحليب ويرفع خطر تشكل خراج."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التوقف المفاجئ عن الإرضاع (بدل الاستمرار بالرضاعة أو الشفط) يزيد ركود الحليب ويرفع خطر تشكل خراج. وتذكّر القاعدة: \"Stopping lactation = milk stasis = Abscess risk\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التوقف المفاجئ عن الإرضاع (بدل الاستمرار بالرضاعة أو الشفط) يزيد ركود الحليب ويرفع خطر تشكل خراج. وتذكّر: \"Stopping lactation = milk stasis = Abscess risk\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Low fiber diet"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للالتواء باستثناء أمامك هذه الخيارات: Low fiber diet، أو Constipation، أو Pregnancy، أو Laxative abuse، أو Old age. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للالتواء باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Constipation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet. الخيار C، Pregnancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet. الخيار D، Laxative abuse: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic constipation, pregnancy, laxative abuse, and advanced age are all genuine risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet. الخيار E، Old age: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pregnancy, laxative abuse, and old age are all genuine risk factors for sigmoid volvulus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low fiber diet.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Constipation: صحيحة، لكنها ليست الاستثناء. الخيار C، Pregnancy: صحيحة، لكنها ليست الاستثناء. الخيار D، Laxative abuse: صحيحة، لكنها ليست الاستثناء. الخيار E، Old age: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"High-fiber, high-risk (volvulus)\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Low fiber diet. النظام الغذائي عالي الألياف (وليس منخفضها) هو المرتبط بزيادة خطر الالتواء السيني بسبب زيادة كتلة وطول القولون."
+      "narration": "الخيار A، Low fiber diet هو الإجابة الصحيحة. النظام الغذائي عالي الألياف (وليس منخفضها) هو المرتبط بزيادة خطر الالتواء السيني بسبب زيادة كتلة وطول القولون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النظام الغذائي عالي الألياف (وليس منخفضها) هو المرتبط بزيادة خطر الالتواء السيني بسبب زيادة كتلة وطول القولون. وتذكّر القاعدة: \"High-fiber, high-risk (volvulus)\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. النظام الغذائي عالي الألياف (وليس منخفضها) هو المرتبط بزيادة خطر الالتواء السيني بسبب زيادة كتلة وطول القولون. وتذكّر: \"High-fiber, high-risk (volvulus)\". والإجابة الصحيحة هي A."
     }
   ]
 }

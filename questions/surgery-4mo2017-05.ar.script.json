@@ -45,7 +45,7 @@
         "label": "Carcinoid tumor",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم اختبار حمض 5-هيدروكسي إندول الأسيتيك في أي من هذه الأمراض؟ أمامك هذه الخيارات: Medullary carcinoma of the breast، أو Papillary thyroid carcinoma، أو Giant cell carcinoma of the pancreas، أو Carcinoid tumor، أو Ganglioneuromas. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم اختبار حمض 5-هيدروكسي إندول الأسيتيك في أي من هذه الأمراض؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Medullary carcinoma of the breast: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carcinoid tumor. يصبح صحيحًا في سؤال يصف Medullary carcinoma of the breast, papillary thyroid carcinoma, pancreatic giant cell carcinoma, and ganglioneuromas don't classically use 5-HIAA testing — this test specifically detects serotonin metabolites produced by carcinoid tumors. الخيار B، Papillary thyroid carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carcinoid tumor. يصبح صحيحًا في سؤال يصف Medullary carcinoma of the breast, papillary thyroid carcinoma, pancreatic giant cell carcinoma, and ganglioneuromas don't classically use 5-HIAA testing — this test specifically detects serotonin metabolites produced by carcinoid tumors. الخيار C، Giant cell carcinoma of the pancreas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carcinoid tumor. يصبح صحيحًا في سؤال يصف Medullary carcinoma of the breast, papillary thyroid carcinoma, pancreatic giant cell carcinoma, and ganglioneuromas don't classically use 5-HIAA testing — this test specifically detects serotonin metabolites produced by carcinoid tumors. الخيار E، Ganglioneuromas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Carcinoid tumor. يصبح صحيحًا في سؤال يصف Medullary carcinoma of the breast, papillary thyroid carcinoma, pancreatic giant cell carcinoma, and ganglioneuromas don't classically use 5-HIAA testing — this test specifically detects serotonin metabolites produced by carcinoid tumors.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Carcinoid tumor. الخيار B، Papillary thyroid carcinoma: الإجابة الصحيحة هي Carcinoid tumor. الخيار C: الإجابة الصحيحة هي Carcinoid tumor. الخيار E، Ganglioneuromas: الإجابة الصحيحة هي Carcinoid tumor. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "5-HIAA: tests for Carcinoid tumor"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Carcinoid tumor. 5-HIAA فحص نوعي للورم الكارسينويدي المفرز للسيروتونين."
+      "narration": "الخيار D، Carcinoid tumor هو الإجابة الصحيحة. 5-HIAA فحص نوعي للورم الكارسينويدي المفرز للسيروتونين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. 5-HIAA فحص نوعي للورم الكارسينويدي المفرز للسيروتونين. وتذكّر القاعدة: 5-HIAA: tests for Carcinoid tumor. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. 5-HIAA فحص نوعي للورم الكارسينويدي المفرز للسيروتونين. وتذكّر: 5-HIAA: tests for Carcinoid tumor. والإجابة الصحيحة هي D."
     }
   ]
 }

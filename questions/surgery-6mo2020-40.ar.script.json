@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Superior laryngeal nerve injury"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Inferior thyroid artery injury، أو Superior thyroid artery injury، أو Superior laryngeal nerve injury، أو Unilateral recurrent nerve injury، أو Bilateral recurrent nerve injury. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inferior thyroid artery injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction, not just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury. الخيار B، Superior thyroid artery injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction, not just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury. الخيار D، Unilateral recurrent nerve injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف unilateral recurrent nerve injury causes hoarseness, a different symptom than fatigue. الخيار E، Bilateral recurrent nerve injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superior laryngeal nerve injury. يصبح صحيحًا في سؤال يصف Inferior thyroid artery injury, superior thyroid artery injury, and bilateral recurrent nerve injury (E, which would cause airway obstruction, not just voice fatigue) don't match the specific voice fatigue/pitch change pattern of superior laryngeal nerve injury.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Inferior thyroid artery injury: الإجابة الصحيحة هي Superior laryngeal nerve injury. الخيار B، Superior thyroid artery injury: الإجابة الصحيحة هي Superior laryngeal nerve injury. الخيار D، Unilateral recurrent nerve injury: الإجابة الصحيحة هي Superior laryngeal nerve injury. الخيار E، Bilateral recurrent nerve injury: الإجابة الصحيحة هي Superior laryngeal nerve injury. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Superior laryngeal nerve = voice fatigue/pitc"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Superior laryngeal nerve injury. العصب الحنجري العلوي يغذي العضلة الحلقية الدرقية المسؤولة عن شد الحبال الصوتية للنغمة العالية والنطق المستمر — أذيته تسبب إرهاق الصوت وتغير النغمة، وليست بحّة كأذية العصب الراجع."
+      "narration": "الخيار C، Superior laryngeal nerve injury هو الإجابة الصحيحة. العصب الحنجري العلوي يغذي العضلة الحلقية الدرقية المسؤولة عن شد الحبال الصوتية للنغمة العالية والنطق المستمر — أذيته تسبب إرهاق الصوت وتغير النغمة، وليست بحّة كأذية العصب الراجع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العصب الحنجري العلوي يغذي العضلة الحلقية الدرقية المسؤولة عن شد الحبال الصوتية للنغمة العالية والنطق المستمر — أذيته تسبب إرهاق الصوت وتغير النغمة، وليست بحّة كأذية العصب الراجع. وتذكّر القاعدة: \"Superior laryngeal nerve = voice fatigue/pitch, Recurrent nerve = hoarseness\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. العصب الحنجري العلوي يغذي العضلة الحلقية الدرقية المسؤولة عن شد الحبال الصوتية للنغمة العالية والنطق المستمر — أذيته تسبب إرهاق الصوت وتغير النغمة، وليست بحّة كأذية العصب الراجع. وتذكّر: \"Superior laryngeal nerve = voice fatigue/pitch, Recurrent nerve = hoarseness\". والإجابة الصحيحة هي C."
     }
   ]
 }

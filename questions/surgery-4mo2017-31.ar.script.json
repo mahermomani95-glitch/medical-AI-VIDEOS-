@@ -45,7 +45,7 @@
         "label": "Sepsis and hypotension is defined as septic shock",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي غير صحيح فيما يتعلق بالإنتان؟ أمامك هذه الخيارات: Tachycardia and / or tachypnea may be a sign، أو Sepsis is defined as systemic inflammatory response syndrome in the presence of infection، أو Leukocytosis or leukopenia may be a sign، أو Sepsis and hypotension is defined as septic shock، أو Temperature greater than 38 or less than 36 may be a sign. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي غير صحيح فيما يتعلق بالإنتان؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tachycardia and / or tachypnea may be a sign: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia/tachypnea, the definition linking SIRS with infection, abnormal WBC, and abnormal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sepsis and hypotension is defined as septic shock. الخيار B، Sepsis is defined as systemic inflammatory response syndrome in the presence of infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia/tachypnea, the definition linking SIRS with infection, abnormal WBC, and abnormal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sepsis and hypotension is defined as septic shock. الخيار C، Leukocytosis or leukopenia may be a sign: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia/tachypnea, the definition linking SIRS with infection, abnormal WBC, and abnormal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sepsis and hypotension is defined as septic shock. الخيار E، Temperature greater than 38 or less than 36 may be a sign: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia/tachypnea, the definition linking SIRS with infection, abnormal WBC, and abnormal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sepsis and hypotension is defined as septic shock.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Septic shock: needs More Precise criteria than"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Sepsis and hypotension is defined as septic shock. الصدمة الإنتانية تُعرَّف بمعايير أدق من مجرد إنتان مع هبوط ضغط بسيط."
+      "narration": "الخيار D هو الإجابة الصحيحة. الصدمة الإنتانية تُعرَّف بمعايير أدق من مجرد إنتان مع هبوط ضغط بسيط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصدمة الإنتانية تُعرَّف بمعايير أدق من مجرد إنتان مع هبوط ضغط بسيط. وتذكّر القاعدة: Septic shock: needs More Precise criteria than simple hypotension. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الصدمة الإنتانية تُعرَّف بمعايير أدق من مجرد إنتان مع هبوط ضغط بسيط. وتذكّر: Septic shock: needs More Precise criteria than simple hypotension. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "DVT"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية يعد من موانع العلاج الجراحي للدوالي؟ أمامك هذه الخيارات: DVT، أو Old age، أو Pregnancy، أو Bilaterally، أو Peripheral vascular disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية يعد من موانع العلاج الجراحي للدوالي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Old age: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي DVT. يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery rather than an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active DVT is the clearest contraindication given the risk of dislodging a clot during venous surgery. الخيار C، Pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي DVT. يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery rather than an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active DVT is the clearest contraindication given the risk of dislodging a clot during venous surgery. الخيار D، Bilaterally: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي DVT. يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery rather than an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active DVT is the clearest contraindication given the risk of dislodging a clot during venous surgery. الخيار E، Peripheral vascular disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي DVT. يصبح صحيحًا في سؤال يصف Old age, pregnancy (C, though often deferred until after delivery rather than an absolute contraindication), bilateral disease, and peripheral vascular disease are relative considerations, but active DVT is the clearest contraindication given the risk of dislodging a clot during venous surgery.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Old age: الإجابة الصحيحة هي DVT. الخيار C، Pregnancy: الإجابة الصحيحة هي DVT. الخيار D، Bilaterally: الإجابة الصحيحة هي DVT. الخيار E، Peripheral vascular disease: الإجابة الصحيحة هي DVT. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "DVT: Definitely a varicose surgery block"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: DVT. التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي."
+      "narration": "الخيار A، DVT هو الإجابة الصحيحة. التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي. وتذكّر القاعدة: DVT: Definitely a varicose surgery block. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التخثر الوريدي العميق النشط مانع حقيقي خطير لجراحة الدوالي. وتذكّر: DVT: Definitely a varicose surgery block. والإجابة الصحيحة هي A."
     }
   ]
 }

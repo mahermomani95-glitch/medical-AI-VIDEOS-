@@ -45,7 +45,7 @@
         "label": "Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالعلاج بالسوائل، أحد الأمور التالية خاطئ أمامك هذه الخيارات: It is classified into crystaloid and colloid types، أو Normal Saline contents are Na 154 meq/L and Cl 154 meq/L and osmolarity is 308 mOsm/L، أو Ringer lactate contents are Na 130 meq/L,K 4 meq/L,Ca 3 meq/L,Cl 109meq/L,lactate 28meq/L and Osmolarity is 274 mOsm/L، أو Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L، أو Normal Saline and Ringer lactate are isotonic solutions. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالعلاج بالسوائل، أحد الأمور التالية خاطئ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is classified into crystaloid and colloid types: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Classification into crystalloid/colloid, normal saline's composition, Ringer's lactate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L. الخيار B، Normal Saline contents are Na 154 meq/L and Cl 154 meq/L and osmolarity is 308 mOsm/L: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Classification into crystalloid/colloid, normal saline's composition, Ringer's lactate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L. الخيار C، Ringer lactate contents are Na 130 meq/L,K 4 meq/L,Ca 3 meq/L,Cl 109meq/L,lactate 28meq/L and Osmolarity is 274 mOsm/L: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Classification into crystalloid/colloid, normal saline's composition, Ringer's lactate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L. الخيار E، Normal Saline and Ringer lactate are isotonic solutions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Classification into crystalloid/colloid, normal saline's composition, Ringer's lactate… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"D5W = 50g/L glucose, not 5g/L\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Dextrose 5 water contents are glucose 5 gram/L and Osmolarity is 152 mOsm/L. أسمولية محلول الدكستروز 5% تأتي بالكامل من الغلوكوز (5% تعني 50غ/لتر وليس 5غ/لتر) — خطأ بعامل عشرة يغيّر كل شيء."
+      "narration": "الخيار D هو الإجابة الصحيحة. أسمولية محلول الدكستروز 5% تأتي بالكامل من الغلوكوز (5% تعني 50غ/لتر وليس 5غ/لتر) — خطأ بعامل عشرة يغيّر كل شيء."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. أسمولية محلول الدكستروز 5% تأتي بالكامل من الغلوكوز (5% تعني 50غ/لتر وليس 5غ/لتر) — خطأ بعامل عشرة يغيّر كل شيء. وتذكّر القاعدة: \"D5W = 50g/L glucose, not 5g/L\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. أسمولية محلول الدكستروز 5% تأتي بالكامل من الغلوكوز (5% تعني 50غ/لتر وليس 5غ/لتر) — خطأ بعامل عشرة يغيّر كل شيء. وتذكّر: \"D5W = 50g/L glucose, not 5g/L\". والإجابة الصحيحة هي D."
     }
   ]
 }

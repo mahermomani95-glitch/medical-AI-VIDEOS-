@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Calcification of the valve"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يعد مؤشرا للتدخل الجراحي في مريض يعاني من تضيق الأبهر؟ أمامك هذه الخيارات: Angina pectoris، أو Poor ventricular function، أو Valve area less than 0.5 cm2، أو Calcification of the valve، أو Syncope. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يعد مؤشرا للتدخل الجراحي في مريض يعاني من تضيق الأبهر؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Angina pectoris: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve. الخيار B، Poor ventricular function: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve. الخيار C، Valve area less than 0.5 cm2: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve. الخيار E، Syncope: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Angina, poor ventricular function, a critically small valve area under 0.5cm², and syncope are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcification of the valve.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Angina pectoris: صحيحة، لكنها ليست الاستثناء. الخيار B، Poor ventricular function: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E، Syncope: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Valve calcification alone: doesn't Command sur"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Calcification of the valve. التكلس الصمامي وحده بلا أعراض شديدة ليس مؤشرًا جراحيًا حتميًا."
+      "narration": "الخيار D، Calcification of the valve هو الإجابة الصحيحة. التكلس الصمامي وحده بلا أعراض شديدة ليس مؤشرًا جراحيًا حتميًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التكلس الصمامي وحده بلا أعراض شديدة ليس مؤشرًا جراحيًا حتميًا. وتذكّر القاعدة: Valve calcification alone: doesn't Command surgery. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. التكلس الصمامي وحده بلا أعراض شديدة ليس مؤشرًا جراحيًا حتميًا. وتذكّر: Valve calcification alone: doesn't Command surgery. والإجابة الصحيحة هي D."
     }
   ]
 }

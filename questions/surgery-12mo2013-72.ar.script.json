@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Obstruction of the lumen by fecaliths"
       },
-      "narration": "لنبدأ بهذا السؤال. العامل المسبب السائد في التهاب الزائدة الدودية الحاد هو؟ أمامك هذه الخيارات: Travelling infection from large bowel، أو Decrease local immunity of appendix، أو Part of inflammatory bowel disease، أو Obstruction of the lumen by fecaliths، أو Distal colonic obstruction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العامل المسبب السائد في التهاب الزائدة الدودية الحاد هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Travelling infection from large bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction of the lumen by fecaliths. يصبح صحيحًا في سؤال يصف Traveling infection from the colon, decreased local immunity, inflammatory bowel disease association, and distal colonic obstruction are less central or less common mechanisms, but luminal obstruction by a fecalith remains the dominant, most well-established etiologic factor in acute appendicitis. الخيار B، Decrease local immunity of appendix: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction of the lumen by fecaliths. يصبح صحيحًا في سؤال يصف Traveling infection from the colon, decreased local immunity, inflammatory bowel disease association, and distal colonic obstruction are less central or less common mechanisms, but luminal obstruction by a fecalith remains the dominant, most well-established etiologic factor in acute appendicitis. الخيار C، Part of inflammatory bowel disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction of the lumen by fecaliths. يصبح صحيحًا في سؤال يصف Traveling infection from the colon, decreased local immunity, inflammatory bowel disease association, and distal colonic obstruction are less central or less common mechanisms, but luminal obstruction by a fecalith remains the dominant, most well-established etiologic factor in acute appendicitis. الخيار E، Distal colonic obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstruction of the lumen by fecaliths. يصبح صحيحًا في سؤال يصف Traveling infection from the colon, decreased local immunity, inflammatory bowel disease association, and distal colonic obstruction are less central or less common mechanisms, but luminal obstruction by a fecalith remains the dominant, most well-established etiologic factor in acute appendicitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Obstruction of the lumen by fecaliths. الخيار B: الإجابة الصحيحة هي Obstruction of the lumen by fecaliths. الخيار C: الإجابة الصحيحة هي Obstruction of the lumen by fecaliths. الخيار E، Distal colonic obstruction: الإجابة الصحيحة هي Obstruction of the lumen by fecaliths. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Appendicitis: mostly triggered by Fecalith obs"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Obstruction of the lumen by fecaliths. انسداد لمعة الزائدة بحصاة برازية هو العامل السببي المهيمن لالتهابها."
+      "narration": "الخيار D هو الإجابة الصحيحة. انسداد لمعة الزائدة بحصاة برازية هو العامل السببي المهيمن لالتهابها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انسداد لمعة الزائدة بحصاة برازية هو العامل السببي المهيمن لالتهابها. وتذكّر القاعدة: Appendicitis: mostly triggered by Fecalith obstruction. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. انسداد لمعة الزائدة بحصاة برازية هو العامل السببي المهيمن لالتهابها. وتذكّر: Appendicitis: mostly triggered by Fecalith obstruction. والإجابة الصحيحة هي D."
     }
   ]
 }

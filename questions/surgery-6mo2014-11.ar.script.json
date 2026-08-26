@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Immdediate replacement of shunt"
       },
-      "narration": "لنبدأ بهذا السؤال. يشمل علاج عدوى التحويلة كل ما يلي باستثناء؟ أمامك هذه الخيارات: Intraventricular antibiotic، أو Systemic antibiotic، أو Immdediate replacement of shunt، أو External drainage، أو Removal of infected shunt. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يشمل علاج عدوى التحويلة كل ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intraventricular antibiotic: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt. الخيار B، Systemic antibiotic: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt. الخيار D، External drainage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt. الخيار E، Removal of infected shunt: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intraventricular antibiotics, systemic antibiotics, external drainage, and removal of the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Immdediate replacement of shunt.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intraventricular antibiotic: صحيحة، لكنها ليست الاستثناء. الخيار B، Systemic antibiotic: صحيحة، لكنها ليست الاستثناء. الخيار D، External drainage: صحيحة، لكنها ليست الاستثناء. الخيار E، Removal of infected shunt: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Shunt infection: Sequence matters, Sterilize b"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Immdediate replacement of shunt. لا يُستبدل التحويلة المصابة فورًا، بل تُعالج العدوى أولاً."
+      "narration": "الخيار C، Immdediate replacement of shunt هو الإجابة الصحيحة. لا يُستبدل التحويلة المصابة فورًا، بل تُعالج العدوى أولاً."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. لا يُستبدل التحويلة المصابة فورًا، بل تُعالج العدوى أولاً. وتذكّر القاعدة: Shunt infection: Sequence matters, Sterilize before replacing. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. لا يُستبدل التحويلة المصابة فورًا، بل تُعالج العدوى أولاً. وتذكّر: Shunt infection: Sequence matters, Sterilize before replacing. والإجابة الصحيحة هي C."
     }
   ]
 }

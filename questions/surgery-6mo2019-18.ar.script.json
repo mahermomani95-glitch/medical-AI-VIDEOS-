@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Pain is often associated with uncomplicated…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية غير صحيحة فيما يتعلق بالبواسير؟ أمامك هذه الخيارات: Hemorrhoids are specialized \"cushions\" present in everyone، أو External hemorrhoids are covered by skin whereas internal hemorrhoids are covered by mucosa، أو Pain is often associated with uncomplicated hemorrhoids، أو Hemorrhoidectomy is reserved for third and fourth degreehemorrhoids، أو Hemorrhoid is most common cause of lower Gl bleeding in middle age adults. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية غير صحيحة فيما يتعلق بالبواسير؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hemorrhoids are specialized \"cushions\" present in everyone: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemorrhoids as universal vascular cushions, the skin/mucosa distinction between… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain is often associated with uncomplicated hemorrhoids. الخيار B، External hemorrhoids are covered by skin whereas internal hemorrhoids are covered by mucosa: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemorrhoids as universal vascular cushions, the skin/mucosa distinction between… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain is often associated with uncomplicated hemorrhoids. الخيار D، Hemorrhoidectomy is reserved for third and fourth degreehemorrhoids: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemorrhoids as universal vascular cushions, the skin/mucosa distinction between… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain is often associated with uncomplicated hemorrhoids. الخيار E، Hemorrhoid is most common cause of lower Gl bleeding in middle age adults: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemorrhoids as universal vascular cushions, the skin/mucosa distinction between… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain is often associated with uncomplicated hemorrhoids.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Uncomplicated hemorrhoids = usually painless\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Pain is often associated with uncomplicated hemorrhoids. البواسير غير المعقدة غير مؤلمة عادة — الألم غالبًا يشير لتخثر أو مضاعفة، وليس للبواسير البسيطة."
+      "narration": "الخيار C هو الإجابة الصحيحة. البواسير غير المعقدة غير مؤلمة عادة — الألم غالبًا يشير لتخثر أو مضاعفة، وليس للبواسير البسيطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البواسير غير المعقدة غير مؤلمة عادة — الألم غالبًا يشير لتخثر أو مضاعفة، وليس للبواسير البسيطة. وتذكّر القاعدة: \"Uncomplicated hemorrhoids = usually painless\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. البواسير غير المعقدة غير مؤلمة عادة — الألم غالبًا يشير لتخثر أو مضاعفة، وليس للبواسير البسيطة. وتذكّر: \"Uncomplicated hemorrhoids = usually painless\". والإجابة الصحيحة هي C."
     }
   ]
 }

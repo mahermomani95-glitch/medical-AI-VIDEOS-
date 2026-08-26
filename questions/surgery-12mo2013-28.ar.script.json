@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "It is commonly a symptom of colon cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. العبارة غير الصحيحة بشأن مرور البراز الأسود والقطراني هي؟ أمامك هذه الخيارات: It is usually an indication of bleeding from the upper GI tract، أو It can be mimicked by the ingestion of iron medication، أو It is commonly a symptom of colon cancer، أو It can be present without other symptoms، أو It is often but not universally associated with hematemesis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العبارة غير الصحيحة بشأن مرور البراز الأسود والقطراني هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is usually an indication of bleeding from the upper GI tract: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a sign of upper GI bleeding, being mimicked by iron ingestion, occurring without other… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is commonly a symptom of colon cancer. الخيار B، It can be mimicked by the ingestion of iron medication: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a sign of upper GI bleeding, being mimicked by iron ingestion, occurring without other… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is commonly a symptom of colon cancer. الخيار D، It can be present without other symptoms: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a sign of upper GI bleeding, being mimicked by iron ingestion, occurring without other… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is commonly a symptom of colon cancer. الخيار E، It is often but not universally associated with hematemesis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a sign of upper GI bleeding, being mimicked by iron ingestion, occurring without other… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is commonly a symptom of colon cancer.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Melena: Marks upper GI bleeding, not colon can"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: It is commonly a symptom of colon cancer. البراز الأسود توقيع نزف هضمي علوي كلاسيكي، لا سرطان قولون."
+      "narration": "الخيار C هو الإجابة الصحيحة. البراز الأسود توقيع نزف هضمي علوي كلاسيكي، لا سرطان قولون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البراز الأسود توقيع نزف هضمي علوي كلاسيكي، لا سرطان قولون. وتذكّر القاعدة: Melena: Marks upper GI bleeding, not colon cancer. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. البراز الأسود توقيع نزف هضمي علوي كلاسيكي، لا سرطان قولون. وتذكّر: Melena: Marks upper GI bleeding, not colon cancer. والإجابة الصحيحة هي C."
     }
   ]
 }

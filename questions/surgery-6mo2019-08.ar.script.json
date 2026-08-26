@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "It is Bipolar tumor composed of stromal and…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالورم الليفي الغدي في الثدي، هناك حقيقة واحدة أمامك هذه الخيارات: It is a premalignant condition، أو It is Bipolar tumor composed of stromal and epithelial elements، أو It is common in females > 30 years old، أو In general, ultrasonography (US) is not useful in diagnosis of fibroadenoma، أو Mastectomy is only recommended if the fibroadenoma gets larger or causes increased symptoms. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالورم الليفي الغدي في الثدي، هناك حقيقة واحدة أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a premalignant condition: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا premalignant. يصبح صحيحًا في سؤال يصف Fibroadenoma. الخيار C، It is common in females > 30 years old: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا over 30. يصبح صحيحًا في سؤال يصف it's most common in women under 30. الخيار D، In general, ultrasonography (US) is not useful in diagnosis of fibroadenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements. يصبح صحيحًا في سؤال يصف ultrasound IS useful for diagnosis. الخيار E، Mastectomy is only recommended if the fibroadenoma gets larger or causes increased symptoms: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is Bipolar tumor composed of stromal and epithelial elements. يصبح صحيحًا في سؤال يصف observation (not mastectomy reserved only for growth) is the typical approach unless there's diagnostic uncertainty — these misstate the true biphasic tumor composition being asked about.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا premalignant. الخيار C: المطلوب هنا over 30. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Fibroadenoma = Fibrous + glandular, together\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: It is Bipolar tumor composed of stromal and epithelial elements. الورم الغدي الليفي ورم ثنائي القطب: يتكاثر فيه العنصران السدوي (النسيج الضام) والظهاري (الغدي) معًا."
+      "narration": "الخيار B هو الإجابة الصحيحة. الورم الغدي الليفي ورم ثنائي القطب: يتكاثر فيه العنصران السدوي (النسيج الضام) والظهاري (الغدي) معًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم الغدي الليفي ورم ثنائي القطب: يتكاثر فيه العنصران السدوي (النسيج الضام) والظهاري (الغدي) معًا. وتذكّر القاعدة: \"Fibroadenoma = Fibrous + glandular, together\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الورم الغدي الليفي ورم ثنائي القطب: يتكاثر فيه العنصران السدوي (النسيج الضام) والظهاري (الغدي) معًا. وتذكّر: \"Fibroadenoma = Fibrous + glandular, together\". والإجابة الصحيحة هي B."
     }
   ]
 }

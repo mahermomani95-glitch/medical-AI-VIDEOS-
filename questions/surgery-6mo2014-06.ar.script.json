@@ -45,7 +45,7 @@
         "label": "Aggressive volume resuscitation",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يتضمن العلاج الأولي للنزيف الحاد في الجهاز الهضمي ما يلي:؟ أمامك هذه الخيارات: H2- receptor antagonist، أو Angiography، أو Sucralfate، أو Gastrointestinal endoscopy، أو Aggressive volume resuscitation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتضمن العلاج الأولي للنزيف الحاد في الجهاز الهضمي ما يلي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، H2- receptor antagonist: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation. يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized. الخيار B، Angiography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation. يصبح صحيحًا في سؤال يصف angiography is for localization/embolization in select cases — but aggressive volume resuscitation is always the essential first step in any acute significant GI bleed. الخيار C، Sucralfate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation. يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized. الخيار D، Gastrointestinal endoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Aggressive volume resuscitation. يصبح صحيحًا في سؤال يصف H2-receptor antagonists, sucralfate, and endoscopy are important diagnostic/therapeutic tools used once the patient is stabilized.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، H2- receptor antagonist: الإجابة الصحيحة هي Aggressive volume resuscitation. الخيار B، Angiography: الإجابة الصحيحة هي Aggressive volume resuscitation. الخيار C، Sucralfate: الإجابة الصحيحة هي Aggressive volume resuscitation. الخيار D، Gastrointestinal endoscopy: الإجابة الصحيحة هي Aggressive volume resuscitation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Acute GI bleeding: Resuscitate first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Aggressive volume resuscitation. الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد."
+      "narration": "الخيار E، Aggressive volume resuscitation هو الإجابة الصحيحة. الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد. وتذكّر القاعدة: Acute GI bleeding: Resuscitate first. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الإنعاش الحجمي المكثف يسبق أي تنظير أو علاج آخر بالنزف الهضمي الحاد. وتذكّر: Acute GI bleeding: Resuscitate first. والإجابة الصحيحة هي E."
     }
   ]
 }

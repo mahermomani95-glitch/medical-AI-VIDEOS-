@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Elevated alpha-fetoprotein is found in 75% of…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بأورام الخصية؟ أمامك هذه الخيارات: The incidence of germ cell tumors has decreased over the past 20 years، أو An elevated lactate dehydrogenase is indicator of good prognosis، أو Orchidectomy should be performed only after confirmation of diagnosis with frozen section، أو Elevated alpha-fetoprotein is found in 75% of patient with Nonseminomas، أو Elevated alpha-fetoprotein is found in 90% of patient with seminomas. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بأورام الخصية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The incidence of germ cell tumors has decreased over the past 20 years: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevated alpha-fetoprotein is found in 75% of patient with Nonseminomas. يصبح صحيحًا في سؤال يصف Germ cell tumor incidence has actually INCREASED (not decreased) over recent decades. الخيار B، An elevated lactate dehydrogenase is indicator of good prognosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevated alpha-fetoprotein is found in 75% of patient with Nonseminomas. يصبح صحيحًا في سؤال يصف an elevated LDH is actually a marker of tumor BURDEN and is associated with WORSE (not good) prognosis. الخيار C، Orchidectomy should be performed only after confirmation of diagnosis with frozen section: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevated alpha-fetoprotein is found in 75% of patient with Nonseminomas. يصبح صحيحًا في سؤال يصف orchidectomy (radical inguinal, not needing frozen section confirmation first in typical presentation) is usually performed based on clinical/radiologic suspicion. الخيار E، Elevated alpha-fetoprotein is found in 90% of patient with seminomas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Elevated alpha-fetoprotein is found in 75% of patient with Nonseminomas. يصبح صحيحًا في سؤال يصف elevated AFP is essentially NEVER seen in pure seminomas (its presence suggests a nonseminomatous component), making the 90% figure in E false — the true statement is that AFP is elevated in a majority of nonseminomatous germ cell tumors.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Non-seminomatous tumors: AFP often Elevated"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Elevated alpha-fetoprotein is found in 75% of patient with Nonseminomas. ارتفاع AFP علامة موثقة بغالبية أورام الخصية غير المنوية."
+      "narration": "الخيار D هو الإجابة الصحيحة. ارتفاع AFP علامة موثقة بغالبية أورام الخصية غير المنوية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع AFP علامة موثقة بغالبية أورام الخصية غير المنوية. وتذكّر القاعدة: Non-seminomatous tumors: AFP often Elevated. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ارتفاع AFP علامة موثقة بغالبية أورام الخصية غير المنوية. وتذكّر: Non-seminomatous tumors: AFP often Elevated. والإجابة الصحيحة هي D."
     }
   ]
 }

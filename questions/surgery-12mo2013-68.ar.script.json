@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Biliary obstruction"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لخراج الكبد القيحي هو؟ أمامك هذه الخيارات: Hematogenous infection، أو Lymphatic spread، أو Secondary to infected abdominal viscera، أو Secondary infection of a Hydatid، أو Biliary obstruction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لخراج الكبد القيحي هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hematogenous infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hematogenous spread, lymphatic spread, and direct extension from infected abdominal viscera are all recognized routes, and secondary infection of a hydatid cyst is a specific cause — but biliary obstruction/ascending cholangitis remains the most common overall cause of pyogenic liver abscess. الخيار B، Lymphatic spread: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hematogenous spread, lymphatic spread, and direct extension from infected abdominal viscera are all recognized routes, and secondary infection of a hydatid cyst is a specific cause — but biliary obstruction/ascending cholangitis remains the most common overall cause of pyogenic liver abscess. الخيار C، Secondary to infected abdominal viscera: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hematogenous spread, lymphatic spread, and direct extension from infected abdominal viscera are all recognized routes, and secondary infection of a hydatid cyst is a specific cause — but biliary obstruction/ascending cholangitis remains the most common overall cause of pyogenic liver abscess. الخيار D، Secondary infection of a Hydatid: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Biliary obstruction. يصبح صحيحًا في سؤال يصف Hematogenous spread, lymphatic spread, and direct extension from infected abdominal viscera are all recognized routes, and secondary infection of a hydatid cyst is a specific cause — but biliary obstruction/ascending cholangitis remains the most common overall cause of pyogenic liver abscess.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hematogenous infection: الإجابة الصحيحة هي Biliary obstruction. الخيار B، Lymphatic spread: الإجابة الصحيحة هي Biliary obstruction. الخيار C: الإجابة الصحيحة هي Biliary obstruction. الخيار D: الإجابة الصحيحة هي Biliary obstruction. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pyogenic liver abscess: mostly Biliary origin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Biliary obstruction. انسداد الطرق الصفراوية هو السبب الأشيع للخراج الكبدي القيحي."
+      "narration": "الخيار E، Biliary obstruction هو الإجابة الصحيحة. انسداد الطرق الصفراوية هو السبب الأشيع للخراج الكبدي القيحي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انسداد الطرق الصفراوية هو السبب الأشيع للخراج الكبدي القيحي. وتذكّر القاعدة: Pyogenic liver abscess: mostly Biliary origin. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. انسداد الطرق الصفراوية هو السبب الأشيع للخراج الكبدي القيحي. وتذكّر: Pyogenic liver abscess: mostly Biliary origin. والإجابة الصحيحة هي E."
     }
   ]
 }

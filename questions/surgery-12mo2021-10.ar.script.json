@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Fluid resuscitation with goal of 20cc urine output…"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 35 عامًا وصل إلى الطوارئ بحروق تشمل 50% من مساحة سطح الجسم الكلية بسبب إصابة كهربائية. وزنه 80 كغ. الاعتبارات المهمة لهذا المريض تشمل جميع ما يلي ما عدا: أمامك هذه الخيارات: Monitor ECG for arrhythmias، أو Observe for hemoglobinuria، أو Fluid resuscitation with goal of 20cc urine output per hour، أو Monitor for compartment syndrome، أو Consider 8 liters fluid resuscitation in the first 8 hours. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 35 عامًا وصل إلى الطوارئ بحروق تشمل 50% من مساحة سطح الجسم الكلية بسبب إصابة كهربائية. وزنه 80 كغ. الاعتبارات المهمة لهذا المريض تشمل جميع ما يلي ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Monitor ECG for arrhythmias: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour. الخيار B، Observe for hemoglobinuria: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour. الخيار D، Monitor for compartment syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour. الخيار E، Consider 8 liters fluid resuscitation in the first 8 hours: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Monitoring ECG for arrhythmias, observing for hemoglobinuria, monitoring for compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fluid resuscitation with goal of 20cc urine output per hour.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Monitor ECG for arrhythmias: صحيحة، لكنها ليست الاستثناء. الخيار B، Observe for hemoglobinuria: صحيحة، لكنها ليست الاستثناء. الخيار D، Monitor for compartment syndrome: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Electrical burn + myoglobinuria = higher urin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Fluid resuscitation with goal of 20cc urine output per hour. هدف إخراج البول في الحروق الكهربائية مع خطر بيلة الميوغلوبين أعلى بكثير (75-100 مل/ساعة) من الهدف القياسي للحروق — 20 مل/ساعة منخفض جدًا لغسل الميوغلوبين ومنع أذية كلوية."
+      "narration": "الخيار C هو الإجابة الصحيحة. هدف إخراج البول في الحروق الكهربائية مع خطر بيلة الميوغلوبين أعلى بكثير (75-100 مل/ساعة) من الهدف القياسي للحروق — 20 مل/ساعة منخفض جدًا لغسل الميوغلوبين ومنع أذية كلوية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. هدف إخراج البول في الحروق الكهربائية مع خطر بيلة الميوغلوبين أعلى بكثير (75-100 مل/ساعة) من الهدف القياسي للحروق — 20 مل/ساعة منخفض جدًا لغسل الميوغلوبين ومنع أذية كلوية. وتذكّر القاعدة: \"Electrical burn + myoglobinuria = higher urine output goal (75-100cc/hr), not standard 20-30\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. هدف إخراج البول في الحروق الكهربائية مع خطر بيلة الميوغلوبين أعلى بكثير (75-100 مل/ساعة) من الهدف القياسي للحروق — 20 مل/ساعة منخفض جدًا لغسل الميوغلوبين ومنع أذية كلوية. والإجابة الصحيحة هي C."
     }
   ]
 }

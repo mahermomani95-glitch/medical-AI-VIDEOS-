@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Acute appendicitis"
       },
-      "narration": "لنبدأ بهذا السؤال. العرض الأكثر شيوعًا لسرطان الزائدة الدودية هو؟ أمامك هذه الخيارات: Acute appendicitis، أو Ascites، أو Chronic anemia، أو Palpable abdominal mass، أو Incidental finding. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العرض الأكثر شيوعًا لسرطان الزائدة الدودية هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Ascites: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Ascites, chronic anemia, a palpable mass, and incidental discovery can all occur with appendiceal adenocarcinoma, but presenting as acute appendicitis (from luminal obstruction) remains the most common presentation. الخيار C، Chronic anemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Ascites, chronic anemia, a palpable mass, and incidental discovery can all occur with appendiceal adenocarcinoma, but presenting as acute appendicitis (from luminal obstruction) remains the most common presentation. الخيار D، Palpable abdominal mass: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Ascites, chronic anemia, a palpable mass, and incidental discovery can all occur with appendiceal adenocarcinoma, but presenting as acute appendicitis (from luminal obstruction) remains the most common presentation. الخيار E، Incidental finding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Ascites, chronic anemia, a palpable mass, and incidental discovery can all occur with appendiceal adenocarcinoma, but presenting as acute appendicitis (from luminal obstruction) remains the most common presentation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Ascites: الإجابة الصحيحة هي Acute appendicitis. الخيار C، Chronic anemia: الإجابة الصحيحة هي Acute appendicitis. الخيار D، Palpable abdominal mass: الإجابة الصحيحة هي Acute appendicitis. الخيار E، Incidental finding: الإجابة الصحيحة هي Acute appendicitis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Appendiceal adenocarcinoma: often presents as "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Acute appendicitis. السرطانة الغدية الزائدية تتظاهر غالبًا كالتهاب زائدة حاد عادي."
+      "narration": "الخيار A، Acute appendicitis هو الإجابة الصحيحة. السرطانة الغدية الزائدية تتظاهر غالبًا كالتهاب زائدة حاد عادي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة الغدية الزائدية تتظاهر غالبًا كالتهاب زائدة حاد عادي. وتذكّر القاعدة: Appendiceal adenocarcinoma: often presents as Appendicitis. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. السرطانة الغدية الزائدية تتظاهر غالبًا كالتهاب زائدة حاد عادي. وتذكّر: Appendiceal adenocarcinoma: often presents as Appendicitis. والإجابة الصحيحة هي A."
     }
   ]
 }

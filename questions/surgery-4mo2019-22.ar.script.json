@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Bleeding"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل المضاعفات المبكرة الأكثر شيوعًا لاستئصال البواسير ما يلي: أمامك هذه الخيارات: Urinary retention، أو Anal stenosis، أو Fecal incontinence، أو Anal fistula، أو Bleeding. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل المضاعفات المبكرة الأكثر شيوعًا لاستئصال البواسير ما يلي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urinary retention: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding. يصبح صحيحًا في سؤال يصف Urinary retention, anal stenosis, fecal incontinence, and anal fistula are all potential complications of anorectal surgery, but bleeding remains the most common specifically early complication after hemorrhoidectomy. الخيار B، Anal stenosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding. يصبح صحيحًا في سؤال يصف Urinary retention, anal stenosis, fecal incontinence, and anal fistula are all potential complications of anorectal surgery, but bleeding remains the most common specifically early complication after hemorrhoidectomy. الخيار C، Fecal incontinence: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding. يصبح صحيحًا في سؤال يصف Urinary retention, anal stenosis, fecal incontinence, and anal fistula are all potential complications of anorectal surgery, but bleeding remains the most common specifically early complication after hemorrhoidectomy. الخيار D، Anal fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding. يصبح صحيحًا في سؤال يصف Urinary retention, anal stenosis, fecal incontinence, and anal fistula are all potential complications of anorectal surgery, but bleeding remains the most common specifically early complication after hemorrhoidectomy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Urinary retention: الإجابة الصحيحة هي Bleeding. الخيار B، Anal stenosis: الإجابة الصحيحة هي Bleeding. الخيار C، Fecal incontinence: الإجابة الصحيحة هي Bleeding. الخيار D، Anal fistula: الإجابة الصحيحة هي Bleeding. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hemorrhoidectomy = vascular tissue = Bleeding"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Bleeding. قطع نسيج وعائي غني كالوسائد الشرجية يعني أن النزف هو المشكلة المبكرة الأكثر احتمالًا بعد الجراحة."
+      "narration": "الخيار E، Bleeding هو الإجابة الصحيحة. قطع نسيج وعائي غني كالوسائد الشرجية يعني أن النزف هو المشكلة المبكرة الأكثر احتمالًا بعد الجراحة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قطع نسيج وعائي غني كالوسائد الشرجية يعني أن النزف هو المشكلة المبكرة الأكثر احتمالًا بعد الجراحة. وتذكّر القاعدة: \"Hemorrhoidectomy = vascular tissue = Bleeding risk\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. قطع نسيج وعائي غني كالوسائد الشرجية يعني أن النزف هو المشكلة المبكرة الأكثر احتمالًا بعد الجراحة. وتذكّر: \"Hemorrhoidectomy = vascular tissue = Bleeding risk\". والإجابة الصحيحة هي E."
     }
   ]
 }

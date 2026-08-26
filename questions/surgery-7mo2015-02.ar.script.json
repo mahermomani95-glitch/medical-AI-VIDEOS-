@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "More common in the left"
       },
-      "narration": "لنبدأ بهذا السؤال. إصابات الحجاب الحاجز؟ أمامك هذه الخيارات: More common in the right، أو More common in the left، أو The most common cause is blunt trauma، أو X-ray is confirmatory. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. إصابات الحجاب الحاجز؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، More common in the right: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي More common in the left. يصبح صحيحًا في سؤال يصف Diaphragm injuries are actually more common on the LEFT (not right) side since the liver on the right offers some protection. الخيار C، The most common cause is blunt trauma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging — the correct statement is that injuries are more common on the left. يصبح صحيحًا في سؤال يصف blunt trauma is a true statement, and plain X-ray is often. الخيار D، X-ray is confirmatory: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا confirmatory and can miss injuries, requiring further imaging — the correct statement is that injuries are more common on the left. يصبح صحيحًا في سؤال يصف blunt trauma is a true statement, and plain X-ray is often.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي More common in the left. الخيار C: لا ينطبق على هذه الحالة. الخيار D، X-ray is confirmatory: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Diaphragm injury: mostly Left-sided"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: More common in the left. إصابات الحجاب الحاجز أشيع باليسار لحماية الكبد النسبية لليمين."
+      "narration": "الخيار B هو الإجابة الصحيحة. إصابات الحجاب الحاجز أشيع باليسار لحماية الكبد النسبية لليمين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إصابات الحجاب الحاجز أشيع باليسار لحماية الكبد النسبية لليمين. وتذكّر القاعدة: Diaphragm injury: mostly Left-sided. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. إصابات الحجاب الحاجز أشيع باليسار لحماية الكبد النسبية لليمين. وتذكّر: Diaphragm injury: mostly Left-sided. والإجابة الصحيحة هي B."
     }
   ]
 }

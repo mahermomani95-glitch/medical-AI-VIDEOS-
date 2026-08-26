@@ -45,7 +45,7 @@
         "label": "cо2",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الغاز الذي تنتجه مركبات النقل يسمى أمامك هذه الخيارات: Co، أو cо2، أو NO، أو N20، أو O2. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الغاز الذي تنتجه مركبات النقل يسمى أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Co: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي cо2. يصبح صحيحًا في سؤال يصف CO, NO, N2O, and O2 are all gases with various sources, but CO2 remains the predominant gas produced by vehicle combustion. الخيار C، NO: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي cо2. يصبح صحيحًا في سؤال يصف CO, NO, N2O, and O2 are all gases with various sources, but CO2 remains the predominant gas produced by vehicle combustion. الخيار D، N20: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي cо2. يصبح صحيحًا في سؤال يصف CO, NO, N2O, and O2 are all gases with various sources, but CO2 remains the predominant gas produced by vehicle combustion. الخيار E، O2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي cо2. يصبح صحيحًا في سؤال يصف CO, NO, N2O, and O2 are all gases with various sources, but CO2 remains the predominant gas produced by vehicle combustion.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Co: الإجابة الصحيحة هي cо2. الخيار C، NO: الإجابة الصحيحة هي cо2. الخيار D، N20: الإجابة الصحيحة هي cо2. الخيار E، O2: الإجابة الصحيحة هي cо2. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Vehicles = CO2 combustion product\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: cо2. عادم المركبات يغلب عليه ثاني أكسيد الكربون الناتج عن احتراق الوقود."
+      "narration": "الخيار B، cо2 هو الإجابة الصحيحة. عادم المركبات يغلب عليه ثاني أكسيد الكربون الناتج عن احتراق الوقود."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عادم المركبات يغلب عليه ثاني أكسيد الكربون الناتج عن احتراق الوقود. وتذكّر القاعدة: \"Vehicles = CO2 combustion product\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. عادم المركبات يغلب عليه ثاني أكسيد الكربون الناتج عن احتراق الوقود. وتذكّر: \"Vehicles = CO2 combustion product\". والإجابة الصحيحة هي B."
     }
   ]
 }

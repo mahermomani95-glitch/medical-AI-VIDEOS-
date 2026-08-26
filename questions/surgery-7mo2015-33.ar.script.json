@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Diarrhea"
       },
-      "narration": "لنبدأ بهذا السؤال. المشكلة الأكثر شيوعًا بعد جراحة قطع العصب المبهم وتقويم البواب هي؟ أمامك هذه الخيارات: Diarrhea، أو Dumping syndrome، أو Gallstones، أو Reflux gastritis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المشكلة الأكثر شيوعًا بعد جراحة قطع العصب المبهم وتقويم البواب هي؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Dumping syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diarrhea. يصبح صحيحًا في سؤال يصف Dumping syndrome, gallstones, and reflux gastritis are all recognized complications of vagotomy and pyloroplasty, but diarrhea (post-vagotomy diarrhea) remains the most common overall complication. الخيار C، Gallstones: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diarrhea. يصبح صحيحًا في سؤال يصف Dumping syndrome, gallstones, and reflux gastritis are all recognized complications of vagotomy and pyloroplasty, but diarrhea (post-vagotomy diarrhea) remains the most common overall complication. الخيار D، Reflux gastritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diarrhea. يصبح صحيحًا في سؤال يصف Dumping syndrome, gallstones, and reflux gastritis are all recognized complications of vagotomy and pyloroplasty, but diarrhea (post-vagotomy diarrhea) remains the most common overall complication.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Dumping syndrome: الإجابة الصحيحة هي Diarrhea. الخيار C، Gallstones: الإجابة الصحيحة هي Diarrhea. الخيار D، Reflux gastritis: الإجابة الصحيحة هي Diarrhea. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Vagotomy + pyloroplasty: mostly causes Diarrhe"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Diarrhea. الإسهال هو المشكلة الأشيع بعد قطع العصب المبهم مع رأب البواب."
+      "narration": "الخيار A، Diarrhea هو الإجابة الصحيحة. الإسهال هو المشكلة الأشيع بعد قطع العصب المبهم مع رأب البواب."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإسهال هو المشكلة الأشيع بعد قطع العصب المبهم مع رأب البواب. وتذكّر القاعدة: Vagotomy + pyloroplasty: mostly causes Diarrhea. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الإسهال هو المشكلة الأشيع بعد قطع العصب المبهم مع رأب البواب. وتذكّر: Vagotomy + pyloroplasty: mostly causes Diarrhea. والإجابة الصحيحة هي A."
     }
   ]
 }

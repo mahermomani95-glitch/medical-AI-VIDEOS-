@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Epidural hematoma generally have a worse prognosis…"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بإصابة الرأس باستثناء؟ أمامك هذه الخيارات: Epidural hematoma are associated with lucid interval، أو Subdural hematoma are due to laceration of bridging veins، أو Epidural hematoma are usually associated with a skull fracture، أو CT scan shows convex lens hematoma in epidural hematoma، أو Epidural hematoma generally have a worse prognosis than Subdural hematoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بإصابة الرأس باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Epidural hematoma are associated with lucid interval: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lucid interval, bridging vein laceration in subdural, skull fracture association, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epidural hematoma generally have a worse prognosis than Subdural hematoma. الخيار B، Subdural hematoma are due to laceration of bridging veins: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lucid interval, bridging vein laceration in subdural, skull fracture association, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epidural hematoma generally have a worse prognosis than Subdural hematoma. الخيار C، Epidural hematoma are usually associated with a skull fracture: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lucid interval, bridging vein laceration in subdural, skull fracture association, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epidural hematoma generally have a worse prognosis than Subdural hematoma. الخيار D، CT scan shows convex lens hematoma in epidural hematoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lucid interval, bridging vein laceration in subdural, skull fracture association, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epidural hematoma generally have a worse prognosis than Subdural hematoma.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Epidural hematoma: Enjoys Better prognosis tha"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Epidural hematoma generally have a worse prognosis than Subdural hematoma. فوق الجافية أفضل تشخيصًا من تحت الجافية، لا أسوأ كما بالعبارة الخاطئة."
+      "narration": "الخيار E هو الإجابة الصحيحة. فوق الجافية أفضل تشخيصًا من تحت الجافية، لا أسوأ كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فوق الجافية أفضل تشخيصًا من تحت الجافية، لا أسوأ كما بالعبارة الخاطئة. وتذكّر القاعدة: Epidural hematoma: Enjoys Better prognosis than subdural. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. فوق الجافية أفضل تشخيصًا من تحت الجافية، لا أسوأ كما بالعبارة الخاطئة. وتذكّر: Epidural hematoma: Enjoys Better prognosis than subdural. والإجابة الصحيحة هي E."
     }
   ]
 }

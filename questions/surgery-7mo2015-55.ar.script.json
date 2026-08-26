@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Urine osmolality 200"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع القيم التالية متوافقة مع الفشل الكلوي الحاد قبل الكلوي باستثناء؟ أمامك هذه الخيارات: Urine NA 10، أو BUN/creatinine ratio 30:1، أو Fe Na 0.5%، أو Urine osmolality 200، أو Creatinine/creatinine plasma 50. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع القيم التالية متوافقة مع الفشل الكلوي الحاد قبل الكلوي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Urine NA 10: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200. الخيار B، BUN/creatinine ratio 30:1: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200. الخيار C، Fe Na 0.5%: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200. الخيار E، Creatinine/creatinine plasma 50: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low urine sodium around 10, elevated BUN/creatinine ratio around 30:1, low FeNa around 0.5%… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urine osmolality 200.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Urine NA 10: صحيحة، لكنها ليست الاستثناء. الخيار B، BUN/creatinine ratio 30:1: صحيحة، لكنها ليست الاستثناء. الخيار C، Fe Na 0.5%: صحيحة، لكنها ليست الاستثناء. الخيار E، Creatinine/creatinine plasma 50: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Prerenal ARF: expects High urine osmolality, n"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Urine osmolality 200. بول مركز جدًا (أسمولية مرتفعة) هو المتوقع بالفشل ما قبل الكلوي، لا 200 منخفضة."
+      "narration": "الخيار D، Urine osmolality 200 هو الإجابة الصحيحة. بول مركز جدًا (أسمولية مرتفعة) هو المتوقع بالفشل ما قبل الكلوي، لا 200 منخفضة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بول مركز جدًا (أسمولية مرتفعة) هو المتوقع بالفشل ما قبل الكلوي، لا 200 منخفضة. وتذكّر القاعدة: Prerenal ARF: expects High urine osmolality, not 200. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. بول مركز جدًا (أسمولية مرتفعة) هو المتوقع بالفشل ما قبل الكلوي، لا 200 منخفضة. وتذكّر: Prerenal ARF: expects High urine osmolality, not 200. والإجابة الصحيحة هي D."
     }
   ]
 }

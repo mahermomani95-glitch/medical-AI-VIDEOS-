@@ -45,7 +45,7 @@
         "label": "Typhoid fever",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمراض التالية هو مرض منقول بالمياه:؟ أمامك هذه الخيارات: Scabies، أو Mycoplasma، أو Chlamydia، أو Typhoid fever، أو Hepatitis C. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمراض التالية هو مرض منقول بالمياه:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Scabies: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Typhoid fever. يصبح صحيحًا في سؤال يصف Scabies spreads by skin contact, mycoplasma and chlamydia spread respiratory/sexually, and hepatitis C spreads via blood — typhoid fever specifically is the classic water/food-borne illness among these options. الخيار B، Mycoplasma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Typhoid fever. يصبح صحيحًا في سؤال يصف Scabies spreads by skin contact, mycoplasma and chlamydia spread respiratory/sexually, and hepatitis C spreads via blood — typhoid fever specifically is the classic water/food-borne illness among these options. الخيار C، Chlamydia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Typhoid fever. يصبح صحيحًا في سؤال يصف Scabies spreads by skin contact, mycoplasma and chlamydia spread respiratory/sexually, and hepatitis C spreads via blood — typhoid fever specifically is the classic water/food-borne illness among these options. الخيار E، Hepatitis C: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Typhoid fever. يصبح صحيحًا في سؤال يصف Scabies spreads by skin contact, mycoplasma and chlamydia spread respiratory/sexually, and hepatitis C spreads via blood — typhoid fever specifically is the classic water/food-borne illness among these options.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Scabies: الإجابة الصحيحة هي Typhoid fever. الخيار B، Mycoplasma: الإجابة الصحيحة هي Typhoid fever. الخيار C، Chlamydia: الإجابة الصحيحة هي Typhoid fever. الخيار E، Hepatitis C: الإجابة الصحيحة هي Typhoid fever. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Typhoid: Transmitted by Water"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Typhoid fever. حمى التيفوئيد عدوى منقولة بالماء الملوث كلاسيكيًا."
+      "narration": "الخيار D، Typhoid fever هو الإجابة الصحيحة. حمى التيفوئيد عدوى منقولة بالماء الملوث كلاسيكيًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حمى التيفوئيد عدوى منقولة بالماء الملوث كلاسيكيًا. وتذكّر القاعدة: Typhoid: Transmitted by Water. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. حمى التيفوئيد عدوى منقولة بالماء الملوث كلاسيكيًا. وتذكّر: Typhoid: Transmitted by Water. والإجابة الصحيحة هي D."
     }
   ]
 }

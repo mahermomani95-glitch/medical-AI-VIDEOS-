@@ -41,7 +41,7 @@
         "region": "chest",
         "label": "Left posterior lower 3d of the esophagus"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لمتلازمة بورهاف؟ أمامك هذه الخيارات: Left posterior lower 3d of the esophagus، أو Left posterior middle third of the esophagus، أو Left posterior upper third of the esophagus، أو The upper stomach. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لمتلازمة بورهاف؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Left posterior middle third of the esophagus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the classic sites — Boerhaave syndrome most commonly ruptures at the left posterior wall of the distal (lower) third of the esophagus. يصبح صحيحًا في سؤال يصف The left posterior middle third and upper third of the esophagus, and the upper stomach. الخيار C، Left posterior upper third of the esophagus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the classic sites — Boerhaave syndrome most commonly ruptures at the left posterior wall of the distal (lower) third of the esophagus. يصبح صحيحًا في سؤال يصف The left posterior middle third and upper third of the esophagus, and the upper stomach. الخيار D، The upper stomach: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the classic sites — Boerhaave syndrome most commonly ruptures at the left posterior wall of the distal (lower) third of the esophagus. يصبح صحيحًا في سؤال يصف The left posterior middle third and upper third of the esophagus, and the upper stomach.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D، The upper stomach: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Boerhaave: ruptures the Left posterior lower t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Left posterior lower 3d of the esophagus. تمزق المريء التلقائي يحدث أشيع بالثلث السفلي الخلفي الأيسر."
+      "narration": "الخيار A هو الإجابة الصحيحة. تمزق المريء التلقائي يحدث أشيع بالثلث السفلي الخلفي الأيسر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تمزق المريء التلقائي يحدث أشيع بالثلث السفلي الخلفي الأيسر. وتذكّر القاعدة: Boerhaave: ruptures the Left posterior lower third. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. تمزق المريء التلقائي يحدث أشيع بالثلث السفلي الخلفي الأيسر. وتذكّر: Boerhaave: ruptures the Left posterior lower third. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Bleeding per meatus"
       },
-      "narration": "لنبدأ بهذا السؤال. العلامة الأكثر أهمية لتمزق مجرى البول الأمامي هي أمامك هذه الخيارات: Dysuria، أو Pain، أو Urine retintion، أو Bleeding per meatus، أو High ride prostate. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلامة الأكثر أهمية لتمزق مجرى البول الأمامي هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Dysuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding per meatus. يصبح صحيحًا في سؤال يصف Dysuria, pain, and urinary retention are nonspecific urinary symptoms that could have many causes, but bleeding at the urethral meatus and a high-riding prostate remain the most specific classic signs of urethral injury after pelvic trauma. الخيار B، Pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding per meatus. يصبح صحيحًا في سؤال يصف Dysuria, pain, and urinary retention are nonspecific urinary symptoms that could have many causes, but bleeding at the urethral meatus and a high-riding prostate remain the most specific classic signs of urethral injury after pelvic trauma. الخيار C، Urine retintion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding per meatus. يصبح صحيحًا في سؤال يصف Dysuria, pain, and urinary retention are nonspecific urinary symptoms that could have many causes, but bleeding at the urethral meatus and a high-riding prostate remain the most specific classic signs of urethral injury after pelvic trauma. الخيار E، High ride prostate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding per meatus. يصبح صحيحًا في سؤال يصف Dysuria, pain, and urinary retention are nonspecific urinary symptoms that could have many causes, but bleeding at the urethral meatus and a high-riding prostate remain the most specific classic signs of urethral injury after pelvic trauma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Dysuria: الإجابة الصحيحة هي Bleeding per meatus. الخيار B، Pain: الإجابة الصحيحة هي Bleeding per meatus. الخيار C، Urine retintion: الإجابة الصحيحة هي Bleeding per meatus. الخيار E، High ride prostate: الإجابة الصحيحة هي Bleeding per meatus. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Blood at the meatus = STOP, don't catheterize"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Bleeding per meatus. النزف من فوهة الإحليل هو العلامة المباشرة الكلاسيكية التي تشير مباشرة لإصابة الإحليل — علامة إنذار توقف أي محاولة لإدخال قسطرة إحليلية."
+      "narration": "الخيار D، Bleeding per meatus هو الإجابة الصحيحة. النزف من فوهة الإحليل هو العلامة المباشرة الكلاسيكية التي تشير مباشرة لإصابة الإحليل — علامة إنذار توقف أي محاولة لإدخال قسطرة إحليلية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النزف من فوهة الإحليل هو العلامة المباشرة الكلاسيكية التي تشير مباشرة لإصابة الإحليل — علامة إنذار توقف أي محاولة لإدخال قسطرة إحليلية. وتذكّر القاعدة: \"Blood at the meatus = STOP, don't catheterize\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. النزف من فوهة الإحليل هو العلامة المباشرة الكلاسيكية التي تشير مباشرة لإصابة الإحليل — علامة إنذار توقف أي محاولة لإدخال قسطرة إحليلية. وتذكّر: \"Blood at the meatus = STOP, don't catheterize\". والإجابة الصحيحة هي D."
     }
   ]
 }

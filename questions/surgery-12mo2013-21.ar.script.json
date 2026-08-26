@@ -45,7 +45,7 @@
         "label": "Vasoconstriction",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الاستجابة الأولية لإصابة الأوعية هي؟ أمامك هذه الخيارات: Vasodilatation، أو Vasoconstriction، أو Platelet aggregation، أو Platelet plug formation، أو Thromboxane A2 production. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الاستجابة الأولية لإصابة الأوعية هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Vasodilatation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف Vasodilatation is the opposite of the actual response. الخيار C، Platelet aggregation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the very first, immediate response to vessel injury. الخيار D، Platelet plug formation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the very first, immediate response to vessel injury. الخيار E، Thromboxane A2 production: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف platelet aggregation, platelet plug formation, and thromboxane A2 production are all subsequent steps in hemostasis, but vasoconstriction is the very first, immediate response to vessel injury.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Vasodilatation: الإجابة الصحيحة هي Vasoconstriction. الخيار C، Platelet aggregation: الإجابة الصحيحة هي Vasoconstriction. الخيار D، Platelet plug formation: الإجابة الصحيحة هي Vasoconstriction. الخيار E، Thromboxane A2 production: الإجابة الصحيحة هي Vasoconstriction. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Vessel injury: Vasoconstriction comes first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Vasoconstriction. التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر."
+      "narration": "الخيار B، Vasoconstriction هو الإجابة الصحيحة. التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر. وتذكّر القاعدة: Vessel injury: Vasoconstriction comes first. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. التضيق الوعائي هو الاستجابة الأولى الفورية لإصابة الوعاء، قبل التخثر. وتذكّر: Vessel injury: Vasoconstriction comes first. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Confirm the diagnosis"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي يجب التحقق منه قبل بدء التخدير لمريض مخطط لإصلاح فتق حول السرة ما عدا: أمامك هذه الخيارات: Confirm the patients name، أو Confirm the diagnosis، أو Check the consent، أو Mark the site of the procedure، أو Ask for known allergies. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي يجب التحقق منه قبل بدء التخدير لمريض مخطط لإصلاح فتق حول السرة ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Confirm the patients name: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis. الخيار C، Check the consent: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis. الخيار D، Mark the site of the procedure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Marking the site of the procedure is typically a surgical team task performed separately يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis. الخيار E، Ask for known allergies: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Confirming patient name, diagnosis, consent, and known allergies are all genuine pre-induction… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Confirm the diagnosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Confirm the patients name: صحيحة، لكنها ليست الاستثناء. الخيار C، Check the consent: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Ask for known allergies: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Site marking = surgical team's job, part of t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Confirm the diagnosis. تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا."
+      "narration": "الخيار B، Confirm the diagnosis هو الإجابة الصحيحة. تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا. وتذكّر القاعدة: \"Site marking = surgical team's job, part of the broader safety checklist\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. تحديد موقع الجراحة مهمة يقوم بها الفريق الجراحي قبل دخول المريض غرفة العمليات (ضمن خطوة \"sign in\" بقائمة السلامة الجراحية)، وليست تحديدًا جزءًا من فحوصات ما قبل التخدير المذكورة هنا. والإجابة الصحيحة هي B."
     }
   ]
 }

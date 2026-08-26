@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "History and physical exam"
       },
-      "narration": "لنبدأ بهذا السؤال. النقطة الأكثر أهمية في تشخيص التهاب الزائدة الدودية الحاد هي؟ أمامك هذه الخيارات: Laboratory result، أو Pain in right lower quadrant، أو Shifting of pain، أو History and physical exam، أو Low-grade fever and Leucocytosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. النقطة الأكثر أهمية في تشخيص التهاب الزائدة الدودية الحاد هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Laboratory result: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي History and physical exam. يصبح صحيحًا في سؤال يصف Lab results, RLQ pain alone, shifting/migratory pain, and fever with leukocytosis are all supportive findings, but a thorough history and physical examination remains the most important overall element in diagnosing acute appendicitis. الخيار B، Pain in right lower quadrant: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي History and physical exam. يصبح صحيحًا في سؤال يصف Lab results, RLQ pain alone, shifting/migratory pain, and fever with leukocytosis are all supportive findings, but a thorough history and physical examination remains the most important overall element in diagnosing acute appendicitis. الخيار C، Shifting of pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي History and physical exam. يصبح صحيحًا في سؤال يصف Lab results, RLQ pain alone, shifting/migratory pain, and fever with leukocytosis are all supportive findings, but a thorough history and physical examination remains the most important overall element in diagnosing acute appendicitis. الخيار E، Low-grade fever and Leucocytosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي History and physical exam. يصبح صحيحًا في سؤال يصف Lab results, RLQ pain alone, shifting/migratory pain, and fever with leukocytosis are all supportive findings, but a thorough history and physical examination remains the most important overall element in diagnosing acute appendicitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Laboratory result: الإجابة الصحيحة هي History and physical exam. الخيار B: الإجابة الصحيحة هي History and physical exam. الخيار C، Shifting of pain: الإجابة الصحيحة هي History and physical exam. الخيار E، Low-grade fever and Leucocytosis: الإجابة الصحيحة هي History and physical exam. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Appendicitis diagnosis: History and exam lead "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: History and physical exam. التاريخ المرضي والفحص السريري هما الأساس الأهم لتشخيص التهاب الزائدة."
+      "narration": "الخيار D، History and physical exam هو الإجابة الصحيحة. التاريخ المرضي والفحص السريري هما الأساس الأهم لتشخيص التهاب الزائدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التاريخ المرضي والفحص السريري هما الأساس الأهم لتشخيص التهاب الزائدة. وتذكّر القاعدة: Appendicitis diagnosis: History and exam lead the way. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. التاريخ المرضي والفحص السريري هما الأساس الأهم لتشخيص التهاب الزائدة. وتذكّر: Appendicitis diagnosis: History and exam lead the way. والإجابة الصحيحة هي D."
     }
   ]
 }

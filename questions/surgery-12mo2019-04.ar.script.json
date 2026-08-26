@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Surgery is the first line of treatment"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالتهاب الغدة الدرقية هاشيموتو باستثناء أمامك هذه الخيارات: Patients are initially asymptomatic or hyperthyroid, progressing to hypothyroidism، أو Associated with increased risk for lymphoma، أو Associated with autoimmune diseases (e.g., SLE)، أو More common in females، أو Surgery is the first line of treatment. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالتهاب الغدة الدرقية هاشيموتو باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Patients are initially asymptomatic or hyperthyroid, progressing to hypothyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment. الخيار B، Associated with increased risk for lymphoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment. الخيار C، Associated with autoimmune diseases (e.g., SLE): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment. الخيار D، More common in females: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Initial euthyroid/hyperthyroid phase progressing to hypothyroidism, increased lymphoma risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery is the first line of treatment.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، More common in females: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hashimoto = Hormone replacement, not surgery "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Surgery is the first line of treatment. التهاب هاشيموتو يُعالَج دوائيًا بتعويض هرمون الدرقية، وليس بالجراحة — تُحفظ الجراحة لمضاعفات نوعية كالاشتباه بالخباثة أو التضخم الضاغط."
+      "narration": "الخيار E هو الإجابة الصحيحة. التهاب هاشيموتو يُعالَج دوائيًا بتعويض هرمون الدرقية، وليس بالجراحة — تُحفظ الجراحة لمضاعفات نوعية كالاشتباه بالخباثة أو التضخم الضاغط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب هاشيموتو يُعالَج دوائيًا بتعويض هرمون الدرقية، وليس بالجراحة — تُحفظ الجراحة لمضاعفات نوعية كالاشتباه بالخباثة أو التضخم الضاغط. وتذكّر القاعدة: \"Hashimoto = Hormone replacement, not surgery first\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التهاب هاشيموتو يُعالَج دوائيًا بتعويض هرمون الدرقية، وليس بالجراحة — تُحفظ الجراحة لمضاعفات نوعية كالاشتباه بالخباثة أو التضخم الضاغط. وتذكّر: \"Hashimoto = Hormone replacement, not surgery first\". والإجابة الصحيحة هي E."
     }
   ]
 }

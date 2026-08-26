@@ -45,7 +45,7 @@
         "label": "Pathogenicity",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تم الإبلاغ عن عشر حالات تسمم غذائي في المستشفى، ظهرت على حالتينمنها أعراض متوسطة في الجهاز الهضمي، وأربع حالات جفاف متوسط ​​لكنهمتعافوا، وحالتان متأثرتان بالمرض. السمة المميزة للتسمم الغذائي الذي يسببأشد أنواع المرض هي:؟ أمامك هذه الخيارات: Infectivity، أو Resistibility، أو Transmission، أو Communicability، أو Pathogenicity. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تم الإبلاغ عن عشر حالات تسمم غذائي في المستشفى، ظهرت على حالتينمنها أعراض متوسطة في الجهاز الهضمي، وأربع حالات جفاف متوسط ​​لكنهمتعافوا، وحالتان متأثرتان بالمرض. السمة المميزة للتسمم الغذائي الذي يسببأشد أنواع المرض هي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Infectivity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pathogenicity. يصبح صحيحًا في سؤال يصف Infectivity, resistibility, transmission, and communicability relate to spread and host response, but the concept that only 2 of 10 exposed individuals developed severe illness specifically illustrates pathogenicity (the capacity of the organism to cause disease of varying severity). الخيار B، Resistibility: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pathogenicity. يصبح صحيحًا في سؤال يصف Infectivity, resistibility, transmission, and communicability relate to spread and host response, but the concept that only 2 of 10 exposed individuals developed severe illness specifically illustrates pathogenicity (the capacity of the organism to cause disease of varying severity). الخيار C، Transmission: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pathogenicity. يصبح صحيحًا في سؤال يصف Infectivity, resistibility, transmission, and communicability relate to spread and host response, but the concept that only 2 of 10 exposed individuals developed severe illness specifically illustrates pathogenicity (the capacity of the organism to cause disease of varying severity). الخيار D، Communicability: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pathogenicity. يصبح صحيحًا في سؤال يصف Infectivity, resistibility, transmission, and communicability relate to spread and host response, but the concept that only 2 of 10 exposed individuals developed severe illness specifically illustrates pathogenicity (the capacity of the organism to cause disease of varying severity).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Infectivity: الإجابة الصحيحة هي Pathogenicity. الخيار B، Resistibility: الإجابة الصحيحة هي Pathogenicity. الخيار C، Transmission: الإجابة الصحيحة هي Pathogenicity. الخيار D، Communicability: الإجابة الصحيحة هي Pathogenicity. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Variable illness among exposed: illustrates Pa"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Pathogenicity. تفاوت شدة المرض بين المتعرضين لنفس المصدر يوضح مفهوم الإمراضية."
+      "narration": "الخيار E، Pathogenicity هو الإجابة الصحيحة. تفاوت شدة المرض بين المتعرضين لنفس المصدر يوضح مفهوم الإمراضية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تفاوت شدة المرض بين المتعرضين لنفس المصدر يوضح مفهوم الإمراضية. وتذكّر القاعدة: Variable illness among exposed: illustrates Pathogenicity. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. تفاوت شدة المرض بين المتعرضين لنفس المصدر يوضح مفهوم الإمراضية. وتذكّر: Variable illness among exposed: illustrates Pathogenicity. والإجابة الصحيحة هي E."
     }
   ]
 }

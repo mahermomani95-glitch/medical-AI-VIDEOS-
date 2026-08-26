@@ -45,7 +45,7 @@
         "label": "Is ideally 50% saturated at a PO2 of 28 mmhg",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بمنحنى تفكك الأكسجين، هناك حقيقة واحدة؟ أمامك هذه الخيارات: Is shifted to the left by increase 2.3 _ DPG، أو Is Sigmoid shape for both hemoglobin and myoglobin، أو Is shifted to the left when one ascends to high altitude، أو Is shifted to the right by an increase in the PH، أو Is ideally 50% saturated at a PO2 of 28 mmhg. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بمنحنى تفكك الأكسجين، هناك حقيقة واحدة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Is shifted to the left by increase 2.3 _ DPG: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Is ideally 50% saturated at a PO2 of 28 mmhg. يصبح صحيحًا في سؤال يصف The curve is shifted RIGHT (not left) by increased 2,3-DPG. الخيار B، Is Sigmoid shape for both hemoglobin and myoglobin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا sigmoid like hemoglobin. يصبح صحيحًا في سؤال يصف it's hyperbolic for myoglobin. الخيار C، Is shifted to the left when one ascends to high altitude: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا left, to aid oxygen unloading. يصبح صحيحًا في سؤال يصف high altitude actually shifts the curve right. الخيار D، Is shifted to the right by an increase in the PH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا right — the true statement is the P50 value of approximately 27-28 mmHg for normal hemoglobin. يصبح صحيحًا في سؤال يصف increased pH shifts the curve LEFT.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: المطلوب هنا sigmoid like hemoglobin. الخيار C: المطلوب هنا left, to aid oxygen unloading. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "P50: about Twenty-eight mmHg"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Is ideally 50% saturated at a PO2 of 28 mmhg. نقطة إشباع 50٪ على منحنى الهيموغلوبين تقع عند PO2 حوالي 26-28."
+      "narration": "الخيار E هو الإجابة الصحيحة. نقطة إشباع 50٪ على منحنى الهيموغلوبين تقع عند PO2 حوالي 26-28."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقطة إشباع 50٪ على منحنى الهيموغلوبين تقع عند PO2 حوالي 26-28. وتذكّر القاعدة: P50: about Twenty-eight mmHg. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. نقطة إشباع 50٪ على منحنى الهيموغلوبين تقع عند PO2 حوالي 26-28. وتذكّر: P50: about Twenty-eight mmHg. والإجابة الصحيحة هي E."
     }
   ]
 }

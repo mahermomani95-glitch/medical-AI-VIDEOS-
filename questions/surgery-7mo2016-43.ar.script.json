@@ -45,7 +45,7 @@
         "label": "Vasoconstriction",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الخطوة الأولى في عملية وقف النزيف بعد إصابة الأوعية الدموية هي؟ أمامك هذه الخيارات: Platelet adherence، أو Platelet aggregation، أو Vasoconstriction، أو Release of thromboxane، أو Thrombus activation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الخطوة الأولى في عملية وقف النزيف بعد إصابة الأوعية الدموية هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Platelet adherence: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف Platelet adherence, aggregation, thromboxane release, and thrombus formation all follow later in the hemostatic cascade — vasoconstriction is the very first, immediate response to vessel injury. الخيار B، Platelet aggregation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف Platelet adherence, aggregation, thromboxane release, and thrombus formation all follow later in the hemostatic cascade — vasoconstriction is the very first, immediate response to vessel injury. الخيار D، Release of thromboxane: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف Platelet adherence, aggregation, thromboxane release, and thrombus formation all follow later in the hemostatic cascade — vasoconstriction is the very first, immediate response to vessel injury. الخيار E، Thrombus activation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vasoconstriction. يصبح صحيحًا في سؤال يصف Platelet adherence, aggregation, thromboxane release, and thrombus formation all follow later in the hemostatic cascade — vasoconstriction is the very first, immediate response to vessel injury.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Platelet adherence: الإجابة الصحيحة هي Vasoconstriction. الخيار B، Platelet aggregation: الإجابة الصحيحة هي Vasoconstriction. الخيار D، Release of thromboxane: الإجابة الصحيحة هي Vasoconstriction. الخيار E، Thrombus activation: الإجابة الصحيحة هي Vasoconstriction. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Hemostasis: Vasoconstriction comes first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Vasoconstriction. التضيق الوعائي هو الخطوة الأولى بالإرقاء بعد إصابة الوعاء."
+      "narration": "الخيار C، Vasoconstriction هو الإجابة الصحيحة. التضيق الوعائي هو الخطوة الأولى بالإرقاء بعد إصابة الوعاء."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التضيق الوعائي هو الخطوة الأولى بالإرقاء بعد إصابة الوعاء. وتذكّر القاعدة: Hemostasis: Vasoconstriction comes first. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التضيق الوعائي هو الخطوة الأولى بالإرقاء بعد إصابة الوعاء. وتذكّر: Hemostasis: Vasoconstriction comes first. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Villous adenoma"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من أنواع السلائل القولونية التالية يرتبط بأعلى معدل للإصابة بالتنكسالخبيث؟ أمامك هذه الخيارات: Tubular adenoma، أو Tubulovillous adenoma، أو Villous adenoma، أو Hamartomatous polyp، أو Lipomatous polyp. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من أنواع السلائل القولونية التالية يرتبط بأعلى معدل للإصابة بالتنكسالخبيث؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tubular adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Villous adenoma. يصبح صحيحًا في سؤال يصف Tubular adenoma, tubulovillous adenoma, hamartomatous polyps, and lipomatous polyps carry lower or variable malignant potential, but villous adenomas carry the highest risk of malignant transformation among colonic polyp types. الخيار B، Tubulovillous adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Villous adenoma. يصبح صحيحًا في سؤال يصف Tubular adenoma, tubulovillous adenoma, hamartomatous polyps, and lipomatous polyps carry lower or variable malignant potential, but villous adenomas carry the highest risk of malignant transformation among colonic polyp types. الخيار D، Hamartomatous polyp: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Villous adenoma. يصبح صحيحًا في سؤال يصف Tubular adenoma, tubulovillous adenoma, hamartomatous polyps, and lipomatous polyps carry lower or variable malignant potential, but villous adenomas carry the highest risk of malignant transformation among colonic polyp types. الخيار E، Lipomatous polyp: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Villous adenoma. يصبح صحيحًا في سؤال يصف Tubular adenoma, tubulovillous adenoma, hamartomatous polyps, and lipomatous polyps carry lower or variable malignant potential, but villous adenomas carry the highest risk of malignant transformation among colonic polyp types.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Tubular adenoma: الإجابة الصحيحة هي Villous adenoma. الخيار B، Tubulovillous adenoma: الإجابة الصحيحة هي Villous adenoma. الخيار D، Hamartomatous polyp: الإجابة الصحيحة هي Villous adenoma. الخيار E، Lipomatous polyp: الإجابة الصحيحة هي Villous adenoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Highest polyp malignancy risk: Villous adenoma"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Villous adenoma. الورم الغدي الزغابي يحمل أعلى نسبة تحول خبيث بين البوليبات القولونية."
+      "narration": "الخيار C، Villous adenoma هو الإجابة الصحيحة. الورم الغدي الزغابي يحمل أعلى نسبة تحول خبيث بين البوليبات القولونية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم الغدي الزغابي يحمل أعلى نسبة تحول خبيث بين البوليبات القولونية. وتذكّر القاعدة: Highest polyp malignancy risk: Villous adenoma. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الورم الغدي الزغابي يحمل أعلى نسبة تحول خبيث بين البوليبات القولونية. وتذكّر: Highest polyp malignancy risk: Villous adenoma. والإجابة الصحيحة هي C."
     }
   ]
 }

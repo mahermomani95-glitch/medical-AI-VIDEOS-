@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Alvarado score is not commonly used for diagnosis…"
       },
-      "narration": "لنبدأ بهذا السؤال. ما هو غير صحيح فيما يتعلق بالتهاب الزائدة الدودية الحاد؟ أمامك هذه الخيارات: Between 50-75% of patients present with the classical symptoms and signs of acute appendicitis، أو Presence of a good appetite makes appendicitis unlikely، أو Rovsing's sign may be helpful in diagnosis، أو Alvarado score is not commonly used for diagnosis of acute appendicitis، أو Vomiting prior to the onset of pain makes appendicitis unlikely. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ما هو غير صحيح فيما يتعلق بالتهاب الزائدة الدودية الحاد؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Between 50-75% of patients present with the classical symptoms and signs of acute appendicitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis. الخيار B، Presence of a good appetite makes appendicitis unlikely: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis. الخيار C، Rovsing's sign may be helpful in diagnosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis. الخيار E، Vomiting prior to the onset of pain makes appendicitis unlikely: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The 50-75% classical presentation rate, good appetite making appendicitis unlikely, Rovsing's… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvarado score is not commonly used for diagnosis of acute appendicitis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Alvarado IS commonly used\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Alvarado score is not commonly used for diagnosis of acute appendicitis. مقياس الفارادو يُستخدم فعليًا وبكثرة في الممارسة السريرية للمساعدة بتشخيص التهاب الزائدة — والعبارة التي تنفي ذلك هي الخاطئة."
+      "narration": "الخيار D هو الإجابة الصحيحة. مقياس الفارادو يُستخدم فعليًا وبكثرة في الممارسة السريرية للمساعدة بتشخيص التهاب الزائدة — والعبارة التي تنفي ذلك هي الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مقياس الفارادو يُستخدم فعليًا وبكثرة في الممارسة السريرية للمساعدة بتشخيص التهاب الزائدة — والعبارة التي تنفي ذلك هي الخاطئة. وتذكّر القاعدة: \"Alvarado IS commonly used\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. مقياس الفارادو يُستخدم فعليًا وبكثرة في الممارسة السريرية للمساعدة بتشخيص التهاب الزائدة — والعبارة التي تنفي ذلك هي الخاطئة. وتذكّر: \"Alvarado IS commonly used\". والإجابة الصحيحة هي D."
     }
   ]
 }

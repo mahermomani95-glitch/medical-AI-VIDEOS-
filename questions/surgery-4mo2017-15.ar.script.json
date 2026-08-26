@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Papillary"
       },
-      "narration": "لنبدأ بهذا السؤال. ورم الغدة الدرقية الأكثر شيوعًا والذي ينتشر عبر الأوعية اللمفاوية؟ أمامك هذه الخيارات: Follicular، أو Anaplastic، أو Medullary، أو Papillary، أو Lymphoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ورم الغدة الدرقية الأكثر شيوعًا والذي ينتشر عبر الأوعية اللمفاوية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Follicular: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary. يصبح صحيحًا في سؤال يصف Follicular spreads more hematogenously. الخيار B، Anaplastic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary. يصبح صحيحًا في سؤال يصف anaplastic spreads by direct invasion. الخيار C، Medullary: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary. يصبح صحيحًا في سؤال يصف medullary does spread via lymphatics but less commonly than papillary. الخيار E، Lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary. يصبح صحيحًا في سؤال يصف lymphoma is a different entity — papillary carcinoma remains the most common thyroid tumor overall and classically spreads via lymphatics.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Follicular: الإجابة الصحيحة هي Papillary. الخيار B، Anaplastic: الإجابة الصحيحة هي Papillary. الخيار C، Medullary: الإجابة الصحيحة هي Papillary. الخيار E، Lymphoma: الإجابة الصحيحة هي Papillary. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Lymphatic-spreading thyroid cancer: Papillary"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Papillary. السرطانة الحليمية هي الأشيع درقيًا وتنتشر لمفاويًا تحديدًا."
+      "narration": "الخيار D، Papillary هو الإجابة الصحيحة. السرطانة الحليمية هي الأشيع درقيًا وتنتشر لمفاويًا تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة الحليمية هي الأشيع درقيًا وتنتشر لمفاويًا تحديدًا. وتذكّر القاعدة: Lymphatic-spreading thyroid cancer: Papillary. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. السرطانة الحليمية هي الأشيع درقيًا وتنتشر لمفاويًا تحديدًا. وتذكّر: Lymphatic-spreading thyroid cancer: Papillary. والإجابة الصحيحة هي D."
     }
   ]
 }

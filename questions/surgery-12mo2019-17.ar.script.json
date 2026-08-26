@@ -45,7 +45,7 @@
         "label": "30-35 kcal/kg/day",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كم كيلو كالوري/كجم يحتاج المريض الذي يعاني من مرض متوسط؟ أمامك هذه الخيارات: 15-20 kcal/kg/day، أو 20-25 kcal/kg/day، أو 25-30 kcal/kg/day، أو 30-35 kcal/kg/day، أو 35-40 kcal/kg/day. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كم كيلو كالوري/كجم يحتاج المريض الذي يعاني من مرض متوسط؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 15-20 kcal/kg/day: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day. يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the higher ranges are reserved for more severe stress states like major burns. الخيار B، 20-25 kcal/kg/day: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day. يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the higher ranges are reserved for more severe stress states like major burns. الخيار C، 25-30 kcal/kg/day: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day. يصبح صحيحًا في سؤال يصف 25-30 kcal/kg/day is the typical estimated caloric requirement for a patient with moderate illness. الخيار E، 35-40 kcal/kg/day: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30-35 kcal/kg/day. يصبح صحيحًا في سؤال يصف 15-20, 20-25, 30-35, and 35-40 kcal/kg/day don't match the typical estimated 25-30 kcal/kg/day requirement for a moderately ill patient — the higher ranges are reserved for more severe stress states like major burns.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 15-20 kcal/kg/day: الإجابة الصحيحة هي 30-35 kcal/kg/day. الخيار B، 20-25 kcal/kg/day: الإجابة الصحيحة هي 30-35 kcal/kg/day. الخيار C، 25-30 kcal/kg/day: الإجابة الصحيحة هي 30-35 kcal/kg/day. الخيار E، 35-40 kcal/kg/day: الإجابة الصحيحة هي 30-35 kcal/kg/day. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Moderate illness ≈ 25-30 kcal/kg/day\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: 30-35 kcal/kg/day. المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة."
+      "narration": "الخيار D، 30-35 kcal/kg/day هو الإجابة الصحيحة. المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة. وتذكّر القاعدة: \"Moderate illness ≈ 25-30 kcal/kg/day\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. المريض متوسط الشدة (مفرط الاستقلاب) يحتاج سعرات أكثر من الخط الأساسي الصحي — تقريبًا 25-30 كيلو كالوري/كغ/يوم تغطي معظم حالات الشدة المتوسطة. وتذكّر: \"Moderate illness ≈ 25-30 kcal/kg/day\". والإجابة الصحيحة هي D."
     }
   ]
 }

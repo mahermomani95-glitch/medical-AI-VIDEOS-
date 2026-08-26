@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Pulseless"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل العلامات والأعراض المبكرة لمتلازمة الحيز كل ما يلي باستثناء أمامك هذه الخيارات: Pain، أو Paraesthesia، أو Tense swelling، أو Pulseless، أو Pressure increased. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل العلامات والأعراض المبكرة لمتلازمة الحيز كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless. الخيار B، Paraesthesia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless. الخيار C، Tense swelling: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless. الخيار E، Pressure increased: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain (especially with passive stretch), paresthesia, tense swelling, and increased compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulseless.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: صحيحة، لكنها ليست الاستثناء. الخيار B، Paraesthesia: صحيحة، لكنها ليست الاستثناء. الخيار C، Tense swelling: صحيحة، لكنها ليست الاستثناء. الخيار E، Pressure increased: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"5 P's: Pulse is the LAST one\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Pulseless. غياب النبض علامة متأخرة جدًا لمتلازمة الحيز — عندما يغيب النبض تكون الأذية قد أصبحت شديدة بالفعل."
+      "narration": "الخيار D، Pulseless هو الإجابة الصحيحة. غياب النبض علامة متأخرة جدًا لمتلازمة الحيز — عندما يغيب النبض تكون الأذية قد أصبحت شديدة بالفعل."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. غياب النبض علامة متأخرة جدًا لمتلازمة الحيز — عندما يغيب النبض تكون الأذية قد أصبحت شديدة بالفعل. وتذكّر القاعدة: \"5 P's: Pulse is the LAST one\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. غياب النبض علامة متأخرة جدًا لمتلازمة الحيز — عندما يغيب النبض تكون الأذية قد أصبحت شديدة بالفعل. وتذكّر: \"5 P's: Pulse is the LAST one\". والإجابة الصحيحة هي D."
     }
   ]
 }

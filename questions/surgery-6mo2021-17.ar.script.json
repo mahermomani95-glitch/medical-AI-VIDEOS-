@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Topical nifedipine"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Topical nifedipine، أو Colonoscopy and random mucosal biopsies، أو Lateral internal anal sphincterotomy، أو Tract curettage، أو Gradual dilation of the sphincter. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Colonoscopy and random mucosal biopsies: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا treatment. يصبح صحيحًا في سؤال يصف Colonoscopy with random biopsies is a diagnostic tool. الخيار C، Lateral internal anal sphincterotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا perianal abscess. يصبح صحيحًا في سؤال يصف lateral internal sphincterotomy treats fissures. الخيار D، Tract curettage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Topical nifedipine. يصبح صحيحًا في سؤال يصف tract curettage is used for fistula management, a different condition. الخيار E، Gradual dilation of the sphincter: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Topical nifedipine. يصبح صحيحًا في سؤال يصف gradual sphincter dilation is an older, less definitive approach — incision and drainage remains the definitive treatment for a perianal abscess.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: المطلوب هنا treatment. الخيار C، Lateral internal anal sphincterotomy: المطلوب هنا perianal abscess. الخيار D، Tract curettage: الإجابة الصحيحة هي Topical nifedipine. الخيار E: الإجابة الصحيحة هي Topical nifedipine. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Nifedipine over GTN when there's a headache h"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Topical nifedipine. نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع."
+      "narration": "الخيار A، Topical nifedipine هو الإجابة الصحيحة. نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع. وتذكّر القاعدة: \"Nifedipine over GTN when there's a headache history\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. نيفيديبين الموضعي (حاصر قنوات كالسيوم) يُرخي المصرة الداخلية دون الآثار الوعائية الجهازية التي يسببها النيتروغليسرين عند شخص لديه تاريخ صداع. وتذكّر: \"Nifedipine over GTN when there's a headache history\". والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "HTN",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الشكل الأكثر شيوعًا لورم القواتم؟ أمامك هذه الخيارات: Excess sweating، أو Palpitations، أو Chest pain، أو Headache، أو HTN. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الشكل الأكثر شيوعًا لورم القواتم؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Excess sweating: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي HTN. يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often sustained, not just paroxysmal) remains the most common overall presentation. الخيار B، Palpitations: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي HTN. يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often sustained, not just paroxysmal) remains the most common overall presentation. الخيار C، Chest pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي HTN. يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often sustained, not just paroxysmal) remains the most common overall presentation. الخيار D، Headache: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي HTN. يصبح صحيحًا في سؤال يصف Excess sweating, palpitations, chest pain, and headache are all classic paroxysmal symptoms of pheochromocytoma, but hypertension (often sustained, not just paroxysmal) remains the most common overall presentation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Excess sweating: الإجابة الصحيحة هي HTN. الخيار B، Palpitations: الإجابة الصحيحة هي HTN. الخيار C، Chest pain: الإجابة الصحيحة هي HTN. الخيار D، Headache: الإجابة الصحيحة هي HTN. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Pheochromocytoma: mostly presents with HTN"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: HTN. ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم."
+      "narration": "الخيار E، HTN هو الإجابة الصحيحة. ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم. وتذكّر القاعدة: Pheochromocytoma: mostly presents with HTN. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. ارتفاع ضغط الدم هو التظاهر الأشيع لورم القواتم. وتذكّر: Pheochromocytoma: mostly presents with HTN. والإجابة الصحيحة هي E."
     }
   ]
 }

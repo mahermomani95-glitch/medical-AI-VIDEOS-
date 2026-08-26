@@ -45,7 +45,7 @@
         "label": "Hypoperfusion at the tissue level",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم تعريف الصدمة على أنها؟ أمامك هذه الخيارات: Bradycardia، أو Hypothermia، أو Hypoperfusion at the tissue level، أو Hypotension، أو Loss of consciousness. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم تعريف الصدمة على أنها؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bradycardia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level. يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is fundamentally defined as inadequate tissue perfusion at the cellular level. الخيار B، Hypothermia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level. يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is fundamentally defined as inadequate tissue perfusion at the cellular level. الخيار D، Hypotension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level. يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is fundamentally defined as inadequate tissue perfusion at the cellular level. الخيار E، Loss of consciousness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypoperfusion at the tissue level. يصبح صحيحًا في سؤال يصف Bradycardia, hypothermia, hypotension, and loss of consciousness can accompany various forms of shock but aren't the defining feature — shock is fundamentally defined as inadequate tissue perfusion at the cellular level.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Bradycardia: الإجابة الصحيحة هي Hypoperfusion at the tissue level. الخيار B، Hypothermia: الإجابة الصحيحة هي Hypoperfusion at the tissue level. الخيار D، Hypotension: الإجابة الصحيحة هي Hypoperfusion at the tissue level. الخيار E، Loss of consciousness: الإجابة الصحيحة هي Hypoperfusion at the tissue level. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Shock: Shortage of tissue Perfusion"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hypoperfusion at the tissue level. الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي."
+      "narration": "الخيار C هو الإجابة الصحيحة. الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي. وتذكّر القاعدة: Shock: Shortage of tissue Perfusion. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الصدمة تُعرَّف بنقص التروية على المستوى النسيجي الخلوي. وتذكّر: Shock: Shortage of tissue Perfusion. والإجابة الصحيحة هي C."
     }
   ]
 }

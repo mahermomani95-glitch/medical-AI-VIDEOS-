@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Need mesh repair"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: More on the right side، أو Can cause bowel obstruction، أو Need mesh repair، أو Indirect more than direct، أو The most common hernia in children. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، More on the right side: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair. الخيار B، Can cause bowel obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair. الخيار D، Indirect more than direct: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair. الخيار E، The most common hernia in children: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, bowel obstruction risk, indirect being more common than direct, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Need mesh repair.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B، Can cause bowel obstruction: صحيحة، لكنها ليست الاستثناء. الخيار D، Indirect more than direct: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pediatric hernia repair = simple ligation, NE"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Need mesh repair. إصلاح الفتق الإربي عند الأطفال هو ربط بسيط للناتئ المهبلي السالك عاليًا — الشبكة لا تُستخدم أبدًا عند الأطفال، بعكس البالغين."
+      "narration": "الخيار C، Need mesh repair هو الإجابة الصحيحة. إصلاح الفتق الإربي عند الأطفال هو ربط بسيط للناتئ المهبلي السالك عاليًا — الشبكة لا تُستخدم أبدًا عند الأطفال، بعكس البالغين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إصلاح الفتق الإربي عند الأطفال هو ربط بسيط للناتئ المهبلي السالك عاليًا — الشبكة لا تُستخدم أبدًا عند الأطفال، بعكس البالغين. وتذكّر القاعدة: \"Pediatric hernia repair = simple ligation, NEVER mesh\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. إصلاح الفتق الإربي عند الأطفال هو ربط بسيط للناتئ المهبلي السالك عاليًا — الشبكة لا تُستخدم أبدًا عند الأطفال، بعكس البالغين. وتذكّر: \"Pediatric hernia repair = simple ligation, NEVER mesh\". والإجابة الصحيحة هي C."
     }
   ]
 }

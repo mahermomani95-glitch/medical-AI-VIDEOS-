@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Classical surgical procedure is subcutaneous…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يخص الشقوق الشرجية، جميع ما يلي صحيح ما عدا: أمامك هذه الخيارات: It is a tear in the anoderm below the dentate line، أو Commonest site (80-90%) posteriorly، أو Chronic fissures may be seen with a fibrous polyp (sentinel tag)، أو Can be managed by stool softeners, calcium channel blockers, GTN, and Botox، أو Classical surgical procedure is subcutaneous lateral external sphincterotomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يخص الشقوق الشرجية، جميع ما يلي صحيح ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is a tear in the anoderm below the dentate line: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A tear below the dentate line, posterior predominance (80-90%), sentinel tag in chronic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Classical surgical procedure is subcutaneous lateral external sphincterotomy. الخيار B، Commonest site (80-90%) posteriorly: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A tear below the dentate line, posterior predominance (80-90%), sentinel tag in chronic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Classical surgical procedure is subcutaneous lateral external sphincterotomy. الخيار C، Chronic fissures may be seen with a fibrous polyp (sentinel tag): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A tear below the dentate line, posterior predominance (80-90%), sentinel tag in chronic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Classical surgical procedure is subcutaneous lateral external sphincterotomy. الخيار D، Can be managed by stool softeners, calcium channel blockers, GTN, and Botox: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. A tear below the dentate line, posterior predominance (80-90%), sentinel tag in chronic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Classical surgical procedure is subcutaneous lateral external sphincterotomy.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B، Commonest site (80-90%) posteriorly: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Lateral INTERNAL sphincterotomy, not external"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Classical surgical procedure is subcutaneous lateral external sphincterotomy. الإجراء الجراحي القياسي هو بضع المصرة الداخلي الجانبي — وليس تحت جلدي خارجي كما ورد."
+      "narration": "الخيار E هو الإجابة الصحيحة. الإجراء الجراحي القياسي هو بضع المصرة الداخلي الجانبي — وليس تحت جلدي خارجي كما ورد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإجراء الجراحي القياسي هو بضع المصرة الداخلي الجانبي — وليس تحت جلدي خارجي كما ورد. وتذكّر القاعدة: \"Lateral INTERNAL sphincterotomy, not external\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الإجراء الجراحي القياسي هو بضع المصرة الداخلي الجانبي — وليس تحت جلدي خارجي كما ورد. وتذكّر: \"Lateral INTERNAL sphincterotomy, not external\". والإجابة الصحيحة هي E."
     }
   ]
 }

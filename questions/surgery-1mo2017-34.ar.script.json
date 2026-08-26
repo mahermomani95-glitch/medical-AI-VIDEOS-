@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Direct compression by hand"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم السيطرة على النزيف الكبير في الفخذ بشكل أفضل في مكان الحادث عنطريق؟ أمامك هذه الخيارات: Tourniquet، أو Direct compression by hand، أو Exploration under local anesthesia and clamp، أو Exploration and ligation under local anesthesia، أو Send to operating room for exploration under General anesthesia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم السيطرة على النزيف الكبير في الفخذ بشكل أفضل في مكان الحادث عنطريق؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Tourniquet: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا manageable by simpler means, given ischemia risk to the limb. يصبح صحيحًا في سؤال يصف A tourniquet is reserved for life-threatening, uncontrollable bleeding. الخيار C، Exploration under local anesthesia and clamp: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Direct compression by hand. يصبح صحيحًا في سؤال يصف exploration and clamping or general anesthesia in the OR are unnecessary and delay care at the scene — direct manual compression remains the best initial first-aid measure for major thigh bleeding. الخيار D، Exploration and ligation under local anesthesia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Direct compression by hand. يصبح صحيحًا في سؤال يصف exploration and clamping or general anesthesia in the OR are unnecessary and delay care at the scene — direct manual compression remains the best initial first-aid measure for major thigh bleeding. الخيار E، Send to operating room for exploration under General anesthesia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Direct compression by hand. يصبح صحيحًا في سؤال يصف exploration and clamping or general anesthesia in the OR are unnecessary and delay care at the scene — direct manual compression remains the best initial first-aid measure for major thigh bleeding.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Tourniquet: لا ينطبق على هذه الحالة. الخيار C: الإجابة الصحيحة هي Direct compression by hand. الخيار D: الإجابة الصحيحة هي Direct compression by hand. الخيار E: الإجابة الصحيحة هي Direct compression by hand. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Field bleeding control: Direct pressure First"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Direct compression by hand. الضغط اليدوي المباشر هو الوسيلة الأولى القياسية للسيطرة على النزف بموقع الحادث."
+      "narration": "الخيار B، Direct compression by hand هو الإجابة الصحيحة. الضغط اليدوي المباشر هو الوسيلة الأولى القياسية للسيطرة على النزف بموقع الحادث."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الضغط اليدوي المباشر هو الوسيلة الأولى القياسية للسيطرة على النزف بموقع الحادث. وتذكّر القاعدة: Field bleeding control: Direct pressure First. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الضغط اليدوي المباشر هو الوسيلة الأولى القياسية للسيطرة على النزف بموقع الحادث. وتذكّر: Field bleeding control: Direct pressure First. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Radial nerve"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 45 عامًا وُجد أنها تعاني من فقدان امتداد الأصابعوالإبهام والمعصم، و\"سقوط المعصم\". الإصابة العصبية الأكثر احتمالًا هي:؟ أمامك هذه الخيارات: Ulnar nerve، أو Radial nerve، أو Median nerve، أو Axillary nerve، أو Thenar and hypothenar nerves. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 45 عامًا وُجد أنها تعاني من فقدان امتداد الأصابعوالإبهام والمعصم، و\"سقوط المعصم\". الإصابة العصبية الأكثر احتمالًا هي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ulnar nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Radial nerve. يصبح صحيحًا في سؤال يصف Ulnar nerve injury causes claw hand. الخيار C، Median nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Radial nerve. يصبح صحيحًا في سؤال يصف median nerve injury affects thumb opposition/flexion. الخيار D، Axillary nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Radial nerve. يصبح صحيحًا في سؤال يصف axillary nerve injury affects shoulder abduction. الخيار E، Thenar and hypothenar nerves: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Radial nerve. يصبح صحيحًا في سؤال يصف thenar/hypothenar 'nerves' aren't a real distinct nerve group — radial nerve injury causes the described loss of finger/thumb/wrist extension.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Ulnar nerve: الإجابة الصحيحة هي Radial nerve. الخيار C، Median nerve: الإجابة الصحيحة هي Radial nerve. الخيار D، Axillary nerve: الإجابة الصحيحة هي Radial nerve. الخيار E، Thenar and hypothenar nerves: الإجابة الصحيحة هي Radial nerve. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Loss of Extension (fingers, thumb, wrist): Rad"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Radial nerve. فقدان بسط الأصابع والإبهام والرسغ معًا يوجه لإصابة العصب الكعبري."
+      "narration": "الخيار B، Radial nerve هو الإجابة الصحيحة. فقدان بسط الأصابع والإبهام والرسغ معًا يوجه لإصابة العصب الكعبري."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فقدان بسط الأصابع والإبهام والرسغ معًا يوجه لإصابة العصب الكعبري. وتذكّر القاعدة: Loss of Extension (fingers, thumb, wrist): Radial nerve. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. فقدان بسط الأصابع والإبهام والرسغ معًا يوجه لإصابة العصب الكعبري. وتذكّر: Loss of Extension (fingers, thumb, wrist): Radial nerve. والإجابة الصحيحة هي B."
     }
   ]
 }

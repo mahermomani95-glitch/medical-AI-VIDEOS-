@@ -45,7 +45,7 @@
         "label": "May cause Hypercalcemia",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تخضع للعلاج في وحدة العناية المركزة بعد استئصال جزئي للقولون. أظهرت نتائج فحص الدم أن مستوى الفوسفات هو 0.25 مليمول/لتر. أي منالعبارات التالية المتعلقة بالفوسفات الوريدي غير صحيحة؟ أمامك هذه الخيارات: May cause Hypercalcemia، أو Should never be given at rate greater than 30 mmol over 6 hours، أو Should preferentially be given via a central line، أو May cause metastatic calcification، أو Should be used even if the patient is asymptomatic. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تخضع للعلاج في وحدة العناية المركزة بعد استئصال جزئي للقولون. أظهرت نتائج فحص الدم أن مستوى الفوسفات هو 0.25 مليمول/لتر. أي منالعبارات التالية المتعلقة بالفوسفات الوريدي غير صحيحة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Should never be given at rate greater than 30 mmol over 6 hours: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic calcification with hypercalcemia states, and treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however, magnesium sulfate infusion is associated with HYPOcalcemia (not hypercalcemia) as a potential effect through various mechanisms, making A. الخيار C، Should preferentially be given via a central line: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic calcification with hypercalcemia states, and treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however, magnesium sulfate infusion is associated with HYPOcalcemia (not hypercalcemia) as a potential effect through various mechanisms, making A. الخيار D، May cause metastatic calcification: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic calcification with hypercalcemia states, and treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however, magnesium sulfate infusion is associated with HYPOcalcemia (not hypercalcemia) as a potential effect through various mechanisms, making A. الخيار E، Should be used even if the patient is asymptomatic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي May cause Hypercalcemia. يصبح صحيحًا في سؤال يصف Should never be given faster than 30 mmol over 6 hours, preference for central line administration (C, in certain settings), risk of metastatic calcification with hypercalcemia states, and treating even asymptomatic severe deficiency are considerations related to magnesium therapy — however, magnesium sulfate infusion is associated with HYPOcalcemia (not hypercalcemia) as a potential effect through various mechanisms, making A.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي May cause Hypercalcemia. الخيار C: الإجابة الصحيحة هي May cause Hypercalcemia. الخيار D، May cause metastatic calcification: الإجابة الصحيحة هي May cause Hypercalcemia. الخيار E: الإجابة الصحيحة هي May cause Hypercalcemia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Mg infusion, ICU: May raise Calcium too"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: May cause Hypercalcemia. تسريب كبريتات المغنيسيوم قد يرفع الكالسيوم أيضًا بتفاعلات كهرلية معقدة."
+      "narration": "الخيار A، May cause Hypercalcemia هو الإجابة الصحيحة. تسريب كبريتات المغنيسيوم قد يرفع الكالسيوم أيضًا بتفاعلات كهرلية معقدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تسريب كبريتات المغنيسيوم قد يرفع الكالسيوم أيضًا بتفاعلات كهرلية معقدة. وتذكّر القاعدة: Mg infusion, ICU: May raise Calcium too. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. تسريب كبريتات المغنيسيوم قد يرفع الكالسيوم أيضًا بتفاعلات كهرلية معقدة. وتذكّر: Mg infusion, ICU: May raise Calcium too. والإجابة الصحيحة هي A."
     }
   ]
 }

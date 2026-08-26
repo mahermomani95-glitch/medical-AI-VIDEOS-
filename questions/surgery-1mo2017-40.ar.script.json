@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Metabolic acidosis with respiratory compensation"
       },
-      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 73 عامًا، مصاب بمرض القلب التاجي، يشكو منألم شديد في البطن. في تحليل غازات الدم الشرياني، كان الرقمالهيدروجيني 7.31، وضغط ثاني أكسيد الكربون 25 مم زئبق، وضغط الدم 73 مم زئبق، وضغط ثاني أكسيد الكربون 14 مليمول/لتر، وكتلة الدم 15.9. التشخيص هو:؟ أمامك هذه الخيارات: Metabolic acidosis، أو Metabolic acidosis with respiratory compensation، أو Respiratory acidosis، أو Respiratory acidosis with metabolic compensation، أو Metabolic and respiratory acidosis mixed. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 73 عامًا، مصاب بمرض القلب التاجي، يشكو منألم شديد في البطن. في تحليل غازات الدم الشرياني، كان الرقمالهيدروجيني 7.31، وضغط ثاني أكسيد الكربون 25 مم زئبق، وضغط الدم 73 مم زئبق، وضغط ثاني أكسيد الكربون 14 مليمول/لتر، وكتلة الدم 15.9. التشخيص هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Metabolic acidosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic acidosis with respiratory compensation. يصبح صحيحًا في سؤال يصف Pure metabolic acidosis without compensation, pure respiratory acidosis, respiratory acidosis with metabolic compensation, and a mixed picture don't match the classic finding — in mesenteric ischemia (suggested by severe pain in an at-risk elderly patient), a primary metabolic (lactic) acidosis with respiratory (hyperventilation) compensation is the classic ABG pattern. الخيار C، Respiratory acidosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic acidosis with respiratory compensation. يصبح صحيحًا في سؤال يصف Pure metabolic acidosis without compensation, pure respiratory acidosis, respiratory acidosis with metabolic compensation, and a mixed picture don't match the classic finding — in mesenteric ischemia (suggested by severe pain in an at-risk elderly patient), a primary metabolic (lactic) acidosis with respiratory (hyperventilation) compensation is the classic ABG pattern. الخيار D، Respiratory acidosis with metabolic compensation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic acidosis with respiratory compensation. يصبح صحيحًا في سؤال يصف Pure metabolic acidosis without compensation, pure respiratory acidosis, respiratory acidosis with metabolic compensation, and a mixed picture don't match the classic finding — in mesenteric ischemia (suggested by severe pain in an at-risk elderly patient), a primary metabolic (lactic) acidosis with respiratory (hyperventilation) compensation is the classic ABG pattern. الخيار E، Metabolic and respiratory acidosis mixed: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic acidosis with respiratory compensation. يصبح صحيحًا في سؤال يصف Pure metabolic acidosis without compensation, pure respiratory acidosis, respiratory acidosis with metabolic compensation, and a mixed picture don't match the classic finding — in mesenteric ischemia (suggested by severe pain in an at-risk elderly patient), a primary metabolic (lactic) acidosis with respiratory (hyperventilation) compensation is the classic ABG pattern.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Metabolic acidosis: الإجابة الصحيحة هي Metabolic acidosis with respiratory compensation. الخيار C، Respiratory acidosis: الإجابة الصحيحة هي Metabolic acidosis with respiratory compensation. الخيار D: الإجابة الصحيحة هي Metabolic acidosis with respiratory compensation. الخيار E: الإجابة الصحيحة هي Metabolic acidosis with respiratory compensation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Severe pain, cardiac patient: Metabolic acidos"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Metabolic acidosis with respiratory compensation. ألم بطني شديد قد يوحي بحماض استقلابي أولي مع تعويض تنفسي."
+      "narration": "الخيار B هو الإجابة الصحيحة. ألم بطني شديد قد يوحي بحماض استقلابي أولي مع تعويض تنفسي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم بطني شديد قد يوحي بحماض استقلابي أولي مع تعويض تنفسي. وتذكّر القاعدة: Severe pain, cardiac patient: Metabolic acidosis, respiratory Compensation. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. ألم بطني شديد قد يوحي بحماض استقلابي أولي مع تعويض تنفسي. وتذكّر: Severe pain, cardiac patient: Metabolic acidosis, respiratory Compensation. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Abdominal ultrasound (US)"
       },
-      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 35 عامًا، تتمتع بصحة جيدة، دخلت قسم الطوارئ تشكومن ألم في أعلى البطن الأيمن مصحوب بغثيان وحمى. يمتد الألم إلى لوحالكتف الأيمن. أظهرت فحوصات الدم الأولية لديها عدد الخلايا البيضاء -16،الهيموجلوبين 12. ما هي أفضل دراسة تصوير أولية في هذه الحالة؟ أمامك هذه الخيارات: Hepatoiminodiacetic acid scintigraphy (HIDA scan)، أو Endoscopic ultrasound (EUS)، أو Magnetic resonance imaging with magnetic resonance cholangiopancreatography (MRCP)، أو Endoscopic retrograde cholangiopancreatography (ERCP)، أو Abdominal ultrasound (US). لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 35 عامًا، تتمتع بصحة جيدة، دخلت قسم الطوارئ تشكومن ألم في أعلى البطن الأيمن مصحوب بغثيان وحمى. يمتد الألم إلى لوحالكتف الأيمن. أظهرت فحوصات الدم الأولية لديها عدد الخلايا البيضاء -16،الهيموجلوبين 12. ما هي أفضل دراسة تصوير أولية في هذه الحالة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hepatoiminodiacetic acid scintigraphy (HIDA scan): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US). يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best initial investigation for suspected gallstone disease. الخيار B، Endoscopic ultrasound (EUS): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US). يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best initial investigation for suspected gallstone disease. الخيار C، Magnetic resonance imaging with magnetic resonance cholangiopancreatography (MRCP): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US). يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best initial investigation for suspected gallstone disease. الخيار D، Endoscopic retrograde cholangiopancreatography (ERCP): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound (US). يصبح صحيحًا في سؤال يصف HIDA scan, EUS, MRCP, and ERCP are all more invasive, specialized, or reserved for specific complications — abdominal ultrasound remains the best initial investigation for suspected gallstone disease.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Abdominal ultrasound (US). الخيار B، Endoscopic ultrasound (EUS): الإجابة الصحيحة هي Abdominal ultrasound (US). الخيار C: الإجابة الصحيحة هي Abdominal ultrasound (US). الخيار D، Endoscopic retrograde cholangiopancreatography (ERCP): الإجابة الصحيحة هي Abdominal ultrasound (US). والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Young healthy patient, abdominal pain: Ultraso"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Abdominal ultrasound (US). الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة."
+      "narration": "الخيار E، Abdominal ultrasound (US) هو الإجابة الصحيحة. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة. وتذكّر القاعدة: Young healthy patient, abdominal pain: Ultrasound first. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم بطني عند سيدة شابة سليمة. وتذكّر: Young healthy patient, abdominal pain: Ultrasound first. والإجابة الصحيحة هي E."
     }
   ]
 }

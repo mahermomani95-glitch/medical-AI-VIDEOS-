@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Most of them produce serotonin"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالسبب الأكثر شيوعًا لوجود كتلة كبيرة غير مؤلمة في البطن عندالرضع، فإن كل ما يلي صحيح باستثناء أمامك هذه الخيارات: It is poorly differentiated neoplasm derived from neural crest cells، أو Is the most common intraabdominal malignancy of infancy، أو Most children present with abdominal symptoms, such as fullness or distension، أو Most of them produce serotonin، أو Associated with amplification of the MYCN oncogene. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالسبب الأكثر شيوعًا لوجود كتلة كبيرة غير مؤلمة في البطن عندالرضع، فإن كل ما يلي صحيح باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is poorly differentiated neoplasm derived from neural crest cells: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Most of them produce serotonin. يصبح صحيحًا في سؤال يصف Being a poorly differentiated neural-crest-derived tumor, the most common intra-abdominal malignancy of infancy, presenting with abdominal fullness/distension, and association with MYCN amplification are all true. الخيار B، Is the most common intraabdominal malignancy of infancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Most of them produce serotonin. يصبح صحيحًا في سؤال يصف Being a poorly differentiated neural-crest-derived tumor, the most common intra-abdominal malignancy of infancy, presenting with abdominal fullness/distension, and association with MYCN amplification are all true. الخيار C، Most children present with abdominal symptoms, such as fullness or distension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Most of them produce serotonin. يصبح صحيحًا في سؤال يصف Being a poorly differentiated neural-crest-derived tumor, the most common intra-abdominal malignancy of infancy, presenting with abdominal fullness/distension, and association with MYCN amplification are all true. الخيار E، Associated with amplification of the MYCN oncogene: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Most of them produce serotonin. يصبح صحيحًا في سؤال يصف Being a poorly differentiated neural-crest-derived tumor, the most common intra-abdominal malignancy of infancy, presenting with abdominal fullness/distension, and association with MYCN amplification are all true.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Most of them produce serotonin. الخيار B: الإجابة الصحيحة هي Most of them produce serotonin. الخيار C: الإجابة الصحيحة هي Most of them produce serotonin. الخيار E: الإجابة الصحيحة هي Most of them produce serotonin. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Neuroblastoma secretes catecholamines, not se"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Most of them produce serotonin. الورم الأرومي العصبي ينشأ من الخلايا العرفية العصبية ويفرز غالبًا كاتيكولامينات وليس سيروتونين."
+      "narration": "الخيار D هو الإجابة الصحيحة. الورم الأرومي العصبي ينشأ من الخلايا العرفية العصبية ويفرز غالبًا كاتيكولامينات وليس سيروتونين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم الأرومي العصبي ينشأ من الخلايا العرفية العصبية ويفرز غالبًا كاتيكولامينات وليس سيروتونين. وتذكّر القاعدة: \"Neuroblastoma secretes catecholamines, not serotonin\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الورم الأرومي العصبي ينشأ من الخلايا العرفية العصبية ويفرز غالبًا كاتيكولامينات وليس سيروتونين. وتذكّر: \"Neuroblastoma secretes catecholamines, not serotonin\". والإجابة الصحيحة هي D."
     }
   ]
 }

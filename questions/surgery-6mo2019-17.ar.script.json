@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "All of the above"
       },
-      "narration": "لنبدأ بهذا السؤال. أي العبارات التالية صحيحة فيما يتعلق بالتهاب الغدد العرقية القيحي؟ أمامك هذه الخيارات: It is a disease of the apocrine sweat glands، أو It causes multiple perianal and perineal sinuses that drain watery pus، أو The sinuses do not communicate with the dentate line، أو The treatment might be surgical in some cases، أو All of the above. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي العبارات التالية صحيحة فيما يتعلق بالتهاب الغدد العرقية القيحي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a disease of the apocrine sweat glands: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا communicating with the dentate line, and surgical treatment in some cases are all individually true statements — the correct answer combining all of them (E, 'all of the above') is what's being tested. يصبح صحيحًا في سؤال يصف Being a disease of apocrine sweat glands, causing multiple draining perianal/perineal sinuses, those sinuses. الخيار B، It causes multiple perianal and perineal sinuses that drain watery pus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا communicating with the dentate line, and surgical treatment in some cases are all individually true statements — the correct answer combining all of them (E, 'all of the above') is what's being tested. يصبح صحيحًا في سؤال يصف Being a disease of apocrine sweat glands, causing multiple draining perianal/perineal sinuses, those sinuses. الخيار C، The sinuses do not communicate with the dentate line: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا communicating with the dentate line, and surgical treatment in some cases are all individually true statements — the correct answer combining all of them (E, 'all of the above') is what's being tested. يصبح صحيحًا في سؤال يصف Being a disease of apocrine sweat glands, causing multiple draining perianal/perineal sinuses, those sinuses. الخيار D، The treatment might be surgical in some cases: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا communicating with the dentate line, and surgical treatment in some cases are all individually true statements — the correct answer combining all of them (E, 'all of the above') is what's being tested. يصبح صحيحًا في سؤال يصف Being a disease of apocrine sweat glands, causing multiple draining perianal/perineal sinuses, those sinuses.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hidradenitis = apocrine glands, sinuses NOT t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: All of the above. التهاب الغدد العرقية القيحي مرض يصيب الغدد المفرزة الرائحية، يسبب جيوبًا صديدية حول الشرج والعجان لا تتصل بخط المسنن — وقد تحتاج جراحة أحيانًا."
+      "narration": "الخيار E، All of the above هو الإجابة الصحيحة. التهاب الغدد العرقية القيحي مرض يصيب الغدد المفرزة الرائحية، يسبب جيوبًا صديدية حول الشرج والعجان لا تتصل بخط المسنن — وقد تحتاج جراحة أحيانًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب الغدد العرقية القيحي مرض يصيب الغدد المفرزة الرائحية، يسبب جيوبًا صديدية حول الشرج والعجان لا تتصل بخط المسنن — وقد تحتاج جراحة أحيانًا. وتذكّر القاعدة: \"Hidradenitis = apocrine glands, sinuses NOT to dentate line\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التهاب الغدد العرقية القيحي مرض يصيب الغدد المفرزة الرائحية، يسبب جيوبًا صديدية حول الشرج والعجان لا تتصل بخط المسنن — وقد تحتاج جراحة أحيانًا. وتذكّر: \"Hidradenitis = apocrine glands, sinuses NOT to dentate line\". والإجابة الصحيحة هي E."
     }
   ]
 }

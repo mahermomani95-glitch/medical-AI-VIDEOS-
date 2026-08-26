@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Total thyroidectomy and neck dissection"
       },
-      "narration": "لنبدأ بهذا السؤال. العلاج المختار لسرطان الغدة الدرقية الحليمي هو أمامك هذه الخيارات: Radiotherapy، أو Chemoradiotherapy، أو Chemotherapy، أو Observation، أو Total thyroidectomy and neck dissection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلاج المختار لسرطان الغدة الدرقية الحليمي هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Radiotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard primary treatment for papillary thyroid cancer — surgery (total thyroidectomy with neck dissection) is. يصبح صحيحًا في سؤال يصف Radiotherapy alone, chemoradiotherapy, chemotherapy alone, and observation. الخيار B، Chemoradiotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard primary treatment for papillary thyroid cancer — surgery (total thyroidectomy with neck dissection) is. يصبح صحيحًا في سؤال يصف Radiotherapy alone, chemoradiotherapy, chemotherapy alone, and observation. الخيار C، Chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard primary treatment for papillary thyroid cancer — surgery (total thyroidectomy with neck dissection) is. يصبح صحيحًا في سؤال يصف Radiotherapy alone, chemoradiotherapy, chemotherapy alone, and observation. الخيار D، Observation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard primary treatment for papillary thyroid cancer — surgery (total thyroidectomy with neck dissection) is. يصبح صحيحًا في سؤال يصف Radiotherapy alone, chemoradiotherapy, chemotherapy alone, and observation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Radiotherapy: لا ينطبق على هذه الحالة. الخيار B، Chemoradiotherapy: لا ينطبق على هذه الحالة. الخيار C، Chemotherapy: لا ينطبق على هذه الحالة. الخيار D، Observation: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Papillary = surgery first\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Total thyroidectomy and neck dissection. استئصال الدرقية الكلي مع تشريح الرقبة هو العلاج الجراحي النهائي لسرطان الدرقية الحليمي."
+      "narration": "الخيار E هو الإجابة الصحيحة. استئصال الدرقية الكلي مع تشريح الرقبة هو العلاج الجراحي النهائي لسرطان الدرقية الحليمي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استئصال الدرقية الكلي مع تشريح الرقبة هو العلاج الجراحي النهائي لسرطان الدرقية الحليمي. وتذكّر القاعدة: \"Papillary = surgery first\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. استئصال الدرقية الكلي مع تشريح الرقبة هو العلاج الجراحي النهائي لسرطان الدرقية الحليمي. وتذكّر: \"Papillary = surgery first\". والإجابة الصحيحة هي E."
     }
   ]
 }

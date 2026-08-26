@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "It is acceptable not to mention some risks that may…"
       },
-      "narration": "لنبدأ بهذا السؤال. تتضمن الموافقة المستنيرة على إجراء جراحي مناقشة كل ما يلي باستثناء؟ أمامك هذه الخيارات: The main treatment options available، أو The individual benefits and risks associated with each treatment option، أو Whether the operation is entirely necessary and the effects of possibly not having the procedure at all، أو It is acceptable not to mention some risks that may upset your patient or his family، أو It is a good idea to have such discussion in the presence of a close relative. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تتضمن الموافقة المستنيرة على إجراء جراحي مناقشة كل ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، The main treatment options available: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Disclosing treatment options, individual risks/benefits, and the consequences of يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is acceptable not to mention some risks that may upset your patient or his family. الخيار B، The individual benefits and risks associated with each treatment option: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Disclosing treatment options, individual risks/benefits, and the consequences of يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is acceptable not to mention some risks that may upset your patient or his family. الخيار C، Whether the operation is entirely necessary and the effects of possibly not having the procedure at all: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Disclosing treatment options, individual risks/benefits, and the consequences of يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is acceptable not to mention some risks that may upset your patient or his family. الخيار E، It is a good idea to have such discussion in the presence of a close relative: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Disclosing treatment options, individual risks/benefits, and the consequences of يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is acceptable not to mention some risks that may upset your patient or his family.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Informed consent: requires Full disclosure, no"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: It is acceptable not to mention some risks that may upset your patient or his family. حجب المخاطر لتجنب إزعاج المريض غير مقبول أخلاقيًا بالموافقة المستنيرة."
+      "narration": "الخيار D هو الإجابة الصحيحة. حجب المخاطر لتجنب إزعاج المريض غير مقبول أخلاقيًا بالموافقة المستنيرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حجب المخاطر لتجنب إزعاج المريض غير مقبول أخلاقيًا بالموافقة المستنيرة. وتذكّر القاعدة: Informed consent: requires Full disclosure, no withholding. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. حجب المخاطر لتجنب إزعاج المريض غير مقبول أخلاقيًا بالموافقة المستنيرة. وتذكّر: Informed consent: requires Full disclosure, no withholding. والإجابة الصحيحة هي D."
     }
   ]
 }

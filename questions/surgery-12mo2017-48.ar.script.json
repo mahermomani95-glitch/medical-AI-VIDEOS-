@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Usually, ultrasound is not sufficient for diagnosis"
       },
-      "narration": "لنبدأ بهذا السؤال. في تضيق البواب الضخامي عند الأطفال، يكون أحد الخيارات التالية خاطئًا؟ (سؤال مكرر، راجع السؤال رقم 544) أمامك هذه الخيارات: The infant usually presents with projectile non-bilious vomiting، أو The treatment is surgical by Ramstedt operation، أو Symptoms commence at age of 3-4 weeks، أو A palpable olive-shaped mass is usually felt in the epigastric region in the classical case، أو Usually, ultrasound is not sufficient for diagnosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في تضيق البواب الضخامي عند الأطفال، يكون أحد الخيارات التالية خاطئًا؟ (سؤال مكرر، راجع السؤال رقم 544) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، The infant usually presents with projectile non-bilious vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Non-bilious projectile vomiting, Ramstedt's pyloromyotomy as treatment, symptom onset around… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually, ultrasound is not sufficient for diagnosis. الخيار B، The treatment is surgical by Ramstedt operation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Non-bilious projectile vomiting, Ramstedt's pyloromyotomy as treatment, symptom onset around… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually, ultrasound is not sufficient for diagnosis. الخيار C، Symptoms commence at age of 3-4 weeks: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Non-bilious projectile vomiting, Ramstedt's pyloromyotomy as treatment, symptom onset around… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually, ultrasound is not sufficient for diagnosis. الخيار D، A palpable olive-shaped mass is usually felt in the epigastric region in the classical case: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Non-bilious projectile vomiting, Ramstedt's pyloromyotomy as treatment, symptom onset around… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually, ultrasound is not sufficient for diagnosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pyloric stenosis: Ultrasound Usually Sufficien"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Usually, ultrasound is not sufficient for diagnosis. الموجات فوق الصوتية كافية عادة لتشخيص تضيق البواب."
+      "narration": "الخيار E هو الإجابة الصحيحة. الموجات فوق الصوتية كافية عادة لتشخيص تضيق البواب."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية كافية عادة لتشخيص تضيق البواب. وتذكّر القاعدة: Pyloric stenosis: Ultrasound Usually Sufficient. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية كافية عادة لتشخيص تضيق البواب. وتذكّر: Pyloric stenosis: Ultrasound Usually Sufficient. والإجابة الصحيحة هي E."
     }
   ]
 }

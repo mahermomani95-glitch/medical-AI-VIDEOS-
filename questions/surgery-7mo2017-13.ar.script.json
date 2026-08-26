@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Mammogram"
       },
-      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 50 عامًا إلى عيادتكم، مُشيرةً إلى أنها تعاني منذشهر من كتلة ملموسة في الثدي الأيمن. عند الفحص، شعرتِ بعقدة صلبةمتحركة بحجم 1 سم عند موضع الساعة الثانية. أول اختبار تشخيصي يُمكنكِاختياره هو:؟ أمامك هذه الخيارات: Core biopsy، أو Excisional biopsy، أو Reassurance، أو Mammogram، أو Repeat examination in 6 months. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 50 عامًا إلى عيادتكم، مُشيرةً إلى أنها تعاني منذشهر من كتلة ملموسة في الثدي الأيمن. عند الفحص، شعرتِ بعقدة صلبةمتحركة بحجم 1 سم عند موضع الساعة الثانية. أول اختبار تشخيصي يُمكنكِاختياره هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Core biopsy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mammogram. يصبح صحيحًا في سؤال يصف Core biopsy is used after imaging identifies a target. الخيار B، Excisional biopsy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mammogram. يصبح صحيحًا في سؤال يصف excisional biopsy is more invasive than needed as an initial step. الخيار C، Reassurance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mammogram. يصبح صحيحًا في سؤال يصف reassurance alone is inappropriate for a new palpable mass. الخيار E، Repeat examination in 6 months: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mammogram. يصبح صحيحًا في سؤال يصف repeat exam in 6 months risks delaying diagnosis — mammography (often combined with ultrasound depending on age/density) remains the best initial test for a new palpable breast lump.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Core biopsy: الإجابة الصحيحة هي Mammogram. الخيار B، Excisional biopsy: الإجابة الصحيحة هي Mammogram. الخيار C، Reassurance: الإجابة الصحيحة هي Mammogram. الخيار E: الإجابة الصحيحة هي Mammogram. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "New palpable breast lump: Mammogram first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Mammogram. الماموغرام هو الفحص الأول الأنسب لكتلة ثديية جديدة ملموسة."
+      "narration": "الخيار D، Mammogram هو الإجابة الصحيحة. الماموغرام هو الفحص الأول الأنسب لكتلة ثديية جديدة ملموسة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الماموغرام هو الفحص الأول الأنسب لكتلة ثديية جديدة ملموسة. وتذكّر القاعدة: New palpable breast lump: Mammogram first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الماموغرام هو الفحص الأول الأنسب لكتلة ثديية جديدة ملموسة. وتذكّر: New palpable breast lump: Mammogram first. والإجابة الصحيحة هي D."
     }
   ]
 }

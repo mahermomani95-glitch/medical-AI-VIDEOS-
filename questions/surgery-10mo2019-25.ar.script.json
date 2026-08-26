@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "30 to 60 minutes before skin incision"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الخيارات التالية هو الوقت الأمثل لإجراء عملية جراحية باستخدامالمضادات الحيوية الوقائية؟ أمامك هذه الخيارات: 5 to 30 minutes before skin incision، أو 5 to 30 minutes after skin incision، أو At the time of skin incision، أو 30 to 60 minutes before skin incision، أو 30 to 60 minutes after skin incision. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الخيارات التالية هو الوقت الأمثل لإجراء عملية جراحية باستخدامالمضادات الحيوية الوقائية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 5 to 30 minutes before skin incision: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30 to 60 minutes before skin incision. يصبح صحيحًا في سؤال يصف 5-30 minutes before incision is close but the standard window is up to 60 minutes. الخيار B، 5 to 30 minutes after skin incision: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30 to 60 minutes before skin incision. يصبح صحيحًا في سؤال يصف after incision timing is too late to achieve peak tissue levels at the time of incision. الخيار C، At the time of skin incision: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا allow the drug time to reach adequate tissue concentration. يصبح صحيحًا في سؤال يصف at the exact time of incision. الخيار E، 30 to 60 minutes after skin incision: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30 to 60 minutes before skin incision. يصبح صحيحًا في سؤال يصف 30 to 60 minutes before skin incision is the optimal window for administering prophylactic antibiotics, allowing adequate tissue concentration by the time of incision.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي 30 to 60 minutes before skin incision. الخيار B: الإجابة الصحيحة هي 30 to 60 minutes before skin incision. الخيار C: لا ينطبق على هذه الحالة. الخيار E: الإجابة الصحيحة هي 30 to 60 minutes before skin incision. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Prophylactic antibiotics: 30-60 minutes BEFOR"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: 30 to 60 minutes before skin incision. المضادات الحيوية تحتاج وقتًا للوصول لمستويات نسيجية كافية قبل الشق الأول — إعطاؤها قبل 30-60 دقيقة يضمن أعلى تركيز أثناء الجراحة."
+      "narration": "الخيار D هو الإجابة الصحيحة. المضادات الحيوية تحتاج وقتًا للوصول لمستويات نسيجية كافية قبل الشق الأول — إعطاؤها قبل 30-60 دقيقة يضمن أعلى تركيز أثناء الجراحة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المضادات الحيوية تحتاج وقتًا للوصول لمستويات نسيجية كافية قبل الشق الأول — إعطاؤها قبل 30-60 دقيقة يضمن أعلى تركيز أثناء الجراحة. وتذكّر القاعدة: \"Prophylactic antibiotics: 30-60 minutes BEFORE incision\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. المضادات الحيوية تحتاج وقتًا للوصول لمستويات نسيجية كافية قبل الشق الأول — إعطاؤها قبل 30-60 دقيقة يضمن أعلى تركيز أثناء الجراحة. وتذكّر: \"Prophylactic antibiotics: 30-60 minutes BEFORE incision\". والإجابة الصحيحة هي D."
     }
   ]
 }

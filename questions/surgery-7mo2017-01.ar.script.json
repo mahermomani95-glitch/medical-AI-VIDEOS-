@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Diminished left-sided breath sounds, tracheal…"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 39 عامًا حضر إليكم في قسم الطوارئ بعد إصابة فيالصدر. أي من السيناريوهات التالية هو الأكثر تطابقًا مع استرواح الصدرالأيسر؟ أمامك هذه الخيارات: Hypotension, distended neck veins, midline trachea, and muffled heart sounds، أو Hypotension, open 4 cm 215, 4 cm lateral chest wound، أو Hypotension, diminished breath sound on the left tracheal opacification of the left hemithorax، أو Diminished left-sided breath sounds, tracheal deviation to the right and distended neck veins، أو Hypotension, adjacent three fractured in two places. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 39 عامًا حضر إليكم في قسم الطوارئ بعد إصابة فيالصدر. أي من السيناريوهات التالية هو الأكثر تطابقًا مع استرواح الصدرالأيسر؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypotension, distended neck veins, midline trachea, and muffled heart sounds: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diminished left-sided breath sounds, tracheal deviation to the right and distended neck veins. يصبح صحيحًا في سؤال يصف Muffled heart sounds with distended neck veins suggests cardiac tamponade. الخيار B، Hypotension, open 4 cm 215, 4 cm lateral chest wound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diminished left-sided breath sounds, tracheal deviation to the right and distended neck veins. يصبح صحيحًا في سؤال يصف an open chest wound suggests open pneumothorax. الخيار C، Hypotension, diminished breath sound on the left tracheal opacification of the left hemithorax: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diminished left-sided breath sounds, tracheal deviation to the right and distended neck veins. يصبح صحيحًا في سؤال يصف tracheal opacification with diminished breath sounds unilaterally suggests hemothorax. الخيار E، Hypotension, adjacent three fractured in two places: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diminished left-sided breath sounds, tracheal deviation to the right and distended neck veins. يصبح صحيحًا في سؤال يصف multiple rib fractures suggests flail chest — diminished breath sounds with tracheal deviation AWAY from the affected side and distended neck veins is the classic finding of tension pneumothorax.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Tension pneumothorax: Trachea deviates away"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Diminished left-sided breath sounds, tracheal deviation to the right and distended neck veins. خفوت الأصوات مع انحراف الرغامى بعيدًا عن الجانب المصاب يوجه لاسترواح ضاغط."
+      "narration": "الخيار D هو الإجابة الصحيحة. خفوت الأصوات مع انحراف الرغامى بعيدًا عن الجانب المصاب يوجه لاسترواح ضاغط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. خفوت الأصوات مع انحراف الرغامى بعيدًا عن الجانب المصاب يوجه لاسترواح ضاغط. وتذكّر القاعدة: Tension pneumothorax: Trachea deviates away. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. خفوت الأصوات مع انحراف الرغامى بعيدًا عن الجانب المصاب يوجه لاسترواح ضاغط. وتذكّر: Tension pneumothorax: Trachea deviates away. والإجابة الصحيحة هي D."
     }
   ]
 }

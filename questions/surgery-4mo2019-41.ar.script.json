@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Fever"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل علامات وأعراض الانغلاف كل ما يلي باستثناء أمامك هذه الخيارات: Red currant stool، أو Vomiting، أو Abdominal pain، أو Fever، أو Palpable abdominal mass. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل علامات وأعراض الانغلاف كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Red currant stool: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever. الخيار B، Vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever. الخيار C، Abdominal pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever. الخيار E، Palpable abdominal mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Currant jelly stool, vomiting, abdominal pain, and a palpable abdominal mass are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Fever.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Red currant stool: صحيحة، لكنها ليست الاستثناء. الخيار B، Vomiting: صحيحة، لكنها ليست الاستثناء. الخيار C، Abdominal pain: صحيحة، لكنها ليست الاستثناء. الخيار E، Palpable abdominal mass: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Intussusception triad: pain, vomiting, curran"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Fever. الحمى ليست علامة أساسية للانغلاف المعوي — الثلاثية الكلاسيكية هي الألم والقيء والبراز الجيلاتيني الأحمر."
+      "narration": "الخيار D، Fever هو الإجابة الصحيحة. الحمى ليست علامة أساسية للانغلاف المعوي — الثلاثية الكلاسيكية هي الألم والقيء والبراز الجيلاتيني الأحمر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحمى ليست علامة أساسية للانغلاف المعوي — الثلاثية الكلاسيكية هي الألم والقيء والبراز الجيلاتيني الأحمر. وتذكّر القاعدة: \"Intussusception triad: pain, vomiting, currant jelly — no fever\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الحمى ليست علامة أساسية للانغلاف المعوي — الثلاثية الكلاسيكية هي الألم والقيء والبراز الجيلاتيني الأحمر. وتذكّر: \"Intussusception triad: pain, vomiting, currant jelly — no fever\". والإجابة الصحيحة هي D."
     }
   ]
 }

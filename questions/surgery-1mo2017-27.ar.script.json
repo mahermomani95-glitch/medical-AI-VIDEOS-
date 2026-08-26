@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Severe head injuries"
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها تزيد من احتمالية الإصابة بالتهاب اللفافة النخري باستثناء؟ أمامك هذه الخيارات: Diabetes، أو Severe head injuries، أو Cortisone therapy، أو Advance malignancy، أو Renal failure. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها تزيد من احتمالية الإصابة بالتهاب اللفافة النخري باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Diabetes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries. الخيار C، Cortisone therapy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries. الخيار D، Advance malignancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries. الخيار E، Renal failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Diabetes, cortisone therapy (C, causing immunosuppression), advanced malignancy, and renal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Severe head injuries.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Diabetes: صحيحة، لكنها ليست الاستثناء. الخيار C، Cortisone therapy: صحيحة، لكنها ليست الاستثناء. الخيار D، Advance malignancy: صحيحة، لكنها ليست الاستثناء. الخيار E، Renal failure: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Necrotizing fasciitis: Head injuries aren't a "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Severe head injuries. إصابات الرأس الشديدة لا علاقة لها بخطر التهاب اللفافة الناخر."
+      "narration": "الخيار B، Severe head injuries هو الإجابة الصحيحة. إصابات الرأس الشديدة لا علاقة لها بخطر التهاب اللفافة الناخر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إصابات الرأس الشديدة لا علاقة لها بخطر التهاب اللفافة الناخر. وتذكّر القاعدة: Necrotizing fasciitis: Head injuries aren't a Factor. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. إصابات الرأس الشديدة لا علاقة لها بخطر التهاب اللفافة الناخر. وتذكّر: Necrotizing fasciitis: Head injuries aren't a Factor. والإجابة الصحيحة هي B."
     }
   ]
 }

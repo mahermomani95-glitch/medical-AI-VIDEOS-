@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Calcium gluconate"
       },
-      "narration": "لنبدأ بهذا السؤال. العلاج الأولي المختار للمريض الذي يعاني من فرط بوتاسيوم الدم وعدم انتظامضربات القلب هو أمامك هذه الخيارات: Insulin and glucose، أو Amiodarone، أو Calcium resonium، أو Calcium gluconate، أو Dialysis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلاج الأولي المختار للمريض الذي يعاني من فرط بوتاسيوم الدم وعدم انتظامضربات القلب هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Insulin and glucose: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا provide the immediate cardiac membrane stabilization that calcium gluconate does. يصبح صحيحًا في سؤال يصف Insulin and glucose, amiodarone, calcium resonium, and dialysis are all used at later stages of hyperkalemia management (to shift or remove potassium) but do. الخيار B، Amiodarone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا provide the immediate cardiac membrane stabilization that calcium gluconate does. يصبح صحيحًا في سؤال يصف Insulin and glucose, amiodarone, calcium resonium, and dialysis are all used at later stages of hyperkalemia management (to shift or remove potassium) but do. الخيار C، Calcium resonium: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا provide the immediate cardiac membrane stabilization that calcium gluconate does. يصبح صحيحًا في سؤال يصف Insulin and glucose, amiodarone, calcium resonium, and dialysis are all used at later stages of hyperkalemia management (to shift or remove potassium) but do. الخيار E، Dialysis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا provide the immediate cardiac membrane stabilization that calcium gluconate does. يصبح صحيحًا في سؤال يصف Insulin and glucose, amiodarone, calcium resonium, and dialysis are all used at later stages of hyperkalemia management (to shift or remove potassium) but do.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Insulin and glucose: لا ينطبق على هذه الحالة. الخيار B، Amiodarone: لا ينطبق على هذه الحالة. الخيار C، Calcium resonium: لا ينطبق على هذه الحالة. الخيار E، Dialysis: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Calcium first, Cardiac protects\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Calcium gluconate. قبل نقل البوتاسيوم لداخل الخلايا، يجب تثبيت غشاء عضلة القلب أولاً بالكالسيوم."
+      "narration": "الخيار D، Calcium gluconate هو الإجابة الصحيحة. قبل نقل البوتاسيوم لداخل الخلايا، يجب تثبيت غشاء عضلة القلب أولاً بالكالسيوم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قبل نقل البوتاسيوم لداخل الخلايا، يجب تثبيت غشاء عضلة القلب أولاً بالكالسيوم. وتذكّر القاعدة: \"Calcium first, Cardiac protects\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. قبل نقل البوتاسيوم لداخل الخلايا، يجب تثبيت غشاء عضلة القلب أولاً بالكالسيوم. وتذكّر: \"Calcium first, Cardiac protects\". والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "High-fat diet"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الحالات التالية يرتبط بزيادة خطر الإصابة بسرطان الثدي؟ أمامك هذه الخيارات: Decreased estrogen exposure، أو Early first pregnancy، أو High-fat diet، أو Young age، أو Multiparity. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الحالات التالية يرتبط بزيادة خطر الإصابة بسرطان الثدي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Decreased estrogen exposure: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا risk factors for breast cancer — a high-fat diet increasing estrogen exposure is the true risk factor being asked about. يصبح صحيحًا في سؤال يصف Decreased estrogen exposure, young age, and multiparity are actually protective or unrelated factors. الخيار B، Early first pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High-fat diet. يصبح صحيحًا في سؤال يستهدف Early first pregnancy تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Young age: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا risk factors for breast cancer — a high-fat diet increasing estrogen exposure is the true risk factor being asked about. يصبح صحيحًا في سؤال يصف Decreased estrogen exposure, young age, and multiparity are actually protective or unrelated factors. الخيار E، Multiparity: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا risk factors for breast cancer — a high-fat diet increasing estrogen exposure is the true risk factor being asked about. يصبح صحيحًا في سؤال يصف Decreased estrogen exposure, young age, and multiparity are actually protective or unrelated factors.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Decreased estrogen exposure: لا ينطبق على هذه الحالة. الخيار B، Early first pregnancy: الإجابة الصحيحة هي High-fat diet. الخيار D، Young age: لا ينطبق على هذه الحالة. الخيار E، Multiparity: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"High-fat diet = more estrogen = more risk\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: High-fat diet. النظام الغذائي الغني بالدهون يرتبط بزيادة التعرض للإستروجين مدى الحياة والسمنة — وكلاهما يرفع خطر سرطان الثدي."
+      "narration": "الخيار C، High-fat diet هو الإجابة الصحيحة. النظام الغذائي الغني بالدهون يرتبط بزيادة التعرض للإستروجين مدى الحياة والسمنة — وكلاهما يرفع خطر سرطان الثدي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النظام الغذائي الغني بالدهون يرتبط بزيادة التعرض للإستروجين مدى الحياة والسمنة — وكلاهما يرفع خطر سرطان الثدي. وتذكّر القاعدة: \"High-fat diet = more estrogen = more risk\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. النظام الغذائي الغني بالدهون يرتبط بزيادة التعرض للإستروجين مدى الحياة والسمنة — وكلاهما يرفع خطر سرطان الثدي. وتذكّر: \"High-fat diet = more estrogen = more risk\". والإجابة الصحيحة هي C."
     }
   ]
 }

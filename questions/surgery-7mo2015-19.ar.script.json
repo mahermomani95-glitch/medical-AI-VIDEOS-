@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Right Hemicolectomy"
       },
-      "narration": "لنبدأ بهذا السؤال. خضع رجل يبلغ من العمر 25 عامًا لعملية استئصال الزائدة الدودية، وتبينوجود ورم بحجم 2.5 سم في طرف الزائدة. علم الأمراض - الورم كارسينويدي،والخطوة التالية الأفضل هي؟ أمامك هذه الخيارات: Chemotherapy، أو Radiotherapy، أو Right Hemicolectomy، أو Chemo_radio therapy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. خضع رجل يبلغ من العمر 25 عامًا لعملية استئصال الزائدة الدودية، وتبينوجود ورم بحجم 2.5 سم في طرف الزائدة. علم الأمراض - الورم كارسينويدي،والخطوة التالية الأفضل هي؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for a 2.5cm appendiceal carcinoid — tumors over 2cm typically require right hemicolectomy given increased metastatic risk beyond simple appendectomy. يصبح صحيحًا في سؤال يصف Chemotherapy alone, radiotherapy alone, and chemoradiotherapy. الخيار B، Radiotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for a 2.5cm appendiceal carcinoid — tumors over 2cm typically require right hemicolectomy given increased metastatic risk beyond simple appendectomy. يصبح صحيحًا في سؤال يصف Chemotherapy alone, radiotherapy alone, and chemoradiotherapy. الخيار D، Chemo_radio therapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach for a 2.5cm appendiceal carcinoid — tumors over 2cm typically require right hemicolectomy given increased metastatic risk beyond simple appendectomy. يصبح صحيحًا في سؤال يصف Chemotherapy alone, radiotherapy alone, and chemoradiotherapy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Chemotherapy: لا ينطبق على هذه الحالة. الخيار B، Radiotherapy: لا ينطبق على هذه الحالة. الخيار D، Chemo_radio therapy: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Carcinoid >2cm: Calls for hemicolectomy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Right Hemicolectomy. ورم كارسينويدي بحجم 2.5سم يستدعي استئصالاً أوسع من الزائدة وحدها."
+      "narration": "الخيار C، Right Hemicolectomy هو الإجابة الصحيحة. ورم كارسينويدي بحجم 2.5سم يستدعي استئصالاً أوسع من الزائدة وحدها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ورم كارسينويدي بحجم 2.5سم يستدعي استئصالاً أوسع من الزائدة وحدها. وتذكّر القاعدة: Carcinoid >2cm: Calls for hemicolectomy. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ورم كارسينويدي بحجم 2.5سم يستدعي استئصالاً أوسع من الزائدة وحدها. وتذكّر: Carcinoid >2cm: Calls for hemicolectomy. والإجابة الصحيحة هي C."
     }
   ]
 }

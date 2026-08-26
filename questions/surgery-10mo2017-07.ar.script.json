@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Urinary bladder tumor"
       },
-      "narration": "لنبدأ بهذا السؤال. في طفل يبلغ من العمر 3 سنوات، يمكن أن تكون الكتلة غير المؤلمة القابلةللتصويت في الخاصرة اليمنى كل ما يلي، باستثناء؟ أمامك هذه الخيارات: Wilm's tumor، أو Neuroblastoma، أو Urinary bladder tumor، أو Hepatoblastoma، أو Mesoblastic nephroma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في طفل يبلغ من العمر 3 سنوات، يمكن أن تكون الكتلة غير المؤلمة القابلةللتصويت في الخاصرة اليمنى كل ما يلي، باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Wilm's tumor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, hepatoblastoma, and mesoblastic nephroma are all classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor. الخيار B، Neuroblastoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, hepatoblastoma, and mesoblastic nephroma are all classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor. الخيار D، Hepatoblastoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, hepatoblastoma, and mesoblastic nephroma are all classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor. الخيار E، Mesoblastic nephroma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Wilms tumor, neuroblastoma, hepatoblastoma, and mesoblastic nephroma are all classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urinary bladder tumor.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Wilm's tumor: صحيحة، لكنها ليست الاستثناء. الخيار B، Neuroblastoma: صحيحة، لكنها ليست الاستثناء. الخيار D، Hepatoblastoma: صحيحة، لكنها ليست الاستثناء. الخيار E، Mesoblastic nephroma: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Flank mass in child: doesn't fit Bladder tumor"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Urinary bladder tumor. ورم المثانة نادر جدًا بهذا العمر ولا يتوافق مع كتلة الخاصرة أصلاً."
+      "narration": "الخيار C، Urinary bladder tumor هو الإجابة الصحيحة. ورم المثانة نادر جدًا بهذا العمر ولا يتوافق مع كتلة الخاصرة أصلاً."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ورم المثانة نادر جدًا بهذا العمر ولا يتوافق مع كتلة الخاصرة أصلاً. وتذكّر القاعدة: Flank mass in child: doesn't fit Bladder tumor. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ورم المثانة نادر جدًا بهذا العمر ولا يتوافق مع كتلة الخاصرة أصلاً. وتذكّر: Flank mass in child: doesn't fit Bladder tumor. والإجابة الصحيحة هي C."
     }
   ]
 }

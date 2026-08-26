@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "On X-Ray the affected bowel is narrowed proximally…"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بمرض هيرشسبرونج باستثناء؟ أمامك هذه الخيارات: There is no ganglion cell's seen in Auerbach plexus، أو There is an increased incidence of Down syndrome، أو It is more common in boy's، أو Maybe familial، أو On X-Ray the affected bowel is narrowed proximally while the normal bowel is dilated distally. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بمرض هيرشسبرونج باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، There is no ganglion cell's seen in Auerbach plexus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Absent ganglion cells, increased Down syndrome incidence, and a possible familial pattern are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو On X-Ray the affected bowel is narrowed proximally while the normal bowel is dilated distally. الخيار B، There is an increased incidence of Down syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Absent ganglion cells, increased Down syndrome incidence, and a possible familial pattern are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو On X-Ray the affected bowel is narrowed proximally while the normal bowel is dilated distally. الخيار C، It is more common in boy's: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Absent ganglion cells, increased Down syndrome incidence, and a possible familial pattern are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو On X-Ray the affected bowel is narrowed proximally while the normal bowel is dilated distally. الخيار D، Maybe familial: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Absent ganglion cells, increased Down syndrome incidence, and a possible familial pattern are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو On X-Ray the affected bowel is narrowed proximally while the normal bowel is dilated distally.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Maybe familial: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hirschsprung X-ray: Narrow affected segment, d"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: On X-Ray the affected bowel is narrowed proximally while the normal bowel is dilated distally. الجزء المصاب اللاعقدي يبدو ضيقًا بالأشعة، والطبيعي القريب متسعًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. الجزء المصاب اللاعقدي يبدو ضيقًا بالأشعة، والطبيعي القريب متسعًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الجزء المصاب اللاعقدي يبدو ضيقًا بالأشعة، والطبيعي القريب متسعًا. وتذكّر القاعدة: Hirschsprung X-ray: Narrow affected segment, dilated proximal bowel. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الجزء المصاب اللاعقدي يبدو ضيقًا بالأشعة، والطبيعي القريب متسعًا. وتذكّر: Hirschsprung X-ray: Narrow affected segment, dilated proximal bowel. والإجابة الصحيحة هي E."
     }
   ]
 }

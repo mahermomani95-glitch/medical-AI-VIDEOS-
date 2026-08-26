@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Obstructive shock"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Hypovolemic shock، أو Neurogenic shock، أو Cardiogenic shock، أو Septic shock، أو Obstructive shock. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypovolemic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstructive shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, neurogenic shock, and septic shock don't typically raise central venous pressure, unlike cardiogenic shock where the failing heart causes blood to back up in the venous system. الخيار B، Neurogenic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstructive shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, neurogenic shock, and septic shock don't typically raise central venous pressure, unlike cardiogenic shock where the failing heart causes blood to back up in the venous system. الخيار C، Cardiogenic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstructive shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, neurogenic shock, and septic shock don't typically raise central venous pressure, unlike cardiogenic shock where the failing heart causes blood to back up in the venous system. الخيار D، Septic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obstructive shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, neurogenic shock, and septic shock don't typically raise central venous pressure, unlike cardiogenic shock where the failing heart causes blood to back up in the venous system.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hypovolemic shock: الإجابة الصحيحة هي Obstructive shock. الخيار B، Neurogenic shock: الإجابة الصحيحة هي Obstructive shock. الخيار C، Cardiogenic shock: الإجابة الصحيحة هي Obstructive shock. الخيار D، Septic shock: الإجابة الصحيحة هي Obstructive shock. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Tension pneumothorax = Obstructive shock (mec"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Obstructive shock. استرواح الصدر التوتري يضغط ويعيق ميكانيكيًا القلب والأوعية الكبيرة — هذا الانسداد الميكانيكي لتدفق الدم يُصنَّف كصدمة انسدادية."
+      "narration": "الخيار E، Obstructive shock هو الإجابة الصحيحة. استرواح الصدر التوتري يضغط ويعيق ميكانيكيًا القلب والأوعية الكبيرة — هذا الانسداد الميكانيكي لتدفق الدم يُصنَّف كصدمة انسدادية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استرواح الصدر التوتري يضغط ويعيق ميكانيكيًا القلب والأوعية الكبيرة — هذا الانسداد الميكانيكي لتدفق الدم يُصنَّف كصدمة انسدادية. وتذكّر القاعدة: \"Tension pneumothorax = Obstructive shock (mechanical compression)\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. استرواح الصدر التوتري يضغط ويعيق ميكانيكيًا القلب والأوعية الكبيرة — هذا الانسداد الميكانيكي لتدفق الدم يُصنَّف كصدمة انسدادية. وتذكّر: \"Tension pneumothorax = Obstructive shock (mechanical compression)\". والإجابة الصحيحة هي E."
     }
   ]
 }

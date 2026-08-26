@@ -45,7 +45,7 @@
         "label": "Removing foreign bodies and devitalized tissues",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أفضل الوقاية من العدوى في الجروح المتسخة يتم تحقيقها من خلال؟ أمامك هذه الخيارات: Avoiding the use of local anesthesia، أو Inserting a drain into the wound، أو Administrating a large dose of an appropriate antibiotic، أو Administrating tetanus antitoxin، أو Removing foreign bodies and devitalized tissues. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أفضل الوقاية من العدوى في الجروح المتسخة يتم تحقيقها من خلال؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Avoiding the use of local anesthesia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Removing foreign bodies and devitalized tissues. يصبح صحيحًا في سؤال يصف Avoiding local anesthesia isn't relevant to infection prevention. الخيار B، Inserting a drain into the wound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Removing foreign bodies and devitalized tissues. يصبح صحيحًا في سؤال يصف inserting a drain and giving antibiotics can help but don't address contamination at the source. الخيار C، Administrating a large dose of an appropriate antibiotic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Removing foreign bodies and devitalized tissues. يصبح صحيحًا في سؤال يصف inserting a drain and giving antibiotics can help but don't address contamination at the source. الخيار D، Administrating tetanus antitoxin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا general wound infection — thorough debridement (removing foreign material and dead tissue) remains the best overall prophylaxis for dirty wounds. يصبح صحيحًا في سؤال يصف tetanus antitoxin prevents tetanus specifically.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Removing foreign bodies and devitalized tissues. الخيار B: الإجابة الصحيحة هي Removing foreign bodies and devitalized tissues. الخيار C: الإجابة الصحيحة هي Removing foreign bodies and devitalized tissues. الخيار D، Administrating tetanus antitoxin: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Dirty wound prophylaxis: Remove debris First"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Removing foreign bodies and devitalized tissues. إزالة الأجسام الغريبة والنسيج الميت هي الوقاية الأفضل من عدوى الجروح الملوثة."
+      "narration": "الخيار E هو الإجابة الصحيحة. إزالة الأجسام الغريبة والنسيج الميت هي الوقاية الأفضل من عدوى الجروح الملوثة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إزالة الأجسام الغريبة والنسيج الميت هي الوقاية الأفضل من عدوى الجروح الملوثة. وتذكّر القاعدة: Dirty wound prophylaxis: Remove debris First. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. إزالة الأجسام الغريبة والنسيج الميت هي الوقاية الأفضل من عدوى الجروح الملوثة. وتذكّر: Dirty wound prophylaxis: Remove debris First. والإجابة الصحيحة هي E."
     }
   ]
 }

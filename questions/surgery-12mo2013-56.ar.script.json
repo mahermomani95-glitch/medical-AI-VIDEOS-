@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Pelvic stabilization is the first priority"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتقييم السريري لكسور الحوض، هناك حقيقة واحدة؟ أمامك هذه الخيارات: Rectal examination is often unnecessary، أو The patient should have a urethral catheter inserted in all cases to monitor urine output، أو Lateral compression injuries are usually more severe than antero_posterior compression injuries، أو Pelvic stabilization is the first priority، أو Type C pelvic ring fractures are rotationally unstable and vertically stable. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتقييم السريري لكسور الحوض، هناك حقيقة واحدة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Rectal examination is often unnecessary: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا unnecessary, in pelvic trauma. يصبح صحيحًا في سؤال يصف Rectal exam is actually important. الخيار B، The patient should have a urethral catheter inserted in all cases to monitor urine output: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pelvic stabilization is the first priority. يصبح صحيحًا في سؤال يصف routine catheterization isn't done in ALL cases especially with suspected urethral injury. الخيار C، Lateral compression injuries are usually more severe than antero_posterior compression injuries: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pelvic stabilization is the first priority. يصبح صحيحًا في سؤال يصف lateral compression injuries are generally LESS (not more) severe than anteroposterior compression injuries. الخيار E، Type C pelvic ring fractures are rotationally unstable and vertically stable: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vertically stable — these misstate true pelvic fracture facts, unlike the correct statement about stabilization being the first priority. يصبح صحيحًا في سؤال يصف Type C fractures are actually both rotationally AND vertically unstable.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا unnecessary, in pelvic trauma. الخيار B: الإجابة الصحيحة هي Pelvic stabilization is the first priority. الخيار C: الإجابة الصحيحة هي Pelvic stabilization is the first priority. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pelvic fracture: Stabilization Starts first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Pelvic stabilization is the first priority. تثبيت الحوض هو الأولوية الأولى الحقيقية للسيطرة على النزف."
+      "narration": "الخيار D هو الإجابة الصحيحة. تثبيت الحوض هو الأولوية الأولى الحقيقية للسيطرة على النزف."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تثبيت الحوض هو الأولوية الأولى الحقيقية للسيطرة على النزف. وتذكّر القاعدة: Pelvic fracture: Stabilization Starts first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. تثبيت الحوض هو الأولوية الأولى الحقيقية للسيطرة على النزف. وتذكّر: Pelvic fracture: Stabilization Starts first. والإجابة الصحيحة هي D."
     }
   ]
 }

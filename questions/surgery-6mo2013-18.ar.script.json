@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Papillary thyroid cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. كلها أسباب لفرط نشاط الطحال ما عدا:؟ أمامك هذه الخيارات: Liver cirrhosis، أو Portal HTN، أو Sarcoidosis، أو HCC، أو Papillary thyroid cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كلها أسباب لفرط نشاط الطحال ما عدا:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Liver cirrhosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer. الخيار B، Portal HTN: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer. الخيار C، Sarcoidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer. الخيار D، HCC: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Liver cirrhosis, portal hypertension, sarcoidosis, and HCC can all cause splenic congestion or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Papillary thyroid cancer.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Liver cirrhosis: صحيحة، لكنها ليست الاستثناء. الخيار B، Portal HTN: صحيحة، لكنها ليست الاستثناء. الخيار C، Sarcoidosis: صحيحة، لكنها ليست الاستثناء. الخيار D، HCC: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Papillary thyroid cancer: not a Player in hype"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Papillary thyroid cancer. سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال."
+      "narration": "الخيار E، Papillary thyroid cancer هو الإجابة الصحيحة. سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال. وتذكّر القاعدة: Papillary thyroid cancer: not a Player in hypersplenism. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. سرطان الدرقية الحليمي لا علاقة له إطلاقًا بفرط نشاط الطحال. وتذكّر: Papillary thyroid cancer: not a Player in hypersplenism. والإجابة الصحيحة هي E."
     }
   ]
 }

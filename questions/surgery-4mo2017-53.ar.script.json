@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Surgery to excise scalp lipoma"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يشكل خطرًا متزايدًا للإصابة بالانسداد الوريدي الخثاري؟ أمامك هذه الخيارات: Active cancer، أو Age greater than 60، أو Thrombophilia، أو Obesity BMI > 30، أو Surgery to excise scalp lipoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي لا يشكل خطرًا متزايدًا للإصابة بالانسداد الوريدي الخثاري؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Active cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Active cancer, age over 60, thrombophilia, and obesity are all genuine VTE risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery to excise scalp lipoma. الخيار B، Age greater than 60: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Active cancer, age over 60, thrombophilia, and obesity are all genuine VTE risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery to excise scalp lipoma. الخيار C، Thrombophilia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Active cancer, age over 60, thrombophilia, and obesity are all genuine VTE risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery to excise scalp lipoma. الخيار D، Obesity BMI > 30: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Active cancer, age over 60, thrombophilia, and obesity are all genuine VTE risk factors… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Surgery to excise scalp lipoma.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Active cancer: صحيحة، لكنها ليست الاستثناء. الخيار B، Age greater than 60: صحيحة، لكنها ليست الاستثناء. الخيار C، Thrombophilia: صحيحة، لكنها ليست الاستثناء. الخيار D، Obesity BMI > 30: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Minor scalp lipoma surgery: doesn't raise VTE "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Surgery to excise scalp lipoma. جراحة استئصال شحمومة بسيطة قصيرة لا ترفع خطر التخثر الوريدي."
+      "narration": "الخيار E هو الإجابة الصحيحة. جراحة استئصال شحمومة بسيطة قصيرة لا ترفع خطر التخثر الوريدي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. جراحة استئصال شحمومة بسيطة قصيرة لا ترفع خطر التخثر الوريدي. وتذكّر القاعدة: Minor scalp lipoma surgery: doesn't raise VTE risk. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. جراحة استئصال شحمومة بسيطة قصيرة لا ترفع خطر التخثر الوريدي. وتذكّر: Minor scalp lipoma surgery: doesn't raise VTE risk. والإجابة الصحيحة هي E."
     }
   ]
 }

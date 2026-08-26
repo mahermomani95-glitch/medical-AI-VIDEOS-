@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Anaplastic carcinoma _ Multiple endocrine neoplasia"
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها مطابقة تمامًا لسرطان الغدة الدرقية باستثناء أمامك هذه الخيارات: Papillary carcinoma _best prognosis، أو Follicular carcinoma_ blood spread، أو Anaplastic carcinoma _ Multiple endocrine neoplasia، أو Lymphoma _ treatment chemoradiotherapy، أو Medullary carcinoma _ secrete calcitonin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها مطابقة تمامًا لسرطان الغدة الدرقية باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Papillary carcinoma _best prognosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia. الخيار B، Follicular carcinoma_ blood spread: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia. الخيار D، Lymphoma _ treatment chemoradiotherapy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia. الخيار E، Medullary carcinoma _ secrete calcitonin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary carcinoma's excellent prognosis, follicular carcinoma's hematogenous spread… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anaplastic carcinoma _ Multiple endocrine neoplasia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Papillary carcinoma _best prognosis: صحيحة، لكنها ليست الاستثناء. الخيار B، Follicular carcinoma_ blood spread: صحيحة، لكنها ليست الاستثناء. الخيار D، Lymphoma _ treatment chemoradiotherapy: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Medullary = MEN, calcitonin\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Anaplastic carcinoma _ Multiple endocrine neoplasia. السرطان الكشمي هو النوع الأكثر عدوانية بالدرقية، أما متلازمات MEN فترتبط بالسرطان النخاعي وليس الكشمي."
+      "narration": "الخيار C هو الإجابة الصحيحة. السرطان الكشمي هو النوع الأكثر عدوانية بالدرقية، أما متلازمات MEN فترتبط بالسرطان النخاعي وليس الكشمي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطان الكشمي هو النوع الأكثر عدوانية بالدرقية، أما متلازمات MEN فترتبط بالسرطان النخاعي وليس الكشمي. وتذكّر القاعدة: \"Medullary = MEN, calcitonin\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. السرطان الكشمي هو النوع الأكثر عدوانية بالدرقية، أما متلازمات MEN فترتبط بالسرطان النخاعي وليس الكشمي. وتذكّر: \"Medullary = MEN, calcitonin\". والإجابة الصحيحة هي C."
     }
   ]
 }

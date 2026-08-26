@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "It increses with age"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد المعلومات التالية غير صحيح فيما يتعلق بإجمالي الماء في جسم الإنسانوتوزيعه أمامك هذه الخيارات: It is more in males than in females، أو It increses with age، أو It is mainly occupied in the intracellular comprtment، أو The extracellular fluid (ECF) contains about one-third of total body water.، أو Total body fluid in 70 kg male adult is 42 L,ECF is 14 L and ICF is 28 L. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد المعلومات التالية غير صحيح فيما يتعلق بإجمالي الماء في جسم الإنسانوتوزيعه أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is more in males than in females: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being higher in males than females, occupying mainly the intracellular compartment, ECF… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It increses with age. الخيار C، It is mainly occupied in the intracellular comprtment: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being higher in males than females, occupying mainly the intracellular compartment, ECF… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It increses with age. الخيار D، The extracellular fluid (ECF) contains about one-third of total body water.: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being higher in males than females, occupying mainly the intracellular compartment, ECF… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It increses with age. الخيار E، Total body fluid in 70 kg male adult is 42 L,ECF is 14 L and ICF is 28 L: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being higher in males than females, occupying mainly the intracellular compartment, ECF… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It increses with age.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Body water DECREASES with age (more fat, less"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: It increses with age. إجمالي ماء الجسم ينخفض فعليًا مع التقدم بالعمر (دهون أكثر، كتلة عضلية أقل، ماء أقل) — وليس يزداد."
+      "narration": "الخيار B، It increses with age هو الإجابة الصحيحة. إجمالي ماء الجسم ينخفض فعليًا مع التقدم بالعمر (دهون أكثر، كتلة عضلية أقل، ماء أقل) — وليس يزداد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إجمالي ماء الجسم ينخفض فعليًا مع التقدم بالعمر (دهون أكثر، كتلة عضلية أقل، ماء أقل) — وليس يزداد. وتذكّر القاعدة: \"Body water DECREASES with age (more fat, less water)\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. إجمالي ماء الجسم ينخفض فعليًا مع التقدم بالعمر (دهون أكثر، كتلة عضلية أقل، ماء أقل) — وليس يزداد. وتذكّر: \"Body water DECREASES with age (more fat, less water)\". والإجابة الصحيحة هي B."
     }
   ]
 }

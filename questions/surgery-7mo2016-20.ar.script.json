@@ -45,7 +45,7 @@
         "label": "14",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. بعد استئصال الطحال بسبب الصدمة، يكون التوقيت الأمثل لإعطاء لقاحالمكورات الرئوية هو اليوم التالي للجراحة؟ أمامك هذه الخيارات: 1، أو 4، أو 7، أو 10، أو 14. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بعد استئصال الطحال بسبب الصدمة، يكون التوقيت الأمثل لإعطاء لقاحالمكورات الرئوية هو اليوم التالي للجراحة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 1: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 14. يصبح صحيحًا في سؤال يصف 1, 4, 7, and 10 days don't match the optimal window — pneumococcal vaccination after splenectomy is typically recommended around 14 days post-splenectomy (or 2 weeks before if elective) to allow adequate immune response. الخيار B، 4: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 14. يصبح صحيحًا في سؤال يصف 1, 4, 7, and 10 days don't match the optimal window — pneumococcal vaccination after splenectomy is typically recommended around 14 days post-splenectomy (or 2 weeks before if elective) to allow adequate immune response. الخيار C، 7: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 14. يصبح صحيحًا في سؤال يصف 1, 4, 7, and 10 days don't match the optimal window — pneumococcal vaccination after splenectomy is typically recommended around 14 days post-splenectomy (or 2 weeks before if elective) to allow adequate immune response. الخيار D، 10: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 14. يصبح صحيحًا في سؤال يصف 1, 4, 7, and 10 days don't match the optimal window — pneumococcal vaccination after splenectomy is typically recommended around 14 days post-splenectomy (or 2 weeks before if elective) to allow adequate immune response.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 1: الإجابة الصحيحة هي 14. الخيار B، 4: الإجابة الصحيحة هي 14. الخيار C، 7: الإجابة الصحيحة هي 14. الخيار D، 10: الإجابة الصحيحة هي 14. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Post-splenectomy vaccine: wait Fourteen days"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: 14. الانتظار 14 يومًا بعد استئصال الطحال الرضحي يحسّن استجابة اللقاح."
+      "narration": "الخيار E، 14 هو الإجابة الصحيحة. الانتظار 14 يومًا بعد استئصال الطحال الرضحي يحسّن استجابة اللقاح."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الانتظار 14 يومًا بعد استئصال الطحال الرضحي يحسّن استجابة اللقاح. وتذكّر القاعدة: Post-splenectomy vaccine: wait Fourteen days. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الانتظار 14 يومًا بعد استئصال الطحال الرضحي يحسّن استجابة اللقاح. وتذكّر: Post-splenectomy vaccine: wait Fourteen days. والإجابة الصحيحة هي E."
     }
   ]
 }

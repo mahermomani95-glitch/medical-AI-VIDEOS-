@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Ultrasound of the abdomen"
       },
-      "narration": "لنبدأ بهذا السؤال. حضرت مريضة تبلغ من العمر 45 عامًا إلى قسم الطوارئ تشكو من ألم فيالجانب الأيمن من المراق وغثيان مع تقيؤ متكرر خلال الساعات القليلة الماضية. تتذكر تناولها كعكة جبن في وقت سابق من ذلك اليوم. أظهر الفحص ألمًا فيالجانب الأيمن من المراق، ولكنه كان رخوًا ورخويًا. كانت نتائجها المخبريةطبيعية. الفحص التالي هو الأنسب.؟ أمامك هذه الخيارات: Erect abdominal X_Ray، أو Endoscopy، أو CT abdomen، أو Ultrasound of the abdomen، أو H1 breath test for H pylori. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضرت مريضة تبلغ من العمر 45 عامًا إلى قسم الطوارئ تشكو من ألم فيالجانب الأيمن من المراق وغثيان مع تقيؤ متكرر خلال الساعات القليلة الماضية. تتذكر تناولها كعكة جبن في وقت سابق من ذلك اليوم. أظهر الفحص ألمًا فيالجانب الأيمن من المراق، ولكنه كان رخوًا ورخويًا. كانت نتائجها المخبريةطبيعية. الفحص التالي هو الأنسب.؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Erect abdominal X_Ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen. يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains the best initial investigation for suspected gallstone disease given its high sensitivity, low cost, and lack of radiation. الخيار B، Endoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen. يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains the best initial investigation for suspected gallstone disease given its high sensitivity, low cost, and lack of radiation. الخيار C، CT abdomen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen. يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains the best initial investigation for suspected gallstone disease given its high sensitivity, low cost, and lack of radiation. الخيار E، H1 breath test for H pylori: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ultrasound of the abdomen. يصبح صحيحًا في سؤال يصف Erect abdominal X-ray, endoscopy, CT abdomen, and H. pylori breath testing are less appropriate first-line tests — abdominal ultrasound remains the best initial investigation for suspected gallstone disease given its high sensitivity, low cost, and lack of radiation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Erect abdominal X_Ray: الإجابة الصحيحة هي Ultrasound of the abdomen. الخيار B، Endoscopy: الإجابة الصحيحة هي Ultrasound of the abdomen. الخيار C، CT abdomen: الإجابة الصحيحة هي Ultrasound of the abdomen. الخيار E: الإجابة الصحيحة هي Ultrasound of the abdomen. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "RUQ pain workup: Ultrasound first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Ultrasound of the abdomen. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن."
+      "narration": "الخيار D، Ultrasound of the abdomen هو الإجابة الصحيحة. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن. وتذكّر القاعدة: RUQ pain workup: Ultrasound first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية هي الفحص الأول الأنسب لألم الربع العلوي الأيمن. وتذكّر: RUQ pain workup: Ultrasound first. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Smoking"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل العوامل المرتبطة بزيادة خطر الإصابة بسرطان الغدة الدرقية كل ما يليباستثناء؟ أمامك هذه الخيارات: Family history، أو Hx of radiation، أو Smoking، أو Female، أو Low iodine diet. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل العوامل المرتبطة بزيادة خطر الإصابة بسرطان الغدة الدرقية كل ما يليباستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Family history: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار B، Hx of radiation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار D، Female: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking. الخيار E، Low iodine diet: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Family history, radiation exposure, female sex, and low iodine diet are all recognized thyroid… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Smoking.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Family history: صحيحة، لكنها ليست الاستثناء. الخيار B، Hx of radiation: صحيحة، لكنها ليست الاستثناء. الخيار D، Female: صحيحة، لكنها ليست الاستثناء. الخيار E، Low iodine diet: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Thyroid cancer: doesn't classically link to Sm"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Smoking. التدخين ليس عامل خطر كلاسيكيًا لسرطان الدرقية بخلاف سرطانات أخرى."
+      "narration": "الخيار C، Smoking هو الإجابة الصحيحة. التدخين ليس عامل خطر كلاسيكيًا لسرطان الدرقية بخلاف سرطانات أخرى."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التدخين ليس عامل خطر كلاسيكيًا لسرطان الدرقية بخلاف سرطانات أخرى. وتذكّر القاعدة: Thyroid cancer: doesn't classically link to Smoking. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التدخين ليس عامل خطر كلاسيكيًا لسرطان الدرقية بخلاف سرطانات أخرى. وتذكّر: Thyroid cancer: doesn't classically link to Smoking. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Observation",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أحضرت أم طفل يبلغ من العمر 8 أشهر لفحصه بسبب ورم وعائي على شكلفراولة بحجم 3 سم في الرقبة، وذكرت أن الآفة ظهرت بعد 3 أسابيع من الولادةوازداد حجمها، وأفضل علاج هو أمامك هذه الخيارات: Systemic steroid therapy، أو Laser، أو Surgical excision، أو Ebmolization، أو Observation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحضرت أم طفل يبلغ من العمر 8 أشهر لفحصه بسبب ورم وعائي على شكلفراولة بحجم 3 سم في الرقبة، وذكرت أن الآفة ظهرت بعد 3 أسابيع من الولادةوازداد حجمها، وأفضل علاج هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Systemic steroid therapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Observation. يصبح صحيحًا في سؤال يصف Systemic steroids, laser therapy, and embolization are all treatment options for complicated or symptomatic hemangiomas, but observation remains appropriate for an uncomplicated, growing infantile hemangioma since most involute spontaneously. الخيار B، Laser: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Observation. يصبح صحيحًا في سؤال يصف Systemic steroids, laser therapy, and embolization are all treatment options for complicated or symptomatic hemangiomas, but observation remains appropriate for an uncomplicated, growing infantile hemangioma since most involute spontaneously. الخيار C، Surgical excision: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Observation. يصبح صحيحًا في سؤال يصف surgical excision is reserved for complicated cases. الخيار D، Ebmolization: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Observation. يصبح صحيحًا في سؤال يصف Systemic steroids, laser therapy, and embolization are all treatment options for complicated or symptomatic hemangiomas, but observation remains appropriate for an uncomplicated, growing infantile hemangioma since most involute spontaneously.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Systemic steroid therapy: الإجابة الصحيحة هي Observation. الخيار B، Laser: الإجابة الصحيحة هي Observation. الخيار C، Surgical excision: الإجابة الصحيحة هي Observation. الخيار D، Ebmolization: الإجابة الصحيحة هي Observation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Infantile hemangioma = grows then involutes o"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Observation. الأورام الوعائية الدموية عند الرضّع تنمو لأشهر ثم تتراجع تلقائيًا بشكل موثوق — الإدارة الافتراضية هي المراقبة الحذرة وليس التدخل."
+      "narration": "الخيار E، Observation هو الإجابة الصحيحة. الأورام الوعائية الدموية عند الرضّع تنمو لأشهر ثم تتراجع تلقائيًا بشكل موثوق — الإدارة الافتراضية هي المراقبة الحذرة وليس التدخل."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأورام الوعائية الدموية عند الرضّع تنمو لأشهر ثم تتراجع تلقائيًا بشكل موثوق — الإدارة الافتراضية هي المراقبة الحذرة وليس التدخل. وتذكّر القاعدة: \"Infantile hemangioma = grows then involutes on its own\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الأورام الوعائية الدموية عند الرضّع تنمو لأشهر ثم تتراجع تلقائيًا بشكل موثوق — الإدارة الافتراضية هي المراقبة الحذرة وليس التدخل. وتذكّر: \"Infantile hemangioma = grows then involutes on its own\". والإجابة الصحيحة هي E."
     }
   ]
 }

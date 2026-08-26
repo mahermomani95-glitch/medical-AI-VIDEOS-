@@ -41,7 +41,7 @@
         "label": "Na 130, Cl 109, K 4, Ca 2.7, HCO3 28",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تكوين لاكتات رينجر هو أمامك هذه الخيارات: Na 145, Cl 109, K 4, Ca 2.7, HCO3 28، أو Na 130, Cl 103, K 4, Ca 2.7, HCO3 28، أو Na 154, Cl 109, K 4, Ca 4, HCO3 28، أو Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تكوين لاكتات رينجر هو أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Na 145, Cl 109, K 4, Ca 2.7, HCO3 28: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. يصبح صحيحًا في سؤال يصف Sodium 145, sodium 130 with chloride 103, and sodium 154 with calcium 4 all misstate one or more of the actual values in Ringer's lactate (Na 130, Cl 109, K 4, Ca 2.7, HCO3 28). الخيار B، Na 130, Cl 103, K 4, Ca 2.7, HCO3 28: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. يصبح صحيحًا في سؤال يصف Sodium 145, sodium 130 with chloride 103, and sodium 154 with calcium 4 all misstate one or more of the actual values in Ringer's lactate (Na 130, Cl 109, K 4, Ca 2.7, HCO3 28). الخيار C، Na 154, Cl 109, K 4, Ca 4, HCO3 28: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. يصبح صحيحًا في سؤال يصف Sodium 145, sodium 130 with chloride 103, and sodium 154 with calcium 4 all misstate one or more of the actual values in Ringer's lactate (Na 130, Cl 109, K 4, Ca 2.7, HCO3 28).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. الخيار B: الإجابة الصحيحة هي Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. الخيار C: الإجابة الصحيحة هي Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -122,13 +122,13 @@
       "pills": [
         "\"Ringer's = 130 Sodium, borrowed bicarbonate\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Na 130, Cl 109, K 4, Ca 2.7, HCO3 28. محلول لاكتات رينجر يحاكي بلازما الدم إلى حد كبير — صوديوم منخفض قليلًا نسبيًا مع دارئ لاكتات بدل البيكربونات المباشرة."
+      "narration": "الخيار D هو الإجابة الصحيحة. محلول لاكتات رينجر يحاكي بلازما الدم إلى حد كبير — صوديوم منخفض قليلًا نسبيًا مع دارئ لاكتات بدل البيكربونات المباشرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. محلول لاكتات رينجر يحاكي بلازما الدم إلى حد كبير — صوديوم منخفض قليلًا نسبيًا مع دارئ لاكتات بدل البيكربونات المباشرة. وتذكّر القاعدة: \"Ringer's = 130 Sodium, borrowed bicarbonate\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. محلول لاكتات رينجر يحاكي بلازما الدم إلى حد كبير — صوديوم منخفض قليلًا نسبيًا مع دارئ لاكتات بدل البيكربونات المباشرة. وتذكّر: \"Ringer's = 130 Sodium, borrowed bicarbonate\". والإجابة الصحيحة هي D."
     }
   ]
 }

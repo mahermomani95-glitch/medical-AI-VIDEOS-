@@ -45,7 +45,7 @@
           "Fibroblasts"
         ]
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها عبارات صحيحة ما عدا؟ أمامك هذه الخيارات: The most predominant cell at day 3-4 after a wound is macrophages، أو The most predominant cell in the first 24 hours of the wound is PMN، أو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts، أو The most predominant cell type in a 7 day old wound is fibroblasts. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها عبارات صحيحة ما عدا؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -83,7 +83,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، The most predominant cell at day 3-4 after a wound is macrophages: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts. الخيار B، The most predominant cell in the first 24 hours of the wound is PMN: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts. الخيار D، The most predominant cell type in a 7 day old wound is fibroblasts: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Macrophages predominating at day 3-4, PMNs predominating in the first 24 hours, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -138,13 +138,13 @@
       "pills": [
         "Wound healing order: Platelets Precede macroph"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: The order of cell arrival in wound is macrophages, platelets, PMNS, fibroblasts. الصفيحات تصل أولاً للجرح، لا البلاعم كما بالعبارة الخاطئة المعكوسة."
+      "narration": "الخيار C هو الإجابة الصحيحة. الصفيحات تصل أولاً للجرح، لا البلاعم كما بالعبارة الخاطئة المعكوسة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصفيحات تصل أولاً للجرح، لا البلاعم كما بالعبارة الخاطئة المعكوسة. وتذكّر القاعدة: Wound healing order: Platelets Precede macrophages. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الصفيحات تصل أولاً للجرح، لا البلاعم كما بالعبارة الخاطئة المعكوسة. وتذكّر: Wound healing order: Platelets Precede macrophages. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Necrotizing fasciitis",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض ذكر مسن يبلغ 75 عامًا مصاب بالسكري يراجع الطوارئ بألم شديد في جدار البطن لا يتناسب مع نتائج الفحص السريري، مصحوب بتصلب ونقطة تصريف صغيرة مع انتفاخ هوائي تحت الجلد. التشخيص هو: أمامك هذه الخيارات: Erysipelas، أو Necrotizing fasciitis، أو Lymphangitis، أو Abdominal wall abscess، أو Enterocutaneous fistula. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض ذكر مسن يبلغ 75 عامًا مصاب بالسكري يراجع الطوارئ بألم شديد في جدار البطن لا يتناسب مع نتائج الفحص السريري، مصحوب بتصلب ونقطة تصريف صغيرة مع انتفاخ هوائي تحت الجلد. التشخيص هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Erysipelas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Necrotizing fasciitis. يصبح صحيحًا في سؤال يصف Erysipelas is a more superficial skin infection. الخيار C، Lymphangitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Necrotizing fasciitis. يصبح صحيحًا في سؤال يصف lymphangitis presents with red streaking, a different pattern. الخيار D، Abdominal wall abscess: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا active tract drainage. يصبح صحيحًا في سؤال يصف abdominal wall abscess would show a contained collection. الخيار E، Enterocutaneous fistula: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا simple abscess signs. يصبح صحيحًا في سؤال يصف enterocutaneous fistula is close but confirmed specifically by active enteric content drainage.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Erysipelas: الإجابة الصحيحة هي Necrotizing fasciitis. الخيار C، Lymphangitis: الإجابة الصحيحة هي Necrotizing fasciitis. الخيار D، Abdominal wall abscess: المطلوب هنا active tract drainage. الخيار E، Enterocutaneous fistula: المطلوب هنا simple abscess signs. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Subcutaneous emphysema = gas-forming bacteria"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Necrotizing fasciitis. الانتفاخ تحت الجلد (غاز بالنسيج من جراثيم مولّدة للغاز) مع ألم لا يتناسب مع الفحص وعلامات جهازية يؤكد تشخيص التهاب اللفافة الناخر."
+      "narration": "الخيار B، Necrotizing fasciitis هو الإجابة الصحيحة. الانتفاخ تحت الجلد (غاز بالنسيج من جراثيم مولّدة للغاز) مع ألم لا يتناسب مع الفحص وعلامات جهازية يؤكد تشخيص التهاب اللفافة الناخر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الانتفاخ تحت الجلد (غاز بالنسيج من جراثيم مولّدة للغاز) مع ألم لا يتناسب مع الفحص وعلامات جهازية يؤكد تشخيص التهاب اللفافة الناخر. وتذكّر القاعدة: \"Subcutaneous emphysema = gas-forming bacteria = Necrotizing fasciitis\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الانتفاخ تحت الجلد (غاز بالنسيج من جراثيم مولّدة للغاز) مع ألم لا يتناسب مع الفحص وعلامات جهازية يؤكد تشخيص التهاب اللفافة الناخر. وتذكّر: \"Subcutaneous emphysema = gas-forming bacteria = Necrotizing fasciitis\". والإجابة الصحيحة هي B."
     }
   ]
 }

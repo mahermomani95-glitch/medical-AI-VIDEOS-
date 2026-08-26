@@ -45,7 +45,7 @@
         "label": "Prevent disease Onest",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الهدف من الوقاية الأولية هو أمامك هذه الخيارات: Early detection of disease، أو Minimize the complication of disease، أو Prevent disease Onest، أو Rehabilitation of disease، أو Prevent progression of disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الهدف من الوقاية الأولية هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Early detection of disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prevent disease Onest. يصبح صحيحًا في سؤال يستهدف Early detection of disease تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، Minimize the complication of disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا primary prevention, which aims to prevent the disease from occurring at all. يصبح صحيحًا في سؤال يصف Minimizing complications of disease is actually a goal of secondary or tertiary prevention (managing existing disease). الخيار D، Rehabilitation of disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prevent disease Onest. يصبح صحيحًا في سؤال يستهدف Rehabilitation of disease تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Prevent progression of disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Prevent disease Onest. يصبح صحيحًا في سؤال يصف Preventing disease from occurring at all is the goal of primary prevention, including vaccinations and modifying risk factors before any disease appears.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Early detection of disease: الإجابة الصحيحة هي Prevent disease Onest. الخيار B: لا ينطبق على هذه الحالة. الخيار D، Rehabilitation of disease: الإجابة الصحيحة هي Prevent disease Onest. الخيار E، Prevent progression of disease: الإجابة الصحيحة هي Prevent disease Onest. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Primary = Prevent from the start\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Prevent disease Onest. الوقاية الأولية تمنع ظهور المرض من الأساس قبل حدوثه، كاللقاحات، وليست علاجًا بعد التشخيص."
+      "narration": "الخيار C، Prevent disease Onest هو الإجابة الصحيحة. الوقاية الأولية تمنع ظهور المرض من الأساس قبل حدوثه، كاللقاحات، وليست علاجًا بعد التشخيص."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الوقاية الأولية تمنع ظهور المرض من الأساس قبل حدوثه، كاللقاحات، وليست علاجًا بعد التشخيص. وتذكّر القاعدة: \"Primary = Prevent from the start\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الوقاية الأولية تمنع ظهور المرض من الأساس قبل حدوثه، كاللقاحات، وليست علاجًا بعد التشخيص. وتذكّر: \"Primary = Prevent from the start\". والإجابة الصحيحة هي C."
     }
   ]
 }

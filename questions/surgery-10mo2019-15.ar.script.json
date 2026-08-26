@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Mucosal colonic Pseudopolyps and ulcers"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من السمات المرضية التالية لا توجد عادة في مرض كرون؟ أمامك هذه الخيارات: Internal fistula، أو Serpiginous and aphthous oral ulcers، أو Chronic inflammation involves all layers of the bowel wall، أو Mucosal colonic Pseudopolyps and ulcers، أو Cobblestone mucosa. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من السمات المرضية التالية لا توجد عادة في مرض كرون؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Internal fistula: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers. الخيار B، Serpiginous and aphthous oral ulcers: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers. الخيار C، Chronic inflammation involves all layers of the bowel wall: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers. الخيار E، Cobblestone mucosa: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Internal fistulas, serpiginous/aphthous oral ulcers, transmural (full-thickness) inflammation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mucosal colonic Pseudopolyps and ulcers.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Internal fistula: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E، Cobblestone mucosa: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pseudopolyps = UC's healing islands, not Croh"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Mucosal colonic Pseudopolyps and ulcers. اللحميات الكاذبة سمة من سمات جزر المخاطية المتشافية في التهاب القولون التقرحي، وليست من سمات الالتهاب المتقطع كامل السماكة في كرون."
+      "narration": "الخيار D هو الإجابة الصحيحة. اللحميات الكاذبة سمة من سمات جزر المخاطية المتشافية في التهاب القولون التقرحي، وليست من سمات الالتهاب المتقطع كامل السماكة في كرون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اللحميات الكاذبة سمة من سمات جزر المخاطية المتشافية في التهاب القولون التقرحي، وليست من سمات الالتهاب المتقطع كامل السماكة في كرون. وتذكّر القاعدة: \"Pseudopolyps = UC's healing islands, not Crohn's\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. اللحميات الكاذبة سمة من سمات جزر المخاطية المتشافية في التهاب القولون التقرحي، وليست من سمات الالتهاب المتقطع كامل السماكة في كرون. وتذكّر: \"Pseudopolyps = UC's healing islands, not Crohn's\". والإجابة الصحيحة هي D."
     }
   ]
 }

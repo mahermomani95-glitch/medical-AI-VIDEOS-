@@ -45,7 +45,7 @@
         "label": "health education",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي يعد من عناصر تعزيز الصحة؟ أمامك هذه الخيارات: early diagnosis، أو proper treatment، أو health education، أو disability limitation، أو rehabilitation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي يعد من عناصر تعزيز الصحة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، early diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي health education. يصبح صحيحًا في سؤال يصف Early diagnosis, proper treatment, disability limitation, and rehabilitation are all elements of secondary/tertiary prevention, unlike health education, which is a core element of health promotion (primary prevention) specifically. الخيار B، proper treatment: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي health education. يصبح صحيحًا في سؤال يصف Early diagnosis, proper treatment, disability limitation, and rehabilitation are all elements of secondary/tertiary prevention, unlike health education, which is a core element of health promotion (primary prevention) specifically. الخيار D، disability limitation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي health education. يصبح صحيحًا في سؤال يصف Early diagnosis, proper treatment, disability limitation, and rehabilitation are all elements of secondary/tertiary prevention, unlike health education, which is a core element of health promotion (primary prevention) specifically. الخيار E، rehabilitation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي health education. يصبح صحيحًا في سؤال يصف Early diagnosis, proper treatment, disability limitation, and rehabilitation are all elements of secondary/tertiary prevention, unlike health education, which is a core element of health promotion (primary prevention) specifically.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، early diagnosis: الإجابة الصحيحة هي health education. الخيار B، proper treatment: الإجابة الصحيحة هي health education. الخيار D، disability limitation: الإجابة الصحيحة هي health education. الخيار E، rehabilitation: الإجابة الصحيحة هي health education. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Health promotion: built on Education"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: health education. التثقيف الصحي عنصر أساسي حقيقي من عناصر تعزيز الصحة."
+      "narration": "الخيار C، health education هو الإجابة الصحيحة. التثقيف الصحي عنصر أساسي حقيقي من عناصر تعزيز الصحة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التثقيف الصحي عنصر أساسي حقيقي من عناصر تعزيز الصحة. وتذكّر القاعدة: Health promotion: built on Education. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التثقيف الصحي عنصر أساسي حقيقي من عناصر تعزيز الصحة. وتذكّر: Health promotion: built on Education. والإجابة الصحيحة هي C."
     }
   ]
 }

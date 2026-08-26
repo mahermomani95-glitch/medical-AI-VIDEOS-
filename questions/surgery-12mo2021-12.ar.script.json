@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Epidural hematomas generally have a worse prognosis…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح فيما يخص إصابات الرأس ما عدا: أمامك هذه الخيارات: Epidural hematomas are associated with a lucid interval، أو Subdural hematomas are due to lacerations of bridging veins، أو Epidural hematomas are usually associated with a skull fracture، أو Some small subdural hematomas can be managed nonoperatively، أو Epidural hematomas generally have a worse prognosis than subdural hematomas. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح فيما يخص إصابات الرأس ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Epidural hematomas are associated with a lucid interval: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lucid interval in epidurals, bridging vein laceration in subdurals, skull fracture… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epidural hematomas generally have a worse prognosis than subdural hematomas. الخيار B، Subdural hematomas are due to lacerations of bridging veins: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lucid interval in epidurals, bridging vein laceration in subdurals, skull fracture… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epidural hematomas generally have a worse prognosis than subdural hematomas. الخيار C، Epidural hematomas are usually associated with a skull fracture: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lucid interval in epidurals, bridging vein laceration in subdurals, skull fracture… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epidural hematomas generally have a worse prognosis than subdural hematomas. الخيار D، Some small subdural hematomas can be managed nonoperatively: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lucid interval in epidurals, bridging vein laceration in subdurals, skull fracture… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Epidural hematomas generally have a worse prognosis than subdural hematomas.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Epidural hematoma = generally BETTER prognosi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Epidural hematomas generally have a worse prognosis than subdural hematomas. النزف فوق الجافية له إنذار أفضل عمومًا من تحت الجافية — الأذية الدماغية الكامنة أقل شدة عادة في فوق الجافية، الناتج عن نزف شرياني موضعي وليس رضحًا دماغيًا منتشرًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. النزف فوق الجافية له إنذار أفضل عمومًا من تحت الجافية — الأذية الدماغية الكامنة أقل شدة عادة في فوق الجافية، الناتج عن نزف شرياني موضعي وليس رضحًا دماغيًا منتشرًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النزف فوق الجافية له إنذار أفضل عمومًا من تحت الجافية — الأذية الدماغية الكامنة أقل شدة عادة في فوق الجافية، الناتج عن نزف شرياني موضعي وليس رضحًا دماغيًا منتشرًا. وتذكّر القاعدة: \"Epidural hematoma = generally BETTER prognosis than subdural\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. النزف فوق الجافية له إنذار أفضل عمومًا من تحت الجافية — الأذية الدماغية الكامنة أقل شدة عادة في فوق الجافية، الناتج عن نزف شرياني موضعي وليس رضحًا دماغيًا منتشرًا. وتذكّر: \"Epidural hematoma = generally BETTER prognosis than subdural\". والإجابة الصحيحة هي E."
     }
   ]
 }

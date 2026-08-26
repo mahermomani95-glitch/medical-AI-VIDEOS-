@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anemia"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 40 عامًا يعاني من التهاب القولون التقرحي، ويعاني الآنمن تفاقم أعراض الجهاز الهضمي. يمكنك تقييم شدته بناءً على مؤشر شدةترولوف وويتس.؟ أمامك هذه الخيارات: Erythema nodosum، أو Anemia، أو Dose of Salazopyrin، أو Ankylosing spondylitis، أو Dysplasia on colonoscopy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 40 عامًا يعاني من التهاب القولون التقرحي، ويعاني الآنمن تفاقم أعراض الجهاز الهضمي. يمكنك تقييم شدته بناءً على مؤشر شدةترولوف وويتس.؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Erythema nodosum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anemia. يصبح صحيحًا في سؤال يصف Erythema nodosum, salazopyrine dosing, ankylosing spondylitis, and colonoscopic dysplasia are all relevant UC-related findings, but anemia is the classic associated LAB finding directly reflecting ongoing GI blood loss during an exacerbation. الخيار C، Dose of Salazopyrin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anemia. يصبح صحيحًا في سؤال يصف Erythema nodosum, salazopyrine dosing, ankylosing spondylitis, and colonoscopic dysplasia are all relevant UC-related findings, but anemia is the classic associated LAB finding directly reflecting ongoing GI blood loss during an exacerbation. الخيار D، Ankylosing spondylitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anemia. يصبح صحيحًا في سؤال يصف Erythema nodosum, salazopyrine dosing, ankylosing spondylitis, and colonoscopic dysplasia are all relevant UC-related findings, but anemia is the classic associated LAB finding directly reflecting ongoing GI blood loss during an exacerbation. الخيار E، Dysplasia on colonoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anemia. يصبح صحيحًا في سؤال يصف Erythema nodosum, salazopyrine dosing, ankylosing spondylitis, and colonoscopic dysplasia are all relevant UC-related findings, but anemia is the classic associated LAB finding directly reflecting ongoing GI blood loss during an exacerbation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Erythema nodosum: الإجابة الصحيحة هي Anemia. الخيار C، Dose of Salazopyrin: الإجابة الصحيحة هي Anemia. الخيار D، Ankylosing spondylitis: الإجابة الصحيحة هي Anemia. الخيار E، Dysplasia on colonoscopy: الإجابة الصحيحة هي Anemia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "UC exacerbation: often brings Anemia"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Anemia. نوبة تفاقم التهاب القولون التقرحي غالبًا ترافقها فقر دم من النزف المزمن."
+      "narration": "الخيار B، Anemia هو الإجابة الصحيحة. نوبة تفاقم التهاب القولون التقرحي غالبًا ترافقها فقر دم من النزف المزمن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نوبة تفاقم التهاب القولون التقرحي غالبًا ترافقها فقر دم من النزف المزمن. وتذكّر القاعدة: UC exacerbation: often brings Anemia. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. نوبة تفاقم التهاب القولون التقرحي غالبًا ترافقها فقر دم من النزف المزمن. وتذكّر: UC exacerbation: often brings Anemia. والإجابة الصحيحة هي B."
     }
   ]
 }

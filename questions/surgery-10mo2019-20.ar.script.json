@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anaphylactic shock"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض قبرصي يبلغ من العمر 50 عامًا، يعاني من كتلة مؤلمة في الربع العلويالأيمن من البطن. الألم عبارة عن ألم مستمر خفيف، وله سمات كتلة تنشأ منالفص الأيمن من الكبد. يُظهر تعداد الدم ارتفاعًا في عدد الخلايا الحمضية. يُظهر التصوير المقطعي المحوسب آفة ملساء تشغل حيزًا مع وجود حواجزمتعددة داخلها. خضع المريض لجراحة بالمنظار لإزالة كتلة الكبد، وخلالالتلاعب بها، أصيب بانخفاض مفاجئ في ضغط الدم، وتوقف المريض عنالحركة. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Hypovolemic shock، أو Septic shock، أو Anaphylactic shock، أو Cardiogenic shock، أو Obstructive shock. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض قبرصي يبلغ من العمر 50 عامًا، يعاني من كتلة مؤلمة في الربع العلويالأيمن من البطن. الألم عبارة عن ألم مستمر خفيف، وله سمات كتلة تنشأ منالفص الأيمن من الكبد. يُظهر تعداد الدم ارتفاعًا في عدد الخلايا الحمضية. يُظهر التصوير المقطعي المحوسب آفة ملساء تشغل حيزًا مع وجود حواجزمتعددة داخلها. خضع المريض لجراحة بالمنظار لإزالة كتلة الكبد، وخلالالتلاعب بها، أصيب بانخفاض مفاجئ في ضغط الدم، وتوقف المريض عنالحركة. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypovolemic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylactic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and obstructive shock don't match the classic anaphylactic presentation — sudden hypotension with skin redness at the infusion site right after starting new IV medications. الخيار B، Septic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylactic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and obstructive shock don't match the classic anaphylactic presentation — sudden hypotension with skin redness at the infusion site right after starting new IV medications. الخيار D، Cardiogenic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylactic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and obstructive shock don't match the classic anaphylactic presentation — sudden hypotension with skin redness at the infusion site right after starting new IV medications. الخيار E، Obstructive shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anaphylactic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, cardiogenic shock, and obstructive shock don't match the classic anaphylactic presentation — sudden hypotension with skin redness at the infusion site right after starting new IV medications.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hypovolemic shock: الإجابة الصحيحة هي Anaphylactic shock. الخيار B، Septic shock: الإجابة الصحيحة هي Anaphylactic shock. الخيار D، Cardiogenic shock: الإجابة الصحيحة هي Anaphylactic shock. الخيار E، Obstructive shock: الإجابة الصحيحة هي Anaphylactic shock. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hydatid cyst manipulation = Anaphylaxis risk\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Anaphylactic shock. التلاعب بكيس عداري قد يمزقه ويسرّب سوائل الكيس المستضدية للدم — مسببًا تفاعلًا تأقيًا شديدًا."
+      "narration": "الخيار C، Anaphylactic shock هو الإجابة الصحيحة. التلاعب بكيس عداري قد يمزقه ويسرّب سوائل الكيس المستضدية للدم — مسببًا تفاعلًا تأقيًا شديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التلاعب بكيس عداري قد يمزقه ويسرّب سوائل الكيس المستضدية للدم — مسببًا تفاعلًا تأقيًا شديدًا. وتذكّر القاعدة: \"Hydatid cyst manipulation = Anaphylaxis risk\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التلاعب بكيس عداري قد يمزقه ويسرّب سوائل الكيس المستضدية للدم — مسببًا تفاعلًا تأقيًا شديدًا. وتذكّر: \"Hydatid cyst manipulation = Anaphylaxis risk\". والإجابة الصحيحة هي C."
     }
   ]
 }

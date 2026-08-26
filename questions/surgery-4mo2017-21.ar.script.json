@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Axillary nerve"
       },
-      "narration": "لنبدأ بهذا السؤال. سقطت امرأة تبلغ من العمر 66 عامًا بعد كسر عنق عظم العضد الجراحي. بعد ستة أشهر، أصبحت غير قادرة على رفع ذراعيها فوق يدها. على الأرجح،كانت إصابة في العصب.؟ أمامك هذه الخيارات: Median nerve، أو Radial nerve، أو Ulnar nerve، أو Axillary nerve، أو Musclo_cutaneous nerve. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. سقطت امرأة تبلغ من العمر 66 عامًا بعد كسر عنق عظم العضد الجراحي. بعد ستة أشهر، أصبحت غير قادرة على رفع ذراعيها فوق يدها. على الأرجح،كانت إصابة في العصب.؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Median nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Axillary nerve. يصبح صحيحًا في سؤال يصف Median nerve, radial nerve (B, more classically injured with midshaft humeral fractures), ulnar nerve, and musculocutaneous nerve are less associated with surgical neck fractures specifically — the axillary nerve, wrapping around the surgical neck of the humerus, is classically at risk here. الخيار B، Radial nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Axillary nerve. يصبح صحيحًا في سؤال يصف Median nerve, radial nerve (B, more classically injured with midshaft humeral fractures), ulnar nerve, and musculocutaneous nerve are less associated with surgical neck fractures specifically — the axillary nerve, wrapping around the surgical neck of the humerus, is classically at risk here. الخيار C، Ulnar nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Axillary nerve. يصبح صحيحًا في سؤال يصف Median nerve, radial nerve (B, more classically injured with midshaft humeral fractures), ulnar nerve, and musculocutaneous nerve are less associated with surgical neck fractures specifically — the axillary nerve, wrapping around the surgical neck of the humerus, is classically at risk here. الخيار E، Musclo_cutaneous nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Axillary nerve. يصبح صحيحًا في سؤال يصف Median nerve, radial nerve (B, more classically injured with midshaft humeral fractures), ulnar nerve, and musculocutaneous nerve are less associated with surgical neck fractures specifically — the axillary nerve, wrapping around the surgical neck of the humerus, is classically at risk here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Median nerve: الإجابة الصحيحة هي Axillary nerve. الخيار B، Radial nerve: الإجابة الصحيحة هي Axillary nerve. الخيار C، Ulnar nerve: الإجابة الصحيحة هي Axillary nerve. الخيار E، Musclo_cutaneous nerve: الإجابة الصحيحة هي Axillary nerve. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Surgical neck fracture: injures the Axillary n"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Axillary nerve. كسر عنق العضد الجراحي يصيب العصب الإبطي المحيط بهذا الموقع."
+      "narration": "الخيار D، Axillary nerve هو الإجابة الصحيحة. كسر عنق العضد الجراحي يصيب العصب الإبطي المحيط بهذا الموقع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كسر عنق العضد الجراحي يصيب العصب الإبطي المحيط بهذا الموقع. وتذكّر القاعدة: Surgical neck fracture: injures the Axillary nerve. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. كسر عنق العضد الجراحي يصيب العصب الإبطي المحيط بهذا الموقع. وتذكّر: Surgical neck fracture: injures the Axillary nerve. والإجابة الصحيحة هي D."
     }
   ]
 }

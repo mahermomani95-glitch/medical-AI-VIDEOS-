@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Spontaneous"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Spontaneous، أو Typhoid ulcer، أو Crohn's disease، أو Lymphoma، أو Foreign body. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Typhoid ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Spontaneous. يصبح صحيحًا في سؤال يصف Typhoid ulcer, Crohn's disease, lymphoma, and foreign body are all recognized causes of small bowel perforation, but spontaneous perforation without any identifiable cause remains the least common overall. الخيار C، Crohn's disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Spontaneous. يصبح صحيحًا في سؤال يصف Typhoid ulcer, Crohn's disease, lymphoma, and foreign body are all recognized causes of small bowel perforation, but spontaneous perforation without any identifiable cause remains the least common overall. الخيار D، Lymphoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Spontaneous. يصبح صحيحًا في سؤال يصف Typhoid ulcer, Crohn's disease, lymphoma, and foreign body are all recognized causes of small bowel perforation, but spontaneous perforation without any identifiable cause remains the least common overall. الخيار E، Foreign body: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Spontaneous. يصبح صحيحًا في سؤال يصف Typhoid ulcer, Crohn's disease, lymphoma, and foreign body are all recognized causes of small bowel perforation, but spontaneous perforation without any identifiable cause remains the least common overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Typhoid ulcer: الإجابة الصحيحة هي Spontaneous. الخيار C، Crohn's disease: الإجابة الصحيحة هي Spontaneous. الخيار D، Lymphoma: الإجابة الصحيحة هي Spontaneous. الخيار E، Foreign body: الإجابة الصحيحة هي Spontaneous. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Spontaneous perforation without a cause = rar"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Spontaneous. الانثقاب التلقائي دون سبب أو آفة كامنة واضحة نادر — معظم انثقابات الأمعاء الدقيقة لها سبب مرضي محدد وواضح."
+      "narration": "الخيار A، Spontaneous هو الإجابة الصحيحة. الانثقاب التلقائي دون سبب أو آفة كامنة واضحة نادر — معظم انثقابات الأمعاء الدقيقة لها سبب مرضي محدد وواضح."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الانثقاب التلقائي دون سبب أو آفة كامنة واضحة نادر — معظم انثقابات الأمعاء الدقيقة لها سبب مرضي محدد وواضح. وتذكّر القاعدة: \"Spontaneous perforation without a cause = rare\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الانثقاب التلقائي دون سبب أو آفة كامنة واضحة نادر — معظم انثقابات الأمعاء الدقيقة لها سبب مرضي محدد وواضح. وتذكّر: \"Spontaneous perforation without a cause = rare\". والإجابة الصحيحة هي A."
     }
   ]
 }

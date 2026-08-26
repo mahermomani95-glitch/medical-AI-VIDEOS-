@@ -41,7 +41,7 @@
         "region": "head",
         "label": "Peripheral calcification"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Ultrasound shows hypochoic thyroid lesions، أو Peripheral calcification، أو Irregular margins، أو Medullary carcinoma is associated with MEN2. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ultrasound shows hypochoic thyroid lesions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification. الخيار C، Irregular margins: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification. الخيار D، Medullary carcinoma is associated with MEN2: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypoechoic lesions, irregular margins, and medullary carcinoma's association with MEN2 are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peripheral calcification.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C، Irregular margins: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Peripheral calcification = reassuring, Microc"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Peripheral calcification. التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية."
+      "narration": "الخيار B، Peripheral calcification هو الإجابة الصحيحة. التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية. وتذكّر القاعدة: \"Peripheral calcification = reassuring, Microcalcifications = suspicious\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. التكلس المحيطي (قشرة البيضة) نمط طمأنة حميد — العقيدة الخبيثة تُظهر عادة تكلسات دقيقة منتشرة بداخلها، وليس حلقة محيطية. وتذكّر: \"Peripheral calcification = reassuring, Microcalcifications = suspicious\". والإجابة الصحيحة هي B."
     }
   ]
 }

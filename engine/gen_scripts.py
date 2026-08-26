@@ -400,6 +400,56 @@ def build_illustration(q, label_en):
 
 # ------------------------------------------------------------- narration
 
+def speakable_en(text, max_words=4):
+    """Return an English fragment only if it is short enough to be a TERM.
+
+    The project's rule is Arabic narration with English used for medical
+    terminology -- not for whole English sentences. The source's own
+    explanations are English prose, and reading them aloud handed the English
+    voice 42% of the narration and made every video far longer than it needed
+    to be. Anything longer than a term stays on screen, where reading it is
+    useful, and is left out of the spoken track.
+    """
+    t = clean(text)
+    return t if t and len(t.split()) <= max_words else ""
+
+
+def english_word_count(text):
+    """How many English words a mixed Arabic/English string would hand to the
+    English voice."""
+    return len(re.findall(r"[A-Za-z][A-Za-z\-']*", text or ""))
+
+
+# Boilerplate that reads fine once on a card but grates when the narrator
+# repeats it for every wrong choice in a row.
+SPOKEN_TRIM = [
+    ("لا يتوافق مع معطيات هذا السؤال — المطلوب هنا", "المطلوب هنا"),
+    ("لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي", "الإجابة الصحيحة هي"),
+    ("لا ينطبق على هذه الحالة:", "الحقيقة أن"),
+    ("عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء.", "صحيحة، لكنها ليست الاستثناء."),
+]
+
+
+def speakable_line(text, max_en_words=6):
+    """Keep a mixed sentence for narration only if its English part is small
+    enough to read as embedded terminology rather than an English sentence."""
+    t = clean(text)
+    if not t or english_word_count(t) > max_en_words:
+        return ""
+    for long_form, short_form in SPOKEN_TRIM:
+        if t.startswith(long_form):
+            t = short_form + t[len(long_form):]
+            break
+    return t
+
+
+def speak_choice(letter, text):
+    """Name a choice aloud: with its term when short, by letter alone when the
+    choice is a full English statement (which is on screen anyway)."""
+    term = speakable_en(text, 4)
+    return f"الخيار {letter}، {term}" if term else f"الخيار {letter}"
+
+
 def opts_phrase(choices):
     """Arabic narration listing the choices, English terms preserved."""
     return "، أو ".join(clean(c["text"]) for c in choices)
@@ -493,9 +543,11 @@ def build_script(course, q, course_index, total_in_course):
                        "reason": reason, "elsewhere": elsewhere})
 
     # ---- narration ----------------------------------------------------
+    # Don't read all five options aloud -- they are on screen in the next
+    # scene, and reciting them was ~160k characters of English across the bank.
     n_question = (
         f"لنبدأ بهذا السؤال. {stem_ar or ''} "
-        f"أمامك هذه الخيارات: {opts_phrase(q['choices'])}. لنحللها معًا."
+        f"أمامك {len(q['choices'])} خيارات على الشاشة. لنحللها معًا."
     ).strip()
 
     n_purpose = f"قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: {purpose}"
@@ -509,28 +561,43 @@ def build_script(course, q, course_index, total_in_course):
         "لنفهم الفكرة الطبية وراء هذا السؤال ونربط المعطيات بالتشخيص الصحيح."
     )
 
-    # Narration uses the UNCAPPED text so the spoken explanation keeps the
-    # full detail even where the on-screen card had to trim for layout.
+    # Spoken pass over the choices stays Arabic and brief. The full per-choice
+    # detail -- including the source's English wording and the "where would
+    # this be correct" line -- is on the card the whole time; speaking it too
+    # doubled the length of the longest scene for no teaching benefit.
     wrong_v = [v for v in spoken if v["verdict"] == "wrong"]
     n_wrong_parts = [
-        "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء."
+        "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء."
         if except_style else
-        "لنراجع الخيارات الخاطئة واحدًا واحدًا."
+        "لنراجع الخيارات الخاطئة."
     ]
     for v in wrong_v:
-        n_wrong_parts.append(f"الخيار {v['letter']}، {v['text']}: {v['reason']} {v['elsewhere']}")
+        # Prefer the real reason when it is Arabic carrying only a term or
+        # two -- saying something different (and specific) about each choice
+        # is the teaching value. Fall back to a generic line only when the
+        # reason is English prose, which belongs on screen instead.
+        reason = speakable_line(v["reason"], 6)
+        if reason:
+            line = f"{speak_choice(v['letter'], v['text'])}: {reason}"
+        elif except_style:
+            line = f"{speak_choice(v['letter'], v['text'])}: صحيحة، لكنها ليست الاستثناء."
+        else:
+            line = f"{speak_choice(v['letter'], v['text'])}: لا ينطبق على هذه الحالة."
+        n_wrong_parts.append(line)
+    n_wrong_parts.append("والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.")
     n_wrong = " ".join(n_wrong_parts)
 
     n_trap = f"وهنا الفخ الذي يقع فيه كثير من الطلاب. الفخ: {trap}"
 
     n_correct = (
-        f"الإجابة الصحيحة هي الخيار {correct['letter']}: {clean(correct['text'])}. "
-        f"{conn_ar}"
+        f"{speak_choice(correct['letter'], correct['text'])} هو الإجابة الصحيحة. {conn_ar}"
     ).strip() if correct else "الإجابة الصحيحة موضحة على الشاشة."
 
+    # The mnemonic is an English one-liner by design -- short enough to be
+    # worth saying, unlike the explanations.
     n_take = (
         f"لنُثبّت الفكرة. {conn_ar} "
-        + (f"وتذكّر القاعدة: {mnem}. " if mnem else "")
+        + (f"وتذكّر: {mnem}. " if mnem and len(mnem.split()) <= 10 else "")
         + (f"والإجابة الصحيحة هي {correct['letter']}." if correct else "")
     ).strip()
 

@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Thyroglossal cyst"
       },
-      "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر 5 سنوات يعاني من تورم في خط الرقبة الأوسط، والذييبرز عند البلع أو لا يظهر أي بروز للسان، والتشخيص الأكثر احتمالا هو؟ أمامك هذه الخيارات: Thyroglossal cyst، أو Cystic hygroma، أو Thyroid lymphoma، أو Cleft bronchial cyst، أو Thyroiditis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر 5 سنوات يعاني من تورم في خط الرقبة الأوسط، والذييبرز عند البلع أو لا يظهر أي بروز للسان، والتشخيص الأكثر احتمالا هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Cystic hygroma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا midline. يصبح صحيحًا في سؤال يصف Cystic hygroma is a soft, transilluminant lateral neck swelling. الخيار C، Thyroid lymphoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a cyst moving with tongue protrusion. يصبح صحيحًا في سؤال يصف thyroid lymphoma and thyroiditis present as diffuse thyroid enlargement. الخيار D، Cleft bronchial cyst: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا midline. يصبح صحيحًا في سؤال يصف a branchial cleft cyst is lateral. الخيار E، Thyroiditis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a cyst moving with tongue protrusion. يصبح صحيحًا في سؤال يصف thyroid lymphoma and thyroiditis present as diffuse thyroid enlargement.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Cystic hygroma: المطلوب هنا midline. الخيار C، Thyroid lymphoma: المطلوب هنا a cyst moving with tongue protrusion. الخيار D، Cleft bronchial cyst: المطلوب هنا midline. الخيار E، Thyroiditis: المطلوب هنا a cyst moving with tongue protrusion. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Thyroglossal cyst: Tugged by Tongue movement t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Thyroglossal cyst. حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية."
+      "narration": "الخيار A، Thyroglossal cyst هو الإجابة الصحيحة. حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية. وتذكّر القاعدة: Thyroglossal cyst: Tugged by Tongue movement too. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. حركة التورم مع اللسان والبلع معًا توقّع على كيسة القناة الدرقية اللسانية. وتذكّر: Thyroglossal cyst: Tugged by Tongue movement too. والإجابة الصحيحة هي A."
     }
   ]
 }

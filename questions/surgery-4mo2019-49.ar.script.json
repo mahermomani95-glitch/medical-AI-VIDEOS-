@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Intraductal carcinoma in situ"
       },
-      "narration": "لنبدأ بهذا السؤال. بعد الورم الحليمي داخل القناة، فإن الإفرازات الدموية أحادية الجانب منالحلمة من فتحة قناة واحدة هي الأكثر شيوعًا بسبب أي من الحالات المرضيةالتالية أمامك هذه الخيارات: Paget's disease of the nipple، أو Intraductal carcinoma in situ، أو Inflammatory breast cancer، أو Subareolar mastitis، أو Gynecomastia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بعد الورم الحليمي داخل القناة، فإن الإفرازات الدموية أحادية الجانب منالحلمة من فتحة قناة واحدة هي الأكثر شيوعًا بسبب أي من الحالات المرضيةالتالية أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Paget's disease of the nipple: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا primarily bloody single-duct discharge. يصبح صحيحًا في سؤال يصف Paget's disease of the nipple presents with eczematous skin changes. الخيار C، Inflammatory breast cancer: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا discharge. يصبح صحيحًا في سؤال يصف inflammatory breast cancer presents with skin changes (peau d'orange). الخيار D، Subareolar mastitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal carcinoma in situ. يصبح صحيحًا في سؤال يصف subareolar mastitis and gynecomastia don't typically cause bloody single-duct discharge the way DCIS does. الخيار E، Gynecomastia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal carcinoma in situ. يصبح صحيحًا في سؤال يصف subareolar mastitis and gynecomastia don't typically cause bloody single-duct discharge the way DCIS does.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا primarily bloody single-duct discharge. الخيار C، Inflammatory breast cancer: المطلوب هنا discharge. الخيار D، Subareolar mastitis: الإجابة الصحيحة هي Intraductal carcinoma in situ. الخيار E، Gynecomastia: الإجابة الصحيحة هي Intraductal carcinoma in situ. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Bloody single-duct discharge: Papilloma first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Intraductal carcinoma in situ. بعد الورم الحليمي داخل الأقنية الحميد، السبب التالي الأشيع للإفراز الدموي أحادي القناة هو نمو خبيث ينشأ داخل القناة نفسها."
+      "narration": "الخيار B، Intraductal carcinoma in situ هو الإجابة الصحيحة. بعد الورم الحليمي داخل الأقنية الحميد، السبب التالي الأشيع للإفراز الدموي أحادي القناة هو نمو خبيث ينشأ داخل القناة نفسها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بعد الورم الحليمي داخل الأقنية الحميد، السبب التالي الأشيع للإفراز الدموي أحادي القناة هو نمو خبيث ينشأ داخل القناة نفسها. وتذكّر القاعدة: \"Bloody single-duct discharge: Papilloma first, DCIS second\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. بعد الورم الحليمي داخل الأقنية الحميد، السبب التالي الأشيع للإفراز الدموي أحادي القناة هو نمو خبيث ينشأ داخل القناة نفسها. وتذكّر: \"Bloody single-duct discharge: Papilloma first, DCIS second\". والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Right Ventricle"
       },
-      "narration": "لنبدأ بهذا السؤال. في الجروح النافذة في القلب، فإن البنية التشريحية الأكثر تأثرًا هي أمامك هذه الخيارات: Left Atrium، أو Left Ventricle، أو Right Atrium، أو Right Ventricle، أو Arche of Aorta. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في الجروح النافذة في القلب، فإن البنية التشريحية الأكثر تأثرًا هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Left Atrium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right Ventricle. يصبح صحيحًا في سؤال يصف The left atrium, left ventricle, right atrium, and arch of the aorta are all cardiac/vascular structures, but the right ventricle's most anterior position makes it the most exposed to penetrating anterior chest trauma. الخيار B، Left Ventricle: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right Ventricle. يصبح صحيحًا في سؤال يصف The left atrium, left ventricle, right atrium, and arch of the aorta are all cardiac/vascular structures, but the right ventricle's most anterior position makes it the most exposed to penetrating anterior chest trauma. الخيار C، Right Atrium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right Ventricle. يصبح صحيحًا في سؤال يصف The left atrium, left ventricle, right atrium, and arch of the aorta are all cardiac/vascular structures, but the right ventricle's most anterior position makes it the most exposed to penetrating anterior chest trauma. الخيار E، Arche of Aorta: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Right Ventricle. يصبح صحيحًا في سؤال يصف The left atrium, left ventricle, right atrium, and arch of the aorta are all cardiac/vascular structures, but the right ventricle's most anterior position makes it the most exposed to penetrating anterior chest trauma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Left Atrium: الإجابة الصحيحة هي Right Ventricle. الخيار B، Left Ventricle: الإجابة الصحيحة هي Right Ventricle. الخيار C، Right Atrium: الإجابة الصحيحة هي Right Ventricle. الخيار E، Arche of Aorta: الإجابة الصحيحة هي Right Ventricle. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Right Ventricle = most anterior heart chamber"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Right Ventricle. البطين الأيمن هو الأكثر أمامية بالصدر، مما يجعله البنية الأكثر عرضة للإصابة النافذة من الأمام."
+      "narration": "الخيار D، Right Ventricle هو الإجابة الصحيحة. البطين الأيمن هو الأكثر أمامية بالصدر، مما يجعله البنية الأكثر عرضة للإصابة النافذة من الأمام."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البطين الأيمن هو الأكثر أمامية بالصدر، مما يجعله البنية الأكثر عرضة للإصابة النافذة من الأمام. وتذكّر القاعدة: \"Right Ventricle = most anterior heart chamber\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. البطين الأيمن هو الأكثر أمامية بالصدر، مما يجعله البنية الأكثر عرضة للإصابة النافذة من الأمام. وتذكّر: \"Right Ventricle = most anterior heart chamber\". والإجابة الصحيحة هي D."
     }
   ]
 }

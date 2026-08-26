@@ -45,7 +45,7 @@
         "label": "40-50 ml 1% lidocaine with epinephrine",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. بعد استئصال عدة أورام شحمية تحت التخدير، أصيب رجل يبلغ من العمر 42 عامًا بنوبة. يجب أن يكون الجراح على دراية بالجرعة القصوى الآمنة منالمخدر الموضعي لمريض وزنه 70 كجم.؟ أمامك هذه الخيارات: 10-20 ml 1% lidocaine، أو 40-50 ml 2% lidocaine with epinephrine، أو 40-50 ml 1% lidocaine with epinephrine، أو 40-50 ml 0.5% lidocaine، أو 40-50 ml 1% lidocaine without epinephrine. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. بعد استئصال عدة أورام شحمية تحت التخدير، أصيب رجل يبلغ من العمر 42 عامًا بنوبة. يجب أن يكون الجراح على دراية بالجرعة القصوى الآمنة منالمخدر الموضعي لمريض وزنه 70 كجم.؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 10-20 ml 1% lidocaine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 40-50 ml 1% lidocaine with epinephrine. يصبح صحيحًا في سؤال يصف 10-20mL of 1% lidocaine is within safe dosing. الخيار B، 40-50 ml 2% lidocaine with epinephrine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 40-50 ml 1% lidocaine with epinephrine. يصبح صحيحًا في سؤال يصف 40-50mL of 2% lidocaine with epinephrine would be an even higher, more dangerous dose. الخيار D، 40-50 ml 0.5% lidocaine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 40-50 ml 1% lidocaine with epinephrine. يصبح صحيحًا في سؤال يصف 0.5% lidocaine and lidocaine without epinephrine at that volume are less likely to reach toxic levels as quickly — the specific combination of a large volume (40-50mL) of 1% lidocaine WITH epinephrine (delaying clearance while still reaching a large total dose) is most consistent with causing systemic local anesthetic toxicity/seizure. الخيار E، 40-50 ml 1% lidocaine without epinephrine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 40-50 ml 1% lidocaine with epinephrine. يصبح صحيحًا في سؤال يصف 0.5% lidocaine and lidocaine without epinephrine at that volume are less likely to reach toxic levels as quickly — the specific combination of a large volume (40-50mL) of 1% lidocaine WITH epinephrine (delaying clearance while still reaching a large total dose) is most consistent with causing systemic local anesthetic toxicity/seizure.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 10-20 ml 1% lidocaine: الإجابة الصحيحة هي 40-50 ml 1% lidocaine with epinephrine. الخيار B: الإجابة الصحيحة هي 40-50 ml 1% lidocaine with epinephrine. الخيار D، 40-50 ml 0.5% lidocaine: الإجابة الصحيحة هي 40-50 ml 1% lidocaine with epinephrine. الخيار E: الإجابة الصحيحة هي 40-50 ml 1% lidocaine with epinephrine. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Post-multiple-excision seizure: Lidocaine toxi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: 40-50 ml 1% lidocaine with epinephrine. جرعة ليدوكايين تراكمية زائدة بعمليات متعددة قد تسبب تسممًا جهازيًا مع نوبات."
+      "narration": "الخيار C هو الإجابة الصحيحة. جرعة ليدوكايين تراكمية زائدة بعمليات متعددة قد تسبب تسممًا جهازيًا مع نوبات."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. جرعة ليدوكايين تراكمية زائدة بعمليات متعددة قد تسبب تسممًا جهازيًا مع نوبات. وتذكّر القاعدة: Post-multiple-excision seizure: Lidocaine toxicity Likely. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. جرعة ليدوكايين تراكمية زائدة بعمليات متعددة قد تسبب تسممًا جهازيًا مع نوبات. وتذكّر: Post-multiple-excision seizure: Lidocaine toxicity Likely. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Decreased iron uptake"
       },
-      "narration": "لنبدأ بهذا السؤال. يمكن أن يؤدي استئصال اللفائفي إلى كل ما يلي باستثناء أمامك هذه الخيارات: Decreased B12 and folate uptake، أو Decreased bile salt uptake، أو Decreased iron uptake، أو Diarrhea, steatorrhea، أو Gallstones formation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يمكن أن يؤدي استئصال اللفائفي إلى كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Decreased B12 and folate uptake: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake. الخيار B، Decreased bile salt uptake: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake. الخيار D، Diarrhea, steatorrhea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake. الخيار E، Gallstones formation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. B12/folate deficiency, bile salt malabsorption, diarrhea/steatorrhea, and increased gallstone… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Decreased iron uptake.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B، Decreased bile salt uptake: صحيحة، لكنها ليست الاستثناء. الخيار D، Diarrhea, steatorrhea: صحيحة، لكنها ليست الاستثناء. الخيار E، Gallstones formation: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Ileum = B12 + Bile, not ironclad\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Decreased iron uptake. اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي."
+      "narration": "الخيار C، Decreased iron uptake هو الإجابة الصحيحة. اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي. وتذكّر القاعدة: \"Ileum = B12 + Bile, not ironclad\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. اللفائفي النهائي هو موقع امتصاص B12 والأملاح الصفراوية والفولات، أما الحديد فيُمتص في الاثني عشر، ليس اللفائفي. وتذكّر: \"Ileum = B12 + Bile, not ironclad\". والإجابة الصحيحة هي C."
     }
   ]
 }

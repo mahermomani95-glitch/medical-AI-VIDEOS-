@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Cyanosis"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Cyanosis، أو Pain، أو Numbness، أو Paralysis، أو No pulse. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Pain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a classic component. يصبح صحيحًا في سؤال يصف Pain, numbness, paralysis, and absent pulse are all part of the 6 P's of acute limb ischemia, alongside pallor — cyanosis. الخيار C، Numbness: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a classic component. يصبح صحيحًا في سؤال يصف Pain, numbness, paralysis, and absent pulse are all part of the 6 P's of acute limb ischemia, alongside pallor — cyanosis. الخيار D، Paralysis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a classic component. يصبح صحيحًا في سؤال يصف Pain, numbness, paralysis, and absent pulse are all part of the 6 P's of acute limb ischemia, alongside pallor — cyanosis. الخيار E، No pulse: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a classic component. يصبح صحيحًا في سؤال يصف Pain, numbness, paralysis, and absent pulse are all part of the 6 P's of acute limb ischemia, alongside pallor — cyanosis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Pain: المطلوب هنا a classic component. الخيار C، Numbness: المطلوب هنا a classic component. الخيار D، Paralysis: المطلوب هنا a classic component. الخيار E، No pulse: المطلوب هنا a classic component. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"6 P's: Pallor, not Cyanosis\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Cyanosis. الشحوب، وليس الزرقة، هو العلامة اللونية الكلاسيكية لنقص التروية الشرياني الحاد — الزرقة توحي باحتقان وريدي أو صورة متأخرة مختلطة."
+      "narration": "الخيار A، Cyanosis هو الإجابة الصحيحة. الشحوب، وليس الزرقة، هو العلامة اللونية الكلاسيكية لنقص التروية الشرياني الحاد — الزرقة توحي باحتقان وريدي أو صورة متأخرة مختلطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشحوب، وليس الزرقة، هو العلامة اللونية الكلاسيكية لنقص التروية الشرياني الحاد — الزرقة توحي باحتقان وريدي أو صورة متأخرة مختلطة. وتذكّر القاعدة: \"6 P's: Pallor, not Cyanosis\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الشحوب، وليس الزرقة، هو العلامة اللونية الكلاسيكية لنقص التروية الشرياني الحاد — الزرقة توحي باحتقان وريدي أو صورة متأخرة مختلطة. وتذكّر: \"6 P's: Pallor, not Cyanosis\". والإجابة الصحيحة هي A."
     }
   ]
 }

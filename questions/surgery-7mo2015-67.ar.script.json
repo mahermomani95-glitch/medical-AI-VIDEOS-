@@ -41,7 +41,7 @@
         "label": "Flumazenil",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم علاج الجرعة الزائدة الشديدة من الديازيبام بـ؟ أمامك هذه الخيارات: Flumazenil، أو Naloxone، أو Neostigmine، أو Atropine. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم علاج الجرعة الزائدة الشديدة من الديازيبام بـ؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Naloxone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا benzodiazepines. يصبح صحيحًا في سؤال يصف Naloxone reverses opioids. الخيار C، Neostigmine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Flumazenil. يصبح صحيحًا في سؤال يصف neostigmine reverses non-depolarizing paralytics. الخيار D، Atropine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Flumazenil. يصبح صحيحًا في سؤال يصف atropine treats bradycardia/certain toxidromes — flumazenil is the specific benzodiazepine antagonist used for severe diazepam overdose.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Naloxone: المطلوب هنا benzodiazepines. الخيار C، Neostigmine: الإجابة الصحيحة هي Flumazenil. الخيار D، Atropine: الإجابة الصحيحة هي Flumazenil. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -122,13 +122,13 @@
       "pills": [
         "Diazepam overdose: reversed by Flumazenil"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Flumazenil. الفلومازينيل هو الترياق النوعي لتسمم البنزوديازيبينات كالديازيبام."
+      "narration": "الخيار A، Flumazenil هو الإجابة الصحيحة. الفلومازينيل هو الترياق النوعي لتسمم البنزوديازيبينات كالديازيبام."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفلومازينيل هو الترياق النوعي لتسمم البنزوديازيبينات كالديازيبام. وتذكّر القاعدة: Diazepam overdose: reversed by Flumazenil. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الفلومازينيل هو الترياق النوعي لتسمم البنزوديازيبينات كالديازيبام. وتذكّر: Diazepam overdose: reversed by Flumazenil. والإجابة الصحيحة هي A."
     }
   ]
 }

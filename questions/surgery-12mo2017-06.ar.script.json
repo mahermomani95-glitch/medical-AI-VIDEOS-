@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Development of stasis ulcer"
       },
-      "narration": "لنبدأ بهذا السؤال. في المريض الذي يصاب بحلقة موثقة من تجلط الأوردة العميقة ، فإن العواقبالأكثر أهمية على المدى الطويل هي؟ أمامك هذه الخيارات: Claudication، أو Recurrent foot infection، أو Development of stasis ulcer، أو Pulmonary embolization، أو Diminished arterial perfusion. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في المريض الذي يصاب بحلقة موثقة من تجلط الأوردة العميقة ، فإن العواقبالأكثر أهمية على المدى الطويل هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Claudication: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Development of stasis ulcer. يصبح صحيحًا في سؤال يصف Claudication, recurrent infections, and diminished arterial perfusion relate to arterial (not venous) insufficiency. الخيار B، Recurrent foot infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Development of stasis ulcer. يصبح صحيحًا في سؤال يصف Claudication, recurrent infections, and diminished arterial perfusion relate to arterial (not venous) insufficiency. الخيار D، Pulmonary embolization: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Development of stasis ulcer. يصبح صحيحًا في سؤال يصف pulmonary embolism is the most immediately life-threatening SHORT-term complication of DVT — but the question specifically asks about the most significant LONG-term consequence, which is post-thrombotic syndrome/stasis ulceration from chronic venous insufficiency. الخيار E، Diminished arterial perfusion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Development of stasis ulcer. يصبح صحيحًا في سؤال يصف Claudication, recurrent infections, and diminished arterial perfusion relate to arterial (not venous) insufficiency.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Claudication: الإجابة الصحيحة هي Development of stasis ulcer. الخيار B، Recurrent foot infection: الإجابة الصحيحة هي Development of stasis ulcer. الخيار D، Pulmonary embolization: الإجابة الصحيحة هي Development of stasis ulcer. الخيار E، Diminished arterial perfusion: الإجابة الصحيحة هي Development of stasis ulcer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "DVT long-term: Stasis ulcer develops"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Development of stasis ulcer. الأذى الوريدي المزمن من DVT قد يسبب قرحة ركود جلدية طويلة الأمد."
+      "narration": "الخيار C، Development of stasis ulcer هو الإجابة الصحيحة. الأذى الوريدي المزمن من DVT قد يسبب قرحة ركود جلدية طويلة الأمد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأذى الوريدي المزمن من DVT قد يسبب قرحة ركود جلدية طويلة الأمد. وتذكّر القاعدة: DVT long-term: Stasis ulcer develops. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الأذى الوريدي المزمن من DVT قد يسبب قرحة ركود جلدية طويلة الأمد. وتذكّر: DVT long-term: Stasis ulcer develops. والإجابة الصحيحة هي C."
     }
   ]
 }

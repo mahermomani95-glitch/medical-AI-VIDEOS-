@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Perianal fistula"
       },
-      "narration": "لنبدأ بهذا السؤال. خضعت مريضة، تبلغ من العمر 35 عامًا، لعملية شق وتصريف خراج حولالشرج قبل شهرين. راجعت عيادتكم الآن وهي تعاني من ألم متقطع وإفرازاتمن موقع الجراحة السابقة. ما هي المشكلة الأكثر شيوعًا التي تتوقعونها والتييجب عليكم التحقق منها؟ أمامك هذه الخيارات: Perianal fistula، أو Anal fissure، أو Incontinence، أو A complication of her hemorrhoids، أو Necrotizing fasciitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. خضعت مريضة، تبلغ من العمر 35 عامًا، لعملية شق وتصريف خراج حولالشرج قبل شهرين. راجعت عيادتكم الآن وهي تعاني من ألم متقطع وإفرازاتمن موقع الجراحة السابقة. ما هي المشكلة الأكثر شيوعًا التي تتوقعونها والتييجب عليكم التحقق منها؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Anal fissure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Perianal fistula. يصبح صحيحًا في سؤال يصف Anal fissure, incontinence, a hemorrhoid complication, and necrotizing fasciitis don't fit this specific history — a persistent complaint after prior perianal abscess drainage is classically due to a resulting perianal fistula. الخيار C، Incontinence: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Perianal fistula. يصبح صحيحًا في سؤال يصف Anal fissure, incontinence, a hemorrhoid complication, and necrotizing fasciitis don't fit this specific history — a persistent complaint after prior perianal abscess drainage is classically due to a resulting perianal fistula. الخيار D، A complication of her hemorrhoids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Perianal fistula. يصبح صحيحًا في سؤال يصف Anal fissure, incontinence, a hemorrhoid complication, and necrotizing fasciitis don't fit this specific history — a persistent complaint after prior perianal abscess drainage is classically due to a resulting perianal fistula. الخيار E، Necrotizing fasciitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Perianal fistula. يصبح صحيحًا في سؤال يصف Anal fissure, incontinence, a hemorrhoid complication, and necrotizing fasciitis don't fit this specific history — a persistent complaint after prior perianal abscess drainage is classically due to a resulting perianal fistula.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Anal fissure: الإجابة الصحيحة هي Perianal fistula. الخيار C، Incontinence: الإجابة الصحيحة هي Perianal fistula. الخيار D: الإجابة الصحيحة هي Perianal fistula. الخيار E، Necrotizing fasciitis: الإجابة الصحيحة هي Perianal fistula. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Post-abscess drainage complication: Fistula fo"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Perianal fistula. خراج شرجي مصرَّف قد يتطور لناسور شرجي كمضاعفة متأخرة كلاسيكية."
+      "narration": "الخيار A، Perianal fistula هو الإجابة الصحيحة. خراج شرجي مصرَّف قد يتطور لناسور شرجي كمضاعفة متأخرة كلاسيكية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. خراج شرجي مصرَّف قد يتطور لناسور شرجي كمضاعفة متأخرة كلاسيكية. وتذكّر القاعدة: Post-abscess drainage complication: Fistula formation. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. خراج شرجي مصرَّف قد يتطور لناسور شرجي كمضاعفة متأخرة كلاسيكية. وتذكّر: Post-abscess drainage complication: Fistula formation. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Sigmoid Volvulus"
       },
-      "narration": "لنبدأ بهذا السؤال. حضر مريض يبلغ من العمر 65 عامًا إلى قسم الطوارئ يشكو من ألم شديدفي البطن مصحوب بمغص وقيء مصحوب بتمدد بطني لمدة يومين. في الأشعةالسينية البسيطة للبطن، وُجدت علامة \"يو\" مقلوبة في الربع السفلي الأيسر من البطن، وارتفاع كبير في مستوياتالهواء والسوائل الطرفية. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Colon Cancer، أو Adhesional Intestinal obstruction، أو Strangulated Inguinal Hernia، أو Sigmoid Volvulus، أو ileus. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضر مريض يبلغ من العمر 65 عامًا إلى قسم الطوارئ يشكو من ألم شديدفي البطن مصحوب بمغص وقيء مصحوب بتمدد بطني لمدة يومين. في الأشعةالسينية البسيطة للبطن، وُجدت علامة \"يو\" مقلوبة في الربع السفلي الأيسر من البطن، وارتفاع كبير في مستوياتالهواء والسوائل الطرفية. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colon Cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus. يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction. الخيار B، Adhesional Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus. يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction. الخيار C، Strangulated Inguinal Hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus. يصبح صحيحًا في سؤال يصف Colon cancer, adhesional obstruction, and strangulated inguinal hernia are all real causes of bowel obstruction, but colon cancer specifically remains the most common cause of mechanical LARGE bowel obstruction. الخيار E، ileus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Volvulus. يصبح صحيحًا في سؤال يصف ileus is a functional (non-mechanical) problem, distinct from true obstruction.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Colon Cancer: الإجابة الصحيحة هي Sigmoid Volvulus. الخيار B، Adhesional Intestinal obstruction: الإجابة الصحيحة هي Sigmoid Volvulus. الخيار C، Strangulated Inguinal Hernia: الإجابة الصحيحة هي Sigmoid Volvulus. الخيار E، ileus: الإجابة الصحيحة هي Sigmoid Volvulus. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Inverted U = Sigmoid volvulus\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Sigmoid Volvulus. حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني."
+      "narration": "الخيار D، Sigmoid Volvulus هو الإجابة الصحيحة. حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني. وتذكّر القاعدة: \"Inverted U = Sigmoid volvulus\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. حلقة معوية بشكل حرف U مقلوب على الأشعة هي العلامة الكلاسيكية (الأنبوب الداخلي المنحني) لالتواء القولون السيني. وتذكّر: \"Inverted U = Sigmoid volvulus\". والإجابة الصحيحة هي D."
     }
   ]
 }

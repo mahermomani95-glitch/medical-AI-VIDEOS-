@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Focused Assessment by sonography test (FAST)…"
       },
-      "narration": "لنبدأ بهذا السؤال. كنتَ طبيبَ نوبةِ الطوارئِ الليليةِ عندما جاءَ إليكَ رجلٌ في الخمسين من عمرهِبعدَ إصابةٍ حادةٍ في بطنه. كانت علاماتُه الحيويةُ (ضغطُ الدمِ ١١٠/٦٠، معدلُضرباتِ القلبِ ٩٠، معدلُ التنفسِ ١٧). مقياسُ غلاسكو للغيبوبةِ ١٥/١٥. بطنُهطريٌّ ولكنه مؤلمٌ في الربعِ العلويِّ الأيمنِ، ما هي أفضلُ خطوةٍ تاليةٍ لك؟ أمامك هذه الخيارات: Diagnostic peritoneal lavage، أو Focused Assessment by sonography test (FAST) ultrasound if available، أو ICU admission، أو Call the surgeon for immediate laparotomy، أو laparoscopy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كنتَ طبيبَ نوبةِ الطوارئِ الليليةِ عندما جاءَ إليكَ رجلٌ في الخمسين من عمرهِبعدَ إصابةٍ حادةٍ في بطنه. كانت علاماتُه الحيويةُ (ضغطُ الدمِ ١١٠/٦٠، معدلُضرباتِ القلبِ ٩٠، معدلُ التنفسِ ١٧). مقياسُ غلاسكو للغيبوبةِ ١٥/١٥. بطنُهطريٌّ ولكنه مؤلمٌ في الربعِ العلويِّ الأيمنِ، ما هي أفضلُ خطوةٍ تاليةٍ لك؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Diagnostic peritoneal lavage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available. يصبح صحيحًا في سؤال يصف DPL is more invasive and largely superseded by imaging. الخيار C، ICU admission: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available. يصبح صحيحًا في سؤال يصف ICU admission is premature before diagnostic assessment. الخيار D، Call the surgeon for immediate laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Focused Assessment by sonography test (FAST) ultrasound if available. يصبح صحيحًا في سؤال يصف immediate laparotomy without any imaging risks unnecessary surgery in a stable patient. الخيار E، laparoscopy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the initial diagnostic step — FAST ultrasound is the preferred rapid initial diagnostic tool in trauma assessment when available. يصبح صحيحًا في سؤال يصف laparoscopy is a treatment.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Diagnostic peritoneal lavage: لا ينطبق على هذه الحالة. الخيار C، ICU admission: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E، laparoscopy: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Trauma patient, urgent: FAST ultrasound First"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Focused Assessment by sonography test (FAST) ultrasound if available. فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي."
+      "narration": "الخيار B هو الإجابة الصحيحة. فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي. وتذكّر القاعدة: Trauma patient, urgent: FAST ultrasound First. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. فحص FAST بالموجات هو الخطوة التشخيصية الأولى الأسرع بمريض رض بطني إسعافي. وتذكّر: Trauma patient, urgent: FAST ultrasound First. والإجابة الصحيحة هي B."
     }
   ]
 }

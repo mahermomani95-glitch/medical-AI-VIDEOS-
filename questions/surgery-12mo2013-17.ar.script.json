@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Compressible upon pressure"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل علامات الدوالي الشديدة كل ما يلي باستثناء؟ أمامك هذه الخيارات: Thrombophlebitis، أو Hyperpigmentation، أو Ulceration، أو Compressible upon pressure، أو Bleeding. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل علامات الدوالي الشديدة كل ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Thrombophlebitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure. الخيار B، Hyperpigmentation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure. الخيار C، Ulceration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure. الخيار E، Bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Thrombophlebitis, hyperpigmentation, ulceration, and bleeding are all signs of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Compressible upon pressure.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Thrombophlebitis: صحيحة، لكنها ليست الاستثناء. الخيار B، Hyperpigmentation: صحيحة، لكنها ليست الاستثناء. الخيار C، Ulceration: صحيحة، لكنها ليست الاستثناء. الخيار E، Bleeding: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Compressible vein: Considered normal, not seve"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Compressible upon pressure. قابلية الانضغاط علامة طبيعية، لا علامة دوالي شديدة."
+      "narration": "الخيار D، Compressible upon pressure هو الإجابة الصحيحة. قابلية الانضغاط علامة طبيعية، لا علامة دوالي شديدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قابلية الانضغاط علامة طبيعية، لا علامة دوالي شديدة. وتذكّر القاعدة: Compressible vein: Considered normal, not severe. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. قابلية الانضغاط علامة طبيعية، لا علامة دوالي شديدة. وتذكّر: Compressible vein: Considered normal, not severe. والإجابة الصحيحة هي D."
     }
   ]
 }

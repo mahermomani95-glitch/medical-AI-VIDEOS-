@@ -45,7 +45,7 @@
         "label": "Proportion of individuals in a population having a disease",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الانتشار هو معيار لـ أمامك هذه الخيارات: Incidence rate، أو Mortality rate، أو Birth rate، أو Proportion of individuals in a population having a disease، أو Disease probability. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الانتشار هو معيار لـ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Incidence rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proportion of individuals in a population having a disease. يصبح صحيحًا في سؤال يصف Incidence rate measures only new cases over time. الخيار B، Mortality rate: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا existing disease burden. يصبح صحيحًا في سؤال يصف mortality rate measures deaths. الخيار C، Birth rate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Proportion of individuals in a population having a disease. يصبح صحيحًا في سؤال يصف birth rate is unrelated. الخيار E، Disease probability: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a standard formal epidemiologic term the way prevalence is. يصبح صحيحًا في سؤال يصف disease probability.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Incidence rate: لا ينطبق على هذه الحالة. الخيار B، Mortality rate: المطلوب هنا existing disease burden. الخيار C، Birth rate: لا ينطبق على هذه الحالة. الخيار E، Disease probability: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Prevalence = Present total\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Proportion of individuals in a population having a disease. معدل الانتشار هو صورة لحظية: نسبة السكان المصابين بمرض معين في وقت محدد، تجمع الحالات القديمة والجديدة معًا."
+      "narration": "الخيار D هو الإجابة الصحيحة. معدل الانتشار هو صورة لحظية: نسبة السكان المصابين بمرض معين في وقت محدد، تجمع الحالات القديمة والجديدة معًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معدل الانتشار هو صورة لحظية: نسبة السكان المصابين بمرض معين في وقت محدد، تجمع الحالات القديمة والجديدة معًا. وتذكّر القاعدة: \"Prevalence = Present total\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. معدل الانتشار هو صورة لحظية: نسبة السكان المصابين بمرض معين في وقت محدد، تجمع الحالات القديمة والجديدة معًا. وتذكّر: \"Prevalence = Present total\". والإجابة الصحيحة هي D."
     }
   ]
 }

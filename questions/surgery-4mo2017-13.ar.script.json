@@ -45,7 +45,7 @@
         "label": "Hyperplastic polyps",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الأمراض التالية يُعتقد أنه ليس لها أي إمكانية للتحول إلى أمراضخبيثة؟ أمامك هذه الخيارات: Ulcerative colitis، أو Villous adenoma، أو FAP، أو Hyperplastic polyps، أو Crohn disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الأمراض التالية يُعتقد أنه ليس لها أي إمكانية للتحول إلى أمراضخبيثة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps. يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are generally considered to have no significant malignant potential. الخيار B، Villous adenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps. يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are generally considered to have no significant malignant potential. الخيار C، FAP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps. يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are generally considered to have no significant malignant potential. الخيار E، Crohn disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hyperplastic polyps. يصبح صحيحًا في سؤال يصف Ulcerative colitis, villous adenoma, FAP, and Crohn's disease all carry recognized malignant potential, unlike hyperplastic polyps, which are generally considered to have no significant malignant potential.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Ulcerative colitis: الإجابة الصحيحة هي Hyperplastic polyps. الخيار B، Villous adenoma: الإجابة الصحيحة هي Hyperplastic polyps. الخيار C، FAP: الإجابة الصحيحة هي Hyperplastic polyps. الخيار E، Crohn disease: الإجابة الصحيحة هي Hyperplastic polyps. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Hyperplastic polyps: Harmless, no malignant po"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Hyperplastic polyps. البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي."
+      "narration": "الخيار D، Hyperplastic polyps هو الإجابة الصحيحة. البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي. وتذكّر القاعدة: Hyperplastic polyps: Harmless, no malignant potential. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. البوليبات مفرطة التنسج حميدة تمامًا بلا احتمال خباثة حقيقي. وتذكّر: Hyperplastic polyps: Harmless, no malignant potential. والإجابة الصحيحة هي D."
     }
   ]
 }

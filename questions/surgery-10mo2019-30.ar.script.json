@@ -45,7 +45,7 @@
         "region": "head",
         "label": "They are brilliantly translucent"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بالورم الكيسي الرطب؟ أمامك هذه الخيارات: They present during puberty، أو They are brilliantly translucent، أو They are firm on palpation، أو Cosmetic concern is the only indication for treatment، أو They undergo a predictable growth pattern. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بالورم الكيسي الرطب؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، They present during puberty: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا puberty. يصبح صحيحًا في سؤال يصف They typically present in infancy. الخيار C، They are firm on palpation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا firm. يصبح صحيحًا في سؤال يصف they are soft/compressible. الخيار D، Cosmetic concern is the only indication for treatment: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي They are brilliantly translucent. يصبح صحيحًا في سؤال يصف airway/feeding compromise (not just cosmetic concern) can be an indication for treatment. الخيار E، They undergo a predictable growth pattern: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا predictable, unlike infantile hemangiomas — these misstate true cystic hygroma facts. يصبح صحيحًا في سؤال يصف their growth pattern.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، They present during puberty: المطلوب هنا puberty. الخيار C: المطلوب هنا firm. الخيار D: الإجابة الصحيحة هي They are brilliantly translucent. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Cystic hygroma = brilliantly transilluminant\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: They are brilliantly translucent. الورم اللمفاوي الكيسي يتوهج بوضوح شديد عند تسليط الضوء عليه لأنه ممتلئ بسائل لمفاوي صافٍ وليس نسيجًا صلبًا."
+      "narration": "الخيار B، They are brilliantly translucent هو الإجابة الصحيحة. الورم اللمفاوي الكيسي يتوهج بوضوح شديد عند تسليط الضوء عليه لأنه ممتلئ بسائل لمفاوي صافٍ وليس نسيجًا صلبًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم اللمفاوي الكيسي يتوهج بوضوح شديد عند تسليط الضوء عليه لأنه ممتلئ بسائل لمفاوي صافٍ وليس نسيجًا صلبًا. وتذكّر القاعدة: \"Cystic hygroma = brilliantly transilluminant\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الورم اللمفاوي الكيسي يتوهج بوضوح شديد عند تسليط الضوء عليه لأنه ممتلئ بسائل لمفاوي صافٍ وليس نسيجًا صلبًا. وتذكّر: \"Cystic hygroma = brilliantly transilluminant\". والإجابة الصحيحة هي B."
     }
   ]
 }

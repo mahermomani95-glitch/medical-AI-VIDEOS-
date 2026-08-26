@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "The serum liver function test will most likely show…"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 28 عامًا، كانت تتمتع بصحة جيدة سابقًا، حضرت كحالةطارئة تعاني من ألم في البطن تفاقم بسبب وجبات دسمة، ويصاحبه يرقان،وقيء، وحكة، وبراز بلون الطين، وبول بلون الشاي، ولا تاريخ لفقدان الوزن. جميعها صحيحة باستثناء:؟ أمامك هذه الخيارات: This patient need admission, pain killers and, IV fluids، أو The most likely diagnosis gallstones and stone in the common bile duct، أو The cause of clay color stool is absence of stercobilinogen from stool، أو The cause of tea color urine is increased conjugated bilirubin in urine، أو The serum liver function test will most likely show decreased alkaline phosphatase. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 28 عامًا، كانت تتمتع بصحة جيدة سابقًا، حضرت كحالةطارئة تعاني من ألم في البطن تفاقم بسبب وجبات دسمة، ويصاحبه يرقان،وقيء، وحكة، وبراز بلون الطين، وبول بلون الشاي، ولا تاريخ لفقدان الوزن. جميعها صحيحة باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، This patient need admission, pain killers and, IV fluids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف Admission with pain control and IV fluids is reasonable supportive care. الخيار B، The most likely diagnosis gallstones and stone in the common bile duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف gallstones/CBD stone is a plausible but less specific diagnosis for this presentation. الخيار C، The cause of clay color stool is absence of stercobilinogen from stool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for obstructive jaundice — however, obstructive causes typically show INCREASED (not decreased) alkaline phosphatase, making E the false statement. الخيار D، The cause of tea color urine is increased conjugated bilirubin in urine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The serum liver function test will most likely show decreased alkaline phosphatase. يصبح صحيحًا في سؤال يصف clay-colored stool from absent stercobilinogen and tea-colored urine from conjugated bilirubin are both true mechanistic statements for obstructive jaundice — however, obstructive causes typically show INCREASED (not decreased) alkaline phosphatase, making E the false statement.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Severe hepatic dysfunction: Synthetic function"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: The serum liver function test will most likely show decreased alkaline phosphatase. وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة."
+      "narration": "الخيار E هو الإجابة الصحيحة. وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة. وتذكّر القاعدة: Severe hepatic dysfunction: Synthetic function Drops. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. وظائف الكبد التركيبية قد تنخفض فعليًا بحالات كبدية حادة معينة. وتذكّر: Severe hepatic dysfunction: Synthetic function Drops. والإجابة الصحيحة هي E."
     }
   ]
 }

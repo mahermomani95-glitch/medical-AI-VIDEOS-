@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Evaluation for fracture of the other extremities…"
       },
-      "narration": "لنبدأ بهذا السؤال. واحد صحيح فيما يتعلق بالحروق الكهربائية؟ أمامك هذه الخيارات: Injuries are generally more superficial than those with thermal burns، أو Intravenous fluid replacement is based on the percentage of body surface area burnt، أو Electric burns often result in transient traumatic optic neuropathy، أو Evaluation for fracture of the other extremities and visceral injury is indicated، أو Cardiac conduction abnormalities are unlikely. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. واحد صحيح فيما يتعلق بالحروق الكهربائية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Injuries are generally more superficial than those with thermal burns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated. يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (not more superficial) than thermal burns. الخيار B، Intravenous fluid replacement is based on the percentage of body surface area burnt: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just BSA percentage as with thermal burns. يصبح صحيحًا في سؤال يصف fluid replacement in electric burns is based on actual tissue damage/myoglobinuria. الخيار C، Electric burns often result in transient traumatic optic neuropathy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated. يصبح صحيحًا في سؤال يصف Electric burn injuries are actually often DEEPER (not more superficial) than thermal burns. الخيار E، Cardiac conduction abnormalities are unlikely: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Evaluation for fracture of the other extremities and visceral injury is indicated. يصبح صحيحًا في سؤال يصف cardiac conduction abnormalities are actually COMMON (not unlikely) given current passing through the body — the true statement is that associated fractures and internal organ injury must be evaluated given the violent muscle contractions/falls associated with electric shock.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Electric burns: Evaluate deeply, beyond skin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Evaluation for fracture of the other extremities and visceral injury is indicated. حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية."
+      "narration": "الخيار D هو الإجابة الصحيحة. حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية. وتذكّر القاعدة: Electric burns: Evaluate deeply, beyond skin. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. حروق الكهرباء تستدعي تقييمًا شاملاً للكسور والأعضاء الداخلية الخفية. وتذكّر: Electric burns: Evaluate deeply, beyond skin. والإجابة الصحيحة هي D."
     }
   ]
 }

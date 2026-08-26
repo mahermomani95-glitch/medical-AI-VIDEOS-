@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Presence of intestinal Goblet cells"
       },
-      "narration": "لنبدأ بهذا السؤال. مريء باريت؟ أمامك هذه الخيارات: It is a congenital anomaly، أو When diagnosed, should be treated by surgery، أو Occurs in 5% of patient with Achalasia، أو More common in females، أو Presence of intestinal Goblet cells. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريء باريت؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a congenital anomaly: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells. يصبح صحيحًا في سؤال يستهدف It is a congenital anomaly تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار B، When diagnosed, should be treated by surgery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا primary surgery. يصبح صحيحًا في سؤال يصف it's managed with PPIs and surveillance. الخيار C، Occurs in 5% of patient with Achalasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells. يصبح صحيحًا في سؤال يصف the achalasia association isn't the defining 5% statistic commonly cited. الخيار D، More common in females: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Presence of intestinal Goblet cells. يصبح صحيحًا في سؤال يصف it doesn't show a clear female predominance — the defining feature is the presence of intestinal-type columnar epithelium with goblet cells.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Presence of intestinal Goblet cells. الخيار B: المطلوب هنا primary surgery. الخيار C: الإجابة الصحيحة هي Presence of intestinal Goblet cells. الخيار D، More common in females: الإجابة الصحيحة هي Presence of intestinal Goblet cells. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Barrett's: defined by Goblet cells"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Presence of intestinal Goblet cells. وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت."
+      "narration": "الخيار E هو الإجابة الصحيحة. وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت. وتذكّر القاعدة: Barrett's: defined by Goblet cells. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. وجود الخلايا الكأسية المعوية هو المعيار النسيجي القاطع لمريء باريت. وتذكّر: Barrett's: defined by Goblet cells. والإجابة الصحيحة هي E."
     }
   ]
 }

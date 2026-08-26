@@ -45,7 +45,7 @@
         "label": "decreased platelet adhesion",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالبرفرية الخثارية قليلة الصفائح الدمويةباستثناء أمامك هذه الخيارات: splenomegaly، أو decreased platelet adhesion، أو deficiency or inhibition of metalloproteinase ADAMTS13، أو The primary therapy is plasmapheresis، أو Thrombosis'. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالبرفرية الخثارية قليلة الصفائح الدمويةباستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، splenomegaly: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion. الخيار C، deficiency or inhibition of metalloproteinase ADAMTS13: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Deficiency or inhibition of ADAMTS13 is the core mechanism in TTP, leading to accumulation of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion. الخيار D، The primary therapy is plasmapheresis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion. الخيار E، Thrombosis': عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Widespread thrombosis and splenomegaly are known features of TTP, and plasmapheresis is the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو decreased platelet adhesion.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، splenomegaly: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Thrombosis': صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"TTP = Too many Tiny clots, not too little adh"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: decreased platelet adhesion. فرفرية نقص الصفيحات الخثارية (TTP) تعني تكدس الصفيحات وتكوّن خثرات صغيرة منتشرة، وليس نقص التصاقها — لذلك هذه هي العبارة الخاطئة."
+      "narration": "الخيار B، decreased platelet adhesion هو الإجابة الصحيحة. فرفرية نقص الصفيحات الخثارية (TTP) تعني تكدس الصفيحات وتكوّن خثرات صغيرة منتشرة، وليس نقص التصاقها — لذلك هذه هي العبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرفرية نقص الصفيحات الخثارية (TTP) تعني تكدس الصفيحات وتكوّن خثرات صغيرة منتشرة، وليس نقص التصاقها — لذلك هذه هي العبارة الخاطئة. وتذكّر القاعدة: \"TTP = Too many Tiny clots, not too little adhesion\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. فرفرية نقص الصفيحات الخثارية (TTP) تعني تكدس الصفيحات وتكوّن خثرات صغيرة منتشرة، وليس نقص التصاقها — لذلك هذه هي العبارة الخاطئة. وتذكّر: \"TTP = Too many Tiny clots, not too little adhesion\". والإجابة الصحيحة هي B."
     }
   ]
 }

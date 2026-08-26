@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Has large nodule in the gland"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: May present with exophthalmos، أو Autoimmune disease، أو May present with weight loss، أو Has large nodule in the gland، أو Treatment usually begins with medications. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، May present with exophthalmos: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Exophthalmos, being autoimmune, weight loss, and medication as initial treatment are all true… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Has large nodule in the gland. الخيار B، Autoimmune disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Exophthalmos, being autoimmune, weight loss, and medication as initial treatment are all true… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Has large nodule in the gland. الخيار C، May present with weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Exophthalmos, being autoimmune, weight loss, and medication as initial treatment are all true… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Has large nodule in the gland. الخيار E، Treatment usually begins with medications: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Exophthalmos, being autoimmune, weight loss, and medication as initial treatment are all true… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Has large nodule in the gland.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، May present with exophthalmos: صحيحة، لكنها ليست الاستثناء. الخيار B، Autoimmune disease: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Graves = Diffuse enlargement, not a nodule\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Has large nodule in the gland. غريفز يسبب تضخمًا منتشرًا متناظرًا بالغدة، وليس عقيدة كبيرة منفردة — العقيدة توجّه أكثر نحو مرض آخر."
+      "narration": "الخيار D هو الإجابة الصحيحة. غريفز يسبب تضخمًا منتشرًا متناظرًا بالغدة، وليس عقيدة كبيرة منفردة — العقيدة توجّه أكثر نحو مرض آخر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. غريفز يسبب تضخمًا منتشرًا متناظرًا بالغدة، وليس عقيدة كبيرة منفردة — العقيدة توجّه أكثر نحو مرض آخر. وتذكّر القاعدة: \"Graves = Diffuse enlargement, not a nodule\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. غريفز يسبب تضخمًا منتشرًا متناظرًا بالغدة، وليس عقيدة كبيرة منفردة — العقيدة توجّه أكثر نحو مرض آخر. وتذكّر: \"Graves = Diffuse enlargement, not a nodule\". والإجابة الصحيحة هي D."
     }
   ]
 }

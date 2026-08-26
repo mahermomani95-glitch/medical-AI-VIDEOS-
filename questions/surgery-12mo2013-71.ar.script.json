@@ -45,7 +45,7 @@
         "label": "20-25 kg/m^2",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. مؤشر كتلة الجسم للوزن الطبيعي هو؟ أمامك هذه الخيارات: 15-19 kg/m^2، أو 20-25 kg/m^2، أو 26-29 kg/m^2، أو 30-34 kg/m^2، أو 35-39 kg/m^2. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مؤشر كتلة الجسم للوزن الطبيعي هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 15-19 kg/m^2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20-25 kg/m^2. يصبح صحيحًا في سؤال يصف 15-19, 26-29, 30-34, and 35-39 kg/m² fall outside the standard normal weight range — 20-25 (sometimes cited as 18.5-25) kg/m² is generally accepted as the normal BMI range. الخيار C، 26-29 kg/m^2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20-25 kg/m^2. يصبح صحيحًا في سؤال يصف 15-19, 26-29, 30-34, and 35-39 kg/m² fall outside the standard normal weight range — 20-25 (sometimes cited as 18.5-25) kg/m² is generally accepted as the normal BMI range. الخيار D، 30-34 kg/m^2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20-25 kg/m^2. يصبح صحيحًا في سؤال يصف 15-19, 26-29, 30-34, and 35-39 kg/m² fall outside the standard normal weight range — 20-25 (sometimes cited as 18.5-25) kg/m² is generally accepted as the normal BMI range. الخيار E، 35-39 kg/m^2: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20-25 kg/m^2. يصبح صحيحًا في سؤال يصف 15-19, 26-29, 30-34, and 35-39 kg/m² fall outside the standard normal weight range — 20-25 (sometimes cited as 18.5-25) kg/m² is generally accepted as the normal BMI range.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 15-19 kg/m^2: الإجابة الصحيحة هي 20-25 kg/m^2. الخيار C، 26-29 kg/m^2: الإجابة الصحيحة هي 20-25 kg/m^2. الخيار D، 30-34 kg/m^2: الإجابة الصحيحة هي 20-25 kg/m^2. الخيار E، 35-39 kg/m^2: الإجابة الصحيحة هي 20-25 kg/m^2. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Normal BMI: Twenty to twenty-Five"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: 20-25 kg/m^2. مؤشر كتلة الجسم الطبيعي يتراوح بين 20 و25 كغ/م²."
+      "narration": "الخيار B، 20-25 kg/m^2 هو الإجابة الصحيحة. مؤشر كتلة الجسم الطبيعي يتراوح بين 20 و25 كغ/م²."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مؤشر كتلة الجسم الطبيعي يتراوح بين 20 و25 كغ/م². وتذكّر القاعدة: Normal BMI: Twenty to twenty-Five. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. مؤشر كتلة الجسم الطبيعي يتراوح بين 20 و25 كغ/م². وتذكّر: Normal BMI: Twenty to twenty-Five. والإجابة الصحيحة هي B."
     }
   ]
 }

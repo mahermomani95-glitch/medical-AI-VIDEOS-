@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Reflux nephropathy"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من التشخيصات التالية هو الأكثر احتمالا في الطفل المصاب بارتفاعضغط الدم وتاريخ سابق من التهاب المسالك البولية؟ أمامك هذه الخيارات: Ureteropelvic junction obstruction، أو Reflux nephropathy، أو Wilms tumor، أو Renal artery stenosis، أو Posterior urethral valve. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من التشخيصات التالية هو الأكثر احتمالا في الطفل المصاب بارتفاعضغط الدم وتاريخ سابق من التهاب المسالك البولية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ureteropelvic junction obstruction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Reflux nephropathy. يصبح صحيحًا في سؤال يصف UPJ obstruction, Wilms tumor, renal artery stenosis, and posterior urethral valve can all cause pediatric hypertension through various mechanisms, but reflux nephropathy (from vesicoureteral reflux and recurrent UTIs causing renal scarring) is the classic diagnosis linking a UTI history with hypertension in a child. الخيار C، Wilms tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Reflux nephropathy. يصبح صحيحًا في سؤال يصف UPJ obstruction, Wilms tumor, renal artery stenosis, and posterior urethral valve can all cause pediatric hypertension through various mechanisms, but reflux nephropathy (from vesicoureteral reflux and recurrent UTIs causing renal scarring) is the classic diagnosis linking a UTI history with hypertension in a child. الخيار D، Renal artery stenosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Reflux nephropathy. يصبح صحيحًا في سؤال يصف UPJ obstruction, Wilms tumor, renal artery stenosis, and posterior urethral valve can all cause pediatric hypertension through various mechanisms, but reflux nephropathy (from vesicoureteral reflux and recurrent UTIs causing renal scarring) is the classic diagnosis linking a UTI history with hypertension in a child. الخيار E، Posterior urethral valve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Reflux nephropathy. يصبح صحيحًا في سؤال يصف UPJ obstruction, Wilms tumor, renal artery stenosis, and posterior urethral valve can all cause pediatric hypertension through various mechanisms, but reflux nephropathy (from vesicoureteral reflux and recurrent UTIs causing renal scarring) is the classic diagnosis linking a UTI history with hypertension in a child.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Ureteropelvic junction obstruction: الإجابة الصحيحة هي Reflux nephropathy. الخيار C، Wilms tumor: الإجابة الصحيحة هي Reflux nephropathy. الخيار D، Renal artery stenosis: الإجابة الصحيحة هي Reflux nephropathy. الخيار E، Posterior urethral valve: الإجابة الصحيحة هي Reflux nephropathy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Childhood UTIs + later HTN: Reflux nephropathy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Reflux nephropathy. عدوى بولية متكررة عند طفل قد تُندّب الكلية فيرتفع الضغط لاحقًا."
+      "narration": "الخيار B، Reflux nephropathy هو الإجابة الصحيحة. عدوى بولية متكررة عند طفل قد تُندّب الكلية فيرتفع الضغط لاحقًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدوى بولية متكررة عند طفل قد تُندّب الكلية فيرتفع الضغط لاحقًا. وتذكّر القاعدة: Childhood UTIs + later HTN: Reflux nephropathy. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. عدوى بولية متكررة عند طفل قد تُندّب الكلية فيرتفع الضغط لاحقًا. وتذكّر: Childhood UTIs + later HTN: Reflux nephropathy. والإجابة الصحيحة هي B."
     }
   ]
 }

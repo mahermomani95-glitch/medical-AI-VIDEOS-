@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Extradural hemorrhage"
       },
-      "narration": "لنبدأ بهذا السؤال. يمكن أن تحدث صدمة نقص حجم الدم نتيجة لأي من الأسباب التاليةباستثناء:؟ أمامك هذه الخيارات: Pulmonary laceration، أو Extradural hemorrhage، أو Pelvic fracture، أو Femur fracture، أو Laceration to scalp. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يمكن أن تحدث صدمة نقص حجم الدم نتيجة لأي من الأسباب التاليةباستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pulmonary laceration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage. الخيار C، Pelvic fracture: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage. الخيار D، Femur fracture: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage. الخيار E، Laceration to scalp: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pulmonary laceration, pelvic fracture, femur fracture, and scalp laceration can all cause… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Extradural hemorrhage.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pulmonary laceration: صحيحة، لكنها ليست الاستثناء. الخيار C، Pelvic fracture: صحيحة، لكنها ليست الاستثناء. الخيار D، Femur fracture: صحيحة، لكنها ليست الاستثناء. الخيار E، Laceration to scalp: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Extradural hemorrhage: Enclosed volume, rarely"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Extradural hemorrhage. النزف فوق الجافية محدود الحجم عادة، فلا يسبب صدمة نقص حجم جهازية."
+      "narration": "الخيار B، Extradural hemorrhage هو الإجابة الصحيحة. النزف فوق الجافية محدود الحجم عادة، فلا يسبب صدمة نقص حجم جهازية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النزف فوق الجافية محدود الحجم عادة، فلا يسبب صدمة نقص حجم جهازية. وتذكّر القاعدة: Extradural hemorrhage: Enclosed volume, rarely causes Hypovolemic shock. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. النزف فوق الجافية محدود الحجم عادة، فلا يسبب صدمة نقص حجم جهازية. وتذكّر: Extradural hemorrhage: Enclosed volume, rarely causes Hypovolemic shock. والإجابة الصحيحة هي B."
     }
   ]
 }

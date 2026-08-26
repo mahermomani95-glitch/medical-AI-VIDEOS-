@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Lymph node status"
       },
-      "narration": "لنبدأ بهذا السؤال. العامل التشخيصي الأكثر أهمية لسرطان الثدي الخالي من النقائل الجهازيةهو أمامك هذه الخيارات: Lymph node status، أو Size of tumor، أو Tumor grade، أو Gender of patient، أو Comorbidities. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العامل التشخيصي الأكثر أهمية لسرطان الثدي الخالي من النقائل الجهازيةهو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Size of tumor: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node status. يصبح صحيحًا في سؤال يستهدف Size of tumor تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Tumor grade: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node status. يصبح صحيحًا في سؤال يستهدف Tumor grade تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Gender of patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node status. يصبح صحيحًا في سؤال يصف Gender and comorbidities can influence overall prognosis and treatment tolerance, but axillary lymph node status remains the single strongest prognostic factor specifically for non-metastatic breast cancer. الخيار E، Comorbidities: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node status. يصبح صحيحًا في سؤال يصف Gender and comorbidities can influence overall prognosis and treatment tolerance, but axillary lymph node status remains the single strongest prognostic factor specifically for non-metastatic breast cancer.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Size of tumor: الإجابة الصحيحة هي Lymph node status. الخيار C، Tumor grade: الإجابة الصحيحة هي Lymph node status. الخيار D، Gender of patient: الإجابة الصحيحة هي Lymph node status. الخيار E، Comorbidities: الإجابة الصحيحة هي Lymph node status. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Nodes Know the prognosis\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Lymph node status. معرفة حالة العقد اللمفاوية الإبطية (سليمة أم مصابة) تخبرك عن الإنذار أكثر من أي عامل آخر تقريبًا."
+      "narration": "الخيار A، Lymph node status هو الإجابة الصحيحة. معرفة حالة العقد اللمفاوية الإبطية (سليمة أم مصابة) تخبرك عن الإنذار أكثر من أي عامل آخر تقريبًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معرفة حالة العقد اللمفاوية الإبطية (سليمة أم مصابة) تخبرك عن الإنذار أكثر من أي عامل آخر تقريبًا. وتذكّر القاعدة: \"Nodes Know the prognosis\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. معرفة حالة العقد اللمفاوية الإبطية (سليمة أم مصابة) تخبرك عن الإنذار أكثر من أي عامل آخر تقريبًا. وتذكّر: \"Nodes Know the prognosis\". والإجابة الصحيحة هي A."
     }
   ]
 }

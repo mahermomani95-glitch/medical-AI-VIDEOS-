@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Intra abdominal abscess"
       },
-      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا لالتهاب الزائدة الدودية الحاد هي؟ أمامك هذه الخيارات: Intra abdominal abscess، أو Pneumonia، أو Wound infecion، أو Bowel obstruction secondary to adhesion، أو Incisional hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الأكثر شيوعا لالتهاب الزائدة الدودية الحاد هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Pneumonia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess. يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess remains the most common complication, especially after perforated appendicitis. الخيار C، Wound infecion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess. يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess remains the most common complication, especially after perforated appendicitis. الخيار D، Bowel obstruction secondary to adhesion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess. يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess remains the most common complication, especially after perforated appendicitis. الخيار E، Incisional hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intra abdominal abscess. يصبح صحيحًا في سؤال يصف Pneumonia, wound infection, adhesive bowel obstruction, and incisional hernia can all occur after appendectomy, but intra-abdominal abscess remains the most common complication, especially after perforated appendicitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Pneumonia: الإجابة الصحيحة هي Intra abdominal abscess. الخيار C، Wound infecion: الإجابة الصحيحة هي Intra abdominal abscess. الخيار D: الإجابة الصحيحة هي Intra abdominal abscess. الخيار E، Incisional hernia: الإجابة الصحيحة هي Intra abdominal abscess. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Appendicitis complication: mostly Intra-abdomi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Intra abdominal abscess. الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد."
+      "narration": "الخيار A، Intra abdominal abscess هو الإجابة الصحيحة. الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد. وتذكّر القاعدة: Appendicitis complication: mostly Intra-abdominal abscess. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الخراج داخل البطن هو المضاعفة الأشيع لالتهاب الزائدة الحاد. وتذكّر: Appendicitis complication: mostly Intra-abdominal abscess. والإجابة الصحيحة هي A."
     }
   ]
 }

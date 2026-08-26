@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Mixed"
       },
-      "narration": "لنبدأ بهذا السؤال. أكثر الكائنات الحية الدقيقة شيوعًا التي تسبب العدوى في القدم السكرية هي؟ أمامك هذه الخيارات: Staphylococcus aureus، أو Pseudomonas، أو Mixed، أو Listeria، أو Clostridium perfringens. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أكثر الكائنات الحية الدقيقة شيوعًا التي تسبب العدوى في القدم السكرية هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Staphylococcus aureus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا caused by a single organism. يصبح صحيحًا في سؤال يصف Staphylococcus aureus, Pseudomonas, Listeria, and Clostridium perfringens can each be isolated from diabetic foot infections individually, but these infections are classically polymicrobial (mixed aerobic and anaerobic organisms). الخيار B، Pseudomonas: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا caused by a single organism. يصبح صحيحًا في سؤال يصف Staphylococcus aureus, Pseudomonas, Listeria, and Clostridium perfringens can each be isolated from diabetic foot infections individually, but these infections are classically polymicrobial (mixed aerobic and anaerobic organisms). الخيار D، Listeria: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا caused by a single organism. يصبح صحيحًا في سؤال يصف Staphylococcus aureus, Pseudomonas, Listeria, and Clostridium perfringens can each be isolated from diabetic foot infections individually, but these infections are classically polymicrobial (mixed aerobic and anaerobic organisms). الخيار E، Clostridium perfringens: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا caused by a single organism. يصبح صحيحًا في سؤال يصف Staphylococcus aureus, Pseudomonas, Listeria, and Clostridium perfringens can each be isolated from diabetic foot infections individually, but these infections are classically polymicrobial (mixed aerobic and anaerobic organisms).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Staphylococcus aureus: المطلوب هنا caused by a single organism. الخيار B، Pseudomonas: المطلوب هنا caused by a single organism. الخيار D، Listeria: المطلوب هنا caused by a single organism. الخيار E، Clostridium perfringens: المطلوب هنا caused by a single organism. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Diabetic foot infection: Mixed organisms"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Mixed. عدوى القدم السكرية غالبًا مختلطة الجراثيم لا جرثومة واحدة."
+      "narration": "الخيار C، Mixed هو الإجابة الصحيحة. عدوى القدم السكرية غالبًا مختلطة الجراثيم لا جرثومة واحدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدوى القدم السكرية غالبًا مختلطة الجراثيم لا جرثومة واحدة. وتذكّر القاعدة: Diabetic foot infection: Mixed organisms. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. عدوى القدم السكرية غالبًا مختلطة الجراثيم لا جرثومة واحدة. وتذكّر: Diabetic foot infection: Mixed organisms. والإجابة الصحيحة هي C."
     }
   ]
 }

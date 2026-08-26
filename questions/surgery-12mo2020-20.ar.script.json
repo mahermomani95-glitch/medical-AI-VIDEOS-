@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Serum calcitonin"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Serum thyroxine، أو Serum parathyroid hormone، أو Serum thyroglobulin، أو Thyroid scintigraphy، أو Serum calcitonin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Serum thyroxine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Serum calcitonin. يصبح صحيحًا في سؤال يصف Serum thyroxine, parathyroid hormone, and thyroid scintigraphy are all relevant thyroid tests for other purposes, but serum thyroglobulin specifically is the marker used to detect residual/recurrent tissue after total thyroidectomy since it's produced only by thyroid cells. الخيار B، Serum parathyroid hormone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Serum calcitonin. يصبح صحيحًا في سؤال يصف Serum thyroxine, parathyroid hormone, and thyroid scintigraphy are all relevant thyroid tests for other purposes, but serum thyroglobulin specifically is the marker used to detect residual/recurrent tissue after total thyroidectomy since it's produced only by thyroid cells. الخيار C، Serum thyroglobulin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Serum calcitonin. يصبح صحيحًا في سؤال يصف Serum thyroxine, parathyroid hormone, and thyroid scintigraphy are all relevant thyroid tests for other purposes, but serum thyroglobulin specifically is the marker used to detect residual/recurrent tissue after total thyroidectomy since it's produced only by thyroid cells. الخيار D، Thyroid scintigraphy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Serum calcitonin. يصبح صحيحًا في سؤال يصف Serum thyroxine, parathyroid hormone, and thyroid scintigraphy are all relevant thyroid tests for other purposes, but serum thyroglobulin specifically is the marker used to detect residual/recurrent tissue after total thyroidectomy since it's produced only by thyroid cells.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Serum thyroxine: الإجابة الصحيحة هي Serum calcitonin. الخيار B، Serum parathyroid hormone: الإجابة الصحيحة هي Serum calcitonin. الخيار C، Serum thyroglobulin: الإجابة الصحيحة هي Serum calcitonin. الخيار D، Thyroid scintigraphy: الإجابة الصحيحة هي Serum calcitonin. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Medullary = C cells = Calcitonin\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Serum calcitonin. سرطان الدرقية النخاعي ينشأ من الخلايا C المفرزة للكالسيتونين — الكالسيتونين المصلي هو واسمه الورمي الأساسي."
+      "narration": "الخيار E، Serum calcitonin هو الإجابة الصحيحة. سرطان الدرقية النخاعي ينشأ من الخلايا C المفرزة للكالسيتونين — الكالسيتونين المصلي هو واسمه الورمي الأساسي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان الدرقية النخاعي ينشأ من الخلايا C المفرزة للكالسيتونين — الكالسيتونين المصلي هو واسمه الورمي الأساسي. وتذكّر القاعدة: \"Medullary = C cells = Calcitonin\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. سرطان الدرقية النخاعي ينشأ من الخلايا C المفرزة للكالسيتونين — الكالسيتونين المصلي هو واسمه الورمي الأساسي. وتذكّر: \"Medullary = C cells = Calcitonin\". والإجابة الصحيحة هي E."
     }
   ]
 }

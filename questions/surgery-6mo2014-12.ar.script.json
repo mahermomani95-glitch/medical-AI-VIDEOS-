@@ -45,7 +45,7 @@
         "region": "head",
         "label": "IV hypotonic saline"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم استخدام كل ما يلي لتقليل الضغط داخل الجمجمة بعد إصابة الرأسباستثناء؟ أمامك هذه الخيارات: IV hypotonic saline، أو Head of bed elevation to ~ 30°، أو Intubation and mechanical ventilation to achieve a normal ABGs، أو Temperature management، أو IV mannitol. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم استخدام كل ما يلي لتقليل الضغط داخل الجمجمة بعد إصابة الرأسباستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Head of bed elevation to ~ 30°: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline. الخيار C، Intubation and mechanical ventilation to achieve a normal ABGs: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline. الخيار D، Temperature management: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline. الخيار E، IV mannitol: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Head elevation, controlled ventilation to normal ABGs, temperature management, and mannitol… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو IV hypotonic saline.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Temperature management: صحيحة، لكنها ليست الاستثناء. الخيار E، IV mannitol: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hypotonic saline: Harms by worsening edema, do"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: IV hypotonic saline. المحلول منخفض التوتر يُفاقم الوذمة الدماغية، لا يخفض الضغط."
+      "narration": "الخيار A، IV hypotonic saline هو الإجابة الصحيحة. المحلول منخفض التوتر يُفاقم الوذمة الدماغية، لا يخفض الضغط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المحلول منخفض التوتر يُفاقم الوذمة الدماغية، لا يخفض الضغط. وتذكّر القاعدة: Hypotonic saline: Harms by worsening edema, doesn't help ICP. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. المحلول منخفض التوتر يُفاقم الوذمة الدماغية، لا يخفض الضغط. وتذكّر: Hypotonic saline: Harms by worsening edema, doesn't help ICP. والإجابة الصحيحة هي A."
     }
   ]
 }

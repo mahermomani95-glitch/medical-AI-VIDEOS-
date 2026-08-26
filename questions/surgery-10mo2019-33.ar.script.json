@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Incarcerated inguinal hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. أُحيل رجل يبلغ من العمر 70 عامًا إلى عيادتكم يعاني من فتق إربي أيسرمزمن. لم يلاحظ أي تغيرات حديثة في فتقه، وأمعاؤه طبيعية. عند الفحص،لاحظتم فتقًا إربيًا صفنيًا ضخمًا غير قابل للرد تمامًا. التشخيص الأكثراحتمالًا هو: أمامك هذه الخيارات: Strangulated inguinal hernia، أو Incarcerated inguinal hernia، أو Obstructed inguinal hernia، أو Strangulated femoral hernia، أو Incarcerated femoral hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أُحيل رجل يبلغ من العمر 70 عامًا إلى عيادتكم يعاني من فتق إربي أيسرمزمن. لم يلاحظ أي تغيرات حديثة في فتقه، وأمعاؤه طبيعية. عند الفحص،لاحظتم فتقًا إربيًا صفنيًا ضخمًا غير قابل للرد تمامًا. التشخيص الأكثراحتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Strangulated inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia. يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related conditions, distinct from the non-hernial differential diagnosis being asked about for a groin lump. الخيار C، Obstructed inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia. يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related conditions, distinct from the non-hernial differential diagnosis being asked about for a groin lump. الخيار D، Strangulated femoral hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia. يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related conditions, distinct from the non-hernial differential diagnosis being asked about for a groin lump. الخيار E، Incarcerated femoral hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incarcerated inguinal hernia. يصبح صحيحًا في سؤال يصف Strangulated inguinal hernia, obstructed inguinal hernia, strangulated femoral hernia, and incarcerated femoral hernia are hernia-related conditions, distinct from the non-hernial differential diagnosis being asked about for a groin lump.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Strangulated inguinal hernia: الإجابة الصحيحة هي Incarcerated inguinal hernia. الخيار C، Obstructed inguinal hernia: الإجابة الصحيحة هي Incarcerated inguinal hernia. الخيار D، Strangulated femoral hernia: الإجابة الصحيحة هي Incarcerated inguinal hernia. الخيار E، Incarcerated femoral hernia: الإجابة الصحيحة هي Incarcerated inguinal hernia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Irreducible + no symptoms = Incarcerated (not"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Incarcerated inguinal hernia. فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا."
+      "narration": "الخيار B، Incarcerated inguinal hernia هو الإجابة الصحيحة. فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا. وتذكّر القاعدة: \"Irreducible + no symptoms = Incarcerated (not strangulated)\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. فتق عالق (غير قابل للإرجاع بالكامل) لكن دون أعراض انسداد أو ألم أو مرض جهازي هو فتق محبوس — وليس بعد مختنقًا أو منسدًا. وتذكّر: \"Irreducible + no symptoms = Incarcerated (not strangulated)\". والإجابة الصحيحة هي B."
     }
   ]
 }

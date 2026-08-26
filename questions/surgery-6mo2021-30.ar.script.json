@@ -45,7 +45,7 @@
         "label": "Normal weight BMI is 25 - 30",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: BMI is calculated by weight in Kilogram divided by the square of height in meters، أو Obese individuals have a BMI of 30 or more، أو Normal weight BMI is 25 - 30، أو Morbid obesity is a BMI of 40 or more، أو Morbid obesity is defined as either 100lb above ideal body weight or twice ideal body weight. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، BMI is calculated by weight in Kilogram divided by the square of height in meters: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30. الخيار B، Obese individuals have a BMI of 30 or more: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30. الخيار D، Morbid obesity is a BMI of 40 or more: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30. الخيار E، Morbid obesity is defined as either 100lb above ideal body weight or twice ideal body weight: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. BMI calculation (weight/height²), obesity at BMI ≥30, morbid obesity at BMI ≥40, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Normal weight BMI is 25 - 30.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Normal BMI = 18.5-25, Overweight = 25-30\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Normal weight BMI is 25 - 30. مؤشر كتلة الجسم الطبيعي هو 18.5-25، وليس 25-30 — المدى 25-30 يمثل فعليًا \"زيادة الوزن\"، وليس الوزن الطبيعي."
+      "narration": "الخيار C هو الإجابة الصحيحة. مؤشر كتلة الجسم الطبيعي هو 18.5-25، وليس 25-30 — المدى 25-30 يمثل فعليًا \"زيادة الوزن\"، وليس الوزن الطبيعي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مؤشر كتلة الجسم الطبيعي هو 18.5-25، وليس 25-30 — المدى 25-30 يمثل فعليًا \"زيادة الوزن\"، وليس الوزن الطبيعي. وتذكّر القاعدة: \"Normal BMI = 18.5-25, Overweight = 25-30\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. مؤشر كتلة الجسم الطبيعي هو 18.5-25، وليس 25-30 — المدى 25-30 يمثل فعليًا \"زيادة الوزن\"، وليس الوزن الطبيعي. وتذكّر: \"Normal BMI = 18.5-25, Overweight = 25-30\". والإجابة الصحيحة هي C."
     }
   ]
 }

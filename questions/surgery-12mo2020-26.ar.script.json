@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Immediate before surgery"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: One day before surgery، أو One day after surgery، أو Immediate before surgery، أو Immediate after surgery، أو One day before and 3 days after surgery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، One day before surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediate before surgery. يصبح صحيحًا في سؤال يصف One day before surgery allows drug levels to decline before incision. الخيار B، One day after surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediate before surgery. يصبح صحيحًا في سؤال يصف one day after surgery misses the critical incision-time window entirely. الخيار D، Immediate after surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediate before surgery. يصبح صحيحًا في سؤال يصف giving it immediately after surgery is too late for peak tissue levels at incision. الخيار E، One day before and 3 days after surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Immediate before surgery. يصبح صحيحًا في سؤال يصف combining before and after is unnecessarily prolonged for routine prophylaxis — immediately before surgery achieves the correct timing.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، One day before surgery: الإجابة الصحيحة هي Immediate before surgery. الخيار B، One day after surgery: الإجابة الصحيحة هي Immediate before surgery. الخيار D، Immediate after surgery: الإجابة الصحيحة هي Immediate before surgery. الخيار E: الإجابة الصحيحة هي Immediate before surgery. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Prophylactic antibiotics: immediately before "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Immediate before surgery. يجب أن يكون المضاد الحيوي فعالًا وبتركيز نسيجي ذروة عند لحظة الشق تحديدًا — إعطاؤه مباشرة قبل الجراحة يحقق هذا التوقيت."
+      "narration": "الخيار C، Immediate before surgery هو الإجابة الصحيحة. يجب أن يكون المضاد الحيوي فعالًا وبتركيز نسيجي ذروة عند لحظة الشق تحديدًا — إعطاؤه مباشرة قبل الجراحة يحقق هذا التوقيت."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. يجب أن يكون المضاد الحيوي فعالًا وبتركيز نسيجي ذروة عند لحظة الشق تحديدًا — إعطاؤه مباشرة قبل الجراحة يحقق هذا التوقيت. وتذكّر القاعدة: \"Prophylactic antibiotics: immediately before incision\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. يجب أن يكون المضاد الحيوي فعالًا وبتركيز نسيجي ذروة عند لحظة الشق تحديدًا — إعطاؤه مباشرة قبل الجراحة يحقق هذا التوقيت. وتذكّر: \"Prophylactic antibiotics: immediately before incision\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "It's most common primary surgical disease of the…"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يتعلق بمرض كرون صحيح باستثناء؟ أمامك هذه الخيارات: Smoking of tobacco is a risk factor، أو It's most common primary surgical disease of the small bowel، أو It has a genetic predisposition، أو Associated with aphthous ulcer، أو Extensive mesenteric fat wrapping. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يتعلق بمرض كرون صحيح باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Smoking of tobacco is a risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking as a risk factor, genetic predisposition, aphthous ulcer association, and mesenteric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It's most common primary surgical disease of the small bowel. الخيار C، It has a genetic predisposition: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking as a risk factor, genetic predisposition, aphthous ulcer association, and mesenteric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It's most common primary surgical disease of the small bowel. الخيار D، Associated with aphthous ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking as a risk factor, genetic predisposition, aphthous ulcer association, and mesenteric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It's most common primary surgical disease of the small bowel. الخيار E، Extensive mesenteric fat wrapping: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Smoking as a risk factor, genetic predisposition, aphthous ulcer association, and mesenteric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It's most common primary surgical disease of the small bowel.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Associated with aphthous ulcer: صحيحة، لكنها ليست الاستثناء. الخيار E، Extensive mesenteric fat wrapping: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Crohn's: Claim of 'most common surgical' is Co"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: It's most common primary surgical disease of the small bowel. كرون ليس بالضرورة أشيع مرض جراحي أولي للأمعاء الدقيقة كما تُبالغ العبارة."
+      "narration": "الخيار B هو الإجابة الصحيحة. كرون ليس بالضرورة أشيع مرض جراحي أولي للأمعاء الدقيقة كما تُبالغ العبارة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كرون ليس بالضرورة أشيع مرض جراحي أولي للأمعاء الدقيقة كما تُبالغ العبارة. وتذكّر القاعدة: Crohn's: Claim of 'most common surgical' is Contested. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. كرون ليس بالضرورة أشيع مرض جراحي أولي للأمعاء الدقيقة كما تُبالغ العبارة. وتذكّر: Crohn's: Claim of 'most common surgical' is Contested. والإجابة الصحيحة هي B."
     }
   ]
 }

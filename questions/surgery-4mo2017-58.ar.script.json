@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hypokalemia should be corrected"
       },
-      "narration": "لنبدأ بهذا السؤال. في علاج تضيق البواب، أي مما يلي صحيح؟ أمامك هذه الخيارات: Acidosis should be corrected first، أو Chloride level is normal in spite alkalosis، أو Hypokalemia should be corrected، أو Usually there is compensatory hypocarbia، أو Paradoxical aciduria is not a feature. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في علاج تضيق البواب، أي مما يلي صحيح؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acidosis should be corrected first: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected. يصبح صحيحًا في سؤال يصف Acidosis is NOT the primary problem to correct first — alkalosis and volume depletion are. الخيار B، Chloride level is normal in spite alkalosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected. يصبح صحيحًا في سؤال يصف chloride is actually LOW (not normal), reflecting the hypochloremic component. الخيار D، Usually there is compensatory hypocarbia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypocarbia, to compensate for the alkalosis. يصبح صحيحًا في سؤال يصف there is compensatory HYPERcarbia (retaining CO2). الخيار E، Paradoxical aciduria is not a feature: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypokalemia should be corrected. يصبح صحيحًا في سؤال يصف paradoxical aciduria IS a classic feature (kidneys excrete acidic urine despite systemic alkalosis to conserve sodium) — the true statement is that hypokalemia should be corrected as part of management.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Hypokalemia should be corrected. الخيار B: الإجابة الصحيحة هي Hypokalemia should be corrected. الخيار D: المطلوب هنا hypocarbia, to compensate for the alkalosis. الخيار E: الإجابة الصحيحة هي Hypokalemia should be corrected. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pyloric stenosis: Correct hypokalemia before s"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hypokalemia should be corrected. تصحيح نقص البوتاسيوم واجب قبل جراحة تضيق البواب لسلامة التخدير."
+      "narration": "الخيار C، Hypokalemia should be corrected هو الإجابة الصحيحة. تصحيح نقص البوتاسيوم واجب قبل جراحة تضيق البواب لسلامة التخدير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تصحيح نقص البوتاسيوم واجب قبل جراحة تضيق البواب لسلامة التخدير. وتذكّر القاعدة: Pyloric stenosis: Correct hypokalemia before surgery. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. تصحيح نقص البوتاسيوم واجب قبل جراحة تضيق البواب لسلامة التخدير. وتذكّر: Pyloric stenosis: Correct hypokalemia before surgery. والإجابة الصحيحة هي C."
     }
   ]
 }

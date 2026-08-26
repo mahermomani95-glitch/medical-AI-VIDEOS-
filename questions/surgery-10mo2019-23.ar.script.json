@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "NPO, IV fluid, IV antibiotics and drain placement"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 80 عامًا يعاني من ألم في الحفرة الحرقفية اليسرى منذأسبوع. وقد ازداد هذا الألم بشكل ملحوظ خلال اليومين الماضيين، ويصاحبهحمى وتهيج في المسالك البولية. عند الفحص، بدا عليه المرض الشديد، وظهرتعليه علامات التهاب الصفاق فوق فتحة الشرج مع وجود كتلة مؤلمة غيرمحسوسة. الخطوة التالية الأنسب في العلاج للحصول على التشخيص الأكثراحتمالًا هي: أمامك هذه الخيارات: Colonic resection and primary anastomosis.، أو Hartmann procedure، أو NPO, IV fluid, IV antibiotics and drain placement، أو Urgent colonoscopy detortion، أو Radiation and chemotherapy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 80 عامًا يعاني من ألم في الحفرة الحرقفية اليسرى منذأسبوع. وقد ازداد هذا الألم بشكل ملحوظ خلال اليومين الماضيين، ويصاحبهحمى وتهيج في المسالك البولية. عند الفحص، بدا عليه المرض الشديد، وظهرتعليه علامات التهاب الصفاق فوق فتحة الشرج مع وجود كتلة مؤلمة غيرمحسوسة. الخطوة التالية الأنسب في العلاج للحصول على التشخيص الأكثراحتمالًا هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colonic resection and primary anastomosis.: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement. يصبح صحيحًا في سؤال يصف Colonic resection with primary anastomosis is too aggressive for an unstable/high-risk patient. الخيار B، Hartmann procedure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement. يصبح صحيحًا في سؤال يصف Hartmann's procedure is reserved for perforation or failed detorsion. الخيار D، Urgent colonoscopy detortion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement. يصبح صحيحًا في سؤال يصف urgent colonoscopic detorsion IS actually the correct first-line approach here, distinguishing it from more invasive surgical options reserved for complications. الخيار E، Radiation and chemotherapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي NPO, IV fluid, IV antibiotics and drain placement. يصبح صحيحًا في سؤال يصف radiation/chemotherapy is irrelevant to acute volvulus.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B، Hartmann procedure: لا ينطبق على هذه الحالة. الخيار D، Urgent colonoscopy detortion: لا ينطبق على هذه الحالة. الخيار E، Radiation and chemotherapy: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Diverticular abscess = drain first, resect la"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: NPO, IV fluid, IV antibiotics and drain placement. التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا."
+      "narration": "الخيار C هو الإجابة الصحيحة. التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا. وتذكّر القاعدة: \"Diverticular abscess = drain first, resect later\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التهاب الصفاق مع كتلة مجسوسة من انثقاب/خراج رتجي محتمل يعني أن السيطرة على المصدر تأتي أولًا — راحة الأمعاء والسوائل الوريدية والمضادات والتصريف — وليس استئصالًا فوريًا. وتذكّر: \"Diverticular abscess = drain first, resect later\". والإجابة الصحيحة هي C."
     }
   ]
 }

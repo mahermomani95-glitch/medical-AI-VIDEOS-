@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Obstruction"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأعراض التالية ليس عرضًا لورم القولون الأيمن؟ أمامك هذه الخيارات: Melena، أو IDA، أو Abdominal mass، أو Obstruction، أو Anorexia and weight loss. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأعراض التالية ليس عرضًا لورم القولون الأيمن؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Melena: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction. الخيار B، IDA: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction. الخيار C، Abdominal mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction. الخيار E، Anorexia and weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melena, iron deficiency anemia, abdominal mass, and anorexia/weight loss are all classic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Obstruction.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Melena: صحيحة، لكنها ليست الاستثناء. الخيار B، IDA: صحيحة، لكنها ليست الاستثناء. الخيار C، Abdominal mass: صحيحة، لكنها ليست الاستثناء. الخيار E، Anorexia and weight loss: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Right colon tumor: Rarely obstructs early"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Obstruction. الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر."
+      "narration": "الخيار D، Obstruction هو الإجابة الصحيحة. الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر. وتذكّر القاعدة: Right colon tumor: Rarely obstructs early. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الانسداد نادر بورم القولون الأيمن لاتساع تجويفه، بخلاف الأيسر. وتذكّر: Right colon tumor: Rarely obstructs early. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Platelets"
       },
-      "narration": "لنبدأ بهذا السؤال. أقدم نوع من الخلايا شارك في التئام الجروح؟ أمامك هذه الخيارات: PMNS، أو Macrophages، أو Platelets، أو Lymphocytes، أو Fibroblasts. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أقدم نوع من الخلايا شارك في التئام الجروح؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، PMNS: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Platelets. يصبح صحيحًا في سؤال يصف PMNs, macrophages, lymphocytes, and fibroblasts all arrive later in sequence — platelets are actually the earliest cell type involved, arriving within minutes to initiate hemostasis and release growth factors. الخيار B، Macrophages: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Platelets. يصبح صحيحًا في سؤال يصف PMNs, macrophages, lymphocytes, and fibroblasts all arrive later in sequence — platelets are actually the earliest cell type involved, arriving within minutes to initiate hemostasis and release growth factors. الخيار D، Lymphocytes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Platelets. يصبح صحيحًا في سؤال يصف PMNs, macrophages, lymphocytes, and fibroblasts all arrive later in sequence — platelets are actually the earliest cell type involved, arriving within minutes to initiate hemostasis and release growth factors. الخيار E، Fibroblasts: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Platelets. يصبح صحيحًا في سؤال يصف PMNs, macrophages, lymphocytes, and fibroblasts all arrive later in sequence — platelets are actually the earliest cell type involved, arriving within minutes to initiate hemostasis and release growth factors.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، PMNS: الإجابة الصحيحة هي Platelets. الخيار B، Macrophages: الإجابة الصحيحة هي Platelets. الخيار D، Lymphocytes: الإجابة الصحيحة هي Platelets. الخيار E، Fibroblasts: الإجابة الصحيحة هي Platelets. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Wound healing: Platelets arrive first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Platelets. الصفيحات هي أول نوع خلوي يتدخل ببدء عملية التئام الجرح."
+      "narration": "الخيار C، Platelets هو الإجابة الصحيحة. الصفيحات هي أول نوع خلوي يتدخل ببدء عملية التئام الجرح."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصفيحات هي أول نوع خلوي يتدخل ببدء عملية التئام الجرح. وتذكّر القاعدة: Wound healing: Platelets arrive first. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الصفيحات هي أول نوع خلوي يتدخل ببدء عملية التئام الجرح. وتذكّر: Wound healing: Platelets arrive first. والإجابة الصحيحة هي C."
     }
   ]
 }

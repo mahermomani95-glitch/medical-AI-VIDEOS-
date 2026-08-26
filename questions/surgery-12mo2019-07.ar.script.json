@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "The diagnosis is not common at this age"
       },
-      "narration": "لنبدأ بهذا السؤال. نُقل طفل عمره 18 شهرًا إلى قسم الطوارئ بسبب ألم في البطن مصحوبببراز يشبه هلام الكشمش. أي من العبارات التالية المتعلقة بالتشخيص الأكثراحتمالًا خاطئة؟ أمامك هذه الخيارات: The diagnosis is not common at this age، أو The most likely diagnosis is intussusception، أو Target sign could be seen on ultrasound، أو Meckel's diverticulum can be a cause in older children، أو Air or saline enema could be used for treatment. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. نُقل طفل عمره 18 شهرًا إلى قسم الطوارئ بسبب ألم في البطن مصحوبببراز يشبه هلام الكشمش. أي من العبارات التالية المتعلقة بالتشخيص الأكثراحتمالًا خاطئة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، The most likely diagnosis is intussusception: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intussusception as the likely diagnosis, target sign on ultrasound, Meckel's diverticulum as a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The diagnosis is not common at this age. الخيار C، Target sign could be seen on ultrasound: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intussusception as the likely diagnosis, target sign on ultrasound, Meckel's diverticulum as a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The diagnosis is not common at this age. الخيار D، Meckel's diverticulum can be a cause in older children: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intussusception as the likely diagnosis, target sign on ultrasound, Meckel's diverticulum as a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The diagnosis is not common at this age. الخيار E، Air or saline enema could be used for treatment: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Intussusception as the likely diagnosis, target sign on ultrasound, Meckel's diverticulum as a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The diagnosis is not common at this age.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"18 months = peak intussusception age, very co"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: The diagnosis is not common at this age. عمر 18 شهرًا يقع تمامًا ضمن الذروة العمرية الكلاسيكية للانغلاف المعوي (6-18 شهرًا) — هذا التشخيص شائع جدًا بهذا العمر، وليس نادرًا."
+      "narration": "الخيار A هو الإجابة الصحيحة. عمر 18 شهرًا يقع تمامًا ضمن الذروة العمرية الكلاسيكية للانغلاف المعوي (6-18 شهرًا) — هذا التشخيص شائع جدًا بهذا العمر، وليس نادرًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عمر 18 شهرًا يقع تمامًا ضمن الذروة العمرية الكلاسيكية للانغلاف المعوي (6-18 شهرًا) — هذا التشخيص شائع جدًا بهذا العمر، وليس نادرًا. وتذكّر القاعدة: \"18 months = peak intussusception age, very common\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. عمر 18 شهرًا يقع تمامًا ضمن الذروة العمرية الكلاسيكية للانغلاف المعوي (6-18 شهرًا) — هذا التشخيص شائع جدًا بهذا العمر، وليس نادرًا. وتذكّر: \"18 months = peak intussusception age, very common\". والإجابة الصحيحة هي A."
     }
   ]
 }

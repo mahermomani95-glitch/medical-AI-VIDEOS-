@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Increased Calcium"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية غير صحيح فيما يتعلق بفرط نشاط الغدة جار الدرقيةالثانوي أمامك هذه الخيارات: Increased Calcium، أو Normal/ ⬆Phosphorus، أو ⬆Alkaline phosphatase، أو ⬆Parathyroid hormone، أو Bone pain and increased risk of fractures. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية غير صحيح فيما يتعلق بفرط نشاط الغدة جار الدرقيةالثانوي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Normal/ ⬆Phosphorus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Normal/increased phosphorus, increased alkaline phosphatase, increased PTH, and bone pain with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased Calcium. الخيار C، ⬆Alkaline phosphatase: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Normal/increased phosphorus, increased alkaline phosphatase, increased PTH, and bone pain with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased Calcium. الخيار D، ⬆Parathyroid hormone: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Normal/increased phosphorus, increased alkaline phosphatase, increased PTH, and bone pain with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased Calcium. الخيار E، Bone pain and increased risk of fractures: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Normal/increased phosphorus, increased alkaline phosphatase, increased PTH, and bone pain with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased Calcium.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Normal/ ⬆Phosphorus: صحيحة، لكنها ليست الاستثناء. الخيار C، ⬆Alkaline phosphatase: صحيحة، لكنها ليست الاستثناء. الخيار D، ⬆Parathyroid hormone: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Secondary HPT = Low calcium (compensatory), n"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Increased Calcium. فرط نشاط جارات الدرقية الثانوي (غالبًا من القصور الكلوي المزمن) يترافق بكالسيوم منخفض أو طبيعي، وليس مرتفعًا — الغدد الجار درقية تعمل بجهد إضافي لتعويض هذا الكالسيوم المنخفض."
+      "narration": "الخيار A، Increased Calcium هو الإجابة الصحيحة. فرط نشاط جارات الدرقية الثانوي (غالبًا من القصور الكلوي المزمن) يترافق بكالسيوم منخفض أو طبيعي، وليس مرتفعًا — الغدد الجار درقية تعمل بجهد إضافي لتعويض هذا الكالسيوم المنخفض."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرط نشاط جارات الدرقية الثانوي (غالبًا من القصور الكلوي المزمن) يترافق بكالسيوم منخفض أو طبيعي، وليس مرتفعًا — الغدد الجار درقية تعمل بجهد إضافي لتعويض هذا الكالسيوم المنخفض. وتذكّر القاعدة: \"Secondary HPT = Low calcium (compensatory), not high\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. فرط نشاط جارات الدرقية الثانوي (غالبًا من القصور الكلوي المزمن) يترافق بكالسيوم منخفض أو طبيعي، وليس مرتفعًا — الغدد الجار درقية تعمل بجهد إضافي لتعويض هذا الكالسيوم المنخفض. وتذكّر: \"Secondary HPT = Low calcium (compensatory), not high\". والإجابة الصحيحة هي A."
     }
   ]
 }

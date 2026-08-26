@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Fe Na< 1"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي يدعم تشخيص نقص حجم الدم؟ أمامك هذه الخيارات: Urine sodium 28 mea/L، أو Urine chloride 15 meq/L، أو Fe Na< 1، أو Urine / serum creatinine ratio of 20، أو Urine Osmolarity of 350 mosm/ Kg. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي يدعم تشخيص نقص حجم الدم؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Urine sodium 28 mea/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fe Na< 1. يصبح صحيحًا في سؤال يصف Urine sodium of 28 and urine chloride of 15 are somewhat ambiguous alone. الخيار B، Urine chloride 15 meq/L: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fe Na< 1. يصبح صحيحًا في سؤال يصف Urine sodium of 28 and urine chloride of 15 are somewhat ambiguous alone. الخيار D، Urine / serum creatinine ratio of 20: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fe Na< 1. يصبح صحيحًا في سؤال يصف a creatinine ratio of 20 is lower than the typically cited prerenal threshold (often >40). الخيار E، Urine Osmolarity of 350 mosm/ Kg: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا classic — a FeNa under 1% is the most specific and reliable indicator supporting prerenal hypovolemia. يصبح صحيحًا في سؤال يصف urine osmolality of 350 is only moderately concentrated.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Urine sodium 28 mea/L: الإجابة الصحيحة هي Fe Na< 1. الخيار B، Urine chloride 15 meq/L: الإجابة الصحيحة هي Fe Na< 1. الخيار D: الإجابة الصحيحة هي Fe Na< 1. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hypovolemia: FeNa Falls under one percent"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Fe Na< 1. كسر طرح صوديوم أقل من 1٪ يدعم تشخيص نقص حجم الدم الحقيقي."
+      "narration": "الخيار C، Fe Na< 1 هو الإجابة الصحيحة. كسر طرح صوديوم أقل من 1٪ يدعم تشخيص نقص حجم الدم الحقيقي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كسر طرح صوديوم أقل من 1٪ يدعم تشخيص نقص حجم الدم الحقيقي. وتذكّر القاعدة: Hypovolemia: FeNa Falls under one percent. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. كسر طرح صوديوم أقل من 1٪ يدعم تشخيص نقص حجم الدم الحقيقي. وتذكّر: Hypovolemia: FeNa Falls under one percent. والإجابة الصحيحة هي C."
     }
   ]
 }

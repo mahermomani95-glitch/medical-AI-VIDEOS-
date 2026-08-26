@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "The risk of cancer related to disease duration"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بالتهاب القولون التقرحي وسرطان القولون؟ أمامك هذه الخيارات: The risk of cancer unrelated to the extent of inflammation، أو The malignancy typically develops in a polyp، أو The risk of cancer related to disease duration، أو Random endoscopy and biopsies ineffective، أو CEA level are useful Guid_ when to perform a colonoscopy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بالتهاب القولون التقرحي وسرطان القولون؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The risk of cancer unrelated to the extent of inflammation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف The risk of cancer actually IS related to the extent of inflammation. الخيار B، The malignancy typically develops in a polyp: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a discrete polyp. يصبح صحيحًا في سؤال يصف malignancy in UC typically develops from flat dysplasia. الخيار D، Random endoscopy and biopsies ineffective: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف random biopsies during surveillance ARE effective and standard practice. الخيار E، CEA level are useful Guid_ when to perform a colonoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي The risk of cancer related to disease duration. يصبح صحيحًا في سؤال يصف CEA is not a reliable guide for colonoscopy timing — the true statement is that cancer risk correlates with disease duration.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: المطلوب هنا a discrete polyp. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "UC cancer risk: Determined by Duration"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: The risk of cancer related to disease duration. خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية."
+      "narration": "الخيار C هو الإجابة الصحيحة. خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية. وتذكّر القاعدة: UC cancer risk: Determined by Duration. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. خطر السرطنة بالتهاب القولون التقرحي يرتبط بمدة الإصابة التراكمية. وتذكّر: UC cancer risk: Determined by Duration. والإجابة الصحيحة هي C."
     }
   ]
 }

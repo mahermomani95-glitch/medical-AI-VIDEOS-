@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Begin intravenous fluid resuscitation and oxygen…"
       },
-      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 56 عامًا تعاني من ألم شديد في أعلى البطنمرتبط بالظهر، مصحوبًا بغثيان وقيء، وكان مستوى الليباز في مصل الدملديها 6300 وحدة دولية/لتر. أُعطيت المريضة مسكنًا وريديًا. ما هي أفضلوأهم خطوة تالية في العلاج؟ أمامك هذه الخيارات: Begin intravenous fluid resuscitation and oxygen supplement، أو Begin prophylactic antibiotics to minimize the risk of pancreatic infection، أو Change her diet to clear liquids by mouth only، أو Obtain a contrast enhanced CT scan of the abdomen، أو Obtain a right upper quadrant ultrasound. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 56 عامًا تعاني من ألم شديد في أعلى البطنمرتبط بالظهر، مصحوبًا بغثيان وقيء، وكان مستوى الليباز في مصل الدملديها 6300 وحدة دولية/لتر. أُعطيت المريضة مسكنًا وريديًا. ما هي أفضلوأهم خطوة تالية في العلاج؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Begin prophylactic antibiotics to minimize the risk of pancreatic infection: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routinely recommended without evidence of infection in early acute pancreatitis. يصبح صحيحًا في سؤال يصف Prophylactic antibiotics. الخيار C، Change her diet to clear liquids by mouth only: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Begin intravenous fluid resuscitation and oxygen supplement. يصبح صحيحًا في سؤال يصف clear liquids only is outdated compared to modern early-feeding approaches when tolerated. الخيار D، Obtain a contrast enhanced CT scan of the abdomen: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the FIRST priority — aggressive IV fluid resuscitation and oxygen supplementation remain the essential initial management step. يصبح صحيحًا في سؤال يصف a contrast CT and RUQ ultrasound are useful diagnostic tools but. الخيار E، Obtain a right upper quadrant ultrasound: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the FIRST priority — aggressive IV fluid resuscitation and oxygen supplementation remain the essential initial management step. يصبح صحيحًا في سؤال يصف a contrast CT and RUQ ultrasound are useful diagnostic tools but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Severe epigastric pain: Fluids and Oxygen firs"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Begin intravenous fluid resuscitation and oxygen supplement. الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد."
+      "narration": "الخيار A هو الإجابة الصحيحة. الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد. وتذكّر القاعدة: Severe epigastric pain: Fluids and Oxygen first. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الإنعاش بالسوائل والأكسجين يسبق أي فحص تشخيصي بألم البطن العلوي الشديد. وتذكّر: Severe epigastric pain: Fluids and Oxygen first. والإجابة الصحيحة هي A."
     }
   ]
 }

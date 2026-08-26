@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Alvardo score is not routinely calculated for the…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالتهاب الزائدة الدودية صحيحة باستثناء؟ أمامك هذه الخيارات: Mcburney point corresponds to the location of the base of appendix، أو Psoas sign is elicited by extension of the right hip، أو Laparoscopy is one of the diagnostic methods، أو Rovsing sign is elicited by pressing in the left iliac fossa causing pain in the right iliac fossa، أو Alvardo score is not routinely calculated for the diagnosis of appendicitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالتهاب الزائدة الدودية صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Mcburney point corresponds to the location of the base of appendix: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. McBurney's point corresponding to the appendix base, laparoscopy as a diagnostic tool, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvardo score is not routinely calculated for the diagnosis of appendicitis. الخيار B، Psoas sign is elicited by extension of the right hip: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The psoas sign is correctly elicited by hip extension causing pain, which is itself a true… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvardo score is not routinely calculated for the diagnosis of appendicitis. الخيار C، Laparoscopy is one of the diagnostic methods: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. McBurney's point corresponding to the appendix base, laparoscopy as a diagnostic tool, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvardo score is not routinely calculated for the diagnosis of appendicitis. الخيار D، Rovsing sign is elicited by pressing in the left iliac fossa causing pain in the right iliac fossa: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. McBurney's point corresponding to the appendix base, laparoscopy as a diagnostic tool, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Alvardo score is not routinely calculated for the diagnosis of appendicitis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Alvarado score: Actually used routinely"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Alvardo score is not routinely calculated for the diagnosis of appendicitis. مقياس ألفارادو يُستخدم فعليًا بشكل روتيني بتقييم التهاب الزائدة."
+      "narration": "الخيار E هو الإجابة الصحيحة. مقياس ألفارادو يُستخدم فعليًا بشكل روتيني بتقييم التهاب الزائدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مقياس ألفارادو يُستخدم فعليًا بشكل روتيني بتقييم التهاب الزائدة. وتذكّر القاعدة: Alvarado score: Actually used routinely. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. مقياس ألفارادو يُستخدم فعليًا بشكل روتيني بتقييم التهاب الزائدة. وتذكّر: Alvarado score: Actually used routinely. والإجابة الصحيحة هي E."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Vitamin B12"
       },
-      "narration": "لنبدأ بهذا السؤال. العامل الداخلي للمعدة يرتبط بـ أمامك هذه الخيارات: Fe، أو Cu، أو Vitamin B12، أو Folate، أو Vitamin K. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العامل الداخلي للمعدة يرتبط بـ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fe: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vitamin B12. يصبح صحيحًا في سؤال يصف Iron, copper, folate, and vitamin K are absorbed at other sites (duodenum for iron/copper, jejunum for folate, throughout the small intestine with bile-dependent absorption for vitamin K) and don't require intrinsic factor for their absorption. الخيار B، Cu: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vitamin B12. يصبح صحيحًا في سؤال يصف Iron, copper, folate, and vitamin K are absorbed at other sites (duodenum for iron/copper, jejunum for folate, throughout the small intestine with bile-dependent absorption for vitamin K) and don't require intrinsic factor for their absorption. الخيار D، Folate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vitamin B12. يصبح صحيحًا في سؤال يصف Iron, copper, folate, and vitamin K are absorbed at other sites (duodenum for iron/copper, jejunum for folate, throughout the small intestine with bile-dependent absorption for vitamin K) and don't require intrinsic factor for their absorption. الخيار E، Vitamin K: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vitamin B12. يصبح صحيحًا في سؤال يصف Iron, copper, folate, and vitamin K are absorbed at other sites (duodenum for iron/copper, jejunum for folate, throughout the small intestine with bile-dependent absorption for vitamin K) and don't require intrinsic factor for their absorption.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Fe: الإجابة الصحيحة هي Vitamin B12. الخيار B، Cu: الإجابة الصحيحة هي Vitamin B12. الخيار D، Folate: الإجابة الصحيحة هي Vitamin B12. الخيار E، Vitamin K: الإجابة الصحيحة هي Vitamin B12. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Intrinsic + B12 = inseparable\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Vitamin B12. العامل الداخلي هو ‘المرافق الشخصي' لفيتامين B12 عبر اللفائفي النهائي حتى يُمتص."
+      "narration": "الخيار C، Vitamin B12 هو الإجابة الصحيحة. العامل الداخلي هو ‘المرافق الشخصي' لفيتامين B12 عبر اللفائفي النهائي حتى يُمتص."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العامل الداخلي هو ‘المرافق الشخصي' لفيتامين B12 عبر اللفائفي النهائي حتى يُمتص. وتذكّر القاعدة: \"Intrinsic + B12 = inseparable\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. العامل الداخلي هو ‘المرافق الشخصي' لفيتامين B12 عبر اللفائفي النهائي حتى يُمتص. وتذكّر: \"Intrinsic + B12 = inseparable\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Acute exacerbation in a patient with a known case…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital، أو Follow up in a patient with colon cancer after resection، أو Patient with suspected colonic polyps، أو Follow up in a known case of chronic ulcerative colitis، أو Evaluate patients with gastrointestinal symptoms that other investigations fail to find the cause. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Follow up in a patient with colon cancer after resection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. الخيار C، Patient with suspected colonic polyps: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. الخيار D، Follow up in a known case of chronic ulcerative colitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. الخيار E، Evaluate patients with gastrointestinal symptoms that other investigations fail to find the cause: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Follow-up after colon cancer resection, suspected colonic polyps, known ulcerative colitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Acute severe UC flare = Colonoscopy contraind"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Acute exacerbation in a patient with a known case of ulcerative colitis admitted to the hospital. التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد."
+      "narration": "الخيار A هو الإجابة الصحيحة. التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد. وتذكّر القاعدة: \"Acute severe UC flare = Colonoscopy contraindicated (perforation risk)\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التنظير القولوني أثناء نوبة حادة شديدة من التهاب القولون التقرحي يخاطر بثقب قولون هش ملتهب بشدة — مضاد استطباب أثناء المرض النشط الشديد. وتذكّر: \"Acute severe UC flare = Colonoscopy contraindicated (perforation risk)\". والإجابة الصحيحة هي A."
     }
   ]
 }

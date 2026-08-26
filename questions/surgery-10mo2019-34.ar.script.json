@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Cushing ulcer"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل مضاعفات الحروق الكهربائية عالية الجهد كل ما يلي باستثناء: أمامك هذه الخيارات: Peripheral nerve injury، أو Cardiac arrest، أو High serum creatine phosphokinase (CPK)، أو Cushing ulcer، أو Compartment syndrome. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل مضاعفات الحروق الكهربائية عالية الجهد كل ما يلي باستثناء: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peripheral nerve injury: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing ulcer. الخيار B، Cardiac arrest: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing ulcer. الخيار C، High serum creatine phosphokinase (CPK): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing ulcer. الخيار E، Compartment syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Peripheral nerve injury, cardiac arrest, high CPK (from muscle damage), and compartment… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cushing ulcer.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Peripheral nerve injury: صحيحة، لكنها ليست الاستثناء. الخيار B، Cardiac arrest: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E، Compartment syndrome: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Cushing ulcer = intracranial stress, not elec"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Cushing ulcer. قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي."
+      "narration": "الخيار D، Cushing ulcer هو الإجابة الصحيحة. قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي. وتذكّر القاعدة: \"Cushing ulcer = intracranial stress, not electrical burn pathway\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. قرحة كوشينغ مرتبطة بأمراض داخل الجمجمة وفيزيولوجيا الشدة النفسية، وليست بمسار الأذية النسيجية/العضلية المباشرة للحرق الكهربائي. وتذكّر: \"Cushing ulcer = intracranial stress, not electrical burn pathway\". والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Indirect hernia is within the Hesselbach triangle"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Indirect hernia is within the Hesselbach triangle، أو Usually on the right side، أو More common in males than females، أو Can be complicated by intestinal obstruction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Usually on the right side: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, higher incidence in males, and potential complication by intestinal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Indirect hernia is within the Hesselbach triangle. الخيار C، More common in males than females: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, higher incidence in males, and potential complication by intestinal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Indirect hernia is within the Hesselbach triangle. الخيار D، Can be complicated by intestinal obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided predominance, higher incidence in males, and potential complication by intestinal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Indirect hernia is within the Hesselbach triangle.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Direct hernia = WITHIN Hesselbach's triangle,"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Indirect hernia is within the Hesselbach triangle. الفتق غير المباشر يمر وحشيًا لمثلث هيسلباخ (عبر الحلقة العميقة) — الفتق المباشر هو الذي ينشأ داخل مثلث هيسلباخ نفسه."
+      "narration": "الخيار A هو الإجابة الصحيحة. الفتق غير المباشر يمر وحشيًا لمثلث هيسلباخ (عبر الحلقة العميقة) — الفتق المباشر هو الذي ينشأ داخل مثلث هيسلباخ نفسه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفتق غير المباشر يمر وحشيًا لمثلث هيسلباخ (عبر الحلقة العميقة) — الفتق المباشر هو الذي ينشأ داخل مثلث هيسلباخ نفسه. وتذكّر القاعدة: \"Direct hernia = WITHIN Hesselbach's triangle, Indirect = lateral to it\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الفتق غير المباشر يمر وحشيًا لمثلث هيسلباخ (عبر الحلقة العميقة) — الفتق المباشر هو الذي ينشأ داخل مثلث هيسلباخ نفسه. والإجابة الصحيحة هي A."
     }
   ]
 }

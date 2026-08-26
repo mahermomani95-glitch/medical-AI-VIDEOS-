@@ -45,7 +45,7 @@
         "label": "Hypercalcemia",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Febrile reaction، أو Hyperkalemia، أو Hypercalcemia، أو Hypocalcemia، أو Hypothermia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Febrile reaction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار B، Hyperkalemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار D، Hypocalcemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia. الخيار E، Hypothermia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Febrile reaction, hyperkalemia, hypocalcemia, and hypothermia are all recognized complications… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypercalcemia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Febrile reaction: صحيحة، لكنها ليست الاستثناء. الخيار B، Hyperkalemia: صحيحة، لكنها ليست الاستثناء. الخيار D، Hypocalcemia: صحيحة، لكنها ليست الاستثناء. الخيار E، Hypothermia: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Citrate binds calcium = Hypocalcemia, not hyp"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hypercalcemia. نقل الدم الضخم يسبب نقص كالسيوم (السيترات في الدم المحفوظ يرتبط بالكالسيوم)، وليس فرط كالسيوم — نقطة خلط شائعة."
+      "narration": "الخيار C، Hypercalcemia هو الإجابة الصحيحة. نقل الدم الضخم يسبب نقص كالسيوم (السيترات في الدم المحفوظ يرتبط بالكالسيوم)، وليس فرط كالسيوم — نقطة خلط شائعة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقل الدم الضخم يسبب نقص كالسيوم (السيترات في الدم المحفوظ يرتبط بالكالسيوم)، وليس فرط كالسيوم — نقطة خلط شائعة. وتذكّر القاعدة: \"Citrate binds calcium = Hypocalcemia, not hyper\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. نقل الدم الضخم يسبب نقص كالسيوم (السيترات في الدم المحفوظ يرتبط بالكالسيوم)، وليس فرط كالسيوم — نقطة خلط شائعة. وتذكّر: \"Citrate binds calcium = Hypocalcemia, not hyper\". والإجابة الصحيحة هي C."
     }
   ]
 }

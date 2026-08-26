@@ -45,7 +45,7 @@
         "label": "Radiation therapy is the treatment of choice",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بسرطان الشفة باستثناء؟ أمامك هذه الخيارات: 95% of lip carcinoma in the lower lip، أو Sun exposure and smoking are risk factors، أو More common in elderly white men، أو Radiation therapy is the treatment of choice، أو The majority presents as an ulcerative lesion. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها صحيحة فيما يتعلق بسرطان الشفة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، 95% of lip carcinoma in the lower lip: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lower lip predominance, sun/smoking as risk factors, elderly white men predominance, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Radiation therapy is the treatment of choice. الخيار B، Sun exposure and smoking are risk factors: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lower lip predominance, sun/smoking as risk factors, elderly white men predominance, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Radiation therapy is the treatment of choice. الخيار C، More common in elderly white men: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lower lip predominance, sun/smoking as risk factors, elderly white men predominance, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Radiation therapy is the treatment of choice. الخيار E، The majority presents as an ulcerative lesion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The lower lip predominance, sun/smoking as risk factors, elderly white men predominance, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Radiation therapy is the treatment of choice.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Lip carcinoma: Surgery is the Standard choice"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Radiation therapy is the treatment of choice. الاستئصال الجراحي، لا الإشعاع، هو علاج الاختيار الأول لسرطان الشفة."
+      "narration": "الخيار D هو الإجابة الصحيحة. الاستئصال الجراحي، لا الإشعاع، هو علاج الاختيار الأول لسرطان الشفة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الاستئصال الجراحي، لا الإشعاع، هو علاج الاختيار الأول لسرطان الشفة. وتذكّر القاعدة: Lip carcinoma: Surgery is the Standard choice. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الاستئصال الجراحي، لا الإشعاع، هو علاج الاختيار الأول لسرطان الشفة. وتذكّر: Lip carcinoma: Surgery is the Standard choice. والإجابة الصحيحة هي D."
     }
   ]
 }

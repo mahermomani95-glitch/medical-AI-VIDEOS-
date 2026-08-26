@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Bleeding per rectum"
       },
-      "narration": "لنبدأ بهذا السؤال. الأعراض الأكثر شيوعا لسرطان المستقيم هي؟ أمامك هذه الخيارات: Bleeding per rectum، أو Weight loss، أو Pain per rectum، أو Change bowel habits، أو Constipation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الأعراض الأكثر شيوعا لسرطان المستقيم هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Weight loss: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding per rectum. يصبح صحيحًا في سؤال يصف Weight loss, pain per rectum, change in bowel habits, and constipation can all occur with rectal cancer, but bleeding per rectum remains the most common presenting symptom. الخيار C، Pain per rectum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding per rectum. يصبح صحيحًا في سؤال يصف Weight loss, pain per rectum, change in bowel habits, and constipation can all occur with rectal cancer, but bleeding per rectum remains the most common presenting symptom. الخيار D، Change bowel habits: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding per rectum. يصبح صحيحًا في سؤال يصف Weight loss, pain per rectum, change in bowel habits, and constipation can all occur with rectal cancer, but bleeding per rectum remains the most common presenting symptom. الخيار E، Constipation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bleeding per rectum. يصبح صحيحًا في سؤال يصف Weight loss, pain per rectum, change in bowel habits, and constipation can all occur with rectal cancer, but bleeding per rectum remains the most common presenting symptom.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Weight loss: الإجابة الصحيحة هي Bleeding per rectum. الخيار C، Pain per rectum: الإجابة الصحيحة هي Bleeding per rectum. الخيار D، Change bowel habits: الإجابة الصحيحة هي Bleeding per rectum. الخيار E، Constipation: الإجابة الصحيحة هي Bleeding per rectum. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Rectal cancer: mostly presents with Bleeding"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Bleeding per rectum. النزف عبر المستقيم هو العرض الأشيع لسرطان المستقيم."
+      "narration": "الخيار A، Bleeding per rectum هو الإجابة الصحيحة. النزف عبر المستقيم هو العرض الأشيع لسرطان المستقيم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النزف عبر المستقيم هو العرض الأشيع لسرطان المستقيم. وتذكّر القاعدة: Rectal cancer: mostly presents with Bleeding. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. النزف عبر المستقيم هو العرض الأشيع لسرطان المستقيم. وتذكّر: Rectal cancer: mostly presents with Bleeding. والإجابة الصحيحة هي A."
     }
   ]
 }

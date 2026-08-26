@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "oral contraceptive usage"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الخلايا الكبدية باستثناء؟ أمامك هذه الخيارات: hemochromatosis، أو alpha-1 antitrypsin deficiency، أو hepatitis B infection، أو hepatitis C infection، أو oral contraceptive usage. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الخلايا الكبدية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، hemochromatosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage. الخيار B، alpha-1 antitrypsin deficiency: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage. الخيار C، hepatitis B infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage. الخيار D، hepatitis C infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemochromatosis, alpha-1 antitrypsin deficiency, hepatitis B, and hepatitis C are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو oral contraceptive usage.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، hemochromatosis: صحيحة، لكنها ليست الاستثناء. الخيار B، alpha-1 antitrypsin deficiency: صحيحة، لكنها ليست الاستثناء. الخيار C، hepatitis B infection: صحيحة، لكنها ليست الاستثناء. الخيار D، hepatitis C infection: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "OCP: linked to hepatic Adenoma, not HCC"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: oral contraceptive usage. موانع الحمل الفموية ترتبط بالورم الغدي الحميد، لا السرطانة الكبدية."
+      "narration": "الخيار E، oral contraceptive usage هو الإجابة الصحيحة. موانع الحمل الفموية ترتبط بالورم الغدي الحميد، لا السرطانة الكبدية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. موانع الحمل الفموية ترتبط بالورم الغدي الحميد، لا السرطانة الكبدية. وتذكّر القاعدة: OCP: linked to hepatic Adenoma, not HCC. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. موانع الحمل الفموية ترتبط بالورم الغدي الحميد، لا السرطانة الكبدية. وتذكّر: OCP: linked to hepatic Adenoma, not HCC. والإجابة الصحيحة هي E."
     }
   ]
 }

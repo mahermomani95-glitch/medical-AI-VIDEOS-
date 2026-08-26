@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Atypical ductal hyperplasia"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Cysts، أو Fat necrosis، أو Intraductal papilloma، أو Fibroadenoma، أو Atypical ductal hyperplasia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cysts: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atypical ductal hyperplasia. يصبح صحيحًا في سؤال يصف Cysts, fat necrosis, and intraductal papilloma are all benign breast conditions, but fibroadenoma specifically matches the biphasic tumor description with both stromal and epithelial proliferation. الخيار B، Fat necrosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atypical ductal hyperplasia. يصبح صحيحًا في سؤال يصف Cysts, fat necrosis, and intraductal papilloma are all benign breast conditions, but fibroadenoma specifically matches the biphasic tumor description with both stromal and epithelial proliferation. الخيار C، Intraductal papilloma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atypical ductal hyperplasia. يصبح صحيحًا في سؤال يصف Cysts, fat necrosis, and intraductal papilloma are all benign breast conditions, but fibroadenoma specifically matches the biphasic tumor description with both stromal and epithelial proliferation. الخيار D، Fibroadenoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Atypical ductal hyperplasia. يصبح صحيحًا في سؤال يستهدف Fibroadenoma تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Cysts: الإجابة الصحيحة هي Atypical ductal hyperplasia. الخيار B، Fat necrosis: الإجابة الصحيحة هي Atypical ductal hyperplasia. الخيار C، Intraductal papilloma: الإجابة الصحيحة هي Atypical ductal hyperplasia. الخيار D، Fibroadenoma: الإجابة الصحيحة هي Atypical ductal hyperplasia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Atypical hyperplasia = Atypical cells = prema"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Atypical ductal hyperplasia. فرط التنسج القنوي اللانمطي يحتوي خلايا غير نمطية حقيقية — خطوة سابقة للتسرطن فعلية، بعكس باقي الآفات الحميدة المذكورة."
+      "narration": "الخيار E، Atypical ductal hyperplasia هو الإجابة الصحيحة. فرط التنسج القنوي اللانمطي يحتوي خلايا غير نمطية حقيقية — خطوة سابقة للتسرطن فعلية، بعكس باقي الآفات الحميدة المذكورة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرط التنسج القنوي اللانمطي يحتوي خلايا غير نمطية حقيقية — خطوة سابقة للتسرطن فعلية، بعكس باقي الآفات الحميدة المذكورة. وتذكّر القاعدة: \"Atypical hyperplasia = Atypical cells = premalignant\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. فرط التنسج القنوي اللانمطي يحتوي خلايا غير نمطية حقيقية — خطوة سابقة للتسرطن فعلية، بعكس باقي الآفات الحميدة المذكورة. وتذكّر: \"Atypical hyperplasia = Atypical cells = premalignant\". والإجابة الصحيحة هي E."
     }
   ]
 }

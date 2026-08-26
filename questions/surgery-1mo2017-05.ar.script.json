@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Follicular thyroid cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع سرطانات الغدة الدرقية التالية تنتشر عن طريق الليمف باستثناء؟ أمامك هذه الخيارات: Follicular thyroid cancer، أو Papillary thyroid cancer، أو Anaplastic thyroid cancer، أو Medullary Thyroid Cancer، أو Hürthle cell cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع سرطانات الغدة الدرقية التالية تنتشر عن طريق الليمف باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Papillary thyroid cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer. الخيار C، Anaplastic thyroid cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. medullary cancer also spreads via lymphatics — anaplastic thyroid cancer is unique in that it… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer. الخيار D، Medullary Thyroid Cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. medullary cancer also spreads via lymphatics — anaplastic thyroid cancer is unique in that it… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer. الخيار E، Hürthle cell cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Papillary thyroid cancer and follicular/Hürthle cell cancers spread via lymphatics or… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Follicular thyroid cancer.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Papillary thyroid cancer: صحيحة، لكنها ليست الاستثناء. الخيار C، Anaplastic thyroid cancer: صحيحة، لكنها ليست الاستثناء. الخيار D، Medullary Thyroid Cancer: صحيحة، لكنها ليست الاستثناء. الخيار E، Hürthle cell cancer: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Follicular cancer: spreads via Flow of blood, "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Follicular thyroid cancer. السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية."
+      "narration": "الخيار A، Follicular thyroid cancer هو الإجابة الصحيحة. السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية. وتذكّر القاعدة: Follicular cancer: spreads via Flow of blood, not lymph. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. السرطانة الجريبية تنتشر دمويًا لا لمفاويًا، بخلاف الحليمية. وتذكّر: Follicular cancer: spreads via Flow of blood, not lymph. والإجابة الصحيحة هي A."
     }
   ]
 }

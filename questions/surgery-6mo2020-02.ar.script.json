@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Drainage"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Hot application، أو Bed rest، أو Drainage، أو Antibiotics، أو Observation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hot application: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation. الخيار B، Bed rest: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation. الخيار D، Antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف antibiotics alone can't adequately penetrate an abscess cavity — drainage remains essential. الخيار E، Observation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Hot application, bed rest, and observation alone don't address the underlying infection needing surgical evacuation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hot application: الإجابة الصحيحة هي Drainage. الخيار B، Bed rest: الإجابة الصحيحة هي Drainage. الخيار D، Antibiotics: الإجابة الصحيحة هي Drainage. الخيار E، Observation: الإجابة الصحيحة هي Drainage. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Abscess = Drain it, don't just treat it with "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Drainage. الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه."
+      "narration": "الخيار C، Drainage هو الإجابة الصحيحة. الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه. وتذكّر القاعدة: \"Abscess = Drain it, don't just treat it with antibiotics\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الخراج جيب صديد يحتاج فتحًا وتصريفًا — المضادات الحيوية وحدها لا تصل إليه. وتذكّر: \"Abscess = Drain it, don't just treat it with antibiotics\". والإجابة الصحيحة هي C."
     }
   ]
 }

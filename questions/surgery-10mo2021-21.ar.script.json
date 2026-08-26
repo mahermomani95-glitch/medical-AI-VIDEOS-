@@ -45,7 +45,7 @@
         "label": "Higher risk patients are intubated and extubated outside theatre",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. وفقًا لتوجيهات جراحة عامة بين الكليات بخصوص كوفيد-19 داخل غرفة العمليات، أي مما يلي خاطئ: أمامك هذه الخيارات: Minimum number of staff، أو Appropriate personal protective equipment for all staff، أو Smoke evacuation for diathermy، أو Avoid positive pressure ventilation، أو Higher risk patients are intubated and extubated outside theatre. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. وفقًا لتوجيهات جراحة عامة بين الكليات بخصوص كوفيد-19 داخل غرفة العمليات، أي مما يلي خاطئ: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Minimum number of staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre. الخيار B، Appropriate personal protective equipment for all staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre. الخيار C، Smoke evacuation for diathermy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre. الخيار D، Avoid positive pressure ventilation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Minimum staff numbers, appropriate PPE, smoke evacuation for diathermy, and avoiding positive… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Higher risk patients are intubated and extubated outside theatre.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Minimum number of staff: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C، Smoke evacuation for diathermy: صحيحة، لكنها ليست الاستثناء. الخيار D، Avoid positive pressure ventilation: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"High-risk patients: intubate/extubate INSIDE "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Higher risk patients are intubated and extubated outside theatre. المرضى عالي الخطورة يجب أن يُنبَّبوا وتُزال أنابيبهم داخل غرفة العمليات مع احتياطات كاملة، وليس خارجها."
+      "narration": "الخيار E هو الإجابة الصحيحة. المرضى عالي الخطورة يجب أن يُنبَّبوا وتُزال أنابيبهم داخل غرفة العمليات مع احتياطات كاملة، وليس خارجها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المرضى عالي الخطورة يجب أن يُنبَّبوا وتُزال أنابيبهم داخل غرفة العمليات مع احتياطات كاملة، وليس خارجها. وتذكّر القاعدة: \"High-risk patients: intubate/extubate INSIDE theater, not outside\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. المرضى عالي الخطورة يجب أن يُنبَّبوا وتُزال أنابيبهم داخل غرفة العمليات مع احتياطات كاملة، وليس خارجها. وتذكّر: \"High-risk patients: intubate/extubate INSIDE theater, not outside\". والإجابة الصحيحة هي E."
     }
   ]
 }

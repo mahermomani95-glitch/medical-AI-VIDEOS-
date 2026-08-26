@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "ulnar nerve, median nerve, and brachial artery"
       },
-      "narration": "لنبدأ بهذا السؤال. الإصابة العصبية الوعائية الأكثر شيوعًا في خلع الكوع الخلفي هي أمامك هذه الخيارات: ulnar nerve, radial nerve, and radial artery، أو radial nerve, median nerve, and brachial artery، أو ulnar nerve, radial nerve, and ulnar artery، أو ulnar nerve, median nerve, and brachial artery، أو radial nerve, median nerve, and radial artery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الإصابة العصبية الوعائية الأكثر شيوعًا في خلع الكوع الخلفي هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، ulnar nerve, radial nerve, and radial artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ulnar nerve, median nerve, and brachial artery. يصبح صحيحًا في سؤال يصف Combinations naming the radial nerve/artery or ulnar nerve/artery don't match the correct combination of ulnar nerve, median nerve, and brachial artery classically at risk in posterior elbow dislocation. الخيار B، radial nerve, median nerve, and brachial artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ulnar nerve, median nerve, and brachial artery. يصبح صحيحًا في سؤال يصف Combinations naming the radial nerve/artery or ulnar nerve/artery don't match the correct combination of ulnar nerve, median nerve, and brachial artery classically at risk in posterior elbow dislocation. الخيار C، ulnar nerve, radial nerve, and ulnar artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ulnar nerve, median nerve, and brachial artery. يصبح صحيحًا في سؤال يصف Combinations naming the radial nerve/artery or ulnar nerve/artery don't match the correct combination of ulnar nerve, median nerve, and brachial artery classically at risk in posterior elbow dislocation. الخيار E، radial nerve, median nerve, and radial artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ulnar nerve, median nerve, and brachial artery. يصبح صحيحًا في سؤال يصف Combinations naming the radial nerve/artery or ulnar nerve/artery don't match the correct combination of ulnar nerve, median nerve, and brachial artery classically at risk in posterior elbow dislocation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Posterior elbow dislocation = Ulnar + Median "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: ulnar nerve, median nerve, and brachial artery. خلع المرفق الخلفي يهدد كلاسيكيًا العصبين الزندي والناصف مع الشريان العضدي — وجميعها تمر أمام/إنسي المرفق."
+      "narration": "الخيار D هو الإجابة الصحيحة. خلع المرفق الخلفي يهدد كلاسيكيًا العصبين الزندي والناصف مع الشريان العضدي — وجميعها تمر أمام/إنسي المرفق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. خلع المرفق الخلفي يهدد كلاسيكيًا العصبين الزندي والناصف مع الشريان العضدي — وجميعها تمر أمام/إنسي المرفق. وتذكّر القاعدة: \"Posterior elbow dislocation = Ulnar + Median nerve + Brachial artery\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. خلع المرفق الخلفي يهدد كلاسيكيًا العصبين الزندي والناصف مع الشريان العضدي — وجميعها تمر أمام/إنسي المرفق. والإجابة الصحيحة هي D."
     }
   ]
 }

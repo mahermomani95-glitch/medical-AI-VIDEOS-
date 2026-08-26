@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Myoglobinuria is a serious complication of…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بإصابة الحروق الكهربائية، جميع العبارات التالية صحيحةباستثناء أمامك هذه الخيارات: Low-tension electrical burn injury is most likely to be found in accidents in the home، أو Underlying heart muscle damage is likely in high-tension injuries، أو Large amounts of damage to subcutaneous tissues and muscle are associated with high-tension electrical burns، أو Myoglobinuria is a serious complication of low-tension burns، أو Severe acidosis is common in large electrical burns. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بإصابة الحروق الكهربائية، جميع العبارات التالية صحيحةباستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Low-tension electrical burn injury is most likely to be found in accidents in the home: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low-tension injuries typically occurring at home, high-tension injuries risking cardiac muscle… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Myoglobinuria is a serious complication of low-tension burns. الخيار B، Underlying heart muscle damage is likely in high-tension injuries: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low-tension injuries typically occurring at home, high-tension injuries risking cardiac muscle… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Myoglobinuria is a serious complication of low-tension burns. الخيار C، Large amounts of damage to subcutaneous tissues and muscle are associated with high-tension electrical burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low-tension injuries typically occurring at home, high-tension injuries risking cardiac muscle… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Myoglobinuria is a serious complication of low-tension burns. الخيار E، Severe acidosis is common in large electrical burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Low-tension injuries typically occurring at home, high-tension injuries risking cardiac muscle… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Myoglobinuria is a serious complication of low-tension burns.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Myoglobinuria = High-tension burns, not low-t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Myoglobinuria is a serious complication of low-tension burns. بيلة الميوغلوبين الناتجة عن انحلال عضلي هائل هي مضاعفة للحروق الكهربائية عالية (وليس منخفضة) الجهد، التي تسبب أذية نسيجية أعمق بكثير."
+      "narration": "الخيار D هو الإجابة الصحيحة. بيلة الميوغلوبين الناتجة عن انحلال عضلي هائل هي مضاعفة للحروق الكهربائية عالية (وليس منخفضة) الجهد، التي تسبب أذية نسيجية أعمق بكثير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بيلة الميوغلوبين الناتجة عن انحلال عضلي هائل هي مضاعفة للحروق الكهربائية عالية (وليس منخفضة) الجهد، التي تسبب أذية نسيجية أعمق بكثير. وتذكّر القاعدة: \"Myoglobinuria = High-tension burns, not low-tension\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. بيلة الميوغلوبين الناتجة عن انحلال عضلي هائل هي مضاعفة للحروق الكهربائية عالية (وليس منخفضة) الجهد، التي تسبب أذية نسيجية أعمق بكثير. وتذكّر: \"Myoglobinuria = High-tension burns, not low-tension\". والإجابة الصحيحة هي D."
     }
   ]
 }

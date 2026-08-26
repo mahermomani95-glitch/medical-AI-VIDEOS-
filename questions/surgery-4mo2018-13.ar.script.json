@@ -45,7 +45,7 @@
         "label": "Volume resuscitation and IV antibiotics",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 60 عامًا، ليس لديها أي مشاكل طبية سابقة. حضرت إلىقسم الطوارئ وهي تعاني من اليرقان، وألم في منطقة ما حول الركبة، وحمى. ضغط دمها 80/40، ومعدل ضربات قلبها 120، والخطوة التالية الأنسب هي: أمامك هذه الخيارات: Emergent Cholecystectomy، أو Emergent ERCP، أو Emergent PTC placement، أو Volume resuscitation and IV antibiotics، أو Emergency laparotomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 60 عامًا، ليس لديها أي مشاكل طبية سابقة. حضرت إلىقسم الطوارئ وهي تعاني من اليرقان، وألم في منطقة ما حول الركبة، وحمى. ضغط دمها 80/40، ومعدل ضربات قلبها 120، والخطوة التالية الأنسب هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Emergent Cholecystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable, unresuscitated patient — resuscitation must come first regardless of the eventual procedure chosen. الخيار B، Emergent ERCP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. يصبح صحيحًا في سؤال يستهدف Emergent ERCP تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Emergent PTC placement: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable, unresuscitated patient — resuscitation must come first regardless of the eventual procedure chosen. الخيار E، Emergency laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. يصبح صحيحًا في سؤال يصف Emergent cholecystectomy, PTC placement, and emergency laparotomy are all more invasive procedures inappropriate as a first step in an unstable, unresuscitated patient — resuscitation must come first regardless of the eventual procedure chosen.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Emergent Cholecystectomy: الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. الخيار B، Emergent ERCP: الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. الخيار C، Emergent PTC placement: الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. الخيار E، Emergency laparotomy: الإجابة الصحيحة هي Volume resuscitation and IV antibiotics. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Resuscitate before you operate\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Volume resuscitation and IV antibiotics. قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً."
+      "narration": "الخيار D هو الإجابة الصحيحة. قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً. وتذكّر القاعدة: \"Resuscitate before you operate\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. قبل أي تدخل جراحي أو تنظيري لالتهاب الطرق الصفراوية، يجب إنعاش المريض المصاب بإنتان الدم أولاً. وتذكّر: \"Resuscitate before you operate\". والإجابة الصحيحة هي D."
     }
   ]
 }

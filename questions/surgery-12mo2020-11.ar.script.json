@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Distal cancer cause obstructive jaundice early"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Distal cancer cause obstructive jaundice early، أو Insulinoma cause hypoglycemia with fasting، أو Zollinger Ellison cause high gastrin levels، أو Ultrasound and ERCP can be helpful in the diagnosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Insulinoma cause hypoglycemia with fasting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Insulinoma causing fasting hypoglycemia, Zollinger-Ellison causing high gastrin, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Distal cancer cause obstructive jaundice early. الخيار C، Zollinger Ellison cause high gastrin levels: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Insulinoma causing fasting hypoglycemia, Zollinger-Ellison causing high gastrin, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Distal cancer cause obstructive jaundice early. الخيار D، Ultrasound and ERCP can be helpful in the diagnosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Insulinoma causing fasting hypoglycemia, Zollinger-Ellison causing high gastrin, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Distal cancer cause obstructive jaundice early.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Head of pancreas = early jaundice, Tail = lat"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Distal cancer cause obstructive jaundice early. الورم البعيد (بالذيل) بعيد عن القناة الصفراوية — لا يسبب يرقانًا انسداديًا مبكرًا، بعكس ورم رأس البنكرياس القريب جدًا منها."
+      "narration": "الخيار A هو الإجابة الصحيحة. الورم البعيد (بالذيل) بعيد عن القناة الصفراوية — لا يسبب يرقانًا انسداديًا مبكرًا، بعكس ورم رأس البنكرياس القريب جدًا منها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم البعيد (بالذيل) بعيد عن القناة الصفراوية — لا يسبب يرقانًا انسداديًا مبكرًا، بعكس ورم رأس البنكرياس القريب جدًا منها. وتذكّر القاعدة: \"Head of pancreas = early jaundice, Tail = late/no jaundice\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الورم البعيد (بالذيل) بعيد عن القناة الصفراوية — لا يسبب يرقانًا انسداديًا مبكرًا، بعكس ورم رأس البنكرياس القريب جدًا منها. وتذكّر: \"Head of pancreas = early jaundice, Tail = late/no jaundice\". والإجابة الصحيحة هي A."
     }
   ]
 }

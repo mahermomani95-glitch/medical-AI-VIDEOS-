@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Diverticular disease"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا لنزيف الجلوكوز المنخفض هو؟ أمامك هذه الخيارات: Colorectal cancer، أو Ischemic colitis، أو Angiodysplasia، أو Diverticular disease، أو Hemorrhoids. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا لنزيف الجلوكوز المنخفض هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colorectal cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diverticular disease. يصبح صحيحًا في سؤال يصف Colorectal cancer, ischemic colitis, angiodysplasia, and hemorrhoids can all cause lower GI bleeding, but diverticular disease remains the most common overall cause, especially of significant/massive lower GI bleeding. الخيار B، Ischemic colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diverticular disease. يصبح صحيحًا في سؤال يصف Colorectal cancer, ischemic colitis, angiodysplasia, and hemorrhoids can all cause lower GI bleeding, but diverticular disease remains the most common overall cause, especially of significant/massive lower GI bleeding. الخيار B، Angiodysplasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diverticular disease. يصبح صحيحًا في سؤال يصف Colorectal cancer, ischemic colitis, angiodysplasia, and hemorrhoids can all cause lower GI bleeding, but diverticular disease remains the most common overall cause, especially of significant/massive lower GI bleeding. الخيار E، Hemorrhoids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Diverticular disease. يصبح صحيحًا في سؤال يصف Colorectal cancer, ischemic colitis, angiodysplasia, and hemorrhoids can all cause lower GI bleeding, but diverticular disease remains the most common overall cause, especially of significant/massive lower GI bleeding.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Colorectal cancer: الإجابة الصحيحة هي Diverticular disease. الخيار B، Ischemic colitis: الإجابة الصحيحة هي Diverticular disease. الخيار B، Angiodysplasia: الإجابة الصحيحة هي Diverticular disease. الخيار E، Hemorrhoids: الإجابة الصحيحة هي Diverticular disease. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Lower GI bleeding: mostly Diverticular disease"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Diverticular disease. داء الرتوج هو السبب الأشيع للنزف الهضمي السفلي المهم سريريًا."
+      "narration": "الخيار C، Diverticular disease هو الإجابة الصحيحة. داء الرتوج هو السبب الأشيع للنزف الهضمي السفلي المهم سريريًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. داء الرتوج هو السبب الأشيع للنزف الهضمي السفلي المهم سريريًا. وتذكّر القاعدة: Lower GI bleeding: mostly Diverticular disease. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. داء الرتوج هو السبب الأشيع للنزف الهضمي السفلي المهم سريريًا. وتذكّر: Lower GI bleeding: mostly Diverticular disease. والإجابة الصحيحة هي C."
     }
   ]
 }

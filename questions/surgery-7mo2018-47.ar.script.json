@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Hormones secreted by the thyroid are not affected…"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح عن الغدة الدرقية ما عدا أمامك هذه الخيارات: Thyroid gland is one of the largest endocrine glands، أو Thyroid gland consists of 2 lobes (right, left ), isthmus, and pyramidal lobe in 50% of the population، أو Hormones secreted by the thyroid are not affected by the pituitary gland، أو Thyroid gland has 2 arteries and 3 veins، أو The thyroid gland develops at 4 week of gestation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح عن الغدة الدرقية ما عدا أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Thyroid gland is one of the largest endocrine glands: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being one of the largest endocrine glands, consisting of two lobes, an isthmus, and a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hormones secreted by the thyroid are not affected by the pituitary gland. الخيار B، Thyroid gland consists of 2 lobes (right, left ), isthmus, and pyramidal lobe in 50% of the population: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being one of the largest endocrine glands, consisting of two lobes, an isthmus, and a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hormones secreted by the thyroid are not affected by the pituitary gland. الخيار D، Thyroid gland has 2 arteries and 3 veins: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The thyroid having 2 lobes, isthmus, and a pyramidal lobe in 50% of people, having 2 arteries… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hormones secreted by the thyroid are not affected by the pituitary gland. الخيار E، The thyroid gland develops at 4 week of gestation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The thyroid having 2 lobes, isthmus, and a pyramidal lobe in 50% of people, having 2 arteries… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hormones secreted by the thyroid are not affected by the pituitary gland.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Thyroid always answers to TSH\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hormones secreted by the thyroid are not affected by the pituitary gland. إفراز هرمون الدرقية يخضع فعليًا لتحكم الغدة النخامية عبر TSH — هذا هو محور الوطاء-النخامى-الدرقية بأكمله، لذا العبارة خاطئة."
+      "narration": "الخيار C هو الإجابة الصحيحة. إفراز هرمون الدرقية يخضع فعليًا لتحكم الغدة النخامية عبر TSH — هذا هو محور الوطاء-النخامى-الدرقية بأكمله، لذا العبارة خاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إفراز هرمون الدرقية يخضع فعليًا لتحكم الغدة النخامية عبر TSH — هذا هو محور الوطاء-النخامى-الدرقية بأكمله، لذا العبارة خاطئة. وتذكّر القاعدة: \"Thyroid always answers to TSH\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. إفراز هرمون الدرقية يخضع فعليًا لتحكم الغدة النخامية عبر TSH — هذا هو محور الوطاء-النخامى-الدرقية بأكمله، لذا العبارة خاطئة. وتذكّر: \"Thyroid always answers to TSH\". والإجابة الصحيحة هي C."
     }
   ]
 }

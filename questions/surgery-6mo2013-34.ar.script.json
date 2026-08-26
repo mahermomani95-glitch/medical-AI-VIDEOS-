@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Veins"
       },
-      "narration": "لنبدأ بهذا السؤال. أول بنية تشريحية تم ضغطها في متلازمة الحيز؟ أمامك هذه الخيارات: Fascia، أو Muscles، أو Arteries، أو Veins، أو Nerves. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أول بنية تشريحية تم ضغطها في متلازمة الحيز؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fascia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا expand, not something compressed by rising pressure. يصبح صحيحًا في سؤال يصف Fascia is the rigid boundary that. الخيار B، Muscles: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins. يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with their thin walls and low pressure, are compressed earliest as compartment pressure rises. الخيار C، Arteries: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins. يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with their thin walls and low pressure, are compressed earliest as compartment pressure rises. الخيار E، Nerves: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Veins. يصبح صحيحًا في سؤال يصف muscles and nerves are compressed but arteries are typically the last to be affected given their thicker walls and higher pressure — veins, with their thin walls and low pressure, are compressed earliest as compartment pressure rises.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Fascia: لا ينطبق على هذه الحالة. الخيار B، Muscles: الإجابة الصحيحة هي Veins. الخيار C، Arteries: الإجابة الصحيحة هي Veins. الخيار E، Nerves: الإجابة الصحيحة هي Veins. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Compartment syndrome: Veins compressed first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Veins. الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي."
+      "narration": "الخيار D، Veins هو الإجابة الصحيحة. الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي. وتذكّر القاعدة: Compartment syndrome: Veins compressed first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الأوردة تنضغط أولاً بمتلازمة الحيز لانخفاض ضغطها الداخلي. وتذكّر: Compartment syndrome: Veins compressed first. والإجابة الصحيحة هي D."
     }
   ]
 }

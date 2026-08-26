@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Ruptured urinary bladder"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل الإصابات المميزة لكسر الصدر كل ما يلي باستثناء:؟ أمامك هذه الخيارات: Fractured sternum، أو Transected aorta، أو Pulmonary contusion، أو Ruptured urinary bladder، أو Bilateral rib fractures. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل الإصابات المميزة لكسر الصدر كل ما يلي باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Fractured sternum: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder. الخيار B، Transected aorta: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder. الخيار C، Pulmonary contusion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder. الخيار E، Bilateral rib fractures: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fractured sternum, transected aorta, pulmonary contusion, and bilateral rib fractures are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Ruptured urinary bladder.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Fractured sternum: صحيحة، لكنها ليست الاستثناء. الخيار B، Transected aorta: صحيحة، لكنها ليست الاستثناء. الخيار C، Pulmonary contusion: صحيحة، لكنها ليست الاستثناء. الخيار E، Bilateral rib fractures: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Blunt thoracic trauma: doesn't include Bladder"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Ruptured urinary bladder. تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة."
+      "narration": "الخيار D، Ruptured urinary bladder هو الإجابة الصحيحة. تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة. وتذكّر القاعدة: Blunt thoracic trauma: doesn't include Bladder rupture. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. تمزق المثانة إصابة حوضية بطنية، غريبة عن إصابات الصدر الكليلة. وتذكّر: Blunt thoracic trauma: doesn't include Bladder rupture. والإجابة الصحيحة هي D."
     }
   ]
 }

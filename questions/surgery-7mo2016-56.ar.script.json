@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Lower Gl endoscopy"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 65 عامًا تعاني من نزيف حاد في الجهاز الهضميالسفلي. في غرفة الطوارئ، ضغط الدم 80/40، معدل ضربات القلب 120 نبضة في الدقيقة. بعد الإنعاش بالسوائل، كان ضغط الدم 120/80، معدلضربات القلب 100. أظهرت نتيجة فحص أنبوب أنفي معدي سلبية للدم. أفضلخطوة تالية هي:؟ أمامك هذه الخيارات: Mesenteric Arteriography، أو Upper Gl endoscopy، أو Exploratory Laparotomy، أو Lower Gl endoscopy، أو Observation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 65 عامًا تعاني من نزيف حاد في الجهاز الهضميالسفلي. في غرفة الطوارئ، ضغط الدم 80/40، معدل ضربات القلب 120 نبضة في الدقيقة. بعد الإنعاش بالسوائل، كان ضغط الدم 120/80، معدلضربات القلب 100. أظهرت نتيجة فحص أنبوب أنفي معدي سلبية للدم. أفضلخطوة تالية هي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Mesenteric Arteriography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower Gl endoscopy. يصبح صحيحًا في سؤال يصف Mesenteric arteriography is invasive and used if endoscopy fails or bleeding is very brisk. الخيار B، Upper Gl endoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower Gl endoscopy. يصبح صحيحًا في سؤال يصف upper GI endoscopy should be considered to rule out an upper source first in unstable patients, but isn't the immediate answer choice reflecting lower GI bleeding management. الخيار C، Exploratory Laparotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower Gl endoscopy. يصبح صحيحًا في سؤال يصف exploratory laparotomy is a last resort. الخيار E، Observation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lower Gl endoscopy. يصبح صحيحًا في سؤال يصف observation is inappropriate given hemodynamic instability — lower GI endoscopy (colonoscopy) remains the standard diagnostic and often therapeutic first step once resuscitated.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Mesenteric Arteriography: الإجابة الصحيحة هي Lower Gl endoscopy. الخيار B، Upper Gl endoscopy: الإجابة الصحيحة هي Lower Gl endoscopy. الخيار C، Exploratory Laparotomy: الإجابة الصحيحة هي Lower Gl endoscopy. الخيار E، Observation: الإجابة الصحيحة هي Lower Gl endoscopy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Massive lower GI bleed, after stabilizing: End"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Lower Gl endoscopy. التنظير السفلي هو الخطوة التالية المناسبة بعد تثبيت النزف الهضمي السفلي الغزير."
+      "narration": "الخيار D، Lower Gl endoscopy هو الإجابة الصحيحة. التنظير السفلي هو الخطوة التالية المناسبة بعد تثبيت النزف الهضمي السفلي الغزير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التنظير السفلي هو الخطوة التالية المناسبة بعد تثبيت النزف الهضمي السفلي الغزير. وتذكّر القاعدة: Massive lower GI bleed, after stabilizing: Endoscopy. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. التنظير السفلي هو الخطوة التالية المناسبة بعد تثبيت النزف الهضمي السفلي الغزير. وتذكّر: Massive lower GI bleed, after stabilizing: Endoscopy. والإجابة الصحيحة هي D."
     }
   ]
 }

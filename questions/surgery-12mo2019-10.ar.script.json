@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "latrogenic"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لثقب المريء هو أمامك هذه الخيارات: latrogenic، أو Ingestion of a foreign body، أو Malignancy، أو Infection، أو Trauma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لثقب المريء هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Ingestion of a foreign body: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي latrogenic. يصبح صحيحًا في سؤال يصف Foreign body ingestion, malignancy, infection, and trauma can all contribute to esophageal perforation in certain contexts, but iatrogenic causes (from endoscopic procedures) remain the most common overall in modern practice. الخيار C، Malignancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي latrogenic. يصبح صحيحًا في سؤال يصف Foreign body ingestion, malignancy, infection, and trauma can all contribute to esophageal perforation in certain contexts, but iatrogenic causes (from endoscopic procedures) remain the most common overall in modern practice. الخيار D، Infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي latrogenic. يصبح صحيحًا في سؤال يصف Foreign body ingestion, malignancy, infection, and trauma can all contribute to esophageal perforation in certain contexts, but iatrogenic causes (from endoscopic procedures) remain the most common overall in modern practice. الخيار E، Trauma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي latrogenic. يصبح صحيحًا في سؤال يصف Foreign body ingestion, malignancy, infection, and trauma can all contribute to esophageal perforation in certain contexts, but iatrogenic causes (from endoscopic procedures) remain the most common overall in modern practice.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B: الإجابة الصحيحة هي latrogenic. الخيار C، Malignancy: الإجابة الصحيحة هي latrogenic. الخيار D، Infection: الإجابة الصحيحة هي latrogenic. الخيار E، Trauma: الإجابة الصحيحة هي latrogenic. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Iatrogenic = #1 cause of esophageal perforati"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: latrogenic. الإجراءات التنظيرية والطبية الأخرى تسبب انثقاب المريء أكثر من أي سبب منفرد آخر — الأذية الطبية المنشأ تتصدر القائمة."
+      "narration": "الخيار A، latrogenic هو الإجابة الصحيحة. الإجراءات التنظيرية والطبية الأخرى تسبب انثقاب المريء أكثر من أي سبب منفرد آخر — الأذية الطبية المنشأ تتصدر القائمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإجراءات التنظيرية والطبية الأخرى تسبب انثقاب المريء أكثر من أي سبب منفرد آخر — الأذية الطبية المنشأ تتصدر القائمة. وتذكّر القاعدة: \"Iatrogenic = #1 cause of esophageal perforation\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الإجراءات التنظيرية والطبية الأخرى تسبب انثقاب المريء أكثر من أي سبب منفرد آخر — الأذية الطبية المنشأ تتصدر القائمة. وتذكّر: \"Iatrogenic = #1 cause of esophageal perforation\". والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Everted and raised edges"
       },
-      "narration": "لنبدأ بهذا السؤال. أهم علامة مثيرة للقلق لاحتمال الإصابة بالسرطان في قرحة الجلد المزمنة هي أمامك هذه الخيارات: Increasing pain، أو No response to antibiotics for 2 weeks، أو Everted and raised edges، أو Granulation tissue، أو Mobile. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أهم علامة مثيرة للقلق لاحتمال الإصابة بالسرطان في قرحة الجلد المزمنة هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Increasing pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges. يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (not reassuring) signs that might suggest malignant transformation. الخيار B، No response to antibiotics for 2 weeks: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges. يصبح صحيحًا في سؤال يصف Increasing pain and failure to respond to 2 weeks of antibiotics are actually concerning (not reassuring) signs that might suggest malignant transformation. الخيار D، Granulation tissue: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges. يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (not fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that specifically signals malignant transformation. الخيار E، Mobile: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Everted and raised edges. يصبح صحيحًا في سؤال يصف granulation tissue and a mobile (not fixed) base are reassuring signs of normal healing, distinguishing them from the everted, raised edge that specifically signals malignant transformation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Increasing pain: الإجابة الصحيحة هي Everted and raised edges. الخيار B: الإجابة الصحيحة هي Everted and raised edges. الخيار D، Granulation tissue: الإجابة الصحيحة هي Everted and raised edges. الخيار E، Mobile: الإجابة الصحيحة هي Everted and raised edges. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Everted rolled edges = Malignant transformati"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Everted and raised edges. الحواف المتقلبة للخارج والمرتفعة تشير لنمو نسيجي فعّال للخارج — علامة كلاسيكية للتحول الخبيث (قرحة مارجولين)."
+      "narration": "الخيار C، Everted and raised edges هو الإجابة الصحيحة. الحواف المتقلبة للخارج والمرتفعة تشير لنمو نسيجي فعّال للخارج — علامة كلاسيكية للتحول الخبيث (قرحة مارجولين)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحواف المتقلبة للخارج والمرتفعة تشير لنمو نسيجي فعّال للخارج — علامة كلاسيكية للتحول الخبيث (قرحة مارجولين). وتذكّر القاعدة: \"Everted rolled edges = Malignant transformation (Marjolin's)\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الحواف المتقلبة للخارج والمرتفعة تشير لنمو نسيجي فعّال للخارج — علامة كلاسيكية للتحول الخبيث (قرحة مارجولين). وتذكّر: \"Everted rolled edges = Malignant transformation (Marjolin's)\". والإجابة الصحيحة هي C."
     }
   ]
 }

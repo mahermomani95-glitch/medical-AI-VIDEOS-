@@ -45,7 +45,7 @@
         "label": "Usually caused by E.coli",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Usually caused by E.coli، أو May present with extensive necrosis and normal overlying skin، أو Debridement and antibiotics are important، أو Mortality is high، أو Can be misdiagnosed early as abscess. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، May present with extensive necrosis and normal overlying skin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Extensive necrosis with deceptively normal overlying skin, the importance of debridement and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually caused by E.coli. الخيار C، Debridement and antibiotics are important: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Extensive necrosis with deceptively normal overlying skin, the importance of debridement and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually caused by E.coli. الخيار D، Mortality is high: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Extensive necrosis with deceptively normal overlying skin, the importance of debridement and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually caused by E.coli. الخيار E، Can be misdiagnosed early as abscess: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Extensive necrosis with deceptively normal overlying skin, the importance of debridement and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Usually caused by E.coli.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Mortality is high: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Necrotizing fasciitis = polymicrobial or Stre"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Usually caused by E.coli. التهاب اللفافة الناخر غالبًا متعدد الجراثيم (هوائية ولاهوائية مختلطة) أو ناتج عن العقديات المقيحة، وليس بشكل أساسي عن جرثومة القولون."
+      "narration": "الخيار A، Usually caused by E.coli هو الإجابة الصحيحة. التهاب اللفافة الناخر غالبًا متعدد الجراثيم (هوائية ولاهوائية مختلطة) أو ناتج عن العقديات المقيحة، وليس بشكل أساسي عن جرثومة القولون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب اللفافة الناخر غالبًا متعدد الجراثيم (هوائية ولاهوائية مختلطة) أو ناتج عن العقديات المقيحة، وليس بشكل أساسي عن جرثومة القولون. وتذكّر القاعدة: \"Necrotizing fasciitis = polymicrobial or Strep A, not primarily E. coli\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التهاب اللفافة الناخر غالبًا متعدد الجراثيم (هوائية ولاهوائية مختلطة) أو ناتج عن العقديات المقيحة، وليس بشكل أساسي عن جرثومة القولون. والإجابة الصحيحة هي A."
     }
   ]
 }

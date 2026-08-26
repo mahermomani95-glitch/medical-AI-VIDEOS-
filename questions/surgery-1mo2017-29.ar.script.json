@@ -45,7 +45,7 @@
         "region": "head",
         "label": "lodine deficiency"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لقصور الغدة الدرقية المصحوب بتضخم الغدة الدرقية عندالبالغين هو؟ أمامك هذه الخيارات: Hashimoto disease، أو Graves disease، أو Riedels thyroiditis، أو De Quervain thyroiditis، أو lodine deficiency. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لقصور الغدة الدرقية المصحوب بتضخم الغدة الدرقية عندالبالغين هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hashimoto disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lodine deficiency. يصبح صحيحًا في سؤال يصف Hashimoto's disease is the leading cause of hypothyroidism in iodine-SUFFICIENT areas. الخيار B، Graves disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypothyroidism. يصبح صحيحًا في سؤال يصف Graves' disease causes hyperthyroidism. الخيار C، Riedels thyroiditis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lodine deficiency. يصبح صحيحًا في سؤال يصف Riedel's and De Quervain's thyroiditis are rarer causes — iodine deficiency remains the most common cause of goitrous hypothyroidism worldwide (in iodine-deficient regions). الخيار D، De Quervain thyroiditis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي lodine deficiency. يصبح صحيحًا في سؤال يصف Riedel's and De Quervain's thyroiditis are rarer causes — iodine deficiency remains the most common cause of goitrous hypothyroidism worldwide (in iodine-deficient regions).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hashimoto disease: الإجابة الصحيحة هي lodine deficiency. الخيار B، Graves disease: المطلوب هنا hypothyroidism. الخيار C، Riedels thyroiditis: الإجابة الصحيحة هي lodine deficiency. الخيار D، De Quervain thyroiditis: الإجابة الصحيحة هي lodine deficiency. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Goitrous hypothyroidism: mostly Iodine deficie"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: lodine deficiency. نقص اليود هو السبب الأشيع عالميًا لقصور الدرقية المتضخم."
+      "narration": "الخيار E، lodine deficiency هو الإجابة الصحيحة. نقص اليود هو السبب الأشيع عالميًا لقصور الدرقية المتضخم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقص اليود هو السبب الأشيع عالميًا لقصور الدرقية المتضخم. وتذكّر القاعدة: Goitrous hypothyroidism: mostly Iodine deficiency. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. نقص اليود هو السبب الأشيع عالميًا لقصور الدرقية المتضخم. وتذكّر: Goitrous hypothyroidism: mostly Iodine deficiency. والإجابة الصحيحة هي E."
     }
   ]
 }

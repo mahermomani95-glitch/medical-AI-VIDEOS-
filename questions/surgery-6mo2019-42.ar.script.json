@@ -45,7 +45,7 @@
         "label": "Bone Biopsy",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. المعيار الذهبي للتحقيق لتشخيص التهاب العظم والنقي هو أمامك هذه الخيارات: Blood Culture، أو Bone Biopsy، أو Bone MRI، أو Technetium-99 Scan، أو Bone Cl. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المعيار الذهبي للتحقيق لتشخيص التهاب العظم والنقي هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Blood Culture: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone Biopsy. يصبح صحيحًا في سؤال يصف Blood culture can help identify the organism but isn't the gold standard for diagnosis itself. الخيار C، Bone MRI: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the definitive diagnostic gold standard. يصبح صحيحًا في سؤال يصف bone MRI is sensitive but. الخيار D، Technetium-99 Scan: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Bone Biopsy. يصبح صحيحًا في سؤال يصف Technetium-99 bone scan is useful for localization but less specific than tissue sampling. الخيار E، Bone Cl: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا provide microbiological confirmation like biopsy does. يصبح صحيحًا في سؤال يصف bone CT shows structural changes but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Blood Culture: الإجابة الصحيحة هي Bone Biopsy. الخيار C، Bone MRI: المطلوب هنا the definitive diagnostic gold standard. الخيار D، Technetium-99 Scan: الإجابة الصحيحة هي Bone Biopsy. الخيار E، Bone Cl: المطلوب هنا provide microbiological confirmation like biopsy does. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Bone biopsy = gold standard, gets the actual "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Bone Biopsy. خزعة العظم تحصل على النسيج والجرثومة الفعلية — الطريقة القاطعة لتأكيد التهاب العظم والنقي وتوجيه العلاج الحيوي النوعي."
+      "narration": "الخيار B، Bone Biopsy هو الإجابة الصحيحة. خزعة العظم تحصل على النسيج والجرثومة الفعلية — الطريقة القاطعة لتأكيد التهاب العظم والنقي وتوجيه العلاج الحيوي النوعي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. خزعة العظم تحصل على النسيج والجرثومة الفعلية — الطريقة القاطعة لتأكيد التهاب العظم والنقي وتوجيه العلاج الحيوي النوعي. وتذكّر القاعدة: \"Bone biopsy = gold standard, gets the actual organism\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. خزعة العظم تحصل على النسيج والجرثومة الفعلية — الطريقة القاطعة لتأكيد التهاب العظم والنقي وتوجيه العلاج الحيوي النوعي. وتذكّر: \"Bone biopsy = gold standard, gets the actual organism\". والإجابة الصحيحة هي B."
     }
   ]
 }

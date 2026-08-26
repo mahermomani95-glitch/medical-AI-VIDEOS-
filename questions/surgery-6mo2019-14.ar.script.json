@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Sigmoid Diverticulosis"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 70 عامًا، معروف بإصابته بارتفاع ضغط الدم وداءالسكري ومرض الكلى المزمن، حضر إلى قسم الطوارئ مصابًا باحمرار شديدفي المستقيم. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Ascending colon Talaengectasia، أو Sigmoid Volvolus، أو Sigmoid Diverticulosis، أو Internal Hemorroids، أو Puptic Ulcer Disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 70 عامًا، معروف بإصابته بارتفاع ضغط الدم وداءالسكري ومرض الكلى المزمن، حضر إلى قسم الطوارئ مصابًا باحمرار شديدفي المستقيم. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ascending colon Talaengectasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis. يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid diverticulosis remains the classic cause of massive, sudden, painless lower GI bleeding in the elderly described here. الخيار B، Sigmoid Volvolus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis. يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid diverticulosis remains the classic cause of massive, sudden, painless lower GI bleeding in the elderly described here. الخيار D، Internal Hemorroids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis. يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid diverticulosis remains the classic cause of massive, sudden, painless lower GI bleeding in the elderly described here. الخيار E، Puptic Ulcer Disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Sigmoid Diverticulosis. يصبح صحيحًا في سؤال يصف Ascending colon telangiectasia, sigmoid volvulus, internal hemorrhoids, and peptic ulcer disease can all cause GI bleeding, but sigmoid diverticulosis remains the classic cause of massive, sudden, painless lower GI bleeding in the elderly described here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Ascending colon Talaengectasia: الإجابة الصحيحة هي Sigmoid Diverticulosis. الخيار B، Sigmoid Volvolus: الإجابة الصحيحة هي Sigmoid Diverticulosis. الخيار D، Internal Hemorroids: الإجابة الصحيحة هي Sigmoid Diverticulosis. الخيار E، Puptic Ulcer Disease: الإجابة الصحيحة هي Sigmoid Diverticulosis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Elderly + massive painless LGIB = Diverticulo"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Sigmoid Diverticulosis. عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم."
+      "narration": "الخيار C، Sigmoid Diverticulosis هو الإجابة الصحيحة. عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم. وتذكّر القاعدة: \"Elderly + massive painless LGIB = Diverticulosis\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. عند المسنّين، رتوج القولون السيني هي السبب الكلاسيكي لنزيف هضمي سفلي غزير ومفاجئ وغير مؤلم. وتذكّر: \"Elderly + massive painless LGIB = Diverticulosis\". والإجابة الصحيحة هي C."
     }
   ]
 }

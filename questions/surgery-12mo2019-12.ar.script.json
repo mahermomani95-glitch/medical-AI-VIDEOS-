@@ -41,7 +41,7 @@
         "label": "Chromium",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. عدم تحمل الجلوكوز الناجم عن نقص أمامك هذه الخيارات: Vitamine d، أو Manganese، أو Cooper، أو Chromium. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. عدم تحمل الجلوكوز الناجم عن نقص أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Vitamine d: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium. يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the one classically linked to impaired glucose tolerance. الخيار B، Manganese: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium. يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the one classically linked to impaired glucose tolerance. الخيار C، Cooper: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Chromium. يصبح صحيحًا في سؤال يصف Vitamin D, manganese, and copper are all trace elements/vitamins that can become deficient with prolonged TPN, but chromium specifically is the one classically linked to impaired glucose tolerance.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Vitamine d: الإجابة الصحيحة هي Chromium. الخيار B، Manganese: الإجابة الصحيحة هي Chromium. الخيار C، Cooper: الإجابة الصحيحة هي Chromium. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -122,13 +122,13 @@
       "pills": [
         "\"Chromium = insulin's helper\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Chromium. الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر."
+      "narration": "الخيار D، Chromium هو الإجابة الصحيحة. الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر. وتذكّر القاعدة: \"Chromium = insulin's helper\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الكروم عامل مساعد يعزّز عمل الإنسولين على المستوى الخلوي — نقصه يُضعف تحمل الجسم للسكر. وتذكّر: \"Chromium = insulin's helper\". والإجابة الصحيحة هي D."
     }
   ]
 }

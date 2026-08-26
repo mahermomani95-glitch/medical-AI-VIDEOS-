@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "OCPs"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الخلايا الكبدية باستثناء أمامك هذه الخيارات: Hepatitis B virus، أو Wilson disease، أو Alcohol، أو OCPs، أو Alpha one antitrypsin deficiency. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الخلايا الكبدية باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hepatitis B virus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, alcohol, and alpha-1 antitrypsin deficiency are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو OCPs. الخيار B، Wilson disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, alcohol, and alpha-1 antitrypsin deficiency are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو OCPs. الخيار C، Alcohol: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, alcohol, and alpha-1 antitrypsin deficiency are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو OCPs. الخيار E، Alpha one antitrypsin deficiency: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, alcohol, and alpha-1 antitrypsin deficiency are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو OCPs.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hepatitis B virus: صحيحة، لكنها ليست الاستثناء. الخيار B، Wilson disease: صحيحة، لكنها ليست الاستثناء. الخيار C، Alcohol: صحيحة، لكنها ليست الاستثناء. الخيار E، Alpha one antitrypsin deficiency: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"OCPs = Adenoma, not Cancer\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: OCPs. حبوب منع الحمل ترتبط بالورم الغدي الكبدي الحميد، وليست عامل خطر مباشر لسرطان الخلايا الكبدية."
+      "narration": "الخيار D، OCPs هو الإجابة الصحيحة. حبوب منع الحمل ترتبط بالورم الغدي الكبدي الحميد، وليست عامل خطر مباشر لسرطان الخلايا الكبدية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حبوب منع الحمل ترتبط بالورم الغدي الكبدي الحميد، وليست عامل خطر مباشر لسرطان الخلايا الكبدية. وتذكّر القاعدة: \"OCPs = Adenoma, not Cancer\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. حبوب منع الحمل ترتبط بالورم الغدي الكبدي الحميد، وليست عامل خطر مباشر لسرطان الخلايا الكبدية. وتذكّر: \"OCPs = Adenoma, not Cancer\". والإجابة الصحيحة هي D."
     }
   ]
 }

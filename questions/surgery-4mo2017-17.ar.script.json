@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "10800 ml"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة وزنها 60 كجم تعاني من حروق بالغة. ذراعها وساقها اليسرى مصابتانبحروق بيضاء جافة وغير مؤلمة، وجذعها الأمامي مصاب بحروق حمراء مؤلمةمع بثور. ما هي كمية السوائل التي تحتاجها يوميًا؟ أمامك هذه الخيارات: 2500 ml، أو 10800 ml، أو 8640 ml، أو 12960 ml، أو 17280 ml. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة وزنها 60 كجم تعاني من حروق بالغة. ذراعها وساقها اليسرى مصابتانبحروق بيضاء جافة وغير مؤلمة، وجذعها الأمامي مصاب بحروق حمراء مؤلمةمع بثور. ما هي كمية السوائل التي تحتاجها يوميًا؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 2500 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml. يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800 mL over 24 hours. الخيار C، 8640 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml. يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800 mL over 24 hours. الخيار D، 12960 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml. يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800 mL over 24 hours. الخيار E، 17280 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 10800 ml. يصبح صحيحًا في سؤال يصف 2500, 8640, 12960, and 17280 mL don't match the correct Parkland calculation for the described burn extent and patient weight, which totals 10800 mL over 24 hours.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 2500 ml: الإجابة الصحيحة هي 10800 ml. الخيار C، 8640 ml: الإجابة الصحيحة هي 10800 ml. الخيار D، 12960 ml: الإجابة الصحيحة هي 10800 ml. الخيار E، 17280 ml: الإجابة الصحيحة هي 10800 ml. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Parkland formula: Four times weight times burn"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: 10800 ml. معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4."
+      "narration": "الخيار B، 10800 ml هو الإجابة الصحيحة. معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4. وتذكّر القاعدة: Parkland formula: Four times weight times burn Percentage. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. معادلة باركلاند تحسب سوائل الإنعاش بضرب الوزن بنسبة المساحة المحروقة بـ4. وتذكّر: Parkland formula: Four times weight times burn Percentage. والإجابة الصحيحة هي B."
     }
   ]
 }

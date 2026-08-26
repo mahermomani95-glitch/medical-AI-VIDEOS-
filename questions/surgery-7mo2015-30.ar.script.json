@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Triple therapy for H pylori infection"
       },
-      "narration": "لنبدأ بهذا السؤال. أفضل خطوة أولى في علاج ورم الأنسجة اللمفاوية التكاثرية المرتبطة بالغشاءالمخاطي للمعدة هي؟ أمامك هذه الخيارات: Total gasterectomy، أو Partial gastrectomy، أو Chemo_radio therapy، أو Triple therapy for H pylori infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أفضل خطوة أولى في علاج ورم الأنسجة اللمفاوية التكاثرية المرتبطة بالغشاءالمخاطي للمعدة هي؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Total gasterectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Triple therapy for H pylori infection. يصبح صحيحًا في سؤال يصف Total gastrectomy, partial gastrectomy, and chemoradiotherapy are reserved for advanced or refractory disease — H. pylori eradication triple therapy is the appropriate first-line treatment for early gastric MALT lymphoma. الخيار B، Partial gastrectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Triple therapy for H pylori infection. يصبح صحيحًا في سؤال يصف Total gastrectomy, partial gastrectomy, and chemoradiotherapy are reserved for advanced or refractory disease — H. pylori eradication triple therapy is the appropriate first-line treatment for early gastric MALT lymphoma. الخيار C، Chemo_radio therapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Triple therapy for H pylori infection. يصبح صحيحًا في سؤال يصف Total gastrectomy, partial gastrectomy, and chemoradiotherapy are reserved for advanced or refractory disease — H. pylori eradication triple therapy is the appropriate first-line treatment for early gastric MALT lymphoma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Total gasterectomy: الإجابة الصحيحة هي Triple therapy for H pylori infection. الخيار B، Partial gastrectomy: الإجابة الصحيحة هي Triple therapy for H pylori infection. الخيار C، Chemo_radio therapy: الإجابة الصحيحة هي Triple therapy for H pylori infection. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Gastric MALT lymphoma: treated by H. pylori Er"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Triple therapy for H pylori infection. استئصال الملوية البوابية قد يُشفي ليمفوما المالت المعدية بذاته."
+      "narration": "الخيار D هو الإجابة الصحيحة. استئصال الملوية البوابية قد يُشفي ليمفوما المالت المعدية بذاته."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استئصال الملوية البوابية قد يُشفي ليمفوما المالت المعدية بذاته. وتذكّر القاعدة: Gastric MALT lymphoma: treated by H. pylori Eradication first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. استئصال الملوية البوابية قد يُشفي ليمفوما المالت المعدية بذاته. وتذكّر: Gastric MALT lymphoma: treated by H. pylori Eradication first. والإجابة الصحيحة هي D."
     }
   ]
 }

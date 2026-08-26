@@ -45,7 +45,7 @@
         "region": "head",
         "label": "TSH"
       },
-      "narration": "لنبدأ بهذا السؤال. الاختبار المعملي الأكثر حساسية لوظيفة الغدة الدرقية هو؟ أمامك هذه الخيارات: T3، أو T4، أو TSH، أو TRH، أو TBG. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الاختبار المعملي الأكثر حساسية لوظيفة الغدة الدرقية هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، T3: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي TSH. يصبح صحيحًا في سؤال يصف T3, T4, TRH, and TBG are all part of thyroid physiology, but TSH is the most sensitive single test for detecting subtle thyroid dysfunction due to the amplified feedback response of the pituitary-thyroid axis. الخيار B، T4: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي TSH. يصبح صحيحًا في سؤال يصف T3, T4, TRH, and TBG are all part of thyroid physiology, but TSH is the most sensitive single test for detecting subtle thyroid dysfunction due to the amplified feedback response of the pituitary-thyroid axis. الخيار D، TRH: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي TSH. يصبح صحيحًا في سؤال يصف T3, T4, TRH, and TBG are all part of thyroid physiology, but TSH is the most sensitive single test for detecting subtle thyroid dysfunction due to the amplified feedback response of the pituitary-thyroid axis. الخيار E، TBG: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي TSH. يصبح صحيحًا في سؤال يصف T3, T4, TRH, and TBG are all part of thyroid physiology, but TSH is the most sensitive single test for detecting subtle thyroid dysfunction due to the amplified feedback response of the pituitary-thyroid axis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، T3: الإجابة الصحيحة هي TSH. الخيار B، T4: الإجابة الصحيحة هي TSH. الخيار D، TRH: الإجابة الصحيحة هي TSH. الخيار E، TBG: الإجابة الصحيحة هي TSH. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Thyroid function: TSH is most Sensitive"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: TSH. TSH هو الفحص الأكثر حساسية لتقييم وظيفة الدرقية المبكرة."
+      "narration": "الخيار C، TSH هو الإجابة الصحيحة. TSH هو الفحص الأكثر حساسية لتقييم وظيفة الدرقية المبكرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. TSH هو الفحص الأكثر حساسية لتقييم وظيفة الدرقية المبكرة. وتذكّر القاعدة: Thyroid function: TSH is most Sensitive. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. TSH هو الفحص الأكثر حساسية لتقييم وظيفة الدرقية المبكرة. وتذكّر: Thyroid function: TSH is most Sensitive. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Wound infection"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لفتق الجراح هو؟ أمامك هذه الخيارات: Wound infection، أو COPD، أو Acute appendicitis، أو Wound hematoma، أو Ascites. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لفتق الجراح هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، COPD: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Wound infection. يصبح صحيحًا في سؤال يصف COPD, acute appendicitis, wound hematoma, and ascites can all raise intra-abdominal pressure or complicate wound healing contributing to hernia risk, but wound infection remains the single most common direct cause of incisional hernia. الخيار C، Acute appendicitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Wound infection. يصبح صحيحًا في سؤال يصف COPD, acute appendicitis, wound hematoma, and ascites can all raise intra-abdominal pressure or complicate wound healing contributing to hernia risk, but wound infection remains the single most common direct cause of incisional hernia. الخيار D، Wound hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Wound infection. يصبح صحيحًا في سؤال يصف COPD, acute appendicitis, wound hematoma, and ascites can all raise intra-abdominal pressure or complicate wound healing contributing to hernia risk, but wound infection remains the single most common direct cause of incisional hernia. الخيار E، Ascites: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Wound infection. يصبح صحيحًا في سؤال يصف COPD, acute appendicitis, wound hematoma, and ascites can all raise intra-abdominal pressure or complicate wound healing contributing to hernia risk, but wound infection remains the single most common direct cause of incisional hernia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، COPD: الإجابة الصحيحة هي Wound infection. الخيار C، Acute appendicitis: الإجابة الصحيحة هي Wound infection. الخيار D، Wound hematoma: الإجابة الصحيحة هي Wound infection. الخيار E، Ascites: الإجابة الصحيحة هي Wound infection. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Incisional hernia: mostly from wound Infection"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Wound infection. عدوى الجرح هي السبب الأشيع لتشكل الفتق الجراحي بعد العملية."
+      "narration": "الخيار A، Wound infection هو الإجابة الصحيحة. عدوى الجرح هي السبب الأشيع لتشكل الفتق الجراحي بعد العملية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدوى الجرح هي السبب الأشيع لتشكل الفتق الجراحي بعد العملية. وتذكّر القاعدة: Incisional hernia: mostly from wound Infection. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. عدوى الجرح هي السبب الأشيع لتشكل الفتق الجراحي بعد العملية. وتذكّر: Incisional hernia: mostly from wound Infection. والإجابة الصحيحة هي A."
     }
   ]
 }

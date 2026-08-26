@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Tingling of face, nose and hands"
       },
-      "narration": "لنبدأ بهذا السؤال. إن أقدم مؤشر لنقص الكالسيوم في الدم هو عادة؟ أمامك هذه الخيارات: Tingling of face, nose and hands، أو Positive Chvostek's sign، أو Carpopedal spasm، أو Hyperthermia، أو Tachycardia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. إن أقدم مؤشر لنقص الكالسيوم في الدم هو عادة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Positive Chvostek's sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tingling of face, nose and hands. يصبح صحيحًا في سؤال يصف Chvostek's sign, carpopedal spasm, and tachycardia occur later/are less specific. الخيار C، Carpopedal spasm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tingling of face, nose and hands. يصبح صحيحًا في سؤال يصف Chvostek's sign, carpopedal spasm, and tachycardia occur later/are less specific. الخيار D، Hyperthermia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a feature of hypocalcemia at all — perioral/peripheral tingling (paresthesia) is typically the earliest symptom of developing hypocalcemia. يصبح صحيحًا في سؤال يصف hyperthermia. الخيار E، Tachycardia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tingling of face, nose and hands. يصبح صحيحًا في سؤال يصف Chvostek's sign, carpopedal spasm, and tachycardia occur later/are less specific.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Positive Chvostek's sign: الإجابة الصحيحة هي Tingling of face, nose and hands. الخيار C، Carpopedal spasm: الإجابة الصحيحة هي Tingling of face, nose and hands. الخيار D، Hyperthermia: لا ينطبق على هذه الحالة. الخيار E، Tachycardia: الإجابة الصحيحة هي Tingling of face, nose and hands. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hypocalcemia: Tingling comes first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Tingling of face, nose and hands. الوخز حول الوجه والأنف واليدين هو أول علامة إنذارية لنقص الكالسيوم."
+      "narration": "الخيار A هو الإجابة الصحيحة. الوخز حول الوجه والأنف واليدين هو أول علامة إنذارية لنقص الكالسيوم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الوخز حول الوجه والأنف واليدين هو أول علامة إنذارية لنقص الكالسيوم. وتذكّر القاعدة: Hypocalcemia: Tingling comes first. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الوخز حول الوجه والأنف واليدين هو أول علامة إنذارية لنقص الكالسيوم. وتذكّر: Hypocalcemia: Tingling comes first. والإجابة الصحيحة هي A."
     }
   ]
 }

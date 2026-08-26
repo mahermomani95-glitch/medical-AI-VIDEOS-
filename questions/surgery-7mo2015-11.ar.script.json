@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "High risk for incarceration"
       },
-      "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر عامًا واحدًا وجد أنه يعاني من فتق سري، كل هذه العباراتصحيحة باستثناء؟ أمامك هذه الخيارات: Check thyroid function is important، أو More common in premature baby، أو More common in African babies، أو Surgery treatment at about 5 year old if hernia fails to close، أو High risk for incarceration. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. طفل يبلغ من العمر عامًا واحدًا وجد أنه يعاني من فتق سري، كل هذه العباراتصحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Check thyroid function is important: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration. الخيار B، More common in premature baby: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration. الخيار C، More common in African babies: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration. الخيار D، Surgery treatment at about 5 year old if hernia fails to close: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Checking thyroid function (A, since umbilical hernia is linked to congenital hypothyroidism)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو High risk for incarceration.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Infant umbilical hernia: Incarceration risk is"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: High risk for incarceration. الفتق السري عند الرضع منخفض خطورة الاختناق فعليًا، لا مرتفعها."
+      "narration": "الخيار E، High risk for incarceration هو الإجابة الصحيحة. الفتق السري عند الرضع منخفض خطورة الاختناق فعليًا، لا مرتفعها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفتق السري عند الرضع منخفض خطورة الاختناق فعليًا، لا مرتفعها. وتذكّر القاعدة: Infant umbilical hernia: Incarceration risk is Low. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الفتق السري عند الرضع منخفض خطورة الاختناق فعليًا، لا مرتفعها. وتذكّر: Infant umbilical hernia: Incarceration risk is Low. والإجابة الصحيحة هي E."
     }
   ]
 }

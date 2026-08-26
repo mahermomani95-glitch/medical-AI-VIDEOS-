@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Umbilical hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الفتوق التالية قد تغلق تلقائيًا عند الأطفال؟ أمامك هذه الخيارات: Inguinal hernia، أو Umbilical hernia، أو Incisional hernia، أو Bochdalek hernia، أو Paraumbilical hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الفتوق التالية قد تغلق تلقائيًا عند الأطفال؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia. يصبح صحيحًا في سؤال يصف Inguinal hernia rarely closes spontaneously and usually needs repair. الخيار C، Incisional hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia. يصبح صحيحًا في سؤال يصف incisional hernia and paraumbilical hernia don't close on their own. الخيار D، Bochdalek hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia. يصبح صحيحًا في سؤال يصف Bochdalek hernia is a congenital diaphragmatic hernia requiring surgical repair — umbilical hernia is the one that commonly closes spontaneously in children by age 2-5. الخيار E، Paraumbilical hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Umbilical hernia. يصبح صحيحًا في سؤال يصف incisional hernia and paraumbilical hernia don't close on their own.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Inguinal hernia: الإجابة الصحيحة هي Umbilical hernia. الخيار C، Incisional hernia: الإجابة الصحيحة هي Umbilical hernia. الخيار D، Bochdalek hernia: الإجابة الصحيحة هي Umbilical hernia. الخيار E، Paraumbilical hernia: الإجابة الصحيحة هي Umbilical hernia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Umbilical hernia: Usually closes on its own"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Umbilical hernia. الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل."
+      "narration": "الخيار B، Umbilical hernia هو الإجابة الصحيحة. الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل. وتذكّر القاعدة: Umbilical hernia: Usually closes on its own. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الفتق السري قد ينغلق تلقائيًا مع نمو جدار البطن عند الطفل. وتذكّر: Umbilical hernia: Usually closes on its own. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Open the lleum and removing the obstruction"
       },
-      "narration": "لنبدأ بهذا السؤال. الجراحة الأساسية لعلاج انسداد الأمعاء الناتج عن حصوات المرارة؟ أمامك هذه الخيارات: Whipple operation، أو Cholecystectomy، أو Open the lleum and removing the obstruction، أو Hepato jejunostomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الجراحة الأساسية لعلاج انسداد الأمعاء الناتج عن حصوات المرارة؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Whipple operation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the lleum and removing the obstruction. يصبح صحيحًا في سؤال يصف The Whipple procedure is for pancreatic head tumors, unrelated here. الخيار B، Cholecystectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the acute obstruction. يصبح صحيحًا في سؤال يصف cholecystectomy alone. الخيار D، Hepato jejunostomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا obstruction — opening the ileum and removing the impacted stone (enterolithotomy) is the primary, most urgent procedure for gallstone ileus. يصبح صحيحًا في سؤال يصف hepaticojejunostomy is for biliary reconstruction.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Whipple operation: لا ينطبق على هذه الحالة. الخيار B، Cholecystectomy: المطلوب هنا address the acute obstruction. الخيار D، Hepato jejunostomy: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Gallstone ileus: Open the ileum First"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Open the lleum and removing the obstruction. فتح اللفافة المعوية وإزالة الحصاة هو الجراحة الأساسية العاجلة لهذا الانسداد."
+      "narration": "الخيار C هو الإجابة الصحيحة. فتح اللفافة المعوية وإزالة الحصاة هو الجراحة الأساسية العاجلة لهذا الانسداد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فتح اللفافة المعوية وإزالة الحصاة هو الجراحة الأساسية العاجلة لهذا الانسداد. وتذكّر القاعدة: Gallstone ileus: Open the ileum First. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فتح اللفافة المعوية وإزالة الحصاة هو الجراحة الأساسية العاجلة لهذا الانسداد. وتذكّر: Gallstone ileus: Open the ileum First. والإجابة الصحيحة هي C."
     }
   ]
 }

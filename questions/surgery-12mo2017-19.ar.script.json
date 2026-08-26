@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hepatoiminodiacetic acid scintigraphy (HiDA scan)"
       },
-      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 35 عامًا، تتمتع بصحة جيدة، دخلت قسم الطوارئ تشكومن ألم في أعلى البطن الأيمن مصحوب بغثيان وحمى. يمتد الألم إلى لوحالكتف الأيمن. أظهرت فحوصات الدم الأولية وجود عدد الخلايا البيضاء -16،الهيموجلوبين12. ما هي أدق طريقة تشخيص في هذه الحالة؟ أمامك هذه الخيارات: Abdominal ultrasound، أو MRCP، أو ERCP، أو Endoscopic ultrasound، أو Hepatoiminodiacetic acid scintigraphy (HiDA scan). لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 35 عامًا، تتمتع بصحة جيدة، دخلت قسم الطوارئ تشكومن ألم في أعلى البطن الأيمن مصحوب بغثيان وحمى. يمتد الألم إلى لوحالكتف الأيمن. أظهرت فحوصات الدم الأولية وجود عدد الخلايا البيضاء -16،الهيموجلوبين12. ما هي أدق طريقة تشخيص في هذه الحالة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Abdominal ultrasound: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا directly assess gallbladder FUNCTION. يصبح صحيحًا في سؤال يصف Ultrasound is the initial test but. الخيار B، MRCP: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا functional cystic duct assessment — HIDA scan is the most accurate follow-up test for confirming acute cholecystitis via functional cystic duct obstruction when ultrasound is equivocal. يصبح صحيحًا في سؤال يصف MRCP, ERCP, and endoscopic ultrasound are used for duct evaluation. الخيار C، ERCP: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا functional cystic duct assessment — HIDA scan is the most accurate follow-up test for confirming acute cholecystitis via functional cystic duct obstruction when ultrasound is equivocal. يصبح صحيحًا في سؤال يصف MRCP, ERCP, and endoscopic ultrasound are used for duct evaluation. الخيار D، Endoscopic ultrasound: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا functional cystic duct assessment — HIDA scan is the most accurate follow-up test for confirming acute cholecystitis via functional cystic duct obstruction when ultrasound is equivocal. يصبح صحيحًا في سؤال يصف MRCP, ERCP, and endoscopic ultrasound are used for duct evaluation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Abdominal ultrasound: المطلوب هنا directly assess gallbladder FUNCTION. الخيار B، MRCP: لا ينطبق على هذه الحالة. الخيار C، ERCP: لا ينطبق على هذه الحالة. الخيار D، Endoscopic ultrasound: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Equivocal ultrasound: HIDA scan confirms"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Hepatoiminodiacetic acid scintigraphy (HiDA scan). تصوير HIDA يؤكد انسداد القناة المرارية وظيفيًا عند غموض الموجات فوق الصوتية."
+      "narration": "الخيار E هو الإجابة الصحيحة. تصوير HIDA يؤكد انسداد القناة المرارية وظيفيًا عند غموض الموجات فوق الصوتية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تصوير HIDA يؤكد انسداد القناة المرارية وظيفيًا عند غموض الموجات فوق الصوتية. وتذكّر القاعدة: Equivocal ultrasound: HIDA scan confirms. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. تصوير HIDA يؤكد انسداد القناة المرارية وظيفيًا عند غموض الموجات فوق الصوتية. وتذكّر: Equivocal ultrasound: HIDA scan confirms. والإجابة الصحيحة هي E."
     }
   ]
 }

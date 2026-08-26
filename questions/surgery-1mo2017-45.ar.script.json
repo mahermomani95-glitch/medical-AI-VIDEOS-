@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Intraductal papilloma"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر عشرين عامًا تعاني من إفرازات دموية من قناة واحدةوكتلة ملموسة في الهالة، ولا توجد خلايا خبيثة، ومعزولة عن الإفرازات. التشخيص المحتمل هو:؟ أمامك هذه الخيارات: Ductal carcinoma، أو Duct ectasia، أو Intraductal papilloma، أو Prolactinoma، أو Periductal mastitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر عشرين عامًا تعاني من إفرازات دموية من قناة واحدةوكتلة ملموسة في الهالة، ولا توجد خلايا خبيثة، ومعزولة عن الإفرازات. التشخيص المحتمل هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ductal carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal papilloma. يصبح صحيحًا في سؤال يصف Ductal carcinoma and periductal mastitis can cause discharge but are less common. الخيار B، Duct ectasia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal papilloma. يصبح صحيحًا في سؤال يصف duct ectasia typically causes thick, sticky (not bloody) discharge. الخيار D، Prolactinoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا bloody single-duct discharge — intraductal papilloma remains the most common cause of bloody single-duct nipple discharge in a young woman. يصبح صحيحًا في سؤال يصف prolactinoma causes bilateral milky discharge (galactorrhea). الخيار E، Periductal mastitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intraductal papilloma. يصبح صحيحًا في سؤال يصف Ductal carcinoma and periductal mastitis can cause discharge but are less common.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Ductal carcinoma: الإجابة الصحيحة هي Intraductal papilloma. الخيار B، Duct ectasia: الإجابة الصحيحة هي Intraductal papilloma. الخيار D، Prolactinoma: لا ينطبق على هذه الحالة. الخيار E، Periductal mastitis: الإجابة الصحيحة هي Intraductal papilloma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Bloody single-duct discharge: Intraductal papi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Intraductal papilloma. إفراز دموي من قناة واحدة مع كتلة هالية يوجه للورم الحليمي داخل القناة."
+      "narration": "الخيار C، Intraductal papilloma هو الإجابة الصحيحة. إفراز دموي من قناة واحدة مع كتلة هالية يوجه للورم الحليمي داخل القناة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إفراز دموي من قناة واحدة مع كتلة هالية يوجه للورم الحليمي داخل القناة. وتذكّر القاعدة: Bloody single-duct discharge: Intraductal papilloma. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. إفراز دموي من قناة واحدة مع كتلة هالية يوجه للورم الحليمي داخل القناة. وتذكّر: Bloody single-duct discharge: Intraductal papilloma. والإجابة الصحيحة هي C."
     }
   ]
 }

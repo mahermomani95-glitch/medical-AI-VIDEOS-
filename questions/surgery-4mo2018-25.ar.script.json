@@ -45,7 +45,7 @@
         "region": "head",
         "label": "IV fluid and lasix"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 30 عامًا شُخِّصت مؤخرًا بمتلازمة الأورام الصماويةالمتعددة من النوع الأول . تعاني من ارتباك ونعاس، وفترة \" كيو تي \" قصيرةفي تخطيط القلب الكهربائي. الخطوة التالية المناسبة هي: أمامك هذه الخيارات: Alpha blockade، أو Beta blockade، أو CCB، أو IV fluid and lasix، أو Dialysis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 30 عامًا شُخِّصت مؤخرًا بمتلازمة الأورام الصماويةالمتعددة من النوع الأول . تعاني من ارتباك ونعاس، وفترة \" كيو تي \" قصيرةفي تخطيط القلب الكهربائي. الخطوة التالية المناسبة هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Alpha blockade: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف alpha blockade is actually used in pheochromocytoma management, a different endocrine emergency. الخيار B، Beta blockade: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first. يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis. الخيار C، CCB: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first. يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis. الخيار E، Dialysis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first step for acute symptomatic hypercalcemia — IV fluids with a loop diuretic come first. يصبح صحيحًا في سؤال يصف Beta blockade, calcium channel blockers, and dialysis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Alpha blockade: المطلوب هنا hypercalcemia. الخيار B، Beta blockade: لا ينطبق على هذه الحالة. الخيار C، CCB: لا ينطبق على هذه الحالة. الخيار E، Dialysis: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"MEN1 = high calcium = short QT\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: IV fluid and lasix. متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا."
+      "narration": "الخيار D، IV fluid and lasix هو الإجابة الصحيحة. متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا. وتذكّر القاعدة: \"MEN1 = high calcium = short QT\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. متلازمة MEN1 تعني غالبًا فرط نشاط جارات الدرقية، وارتفاع الكالسيوم الشديد يقصّر فترة QT ويسبب تخليطًا ذهنيًا وخمولًا. وتذكّر: \"MEN1 = high calcium = short QT\". والإجابة الصحيحة هي D."
     }
   ]
 }

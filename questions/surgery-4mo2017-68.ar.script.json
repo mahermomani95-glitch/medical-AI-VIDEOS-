@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Ringer lactate"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 65 عامًا يعاني من ناسور معوي جلدي ينشأ من الصائم،ويعاني من مرض التهاب الأمعاء، أي مما يلي سيكون الاستبدال الأكثر ملاءمةلخسائره؟ أمامك هذه الخيارات: DW5%، أو N/S 3%، أو Ringer lactate، أو 0.9% sodium chloride، أو 6% sodium bicarbonate solution. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 65 عامًا يعاني من ناسور معوي جلدي ينشأ من الصائم،ويعاني من مرض التهاب الأمعاء، أي مما يلي سيكون الاستبدال الأكثر ملاءمةلخسائره؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، DW5%: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ringer lactate. يصبح صحيحًا في سؤال يصف D5W provides free water without adequate electrolyte replacement. الخيار B، N/S 3%: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routine fistula losses. يصبح صحيحًا في سؤال يصف 3% saline is hypertonic and used for specific severe hyponatremia. الخيار D، 0.9% sodium chloride: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ringer lactate. يصبح صحيحًا في سؤال يصف 0.9% saline lacks potassium and bicarbonate found in fistula output. الخيار E، 6% sodium bicarbonate solution: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a standard maintenance fluid — Ringer's lactate best approximates the electrolyte composition of small bowel/fistula losses. يصبح صحيحًا في سؤال يصف 6% sodium bicarbonate.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، DW5%: الإجابة الصحيحة هي Ringer lactate. الخيار B، N/S 3%: المطلوب هنا routine fistula losses. الخيار D، 0.9% sodium chloride: الإجابة الصحيحة هي Ringer lactate. الخيار E، 6% sodium bicarbonate solution: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Jejunal fistula losses: Replace with Ringer la"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Ringer lactate. رينغر لاكتات يعوض الفقد السائل الغني بالكهارل من ناسور صائمي عالي الإخراج."
+      "narration": "الخيار C، Ringer lactate هو الإجابة الصحيحة. رينغر لاكتات يعوض الفقد السائل الغني بالكهارل من ناسور صائمي عالي الإخراج."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. رينغر لاكتات يعوض الفقد السائل الغني بالكهارل من ناسور صائمي عالي الإخراج. وتذكّر القاعدة: Jejunal fistula losses: Replace with Ringer lactate. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. رينغر لاكتات يعوض الفقد السائل الغني بالكهارل من ناسور صائمي عالي الإخراج. وتذكّر: Jejunal fistula losses: Replace with Ringer lactate. والإجابة الصحيحة هي C."
     }
   ]
 }

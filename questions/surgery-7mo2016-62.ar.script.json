@@ -45,7 +45,7 @@
         "label": "T-cell",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الخلايا الرئيسية المشاركة في الرفض الحاد للعضو هي؟ أمامك هذه الخيارات: B-cell، أو T-cell، أو Macrophages، أو Platelets، أو Monocyte. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الخلايا الرئيسية المشاركة في الرفض الحاد للعضو هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، B-cell: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي T-cell. يصبح صحيحًا في سؤال يصف B-cells, macrophages, platelets, and monocytes play supporting roles, but T-cells are the principal mediators of acute cellular rejection in organ transplantation. الخيار C، Macrophages: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي T-cell. يصبح صحيحًا في سؤال يصف B-cells, macrophages, platelets, and monocytes play supporting roles, but T-cells are the principal mediators of acute cellular rejection in organ transplantation. الخيار D، Platelets: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي T-cell. يصبح صحيحًا في سؤال يصف B-cells, macrophages, platelets, and monocytes play supporting roles, but T-cells are the principal mediators of acute cellular rejection in organ transplantation. الخيار E، Monocyte: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي T-cell. يصبح صحيحًا في سؤال يصف B-cells, macrophages, platelets, and monocytes play supporting roles, but T-cells are the principal mediators of acute cellular rejection in organ transplantation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، B-cell: الإجابة الصحيحة هي T-cell. الخيار C، Macrophages: الإجابة الصحيحة هي T-cell. الخيار D، Platelets: الإجابة الصحيحة هي T-cell. الخيار E، Monocyte: الإجابة الصحيحة هي T-cell. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Acute rejection: driven by T-cells"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: T-cell. الخلايا التائية هي المحرك الأساسي للرفض الحاد للعضو المزروع."
+      "narration": "الخيار B، T-cell هو الإجابة الصحيحة. الخلايا التائية هي المحرك الأساسي للرفض الحاد للعضو المزروع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخلايا التائية هي المحرك الأساسي للرفض الحاد للعضو المزروع. وتذكّر القاعدة: Acute rejection: driven by T-cells. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الخلايا التائية هي المحرك الأساسي للرفض الحاد للعضو المزروع. وتذكّر: Acute rejection: driven by T-cells. والإجابة الصحيحة هي B."
     }
   ]
 }

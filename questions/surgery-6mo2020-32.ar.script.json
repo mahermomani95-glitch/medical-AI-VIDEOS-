@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Positive Murphy's sign"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Positive Murphy's sign، أو Can be complicated by pseudocyst، أو Can not be clinically diagnosed alone، أو Amylase and lipase levels are early increased، أو Ranson's criteria is used to determine the severity of acute pancreatitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Can be complicated by pseudocyst: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pseudocyst as a complication, the need for more than clinical diagnosis alone, early… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive Murphy's sign. الخيار C، Can not be clinically diagnosed alone: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pseudocyst as a complication, the need for more than clinical diagnosis alone, early… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive Murphy's sign. الخيار D، Amylase and lipase levels are early increased: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pseudocyst as a complication, the need for more than clinical diagnosis alone, early… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive Murphy's sign. الخيار E، Ranson's criteria is used to determine the severity of acute pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pseudocyst as a complication, the need for more than clinical diagnosis alone, early… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Positive Murphy's sign.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Murphy's sign = Gallbladder, not pancreas\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Positive Murphy's sign. علامة ميرفي خاصة بأمراض المرارة (التهاب المرارة)، وليس البنكرياس — عضو مختلف، علامة مختلفة."
+      "narration": "الخيار A، Positive Murphy's sign هو الإجابة الصحيحة. علامة ميرفي خاصة بأمراض المرارة (التهاب المرارة)، وليس البنكرياس — عضو مختلف، علامة مختلفة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. علامة ميرفي خاصة بأمراض المرارة (التهاب المرارة)، وليس البنكرياس — عضو مختلف، علامة مختلفة. وتذكّر القاعدة: \"Murphy's sign = Gallbladder, not pancreas\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. علامة ميرفي خاصة بأمراض المرارة (التهاب المرارة)، وليس البنكرياس — عضو مختلف، علامة مختلفة. وتذكّر: \"Murphy's sign = Gallbladder, not pancreas\". والإجابة الصحيحة هي A."
     }
   ]
 }

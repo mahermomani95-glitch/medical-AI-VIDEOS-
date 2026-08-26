@@ -45,7 +45,7 @@
         "region": "head",
         "label": "In a patient with increased ICP"
       },
-      "narration": "لنبدأ بهذا السؤال. الكيتامين هو مضاد استطباب؟ أمامك هذه الخيارات: In an asthmatic patient، أو For cesarean section، أو In a patient with facial burns، أو In a patient with increased ICP، أو In hypotensive patient. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الكيتامين هو مضاد استطباب؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، In an asthmatic patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In a patient with increased ICP. يصبح صحيحًا في سؤال يصف Asthma (A, ketamine is actually often preferred here due to bronchodilating effects), cesarean section (B, ketamine is commonly used), facial burns, and hypotension (E, ketamine's sympathomimetic effect can help support BP) are situations where ketamine may actually be used or preferred — it is specifically contraindicated in patients with increased intracranial pressure due to its tendency to raise ICP further. الخيار B، For cesarean section: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In a patient with increased ICP. يصبح صحيحًا في سؤال يصف Asthma (A, ketamine is actually often preferred here due to bronchodilating effects), cesarean section (B, ketamine is commonly used), facial burns, and hypotension (E, ketamine's sympathomimetic effect can help support BP) are situations where ketamine may actually be used or preferred — it is specifically contraindicated in patients with increased intracranial pressure due to its tendency to raise ICP further. الخيار C، In a patient with facial burns: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In a patient with increased ICP. يصبح صحيحًا في سؤال يصف Asthma (A, ketamine is actually often preferred here due to bronchodilating effects), cesarean section (B, ketamine is commonly used), facial burns, and hypotension (E, ketamine's sympathomimetic effect can help support BP) are situations where ketamine may actually be used or preferred — it is specifically contraindicated in patients with increased intracranial pressure due to its tendency to raise ICP further. الخيار E، In hypotensive patient: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In a patient with increased ICP. يصبح صحيحًا في سؤال يصف Asthma (A, ketamine is actually often preferred here due to bronchodilating effects), cesarean section (B, ketamine is commonly used), facial burns, and hypotension (E, ketamine's sympathomimetic effect can help support BP) are situations where ketamine may actually be used or preferred — it is specifically contraindicated in patients with increased intracranial pressure due to its tendency to raise ICP further.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، In an asthmatic patient: الإجابة الصحيحة هي In a patient with increased ICP. الخيار B، For cesarean section: الإجابة الصحيحة هي In a patient with increased ICP. الخيار C: الإجابة الصحيحة هي In a patient with increased ICP. الخيار E، In hypotensive patient: الإجابة الصحيحة هي In a patient with increased ICP. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Ketamine: Keeps away from high ICP patients"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: In a patient with increased ICP. الكيتامين يرفع الضغط داخل القحف فيُمنع بمرضى ارتفاعه المسبق."
+      "narration": "الخيار D هو الإجابة الصحيحة. الكيتامين يرفع الضغط داخل القحف فيُمنع بمرضى ارتفاعه المسبق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الكيتامين يرفع الضغط داخل القحف فيُمنع بمرضى ارتفاعه المسبق. وتذكّر القاعدة: Ketamine: Keeps away from high ICP patients. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الكيتامين يرفع الضغط داخل القحف فيُمنع بمرضى ارتفاعه المسبق. وتذكّر: Ketamine: Keeps away from high ICP patients. والإجابة الصحيحة هي D."
     }
   ]
 }

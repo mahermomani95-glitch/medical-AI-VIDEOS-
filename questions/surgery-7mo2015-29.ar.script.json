@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Albendazole followed by surgical resection"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 40 عامًا تعاني من شكوى رئيسية تتمثل في ألم فيالبطن في منطقة الربع العلوي الأيمن، ويظهر فحص التصوير المقطعيالمحوسب للبطن وجود كيس متكلس يبلغ قطره 14 سم في الكبد، ولديها اختباركاسوني إيجابي، وأفضل خطوة تالية هي؟ أمامك هذه الخيارات: Percutaneous aspiration، أو Albendazole، أو Albendazole followed by surgical resection، أو Metronidazole. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 40 عامًا تعاني من شكوى رئيسية تتمثل في ألم فيالبطن في منطقة الربع العلوي الأيمن، ويظهر فحص التصوير المقطعيالمحوسب للبطن وجود كيس متكلس يبلغ قطره 14 سم في الكبد، ولديها اختباركاسوني إيجابي، وأفضل خطوة تالية هي؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Percutaneous aspiration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Albendazole followed by surgical resection. يصبح صحيحًا في سؤال يصف Percutaneous aspiration alone risks anaphylaxis from cyst content spillage without definitive treatment. الخيار B، Albendazole: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا eliminate risk of recurrence for larger cysts. يصبح صحيحًا في سؤال يصف albendazole alone reduces but. الخيار D، Metronidazole: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hydatid, disease — albendazole followed by surgical resection is the standard combined approach for hepatic hydatid cysts. يصبح صحيحًا في سؤال يصف metronidazole is for amoebic.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Percutaneous aspiration: الإجابة الصحيحة هي Albendazole followed by surgical resection. الخيار B، Albendazole: لا ينطبق على هذه الحالة. الخيار D، Metronidazole: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Hydatid cyst: Albendazole, then surgery"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Albendazole followed by surgical resection. الألبيندازول يسبق الجراحة لعلاج الكيسة العدارية الكبدية بأمان أكبر."
+      "narration": "الخيار C هو الإجابة الصحيحة. الألبيندازول يسبق الجراحة لعلاج الكيسة العدارية الكبدية بأمان أكبر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألبيندازول يسبق الجراحة لعلاج الكيسة العدارية الكبدية بأمان أكبر. وتذكّر القاعدة: Hydatid cyst: Albendazole, then surgery. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الألبيندازول يسبق الجراحة لعلاج الكيسة العدارية الكبدية بأمان أكبر. وتذكّر: Hydatid cyst: Albendazole, then surgery. والإجابة الصحيحة هي C."
     }
   ]
 }

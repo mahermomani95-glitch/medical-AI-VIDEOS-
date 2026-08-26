@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anorexia"
       },
-      "narration": "لنبدأ بهذا السؤال. السمات المقلقة لألم البطن الحاد. جميعها صحيحة باستثناء أمامك هذه الخيارات: Tachycardia، أو Hypotension، أو Anorexia، أو Persistent vomiting، أو Massive rectal bleeding. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السمات المقلقة لألم البطن الحاد. جميعها صحيحة باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tachycardia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia. الخيار B، Hypotension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia. الخيار D، Persistent vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia. الخيار E، Massive rectal bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tachycardia, hypotension, persistent vomiting, and massive rectal bleeding are all genuine… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anorexia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tachycardia: صحيحة، لكنها ليست الاستثناء. الخيار B، Hypotension: صحيحة، لكنها ليست الاستثناء. الخيار D، Persistent vomiting: صحيحة، لكنها ليست الاستثناء. الخيار E، Massive rectal bleeding: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Anorexia = too common to be a red flag\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Anorexia. فقدان الشهية عرض غامض وشائع جدًا، وليس علامة إنذار حقيقية لحالة جراحية طارئة كباقي الخيارات."
+      "narration": "الخيار C، Anorexia هو الإجابة الصحيحة. فقدان الشهية عرض غامض وشائع جدًا، وليس علامة إنذار حقيقية لحالة جراحية طارئة كباقي الخيارات."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فقدان الشهية عرض غامض وشائع جدًا، وليس علامة إنذار حقيقية لحالة جراحية طارئة كباقي الخيارات. وتذكّر القاعدة: \"Anorexia = too common to be a red flag\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فقدان الشهية عرض غامض وشائع جدًا، وليس علامة إنذار حقيقية لحالة جراحية طارئة كباقي الخيارات. وتذكّر: \"Anorexia = too common to be a red flag\". والإجابة الصحيحة هي C."
     }
   ]
 }

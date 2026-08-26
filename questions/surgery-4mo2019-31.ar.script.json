@@ -45,7 +45,7 @@
         "label": "Streptococcus pneumonia",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. حضرت مريضة مصابة بصدمة، تبلغ من العمر 70 عامًا، إلى قسم الطوارئوهي تعاني من صدمة شديدة في البطن. بعد الإنعاش والفحص الأولي، وُجدأنها تعاني من إصابة شديدة في الطحال، فخضعت لعملية استئصال طحالطارئة. بعد أربعة أسابيع (أثناء وجود المريضة في منزلها)، أصيبت بحمىشديدة، وزيادة في عدد كريات الدم البيضاء، وسعال مصحوب ببلغم. فيتصوير الصدر بالأشعة السينية، يوجد ارتشاح في الفص السفلي الأيمن. العامل الممرض الأكثر شيوعًا المسؤول عن هذه النتيجة هو أمامك هذه الخيارات: Staphylococcus aureus، أو Streptococcus pyogenes، أو Streptococcus pneumonia، أو Chlamydia pneumonia، أو Neisseria meningitides. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضرت مريضة مصابة بصدمة، تبلغ من العمر 70 عامًا، إلى قسم الطوارئوهي تعاني من صدمة شديدة في البطن. بعد الإنعاش والفحص الأولي، وُجدأنها تعاني من إصابة شديدة في الطحال، فخضعت لعملية استئصال طحالطارئة. بعد أربعة أسابيع (أثناء وجود المريضة في منزلها)، أصيبت بحمىشديدة، وزيادة في عدد كريات الدم البيضاء، وسعال مصحوب ببلغم. فيتصوير الصدر بالأشعة السينية، يوجد ارتشاح في الفص السفلي الأيمن. العامل الممرض الأكثر شيوعًا المسؤول عن هذه النتيجة هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Staphylococcus aureus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Streptococcus pneumonia. يصبح صحيحًا في سؤال يصف Staphylococcus aureus, Streptococcus pyogenes, Chlamydia pneumoniae, and Neisseria meningitidis can all cause serious infections, but Streptococcus pneumoniae remains the most common and important pathogen in post-splenectomy sepsis specifically. الخيار B، Streptococcus pyogenes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Streptococcus pneumonia. يصبح صحيحًا في سؤال يصف Staphylococcus aureus, Streptococcus pyogenes, Chlamydia pneumoniae, and Neisseria meningitidis can all cause serious infections, but Streptococcus pneumoniae remains the most common and important pathogen in post-splenectomy sepsis specifically. الخيار D، Chlamydia pneumonia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Streptococcus pneumonia. يصبح صحيحًا في سؤال يصف Staphylococcus aureus, Streptococcus pyogenes, Chlamydia pneumoniae, and Neisseria meningitidis can all cause serious infections, but Streptococcus pneumoniae remains the most common and important pathogen in post-splenectomy sepsis specifically. الخيار E، Neisseria meningitides: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Streptococcus pneumonia. يصبح صحيحًا في سؤال يصف Staphylococcus aureus, Streptococcus pyogenes, Chlamydia pneumoniae, and Neisseria meningitidis can all cause serious infections, but Streptococcus pneumoniae remains the most common and important pathogen in post-splenectomy sepsis specifically.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Staphylococcus aureus: الإجابة الصحيحة هي Streptococcus pneumonia. الخيار B، Streptococcus pyogenes: الإجابة الصحيحة هي Streptococcus pneumonia. الخيار D، Chlamydia pneumonia: الإجابة الصحيحة هي Streptococcus pneumonia. الخيار E، Neisseria meningitides: الإجابة الصحيحة هي Streptococcus pneumonia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"No spleen = no defense against encapsulated b"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Streptococcus pneumonia. المريض المستأصل الطحال يفقد أفضل خط دفاع ضد الجراثيم المغلفة — العقدية الرئوية هي السبب الأشيع لإنتان ما بعد استئصال الطحال الطاغي (OPSI)."
+      "narration": "الخيار C، Streptococcus pneumonia هو الإجابة الصحيحة. المريض المستأصل الطحال يفقد أفضل خط دفاع ضد الجراثيم المغلفة — العقدية الرئوية هي السبب الأشيع لإنتان ما بعد استئصال الطحال الطاغي (OPSI)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المريض المستأصل الطحال يفقد أفضل خط دفاع ضد الجراثيم المغلفة — العقدية الرئوية هي السبب الأشيع لإنتان ما بعد استئصال الطحال الطاغي (OPSI). وتذكّر القاعدة: \"No spleen = no defense against encapsulated bugs\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. المريض المستأصل الطحال يفقد أفضل خط دفاع ضد الجراثيم المغلفة — العقدية الرئوية هي السبب الأشيع لإنتان ما بعد استئصال الطحال الطاغي (OPSI). وتذكّر: \"No spleen = no defense against encapsulated bugs\". والإجابة الصحيحة هي C."
     }
   ]
 }

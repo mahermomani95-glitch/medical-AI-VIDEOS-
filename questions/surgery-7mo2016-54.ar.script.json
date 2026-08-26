@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "IV antibiotics"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 65 عامًا يعاني من ألم في الربع السفلي الأيسر منالبطن، وغثيان، وحمى خفيفة منذ يومين. درجة حرارته 39، وكتلة خلايا الدمالبيضاء 14000، وألم موضعي متوسط ​​في الربع السفلي الأيسر. أفضلخطوة تالية للعلاج هي:؟ أمامك هذه الخيارات: NG tube، أو IV antibiotics، أو Flexible sigmoidoscopy، أو Barium Enema، أو Gastrograffin enema. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 65 عامًا يعاني من ألم في الربع السفلي الأيسر منالبطن، وغثيان، وحمى خفيفة منذ يومين. درجة حرارته 39، وكتلة خلايا الدمالبيضاء 14000، وألم موضعي متوسط ​​في الربع السفلي الأيسر. أفضلخطوة تالية للعلاج هي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، NG tube: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV antibiotics. يصبح صحيحًا في سؤال يصف NG tube isn't routinely needed for uncomplicated diverticulitis. الخيار C، Flexible sigmoidoscopy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV antibiotics. يصبح صحيحًا في سؤال يصف flexible sigmoidoscopy and barium enema risk perforation during the acute phase. الخيار D، Barium Enema: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV antibiotics. يصبح صحيحًا في سؤال يصف flexible sigmoidoscopy and barium enema risk perforation during the acute phase. الخيار E، Gastrograffin enema: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard initial approach — IV antibiotics remain the mainstay of initial management for acute diverticulitis. يصبح صحيحًا في سؤال يصف gastrografin enema.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، NG tube: الإجابة الصحيحة هي IV antibiotics. الخيار C، Flexible sigmoidoscopy: الإجابة الصحيحة هي IV antibiotics. الخيار D، Barium Enema: الإجابة الصحيحة هي IV antibiotics. الخيار E، Gastrograffin enema: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Uncomplicated diverticulitis: IV Antibiotics f"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: IV antibiotics. المضادات الحيوية الوريدية تُدير معظم حالات التهاب الرتوج الحاد غير المختلط."
+      "narration": "الخيار B، IV antibiotics هو الإجابة الصحيحة. المضادات الحيوية الوريدية تُدير معظم حالات التهاب الرتوج الحاد غير المختلط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المضادات الحيوية الوريدية تُدير معظم حالات التهاب الرتوج الحاد غير المختلط. وتذكّر القاعدة: Uncomplicated diverticulitis: IV Antibiotics first. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. المضادات الحيوية الوريدية تُدير معظم حالات التهاب الرتوج الحاد غير المختلط. وتذكّر: Uncomplicated diverticulitis: IV Antibiotics first. والإجابة الصحيحة هي B."
     }
   ]
 }

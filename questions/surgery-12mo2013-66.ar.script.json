@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Excisional biopsy is necessary for every…"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالورم الليفي الغدي في الثدي باستثناء؟ أمامك هذه الخيارات: It is the most common breast tumor in adolescents and young women، أو Painless, mobile, and slow-growing mass، أو Firm and rubbery texture، أو Are not premalignant lesions، أو Excisional biopsy is necessary for every Fibroadenoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بالورم الليفي الغدي في الثدي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is the most common breast tumor in adolescents and young women: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common tumor in young women, presenting as a painless mobile mass, having a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Excisional biopsy is necessary for every Fibroadenoma. الخيار B، Painless, mobile, and slow-growing mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common tumor in young women, presenting as a painless mobile mass, having a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Excisional biopsy is necessary for every Fibroadenoma. الخيار C، Firm and rubbery texture: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common tumor in young women, presenting as a painless mobile mass, having a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Excisional biopsy is necessary for every Fibroadenoma. الخيار D، Are not premalignant lesions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common tumor in young women, presenting as a painless mobile mass, having a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Excisional biopsy is necessary for every Fibroadenoma.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C، Firm and rubbery texture: صحيحة، لكنها ليست الاستثناء. الخيار D، Are not premalignant lesions: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Fibroadenoma: Frequently just observed, not Al"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Excisional biopsy is necessary for every Fibroadenoma. ليست كل حالات الورم الغدي الليفي تستدعي استئصالاً حتميًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. ليست كل حالات الورم الغدي الليفي تستدعي استئصالاً حتميًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ليست كل حالات الورم الغدي الليفي تستدعي استئصالاً حتميًا. وتذكّر القاعدة: Fibroadenoma: Frequently just observed, not Always excised. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. ليست كل حالات الورم الغدي الليفي تستدعي استئصالاً حتميًا. وتذكّر: Fibroadenoma: Frequently just observed, not Always excised. والإجابة الصحيحة هي E."
     }
   ]
 }

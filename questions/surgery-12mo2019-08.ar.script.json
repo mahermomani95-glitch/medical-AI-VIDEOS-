@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Intravenous heparin infusion"
       },
-      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 69 عامًا إلى قسم الطوارئ بسبب ألم شديد فيساقه اليسرى. يقول المريض إنه كان يعاني من ألم في كلتا ساقيه بعد المشيلبضعة مبانٍ، ولكن قبل عدة ساعات بدأ فجأة يشعر بألم شديد في ساقهاليسرى أثناء الراحة. أبلغ عن خدر في ساقه اليسرى، كما أنه يعاني منخفقان متقطع. لدى المريض تاريخ طويل من ارتفاع ضغط الدم وفرط شحمياتالدم. يدخن نصف علبة سجائر يوميًا منذ 45 عامًا. يبلغ ضغط دمه 130/80 ملم زئبق ونبضه 116/دقيقة وهو غير منتظم. تبدو ساقه اليسرى شاحبة وأبردمن اليمنى. النبضات البعيدة غائبة في اليسرى وتقل في اليمنى. الإحساسباللمس الخفيف منخفض في ظهر القدم والساق اليسرى. ثني ظهر الكاحلأضعف قليلاً في اليسرى. أي مما يلي هو أفضل خطوة أولى في إدارة هذاالمريض؟ أمامك هذه الخيارات: Ankle brachial index، أو Arterial Doppler study، أو Intravenous heparin infusion، أو Nerve conduction study، أو Transthoracic echocardiogram. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 69 عامًا إلى قسم الطوارئ بسبب ألم شديد فيساقه اليسرى. يقول المريض إنه كان يعاني من ألم في كلتا ساقيه بعد المشيلبضعة مبانٍ، ولكن قبل عدة ساعات بدأ فجأة يشعر بألم شديد في ساقهاليسرى أثناء الراحة. أبلغ عن خدر في ساقه اليسرى، كما أنه يعاني منخفقان متقطع. لدى المريض تاريخ طويل من ارتفاع ضغط الدم وفرط شحمياتالدم. يدخن نصف علبة سجائر يوميًا منذ 45 عامًا. يبلغ ضغط دمه 130/80 ملم زئبق ونبضه 116/دقيقة وهو غير منتظم. تبدو ساقه اليسرى شاحبة وأبردمن اليمنى. النبضات البعيدة غائبة في اليسرى وتقل في اليمنى. الإحساسباللمس الخفيف منخفض في ظهر القدم والساق اليسرى. ثني ظهر الكاحلأضعف قليلاً في اليسرى. أي مما يلي هو أفضل خطوة أولى في إدارة هذاالمريض؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Ankle brachial index: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا embolic cardiac sources. يصبح صحيحًا في سؤال يصف Ankle-brachial index and arterial Doppler assess arterial flow but. الخيار B، Arterial Doppler study: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا embolic cardiac sources. يصبح صحيحًا في سؤال يصف Ankle-brachial index and arterial Doppler assess arterial flow but. الخيار D، Nerve conduction study: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا vascular occlusion. يصبح صحيحًا في سؤال يصف nerve conduction study evaluates nerve function. الخيار E، Transthoracic echocardiogram: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Intravenous heparin infusion. يصبح صحيحًا في سؤال يصف transthoracic echocardiogram may be done later to find the embolic source but isn't the immediate first management step for acute limb ischemia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Ankle brachial index: المطلوب هنا embolic cardiac sources. الخيار B، Arterial Doppler study: المطلوب هنا embolic cardiac sources. الخيار D، Nerve conduction study: المطلوب هنا vascular occlusion. الخيار E، Transthoracic echocardiogram: الإجابة الصحيحة هي Intravenous heparin infusion. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Acute limb ischemia + AFib = Heparin first\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Intravenous heparin infusion. ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم."
+      "narration": "الخيار C، Intravenous heparin infusion هو الإجابة الصحيحة. ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم. وتذكّر القاعدة: \"Acute limb ischemia + AFib = Heparin first\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ألم مفاجئ عند الراحة مع نبض غير منتظم (رجفان أذيني) يوحي بقوة بمصدر صمّي — ابدأ الهيبارين فورًا لمنع تمدد الخثرة أثناء استكمال التقييم. وتذكّر: \"Acute limb ischemia + AFib = Heparin first\". والإجابة الصحيحة هي C."
     }
   ]
 }

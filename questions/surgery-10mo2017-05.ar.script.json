@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anal fissure"
       },
-      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 28 عامًا تشكو من ألم أثناء التبرز مصحوبًا بنزيفمستقيمي طازج، التشخيص المحتمل الذي يجب مراعاته هو؟ أمامك هذه الخيارات: Hidradenitis suppurativa، أو Dermoid cyst، أو Pilonidal sinus، أو Anal fissure، أو Pruritis ani. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. سيدة تبلغ من العمر 28 عامًا تشكو من ألم أثناء التبرز مصحوبًا بنزيفمستقيمي طازج، التشخيص المحتمل الذي يجب مراعاته هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hidradenitis suppurativa: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anal fissure. يصبح صحيحًا في سؤال يصف Hidradenitis suppurativa, dermoid cyst, pilonidal sinus, and pruritus ani don't typically cause painful defecation with fresh bleeding — anal fissure is the classic cause of this specific symptom combination. الخيار B، Dermoid cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anal fissure. يصبح صحيحًا في سؤال يصف Hidradenitis suppurativa, dermoid cyst, pilonidal sinus, and pruritus ani don't typically cause painful defecation with fresh bleeding — anal fissure is the classic cause of this specific symptom combination. الخيار C، Pilonidal sinus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anal fissure. يصبح صحيحًا في سؤال يصف Hidradenitis suppurativa, dermoid cyst, pilonidal sinus, and pruritus ani don't typically cause painful defecation with fresh bleeding — anal fissure is the classic cause of this specific symptom combination. الخيار E، Pruritis ani: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anal fissure. يصبح صحيحًا في سؤال يصف Hidradenitis suppurativa, dermoid cyst, pilonidal sinus, and pruritus ani don't typically cause painful defecation with fresh bleeding — anal fissure is the classic cause of this specific symptom combination.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hidradenitis suppurativa: الإجابة الصحيحة هي Anal fissure. الخيار B، Dermoid cyst: الإجابة الصحيحة هي Anal fissure. الخيار C، Pilonidal sinus: الإجابة الصحيحة هي Anal fissure. الخيار E، Pruritis ani: الإجابة الصحيحة هي Anal fissure. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Painful defecation + fresh blood: Anal fissure"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Anal fissure. ألم التبرز مع نزف مستقيمي طازج يوجه للشق الشرجي تحديدًا."
+      "narration": "الخيار D، Anal fissure هو الإجابة الصحيحة. ألم التبرز مع نزف مستقيمي طازج يوجه للشق الشرجي تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم التبرز مع نزف مستقيمي طازج يوجه للشق الشرجي تحديدًا. وتذكّر القاعدة: Painful defecation + fresh blood: Anal fissure. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ألم التبرز مع نزف مستقيمي طازج يوجه للشق الشرجي تحديدًا. وتذكّر: Painful defecation + fresh blood: Anal fissure. والإجابة الصحيحة هي D."
     }
   ]
 }

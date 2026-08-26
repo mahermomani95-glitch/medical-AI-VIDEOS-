@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Acute pancreatitis"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي من أسباب فرط كالسيوم الدم ما عدا:؟ أمامك هذه الخيارات: Sarcoidosis، أو Primary hyperparathyroidism، أو Acute pancreatitis، أو Metastasis bronchial carcinoma، أو Milk Alkali syndrome. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي من أسباب فرط كالسيوم الدم ما عدا:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Sarcoidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis. الخيار B، Primary hyperparathyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis. الخيار D، Metastasis bronchial carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis. الخيار E، Milk Alkali syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Sarcoidosis (A, via increased vitamin D activation), primary hyperparathyroidism, metastatic… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Acute pancreatitis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Sarcoidosis: صحيحة، لكنها ليست الاستثناء. الخيار B، Primary hyperparathyroidism: صحيحة، لكنها ليست الاستثناء. الخيار D، Metastasis bronchial carcinoma: صحيحة، لكنها ليست الاستثناء. الخيار E، Milk Alkali syndrome: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Acute pancreatitis: Absorbs (consumes) calcium"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Acute pancreatitis. التهاب البنكرياس الحاد يسبب نقص كالسيوم، لا فرطه كما بالعبارة الخاطئة."
+      "narration": "الخيار C، Acute pancreatitis هو الإجابة الصحيحة. التهاب البنكرياس الحاد يسبب نقص كالسيوم، لا فرطه كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب البنكرياس الحاد يسبب نقص كالسيوم، لا فرطه كما بالعبارة الخاطئة. وتذكّر القاعدة: Acute pancreatitis: Absorbs (consumes) calcium, lowering it. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التهاب البنكرياس الحاد يسبب نقص كالسيوم، لا فرطه كما بالعبارة الخاطئة. وتذكّر: Acute pancreatitis: Absorbs (consumes) calcium, lowering it. والإجابة الصحيحة هي C."
     }
   ]
 }

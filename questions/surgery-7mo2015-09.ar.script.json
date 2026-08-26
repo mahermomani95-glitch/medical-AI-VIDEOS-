@@ -41,7 +41,7 @@
         "region": "limb",
         "label": "Axillary nerve"
       },
-      "narration": "لنبدأ بهذا السؤال. الخلع الأمامي للكتف هو الأكثر شيوعاً في إصابة؟ أمامك هذه الخيارات: Subclavian vein، أو Subclavian artery، أو Axillary nerve، أو Thoracic duct. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الخلع الأمامي للكتف هو الأكثر شيوعاً في إصابة؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Subclavian vein: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Axillary nerve. يصبح صحيحًا في سؤال يصف The subclavian vein and subclavian artery can rarely be injured but are less commonly affected. الخيار B، Subclavian artery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Axillary nerve. يصبح صحيحًا في سؤال يصف The subclavian vein and subclavian artery can rarely be injured but are less commonly affected. الخيار D، Thoracic duct: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Axillary nerve. يصبح صحيحًا في سؤال يصف the thoracic duct is unrelated to the shoulder — the axillary nerve, wrapping around the surgical neck of the humerus, is most commonly injured in anterior shoulder dislocation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Subclavian vein: الإجابة الصحيحة هي Axillary nerve. الخيار B، Subclavian artery: الإجابة الصحيحة هي Axillary nerve. الخيار D، Thoracic duct: الإجابة الصحيحة هي Axillary nerve. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Anterior shoulder dislocation: injures the Axi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Axillary nerve. العصب الإبطي هو الأكثر عرضة للإصابة بخلع الكتف الأمامي."
+      "narration": "الخيار C، Axillary nerve هو الإجابة الصحيحة. العصب الإبطي هو الأكثر عرضة للإصابة بخلع الكتف الأمامي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العصب الإبطي هو الأكثر عرضة للإصابة بخلع الكتف الأمامي. وتذكّر القاعدة: Anterior shoulder dislocation: injures the Axillary nerve. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. العصب الإبطي هو الأكثر عرضة للإصابة بخلع الكتف الأمامي. وتذكّر: Anterior shoulder dislocation: injures the Axillary nerve. والإجابة الصحيحة هي C."
     }
   ]
 }

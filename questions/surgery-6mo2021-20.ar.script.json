@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Thyroglossal cyst"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Branchial cyst، أو Reactive lymphadenopathy، أو Thyroglossal cyst، أو Cystic hygroma، أو Laryngocele. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Branchial cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglossal cyst. يصبح صحيحًا في سؤال يصف Branchial cyst, reactive lymphadenopathy, cystic hygroma, and laryngocele are all differential diagnoses for neck masses, but cholesterol crystal aspiration specifically confirms branchial cleft cyst over a cold (tuberculous) abscess. الخيار B، Reactive lymphadenopathy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglossal cyst. يصبح صحيحًا في سؤال يصف Branchial cyst, reactive lymphadenopathy, cystic hygroma, and laryngocele are all differential diagnoses for neck masses, but cholesterol crystal aspiration specifically confirms branchial cleft cyst over a cold (tuberculous) abscess. الخيار D، Cystic hygroma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglossal cyst. يصبح صحيحًا في سؤال يصف Branchial cyst, reactive lymphadenopathy, cystic hygroma, and laryngocele are all differential diagnoses for neck masses, but cholesterol crystal aspiration specifically confirms branchial cleft cyst over a cold (tuberculous) abscess. الخيار E، Laryngocele: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglossal cyst. يصبح صحيحًا في سؤال يصف Branchial cyst, reactive lymphadenopathy, cystic hygroma, and laryngocele are all differential diagnoses for neck masses, but cholesterol crystal aspiration specifically confirms branchial cleft cyst over a cold (tuberculous) abscess.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Branchial cyst: الإجابة الصحيحة هي Thyroglossal cyst. الخيار B، Reactive lymphadenopathy: الإجابة الصحيحة هي Thyroglossal cyst. الخيار D، Cystic hygroma: الإجابة الصحيحة هي Thyroglossal cyst. الخيار E، Laryngocele: الإجابة الصحيحة هي Thyroglossal cyst. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Moves with tongue protrusion = Thyroglossal d"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Thyroglossal cyst. الحركة مع بروز اللسان هي الدليل النوعي الذي يميز كيس القناة الدرقية اللسانية عن باقي كتل الرقبة المتوسطة."
+      "narration": "الخيار C، Thyroglossal cyst هو الإجابة الصحيحة. الحركة مع بروز اللسان هي الدليل النوعي الذي يميز كيس القناة الدرقية اللسانية عن باقي كتل الرقبة المتوسطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحركة مع بروز اللسان هي الدليل النوعي الذي يميز كيس القناة الدرقية اللسانية عن باقي كتل الرقبة المتوسطة. وتذكّر القاعدة: \"Moves with tongue protrusion = Thyroglossal duct cyst\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الحركة مع بروز اللسان هي الدليل النوعي الذي يميز كيس القناة الدرقية اللسانية عن باقي كتل الرقبة المتوسطة. وتذكّر: \"Moves with tongue protrusion = Thyroglossal duct cyst\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Poorer visualization of the operative fields",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل عيوب تنظير البطن، عند مقارنتها بفتح البطن، كل ما يلي باستثناء؟ أمامك هذه الخيارات: Difficulty controlling severe bleeding، أو Poorer visualization of the operative fields، أو Greater difficulty placing sutures، أو Loss of tactile sensation، أو Higher operating room costs. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل عيوب تنظير البطن، عند مقارنتها بفتح البطن، كل ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Difficulty controlling severe bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields. الخيار C، Greater difficulty placing sutures: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields. الخيار D، Loss of tactile sensation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields. الخيار E، Higher operating room costs: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Difficulty controlling severe bleeding, greater difficulty placing sutures, loss of tactile… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Poorer visualization of the operative fields.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Difficulty controlling severe bleeding: صحيحة، لكنها ليست الاستثناء. الخيار C، Greater difficulty placing sutures: صحيحة، لكنها ليست الاستثناء. الخيار D، Loss of tactile sensation: صحيحة، لكنها ليست الاستثناء. الخيار E، Higher operating room costs: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Laparoscopy: provides Better, not poorer, visu"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Poorer visualization of the operative fields. المنظار يوفر رؤية أفضل بفضل التكبير، لا أسوأ كما بالعبارة الخاطئة."
+      "narration": "الخيار B هو الإجابة الصحيحة. المنظار يوفر رؤية أفضل بفضل التكبير، لا أسوأ كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المنظار يوفر رؤية أفضل بفضل التكبير، لا أسوأ كما بالعبارة الخاطئة. وتذكّر القاعدة: Laparoscopy: provides Better, not poorer, visualization. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. المنظار يوفر رؤية أفضل بفضل التكبير، لا أسوأ كما بالعبارة الخاطئة. وتذكّر: Laparoscopy: provides Better, not poorer, visualization. والإجابة الصحيحة هي B."
     }
   ]
 }

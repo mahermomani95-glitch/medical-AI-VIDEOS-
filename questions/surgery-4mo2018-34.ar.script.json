@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Fibroblasts"
       },
-      "narration": "لنبدأ بهذا السؤال. النوع الأكثر انتشارًا من الخلايا في الجرح الذي يبلغ عمره 7 أيام هو أمامك هذه الخيارات: PMNs، أو Macrophages، أو Lymphocytes، أو Fibroblasts، أو Platelets. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. النوع الأكثر انتشارًا من الخلايا في الجرح الذي يبلغ عمره 7 أيام هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، PMNs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fibroblasts. يصبح صحيحًا في سؤال يصف PMNs dominate the earliest days (1-3) of wound healing, macrophages dominate days 3-7, and lymphocytes appear later in smaller numbers — none of these is the predominant cell specifically at day 7, when fibroblasts take over. الخيار B، Macrophages: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fibroblasts. يصبح صحيحًا في سؤال يصف PMNs dominate the earliest days (1-3) of wound healing, macrophages dominate days 3-7, and lymphocytes appear later in smaller numbers — none of these is the predominant cell specifically at day 7, when fibroblasts take over. الخيار C، Lymphocytes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fibroblasts. يصبح صحيحًا في سؤال يصف PMNs dominate the earliest days (1-3) of wound healing, macrophages dominate days 3-7, and lymphocytes appear later in smaller numbers — none of these is the predominant cell specifically at day 7, when fibroblasts take over. الخيار E، Platelets: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fibroblasts. يصبح صحيحًا في سؤال يستهدف Platelets تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، PMNs: الإجابة الصحيحة هي Fibroblasts. الخيار B، Macrophages: الإجابة الصحيحة هي Fibroblasts. الخيار C، Lymphocytes: الإجابة الصحيحة هي Fibroblasts. الخيار E، Platelets: الإجابة الصحيحة هي Fibroblasts. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Day 1-3 PMNs, Day 3-7 Macrophages, Day 5+ Fib"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Fibroblasts. بحلول اليوم السابع، تكون العدلات قد انحسرت وتصدّرت الأرومات الليفية المشهد لبدء ترسيب الكولاجين."
+      "narration": "الخيار D، Fibroblasts هو الإجابة الصحيحة. بحلول اليوم السابع، تكون العدلات قد انحسرت وتصدّرت الأرومات الليفية المشهد لبدء ترسيب الكولاجين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بحلول اليوم السابع، تكون العدلات قد انحسرت وتصدّرت الأرومات الليفية المشهد لبدء ترسيب الكولاجين. وتذكّر القاعدة: \"Day 1-3 PMNs, Day 3-7 Macrophages, Day 5+ Fibroblasts\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. بحلول اليوم السابع، تكون العدلات قد انحسرت وتصدّرت الأرومات الليفية المشهد لبدء ترسيب الكولاجين. وتذكّر: \"Day 1-3 PMNs, Day 3-7 Macrophages, Day 5+ Fibroblasts\". والإجابة الصحيحة هي D."
     }
   ]
 }

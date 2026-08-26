@@ -45,7 +45,7 @@
         "label": "Tetany",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. من المرجح أن يكون أحد الأعراض التالية موجودًا لدى المريض الذي يعاني مننقص شديد في المغنيسيوم؟ أمامك هذه الخيارات: Respiratory depression، أو Short PR interval، أو Tetany، أو Short QRS complexes، أو Loss of patellar reflex. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. من المرجح أن يكون أحد الأعراض التالية موجودًا لدى المريض الذي يعاني مننقص شديد في المغنيسيوم؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Respiratory depression: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tetany. يصبح صحيحًا في سؤال يصف Respiratory depression is more linked to opioid toxicity or severe hypermagnesemia (the opposite). الخيار B، Short PR interval: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tetany. يصبح صحيحًا في سؤال يصف a short PR interval and short QRS don't match hypomagnesemia's typical ECG changes (which tend to prolong intervals). الخيار D، Short QRS complexes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Tetany. يصبح صحيحًا في سؤال يصف a short PR interval and short QRS don't match hypomagnesemia's typical ECG changes (which tend to prolong intervals). الخيار E، Loss of patellar reflex: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا deficiency — tetany is the classic presentation of severe magnesium deficiency, similar to hypocalcemia. يصبح صحيحًا في سؤال يصف loss of patellar reflex is actually a sign of hyperMAGNESEMIA.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Respiratory depression: الإجابة الصحيحة هي Tetany. الخيار B، Short PR interval: الإجابة الصحيحة هي Tetany. الخيار D، Short QRS complexes: الإجابة الصحيحة هي Tetany. الخيار E، Loss of patellar reflex: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Severe Mg deficiency: causes Tetany"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Tetany. نقص المغنيزيوم الشديد يرفع الاستثارة العصبية العضلية فيسبب تكززًا."
+      "narration": "الخيار C، Tetany هو الإجابة الصحيحة. نقص المغنيزيوم الشديد يرفع الاستثارة العصبية العضلية فيسبب تكززًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقص المغنيزيوم الشديد يرفع الاستثارة العصبية العضلية فيسبب تكززًا. وتذكّر القاعدة: Severe Mg deficiency: causes Tetany. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. نقص المغنيزيوم الشديد يرفع الاستثارة العصبية العضلية فيسبب تكززًا. وتذكّر: Severe Mg deficiency: causes Tetany. والإجابة الصحيحة هي C."
     }
   ]
 }

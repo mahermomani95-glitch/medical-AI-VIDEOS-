@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "IV hydration normal saline 0.9%"
       },
-      "narration": "لنبدأ بهذا السؤال. الخطوة الأولى في إدارة فرط كالسيوم الدم هي؟ أمامك هذه الخيارات: IV hydration normal saline 0.9%، أو Hydrocortisone، أو Dialysis، أو Administration of Furosemide، أو Administration of mithramycin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الخطوة الأولى في إدارة فرط كالسيوم الدم هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Hydrocortisone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hydration normal saline 0.9%. يصبح صحيحًا في سؤال يصف Hydrocortisone, dialysis, furosemide, and mithramycin/plicamycin are used in specific or refractory cases, but IV isotonic saline hydration remains the essential first step in managing acute hypercalcemia. الخيار C، Dialysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hydration normal saline 0.9%. يصبح صحيحًا في سؤال يصف Hydrocortisone, dialysis, furosemide, and mithramycin/plicamycin are used in specific or refractory cases, but IV isotonic saline hydration remains the essential first step in managing acute hypercalcemia. الخيار D، Administration of Furosemide: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hydration normal saline 0.9%. يصبح صحيحًا في سؤال يصف Hydrocortisone, dialysis, furosemide, and mithramycin/plicamycin are used in specific or refractory cases, but IV isotonic saline hydration remains the essential first step in managing acute hypercalcemia. الخيار E، Administration of mithramycin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV hydration normal saline 0.9%. يصبح صحيحًا في سؤال يصف Hydrocortisone, dialysis, furosemide, and mithramycin/plicamycin are used in specific or refractory cases, but IV isotonic saline hydration remains the essential first step in managing acute hypercalcemia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Hydrocortisone: الإجابة الصحيحة هي IV hydration normal saline 0.9%. الخيار C، Dialysis: الإجابة الصحيحة هي IV hydration normal saline 0.9%. الخيار D، Administration of Furosemide: الإجابة الصحيحة هي IV hydration normal saline 0.9%. الخيار E، Administration of mithramycin: الإجابة الصحيحة هي IV hydration normal saline 0.9%. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hypercalcemia: Hydrate first with normal salin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: IV hydration normal saline 0.9%. الإماهة الوريدية بالمحلول الملحي هي الخطوة الأولى القياسية لفرط الكالسيوم."
+      "narration": "الخيار A هو الإجابة الصحيحة. الإماهة الوريدية بالمحلول الملحي هي الخطوة الأولى القياسية لفرط الكالسيوم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإماهة الوريدية بالمحلول الملحي هي الخطوة الأولى القياسية لفرط الكالسيوم. وتذكّر القاعدة: Hypercalcemia: Hydrate first with normal saline. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الإماهة الوريدية بالمحلول الملحي هي الخطوة الأولى القياسية لفرط الكالسيوم. وتذكّر: Hypercalcemia: Hydrate first with normal saline. والإجابة الصحيحة هي A."
     }
   ]
 }

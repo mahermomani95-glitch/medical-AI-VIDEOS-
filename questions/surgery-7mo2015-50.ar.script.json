@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Escharotomy"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 28 عامًا، يعاني من حروق شديدة من الدرجة الثانيةوالثالثة، وقد وُضع له أنبوب تنفس وبدأ إنعاشه بالسوائل الوريدية. يعانيالمريض من حرق محيطي في ذراعه اليمنى، مع لون أزرق باهت. أفضل خطوةتالية هي:؟ أمامك هذه الخيارات: Fasciotomy، أو Arm elevation، أو Thrombectomy، أو Streptokinase، أو Escharotomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 28 عامًا، يعاني من حروق شديدة من الدرجة الثانيةوالثالثة، وقد وُضع له أنبوب تنفس وبدأ إنعاشه بالسوائل الوريدية. يعانيالمريض من حرق محيطي في ذراعه اليمنى، مع لون أزرق باهت. أفضل خطوةتالية هي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Fasciotomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا chest wall restriction. يصبح صحيحًا في سؤال يصف Fasciotomy treats limb compartment syndrome. الخيار B، Arm elevation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Escharotomy. يصبح صحيحًا في سؤال يصف arm elevation is a minor supportive measure. الخيار C، Thrombectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Escharotomy. يصبح صحيحًا في سؤال يصف thrombectomy and streptokinase address clots, unrelated here — escharotomy is needed to relieve the restrictive effect of circumferential burn eschar on chest wall movement or limb circulation. الخيار D، Streptokinase: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Escharotomy. يصبح صحيحًا في سؤال يصف thrombectomy and streptokinase address clots, unrelated here — escharotomy is needed to relieve the restrictive effect of circumferential burn eschar on chest wall movement or limb circulation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Fasciotomy: المطلوب هنا chest wall restriction. الخيار B، Arm elevation: الإجابة الصحيحة هي Escharotomy. الخيار C، Thrombectomy: الإجابة الصحيحة هي Escharotomy. الخيار D، Streptokinase: الإجابة الصحيحة هي Escharotomy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Constricting deep burn: needs Escharotomy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Escharotomy. بضع الخشكريشة يُحرر الضغط الميكانيكي المهدد للتروية بالحروق العميقة المحيطية."
+      "narration": "الخيار E، Escharotomy هو الإجابة الصحيحة. بضع الخشكريشة يُحرر الضغط الميكانيكي المهدد للتروية بالحروق العميقة المحيطية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بضع الخشكريشة يُحرر الضغط الميكانيكي المهدد للتروية بالحروق العميقة المحيطية. وتذكّر القاعدة: Constricting deep burn: needs Escharotomy. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. بضع الخشكريشة يُحرر الضغط الميكانيكي المهدد للتروية بالحروق العميقة المحيطية. وتذكّر: Constricting deep burn: needs Escharotomy. والإجابة الصحيحة هي E."
     }
   ]
 }

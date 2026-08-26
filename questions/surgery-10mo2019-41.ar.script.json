@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "ilioinguinal nerve"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Femoral nerve، أو Hypogastric nerve، أو Lateral femoral cutaneous nerve، أو ilioinguinal nerve، أو Sciatic nerve. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Femoral nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ilioinguinal nerve. يصبح صحيحًا في سؤال يصف The femoral nerve, hypogastric nerve, lateral femoral cutaneous nerve, and sciatic nerve are all nerves in the pelvic/thigh region, but the ilioinguinal nerve's specific sensory territory (medial thigh and scrotum) matches the described postoperative numbness pattern. الخيار B، Hypogastric nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ilioinguinal nerve. يصبح صحيحًا في سؤال يصف The femoral nerve, hypogastric nerve, lateral femoral cutaneous nerve, and sciatic nerve are all nerves in the pelvic/thigh region, but the ilioinguinal nerve's specific sensory territory (medial thigh and scrotum) matches the described postoperative numbness pattern. الخيار C، Lateral femoral cutaneous nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ilioinguinal nerve. يصبح صحيحًا في سؤال يصف The femoral nerve, hypogastric nerve, lateral femoral cutaneous nerve, and sciatic nerve are all nerves in the pelvic/thigh region, but the ilioinguinal nerve's specific sensory territory (medial thigh and scrotum) matches the described postoperative numbness pattern. الخيار E، Sciatic nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي ilioinguinal nerve. يصبح صحيحًا في سؤال يصف The femoral nerve, hypogastric nerve, lateral femoral cutaneous nerve, and sciatic nerve are all nerves in the pelvic/thigh region, but the ilioinguinal nerve's specific sensory territory (medial thigh and scrotum) matches the described postoperative numbness pattern.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Femoral nerve: الإجابة الصحيحة هي ilioinguinal nerve. الخيار B، Hypogastric nerve: الإجابة الصحيحة هي ilioinguinal nerve. الخيار C، Lateral femoral cutaneous nerve: الإجابة الصحيحة هي ilioinguinal nerve. الخيار E، Sciatic nerve: الإجابة الصحيحة هي ilioinguinal nerve. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Ilioinguinal nerve = medial thigh + scrotal n"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: ilioinguinal nerve. ألم إربي مزمن ينتشر للخصية مع تنميل الفخذ الإنسي والصفن يوجّه لأذية العصب الحرقفي الإربي الناتجة عن الجراحة السابقة."
+      "narration": "الخيار D، ilioinguinal nerve هو الإجابة الصحيحة. ألم إربي مزمن ينتشر للخصية مع تنميل الفخذ الإنسي والصفن يوجّه لأذية العصب الحرقفي الإربي الناتجة عن الجراحة السابقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم إربي مزمن ينتشر للخصية مع تنميل الفخذ الإنسي والصفن يوجّه لأذية العصب الحرقفي الإربي الناتجة عن الجراحة السابقة. وتذكّر القاعدة: \"Ilioinguinal nerve = medial thigh + scrotal numbness after hernia repair\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ألم إربي مزمن ينتشر للخصية مع تنميل الفخذ الإنسي والصفن يوجّه لأذية العصب الحرقفي الإربي الناتجة عن الجراحة السابقة. والإجابة الصحيحة هي D."
     }
   ]
 }

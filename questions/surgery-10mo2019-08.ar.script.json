@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Venous ulcer"
       },
-      "narration": "لنبدأ بهذا السؤال. التشخيص الأكثر احتمالا هو أمامك هذه الخيارات: Diabetic ulcer، أو Marjolin's ulcer، أو Arterial ulcer، أو Venous ulcer، أو Neuropathic ulcer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. التشخيص الأكثر احتمالا هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Diabetic ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Venous ulcer. يصبح صحيحًا في سؤال يصف Diabetic ulcer, Marjolin's ulcer, arterial ulcer, and neuropathic ulcer all have different locations and appearances, but venous ulcer specifically matches the classic location above the medial malleolus with hemosiderin staining. الخيار B، Marjolin's ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Venous ulcer. يصبح صحيحًا في سؤال يصف Diabetic ulcer, Marjolin's ulcer, arterial ulcer, and neuropathic ulcer all have different locations and appearances, but venous ulcer specifically matches the classic location above the medial malleolus with hemosiderin staining. الخيار C، Arterial ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Venous ulcer. يصبح صحيحًا في سؤال يصف Diabetic ulcer, Marjolin's ulcer, arterial ulcer, and neuropathic ulcer all have different locations and appearances, but venous ulcer specifically matches the classic location above the medial malleolus with hemosiderin staining. الخيار E، Neuropathic ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Venous ulcer. يصبح صحيحًا في سؤال يصف Diabetic ulcer, Marjolin's ulcer, arterial ulcer, and neuropathic ulcer all have different locations and appearances, but venous ulcer specifically matches the classic location above the medial malleolus with hemosiderin staining.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Diabetic ulcer: الإجابة الصحيحة هي Venous ulcer. الخيار B، Marjolin's ulcer: الإجابة الصحيحة هي Venous ulcer. الخيار C، Arterial ulcer: الإجابة الصحيحة هي Venous ulcer. الخيار E، Neuropathic ulcer: الإجابة الصحيحة هي Venous ulcer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Medial malleolus + brown skin = Venous ulcer\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Venous ulcer. فرط التصبغ والتصلب حول الكعب الإنسي مع قرحة في هذا الموقع بالتحديد هو الموقع والمظهر الكلاسيكي للقرحة الوريدية."
+      "narration": "الخيار D، Venous ulcer هو الإجابة الصحيحة. فرط التصبغ والتصلب حول الكعب الإنسي مع قرحة في هذا الموقع بالتحديد هو الموقع والمظهر الكلاسيكي للقرحة الوريدية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرط التصبغ والتصلب حول الكعب الإنسي مع قرحة في هذا الموقع بالتحديد هو الموقع والمظهر الكلاسيكي للقرحة الوريدية. وتذكّر القاعدة: \"Medial malleolus + brown skin = Venous ulcer\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. فرط التصبغ والتصلب حول الكعب الإنسي مع قرحة في هذا الموقع بالتحديد هو الموقع والمظهر الكلاسيكي للقرحة الوريدية. وتذكّر: \"Medial malleolus + brown skin = Venous ulcer\". والإجابة الصحيحة هي D."
     }
   ]
 }

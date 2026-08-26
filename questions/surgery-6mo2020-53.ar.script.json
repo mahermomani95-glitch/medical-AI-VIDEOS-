@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Men and women are equally affected"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Men and women are equally affected، أو Indirect inguinal hernia is the most common hernia in females، أو Inguinal hernia is the most common type of hernia in both males & females، أو Obturator hernia is a rare type of hernia، أو Direct inguinal hernia can be seen in females. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Indirect inguinal hernia is the most common hernia in females: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Indirect inguinal hernia as the most common hernia in females, inguinal hernia as the most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Men and women are equally affected. الخيار C، Inguinal hernia is the most common type of hernia in both males & females: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Indirect inguinal hernia as the most common hernia in females, inguinal hernia as the most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Men and women are equally affected. الخيار D، Obturator hernia is a rare type of hernia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Indirect inguinal hernia as the most common hernia in females, inguinal hernia as the most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Men and women are equally affected. الخيار E، Direct inguinal hernia can be seen in females: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Indirect inguinal hernia as the most common hernia in females, inguinal hernia as the most… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Men and women are equally affected.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hernias = much more common in men\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Men and women are equally affected. الرجال أكثر تأثرًا بالفتوق إجمالًا (خصوصًا الإربية) من النساء بفارق كبير — حقيقة وبائية راسخة، وليست تمثيلًا متساويًا."
+      "narration": "الخيار A هو الإجابة الصحيحة. الرجال أكثر تأثرًا بالفتوق إجمالًا (خصوصًا الإربية) من النساء بفارق كبير — حقيقة وبائية راسخة، وليست تمثيلًا متساويًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الرجال أكثر تأثرًا بالفتوق إجمالًا (خصوصًا الإربية) من النساء بفارق كبير — حقيقة وبائية راسخة، وليست تمثيلًا متساويًا. وتذكّر القاعدة: \"Hernias = much more common in men\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الرجال أكثر تأثرًا بالفتوق إجمالًا (خصوصًا الإربية) من النساء بفارق كبير — حقيقة وبائية راسخة، وليست تمثيلًا متساويًا. وتذكّر: \"Hernias = much more common in men\". والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Fox sign"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 39 عامًا يعاني من ألم شديد في المنطقة الشرسوفية وألمفي الربع العلوي الأيمن من البطن. ينتشر الألم إلى الظهر مصحوبًا بغثيانوقيء. يُظهر فحص البطن كدمات أسفل الرباط الإربي. تُسمى هذه العلامة؟ أمامك هذه الخيارات: Cullen sign، أو Boas sign، أو Fox sign، أو Grey turner sign، أو Murphy's sign. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 39 عامًا يعاني من ألم شديد في المنطقة الشرسوفية وألمفي الربع العلوي الأيمن من البطن. ينتشر الألم إلى الظهر مصحوبًا بغثيانوقيء. يُظهر فحص البطن كدمات أسفل الرباط الإربي. تُسمى هذه العلامة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Cullen sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fox sign. يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Grey Turner's sign (D, flank bruising), and Murphy's sign (E, gallbladder-specific) are all different named signs, but Fox's sign specifically refers to ecchymosis over the inguinal ligament seen in some cases of intraperitoneal bleeding/pancreatitis matching this clinical picture. الخيار B، Boas sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fox sign. يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Grey Turner's sign (D, flank bruising), and Murphy's sign (E, gallbladder-specific) are all different named signs, but Fox's sign specifically refers to ecchymosis over the inguinal ligament seen in some cases of intraperitoneal bleeding/pancreatitis matching this clinical picture. الخيار D، Grey turner sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fox sign. يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Grey Turner's sign (D, flank bruising), and Murphy's sign (E, gallbladder-specific) are all different named signs, but Fox's sign specifically refers to ecchymosis over the inguinal ligament seen in some cases of intraperitoneal bleeding/pancreatitis matching this clinical picture. الخيار E، Murphy's sign: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fox sign. يصبح صحيحًا في سؤال يصف Cullen's sign (A, periumbilical bruising), Boas sign (B, referred right subscapular pain in cholecystitis), Grey Turner's sign (D, flank bruising), and Murphy's sign (E, gallbladder-specific) are all different named signs, but Fox's sign specifically refers to ecchymosis over the inguinal ligament seen in some cases of intraperitoneal bleeding/pancreatitis matching this clinical picture.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Cullen sign: الإجابة الصحيحة هي Fox sign. الخيار B، Boas sign: الإجابة الصحيحة هي Fox sign. الخيار D، Grey turner sign: الإجابة الصحيحة هي Fox sign. الخيار E، Murphy's sign: الإجابة الصحيحة هي Fox sign. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "This scenario: matches the Fox sign"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Fox sign. علامة فوكس الإشعاعية توقّع على سياق سريري نوعي بهذا التوصيف."
+      "narration": "الخيار C، Fox sign هو الإجابة الصحيحة. علامة فوكس الإشعاعية توقّع على سياق سريري نوعي بهذا التوصيف."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. علامة فوكس الإشعاعية توقّع على سياق سريري نوعي بهذا التوصيف. وتذكّر القاعدة: This scenario: matches the Fox sign. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. علامة فوكس الإشعاعية توقّع على سياق سريري نوعي بهذا التوصيف. وتذكّر: This scenario: matches the Fox sign. والإجابة الصحيحة هي C."
     }
   ]
 }

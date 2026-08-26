@@ -45,7 +45,7 @@
         "label": "Most gallstones are seen on X-ray",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل التالية عن حصوات المرارة صحيحة باستثناء؟ أمامك هذه الخيارات: Obesity and bariatric surgery are risk factors for gallstones formation، أو Cholecystectomy can be performed in pregnant woman، أو Every patient undergoing cholecystectomy should be consented about bile leak، أو Extracorporeal shock wave lithotripsy is not an effective treatment for gallstones، أو Most gallstones are seen on X-ray. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل التالية عن حصوات المرارة صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity and bariatric surgery are risk factors for gallstones formation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity/bariatric surgery as risk factors, safety of cholecystectomy in pregnancy, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most gallstones are seen on X-ray. الخيار B، Cholecystectomy can be performed in pregnant woman: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity/bariatric surgery as risk factors, safety of cholecystectomy in pregnancy, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most gallstones are seen on X-ray. الخيار C، Every patient undergoing cholecystectomy should be consented about bile leak: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity/bariatric surgery as risk factors, safety of cholecystectomy in pregnancy, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most gallstones are seen on X-ray. الخيار D، Extracorporeal shock wave lithotripsy is not an effective treatment for gallstones: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity/bariatric surgery as risk factors, safety of cholecystectomy in pregnancy, and the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most gallstones are seen on X-ray.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Gallstones: mostly not Visible on plain X-ray"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Most gallstones are seen on X-ray. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة."
+      "narration": "الخيار E هو الإجابة الصحيحة. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة. وتذكّر القاعدة: Gallstones: mostly not Visible on plain X-ray. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة. وتذكّر: Gallstones: mostly not Visible on plain X-ray. والإجابة الصحيحة هي E."
     }
   ]
 }

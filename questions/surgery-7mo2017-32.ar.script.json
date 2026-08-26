@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Epidural hematoma"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 25 عامًا حضرت إلى قسم الطوارئ بعد تعرضها لحادثمروري قبل ساعتين ونصف أثناء قيادة السيارة. تشكو من صداع في الجانبالأيمن ولا تتذكر الحادث. أظهر الفحص وجود كسر مشوه في الجانب الأيمنمن جمجمتها. أرسلتم المريضة لإجراء تصوير مقطعي محوسب لرأسها. بعدالتصوير المقطعي، فقدت المريضة وعيها فجأة. من المرجح أن يُظهر التصويرالمقطعي المحوسب...؟ أمامك هذه الخيارات: Epidural hematoma، أو Subdural hematoma، أو Cerebral contusion، أو Postconcussion syndrome، أو Diffuse axonal injury. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 25 عامًا حضرت إلى قسم الطوارئ بعد تعرضها لحادثمروري قبل ساعتين ونصف أثناء قيادة السيارة. تشكو من صداع في الجانبالأيمن ولا تتذكر الحادث. أظهر الفحص وجود كسر مشوه في الجانب الأيمنمن جمجمتها. أرسلتم المريضة لإجراء تصوير مقطعي محوسب لرأسها. بعدالتصوير المقطعي، فقدت المريضة وعيها فجأة. من المرجح أن يُظهر التصويرالمقطعي المحوسب...؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Subdural hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epidural hematoma. يصبح صحيحًا في سؤال يصف Subdural hematoma, cerebral contusion, postconcussion syndrome, and diffuse axonal injury don't classically present with the lucid interval followed by rapid deterioration pattern — epidural hematoma is the classic diagnosis matching this presentation. الخيار C، Cerebral contusion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epidural hematoma. يصبح صحيحًا في سؤال يصف Subdural hematoma, cerebral contusion, postconcussion syndrome, and diffuse axonal injury don't classically present with the lucid interval followed by rapid deterioration pattern — epidural hematoma is the classic diagnosis matching this presentation. الخيار D، Postconcussion syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epidural hematoma. يصبح صحيحًا في سؤال يصف Subdural hematoma, cerebral contusion, postconcussion syndrome, and diffuse axonal injury don't classically present with the lucid interval followed by rapid deterioration pattern — epidural hematoma is the classic diagnosis matching this presentation. الخيار E، Diffuse axonal injury: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epidural hematoma. يصبح صحيحًا في سؤال يصف Subdural hematoma, cerebral contusion, postconcussion syndrome, and diffuse axonal injury don't classically present with the lucid interval followed by rapid deterioration pattern — epidural hematoma is the classic diagnosis matching this presentation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Subdural hematoma: الإجابة الصحيحة هي Epidural hematoma. الخيار C، Cerebral contusion: الإجابة الصحيحة هي Epidural hematoma. الخيار D، Postconcussion syndrome: الإجابة الصحيحة هي Epidural hematoma. الخيار E، Diffuse axonal injury: الإجابة الصحيحة هي Epidural hematoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Lucid interval, then deterioration: Epidural h"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Epidural hematoma. فترة صحو واعية تلي رضًا ثم تدهور مفاجئ توقيع كلاسيكي لفوق الجافية."
+      "narration": "الخيار A، Epidural hematoma هو الإجابة الصحيحة. فترة صحو واعية تلي رضًا ثم تدهور مفاجئ توقيع كلاسيكي لفوق الجافية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فترة صحو واعية تلي رضًا ثم تدهور مفاجئ توقيع كلاسيكي لفوق الجافية. وتذكّر القاعدة: Lucid interval, then deterioration: Epidural hematoma. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. فترة صحو واعية تلي رضًا ثم تدهور مفاجئ توقيع كلاسيكي لفوق الجافية. وتذكّر: Lucid interval, then deterioration: Epidural hematoma. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Damage to the radial nerve"
       },
-      "narration": "لنبدأ بهذا السؤال. يحدث سقوط المعصم بسبب؟ أمامك هذه الخيارات: Damage to the median nerve، أو Damage to the radial nerve، أو Damage to the ulnar nerve، أو Caused by a fracture in a scaphoid bone، أو Caused by a fracture in radius bone. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يحدث سقوط المعصم بسبب؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Damage to the median nerve: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا wrist drop. يصبح صحيحًا في سؤال يصف Median nerve damage causes 'ape hand' or loss of thumb opposition. الخيار C، Damage to the ulnar nerve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to the radial nerve. يصبح صحيحًا في سؤال يصف ulnar nerve damage causes claw hand. الخيار D، Caused by a fracture in a scaphoid bone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to the radial nerve. يصبح صحيحًا في سؤال يصف scaphoid and radius fractures cause different deformities — radial nerve damage specifically causes wrist drop from loss of wrist/finger extension. الخيار E، Caused by a fracture in radius bone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Damage to the radial nerve. يصبح صحيحًا في سؤال يصف scaphoid and radius fractures cause different deformities — radial nerve damage specifically causes wrist drop from loss of wrist/finger extension.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا wrist drop. الخيار C: الإجابة الصحيحة هي Damage to the radial nerve. الخيار D: الإجابة الصحيحة هي Damage to the radial nerve. الخيار E: الإجابة الصحيحة هي Damage to the radial nerve. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Wrist drop: from Radial nerve damage"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Damage to the radial nerve. إصابة العصب الكعبري تشل عضلات بسط الرسغ فتسبب تدليه."
+      "narration": "الخيار B هو الإجابة الصحيحة. إصابة العصب الكعبري تشل عضلات بسط الرسغ فتسبب تدليه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إصابة العصب الكعبري تشل عضلات بسط الرسغ فتسبب تدليه. وتذكّر القاعدة: Wrist drop: from Radial nerve damage. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. إصابة العصب الكعبري تشل عضلات بسط الرسغ فتسبب تدليه. وتذكّر: Wrist drop: from Radial nerve damage. والإجابة الصحيحة هي B."
     }
   ]
 }

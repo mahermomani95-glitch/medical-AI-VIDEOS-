@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Medical treatment"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل مدخن يبلغ من العمر 41 عامًا شُخِّصَ بسرطان الغدد الليمفاوية المعويةمنخفض الدرجة. بعد نجاح العلاج، خضع لتنظير داخلي علوي للمراقبة، والذيأظهر شفاءً تامًا. ما نوع العلاج الذي تلقاه؟ أمامك هذه الخيارات: Medical treatment، أو Surgical treatment، أو Chemotherapy، أو Observation، أو Surgical and chemotherapy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل مدخن يبلغ من العمر 41 عامًا شُخِّصَ بسرطان الغدد الليمفاوية المعويةمنخفض الدرجة. بعد نجاح العلاج، خضع لتنظير داخلي علوي للمراقبة، والذيأظهر شفاءً تامًا. ما نوع العلاج الذي تلقاه؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Surgical treatment: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often suffices first. يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy. الخيار C، Chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often suffices first. يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy. الخيار D، Observation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often suffices first. يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy. الخيار E، Surgical and chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first-line approach for early gastric MALT lymphoma responsive to H. pylori eradication — medical therapy alone often suffices first. يصبح صحيحًا في سؤال يصف Surgical treatment alone, chemotherapy alone, observation, and combined surgery with chemotherapy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Surgical treatment: لا ينطبق على هذه الحالة. الخيار C، Chemotherapy: لا ينطبق على هذه الحالة. الخيار D، Observation: لا ينطبق على هذه الحالة. الخيار E، Surgical and chemotherapy: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Cured without surgery = Medical (H. pylori) t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Medical treatment. الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع."
+      "narration": "الخيار A، Medical treatment هو الإجابة الصحيحة. الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع. وتذكّر القاعدة: \"Cured without surgery = Medical (H. pylori) therapy\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الشفاء الكامل بالتنظير دون جراحة يشير لنجاح العلاج الدوائي لاستئصال جرثومة الملوية البوابية كما هو متوقع. وتذكّر: \"Cured without surgery = Medical (H. pylori) therapy\". والإجابة الصحيحة هي A."
     }
   ]
 }

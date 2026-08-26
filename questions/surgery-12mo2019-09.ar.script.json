@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Open reduction and internal fixation"
       },
-      "narration": "لنبدأ بهذا السؤال. نُقلت امرأة تبلغ من العمر 46 عامًا إلى قسم الطوارئ بسبب ألم وتورم فيركبتها اليمنى بعد سقوطها من فوق حصانها. الركبة اليمنى متورمة ومؤلمة،ويحد الألم من نطاق حركتها. تظهر صورة بالأشعة السينية للركبة اليمنى. أيمما يلي هو العلاج طويل الأمد الأنسب لهذه المريضة؟ أمامك هذه الخيارات: Closed reduction and casting، أو Rest, ice, and elevation، أو Splint placement، أو Closed reduction and percutaneous pinning، أو Open reduction and internal fixation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. نُقلت امرأة تبلغ من العمر 46 عامًا إلى قسم الطوارئ بسبب ألم وتورم فيركبتها اليمنى بعد سقوطها من فوق حصانها. الركبة اليمنى متورمة ومؤلمة،ويحد الألم من نطاق حركتها. تظهر صورة بالأشعة السينية للركبة اليمنى. أيمما يلي هو العلاج طويل الأمد الأنسب لهذه المريضة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Closed reduction and casting: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open reduction and internal fixation. يصبح صحيحًا في سؤال يصف Closed reduction and casting, rest/ice/elevation, and simple splinting don't provide the precise anatomic restoration needed for a displaced intra-articular fracture. الخيار B، Rest, ice, and elevation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open reduction and internal fixation. يصبح صحيحًا في سؤال يصف Closed reduction and casting, rest/ice/elevation, and simple splinting don't provide the precise anatomic restoration needed for a displaced intra-articular fracture. الخيار C، Splint placement: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open reduction and internal fixation. يصبح صحيحًا في سؤال يصف Closed reduction and casting, rest/ice/elevation, and simple splinting don't provide the precise anatomic restoration needed for a displaced intra-articular fracture. الخيار D، Closed reduction and percutaneous pinning: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open reduction and internal fixation. يصبح صحيحًا في سؤال يصف percutaneous pinning with closed reduction may be adequate for some fractures but ORIF gives more definitive fixation for a significantly displaced articular fracture.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Closed reduction and casting: الإجابة الصحيحة هي Open reduction and internal fixation. الخيار B، Rest, ice, and elevation: الإجابة الصحيحة هي Open reduction and internal fixation. الخيار C، Splint placement: الإجابة الصحيحة هي Open reduction and internal fixation. الخيار D: الإجابة الصحيحة هي Open reduction and internal fixation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Displaced intra-articular fracture = ORIF\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Open reduction and internal fixation. كسر مفصلي بالركبة مُزاح ناتج عن رضح كبير يحتاج إرجاعًا تشريحيًا وتثبيتًا لاستعادة استواء السطح المفصلي — تثبيت مفتوح بالصفائح والبراغي، وليس علاجًا مغلقًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. كسر مفصلي بالركبة مُزاح ناتج عن رضح كبير يحتاج إرجاعًا تشريحيًا وتثبيتًا لاستعادة استواء السطح المفصلي — تثبيت مفتوح بالصفائح والبراغي، وليس علاجًا مغلقًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كسر مفصلي بالركبة مُزاح ناتج عن رضح كبير يحتاج إرجاعًا تشريحيًا وتثبيتًا لاستعادة استواء السطح المفصلي — تثبيت مفتوح بالصفائح والبراغي، وليس علاجًا مغلقًا. وتذكّر القاعدة: \"Displaced intra-articular fracture = ORIF\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. كسر مفصلي بالركبة مُزاح ناتج عن رضح كبير يحتاج إرجاعًا تشريحيًا وتثبيتًا لاستعادة استواء السطح المفصلي — تثبيت مفتوح بالصفائح والبراغي، وليس علاجًا مغلقًا. وتذكّر: \"Displaced intra-articular fracture = ORIF\". والإجابة الصحيحة هي E."
     }
   ]
 }

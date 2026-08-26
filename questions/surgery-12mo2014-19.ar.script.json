@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Epidermal appendeges"
       },
-      "narration": "لنبدأ بهذا السؤال. قد يُشفى الحرق من الدرجة الثانية دون الحاجة إلى ترقيع. أيٌّ مما يلي يُعدّمصدرًا لخلايا الجلد الجديدة؟ (سؤال مكرر، راجع السؤال رقم 169) أمامك هذه الخيارات: Inrtadermal macrophages، أو Migratory dendritic cell، أو Dermatocyte، أو Melanocytes، أو Epidermal appendeges. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. قد يُشفى الحرق من الدرجة الثانية دون الحاجة إلى ترقيع. أيٌّ مما يلي يُعدّمصدرًا لخلايا الجلد الجديدة؟ (سؤال مكرر، راجع السؤال رقم 169) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inrtadermal macrophages: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the source of new epithelium — surviving epidermal appendages (hair follicles, sweat glands) in the deeper dermis provide the epithelial cells for re-epithelialization in second-degree burns. يصبح صحيحًا في سؤال يصف Intradermal macrophages, migratory dendritic cells, 'dermatocytes', and melanocytes. الخيار B، Migratory dendritic cell: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the source of new epithelium — surviving epidermal appendages (hair follicles, sweat glands) in the deeper dermis provide the epithelial cells for re-epithelialization in second-degree burns. يصبح صحيحًا في سؤال يصف Intradermal macrophages, migratory dendritic cells, 'dermatocytes', and melanocytes. الخيار C، Dermatocyte: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the source of new epithelium — surviving epidermal appendages (hair follicles, sweat glands) in the deeper dermis provide the epithelial cells for re-epithelialization in second-degree burns. يصبح صحيحًا في سؤال يصف Intradermal macrophages, migratory dendritic cells, 'dermatocytes', and melanocytes. الخيار D، Melanocytes: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the source of new epithelium — surviving epidermal appendages (hair follicles, sweat glands) in the deeper dermis provide the epithelial cells for re-epithelialization in second-degree burns. يصبح صحيحًا في سؤال يصف Intradermal macrophages, migratory dendritic cells, 'dermatocytes', and melanocytes.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Inrtadermal macrophages: لا ينطبق على هذه الحالة. الخيار B، Migratory dendritic cell: لا ينطبق على هذه الحالة. الخيار C، Dermatocyte: لا ينطبق على هذه الحالة. الخيار D، Melanocytes: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Second-degree burn healing: from Epidermal app"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Epidermal appendeges. الزوائد الجلدية العميقة هي مصدر تجدد الظهارة بحرق الدرجة الثانية."
+      "narration": "الخيار E، Epidermal appendeges هو الإجابة الصحيحة. الزوائد الجلدية العميقة هي مصدر تجدد الظهارة بحرق الدرجة الثانية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الزوائد الجلدية العميقة هي مصدر تجدد الظهارة بحرق الدرجة الثانية. وتذكّر القاعدة: Second-degree burn healing: from Epidermal appendages. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الزوائد الجلدية العميقة هي مصدر تجدد الظهارة بحرق الدرجة الثانية. وتذكّر: Second-degree burn healing: from Epidermal appendages. والإجابة الصحيحة هي E."
     }
   ]
 }

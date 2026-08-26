@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Superficial partial thickness burn"
       },
-      "narration": "لنبدأ بهذا السؤال. نُقل طفل يبلغ من العمر تسع سنوات إلى قسم الطوارئ إثر إصابته بحروق فيجذعه قبل 40 دقيقة. أفادت والدته أنها كانت تطبخ وتشرب فنجانًا من القهوةبينما كان الطفل يلعب على طاولة المطبخ. بعد فترة، ذهبت إلى الحمام، وعندماعادت كان الطفل يصرخ ويبكي، وقد انسكبت القهوة على بيجامته. علاماتهالحيوية ضمن المعدلات الطبيعية. أظهر الفحص أن المريض يبكي من الألم. يوجد جرح أحمر غير مبيض، ذو مظهر رطب، مع بعض البثور سميكة الجدران،مؤلمة عند اللمس على صدره. لا توجد أي حروق أخرى على المريض. أي ممايلي هو التشخيص الأكثر احتمالًا.؟ أمامك هذه الخيارات: Deep partial-thickness burn، أو First degree burn، أو Full Thickness Burn، أو Superficial burn، أو Superficial partial thickness burn. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. نُقل طفل يبلغ من العمر تسع سنوات إلى قسم الطوارئ إثر إصابته بحروق فيجذعه قبل 40 دقيقة. أفادت والدته أنها كانت تطبخ وتشرب فنجانًا من القهوةبينما كان الطفل يلعب على طاولة المطبخ. بعد فترة، ذهبت إلى الحمام، وعندماعادت كان الطفل يصرخ ويبكي، وقد انسكبت القهوة على بيجامته. علاماتهالحيوية ضمن المعدلات الطبيعية. أظهر الفحص أن المريض يبكي من الألم. يوجد جرح أحمر غير مبيض، ذو مظهر رطب، مع بعض البثور سميكة الجدران،مؤلمة عند اللمس على صدره. لا توجد أي حروق أخرى على المريض. أي ممايلي هو التشخيص الأكثر احتمالًا.؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Deep partial-thickness burn: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superficial partial thickness burn. يصبح صحيحًا في سؤال يصف First-degree burns, superficial burns, and superficial partial-thickness burns are less severe than a deep partial-thickness burn or full-thickness burn — without the specific clinical details, the marked correct classification (superficial partial-thickness) reflects the described burn depth in the original case. الخيار B، First degree burn: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superficial partial thickness burn. يصبح صحيحًا في سؤال يصف First-degree burns, superficial burns, and superficial partial-thickness burns are less severe than a deep partial-thickness burn or full-thickness burn — without the specific clinical details, the marked correct classification (superficial partial-thickness) reflects the described burn depth in the original case. الخيار C، Full Thickness Burn: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superficial partial thickness burn. يصبح صحيحًا في سؤال يصف First-degree burns, superficial burns, and superficial partial-thickness burns are less severe than a deep partial-thickness burn or full-thickness burn — without the specific clinical details, the marked correct classification (superficial partial-thickness) reflects the described burn depth in the original case. الخيار D، Superficial burn: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Superficial partial thickness burn. يصبح صحيحًا في سؤال يصف First-degree burns, superficial burns, and superficial partial-thickness burns are less severe than a deep partial-thickness burn or full-thickness burn — without the specific clinical details, the marked correct classification (superficial partial-thickness) reflects the described burn depth in the original case.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Deep partial-thickness burn: الإجابة الصحيحة هي Superficial partial thickness burn. الخيار B، First degree burn: الإجابة الصحيحة هي Superficial partial thickness burn. الخيار C، Full Thickness Burn: الإجابة الصحيحة هي Superficial partial thickness burn. الخيار D، Superficial burn: الإجابة الصحيحة هي Superficial partial thickness burn. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "This burn description: matches Superficial par"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Superficial partial thickness burn. الوصف السريري بهذا السؤال يوافق حرقًا سطحيًا جزئي السماكة تحديدًا."
+      "narration": "الخيار E، Superficial partial thickness burn هو الإجابة الصحيحة. الوصف السريري بهذا السؤال يوافق حرقًا سطحيًا جزئي السماكة تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الوصف السريري بهذا السؤال يوافق حرقًا سطحيًا جزئي السماكة تحديدًا. وتذكّر القاعدة: This burn description: matches Superficial partial thickness. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الوصف السريري بهذا السؤال يوافق حرقًا سطحيًا جزئي السماكة تحديدًا. وتذكّر: This burn description: matches Superficial partial thickness. والإجابة الصحيحة هي E."
     }
   ]
 }

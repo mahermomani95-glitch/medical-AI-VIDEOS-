@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Subdural hematoma"
       },
-      "narration": "لنبدأ بهذا السؤال. أُدخل مريضٌ مدمنٌ على الكحول إلى المستشفى بعد 30 دقيقة من المشاجرة،وكان في حالةٍ من الإثارة، وظهرت عليه كدماتٌ وسحجاتٌ في المنطقة الصدغيةاليسرى. بعد 6 ساعات، انخفض وعيه إلى 8 نقاطٍ بسبب متلازمةجلوكوكورتيكويد، وضعفٌ في الأطراف اليمنى، وتوسُّعٌ في حدقة العين اليسرى. ما هو السبب الأكثر ترجيحًا؟ أمامك هذه الخيارات: SAH، أو Subdural hematoma، أو Intraventricular hemorrhage، أو Focal edema of the brain، أو Alcoholic coma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أُدخل مريضٌ مدمنٌ على الكحول إلى المستشفى بعد 30 دقيقة من المشاجرة،وكان في حالةٍ من الإثارة، وظهرت عليه كدماتٌ وسحجاتٌ في المنطقة الصدغيةاليسرى. بعد 6 ساعات، انخفض وعيه إلى 8 نقاطٍ بسبب متلازمةجلوكوكورتيكويد، وضعفٌ في الأطراف اليمنى، وتوسُّعٌ في حدقة العين اليسرى. ما هو السبب الأكثر ترجيحًا؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، SAH: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a gradual decline over hours. يصبح صحيحًا في سؤال يصف Subarachnoid hemorrhage typically presents with sudden severe headache. الخيار C، Intraventricular hemorrhage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subdural hematoma. يصبح صحيحًا في سؤال يصف intraventricular hemorrhage and focal cerebral edema don't classically produce this exact lucid-then-declining pattern. الخيار D، Focal edema of the brain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subdural hematoma. يصبح صحيحًا في سؤال يصف intraventricular hemorrhage and focal cerebral edema don't classically produce this exact lucid-then-declining pattern. الخيار E، Alcoholic coma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا explain the unilateral pupil dilation and focal weakness. يصبح صحيحًا في سؤال يصف alcoholic coma alone.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، SAH: المطلوب هنا a gradual decline over hours. الخيار C، Intraventricular hemorrhage: الإجابة الصحيحة هي Subdural hematoma. الخيار D: الإجابة الصحيحة هي Subdural hematoma. الخيار E، Alcoholic coma: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Alcoholic + hours = Subdural (bridging veins)"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Subdural hematoma. اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة."
+      "narration": "الخيار B، Subdural hematoma هو الإجابة الصحيحة. اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة. وتذكّر القاعدة: \"Alcoholic + hours = Subdural (bridging veins)\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. اتساع حدقة أحادي مع تدهور خلال ساعات بعد إصابة صدغية يوحي بنزف تحت الجافية، خصوصًا عند مريض كحولي معرض لضمور دماغي وتمزق أوردة جسرية هشة. وتذكّر: \"Alcoholic + hours = Subdural (bridging veins)\". والإجابة الصحيحة هي B."
     }
   ]
 }

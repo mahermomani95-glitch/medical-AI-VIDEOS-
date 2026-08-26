@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Peaud'orange is secondary to the invasion of the…"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: The most common histological type is invasive ductal carcinoma، أو The most common site of metastasis is the bones، أو The most common symptom is mass، أو Peaud'orange is secondary to the invasion of the underlying cooper's ligament، أو The least favorable histological type is inflammatory breast carcinoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، The most common histological type is invasive ductal carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, bone as the most common metastatic site… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peaud'orange is secondary to the invasion of the underlying cooper's ligament. الخيار B، The most common site of metastasis is the bones: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, bone as the most common metastatic site… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peaud'orange is secondary to the invasion of the underlying cooper's ligament. الخيار C، The most common symptom is mass: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, bone as the most common metastatic site… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peaud'orange is secondary to the invasion of the underlying cooper's ligament. الخيار E، The least favorable histological type is inflammatory breast carcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Invasive ductal carcinoma as the most common type, bone as the most common metastatic site… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Peaud'orange is secondary to the invasion of the underlying cooper's ligament.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Peau d'orange = Lymphatic blockage, not Coope"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Peaud'orange is secondary to the invasion of the underlying cooper's ligament. جلد قشرة البرتقال ناتج عن غزو لمفاوي (وليس رباط كوبر) — انسداد الأوعية اللمفاوية الأدمية يسبب وذمة جلدية حول بصيلات الشعر."
+      "narration": "الخيار D هو الإجابة الصحيحة. جلد قشرة البرتقال ناتج عن غزو لمفاوي (وليس رباط كوبر) — انسداد الأوعية اللمفاوية الأدمية يسبب وذمة جلدية حول بصيلات الشعر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. جلد قشرة البرتقال ناتج عن غزو لمفاوي (وليس رباط كوبر) — انسداد الأوعية اللمفاوية الأدمية يسبب وذمة جلدية حول بصيلات الشعر. وتذكّر القاعدة: \"Peau d'orange = Lymphatic blockage, not Cooper's ligament\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. جلد قشرة البرتقال ناتج عن غزو لمفاوي (وليس رباط كوبر) — انسداد الأوعية اللمفاوية الأدمية يسبب وذمة جلدية حول بصيلات الشعر. وتذكّر: \"Peau d'orange = Lymphatic blockage, not Cooper's ligament\". والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Cardiogenic shock"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Neurogenic shock، أو Hemolytic shock، أو Anaphylactic shock، أو Cardiogenic shock، أو Septic shock. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Neurogenic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiogenic shock. يصبح صحيحًا في سؤال يصف Neurogenic shock, hemolytic shock, anaphylactic shock, and septic shock don't classically raise central venous pressure the way cardiogenic shock does, since the failing heart causes blood to back up in the venous system. الخيار B، Hemolytic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiogenic shock. يصبح صحيحًا في سؤال يصف Neurogenic shock, hemolytic shock, anaphylactic shock, and septic shock don't classically raise central venous pressure the way cardiogenic shock does, since the failing heart causes blood to back up in the venous system. الخيار C، Anaphylactic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiogenic shock. يصبح صحيحًا في سؤال يصف Neurogenic shock, hemolytic shock, anaphylactic shock, and septic shock don't classically raise central venous pressure the way cardiogenic shock does, since the failing heart causes blood to back up in the venous system. الخيار E، Septic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiogenic shock. يصبح صحيحًا في سؤال يصف Neurogenic shock, hemolytic shock, anaphylactic shock, and septic shock don't classically raise central venous pressure the way cardiogenic shock does, since the failing heart causes blood to back up in the venous system.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Neurogenic shock: الإجابة الصحيحة هي Cardiogenic shock. الخيار B، Hemolytic shock: الإجابة الصحيحة هي Cardiogenic shock. الخيار C، Anaphylactic shock: الإجابة الصحيحة هي Cardiogenic shock. الخيار E، Septic shock: الإجابة الصحيحة هي Cardiogenic shock. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Cardiogenic shock = Pump fails = CVP rises (b"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Cardiogenic shock. الصدمة القلبية تعني فشل ضخ القلب — يتراكم الدم خلفه، فيرتفع الضغط الوريدي المركزي، بعكس أنواع الصدمة الأخرى حيث يكون منخفضًا أو طبيعيًا."
+      "narration": "الخيار D، Cardiogenic shock هو الإجابة الصحيحة. الصدمة القلبية تعني فشل ضخ القلب — يتراكم الدم خلفه، فيرتفع الضغط الوريدي المركزي، بعكس أنواع الصدمة الأخرى حيث يكون منخفضًا أو طبيعيًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصدمة القلبية تعني فشل ضخ القلب — يتراكم الدم خلفه، فيرتفع الضغط الوريدي المركزي، بعكس أنواع الصدمة الأخرى حيث يكون منخفضًا أو طبيعيًا. وتذكّر القاعدة: \"Cardiogenic shock = Pump fails = CVP rises (backup)\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الصدمة القلبية تعني فشل ضخ القلب — يتراكم الدم خلفه، فيرتفع الضغط الوريدي المركزي، بعكس أنواع الصدمة الأخرى حيث يكون منخفضًا أو طبيعيًا. وتذكّر: \"Cardiogenic shock = Pump fails = CVP rises (backup)\". والإجابة الصحيحة هي D."
     }
   ]
 }

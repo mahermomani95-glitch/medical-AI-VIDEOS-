@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Melanoma"
       },
-      "narration": "لنبدأ بهذا السؤال. النقائل الأكثر شيوعا في الأمعاء الدقيقة هي أمامك هذه الخيارات: Lung cancer، أو Colon cancer، أو Prostatic cancer، أو Melanoma، أو Brain cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. النقائل الأكثر شيوعا في الأمعاء الدقيقة هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Lung cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma. يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and brain cancer can all metastasize to distant sites, but none has as strong a specific predilection for spreading to the small bowel as melanoma does. الخيار B، Colon cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma. يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and brain cancer can all metastasize to distant sites, but none has as strong a specific predilection for spreading to the small bowel as melanoma does. الخيار C، Prostatic cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma. يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and brain cancer can all metastasize to distant sites, but none has as strong a specific predilection for spreading to the small bowel as melanoma does. الخيار E، Brain cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Melanoma. يصبح صحيحًا في سؤال يصف Lung cancer, colon cancer, prostate cancer, and brain cancer can all metastasize to distant sites, but none has as strong a specific predilection for spreading to the small bowel as melanoma does.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Lung cancer: الإجابة الصحيحة هي Melanoma. الخيار B، Colon cancer: الإجابة الصحيحة هي Melanoma. الخيار C، Prostatic cancer: الإجابة الصحيحة هي Melanoma. الخيار E، Brain cancer: الإجابة الصحيحة هي Melanoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Melanoma migrates to the mesentery\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Melanoma. سرطان الميلانوما له ميل واضح للانتشار إلى الأمعاء الدقيقة، وهو أشيع ورم منتشر يُوجد فيها."
+      "narration": "الخيار D، Melanoma هو الإجابة الصحيحة. سرطان الميلانوما له ميل واضح للانتشار إلى الأمعاء الدقيقة، وهو أشيع ورم منتشر يُوجد فيها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان الميلانوما له ميل واضح للانتشار إلى الأمعاء الدقيقة، وهو أشيع ورم منتشر يُوجد فيها. وتذكّر القاعدة: \"Melanoma migrates to the mesentery\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. سرطان الميلانوما له ميل واضح للانتشار إلى الأمعاء الدقيقة، وهو أشيع ورم منتشر يُوجد فيها. وتذكّر: \"Melanoma migrates to the mesentery\". والإجابة الصحيحة هي D."
     }
   ]
 }

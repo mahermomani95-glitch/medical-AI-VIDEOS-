@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Lower abdominal pain and right lower quadrant…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي نادر الحدوث في تظاهرات التهاب الزائدة الدودية الحاد ما عدا: أمامك هذه الخيارات: High-grade fever، أو Frequent loose stools، أو Lower abdominal pain and right lower quadrant tenderness، أو White blood cell count greater than 20,000، أو Hypogastric pain shifted to the right iliac fossa.. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي نادر الحدوث في تظاهرات التهاب الزائدة الدودية الحاد ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، High-grade fever: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness. الخيار B، Frequent loose stools: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness. الخيار D، White blood cell count greater than 20,000: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness. الخيار E، Hypogastric pain shifted to the right iliac fossa.: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-grade fever, frequent loose stools, WBC over 20,000, and pain shifting from hypogastric… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Lower abdominal pain and right lower quadrant tenderness.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، High-grade fever: صحيحة، لكنها ليست الاستثناء. الخيار B، Frequent loose stools: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"RLQ pain/tenderness = the COMMON classic find"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Lower abdominal pain and right lower quadrant tenderness. الألم البطني السفلي المهاجر والمتوطن بالحفرة الحرقفية اليمنى هو العرض الكلاسيكي الشائع لالتهاب الزائدة."
+      "narration": "الخيار C هو الإجابة الصحيحة. الألم البطني السفلي المهاجر والمتوطن بالحفرة الحرقفية اليمنى هو العرض الكلاسيكي الشائع لالتهاب الزائدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم البطني السفلي المهاجر والمتوطن بالحفرة الحرقفية اليمنى هو العرض الكلاسيكي الشائع لالتهاب الزائدة. وتذكّر القاعدة: \"RLQ pain/tenderness = the COMMON classic finding, not infrequent\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الألم البطني السفلي المهاجر والمتوطن بالحفرة الحرقفية اليمنى هو العرض الكلاسيكي الشائع لالتهاب الزائدة. وتذكّر: \"RLQ pain/tenderness = the COMMON classic finding, not infrequent\". والإجابة الصحيحة هي C."
     }
   ]
 }

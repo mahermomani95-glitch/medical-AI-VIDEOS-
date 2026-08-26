@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "30 cm H20"
       },
-      "narration": "لنبدأ بهذا السؤال. إن ضغط الساق الذي يجب أن يدفع الجراح إلى إجراء عملية قطع اللفافة هو؟ أمامك هذه الخيارات: 10 cm H20، أو 20 cm H20، أو 30 cm H20، أو 40 cm H20، أو 50 cm H20. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. إن ضغط الساق الذي يجب أن يدفع الجراح إلى إجراء عملية قطع اللفافة هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 10 cm H20: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30 cm H20. يصبح صحيحًا في سؤال يصف 10, 20, 40, and 50 cm H2O don't match the generally accepted threshold of about 30 cm H2O (or within 30 mmHg of diastolic pressure) at which fasciotomy is indicated for compartment syndrome. الخيار B، 20 cm H20: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30 cm H20. يصبح صحيحًا في سؤال يصف 10, 20, 40, and 50 cm H2O don't match the generally accepted threshold of about 30 cm H2O (or within 30 mmHg of diastolic pressure) at which fasciotomy is indicated for compartment syndrome. الخيار D، 40 cm H20: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30 cm H20. يصبح صحيحًا في سؤال يصف 10, 20, 40, and 50 cm H2O don't match the generally accepted threshold of about 30 cm H2O (or within 30 mmHg of diastolic pressure) at which fasciotomy is indicated for compartment syndrome. الخيار E، 50 cm H20: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 30 cm H20. يصبح صحيحًا في سؤال يصف 10, 20, 40, and 50 cm H2O don't match the generally accepted threshold of about 30 cm H2O (or within 30 mmHg of diastolic pressure) at which fasciotomy is indicated for compartment syndrome.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 10 cm H20: الإجابة الصحيحة هي 30 cm H20. الخيار B، 20 cm H20: الإجابة الصحيحة هي 30 cm H20. الخيار D، 40 cm H20: الإجابة الصحيحة هي 30 cm H20. الخيار E، 50 cm H20: الإجابة الصحيحة هي 30 cm H20. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Fasciotomy threshold: Thirty cm H2O"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: 30 cm H20. ضغط 30 سم ماء بالحيز الساقي هو العتبة القياسية لبضع اللفافة العاجل."
+      "narration": "الخيار C، 30 cm H20 هو الإجابة الصحيحة. ضغط 30 سم ماء بالحيز الساقي هو العتبة القياسية لبضع اللفافة العاجل."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ضغط 30 سم ماء بالحيز الساقي هو العتبة القياسية لبضع اللفافة العاجل. وتذكّر القاعدة: Fasciotomy threshold: Thirty cm H2O. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ضغط 30 سم ماء بالحيز الساقي هو العتبة القياسية لبضع اللفافة العاجل. وتذكّر: Fasciotomy threshold: Thirty cm H2O. والإجابة الصحيحة هي C."
     }
   ]
 }

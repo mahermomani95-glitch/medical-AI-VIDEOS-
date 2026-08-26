@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "non-contrast-enhanced computed tomography"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر ٢٥ عامًا، يُعاني من ألمٍ شديدٍ في الخاصرة استمر لمدة٦ ساعات، مصحوبًا بغثيان وقيء. أظهر تحليل البول ٢٠٠ خلية دم حمراء/السائل اللمفاوي، وكرياتينين المصل ٠.٩ ملغ/ديسيلتر. أفضل علاجٍ في هذهالمرحلة هو: أمامك هذه الخيارات: KUB radiography، أو Renal ultrasonography، أو Intravenous Pyelography، أو non-contrast-enhanced computed tomography، أو Kidney MRI. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر ٢٥ عامًا، يُعاني من ألمٍ شديدٍ في الخاصرة استمر لمدة٦ ساعات، مصحوبًا بغثيان وقيء. أظهر تحليل البول ٢٠٠ خلية دم حمراء/السائل اللمفاوي، وكرياتينين المصل ٠.٩ ملغ/ديسيلتر. أفضل علاجٍ في هذهالمرحلة هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، KUB radiography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography. يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of non-contrast CT specifically for stone detection. الخيار B، Renal ultrasonography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography. يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of non-contrast CT specifically for stone detection. الخيار C، Intravenous Pyelography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography. يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of non-contrast CT specifically for stone detection. الخيار E، Kidney MRI: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي non-contrast-enhanced computed tomography. يصبح صحيحًا في سؤال يصف KUB X-ray, renal ultrasound, IV pyelography, and kidney MRI are all imaging options for urinary stones, but none matches the sensitivity of non-contrast CT specifically for stone detection.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، KUB radiography: الإجابة الصحيحة هي non-contrast-enhanced computed tomography. الخيار B، Renal ultrasonography: الإجابة الصحيحة هي non-contrast-enhanced computed tomography. الخيار C، Intravenous Pyelography: الإجابة الصحيحة هي non-contrast-enhanced computed tomography. الخيار E، Kidney MRI: الإجابة الصحيحة هي non-contrast-enhanced computed tomography. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Acute flank pain = Non-contrast CT\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: non-contrast-enhanced computed tomography. الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة."
+      "narration": "الخيار D، non-contrast-enhanced computed tomography هو الإجابة الصحيحة. الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة. وتذكّر القاعدة: \"Acute flank pain = Non-contrast CT\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الأشعة المقطعية غير المحقونة هي أسرع وأدق وسيلة لتأكيد حصاة الكلى كسبب لألم الخاصرة الحاد — دون حاجة للصبغة أو الفحوص القديمة. وتذكّر: \"Acute flank pain = Non-contrast CT\". والإجابة الصحيحة هي D."
     }
   ]
 }

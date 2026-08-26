@@ -45,7 +45,7 @@
         "label": "Metastasis to lymph node is very rare",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح بالنسبة لسرطان الخلايا القاعدية؟ أمامك هذه الخيارات: Painful ulcer is the usual presentation، أو Metastasis to lymph node is very rare، أو UV light is not a cause، أو The growth is rapid، أو Treatment of choice is radiotherapy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح بالنسبة لسرطان الخلايا القاعدية؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Painful ulcer is the usual presentation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare. يصبح صحيحًا في سؤال يصف A painful ulcer is atypical since BCC is usually painless. الخيار C، UV light is not a cause: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare. يصبح صحيحًا في سؤال يصف UV light IS a cause. الخيار D، The growth is rapid: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا rapid. يصبح صحيحًا في سؤال يصف growth is typically SLOW. الخيار E، Treatment of choice is radiotherapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metastasis to lymph node is very rare. يصبح صحيحًا في سؤال يصف surgical excision (not radiotherapy) is generally the treatment of choice — the true statement is that lymph node metastasis is very rare in basal cell carcinoma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D، The growth is rapid: المطلوب هنا rapid. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "BCC: Barely metastasizes"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Metastasis to lymph node is very rare. انتقال السرطانة القاعدية للعقد اللمفاوية نادر جدًا (غزو موضعي فقط)."
+      "narration": "الخيار B هو الإجابة الصحيحة. انتقال السرطانة القاعدية للعقد اللمفاوية نادر جدًا (غزو موضعي فقط)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انتقال السرطانة القاعدية للعقد اللمفاوية نادر جدًا (غزو موضعي فقط). وتذكّر القاعدة: BCC: Barely metastasizes. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. انتقال السرطانة القاعدية للعقد اللمفاوية نادر جدًا (غزو موضعي فقط). وتذكّر: BCC: Barely metastasizes. والإجابة الصحيحة هي B."
     }
   ]
 }

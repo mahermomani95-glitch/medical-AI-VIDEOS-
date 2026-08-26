@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Proper hepatic artery"
       },
-      "narration": "لنبدأ بهذا السؤال. الشريان المعدي الأيمن هو عادة فرع من؟ أمامك هذه الخيارات: Gastro_doudenal artery، أو Right gastro_epiploic artery، أو Pancreato duodenal artery، أو Proper hepatic artery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الشريان المعدي الأيمن هو عادة فرع من؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Gastro_doudenal artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the typical origin — the right gastric artery normally arises from the proper hepatic artery. يصبح صحيحًا في سؤال يصف The gastroduodenal artery, right gastroepiploic artery, and pancreaticoduodenal artery are nearby vessels but. الخيار B، Right gastro_epiploic artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the typical origin — the right gastric artery normally arises from the proper hepatic artery. يصبح صحيحًا في سؤال يصف The gastroduodenal artery, right gastroepiploic artery, and pancreaticoduodenal artery are nearby vessels but. الخيار C، Pancreato duodenal artery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the typical origin — the right gastric artery normally arises from the proper hepatic artery. يصبح صحيحًا في سؤال يصف The gastroduodenal artery, right gastroepiploic artery, and pancreaticoduodenal artery are nearby vessels but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Gastro_doudenal artery: لا ينطبق على هذه الحالة. الخيار B، Right gastro_epiploic artery: لا ينطبق على هذه الحالة. الخيار C، Pancreato duodenal artery: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Right gastric artery: branches from the Proper"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Proper hepatic artery. الشريان المعدي الأيمن يتفرع من الشريان الكبدي الخاص تحديدًا."
+      "narration": "الخيار D، Proper hepatic artery هو الإجابة الصحيحة. الشريان المعدي الأيمن يتفرع من الشريان الكبدي الخاص تحديدًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشريان المعدي الأيمن يتفرع من الشريان الكبدي الخاص تحديدًا. وتذكّر القاعدة: Right gastric artery: branches from the Proper hepatic. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الشريان المعدي الأيمن يتفرع من الشريان الكبدي الخاص تحديدًا. وتذكّر: Right gastric artery: branches from the Proper hepatic. والإجابة الصحيحة هي D."
     }
   ]
 }

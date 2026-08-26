@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Extracorporeal shock wave lithotripsy (ESWL)"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 25 عامًا، يعاني من ألم في الخاصرة اليمنى مصحوببغثيان وقيء وبيلة ​​دموية. كشف التصوير المقطعي المحوسب للبطن عن وجودحصوة بحجم 12 مم في حوض الكلى. أفضل خطوة تالية للعلاج أمامك هذه الخيارات: Conservative treatment، أو Open nephrolithotomy، أو Extracorporeal shock wave lithotripsy (ESWL)، أو Percutaneous nephrolithotomy، أو Open pyelolithotomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 25 عامًا، يعاني من ألم في الخاصرة اليمنى مصحوببغثيان وقيء وبيلة ​​دموية. كشف التصوير المقطعي المحوسب للبطن عن وجودحصوة بحجم 12 مم في حوض الكلى. أفضل خطوة تالية للعلاج أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Conservative treatment: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Extracorporeal shock wave lithotripsy (ESWL). يصبح صحيحًا في سؤال يصف Conservative treatment/observation risks the stone growing or causing complications. الخيار B، Open nephrolithotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Extracorporeal shock wave lithotripsy (ESWL). يصبح صحيحًا في سؤال يصف open nephrolithotomy and open pyelolithotomy are far more invasive than needed for a 12mm stone. الخيار D، Percutaneous nephrolithotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Extracorporeal shock wave lithotripsy (ESWL). يصبح صحيحًا في سؤال يصف percutaneous nephrolithotomy is typically reserved for larger stones (over 2cm). الخيار E، Open pyelolithotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Extracorporeal shock wave lithotripsy (ESWL). يصبح صحيحًا في سؤال يصف open nephrolithotomy and open pyelolithotomy are far more invasive than needed for a 12mm stone.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Conservative treatment: الإجابة الصحيحة هي Extracorporeal shock wave lithotripsy (ESWL). الخيار B، Open nephrolithotomy: الإجابة الصحيحة هي Extracorporeal shock wave lithotripsy (ESWL). الخيار D، Percutaneous nephrolithotomy: الإجابة الصحيحة هي Extracorporeal shock wave lithotripsy (ESWL). الخيار E، Open pyelolithotomy: الإجابة الصحيحة هي Extracorporeal shock wave lithotripsy (ESWL). والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"~1-2 cm renal pelvis stone = ESWL\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Extracorporeal shock wave lithotripsy (ESWL). حصاة 12 ملم كبيرة جدًا لتمر تلقائيًا لكنها مناسبة تمامًا للتفتيت بالصدمة التصادمية من خارج الجسم (ESWL)."
+      "narration": "الخيار C هو الإجابة الصحيحة. حصاة 12 ملم كبيرة جدًا لتمر تلقائيًا لكنها مناسبة تمامًا للتفتيت بالصدمة التصادمية من خارج الجسم (ESWL)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حصاة 12 ملم كبيرة جدًا لتمر تلقائيًا لكنها مناسبة تمامًا للتفتيت بالصدمة التصادمية من خارج الجسم (ESWL). وتذكّر القاعدة: \"~1-2 cm renal pelvis stone = ESWL\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. حصاة 12 ملم كبيرة جدًا لتمر تلقائيًا لكنها مناسبة تمامًا للتفتيت بالصدمة التصادمية من خارج الجسم (ESWL). وتذكّر: \"~1-2 cm renal pelvis stone = ESWL\". والإجابة الصحيحة هي C."
     }
   ]
 }

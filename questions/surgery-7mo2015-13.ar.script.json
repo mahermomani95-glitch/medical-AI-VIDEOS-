@@ -41,7 +41,7 @@
         "label": "Patient has thousands of polyps",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بسرطان القولون الوراثي غير البوليبي باستثناء؟ أمامك هذه الخيارات: Colon cancer are right sided، أو Associated with ovarian, breast, stomach cancer، أو Patient has thousands of polyps، أو Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50 years old at the time of diagnosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بسرطان القولون الوراثي غير البوليبي باستثناء؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Colon cancer are right sided: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps. الخيار B، Associated with ovarian, breast, stomach cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps. الخيار D، Needs to be in 3 primary relatives, over 2 generation, with one person being less than 50 years old at the time of diagnosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right-sided colon cancer predominance, association with ovarian/breast/stomach cancer… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Patient has thousands of polyps.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -122,13 +122,13 @@
       "pills": [
         "HNPCC: Has few polyps, unlike FAP's thousands"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Patient has thousands of polyps. آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا)."
+      "narration": "الخيار C هو الإجابة الصحيحة. آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا). وتذكّر القاعدة: HNPCC: Has few polyps, unlike FAP's thousands. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. آلاف البوليبات سمة FAP لا HNPCC (عدد قليل بخطر عالٍ هنا). وتذكّر: HNPCC: Has few polyps, unlike FAP's thousands. والإجابة الصحيحة هي C."
     }
   ]
 }

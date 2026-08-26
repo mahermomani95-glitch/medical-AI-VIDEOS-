@@ -45,7 +45,7 @@
         "label": "Hypomagnesemia",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي يمكن أن يسبب ارتفاع بوتاسيوم الدم باستثناء؟ أمامك هذه الخيارات: Acidosis، أو Insulin deficiency، أو Hypomagnesemia، أو Cell lysis syndrome، أو Renal failure. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي يمكن أن يسبب ارتفاع بوتاسيوم الدم باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia. الخيار B، Insulin deficiency: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia. الخيار D، Cell lysis syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia. الخيار E، Renal failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, hypomagnesemia actually being LINKED to hypokalemia يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypomagnesemia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acidosis: صحيحة، لكنها ليست الاستثناء. الخيار B، Insulin deficiency: صحيحة، لكنها ليست الاستثناء. الخيار D، Cell lysis syndrome: صحيحة، لكنها ليست الاستثناء. الخيار E، Renal failure: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Hypomagnesemia: Hints at Hypokalemia, not hype"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hypomagnesemia. نقص المغنيزيوم يرتبط بنقص البوتاسيوم، لا فرطه كما بالعبارة الخاطئة."
+      "narration": "الخيار C، Hypomagnesemia هو الإجابة الصحيحة. نقص المغنيزيوم يرتبط بنقص البوتاسيوم، لا فرطه كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقص المغنيزيوم يرتبط بنقص البوتاسيوم، لا فرطه كما بالعبارة الخاطئة. وتذكّر القاعدة: Hypomagnesemia: Hints at Hypokalemia, not hyperkalemia. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. نقص المغنيزيوم يرتبط بنقص البوتاسيوم، لا فرطه كما بالعبارة الخاطئة. وتذكّر: Hypomagnesemia: Hints at Hypokalemia, not hyperkalemia. والإجابة الصحيحة هي C."
     }
   ]
 }

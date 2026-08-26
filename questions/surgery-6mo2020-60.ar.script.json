@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Mittelschmerz"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Ovarian torsion، أو Mittelschmerz، أو Crohn's disease، أو Pelvic inflammatory disease، أو Acute appendicitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ovarian torsion: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz. الخيار C، Crohn's disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz. الخيار D، Pelvic inflammatory disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz. الخيار E، Acute appendicitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ovarian torsion, Crohn's disease, pelvic inflammatory disease, and acute appendicitis remain… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Mittelschmerz.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ovarian torsion: صحيحة، لكنها ليست الاستثناء. الخيار C، Crohn's disease: صحيحة، لكنها ليست الاستثناء. الخيار D، Pelvic inflammatory disease: صحيحة، لكنها ليست الاستثناء. الخيار E، Acute appendicitis: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Mittelschmerz needs active ovulation — postme"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Mittelschmerz. ألم منتصف الدورة (Mittelschmerz) يتطلب مبايض فعّالة مع إباضة نشطة — امرأة بعمر 60 سنة بعد سن اليأس لم تعد تبيض، مما يستبعد هذا التشخيص."
+      "narration": "الخيار B، Mittelschmerz هو الإجابة الصحيحة. ألم منتصف الدورة (Mittelschmerz) يتطلب مبايض فعّالة مع إباضة نشطة — امرأة بعمر 60 سنة بعد سن اليأس لم تعد تبيض، مما يستبعد هذا التشخيص."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم منتصف الدورة (Mittelschmerz) يتطلب مبايض فعّالة مع إباضة نشطة — امرأة بعمر 60 سنة بعد سن اليأس لم تعد تبيض، مما يستبعد هذا التشخيص. وتذكّر القاعدة: \"Mittelschmerz needs active ovulation — postmenopausal women don't ovulate\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. ألم منتصف الدورة (Mittelschmerz) يتطلب مبايض فعّالة مع إباضة نشطة — امرأة بعمر 60 سنة بعد سن اليأس لم تعد تبيض، مما يستبعد هذا التشخيص. وتذكّر: \"Mittelschmerz needs active ovulation — postmenopausal women don't ovulate\". والإجابة الصحيحة هي B."
     }
   ]
 }

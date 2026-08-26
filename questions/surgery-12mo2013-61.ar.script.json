@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Asymptomatic Meckel's diverticulum should be…"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية غير صحيح فيما يتعلق بالتهاب الرتج لدى ميكل؟ أمامك هذه الخيارات: It is the most common diverticulum of the Gl tract، أو It can cause bleeding، أو It can cause intussusception and obstruction، أو Asymptomatic Meckel's diverticulum should be resected، أو More common in males. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية غير صحيح فيما يتعلق بالتهاب الرتج لدى ميكل؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is the most common diverticulum of the Gl tract: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common GI diverticulum, causing bleeding, and causing… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Asymptomatic Meckel's diverticulum should be resected. الخيار B، It can cause bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common GI diverticulum, causing bleeding, and causing… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Asymptomatic Meckel's diverticulum should be resected. الخيار C، It can cause intussusception and obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common GI diverticulum, causing bleeding, and causing… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Asymptomatic Meckel's diverticulum should be resected. الخيار E، More common in males: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common GI diverticulum, causing bleeding, and causing… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Asymptomatic Meckel's diverticulum should be resected.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B، It can cause bleeding: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E، More common in males: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Asymptomatic Meckel's: Assessed individually, "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Asymptomatic Meckel's diverticulum should be resected. الرتج الميكلي العرضي بلا أعراض لا يستدعي استئصالاً حتميًا دومًا."
+      "narration": "الخيار D هو الإجابة الصحيحة. الرتج الميكلي العرضي بلا أعراض لا يستدعي استئصالاً حتميًا دومًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الرتج الميكلي العرضي بلا أعراض لا يستدعي استئصالاً حتميًا دومًا. وتذكّر القاعدة: Asymptomatic Meckel's: Assessed individually, not Automatically resected. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الرتج الميكلي العرضي بلا أعراض لا يستدعي استئصالاً حتميًا دومًا. وتذكّر: Asymptomatic Meckel's: Assessed individually, not Automatically resected. والإجابة الصحيحة هي D."
     }
   ]
 }

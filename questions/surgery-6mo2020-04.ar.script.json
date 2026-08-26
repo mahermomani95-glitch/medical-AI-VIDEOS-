@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "High riding prostate on PR exam"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Oliguria، أو High riding prostate on PR exam، أو IVP show dye outside the pelvis، أو Blood at urethral meatus، أو Scrotal edema. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Oliguria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High riding prostate on PR exam. يصبح صحيحًا في سؤال يصف Oliguria, IVP showing dye outside the pelvis (C, indicating a different type of urinary injury), and scrotal edema can be associated findings, but a high-riding prostate on rectal exam remains the most specific and direct sign of urethral disruption. الخيار C، IVP show dye outside the pelvis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High riding prostate on PR exam. يصبح صحيحًا في سؤال يصف Oliguria, IVP showing dye outside the pelvis (C, indicating a different type of urinary injury), and scrotal edema can be associated findings, but a high-riding prostate on rectal exam remains the most specific and direct sign of urethral disruption. الخيار D، Blood at urethral meatus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High riding prostate on PR exam. يصبح صحيحًا في سؤال يصف Bleeding at the urethral meatus is the most direct and classic sign of urethral injury after pelvic trauma. الخيار E، Scrotal edema: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High riding prostate on PR exam. يصبح صحيحًا في سؤال يصف Oliguria, IVP showing dye outside the pelvis (C, indicating a different type of urinary injury), and scrotal edema can be associated findings, but a high-riding prostate on rectal exam remains the most specific and direct sign of urethral disruption.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Oliguria: الإجابة الصحيحة هي High riding prostate on PR exam. الخيار C: الإجابة الصحيحة هي High riding prostate on PR exam. الخيار D، Blood at urethral meatus: الإجابة الصحيحة هي High riding prostate on PR exam. الخيار E، Scrotal edema: الإجابة الصحيحة هي High riding prostate on PR exam. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Blood at the meatus = urethral injury signatu"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: High riding prostate on PR exam. الدم من فوهة الإحليل هو العلامة الكلاسيكية الأكثر مباشرة التي تشير لإصابة الإحليل بعد رضح حوضي."
+      "narration": "الخيار B هو الإجابة الصحيحة. الدم من فوهة الإحليل هو العلامة الكلاسيكية الأكثر مباشرة التي تشير لإصابة الإحليل بعد رضح حوضي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الدم من فوهة الإحليل هو العلامة الكلاسيكية الأكثر مباشرة التي تشير لإصابة الإحليل بعد رضح حوضي. وتذكّر القاعدة: \"Blood at the meatus = urethral injury signature\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الدم من فوهة الإحليل هو العلامة الكلاسيكية الأكثر مباشرة التي تشير لإصابة الإحليل بعد رضح حوضي. وتذكّر: \"Blood at the meatus = urethral injury signature\". والإجابة الصحيحة هي B."
     }
   ]
 }

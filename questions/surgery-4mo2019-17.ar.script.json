@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Age"
       },
-      "narration": "لنبدأ بهذا السؤال. عامل الخطر الرئيسي لسرطان الثدي هو أمامك هذه الخيارات: Family history، أو Hormone therapy، أو Radiation، أو Smoking، أو Age. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. عامل الخطر الرئيسي لسرطان الثدي هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Family history: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age. يصبح صحيحًا في سؤال يصف Family history, hormone therapy, radiation exposure, and smoking are all recognized risk factors for breast cancer, alongside age being the strongest overall. الخيار B، Hormone therapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age. يصبح صحيحًا في سؤال يصف Family history, hormone therapy, radiation exposure, and smoking are all recognized risk factors for breast cancer, alongside age being the strongest overall. الخيار C، Radiation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age. يصبح صحيحًا في سؤال يصف Family history, hormone therapy, radiation exposure, and smoking are all recognized risk factors for breast cancer, alongside age being the strongest overall. الخيار D، Smoking: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Age. يصبح صحيحًا في سؤال يصف Family history, hormone therapy, radiation exposure, and smoking are all recognized risk factors for breast cancer, alongside age being the strongest overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Family history: الإجابة الصحيحة هي Age. الخيار B، Hormone therapy: الإجابة الصحيحة هي Age. الخيار C، Radiation: الإجابة الصحيحة هي Age. الخيار D، Smoking: الإجابة الصحيحة هي Age. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Age = the #1 breast cancer risk factor\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Age. التقدم بالعمر هو إحصائيًا أقوى عامل خطر منفرد لسرطان الثدي — أقوى من القصة العائلية لدى معظم النساء."
+      "narration": "الخيار E، Age هو الإجابة الصحيحة. التقدم بالعمر هو إحصائيًا أقوى عامل خطر منفرد لسرطان الثدي — أقوى من القصة العائلية لدى معظم النساء."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التقدم بالعمر هو إحصائيًا أقوى عامل خطر منفرد لسرطان الثدي — أقوى من القصة العائلية لدى معظم النساء. وتذكّر القاعدة: \"Age = the #1 breast cancer risk factor\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التقدم بالعمر هو إحصائيًا أقوى عامل خطر منفرد لسرطان الثدي — أقوى من القصة العائلية لدى معظم النساء. وتذكّر: \"Age = the #1 breast cancer risk factor\". والإجابة الصحيحة هي E."
     }
   ]
 }

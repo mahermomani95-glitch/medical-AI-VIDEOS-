@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Breast cancer is the second most common cause of…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بسرطان الثدي؟ أمامك هذه الخيارات: 65% of breast cancers are missed by population-based mammographic screening، أو Ultrasound can not be used as a screening tool، أو Magnetic (MRI) is the initial imaging screening tool، أو Fine-needle aspiration cytology (FNAC) and core biopsy are equally useful diagnostically، أو Breast cancer is the second most common cause of cancer-related death in women after lung cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بسرطان الثدي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 65% of breast cancers are missed by population-based mammographic screening: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف The true rate of missed cancers on screening mammography is much lower than 65%. الخيار B، Ultrasound can not be used as a screening tool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف ultrasound CAN be used as a screening adjunct, especially in dense breasts. الخيار C، Magnetic (MRI) is the initial imaging screening tool: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Breast cancer is the second most common cause of cancer-related death in women after lung cancer. يصبح صحيحًا في سؤال يصف MRI is not the initial imaging tool — mammography/ultrasound come first. الخيار D، Fine-needle aspiration cytology (FNAC) and core biopsy are equally useful diagnostically: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا equally useful — core biopsy gives more diagnostic information — these misstate true breast cancer facts. يصبح صحيحًا في سؤال يصف FNAC/core biopsy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Lung #1, Breast #2 — cancer deaths in women\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Breast cancer is the second most common cause of cancer-related death in women after lung cancer. سرطان الثدي يأتي في المرتبة الثانية بعد سرطان الرئة كسبب للوفاة بالسرطان عند النساء — حقيقة وبائية معروفة ومُوثّقة."
+      "narration": "الخيار E هو الإجابة الصحيحة. سرطان الثدي يأتي في المرتبة الثانية بعد سرطان الرئة كسبب للوفاة بالسرطان عند النساء — حقيقة وبائية معروفة ومُوثّقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان الثدي يأتي في المرتبة الثانية بعد سرطان الرئة كسبب للوفاة بالسرطان عند النساء — حقيقة وبائية معروفة ومُوثّقة. وتذكّر القاعدة: \"Lung #1, Breast #2 — cancer deaths in women\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. سرطان الثدي يأتي في المرتبة الثانية بعد سرطان الرئة كسبب للوفاة بالسرطان عند النساء — حقيقة وبائية معروفة ومُوثّقة. وتذكّر: \"Lung #1, Breast #2 — cancer deaths in women\". والإجابة الصحيحة هي E."
     }
   ]
 }

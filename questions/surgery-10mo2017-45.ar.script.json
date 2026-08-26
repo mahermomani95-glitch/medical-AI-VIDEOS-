@@ -45,7 +45,7 @@
         "label": "Gallstones are usually seen on Xray",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. التصوير في الجراحة، كلها صحيحة باستثناء؟ أمامك هذه الخيارات: In abdominal Xray, the transverse colon can be seen in various locations in the centre of the abdomen because it is a totally intra-peritoneal organ، أو Gallstones are usually seen on Xray، أو The presence of gas in the small bowel raise the suspicion of bowel obstruction، أو Ultrasound is better than CT scan for gallstones detection، أو Ultrasound can assess solid organs better than gas-filled organs. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. التصوير في الجراحة، كلها صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، In abdominal Xray, the transverse colon can be seen in various locations in the centre of the abdomen because it is a totally intra-peritoneal organ: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The transverse colon's mobile intraperitoneal position, gas in the small bowel raising… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones are usually seen on Xray. الخيار C، The presence of gas in the small bowel raise the suspicion of bowel obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The transverse colon's mobile intraperitoneal position, gas in the small bowel raising… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones are usually seen on Xray. الخيار D، Ultrasound is better than CT scan for gallstones detection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The transverse colon's mobile intraperitoneal position, gas in the small bowel raising… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones are usually seen on Xray. الخيار E، Ultrasound can assess solid organs better than gas-filled organs: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The transverse colon's mobile intraperitoneal position, gas in the small bowel raising… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Gallstones are usually seen on Xray.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Gallstones: mostly not Visible on X-ray"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Gallstones are usually seen on Xray. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة."
+      "narration": "الخيار B هو الإجابة الصحيحة. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة. وتذكّر القاعدة: Gallstones: mostly not Visible on X-ray. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. معظم حصى المرارة شفافة إشعاعيًا فلا تظهر بالأشعة السينية البسيطة. وتذكّر: Gallstones: mostly not Visible on X-ray. والإجابة الصحيحة هي B."
     }
   ]
 }

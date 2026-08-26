@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Peripheral pulse and circulation"
       },
-      "narration": "لنبدأ بهذا السؤال. حرق محيطي من الدرجة الثالثة في منطقة الذراع والساعد، أي مما يلي هوالأكثر أهمية للمراقبة؟ أمامك هذه الخيارات: Blood gases، أو Carboxy-oxygen level، أو Macroglobiunria cryoglobinuria، أو Peripheral pulse and circulation، أو Body Tempruture. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حرق محيطي من الدرجة الثالثة في منطقة الذراع والساعد، أي مما يلي هوالأكثر أهمية للمراقبة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Blood gases: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation. يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation monitoring is specifically the priority for a circumferential limb burn. الخيار B، Carboxy-oxygen level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation. يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation monitoring is specifically the priority for a circumferential limb burn. الخيار C، Macroglobiunria cryoglobinuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Peripheral pulse and circulation. يصبح صحيحًا في سؤال يصف Blood gases, carboxyhemoglobin level, and myoglobinuria/cryoglobinuria testing are useful general burn labs, but peripheral pulse/circulation monitoring is specifically the priority for a circumferential limb burn. الخيار E، Body Tempruture: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the specific limb-focused monitoring needed here. يصبح صحيحًا في سؤال يصف body temperature is a general vital sign.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Blood gases: الإجابة الصحيحة هي Peripheral pulse and circulation. الخيار B، Carboxy-oxygen level: الإجابة الصحيحة هي Peripheral pulse and circulation. الخيار C، Macroglobiunria cryoglobinuria: الإجابة الصحيحة هي Peripheral pulse and circulation. الخيار E، Body Tempruture: المطلوب هنا the specific limb-focused monitoring needed here. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Circumferential burn = watch the pulse (tourn"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Peripheral pulse and circulation. الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا."
+      "narration": "الخيار D، Peripheral pulse and circulation هو الإجابة الصحيحة. الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا. وتذكّر القاعدة: \"Circumferential burn = watch the pulse (tourniquet effect)\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الحرق المحيطي الكامل يعمل كعاصبة عند تورّم النسيج — يجب مراقبة النبض والتروية لاكتشاف متلازمة الحيز مبكرًا. وتذكّر: \"Circumferential burn = watch the pulse (tourniquet effect)\". والإجابة الصحيحة هي D."
     }
   ]
 }

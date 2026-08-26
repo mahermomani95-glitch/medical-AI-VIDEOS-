@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Chemotherapy"
       },
-      "narration": "لنبدأ بهذا السؤال. تتم إدارة سرطان الغدد الليمفاوية البنكرياسية عن طريق؟ أمامك هذه الخيارات: Pancreaticoduodenectomy، أو Chemotherapy، أو Radiotherapy، أو Pancreaticoduodenectomy followed by radio، أو Chemo_radio therapy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تتم إدارة سرطان الغدد الليمفاوية البنكرياسية عن طريق؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pancreaticoduodenectomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding unnecessary radical surgery. يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy. الخيار C، Radiotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding unnecessary radical surgery. يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy. الخيار D، Pancreaticoduodenectomy followed by radio: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding unnecessary radical surgery. يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy. الخيار E، Chemo_radio therapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — pancreatic lymphoma is managed primarily with chemotherapy, similar to lymphomas elsewhere, avoiding unnecessary radical surgery. يصبح صحيحًا في سؤال يصف Pancreaticoduodenectomy alone, radiotherapy alone, pancreaticoduodenectomy followed by radiation, and combined chemoradiotherapy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Pancreaticoduodenectomy: لا ينطبق على هذه الحالة. الخيار C، Radiotherapy: لا ينطبق على هذه الحالة. الخيار D، Pancreaticoduodenectomy followed by radio: لا ينطبق على هذه الحالة. الخيار E، Chemo_radio therapy: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pancreatic lymphoma: managed by Chemotherapy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Chemotherapy. الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي."
+      "narration": "الخيار B، Chemotherapy هو الإجابة الصحيحة. الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي. وتذكّر القاعدة: Pancreatic lymphoma: managed by Chemotherapy. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الليمفوما البنكرياسية تُدار كيميائيًا، بخلاف السرطان الغدي الجراحي. وتذكّر: Pancreatic lymphoma: managed by Chemotherapy. والإجابة الصحيحة هي B."
     }
   ]
 }

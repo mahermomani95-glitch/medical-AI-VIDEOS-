@@ -41,7 +41,7 @@
         "region": "head",
         "label": "IV fluid normal saline and Lasix"
       },
-      "narration": "لنبدأ بهذا السؤال. أنثى تبلغ من العمر 30 عامًا تم تشخيصها مؤخرًا بمتلازمة الأورام الصماويةالمتعددة من النوع الأول، وتعاني من الارتباك والنعاس والإمساك وفترة \" كيوتي\" قصيرة على تخطيط القلب الكهربائي، والخطوة التالية الأفضل هي:؟ أمامك هذه الخيارات: Alpha B blockers، أو B blockers، أو Calcium gluconate، أو IV fluid normal saline and Lasix. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أنثى تبلغ من العمر 30 عامًا تم تشخيصها مؤخرًا بمتلازمة الأورام الصماويةالمتعددة من النوع الأول، وتعاني من الارتباك والنعاس والإمساك وفترة \" كيوتي\" قصيرة على تخطيط القلب الكهربائي، والخطوة التالية الأفضل هي:؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Alpha B blockers: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Alpha blockers and beta blockers are used for pheochromocytoma. الخيار B، B blockers: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا hypercalcemia. يصبح صحيحًا في سؤال يصف Alpha blockers and beta blockers are used for pheochromocytoma. الخيار C، Calcium gluconate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي IV fluid normal saline and Lasix. يصبح صحيحًا في سؤال يصف calcium gluconate is used to treat hyperkalemia/cardiac stabilization, the opposite problem — IV fluids with furosemide are the correct initial treatment for the acute hypercalcemia causing confusion and somnolence in this MEN1 patient.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Alpha B blockers: المطلوب هنا hypercalcemia. الخيار B، B blockers: المطلوب هنا hypercalcemia. الخيار C، Calcium gluconate: الإجابة الصحيحة هي IV fluid normal saline and Lasix. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "MEN1 hypercalcemic crisis: Saline plus Lasix"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: IV fluid normal saline and Lasix. السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة."
+      "narration": "الخيار D هو الإجابة الصحيحة. السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة. وتذكّر القاعدة: MEN1 hypercalcemic crisis: Saline plus Lasix. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. السوائل الملحية مع لاسيكس علاج فوري مناسب لأزمة فرط كالسيوم الحادة. وتذكّر: MEN1 hypercalcemic crisis: Saline plus Lasix. والإجابة الصحيحة هي D."
     }
   ]
 }

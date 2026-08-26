@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "A majority of colorectal cancers occur in the…"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بسرطان القولون باستثناء؟ أمامك هذه الخيارات: It's the second most common cause of cancer related death in Jordan، أو A ( T1 N1 MO stage 3) tumor is equivalent to Duke stage C tumor، أو A majority of colorectal cancers occur in the descending colon، أو FAP and HNPCC are two inherited causes of colorectal cancer، أو Patients with ulcerative colitis have increased risk of developing colon cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بسرطان القولون باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It's the second most common cause of cancer related death in Jordan: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Colon cancer being the 2nd most common cancer death cause in Jordan, TNM-to-Dukes staging… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو A majority of colorectal cancers occur in the descending colon. الخيار B، A ( T1 N1 MO stage 3) tumor is equivalent to Duke stage C tumor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Colon cancer being the 2nd most common cancer death cause in Jordan, TNM-to-Dukes staging… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو A majority of colorectal cancers occur in the descending colon. الخيار D، FAP and HNPCC are two inherited causes of colorectal cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Colon cancer being the 2nd most common cancer death cause in Jordan, TNM-to-Dukes staging… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو A majority of colorectal cancers occur in the descending colon. الخيار E، Patients with ulcerative colitis have increased risk of developing colon cancer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Colon cancer being the 2nd most common cancer death cause in Jordan, TNM-to-Dukes staging… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو A majority of colorectal cancers occur in the descending colon.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Colon cancer: mostly Rectosigmoid, not descend"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: A majority of colorectal cancers occur in the descending colon. معظم سرطانات القولون تحدث بالمنطقة المستقيمية السينية، لا النازلة."
+      "narration": "الخيار C هو الإجابة الصحيحة. معظم سرطانات القولون تحدث بالمنطقة المستقيمية السينية، لا النازلة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. معظم سرطانات القولون تحدث بالمنطقة المستقيمية السينية، لا النازلة. وتذكّر القاعدة: Colon cancer: mostly Rectosigmoid, not descending. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. معظم سرطانات القولون تحدث بالمنطقة المستقيمية السينية، لا النازلة. وتذكّر: Colon cancer: mostly Rectosigmoid, not descending. والإجابة الصحيحة هي C."
     }
   ]
 }

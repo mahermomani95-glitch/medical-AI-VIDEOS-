@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Pulsus paradoxus"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع العلامات التالية لصدمة نقص حجم الدم باستثناء؟ أمامك هذه الخيارات: Hypothermia، أو Tachypnea، أو Pulsus paradoxus، أو Cool skin، أو Hypotension. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع العلامات التالية لصدمة نقص حجم الدم باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypothermia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus. الخيار B، Tachypnea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus. الخيار D، Cool skin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus. الخيار E، Hypotension: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypothermia, tachypnea, cool skin, and hypotension are all classic signs of hypovolemic shock… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pulsus paradoxus.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hypothermia: صحيحة، لكنها ليست الاستثناء. الخيار B، Tachypnea: صحيحة، لكنها ليست الاستثناء. الخيار D، Cool skin: صحيحة، لكنها ليست الاستثناء. الخيار E، Hypotension: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hypovolemic shock: doesn't feature Pulsus para"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Pulsus paradoxus. النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم."
+      "narration": "الخيار C، Pulsus paradoxus هو الإجابة الصحيحة. النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم. وتذكّر القاعدة: Hypovolemic shock: doesn't feature Pulsus paradoxus. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. النبض المتناقض علامة اندحاس تاموري، لا صدمة نقص حجم. وتذكّر: Hypovolemic shock: doesn't feature Pulsus paradoxus. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Battle sign"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بكسر قاعدة الجمجمة في الحفرة الأمامية، كل ما يلي صحيحباستثناء؟ (سؤال مكرر، راجع السؤال رقم 168) أمامك هذه الخيارات: Epistaxis، أو CSF rhinorrhea، أو Blindness، أو Raccon eyes، أو Battle sign. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بكسر قاعدة الجمجمة في الحفرة الأمامية، كل ما يلي صحيحباستثناء؟ (سؤال مكرر، راجع السؤال رقم 168) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Epistaxis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Epistaxis, CSF rhinorrhea, blindness, and raccoon eyes are all classic features of anterior… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Battle sign. الخيار B، CSF rhinorrhea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Epistaxis, CSF rhinorrhea, blindness, and raccoon eyes are all classic features of anterior… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Battle sign. الخيار C، Blindness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Epistaxis, CSF rhinorrhea, blindness, and raccoon eyes are all classic features of anterior… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Battle sign. الخيار D، Raccon eyes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Epistaxis, CSF rhinorrhea, blindness, and raccoon eyes are all classic features of anterior… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Battle sign.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Epistaxis: صحيحة، لكنها ليست الاستثناء. الخيار B، CSF rhinorrhea: صحيحة، لكنها ليست الاستثناء. الخيار C، Blindness: صحيحة، لكنها ليست الاستثناء. الخيار D، Raccon eyes: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Battle's sign: Belongs to the Back/middle foss"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Battle sign. علامة باتل تخص كسر الحفرة الوسطى/الخلفية، لا الأمامية."
+      "narration": "الخيار E، Battle sign هو الإجابة الصحيحة. علامة باتل تخص كسر الحفرة الوسطى/الخلفية، لا الأمامية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. علامة باتل تخص كسر الحفرة الوسطى/الخلفية، لا الأمامية. وتذكّر القاعدة: Battle's sign: Belongs to the Back/middle fossa, not anterior. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. علامة باتل تخص كسر الحفرة الوسطى/الخلفية، لا الأمامية. وتذكّر: Battle's sign: Belongs to the Back/middle fossa, not anterior. والإجابة الصحيحة هي E."
     }
   ]
 }

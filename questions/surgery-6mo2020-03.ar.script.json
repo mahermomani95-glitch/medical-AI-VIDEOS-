@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Open the wound and drain the hematoma"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Open the wound and drain the hematoma، أو Give calcium carbonate، أو Intubation، أو Aspirate the hematoma، أو Tracheostomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Give calcium carbonate: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address an acute airway emergency. يصبح صحيحًا في سؤال يصف Giving calcium carbonate. الخيار C، Intubation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the wound and drain the hematoma. يصبح صحيحًا في سؤال يصف intubation may be attempted but can be difficult with a distorted airway from hematoma. الخيار D، Aspirate the hematoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the wound and drain the hematoma. يصبح صحيحًا في سؤال يصف aspirating the hematoma with a needle is inadequate compared to fully opening the wound. الخيار E، Tracheostomy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the immediate first step. يصبح صحيحًا في سؤال يصف tracheostomy is a more invasive fallback.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Give calcium carbonate: المطلوب هنا address an acute airway emergency. الخيار C، Intubation: لا ينطبق على هذه الحالة. الخيار D، Aspirate the hematoma: لا ينطبق على هذه الحالة. الخيار E، Tracheostomy: المطلوب هنا the immediate first step. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Post-thyroidectomy airway compromise = Open t"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Open the wound and drain the hematoma. ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات."
+      "narration": "الخيار A هو الإجابة الصحيحة. ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات. وتذكّر القاعدة: \"Post-thyroidectomy airway compromise = Open the wound at bedside NOW\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. ورم دموي رقبي متوسع يضغط على مجرى الهواء طارئ حقيقي — افتح الجرح فورًا عند السرير لتخفيف الضغط، لا تنتظر غرفة العمليات. وتذكّر: \"Post-thyroidectomy airway compromise = Open the wound at bedside NOW\". والإجابة الصحيحة هي A."
     }
   ]
 }

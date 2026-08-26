@@ -45,7 +45,7 @@
         "label": "Staphylococcus aureus",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. الكائن الدقيق المسبب الأكثر شيوعًا لالتهاب العظم والنقي الحاد هو أمامك هذه الخيارات: Streptococcus pyogenes، أو Staphylococcus aureus، أو Salmonella، أو E coli، أو Hemophilus influenzae. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الكائن الدقيق المسبب الأكثر شيوعًا لالتهاب العظم والنقي الحاد هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Streptococcus pyogenes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Haemophilus influenzae can all cause osteomyelitis in certain contexts, but none is as common overall as Staphylococcus aureus. الخيار C، Salmonella: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يستهدف Salmonella تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، E coli: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Haemophilus influenzae can all cause osteomyelitis in certain contexts, but none is as common overall as Staphylococcus aureus. الخيار E، Hemophilus influenzae: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Staphylococcus aureus. يصبح صحيحًا في سؤال يصف Streptococcus pyogenes, E. coli, and Haemophilus influenzae can all cause osteomyelitis in certain contexts, but none is as common overall as Staphylococcus aureus.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Streptococcus pyogenes: الإجابة الصحيحة هي Staphylococcus aureus. الخيار C، Salmonella: الإجابة الصحيحة هي Staphylococcus aureus. الخيار D، E coli: الإجابة الصحيحة هي Staphylococcus aureus. الخيار E، Hemophilus influenzae: الإجابة الصحيحة هي Staphylococcus aureus. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Staph aureus = bone's #1 enemy\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Staphylococcus aureus. المكورات العنقودية الذهبية هي الجرثومة الكلاسيكية المسببة لالتهاب العظم والنقي الحاد عند الأطفال والبالغين على حد سواء."
+      "narration": "الخيار B، Staphylococcus aureus هو الإجابة الصحيحة. المكورات العنقودية الذهبية هي الجرثومة الكلاسيكية المسببة لالتهاب العظم والنقي الحاد عند الأطفال والبالغين على حد سواء."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المكورات العنقودية الذهبية هي الجرثومة الكلاسيكية المسببة لالتهاب العظم والنقي الحاد عند الأطفال والبالغين على حد سواء. وتذكّر القاعدة: \"Staph aureus = bone's #1 enemy\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. المكورات العنقودية الذهبية هي الجرثومة الكلاسيكية المسببة لالتهاب العظم والنقي الحاد عند الأطفال والبالغين على حد سواء. وتذكّر: \"Staph aureus = bone's #1 enemy\". والإجابة الصحيحة هي B."
     }
   ]
 }

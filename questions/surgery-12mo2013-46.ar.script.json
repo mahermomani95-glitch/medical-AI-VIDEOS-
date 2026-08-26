@@ -45,7 +45,7 @@
         "label": "Anhydrosis",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. من المتوقع حدوث كل ما يلي في المريض المصاب بورم القواتم باستثناء؟ أمامك هذه الخيارات: HTN، أو Palpitations، أو Headache، أو Anhydrosis، أو Nausea and vomiting. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. من المتوقع حدوث كل ما يلي في المريض المصاب بورم القواتم باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، HTN: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis. الخيار B، Palpitations: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis. الخيار C، Headache: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis. الخيار E، Nausea and vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hypertension, palpitations, headache, and nausea/vomiting are all classic features of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Anhydrosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، HTN: صحيحة، لكنها ليست الاستثناء. الخيار B، Palpitations: صحيحة، لكنها ليست الاستثناء. الخيار C، Headache: صحيحة، لكنها ليست الاستثناء. الخيار E، Nausea and vomiting: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Pheochromocytoma: Produces sweating, not Anhid"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Anhydrosis. ورم القواتم يسبب فرط تعرق (تفعيل ودي)، لا انعدامه."
+      "narration": "الخيار D، Anhydrosis هو الإجابة الصحيحة. ورم القواتم يسبب فرط تعرق (تفعيل ودي)، لا انعدامه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ورم القواتم يسبب فرط تعرق (تفعيل ودي)، لا انعدامه. وتذكّر القاعدة: Pheochromocytoma: Produces sweating, not Anhidrosis. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ورم القواتم يسبب فرط تعرق (تفعيل ودي)، لا انعدامه. وتذكّر: Pheochromocytoma: Produces sweating, not Anhidrosis. والإجابة الصحيحة هي D."
     }
   ]
 }

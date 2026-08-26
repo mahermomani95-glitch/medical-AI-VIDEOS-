@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Extensor posturing"
       },
-      "narration": "لنبدأ بهذا السؤال. للسماح بالتبرع بالكلى من مريض صغير تم إدخال أنبوب التنفس إليه فيوحدة العناية المركزة، يجب تأكيد الوفاة الدماغية أولاً، وتتوافق جميع نتائجالفحص التالية مع الوفاة الدماغية باستثناء؟ أمامك هذه الخيارات: Dilated non reactive pupils، أو Absent oculocephalic reflex، أو Extensor posturing، أو Absent gag reflex، أو Absent corneal reflex. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. للسماح بالتبرع بالكلى من مريض صغير تم إدخال أنبوب التنفس إليه فيوحدة العناية المركزة، يجب تأكيد الوفاة الدماغية أولاً، وتتوافق جميع نتائجالفحص التالية مع الوفاة الدماغية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Dilated non reactive pupils: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Extensor posturing. يصبح صحيحًا في سؤال يصف Dilated non-reactive pupils, absent oculocephalic reflex, absent gag reflex, and absent corneal reflex are all consistent with (and part of confirming) brain death, unlike extensor posturing (decerebrate posturing), which reflects some residual brainstem function and must be ABSENT (ruled out) to confirm brain death — its presence would argue against brain death. الخيار B، Absent oculocephalic reflex: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Extensor posturing. يصبح صحيحًا في سؤال يصف Dilated non-reactive pupils, absent oculocephalic reflex, absent gag reflex, and absent corneal reflex are all consistent with (and part of confirming) brain death, unlike extensor posturing (decerebrate posturing), which reflects some residual brainstem function and must be ABSENT (ruled out) to confirm brain death — its presence would argue against brain death. الخيار D، Absent gag reflex: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Extensor posturing. يصبح صحيحًا في سؤال يصف Dilated non-reactive pupils, absent oculocephalic reflex, absent gag reflex, and absent corneal reflex are all consistent with (and part of confirming) brain death, unlike extensor posturing (decerebrate posturing), which reflects some residual brainstem function and must be ABSENT (ruled out) to confirm brain death — its presence would argue against brain death. الخيار E، Absent corneal reflex: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Extensor posturing. يصبح صحيحًا في سؤال يصف Dilated non-reactive pupils, absent oculocephalic reflex, absent gag reflex, and absent corneal reflex are all consistent with (and part of confirming) brain death, unlike extensor posturing (decerebrate posturing), which reflects some residual brainstem function and must be ABSENT (ruled out) to confirm brain death — its presence would argue against brain death.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Dilated non reactive pupils: الإجابة الصحيحة هي Extensor posturing. الخيار B، Absent oculocephalic reflex: الإجابة الصحيحة هي Extensor posturing. الخيار D، Absent gag reflex: الإجابة الصحيحة هي Extensor posturing. الخيار E، Absent corneal reflex: الإجابة الصحيحة هي Extensor posturing. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Brain death confirmation: Excludes Extensor po"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Extensor posturing. التوضع الباسط يستدعي تقييمًا إضافيًا دقيقًا قبل تأكيد الموت الدماغي."
+      "narration": "الخيار C، Extensor posturing هو الإجابة الصحيحة. التوضع الباسط يستدعي تقييمًا إضافيًا دقيقًا قبل تأكيد الموت الدماغي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التوضع الباسط يستدعي تقييمًا إضافيًا دقيقًا قبل تأكيد الموت الدماغي. وتذكّر القاعدة: Brain death confirmation: Excludes Extensor posturing carefully. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التوضع الباسط يستدعي تقييمًا إضافيًا دقيقًا قبل تأكيد الموت الدماغي. وتذكّر: Brain death confirmation: Excludes Extensor posturing carefully. والإجابة الصحيحة هي C."
     }
   ]
 }

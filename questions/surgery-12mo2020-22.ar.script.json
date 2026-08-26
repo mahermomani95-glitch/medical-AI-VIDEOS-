@@ -41,7 +41,7 @@
         "region": "chest",
         "label": "Breast oedema result from superficial lymphatic mets"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: CA in situ is always invasive، أو Breast oedema result from superficial lymphatic mets، أو It's more than 50% familiall، أو Men breast cancer represent 10% of breast ca. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، CA in situ is always invasive: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا always invasive. يصبح صحيحًا في سؤال يصف Carcinoma in situ. الخيار C، It's more than 50% familiall: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا more than 50%. يصبح صحيحًا في سؤال يصف the true hereditary rate is only 5-10%. الخيار D، Men breast cancer represent 10% of breast ca: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 10%, of all breast cancers — these misstate true breast cancer epidemiology. يصبح صحيحًا في سؤال يصف male breast cancer represents about 1%.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا always invasive. الخيار C: المطلوب هنا more than 50%. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Breast edema = Superficial lymphatic blockage"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Breast oedema result from superficial lymphatic mets. وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد."
+      "narration": "الخيار B هو الإجابة الصحيحة. وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد. وتذكّر القاعدة: \"Breast edema = Superficial lymphatic blockage\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. وذمة الثدي (جلد قشرة البرتقال) تنتج عن انسداد الأوعية اللمفاوية الأدمية السطحية بخلايا الورم، مسببة تجمع سوائل بالجلد. وتذكّر: \"Breast edema = Superficial lymphatic blockage\". والإجابة الصحيحة هي B."
     }
   ]
 }

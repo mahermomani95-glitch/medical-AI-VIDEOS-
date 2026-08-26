@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Mucoepidermoid carcinoma"
       },
-      "narration": "لنبدأ بهذا السؤال. سرطان الغدد اللعابية الأكثر شيوعا هو:؟ أمامك هذه الخيارات: Warthin tumors، أو Mucoepidermoid carcinoma، أو Adenoidcystic cancer، أو Adenocarcinoma، أو Malignant mixed cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. سرطان الغدد اللعابية الأكثر شيوعا هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Warthin tumors: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the cancer being asked about. يصبح صحيحًا في سؤال يصف Warthin tumor is benign. الخيار C، Adenoidcystic cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma. يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than mucoepidermoid carcinoma, which is the most common salivary gland cancer. الخيار D، Adenocarcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma. يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than mucoepidermoid carcinoma, which is the most common salivary gland cancer. الخيار E، Malignant mixed cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mucoepidermoid carcinoma. يصبح صحيحًا في سؤال يصف adenoid cystic carcinoma, adenocarcinoma, and malignant mixed tumor are all real salivary gland malignancies but less common overall than mucoepidermoid carcinoma, which is the most common salivary gland cancer.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Warthin tumors: المطلوب هنا the cancer being asked about. الخيار C، Adenoidcystic cancer: الإجابة الصحيحة هي Mucoepidermoid carcinoma. الخيار D، Adenocarcinoma: الإجابة الصحيحة هي Mucoepidermoid carcinoma. الخيار E، Malignant mixed cancer: الإجابة الصحيحة هي Mucoepidermoid carcinoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Salivary gland cancer: mostly Mucoepidermoid"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Mucoepidermoid carcinoma. السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية."
+      "narration": "الخيار B، Mucoepidermoid carcinoma هو الإجابة الصحيحة. السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية. وتذكّر القاعدة: Salivary gland cancer: mostly Mucoepidermoid. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. السرطانة المخاطية الجلدية هي الأشيع بين سرطانات الغدد اللعابية. وتذكّر: Salivary gland cancer: mostly Mucoepidermoid. والإجابة الصحيحة هي B."
     }
   ]
 }

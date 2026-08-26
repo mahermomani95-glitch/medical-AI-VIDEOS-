@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Drainage"
       },
-      "narration": "لنبدأ بهذا السؤال. العلاج المفضل للخراج حول الشرج هو: أمامك هذه الخيارات: Rest in bed، أو Observation and repeated examination، أو Proper antibiotics، أو Hot application، أو Drainage. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلاج المفضل للخراج حول الشرج هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Rest in bed: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Rest in bed, observation with repeated exams, proper antibiotics, and hot application are all conservative measures, but none substitutes for actual surgical drainage of an abscess collection. الخيار B، Observation and repeated examination: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Rest in bed, observation with repeated exams, proper antibiotics, and hot application are all conservative measures, but none substitutes for actual surgical drainage of an abscess collection. الخيار C، Proper antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Rest in bed, observation with repeated exams, proper antibiotics, and hot application are all conservative measures, but none substitutes for actual surgical drainage of an abscess collection. الخيار D، Hot application: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Drainage. يصبح صحيحًا في سؤال يصف Rest in bed, observation with repeated exams, proper antibiotics, and hot application are all conservative measures, but none substitutes for actual surgical drainage of an abscess collection.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Rest in bed: الإجابة الصحيحة هي Drainage. الخيار B، Observation and repeated examination: الإجابة الصحيحة هي Drainage. الخيار C، Proper antibiotics: الإجابة الصحيحة هي Drainage. الخيار D، Hot application: الإجابة الصحيحة هي Drainage. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Abscess = drain it\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Drainage. الخراج يحتاج فتحًا وتصريفًا — المضادات الحيوية أو الراحة أو المراقبة وحدها لا تكفي."
+      "narration": "الخيار E، Drainage هو الإجابة الصحيحة. الخراج يحتاج فتحًا وتصريفًا — المضادات الحيوية أو الراحة أو المراقبة وحدها لا تكفي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخراج يحتاج فتحًا وتصريفًا — المضادات الحيوية أو الراحة أو المراقبة وحدها لا تكفي. وتذكّر القاعدة: \"Abscess = drain it\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الخراج يحتاج فتحًا وتصريفًا — المضادات الحيوية أو الراحة أو المراقبة وحدها لا تكفي. وتذكّر: \"Abscess = drain it\". والإجابة الصحيحة هي E."
     }
   ]
 }

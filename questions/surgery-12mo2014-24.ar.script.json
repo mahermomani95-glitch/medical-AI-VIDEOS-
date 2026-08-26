@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Causes gas gangrene"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية غير صحيحة بشأن كلوستريديوم تيتاني؟ (سؤال مكرر، راجع السؤال رقم 174) أمامك هذه الخيارات: Causes gas gangrene، أو Produces an exotoxin، أو Has a terminal spore، أو Is an obligatory anaerobe، أو Is motile. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية غير صحيحة بشأن كلوستريديوم تيتاني؟ (سؤال مكرر، راجع السؤال رقم 174) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Produces an exotoxin: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا C. tetani, making A the false statement. يصبح صحيحًا في سؤال يصف Producing an exotoxin, having a terminal spore, being an obligate anaerobe, and being motile are all true statements about Clostridium tetani — however, gas gangrene is caused by Clostridium perfringens. الخيار C، Has a terminal spore: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا C. tetani, making A the false statement. يصبح صحيحًا في سؤال يصف Producing an exotoxin, having a terminal spore, being an obligate anaerobe, and being motile are all true statements about Clostridium tetani — however, gas gangrene is caused by Clostridium perfringens. الخيار D، Is an obligatory anaerobe: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا C. tetani, making A the false statement. يصبح صحيحًا في سؤال يصف Producing an exotoxin, having a terminal spore, being an obligate anaerobe, and being motile are all true statements about Clostridium tetani — however, gas gangrene is caused by Clostridium perfringens. الخيار E، Is motile: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا C. tetani, making A the false statement. يصبح صحيحًا في سؤال يصف Producing an exotoxin, having a terminal spore, being an obligate anaerobe, and being motile are all true statements about Clostridium tetani — however, gas gangrene is caused by Clostridium perfringens.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Produces an exotoxin: لا ينطبق على هذه الحالة. الخيار C، Has a terminal spore: لا ينطبق على هذه الحالة. الخيار D، Is an obligatory anaerobe: لا ينطبق على هذه الحالة. الخيار E، Is motile: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "C. tetani: Triggers Tetanus, not gas gangrene"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Causes gas gangrene. المطثية الكزازية تسبب الكزاز، لا الغرغرينا الغازية (سببها مطثية أخرى)."
+      "narration": "الخيار A، Causes gas gangrene هو الإجابة الصحيحة. المطثية الكزازية تسبب الكزاز، لا الغرغرينا الغازية (سببها مطثية أخرى)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المطثية الكزازية تسبب الكزاز، لا الغرغرينا الغازية (سببها مطثية أخرى). وتذكّر القاعدة: C. tetani: Triggers Tetanus, not gas gangrene. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. المطثية الكزازية تسبب الكزاز، لا الغرغرينا الغازية (سببها مطثية أخرى). وتذكّر: C. tetani: Triggers Tetanus, not gas gangrene. والإجابة الصحيحة هي A."
     }
   ]
 }

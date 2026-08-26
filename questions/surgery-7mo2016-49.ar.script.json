@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Combined chemo_radio"
       },
-      "narration": "لنبدأ بهذا السؤال. تتكون إدارة سرطان البلعوم الأنفي في المقام الأول من:؟ أمامك هذه الخيارات: Radiation، أو Chemotherapy، أو Surgical excision، أو Combined chemo_radio، أو Combined chemo radio followed by surgery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تتكون إدارة سرطان البلعوم الأنفي في المقام الأول من:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Radiation: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — nasopharyngeal carcinoma is primarily managed with combined chemoradiotherapy given its radiosensitivity and difficult surgical access. يصبح صحيحًا في سؤال يصف Radiation alone, chemotherapy alone, surgical excision (C, rarely used given the anatomic location), and chemoradiotherapy followed by surgery. الخيار B، Chemotherapy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — nasopharyngeal carcinoma is primarily managed with combined chemoradiotherapy given its radiosensitivity and difficult surgical access. يصبح صحيحًا في سؤال يصف Radiation alone, chemotherapy alone, surgical excision (C, rarely used given the anatomic location), and chemoradiotherapy followed by surgery. الخيار C، Surgical excision: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — nasopharyngeal carcinoma is primarily managed with combined chemoradiotherapy given its radiosensitivity and difficult surgical access. يصبح صحيحًا في سؤال يصف Radiation alone, chemotherapy alone, surgical excision (C, rarely used given the anatomic location), and chemoradiotherapy followed by surgery. الخيار E، Combined chemo radio followed by surgery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the standard approach — nasopharyngeal carcinoma is primarily managed with combined chemoradiotherapy given its radiosensitivity and difficult surgical access. يصبح صحيحًا في سؤال يصف Radiation alone, chemotherapy alone, surgical excision (C, rarely used given the anatomic location), and chemoradiotherapy followed by surgery.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Radiation: لا ينطبق على هذه الحالة. الخيار B، Chemotherapy: لا ينطبق على هذه الحالة. الخيار C، Surgical excision: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Nasopharyngeal carcinoma: managed by Chemo-rad"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Combined chemo_radio. العلاج الكيميائي الإشعاعي المشترك هو النهج الأساسي لسرطان البلعوم الأنفي."
+      "narration": "الخيار D، Combined chemo_radio هو الإجابة الصحيحة. العلاج الكيميائي الإشعاعي المشترك هو النهج الأساسي لسرطان البلعوم الأنفي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العلاج الكيميائي الإشعاعي المشترك هو النهج الأساسي لسرطان البلعوم الأنفي. وتذكّر القاعدة: Nasopharyngeal carcinoma: managed by Chemo-radio. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. العلاج الكيميائي الإشعاعي المشترك هو النهج الأساسي لسرطان البلعوم الأنفي. وتذكّر: Nasopharyngeal carcinoma: managed by Chemo-radio. والإجابة الصحيحة هي D."
     }
   ]
 }

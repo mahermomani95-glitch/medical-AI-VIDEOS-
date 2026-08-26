@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Increased bile salt uptake"
       },
-      "narration": "لنبدأ بهذا السؤال. يمكن أن يؤدي استئصال اللفائفي إلى كل ما يلي باستثناء؟ أمامك هذه الخيارات: Decreased B12 uptake، أو Megaloblastic anemia، أو Increased bile salt uptake، أو Gallstones formation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يمكن أن يؤدي استئصال اللفائفي إلى كل ما يلي باستثناء؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Decreased B12 uptake: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake. الخيار B، Megaloblastic anemia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake. الخيار D، Gallstones formation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased B12 uptake, megaloblastic anemia (B, from B12 deficiency), and gallstone formation… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Increased bile salt uptake.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Decreased B12 uptake: صحيحة، لكنها ليست الاستثناء. الخيار B، Megaloblastic anemia: صحيحة، لكنها ليست الاستثناء. الخيار D، Gallstones formation: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Ileal resection: Impairs bile salt uptake, doe"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Increased bile salt uptake. استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده."
+      "narration": "الخيار C، Increased bile salt uptake هو الإجابة الصحيحة. استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده. وتذكّر القاعدة: Ileal resection: Impairs bile salt uptake, doesn't increase. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. استئصال اللفائفي يُنقص امتصاص الأملاح الصفراوية، لا يزيده. وتذكّر: Ileal resection: Impairs bile salt uptake, doesn't increase. والإجابة الصحيحة هي C."
     }
   ]
 }

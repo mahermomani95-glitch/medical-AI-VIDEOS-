@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hepatitis A infection"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل عوامل خطر الإصابة بسرطان الخلايا الكبدية كل ما يلي باستثناء أمامك هذه الخيارات: Hepatitis A infection، أو Hepatitis B infection، أو Wilson disease، أو Fatty liver، أو Hepatitis C infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل عوامل خطر الإصابة بسرطان الخلايا الكبدية كل ما يلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Hepatitis B infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection. الخيار C، Wilson disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection. الخيار D، Fatty liver: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection. الخيار E، Hepatitis C infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hepatitis B, Wilson's disease, fatty liver disease, and hepatitis C are all genuine risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hepatitis A infection.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Hepatitis B infection: صحيحة، لكنها ليست الاستثناء. الخيار C، Wilson disease: صحيحة، لكنها ليست الاستثناء. الخيار D، Fatty liver: صحيحة، لكنها ليست الاستثناء. الخيار E، Hepatitis C infection: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hepatitis A = Acute only, no chronic HCC risk"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Hepatitis A infection. التهاب الكبد A يسبب مرضًا حادًا ذاتي الشفاء — لا يتحول لمزمن كما B و C ، لذلك لا يرفع خطر سرطان الخلايا الكبدية."
+      "narration": "الخيار A، Hepatitis A infection هو الإجابة الصحيحة. التهاب الكبد A يسبب مرضًا حادًا ذاتي الشفاء — لا يتحول لمزمن كما B و C ، لذلك لا يرفع خطر سرطان الخلايا الكبدية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب الكبد A يسبب مرضًا حادًا ذاتي الشفاء — لا يتحول لمزمن كما B و C ، لذلك لا يرفع خطر سرطان الخلايا الكبدية. وتذكّر القاعدة: \"Hepatitis A = Acute only, no chronic HCC risk\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التهاب الكبد A يسبب مرضًا حادًا ذاتي الشفاء — لا يتحول لمزمن كما B و C ، لذلك لا يرفع خطر سرطان الخلايا الكبدية. وتذكّر: \"Hepatitis A = Acute only, no chronic HCC risk\". والإجابة الصحيحة هي A."
     }
   ]
 }

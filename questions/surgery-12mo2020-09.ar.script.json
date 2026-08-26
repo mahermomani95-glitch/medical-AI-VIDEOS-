@@ -45,7 +45,7 @@
         "label": "Cholesterol crystals",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Palpable thrill، أو Translumination، أو Cholesterol crystals، أو x-ray، أو US. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Palpable thrill: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol crystals. يصبح صحيحًا في سؤال يصف Palpable thrill isn't a typical hydrocele/hernia differentiator. الخيار B، Translumination: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol crystals. يصبح صحيحًا في سؤال يصف general transillumination is useful but must be interpreted alongside other findings. الخيار D، x-ray: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol crystals. يصبح صحيحًا في سؤال يصف plain X-ray has limited utility for soft tissue scrotal masses. الخيار E، US: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholesterol crystals. يصبح صحيحًا في سؤال يصف ultrasound can help but the cholesterol crystal aspiration finding is the specific confirmatory test for branchial cyst, a different structure being asked about here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Palpable thrill: الإجابة الصحيحة هي Cholesterol crystals. الخيار B، Translumination: الإجابة الصحيحة هي Cholesterol crystals. الخيار D، x-ray: الإجابة الصحيحة هي Cholesterol crystals. الخيار E، US: الإجابة الصحيحة هي Cholesterol crystals. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Cholesterol crystals = Branchial cyst signatu"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Cholesterol crystals. سحب بلورات كوليسترول من السائل موجود نوعي يؤكد كيس الشق الخيشومي، ويميّزه عن خراج بسيط مصاب."
+      "narration": "الخيار C، Cholesterol crystals هو الإجابة الصحيحة. سحب بلورات كوليسترول من السائل موجود نوعي يؤكد كيس الشق الخيشومي، ويميّزه عن خراج بسيط مصاب."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سحب بلورات كوليسترول من السائل موجود نوعي يؤكد كيس الشق الخيشومي، ويميّزه عن خراج بسيط مصاب. وتذكّر القاعدة: \"Cholesterol crystals = Branchial cyst signature\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. سحب بلورات كوليسترول من السائل موجود نوعي يؤكد كيس الشق الخيشومي، ويميّزه عن خراج بسيط مصاب. وتذكّر: \"Cholesterol crystals = Branchial cyst signature\". والإجابة الصحيحة هي C."
     }
   ]
 }

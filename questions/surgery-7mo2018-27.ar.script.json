@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Ganglion cyst"
       },
-      "narration": "لنبدأ بهذا السؤال. الورم الحميد الأكثر شيوعا في اليد هو أمامك هذه الخيارات: Hemangioma، أو Lipoma، أو Ganglion cyst، أو Giant cell tumor of tendon sheath، أو Epidermoid inclusions cyst. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الورم الحميد الأكثر شيوعا في اليد هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hemangioma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ganglion cyst. يصبح صحيحًا في سؤال يصف Hemangioma, lipoma, giant cell tumor of tendon sheath, and epidermoid inclusion cyst are all benign hand tumors, but none is as common overall as the ganglion cyst. الخيار B، Lipoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ganglion cyst. يصبح صحيحًا في سؤال يصف Hemangioma, lipoma, giant cell tumor of tendon sheath, and epidermoid inclusion cyst are all benign hand tumors, but none is as common overall as the ganglion cyst. الخيار D، Giant cell tumor of tendon sheath: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ganglion cyst. يصبح صحيحًا في سؤال يصف Hemangioma, lipoma, giant cell tumor of tendon sheath, and epidermoid inclusion cyst are all benign hand tumors, but none is as common overall as the ganglion cyst. الخيار E، Epidermoid inclusions cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ganglion cyst. يصبح صحيحًا في سؤال يصف Hemangioma, lipoma, giant cell tumor of tendon sheath, and epidermoid inclusion cyst are all benign hand tumors, but none is as common overall as the ganglion cyst.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hemangioma: الإجابة الصحيحة هي Ganglion cyst. الخيار B، Lipoma: الإجابة الصحيحة هي Ganglion cyst. الخيار D: الإجابة الصحيحة هي Ganglion cyst. الخيار E، Epidermoid inclusions cyst: الإجابة الصحيحة هي Ganglion cyst. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Ganglion = most common hand lump\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Ganglion cyst. الكيس العقدي هو الكتلة المطاطية الكلاسيكية على الرسغ — الورم الحميد الأشيع باليد بفارق كبير."
+      "narration": "الخيار C، Ganglion cyst هو الإجابة الصحيحة. الكيس العقدي هو الكتلة المطاطية الكلاسيكية على الرسغ — الورم الحميد الأشيع باليد بفارق كبير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الكيس العقدي هو الكتلة المطاطية الكلاسيكية على الرسغ — الورم الحميد الأشيع باليد بفارق كبير. وتذكّر القاعدة: \"Ganglion = most common hand lump\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الكيس العقدي هو الكتلة المطاطية الكلاسيكية على الرسغ — الورم الحميد الأشيع باليد بفارق كبير. وتذكّر: \"Ganglion = most common hand lump\". والإجابة الصحيحة هي C."
     }
   ]
 }

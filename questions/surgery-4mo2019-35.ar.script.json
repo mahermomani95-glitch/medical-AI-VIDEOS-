@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Barrett's esophagus"
       },
-      "narration": "لنبدأ بهذا السؤال. يعاني رجل بالغ من عسر البلع والتقيؤ. أظهرت الخزعة بالمنظار استبدالالظهارة الحرشفية في أسفل المريء بظهارة غدية. التشخيص الأكثر احتمالاًهو: أمامك هذه الخيارات: Oesophageal laceration، أو Esophageal Diverticula، أو Barrett's esophagus، أو Esophageal webs، أو Celiac sprue. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يعاني رجل بالغ من عسر البلع والتقيؤ. أظهرت الخزعة بالمنظار استبدالالظهارة الحرشفية في أسفل المريء بظهارة غدية. التشخيص الأكثر احتمالاًهو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Oesophageal laceration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Barrett's esophagus. يصبح صحيحًا في سؤال يصف Esophageal laceration, esophageal diverticula, esophageal webs, and celiac sprue are all esophageal or GI conditions, but Barrett's esophagus specifically is defined by the described squamous-to-columnar metaplasia. الخيار B، Esophageal Diverticula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Barrett's esophagus. يصبح صحيحًا في سؤال يصف Esophageal laceration, esophageal diverticula, esophageal webs, and celiac sprue are all esophageal or GI conditions, but Barrett's esophagus specifically is defined by the described squamous-to-columnar metaplasia. الخيار D، Esophageal webs: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Barrett's esophagus. يصبح صحيحًا في سؤال يصف Esophageal laceration, esophageal diverticula, esophageal webs, and celiac sprue are all esophageal or GI conditions, but Barrett's esophagus specifically is defined by the described squamous-to-columnar metaplasia. الخيار E، Celiac sprue: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Barrett's esophagus. يصبح صحيحًا في سؤال يصف Esophageal laceration, esophageal diverticula, esophageal webs, and celiac sprue are all esophageal or GI conditions, but Barrett's esophagus specifically is defined by the described squamous-to-columnar metaplasia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Oesophageal laceration: الإجابة الصحيحة هي Barrett's esophagus. الخيار B، Esophageal Diverticula: الإجابة الصحيحة هي Barrett's esophagus. الخيار D، Esophageal webs: الإجابة الصحيحة هي Barrett's esophagus. الخيار E، Celiac sprue: الإجابة الصحيحة هي Barrett's esophagus. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Barrett's = squamous becomes glandular\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Barrett's esophagus. استبدال الظهارة الحرشفية بظهارة غدية في الجزء السفلي من المريء هو التعريف الكلاسيكي لمريء باريت."
+      "narration": "الخيار C، Barrett's esophagus هو الإجابة الصحيحة. استبدال الظهارة الحرشفية بظهارة غدية في الجزء السفلي من المريء هو التعريف الكلاسيكي لمريء باريت."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استبدال الظهارة الحرشفية بظهارة غدية في الجزء السفلي من المريء هو التعريف الكلاسيكي لمريء باريت. وتذكّر القاعدة: \"Barrett's = squamous becomes glandular\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. استبدال الظهارة الحرشفية بظهارة غدية في الجزء السفلي من المريء هو التعريف الكلاسيكي لمريء باريت. وتذكّر: \"Barrett's = squamous becomes glandular\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Uniform pigmentation",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل عوامل الخطورة العالية لتحويل الشامة إلى ورم ميلانيني خبيث كل مايلي باستثناء أمامك هذه الخيارات: Asymmetric shape، أو Ulceration or bleeding، أو Increase in size، أو Uniform pigmentation، أو itching. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل عوامل الخطورة العالية لتحويل الشامة إلى ورم ميلانيني خبيث كل مايلي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Asymmetric shape: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation. الخيار B، Ulceration or bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation. الخيار C، Increase in size: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation. الخيار E، itching: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Asymmetric shape, ulceration/bleeding, increase in size, and itching are all recognized… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Uniform pigmentation.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Asymmetric shape: صحيحة، لكنها ليست الاستثناء. الخيار B، Ulceration or bleeding: صحيحة، لكنها ليست الاستثناء. الخيار C، Increase in size: صحيحة، لكنها ليست الاستثناء. الخيار E، itching: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"ABCDE of melanoma: Color VARIATION, not unifo"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Uniform pigmentation. التصبغ المنتظم مطمئن — التصبغ المتفاوت وغير المنتظم هو ما يثير الشك بالتحول للميلانوما."
+      "narration": "الخيار D، Uniform pigmentation هو الإجابة الصحيحة. التصبغ المنتظم مطمئن — التصبغ المتفاوت وغير المنتظم هو ما يثير الشك بالتحول للميلانوما."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التصبغ المنتظم مطمئن — التصبغ المتفاوت وغير المنتظم هو ما يثير الشك بالتحول للميلانوما. وتذكّر القاعدة: \"ABCDE of melanoma: Color VARIATION, not uniformity\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. التصبغ المنتظم مطمئن — التصبغ المتفاوت وغير المنتظم هو ما يثير الشك بالتحول للميلانوما. وتذكّر: \"ABCDE of melanoma: Color VARIATION, not uniformity\". والإجابة الصحيحة هي D."
     }
   ]
 }

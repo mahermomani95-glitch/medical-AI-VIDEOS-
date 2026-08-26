@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Surgical treatment may be complicated by…"
       },
-      "narration": "لنبدأ بهذا السؤال. جاء رجل يبلغ من العمر أربعين عامًا إلى عيادتكم يطلب المشورة بشأن شقهالشرجي. إحدى الجمل التالية تُعدّ نصيحة مناسبة.؟ أمامك هذه الخيارات: Surgery is primary treatment for acute anal fissure، أو Anal fissures are usually located in the lateral aspect of the canal، أو Anal fissure in patients with Crohn disease usually indicate malignancy، أو Medical treatment is successful in 20% of case's، أو Surgical treatment may be complicated by incontinence. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جاء رجل يبلغ من العمر أربعين عامًا إلى عيادتكم يطلب المشورة بشأن شقهالشرجي. إحدى الجمل التالية تُعدّ نصيحة مناسبة.؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Surgery is primary treatment for acute anal fissure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical treatment may be complicated by incontinence. يصبح صحيحًا في سؤال يصف Surgery is NOT the primary/first-line treatment for acute anal fissure (medical management is tried first). الخيار B، Anal fissures are usually located in the lateral aspect of the canal: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical treatment may be complicated by incontinence. يصبح صحيحًا في سؤال يصف fissures are usually located in the POSTERIOR (not lateral) midline typically. الخيار C، Anal fissure in patients with Crohn disease usually indicate malignancy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessarily indicate malignancy. يصبح صحيحًا في سؤال يصف a lateral/atypical fissure in Crohn's. الخيار D، Medical treatment is successful in 20% of case's: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا just 20% — the true statement is that surgical treatment (sphincterotomy) carries a real risk of incontinence. يصبح صحيحًا في سؤال يصف medical treatment is actually successful in a MAJORITY (well over 20%) of cases.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: المطلوب هنا necessarily indicate malignancy. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Anal fissure surgery: carries Incontinence ris"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Surgical treatment may be complicated by incontinence. الإصلاح الجراحي للشق الشرجي قد يُعقّد بسلس حقيقي واجب مناقشته."
+      "narration": "الخيار E هو الإجابة الصحيحة. الإصلاح الجراحي للشق الشرجي قد يُعقّد بسلس حقيقي واجب مناقشته."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإصلاح الجراحي للشق الشرجي قد يُعقّد بسلس حقيقي واجب مناقشته. وتذكّر القاعدة: Anal fissure surgery: carries Incontinence risk. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الإصلاح الجراحي للشق الشرجي قد يُعقّد بسلس حقيقي واجب مناقشته. وتذكّر: Anal fissure surgery: carries Incontinence risk. والإجابة الصحيحة هي E."
     }
   ]
 }

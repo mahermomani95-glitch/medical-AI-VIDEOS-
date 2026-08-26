@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anal gland infection"
       },
-      "narration": "لنبدأ بهذا السؤال. تشمل أسباب الناسور الشرجي ما يلي:؟ أمامك هذه الخيارات: Anal gland infection، أو Ulcerative colitis، أو Ischemic colitis، أو Anal warts، أو Levator ani syndrome. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تشمل أسباب الناسور الشرجي ما يلي:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology. يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome. الخيار C، Ischemic colitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology. يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome. الخيار D، Anal warts: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology. يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome. الخيار E، Levator ani syndrome: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the primary cause of anal fistula — infection of the anal glands (cryptoglandular infection) is the classic etiology. يصبح صحيحًا في سؤال يصف Ulcerative colitis, ischemic colitis, anal warts, and levator ani syndrome.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Ulcerative colitis: لا ينطبق على هذه الحالة. الخيار C، Ischemic colitis: لا ينطبق على هذه الحالة. الخيار D، Anal warts: لا ينطبق على هذه الحالة. الخيار E، Levator ani syndrome: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Anal fistula: mostly from Gland infection"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Anal gland infection. عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية."
+      "narration": "الخيار A، Anal gland infection هو الإجابة الصحيحة. عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية. وتذكّر القاعدة: Anal fistula: mostly from Gland infection. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. عدوى الغدد الشرجية هي المنشأ الأساسي لغالبية النواسير الشرجية. وتذكّر: Anal fistula: mostly from Gland infection. والإجابة الصحيحة هي A."
     }
   ]
 }

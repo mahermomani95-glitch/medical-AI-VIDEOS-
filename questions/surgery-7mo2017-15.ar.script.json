@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "The infant usually presents with projectile bilious…"
       },
-      "narration": "لنبدأ بهذا السؤال. في تضيق البواب الضخامي عند الأطفال، تكون إحدى العبارات التالية خاطئة؟ أمامك هذه الخيارات: The infant usually presents with projectile bilious vomiting، أو The treatment is surgical by Ramstedt operation، أو Peak incidence: 3-6 weeks of age، أو A palpable olive shaped mass is usually felt in the classical case، أو Ultrasound is usually diagnostic. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في تضيق البواب الضخامي عند الأطفال، تكون إحدى العبارات التالية خاطئة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، The treatment is surgical by Ramstedt operation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ramstedt pyloromyotomy as treatment, peak incidence at 3-6 weeks, a palpable olive-shaped… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The infant usually presents with projectile bilious vomiting. الخيار C، Peak incidence: 3-6 weeks of age: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ramstedt pyloromyotomy as treatment, peak incidence at 3-6 weeks, a palpable olive-shaped… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The infant usually presents with projectile bilious vomiting. الخيار D، A palpable olive shaped mass is usually felt in the classical case: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ramstedt pyloromyotomy as treatment, peak incidence at 3-6 weeks, a palpable olive-shaped… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The infant usually presents with projectile bilious vomiting. الخيار E، Ultrasound is usually diagnostic: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ramstedt pyloromyotomy as treatment, peak incidence at 3-6 weeks, a palpable olive-shaped… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The infant usually presents with projectile bilious vomiting.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Ultrasound is usually diagnostic: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pyloric stenosis vomiting: Projectile but non-"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: The infant usually presents with projectile bilious vomiting. قيء تضيق البواب غير صفراوي نمطيًا (الانسداد يسبق الاثني عشر)."
+      "narration": "الخيار A هو الإجابة الصحيحة. قيء تضيق البواب غير صفراوي نمطيًا (الانسداد يسبق الاثني عشر)."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قيء تضيق البواب غير صفراوي نمطيًا (الانسداد يسبق الاثني عشر). وتذكّر القاعدة: Pyloric stenosis vomiting: Projectile but non-Bilious. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. قيء تضيق البواب غير صفراوي نمطيًا (الانسداد يسبق الاثني عشر). وتذكّر: Pyloric stenosis vomiting: Projectile but non-Bilious. والإجابة الصحيحة هي A."
     }
   ]
 }

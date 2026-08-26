@@ -45,7 +45,7 @@
         "region": "head",
         "label": "1500 ml"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 200 ml، أو 500 ml، أو 1000 ml، أو 1500 ml، أو 2000 ml. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 200 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml. يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage). الخيار B، 500 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml. يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage). الخيار C، 1000 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml. يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage). الخيار E، 2000 ml: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 1500 ml. يصبح صحيحًا في سؤال يصف 200, 500, 1000, and 2000 mL don't match the approximately 1500 mL threshold at which hypotension typically first appears (class III hemorrhage).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 200 ml: الإجابة الصحيحة هي 1500 ml. الخيار B، 500 ml: الإجابة الصحيحة هي 1500 ml. الخيار C، 1000 ml: الإجابة الصحيحة هي 1500 ml. الخيار E، 2000 ml: الإجابة الصحيحة هي 1500 ml. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hypotension first appears at Class III (~1500"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: 1500 ml. هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم."
+      "narration": "الخيار D، 1500 ml هو الإجابة الصحيحة. هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم. وتذكّر القاعدة: \"Hypotension first appears at Class III (~1500 mL)\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. هبوط الضغط لا يظهر عادة حتى النزف من الدرجة الثالثة — حوالي 1500 مل من فقد الدم. وتذكّر: \"Hypotension first appears at Class III (~1500 mL)\". والإجابة الصحيحة هي D."
     }
   ]
 }

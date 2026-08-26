@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Cecum"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لخلل التنسج الوعائي هو؟ أمامك هذه الخيارات: Rectum، أو Transverse colon، أو Descending colon، أو Ascending colon، أو Cecum. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لخلل التنسج الوعائي هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Rectum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cecum. يصبح صحيحًا في سؤال يصف Rectum, transverse colon, and descending colon are less typical sites. الخيار B، Transverse colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cecum. يصبح صحيحًا في سؤال يصف Rectum, transverse colon, and descending colon are less typical sites. الخيار C، Descending colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cecum. يصبح صحيحًا في سؤال يصف Rectum, transverse colon, and descending colon are less typical sites. الخيار C، Ascending colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cecum. يصبح صحيحًا في سؤال يصف Rectum, transverse colon, and descending colon are less typical sites.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Rectum: الإجابة الصحيحة هي Cecum. الخيار B، Transverse colon: الإجابة الصحيحة هي Cecum. الخيار C، Descending colon: الإجابة الصحيحة هي Cecum. الخيار C، Ascending colon: الإجابة الصحيحة هي Cecum. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Angiodysplasia: mostly in the Cecum"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Cecum. الأعور هو الموقع الأشيع لخلل التنسج الوعائي بالقولون."
+      "narration": "الخيار E، Cecum هو الإجابة الصحيحة. الأعور هو الموقع الأشيع لخلل التنسج الوعائي بالقولون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأعور هو الموقع الأشيع لخلل التنسج الوعائي بالقولون. وتذكّر القاعدة: Angiodysplasia: mostly in the Cecum. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الأعور هو الموقع الأشيع لخلل التنسج الوعائي بالقولون. وتذكّر: Angiodysplasia: mostly in the Cecum. والإجابة الصحيحة هي E."
     }
   ]
 }

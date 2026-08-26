@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Abdominal ultrasound"
       },
-      "narration": "لنبدأ بهذا السؤال. دخلت سيدة تبلغ من العمر 25 عامًا إلى قسم الطوارئ تشكو من ألم فيالبطن، ويُشتبه بإصابتها بالتهاب حاد في البنكرياس بسبب حصوات المرارة،بناءً على الأعراض وفحوصات الدم. ما هي أفضل دراسة تصوير أولية في هذهالحالة؟ أمامك هذه الخيارات: Abdominal and pelvic computerized tomography، أو Endoscopic ultrasound، أو MRCP، أو ERCP، أو Abdominal ultrasound. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. دخلت سيدة تبلغ من العمر 25 عامًا إلى قسم الطوارئ تشكو من ألم فيالبطن، ويُشتبه بإصابتها بالتهاب حاد في البنكرياس بسبب حصوات المرارة،بناءً على الأعراض وفحوصات الدم. ما هي أفضل دراسة تصوير أولية في هذهالحالة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Abdominal and pelvic computerized tomography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound. يصبح صحيحًا في سؤال يصف CT, endoscopic ultrasound, MRCP, and ERCP are more invasive, radiation-exposing (for a young patient with suspected ectopic pregnancy), or inappropriate for the differential — abdominal/pelvic ultrasound is the best initial, radiation-free investigation for a young woman with suspected ectopic pregnancy or other pelvic pathology. الخيار B، Endoscopic ultrasound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound. يصبح صحيحًا في سؤال يصف CT, endoscopic ultrasound, MRCP, and ERCP are more invasive, radiation-exposing (for a young patient with suspected ectopic pregnancy), or inappropriate for the differential — abdominal/pelvic ultrasound is the best initial, radiation-free investigation for a young woman with suspected ectopic pregnancy or other pelvic pathology. الخيار C، MRCP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound. يصبح صحيحًا في سؤال يصف CT, endoscopic ultrasound, MRCP, and ERCP are more invasive, radiation-exposing (for a young patient with suspected ectopic pregnancy), or inappropriate for the differential — abdominal/pelvic ultrasound is the best initial, radiation-free investigation for a young woman with suspected ectopic pregnancy or other pelvic pathology. الخيار D، ERCP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Abdominal ultrasound. يصبح صحيحًا في سؤال يصف CT, endoscopic ultrasound, MRCP, and ERCP are more invasive, radiation-exposing (for a young patient with suspected ectopic pregnancy), or inappropriate for the differential — abdominal/pelvic ultrasound is the best initial, radiation-free investigation for a young woman with suspected ectopic pregnancy or other pelvic pathology.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Abdominal ultrasound. الخيار B، Endoscopic ultrasound: الإجابة الصحيحة هي Abdominal ultrasound. الخيار C، MRCP: الإجابة الصحيحة هي Abdominal ultrasound. الخيار D، ERCP: الإجابة الصحيحة هي Abdominal ultrasound. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Young woman, abdominal pain: Ultrasound first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Abdominal ultrasound. الموجات فوق الصوتية البطنية آمنة وكافية أولياً لشابة بألم بطني."
+      "narration": "الخيار E، Abdominal ultrasound هو الإجابة الصحيحة. الموجات فوق الصوتية البطنية آمنة وكافية أولياً لشابة بألم بطني."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية البطنية آمنة وكافية أولياً لشابة بألم بطني. وتذكّر القاعدة: Young woman, abdominal pain: Ultrasound first. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية البطنية آمنة وكافية أولياً لشابة بألم بطني. وتذكّر: Young woman, abdominal pain: Ultrasound first. والإجابة الصحيحة هي E."
     }
   ]
 }

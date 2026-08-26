@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Splenomegaly"
       },
-      "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بـ البرفرية المناعية قليلة الصفائح الدموية باستثناء؟ أمامك هذه الخيارات: Splenomegaly، أو In children, less than 10 years usually resolves spontaneously، أو The primary treatment is steroids، أو Splenectomy is indicated if medical therapy fails or chronic ITP، أو Anti platelets antibodies. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بـ البرفرية المناعية قليلة الصفائح الدموية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، In children, less than 10 years usually resolves spontaneously: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. In children, spontaneous resolution under age 10, steroids as primary treatment, splenectomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenomegaly. الخيار C، The primary treatment is steroids: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. In children, spontaneous resolution under age 10, steroids as primary treatment, splenectomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenomegaly. الخيار D، Splenectomy is indicated if medical therapy fails or chronic ITP: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. In children, spontaneous resolution under age 10, steroids as primary treatment, splenectomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenomegaly. الخيار E، Anti platelets antibodies: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. In children, spontaneous resolution under age 10, steroids as primary treatment, splenectomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Splenomegaly.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Anti platelets antibodies: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "ITP: keeps a Standard-size spleen, not enlarge"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Splenomegaly. حجم الطحال طبيعي عادة بـ ITP ، لا متضخم كما قد يُظن."
+      "narration": "الخيار A، Splenomegaly هو الإجابة الصحيحة. حجم الطحال طبيعي عادة بـ ITP ، لا متضخم كما قد يُظن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حجم الطحال طبيعي عادة بـ ITP ، لا متضخم كما قد يُظن. وتذكّر القاعدة: ITP: keeps a Standard-size spleen, not enlarged. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. حجم الطحال طبيعي عادة بـ ITP ، لا متضخم كما قد يُظن. وتذكّر: ITP: keeps a Standard-size spleen, not enlarged. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "The final strength of a healed wound is greater than that of the surrounding skin",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالجرح صحيحة باستثناء؟ أمامك هذه الخيارات: The final strength of a healed wound is greater than that of the surrounding skin، أو Presence of a foreign body delays the wound healing، أو The surgical wound of a thyroid operation is considered a clean wound، أو Staphylococcus aureus is the most common cause of wound infection following surgery، أو Hand wash and Hygiene decrease community and hospital-acquired wounds infections. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالجرح صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Presence of a foreign body delays the wound healing: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The presence of a foreign body delaying healing, thyroid surgery being classified as clean… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The final strength of a healed wound is greater than that of the surrounding skin. الخيار C، The surgical wound of a thyroid operation is considered a clean wound: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The presence of a foreign body delaying healing, thyroid surgery being classified as clean… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The final strength of a healed wound is greater than that of the surrounding skin. الخيار D، Staphylococcus aureus is the most common cause of wound infection following surgery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The presence of a foreign body delaying healing, thyroid surgery being classified as clean… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The final strength of a healed wound is greater than that of the surrounding skin. الخيار E، Hand wash and Hygiene decrease community and hospital-acquired wounds infections: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The presence of a foreign body delaying healing, thyroid surgery being classified as clean… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو The final strength of a healed wound is greater than that of the surrounding skin.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Healed wound strength: Falls short of original"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: The final strength of a healed wound is greater than that of the surrounding skin. قوة الجرح الملتئم لا تصل أبدًا لكامل قوة النسيج السليم الأصلي."
+      "narration": "الخيار A هو الإجابة الصحيحة. قوة الجرح الملتئم لا تصل أبدًا لكامل قوة النسيج السليم الأصلي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قوة الجرح الملتئم لا تصل أبدًا لكامل قوة النسيج السليم الأصلي. وتذكّر القاعدة: Healed wound strength: Falls short of original, never exceeds. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. قوة الجرح الملتئم لا تصل أبدًا لكامل قوة النسيج السليم الأصلي. وتذكّر: Healed wound strength: Falls short of original, never exceeds. والإجابة الصحيحة هي A."
     }
   ]
 }

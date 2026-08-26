@@ -45,7 +45,7 @@
         "label": "14G",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. في حالة المريض الذي يعاني من صدمة نقص حجم الدم، ما هو حجم القنيةالذي يجب عليك اختياره للتسريب؟ (سؤال مكرر، راجع السؤال رقم 541) أمامك هذه الخيارات: 19G، أو 21 G، أو 14G، أو 26 G، أو 30 G. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في حالة المريض الذي يعاني من صدمة نقص حجم الدم، ما هو حجم القنيةالذي يجب عليك اختياره للتسريب؟ (سؤال مكرر، راجع السؤال رقم 541) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 19G: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 14G. يصبح صحيحًا في سؤال يصف 19G, 21G, 26G, and 30G are progressively narrower gauges limiting flow rate — a large-bore 14G cannula allows the fastest infusion rate, ideal for resuscitating hypovolemic shock. الخيار B، 21 G: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 14G. يصبح صحيحًا في سؤال يصف 19G, 21G, 26G, and 30G are progressively narrower gauges limiting flow rate — a large-bore 14G cannula allows the fastest infusion rate, ideal for resuscitating hypovolemic shock. الخيار D، 26 G: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 14G. يصبح صحيحًا في سؤال يصف 19G, 21G, 26G, and 30G are progressively narrower gauges limiting flow rate — a large-bore 14G cannula allows the fastest infusion rate, ideal for resuscitating hypovolemic shock. الخيار E، 30 G: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 14G. يصبح صحيحًا في سؤال يصف 19G, 21G, 26G, and 30G are progressively narrower gauges limiting flow rate — a large-bore 14G cannula allows the fastest infusion rate, ideal for resuscitating hypovolemic shock.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 19G: الإجابة الصحيحة هي 14G. الخيار B، 21 G: الإجابة الصحيحة هي 14G. الخيار D، 26 G: الإجابة الصحيحة هي 14G. الخيار E، 30 G: الإجابة الصحيحة هي 14G. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Hypovolemic shock: Fourteen gauge for fast inf"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: 14G. القسطرة عيار 14 هي الأعرض والأنسب للإنعاش السريع بالصدمة."
+      "narration": "الخيار C، 14G هو الإجابة الصحيحة. القسطرة عيار 14 هي الأعرض والأنسب للإنعاش السريع بالصدمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القسطرة عيار 14 هي الأعرض والأنسب للإنعاش السريع بالصدمة. وتذكّر القاعدة: Hypovolemic shock: Fourteen gauge for fast infusion. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. القسطرة عيار 14 هي الأعرض والأنسب للإنعاش السريع بالصدمة. وتذكّر: Hypovolemic shock: Fourteen gauge for fast infusion. والإجابة الصحيحة هي C."
     }
   ]
 }

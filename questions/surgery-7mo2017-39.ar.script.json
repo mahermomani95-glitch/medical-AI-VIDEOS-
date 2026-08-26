@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Blood sample for prostate specific antigen is not…"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر ٥٧ عامًا يُعاني من كثرة التبول الليلي (٣ مرات فيالليلة)، مع تقطع وضعف في تدفق البول، وكشف الفحص الشرجي الرقمي عنتصلب في الفص الأيمن من البروستاتا. جميع العبارات التالية صحيحةباستثناء:؟ أمامك هذه الخيارات: Treat the obstructive symptoms، أو Perform ultrasound for residual urine assessment، أو Blood sample for prostate specific antigen is not usually required، أو This patient most likely needs prostate biopsy، أو His past history and medication have to be checked. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر ٥٧ عامًا يُعاني من كثرة التبول الليلي (٣ مرات فيالليلة)، مع تقطع وضعف في تدفق البول، وكشف الفحص الشرجي الرقمي عنتصلب في الفص الأيمن من البروستاتا. جميع العبارات التالية صحيحةباستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Treat the obstructive symptoms: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا automatically needed without additional red flags — the marked correct statement reflects the nuanced point that PSA isn't ALWAYS mandatory in straightforward BPH presentations. يصبح صحيحًا في سؤال يصف Treating obstructive symptoms, performing post-void residual ultrasound, and reviewing history/medications are all appropriate management steps for BPH — checking PSA is actually often recommended in appropriate candidates (not routinely avoided), and prostate biopsy. الخيار B، Perform ultrasound for residual urine assessment: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا automatically needed without additional red flags — the marked correct statement reflects the nuanced point that PSA isn't ALWAYS mandatory in straightforward BPH presentations. يصبح صحيحًا في سؤال يصف Treating obstructive symptoms, performing post-void residual ultrasound, and reviewing history/medications are all appropriate management steps for BPH — checking PSA is actually often recommended in appropriate candidates (not routinely avoided), and prostate biopsy. الخيار D، This patient most likely needs prostate biopsy: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا automatically needed without additional red flags — the marked correct statement reflects the nuanced point that PSA isn't ALWAYS mandatory in straightforward BPH presentations. يصبح صحيحًا في سؤال يصف Treating obstructive symptoms, performing post-void residual ultrasound, and reviewing history/medications are all appropriate management steps for BPH — checking PSA is actually often recommended in appropriate candidates (not routinely avoided), and prostate biopsy. الخيار E، His past history and medication have to be checked: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا automatically needed without additional red flags — the marked correct statement reflects the nuanced point that PSA isn't ALWAYS mandatory in straightforward BPH presentations. يصبح صحيحًا في سؤال يصف Treating obstructive symptoms, performing post-void residual ultrasound, and reviewing history/medications are all appropriate management steps for BPH — checking PSA is actually often recommended in appropriate candidates (not routinely avoided), and prostate biopsy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Treat the obstructive symptoms: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Typical BPH symptoms: PSA Not routinely requir"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Blood sample for prostate specific antigen is not usually required. فحص PSA ليس ضروريًا روتينيًا لأعراض تضخم البروستات الحميد النمطية."
+      "narration": "الخيار C هو الإجابة الصحيحة. فحص PSA ليس ضروريًا روتينيًا لأعراض تضخم البروستات الحميد النمطية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فحص PSA ليس ضروريًا روتينيًا لأعراض تضخم البروستات الحميد النمطية. وتذكّر القاعدة: Typical BPH symptoms: PSA Not routinely required. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فحص PSA ليس ضروريًا روتينيًا لأعراض تضخم البروستات الحميد النمطية. وتذكّر: Typical BPH symptoms: PSA Not routinely required. والإجابة الصحيحة هي C."
     }
   ]
 }

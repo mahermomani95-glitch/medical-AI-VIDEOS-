@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Surgical removal of the parathyroids at total…"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لقصور الغدة جار الدرقية هو؟ أمامك هذه الخيارات: Congenital absence of the parathyroids، أو Autoimmune parathyroid failure، أو Parathyroid cancer، أو Surgical removal of the parathyroids at total thyroidectomy، أو Acute bacterial infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعا لقصور الغدة جار الدرقية هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Congenital absence of the parathyroids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical removal of the parathyroids at total thyroidectomy. يصبح صحيحًا في سؤال يصف Congenital absence, autoimmune failure, parathyroid cancer, and acute infection are rare causes of hypoparathyroidism, but inadvertent removal or devascularization during total thyroidectomy remains the most common cause overall. الخيار B، Autoimmune parathyroid failure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical removal of the parathyroids at total thyroidectomy. يصبح صحيحًا في سؤال يصف Congenital absence, autoimmune failure, parathyroid cancer, and acute infection are rare causes of hypoparathyroidism, but inadvertent removal or devascularization during total thyroidectomy remains the most common cause overall. الخيار C، Parathyroid cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical removal of the parathyroids at total thyroidectomy. يصبح صحيحًا في سؤال يصف Congenital absence, autoimmune failure, parathyroid cancer, and acute infection are rare causes of hypoparathyroidism, but inadvertent removal or devascularization during total thyroidectomy remains the most common cause overall. الخيار E، Acute bacterial infection: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical removal of the parathyroids at total thyroidectomy. يصبح صحيحًا في سؤال يصف Congenital absence, autoimmune failure, parathyroid cancer, and acute infection are rare causes of hypoparathyroidism, but inadvertent removal or devascularization during total thyroidectomy remains the most common cause overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B، Autoimmune parathyroid failure: لا ينطبق على هذه الحالة. الخيار C، Parathyroid cancer: لا ينطبق على هذه الحالة. الخيار E، Acute bacterial infection: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hypoparathyroidism: mostly Surgical (thyroidec"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Surgical removal of the parathyroids at total thyroidectomy. الاستئصال الجراحي العرضي أثناء جراحة الدرقية هو السبب الأشيع لقصور جارات الدرقية."
+      "narration": "الخيار D هو الإجابة الصحيحة. الاستئصال الجراحي العرضي أثناء جراحة الدرقية هو السبب الأشيع لقصور جارات الدرقية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الاستئصال الجراحي العرضي أثناء جراحة الدرقية هو السبب الأشيع لقصور جارات الدرقية. وتذكّر القاعدة: Hypoparathyroidism: mostly Surgical (thyroidectomy) cause. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الاستئصال الجراحي العرضي أثناء جراحة الدرقية هو السبب الأشيع لقصور جارات الدرقية. وتذكّر: Hypoparathyroidism: mostly Surgical (thyroidectomy) cause. والإجابة الصحيحة هي D."
     }
   ]
 }

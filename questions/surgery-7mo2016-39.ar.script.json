@@ -41,7 +41,7 @@
         "region": "chest",
         "label": "20% of patient have cardiac anomalies"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بتضيق المريء وناسور الشريان التاجي؟ أمامك هذه الخيارات: The most common type is the H type، أو It is suspected prenatally by Oligohydramnios، أو 20% of patient have cardiac anomalies، أو This condition is more in females. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بتضيق المريء وناسور الشريان التاجي؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The most common type is the H type: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies. يصبح صحيحًا في سؤال يصف The H-type is actually the RAREST (not most common) type. الخيار B، It is suspected prenatally by Oligohydramnios: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 20% of patient have cardiac anomalies. يصبح صحيحًا في سؤال يصف it's suspected prenatally by POLYhydramnios (not oligohydramnios), since the fetus can't swallow amniotic fluid normally. الخيار E، This condition is more in females: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا have a clear female predominance — the true statement is that about 20% of patients have associated cardiac anomalies, part of the VACTERL association. يصبح صحيحًا في سؤال يصف the condition.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي 20% of patient have cardiac anomalies. الخيار B: الإجابة الصحيحة هي 20% of patient have cardiac anomalies. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Esophageal atresia: Twenty percent cardiac ano"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: 20% of patient have cardiac anomalies. حوالي 20٪ من مرضى رتق المريء لديهم شذوذات قلبية مرافقة."
+      "narration": "الخيار D هو الإجابة الصحيحة. حوالي 20٪ من مرضى رتق المريء لديهم شذوذات قلبية مرافقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حوالي 20٪ من مرضى رتق المريء لديهم شذوذات قلبية مرافقة. وتذكّر القاعدة: Esophageal atresia: Twenty percent cardiac anomalies. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. حوالي 20٪ من مرضى رتق المريء لديهم شذوذات قلبية مرافقة. وتذكّر: Esophageal atresia: Twenty percent cardiac anomalies. والإجابة الصحيحة هي D."
     }
   ]
 }

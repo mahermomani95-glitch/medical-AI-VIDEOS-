@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Malignancy"
       },
-      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا لمتلازمة الوريد الأجوف العلوي؟ أمامك هذه الخيارات: Radiation therapy، أو Malignancy، أو Infections، أو Idiopathic، أو Post central line insertion. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السبب الأكثر شيوعًا لمتلازمة الوريد الأجوف العلوي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Radiation therapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Malignancy. يصبح صحيحًا في سؤال يصف Radiation therapy, infections, idiopathic causes, and central line-related thrombosis can all cause SVC syndrome, but malignancy (especially lung cancer and lymphoma) remains the most common overall cause. الخيار C، Infections: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Malignancy. يصبح صحيحًا في سؤال يصف Radiation therapy, infections, idiopathic causes, and central line-related thrombosis can all cause SVC syndrome, but malignancy (especially lung cancer and lymphoma) remains the most common overall cause. الخيار D، Idiopathic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Malignancy. يصبح صحيحًا في سؤال يصف Radiation therapy, infections, idiopathic causes, and central line-related thrombosis can all cause SVC syndrome, but malignancy (especially lung cancer and lymphoma) remains the most common overall cause. الخيار E، Post central line insertion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Malignancy. يصبح صحيحًا في سؤال يصف Radiation therapy, infections, idiopathic causes, and central line-related thrombosis can all cause SVC syndrome, but malignancy (especially lung cancer and lymphoma) remains the most common overall cause.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Radiation therapy: الإجابة الصحيحة هي Malignancy. الخيار C، Infections: الإجابة الصحيحة هي Malignancy. الخيار D، Idiopathic: الإجابة الصحيحة هي Malignancy. الخيار E، Post central line insertion: الإجابة الصحيحة هي Malignancy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "SVC syndrome: mostly caused by Malignancy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Malignancy. الأورام الخبيثة هي السبب الأشيع لمتلازمة الوريد الأجوف العلوي."
+      "narration": "الخيار B، Malignancy هو الإجابة الصحيحة. الأورام الخبيثة هي السبب الأشيع لمتلازمة الوريد الأجوف العلوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأورام الخبيثة هي السبب الأشيع لمتلازمة الوريد الأجوف العلوي. وتذكّر القاعدة: SVC syndrome: mostly caused by Malignancy. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الأورام الخبيثة هي السبب الأشيع لمتلازمة الوريد الأجوف العلوي. وتذكّر: SVC syndrome: mostly caused by Malignancy. والإجابة الصحيحة هي B."
     }
   ]
 }

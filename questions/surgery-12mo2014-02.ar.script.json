@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Thyroglobin"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو العلامة الكيميائية الحيوية الأكثر منطقية التي يجب متابعتهابعد استئصال الغدة الدرقية بالكامل لسرطان الحليمي؟ (سؤال مكرر، راجع السؤال رقم 150) أمامك هذه الخيارات: Calcitonin، أو lonized calcium، أو Carcinoembroynic antigen، أو Thyroglobin، أو Serum thyroid- stimulating hormone. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو العلامة الكيميائية الحيوية الأكثر منطقية التي يجب متابعتهابعد استئصال الغدة الدرقية بالكامل لسرطان الحليمي؟ (سؤال مكرر، راجع السؤال رقم 150) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Calcitonin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin. يصبح صحيحًا في سؤال يصف Calcitonin is the marker for medullary (not papillary/follicular) thyroid cancer. الخيار B، lonized calcium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin. يصبح صحيحًا في سؤال يصف ionized calcium reflects parathyroid function. الخيار C، Carcinoembroynic antigen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Thyroglobin. يصبح صحيحًا في سؤال يصف CEA is a general marker used mainly for colorectal cancer. الخيار E، Serum thyroid- stimulating hormone: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا tumor recurrence — thyroglobulin remains the specific marker for post-thyroidectomy cancer follow-up. يصبح صحيحًا في سؤال يصف TSH monitors hormone replacement adequacy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Calcitonin: الإجابة الصحيحة هي Thyroglobin. الخيار B، lonized calcium: الإجابة الصحيحة هي Thyroglobin. الخيار C، Carcinoembroynic antigen: الإجابة الصحيحة هي Thyroglobin. الخيار E، Serum thyroid- stimulating hormone: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Post-thyroidectomy monitoring: Thyroglobulin T"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Thyroglobin. الثيروغلوبين هو العلامة الحيوية الأفضل لمتابعة الانتكاس بعد استئصال الدرقية."
+      "narration": "الخيار D، Thyroglobin هو الإجابة الصحيحة. الثيروغلوبين هو العلامة الحيوية الأفضل لمتابعة الانتكاس بعد استئصال الدرقية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الثيروغلوبين هو العلامة الحيوية الأفضل لمتابعة الانتكاس بعد استئصال الدرقية. وتذكّر القاعدة: Post-thyroidectomy monitoring: Thyroglobulin Tracks recurrence. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الثيروغلوبين هو العلامة الحيوية الأفضل لمتابعة الانتكاس بعد استئصال الدرقية. وتذكّر: Post-thyroidectomy monitoring: Thyroglobulin Tracks recurrence. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Midepigastric pain"
       },
-      "narration": "لنبدأ بهذا السؤال. الأعراض الأكثر شيوعًا لدى مرضى سرطان البنكرياس هي؟ أمامك هذه الخيارات: Midepigastric pain، أو Anorexia، أو Malaise، أو Nausea، أو Anemia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الأعراض الأكثر شيوعًا لدى مرضى سرطان البنكرياس هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Anorexia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Midepigastric pain. يصبح صحيحًا في سؤال يصف Anorexia, malaise, nausea, and anemia are all recognized symptoms of pancreatic cancer, but mid-epigastric (or back) pain remains the most common presenting symptom overall. الخيار C، Malaise: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Midepigastric pain. يصبح صحيحًا في سؤال يصف Anorexia, malaise, nausea, and anemia are all recognized symptoms of pancreatic cancer, but mid-epigastric (or back) pain remains the most common presenting symptom overall. الخيار D، Nausea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Midepigastric pain. يصبح صحيحًا في سؤال يصف Anorexia, malaise, nausea, and anemia are all recognized symptoms of pancreatic cancer, but mid-epigastric (or back) pain remains the most common presenting symptom overall. الخيار E، Anemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Midepigastric pain. يصبح صحيحًا في سؤال يصف Anorexia, malaise, nausea, and anemia are all recognized symptoms of pancreatic cancer, but mid-epigastric (or back) pain remains the most common presenting symptom overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Anorexia: الإجابة الصحيحة هي Midepigastric pain. الخيار C، Malaise: الإجابة الصحيحة هي Midepigastric pain. الخيار D، Nausea: الإجابة الصحيحة هي Midepigastric pain. الخيار E، Anemia: الإجابة الصحيحة هي Midepigastric pain. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pancreatic cancer: mostly presents with Pain"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Midepigastric pain. الألم الشرسوفي المتوسط هو العرض الأشيع لسرطان البنكرياس."
+      "narration": "الخيار A، Midepigastric pain هو الإجابة الصحيحة. الألم الشرسوفي المتوسط هو العرض الأشيع لسرطان البنكرياس."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم الشرسوفي المتوسط هو العرض الأشيع لسرطان البنكرياس. وتذكّر القاعدة: Pancreatic cancer: mostly presents with Pain. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الألم الشرسوفي المتوسط هو العرض الأشيع لسرطان البنكرياس. وتذكّر: Pancreatic cancer: mostly presents with Pain. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Colostomy is usually constructed in the Rt iliac…"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية خاطئ فيما يتعلق بفغر الجهاز الهضمي؟ أمامك هذه الخيارات: Patient with abdomenoperitoneal reaction require a permanent stoma، أو Iliostomy is usually fashioned with a spout to avoid skin irritation، أو Colostomy is usually constructed in the Rt iliac Fossa، أو Patient with Iliostomy may need water and electrolytes replacement by IV، أو Stoma may be indicated in patient with bowel ischemia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأمور التالية خاطئ فيما يتعلق بفغر الجهاز الهضمي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Patient with abdomenoperitoneal reaction require a permanent stoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colostomy is usually constructed in the Rt iliac Fossa. يصبح صحيحًا في سؤال يصف The need for a permanent stoma with abdominoperineal resection, spouted ileostomy construction to protect skin, the need for IV fluid/electrolyte replacement with high ileostomy output, and stoma indication in bowel ischemia are all true statements — however, colostomy is typically constructed in the LEFT (not right) iliac fossa given the usual location of sigmoid/descending colon pathology, making C the false statement. الخيار B، Iliostomy is usually fashioned with a spout to avoid skin irritation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colostomy is usually constructed in the Rt iliac Fossa. يصبح صحيحًا في سؤال يصف The need for a permanent stoma with abdominoperineal resection, spouted ileostomy construction to protect skin, the need for IV fluid/electrolyte replacement with high ileostomy output, and stoma indication in bowel ischemia are all true statements — however, colostomy is typically constructed in the LEFT (not right) iliac fossa given the usual location of sigmoid/descending colon pathology, making C the false statement. الخيار D، Patient with Iliostomy may need water and electrolytes replacement by IV: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colostomy is usually constructed in the Rt iliac Fossa. يصبح صحيحًا في سؤال يصف The need for a permanent stoma with abdominoperineal resection, spouted ileostomy construction to protect skin, the need for IV fluid/electrolyte replacement with high ileostomy output, and stoma indication in bowel ischemia are all true statements — however, colostomy is typically constructed in the LEFT (not right) iliac fossa given the usual location of sigmoid/descending colon pathology, making C the false statement. الخيار E، Stoma may be indicated in patient with bowel ischemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Colostomy is usually constructed in the Rt iliac Fossa. يصبح صحيحًا في سؤال يصف The need for a permanent stoma with abdominoperineal resection, spouted ileostomy construction to protect skin, the need for IV fluid/electrolyte replacement with high ileostomy output, and stoma indication in bowel ischemia are all true statements — however, colostomy is typically constructed in the LEFT (not right) iliac fossa given the usual location of sigmoid/descending colon pathology, making C the false statement.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Colostomy: Constructed on the Left iliac fossa"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Colostomy is usually constructed in the Rt iliac Fossa. فغر القولون يُصنع عادة بالحفرة اليسرى، بخلاف فغر اللفائفي باليمين."
+      "narration": "الخيار C هو الإجابة الصحيحة. فغر القولون يُصنع عادة بالحفرة اليسرى، بخلاف فغر اللفائفي باليمين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فغر القولون يُصنع عادة بالحفرة اليسرى، بخلاف فغر اللفائفي باليمين. وتذكّر القاعدة: Colostomy: Constructed on the Left iliac fossa. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فغر القولون يُصنع عادة بالحفرة اليسرى، بخلاف فغر اللفائفي باليمين. وتذكّر: Colostomy: Constructed on the Left iliac fossa. والإجابة الصحيحة هي C."
     }
   ]
 }

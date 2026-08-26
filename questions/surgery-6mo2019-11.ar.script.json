@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Most of the appendix location is pelvic"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتهاب الزائدة الدودية الحاد، كل ما يلي صحيح باستثناء أمامك هذه الخيارات: Anorexia is present in the most of the cases، أو periumbilical pain followed by nausea, right lower quadrant (RLQ) pain, and vomiting، أو Diarrhea is a feature of acute appendicitis، أو Most of the appendix location is pelvic، أو Vomiting is Nearly always follows the onset of pain. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتهاب الزائدة الدودية الحاد، كل ما يلي صحيح باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Anorexia is present in the most of the cases: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Anorexia in most cases, the classic periumbilical-to-RLQ pain migration with nausea/vomiting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most of the appendix location is pelvic. الخيار B، periumbilical pain followed by nausea, right lower quadrant (RLQ) pain, and vomiting: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Anorexia in most cases, the classic periumbilical-to-RLQ pain migration with nausea/vomiting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most of the appendix location is pelvic. الخيار C، Diarrhea is a feature of acute appendicitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Anorexia in most cases, the classic periumbilical-to-RLQ pain migration with nausea/vomiting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most of the appendix location is pelvic. الخيار E، Vomiting is Nearly always follows the onset of pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Anorexia in most cases, the classic periumbilical-to-RLQ pain migration with nausea/vomiting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Most of the appendix location is pelvic.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Retrocecal is the most common appendix positi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Most of the appendix location is pelvic. الموقع الأشيع للزائدة الدودية هو خلف الأعورية وليس الحوضي — هذا التفصيل الموقعي يغيّر موجودات الفحص السريري."
+      "narration": "الخيار D هو الإجابة الصحيحة. الموقع الأشيع للزائدة الدودية هو خلف الأعورية وليس الحوضي — هذا التفصيل الموقعي يغيّر موجودات الفحص السريري."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الموقع الأشيع للزائدة الدودية هو خلف الأعورية وليس الحوضي — هذا التفصيل الموقعي يغيّر موجودات الفحص السريري. وتذكّر القاعدة: \"Retrocecal is the most common appendix position\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الموقع الأشيع للزائدة الدودية هو خلف الأعورية وليس الحوضي — هذا التفصيل الموقعي يغيّر موجودات الفحص السريري. وتذكّر: \"Retrocecal is the most common appendix position\". والإجابة الصحيحة هي D."
     }
   ]
 }

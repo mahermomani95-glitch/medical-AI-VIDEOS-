@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Palpable tumor in the epigastric region could be…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح فيما يتعلق بسرطان المعدة ما عدا: أمامك هذه الخيارات: Nicotine use is a risk factor، أو Partial gastrectomy is a risk factor، أو The patient may present with weight loss، أو The patient may present gastric bleeding، أو Palpable tumor in the epigastric region could be detected in the early stages. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح فيما يتعلق بسرطان المعدة ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Nicotine use is a risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages. الخيار B، Partial gastrectomy is a risk factor: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages. الخيار C، The patient may present with weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages. الخيار D، The patient may present gastric bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Nicotine use, partial gastrectomy, weight loss, and gastric bleeding as presentations are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable tumor in the epigastric region could be detected in the early stages.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Palpable gastric mass = Advanced disease, not"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Palpable tumor in the epigastric region could be detected in the early stages. سرطان المعدة صامت بشكل ملحوظ في مراحله المبكرة — الكتلة الشرسوفية المجسوسة تشير عادة لمرض متقدم وليس مبكرًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. سرطان المعدة صامت بشكل ملحوظ في مراحله المبكرة — الكتلة الشرسوفية المجسوسة تشير عادة لمرض متقدم وليس مبكرًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان المعدة صامت بشكل ملحوظ في مراحله المبكرة — الكتلة الشرسوفية المجسوسة تشير عادة لمرض متقدم وليس مبكرًا. وتذكّر القاعدة: \"Palpable gastric mass = Advanced disease, not early\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. سرطان المعدة صامت بشكل ملحوظ في مراحله المبكرة — الكتلة الشرسوفية المجسوسة تشير عادة لمرض متقدم وليس مبكرًا. وتذكّر: \"Palpable gastric mass = Advanced disease, not early\". والإجابة الصحيحة هي E."
     }
   ]
 }

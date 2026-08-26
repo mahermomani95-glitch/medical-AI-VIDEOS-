@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "T lymphocytes"
       },
-      "narration": "لنبدأ بهذا السؤال. يقوم الطحال بتصفية جميع خلايا الجسيمات التالية باستثناء؟ أمامك هذه الخيارات: Malformed erythrocytes، أو T lymphocytes، أو Malarial parasites، أو Streptococcus pneumonia، أو Platelets. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يقوم الطحال بتصفية جميع خلايا الجسيمات التالية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Malformed erythrocytes: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes. الخيار C، Malarial parasites: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes. الخيار D، Streptococcus pneumonia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes. الخيار E، Platelets: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malformed erythrocytes, malarial parasites, encapsulated bacteria like S. pneumoniae, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو T lymphocytes.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Malformed erythrocytes: صحيحة، لكنها ليست الاستثناء. الخيار C، Malarial parasites: صحيحة، لكنها ليست الاستثناء. الخيار D، Streptococcus pneumonia: صحيحة، لكنها ليست الاستثناء. الخيار E، Platelets: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Spleen: Spares T lymphocytes from filtration"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: T lymphocytes. الخلايا التائية تُستضاف بالطحال لوظيفة مناعية، لا تُرشَّح وتُزال كباقي الجسيمات."
+      "narration": "الخيار B، T lymphocytes هو الإجابة الصحيحة. الخلايا التائية تُستضاف بالطحال لوظيفة مناعية، لا تُرشَّح وتُزال كباقي الجسيمات."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخلايا التائية تُستضاف بالطحال لوظيفة مناعية، لا تُرشَّح وتُزال كباقي الجسيمات. وتذكّر القاعدة: Spleen: Spares T lymphocytes from filtration. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الخلايا التائية تُستضاف بالطحال لوظيفة مناعية، لا تُرشَّح وتُزال كباقي الجسيمات. وتذكّر: Spleen: Spares T lymphocytes from filtration. والإجابة الصحيحة هي B."
     }
   ]
 }

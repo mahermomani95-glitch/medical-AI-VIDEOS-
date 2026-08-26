@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Lymphatic spread"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: It does not spread، أو Lymphatic spread، أو Hematogenous spread، أو Direct spread، أو Local spread. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It does not spread: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymphatic spread. يصبح صحيحًا في سؤال يصف Not spreading at all is inaccurate since colorectal cancer does spread. الخيار C، Hematogenous spread: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا exclusively one. يصبح صحيحًا في سؤال يصف hematogenous, direct, and local spread are also genuine routes alongside lymphatic spread — colorectal cancer spreads via all these routes together. الخيار D، Direct spread: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا exclusively one. يصبح صحيحًا في سؤال يصف hematogenous, direct, and local spread are also genuine routes alongside lymphatic spread — colorectal cancer spreads via all these routes together. الخيار E، Local spread: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا exclusively one. يصبح صحيحًا في سؤال يصف hematogenous, direct, and local spread are also genuine routes alongside lymphatic spread — colorectal cancer spreads via all these routes together.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، It does not spread: الإجابة الصحيحة هي Lymphatic spread. الخيار C، Hematogenous spread: المطلوب هنا exclusively one. الخيار D، Direct spread: المطلوب هنا exclusively one. الخيار E، Local spread: المطلوب هنا exclusively one. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Colorectal cancer spreads via ALL routes: lym"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Lymphatic spread. سرطان القولون والمستقيم ينتشر عبر طرق متعددة — لمفاويًا للعقد، دمويًا للكبد/الرئتين، وموضعيًا مباشرة — وليس عبر مسار واحد فقط."
+      "narration": "الخيار B، Lymphatic spread هو الإجابة الصحيحة. سرطان القولون والمستقيم ينتشر عبر طرق متعددة — لمفاويًا للعقد، دمويًا للكبد/الرئتين، وموضعيًا مباشرة — وليس عبر مسار واحد فقط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. سرطان القولون والمستقيم ينتشر عبر طرق متعددة — لمفاويًا للعقد، دمويًا للكبد/الرئتين، وموضعيًا مباشرة — وليس عبر مسار واحد فقط. وتذكّر القاعدة: \"Colorectal cancer spreads via ALL routes: lymphatic, hematogenous, direct\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. سرطان القولون والمستقيم ينتشر عبر طرق متعددة — لمفاويًا للعقد، دمويًا للكبد/الرئتين، وموضعيًا مباشرة — وليس عبر مسار واحد فقط. وتذكّر: \"Colorectal cancer spreads via ALL routes: lymphatic, hematogenous, direct\". والإجابة الصحيحة هي B."
     }
   ]
 }

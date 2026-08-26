@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Acute diverticulitis"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Acute bacterial cystitis، أو Acute diverticulitis، أو Ovarian torsion، أو Ruptured ovarian cyst، أو Small bowel obstruction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute bacterial cystitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically cause LIF pain with peritonism. يصبح صحيحًا في سؤال يصف Acute bacterial cystitis. الخيار C، Ovarian torsion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute diverticulitis. يصبح صحيحًا في سؤال يصف ovarian torsion and ruptured ovarian cyst are important differentials but less likely given the localized peritonism and typical age-related presentation. الخيار D، Ruptured ovarian cyst: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute diverticulitis. يصبح صحيحًا في سؤال يصف ovarian torsion and ruptured ovarian cyst are important differentials but less likely given the localized peritonism and typical age-related presentation. الخيار E، Small bowel obstruction: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا localized LIF findings — diverticulitis remains the most classic fit. يصبح صحيحًا في سؤال يصف small bowel obstruction would show more diffuse symptoms.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acute bacterial cystitis: المطلوب هنا typically cause LIF pain with peritonism. الخيار C، Ovarian torsion: الإجابة الصحيحة هي Acute diverticulitis. الخيار D، Ruptured ovarian cyst: الإجابة الصحيحة هي Acute diverticulitis. الخيار E، Small bowel obstruction: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"LIF pain + irritated bladder (sterile pyuria)"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Acute diverticulitis. ألم بالحفرة الحرقفية اليسرى مع إيجابية إستراز الكريات البيضاء (من تهيّج المثانة المجاورة، وليس عدوى حقيقية) يوجّه لالتهاب الرتوج الحاد وليس عدوى بولية أولية."
+      "narration": "الخيار B، Acute diverticulitis هو الإجابة الصحيحة. ألم بالحفرة الحرقفية اليسرى مع إيجابية إستراز الكريات البيضاء (من تهيّج المثانة المجاورة، وليس عدوى حقيقية) يوجّه لالتهاب الرتوج الحاد وليس عدوى بولية أولية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم بالحفرة الحرقفية اليسرى مع إيجابية إستراز الكريات البيضاء (من تهيّج المثانة المجاورة، وليس عدوى حقيقية) يوجّه لالتهاب الرتوج الحاد وليس عدوى بولية أولية. وتذكّر القاعدة: \"LIF pain + irritated bladder (sterile pyuria) = Diverticulitis\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. ألم بالحفرة الحرقفية اليسرى مع إيجابية إستراز الكريات البيضاء (من تهيّج المثانة المجاورة، وليس عدوى حقيقية) يوجّه لالتهاب الرتوج الحاد وليس عدوى بولية أولية. وتذكّر: \"LIF pain + irritated bladder (sterile pyuria) = Diverticulitis\". والإجابة الصحيحة هي B."
     }
   ]
 }

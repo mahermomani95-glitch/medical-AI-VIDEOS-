@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Cardiogenic shock"
       },
-      "narration": "لنبدأ بهذا السؤال. نوع الصدمة التي يسببها التسمم بأول أكسيد الكربون هو أمامك هذه الخيارات: Hypovolemic shock، أو Anaphylactic shock، أو Septic shock، أو Neurogenic shock، أو Cardiogenic shock. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. نوع الصدمة التي يسببها التسمم بأول أكسيد الكربون هو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hypovolemic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and neurogenic shock don't match the rapid onset directly tied to starting new IV medications with local redness at the infusion site — anaphylactic shock is the correct diagnosis, distinguishing it from these other shock types. الخيار B، Anaphylactic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and neurogenic shock don't match the rapid onset directly tied to starting new IV medications with local redness at the infusion site — anaphylactic shock is the correct diagnosis, distinguishing it from these other shock types. الخيار C، Septic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and neurogenic shock don't match the rapid onset directly tied to starting new IV medications with local redness at the infusion site — anaphylactic shock is the correct diagnosis, distinguishing it from these other shock types. الخيار D، Neurogenic shock: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cardiogenic shock. يصبح صحيحًا في سؤال يصف Hypovolemic shock, septic shock, and neurogenic shock don't match the rapid onset directly tied to starting new IV medications with local redness at the infusion site — anaphylactic shock is the correct diagnosis, distinguishing it from these other shock types.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hypovolemic shock: الإجابة الصحيحة هي Cardiogenic shock. الخيار B، Anaphylactic shock: الإجابة الصحيحة هي Cardiogenic shock. الخيار C، Septic shock: الإجابة الصحيحة هي Cardiogenic shock. الخيار D، Neurogenic shock: الإجابة الصحيحة هي Cardiogenic shock. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"CO poisoning = impaired O2 delivery/utilizati"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Cardiogenic shock. أول أكسيد الكربون يرتبط بالهيموغلوبين بقوة أكبر بكثير من الأكسجين، مُعطّلًا إيصال الأكسجين للأنسجة — بشكل فعلي يشبه فشلًا قلبيًا/استقلابيًا بنقل واستخدام الأكسجين على المستوى الخلوي."
+      "narration": "الخيار E، Cardiogenic shock هو الإجابة الصحيحة. أول أكسيد الكربون يرتبط بالهيموغلوبين بقوة أكبر بكثير من الأكسجين، مُعطّلًا إيصال الأكسجين للأنسجة — بشكل فعلي يشبه فشلًا قلبيًا/استقلابيًا بنقل واستخدام الأكسجين على المستوى الخلوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. أول أكسيد الكربون يرتبط بالهيموغلوبين بقوة أكبر بكثير من الأكسجين، مُعطّلًا إيصال الأكسجين للأنسجة — بشكل فعلي يشبه فشلًا قلبيًا/استقلابيًا بنقل واستخدام الأكسجين على المستوى الخلوي. وتذكّر القاعدة: \"CO poisoning = impaired O2 delivery/utilization\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. أول أكسيد الكربون يرتبط بالهيموغلوبين بقوة أكبر بكثير من الأكسجين، مُعطّلًا إيصال الأكسجين للأنسجة — بشكل فعلي يشبه فشلًا قلبيًا/استقلابيًا بنقل واستخدام الأكسجين على المستوى الخلوي. وتذكّر: \"CO poisoning = impaired O2 delivery/utilization\". والإجابة الصحيحة هي E."
     }
   ]
 }

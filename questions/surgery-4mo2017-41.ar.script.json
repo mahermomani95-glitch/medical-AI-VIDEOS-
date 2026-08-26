@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Inferior thyroid artery"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي فروع من الشريان السباتي الخارجي باستثناء؟ أمامك هذه الخيارات: Superior thyroid artery، أو Ascending pharyngeal artery، أو Lingual artery، أو Inferior thyroid artery، أو Facial artery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي فروع من الشريان السباتي الخارجي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Superior thyroid artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery. الخيار B، Ascending pharyngeal artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery. الخيار C، Lingual artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery. الخيار E، Facial artery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Superior thyroid artery, ascending pharyngeal artery, lingual artery, and facial artery are… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Inferior thyroid artery.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Superior thyroid artery: صحيحة، لكنها ليست الاستثناء. الخيار B، Ascending pharyngeal artery: صحيحة، لكنها ليست الاستثناء. الخيار C، Lingual artery: صحيحة، لكنها ليست الاستثناء. الخيار E، Facial artery: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Inferior thyroid artery: Isn't from external c"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Inferior thyroid artery. الشريان الدرقي السفلي يتفرع من تحت الترقوة، لا السباتي الخارجي."
+      "narration": "الخيار D، Inferior thyroid artery هو الإجابة الصحيحة. الشريان الدرقي السفلي يتفرع من تحت الترقوة، لا السباتي الخارجي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشريان الدرقي السفلي يتفرع من تحت الترقوة، لا السباتي الخارجي. وتذكّر القاعدة: Inferior thyroid artery: Isn't from external carotid. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الشريان الدرقي السفلي يتفرع من تحت الترقوة، لا السباتي الخارجي. وتذكّر: Inferior thyroid artery: Isn't from external carotid. والإجابة الصحيحة هي D."
     }
   ]
 }

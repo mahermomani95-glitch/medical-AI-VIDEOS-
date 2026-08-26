@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Vaginal bleeding"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Diarrhea، أو Vaginal bleeding، أو Anorexia، أو Vomitng and nausea، أو Migrating abdominal pain. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding. يصبح صحيحًا في سؤال يصف Diarrhea is the least important to specifically ask about here — it's a nonspecific symptom, while vaginal bleeding history is actually crucial in a young woman with RLQ pain to rule out gynecologic emergencies. الخيار C، Anorexia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding. يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a young woman, but asking specifically about diarrhea remains the least clinically important given its nonspecific nature. الخيار D، Vomitng and nausea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding. يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a young woman, but asking specifically about diarrhea remains the least clinically important given its nonspecific nature. الخيار E، Migrating abdominal pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Vaginal bleeding. يصبح صحيحًا في سؤال يصف Vaginal bleeding, anorexia, vomiting/nausea, and migrating abdominal pain are all relevant history questions for suspected appendicitis in a young woman, but asking specifically about diarrhea remains the least clinically important given its nonspecific nature.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Diarrhea: الإجابة الصحيحة هي Vaginal bleeding. الخيار C، Anorexia: الإجابة الصحيحة هي Vaginal bleeding. الخيار D، Vomitng and nausea: الإجابة الصحيحة هي Vaginal bleeding. الخيار E، Migrating abdominal pain: الإجابة الصحيحة هي Vaginal bleeding. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Young woman + RLQ pain: always ask about vagi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Vaginal bleeding. الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة."
+      "narration": "الخيار B، Vaginal bleeding هو الإجابة الصحيحة. الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة. وتذكّر القاعدة: \"Young woman + RLQ pain: always ask about vaginal bleeding/gynecologic history\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الإسهال عرض غير نوعي بقيمة تشخيصية ضعيفة لالتهاب الزائدة — أقل أهمية بكثير من السؤال عن علامات نسائية إنذارية أو النمط الكلاسيكي لأعراض التهاب الزائدة عند امرأة شابة. والإجابة الصحيحة هي B."
     }
   ]
 }

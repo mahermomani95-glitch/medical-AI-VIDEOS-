@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Forceful vomiting followed by hematemesis"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بمتلازمة مالوري فايس؟ أمامك هذه الخيارات: Spontaneous perforation of the esophagus، أو Forceful vomiting followed by hematemesis، أو It's usually associated with air in the mediastinum، أو Endoscopy is contraindicated، أو Prompt surgical management is the best. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي صحيح فيما يتعلق بمتلازمة مالوري فايس؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Spontaneous perforation of the esophagus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Forceful vomiting followed by hematemesis. يصبح صحيحًا في سؤال يصف Spontaneous esophageal perforation describes Boerhaave syndrome, a different condition. الخيار C، It's usually associated with air in the mediastinum: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا Mallory-Weiss. يصبح صحيحًا في سؤال يصف mediastinal air and surgical management are features of Boerhaave. الخيار D، Endoscopy is contraindicated: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Forceful vomiting followed by hematemesis. يصبح صحيحًا في سؤال يصف endoscopy is NOT contraindicated and is actually useful for diagnosis — Mallory-Weiss syndrome is correctly defined as a mucosal tear from forceful vomiting leading to hematemesis. الخيار E، Prompt surgical management is the best: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا Mallory-Weiss. يصبح صحيحًا في سؤال يصف mediastinal air and surgical management are features of Boerhaave.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Forceful vomiting followed by hematemesis. الخيار C: المطلوب هنا Mallory-Weiss. الخيار D، Endoscopy is contraindicated: الإجابة الصحيحة هي Forceful vomiting followed by hematemesis. الخيار E: المطلوب هنا Mallory-Weiss. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Mallory-Weiss: Vomiting, then Vessel tear blee"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Forceful vomiting followed by hematemesis. القيء الشديد المتكرر يسبق النزف الدموي بمتلازمة مالوري-فايس."
+      "narration": "الخيار B هو الإجابة الصحيحة. القيء الشديد المتكرر يسبق النزف الدموي بمتلازمة مالوري-فايس."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القيء الشديد المتكرر يسبق النزف الدموي بمتلازمة مالوري-فايس. وتذكّر القاعدة: Mallory-Weiss: Vomiting, then Vessel tear bleeding. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. القيء الشديد المتكرر يسبق النزف الدموي بمتلازمة مالوري-فايس. وتذكّر: Mallory-Weiss: Vomiting, then Vessel tear bleeding. والإجابة الصحيحة هي B."
     }
   ]
 }

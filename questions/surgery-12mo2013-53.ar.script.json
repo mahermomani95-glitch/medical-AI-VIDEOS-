@@ -45,7 +45,7 @@
         "label": "Young age",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يلي عوامل الخطر للإصابة بجلطات الأوردة العميقة أثناء الجراحةباستثناء:؟ أمامك هذه الخيارات: Obesity، أو Operation with long duration، أو Patient with malignancy، أو Pelvic operations، أو Young age. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يلي عوامل الخطر للإصابة بجلطات الأوردة العميقة أثناء الجراحةباستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age. الخيار B، Operation with long duration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age. الخيار C، Patient with malignancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age. الخيار D، Pelvic operations: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, long operations, malignancy, and pelvic operations are all recognized DVT risk… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Young age.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: صحيحة، لكنها ليست الاستثناء. الخيار B، Operation with long duration: صحيحة، لكنها ليست الاستثناء. الخيار C، Patient with malignancy: صحيحة، لكنها ليست الاستثناء. الخيار D، Pelvic operations: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Young age: Yields protection against DVT, not "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Young age. العمر الصغير عامل وقائي نسبي ضد التخثر الوريدي حول الجراحة."
+      "narration": "الخيار E، Young age هو الإجابة الصحيحة. العمر الصغير عامل وقائي نسبي ضد التخثر الوريدي حول الجراحة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العمر الصغير عامل وقائي نسبي ضد التخثر الوريدي حول الجراحة. وتذكّر القاعدة: Young age: Yields protection against DVT, not risk. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. العمر الصغير عامل وقائي نسبي ضد التخثر الوريدي حول الجراحة. وتذكّر: Young age: Yields protection against DVT, not risk. والإجابة الصحيحة هي E."
     }
   ]
 }

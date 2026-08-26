@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "In Deep skin and soft-tissue infections, Surgical…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بعدوى القدم السكرية، هناك حقيقة واحدة أمامك هذه الخيارات: Severe, chronic, or previously treated infections are usually caused by aerobic bacteria، أو Compromise of the blood supply from macrovascular disease is the underlying cause، أو Foul Wound discharge is usually present in Deep-skin and soft tissue diabetic infections، أو In Deep skin and soft-tissue infections, Surgical debridement is usually indicated، أو The WBC and ESR are markedly elevated in diabetic Cellulitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بعدوى القدم السكرية، هناك حقيقة واحدة أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Severe, chronic, or previously treated infections are usually caused by aerobic bacteria: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا purely aerobic. يصبح صحيحًا في سؤال يصف Severe/chronic diabetic infections are typically polymicrobial including anaerobes. الخيار B، Compromise of the blood supply from macrovascular disease is the underlying cause: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف the underlying vascular problem is more microvascular than macrovascular. الخيار C، Foul Wound discharge is usually present in Deep-skin and soft tissue diabetic infections: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف foul discharge IS often present in deep diabetic infections. الخيار E، The WBC and ESR are markedly elevated in diabetic Cellulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. يصبح صحيحًا في سؤال يصف WBC/ESR may be only mildly elevated despite severe infection in diabetics — these are all incorrect statements about diabetic foot infection distinguishing them from the true one about debridement.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا purely aerobic. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Deep diabetic infection = Debridement needed\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: In Deep skin and soft-tissue infections, Surgical debridement is usually indicated. عدوى الأنسجة العميقة والجلدية عند مرضى السكري تحتاج تنضيرًا جراحيًا — المضادات الحيوية وحدها لا تكفي لإزالة النسيج الميت وضعيف التروية."
+      "narration": "الخيار D هو الإجابة الصحيحة. عدوى الأنسجة العميقة والجلدية عند مرضى السكري تحتاج تنضيرًا جراحيًا — المضادات الحيوية وحدها لا تكفي لإزالة النسيج الميت وضعيف التروية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدوى الأنسجة العميقة والجلدية عند مرضى السكري تحتاج تنضيرًا جراحيًا — المضادات الحيوية وحدها لا تكفي لإزالة النسيج الميت وضعيف التروية. وتذكّر القاعدة: \"Deep diabetic infection = Debridement needed\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. عدوى الأنسجة العميقة والجلدية عند مرضى السكري تحتاج تنضيرًا جراحيًا — المضادات الحيوية وحدها لا تكفي لإزالة النسيج الميت وضعيف التروية. وتذكّر: \"Deep diabetic infection = Debridement needed\". والإجابة الصحيحة هي D."
     }
   ]
 }

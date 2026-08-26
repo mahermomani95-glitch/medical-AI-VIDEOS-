@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Gastroenteritis"
       },
-      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 70 عامًا إلى قسم الطوارئ وهي تعاني من تاريخمرضي لثلاثة أيام من تفاقم آلام البطن، والتقيؤ، والإمساك. عند الفحص،لاحظت وجود انتفاخ في البطن، وألم عام، وأصوات أمعاء حادة. جميع ما يليتشخيصات تفريقية مهمة باستثناء:؟ أمامك هذه الخيارات: Colorectal cancer، أو Sigmoid diverticulitis، أو Gastroenteritis، أو Sigmoid volvulus، أو Complicated femoral hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضرت امرأة تبلغ من العمر 70 عامًا إلى قسم الطوارئ وهي تعاني من تاريخمرضي لثلاثة أيام من تفاقم آلام البطن، والتقيؤ، والإمساك. عند الفحص،لاحظت وجود انتفاخ في البطن، وألم عام، وأصوات أمعاء حادة. جميع ما يليتشخيصات تفريقية مهمة باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colorectal cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroenteritis. يصبح صحيحًا في سؤال يصف Colorectal cancer, diverticulitis, volvulus, and complicated hernia are more acute/surgical differentials, but a brief, self-limited 3-day illness in an otherwise healthy patient is most consistent with simple gastroenteritis. الخيار B، Sigmoid diverticulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroenteritis. يصبح صحيحًا في سؤال يصف Colorectal cancer, diverticulitis, volvulus, and complicated hernia are more acute/surgical differentials, but a brief, self-limited 3-day illness in an otherwise healthy patient is most consistent with simple gastroenteritis. الخيار D، Sigmoid volvulus: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroenteritis. يصبح صحيحًا في سؤال يصف Colorectal cancer, diverticulitis, volvulus, and complicated hernia are more acute/surgical differentials, but a brief, self-limited 3-day illness in an otherwise healthy patient is most consistent with simple gastroenteritis. الخيار E، Complicated femoral hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastroenteritis. يصبح صحيحًا في سؤال يصف Colorectal cancer, diverticulitis, volvulus, and complicated hernia are more acute/surgical differentials, but a brief, self-limited 3-day illness in an otherwise healthy patient is most consistent with simple gastroenteritis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Colorectal cancer: الإجابة الصحيحة هي Gastroenteritis. الخيار B، Sigmoid diverticulitis: الإجابة الصحيحة هي Gastroenteritis. الخيار D، Sigmoid volvulus: الإجابة الصحيحة هي Gastroenteritis. الخيار E، Complicated femoral hernia: الإجابة الصحيحة هي Gastroenteritis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Short GI symptom history: consider Gastroenter"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Gastroenteritis. التهاب المعدة والأمعاء تشخيص شائع معقول حتى عند المسنين بأعراض قصيرة."
+      "narration": "الخيار C، Gastroenteritis هو الإجابة الصحيحة. التهاب المعدة والأمعاء تشخيص شائع معقول حتى عند المسنين بأعراض قصيرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب المعدة والأمعاء تشخيص شائع معقول حتى عند المسنين بأعراض قصيرة. وتذكّر القاعدة: Short GI symptom history: consider Gastroenteritis first. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. التهاب المعدة والأمعاء تشخيص شائع معقول حتى عند المسنين بأعراض قصيرة. وتذكّر: Short GI symptom history: consider Gastroenteritis first. والإجابة الصحيحة هي C."
     }
   ]
 }

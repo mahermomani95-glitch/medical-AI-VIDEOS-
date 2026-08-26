@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Endotracheal intubation"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض جاء إلى الطوارئ بحرق في الوجه وبحة في الصوت، الخطوة الأولى في العلاج هي: أمامك هذه الخيارات: High-dose corticosteroids، أو Endotracheal intubation، أو Broad-spectrum antibiotics، أو Fluid restriction، أو Acetylcysteine inhalation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض جاء إلى الطوارئ بحرق في الوجه وبحة في الصوت، الخطوة الأولى في العلاج هي: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، High-dose corticosteroids: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Endotracheal intubation. يصبح صحيحًا في سؤال يصف High-dose corticosteroids, broad-spectrum antibiotics, fluid restriction, and acetylcysteine inhalation don't address the immediate airway threat — intubation is the priority given developing edema signs from facial burn with hoarseness. الخيار C، Broad-spectrum antibiotics: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Endotracheal intubation. يصبح صحيحًا في سؤال يصف High-dose corticosteroids, broad-spectrum antibiotics, fluid restriction, and acetylcysteine inhalation don't address the immediate airway threat — intubation is the priority given developing edema signs from facial burn with hoarseness. الخيار D، Fluid restriction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Endotracheal intubation. يصبح صحيحًا في سؤال يصف High-dose corticosteroids, broad-spectrum antibiotics, fluid restriction, and acetylcysteine inhalation don't address the immediate airway threat — intubation is the priority given developing edema signs from facial burn with hoarseness. الخيار E، Acetylcysteine inhalation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Endotracheal intubation. يصبح صحيحًا في سؤال يصف High-dose corticosteroids, broad-spectrum antibiotics, fluid restriction, and acetylcysteine inhalation don't address the immediate airway threat — intubation is the priority given developing edema signs from facial burn with hoarseness.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، High-dose corticosteroids: الإجابة الصحيحة هي Endotracheal intubation. الخيار C، Broad-spectrum antibiotics: الإجابة الصحيحة هي Endotracheal intubation. الخيار D، Fluid restriction: الإجابة الصحيحة هي Endotracheal intubation. الخيار E، Acetylcysteine inhalation: الإجابة الصحيحة هي Endotracheal intubation. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Facial burn + hoarseness = Intubate NOW\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Endotracheal intubation. بحّة الصوت مع حرق الوجه تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن."
+      "narration": "الخيار B، Endotracheal intubation هو الإجابة الصحيحة. بحّة الصوت مع حرق الوجه تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بحّة الصوت مع حرق الوجه تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن. وتذكّر القاعدة: \"Facial burn + hoarseness = Intubate NOW\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. بحّة الصوت مع حرق الوجه تشير لوذمة مجرى هواء متطورة — أمّن المجرى بالتنبيب الآن. وتذكّر: \"Facial burn + hoarseness = Intubate NOW\". والإجابة الصحيحة هي B."
     }
   ]
 }

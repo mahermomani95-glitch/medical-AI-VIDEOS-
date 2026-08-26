@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Size and numbers of gallstones"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Gallbladder distension، أو Gallbladder wall thickness، أو Other hepatobiliary pathology، أو Size and numbers of gallstones، أو Jaundice. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Gallbladder distension: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Size and numbers of gallstones. يصبح صحيحًا في سؤال يصف Gallbladder distension, wall thickness, other hepatobiliary pathology, and jaundice are all relevant findings when evaluating cholecystitis, but stone size/number specifically is the least clinically actionable detail for acute management decisions. الخيار B، Gallbladder wall thickness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Size and numbers of gallstones. يصبح صحيحًا في سؤال يصف Gallbladder distension, wall thickness, other hepatobiliary pathology, and jaundice are all relevant findings when evaluating cholecystitis, but stone size/number specifically is the least clinically actionable detail for acute management decisions. الخيار C، Other hepatobiliary pathology: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Size and numbers of gallstones. يصبح صحيحًا في سؤال يصف Gallbladder distension, wall thickness, other hepatobiliary pathology, and jaundice are all relevant findings when evaluating cholecystitis, but stone size/number specifically is the least clinically actionable detail for acute management decisions. الخيار E، Jaundice: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Size and numbers of gallstones. يصبح صحيحًا في سؤال يصف Gallbladder distension, wall thickness, other hepatobiliary pathology, and jaundice are all relevant findings when evaluating cholecystitis, but stone size/number specifically is the least clinically actionable detail for acute management decisions.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Gallbladder distension: الإجابة الصحيحة هي Size and numbers of gallstones. الخيار B، Gallbladder wall thickness: الإجابة الصحيحة هي Size and numbers of gallstones. الخيار C، Other hepatobiliary pathology: الإجابة الصحيحة هي Size and numbers of gallstones. الخيار E، Jaundice: الإجابة الصحيحة هي Size and numbers of gallstones. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Stone size/number = least clinically actionab"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Size and numbers of gallstones. الحجم والعدد الدقيق للحصى لا يغيّران التدبير الحاد — ما يهم سريريًا هو الالتهاب نفسه (سماكة الجدار، التمدد، اليرقان)، وليس عدّ الحصى."
+      "narration": "الخيار D هو الإجابة الصحيحة. الحجم والعدد الدقيق للحصى لا يغيّران التدبير الحاد — ما يهم سريريًا هو الالتهاب نفسه (سماكة الجدار، التمدد، اليرقان)، وليس عدّ الحصى."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحجم والعدد الدقيق للحصى لا يغيّران التدبير الحاد — ما يهم سريريًا هو الالتهاب نفسه (سماكة الجدار، التمدد، اليرقان)، وليس عدّ الحصى. وتذكّر القاعدة: \"Stone size/number = least clinically actionable in acute cholecystitis\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الحجم والعدد الدقيق للحصى لا يغيّران التدبير الحاد — ما يهم سريريًا هو الالتهاب نفسه (سماكة الجدار، التمدد، اليرقان)، وليس عدّ الحصى. وتذكّر: \"Stone size/number = least clinically actionable in acute cholecystitis\". والإجابة الصحيحة هي D."
     }
   ]
 }

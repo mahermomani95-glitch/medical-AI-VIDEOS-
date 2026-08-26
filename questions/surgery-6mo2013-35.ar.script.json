@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Surgical resection"
       },
-      "narration": "لنبدأ بهذا السؤال. العلاج المفضل لسرطان الخلايا الكبدية في الغالب؟ أمامك هذه الخيارات: Palliative، أو Surgical resection، أو Radiation، أو Chemotherapy، أو Symptomatic. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلاج المفضل لسرطان الخلايا الكبدية في الغالب؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Palliative: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical resection. يصبح صحيحًا في سؤال يصف Palliative care, radiation, chemotherapy, and symptomatic treatment are used in advanced or unresectable disease, but surgical resection remains the treatment of choice when the tumor is resectable and liver function is adequate. الخيار C، Radiation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical resection. يصبح صحيحًا في سؤال يصف Palliative care, radiation, chemotherapy, and symptomatic treatment are used in advanced or unresectable disease, but surgical resection remains the treatment of choice when the tumor is resectable and liver function is adequate. الخيار D، Chemotherapy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical resection. يصبح صحيحًا في سؤال يصف Palliative care, radiation, chemotherapy, and symptomatic treatment are used in advanced or unresectable disease, but surgical resection remains the treatment of choice when the tumor is resectable and liver function is adequate. الخيار E، Symptomatic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgical resection. يصبح صحيحًا في سؤال يصف Palliative care, radiation, chemotherapy, and symptomatic treatment are used in advanced or unresectable disease, but surgical resection remains the treatment of choice when the tumor is resectable and liver function is adequate.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Palliative: الإجابة الصحيحة هي Surgical resection. الخيار C، Radiation: الإجابة الصحيحة هي Surgical resection. الخيار D، Chemotherapy: الإجابة الصحيحة هي Surgical resection. الخيار E، Symptomatic: الإجابة الصحيحة هي Surgical resection. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "HCC: Surgical resection is the Standard cure"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Surgical resection. الاستئصال الجراحي هو العلاج الأمثل الشافي للسرطانة الكبدية عند إمكانيته."
+      "narration": "الخيار B، Surgical resection هو الإجابة الصحيحة. الاستئصال الجراحي هو العلاج الأمثل الشافي للسرطانة الكبدية عند إمكانيته."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الاستئصال الجراحي هو العلاج الأمثل الشافي للسرطانة الكبدية عند إمكانيته. وتذكّر القاعدة: HCC: Surgical resection is the Standard cure. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الاستئصال الجراحي هو العلاج الأمثل الشافي للسرطانة الكبدية عند إمكانيته. وتذكّر: HCC: Surgical resection is the Standard cure. والإجابة الصحيحة هي B."
     }
   ]
 }

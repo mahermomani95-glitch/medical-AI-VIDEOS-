@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "CT scan is the preferred imaging test for…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتهاب الزائدة الدودية البسيط، كل شيء صحيح باستثناء؟ أمامك هذه الخيارات: Periumbilical pain is visceral in nature and occurs early، أو Right iliac fossa pain is somatic in nature and occurs later، أو Positive rebound tenderness means peritoneal irritation، أو CT scan is the preferred imaging test for appendicitis in females and children، أو Meckel diverticulum may mimic the clinical picture of appendicitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتهاب الزائدة الدودية البسيط، كل شيء صحيح باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Periumbilical pain is visceral in nature and occurs early: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early visceral periumbilical pain, later somatic RLQ pain, and rebound tenderness indicating… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو CT scan is the preferred imaging test for appendicitis in females and children. الخيار B، Right iliac fossa pain is somatic in nature and occurs later: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early visceral periumbilical pain, later somatic RLQ pain, and rebound tenderness indicating… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو CT scan is the preferred imaging test for appendicitis in females and children. الخيار C، Positive rebound tenderness means peritoneal irritation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early visceral periumbilical pain, later somatic RLQ pain, and rebound tenderness indicating… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو CT scan is the preferred imaging test for appendicitis in females and children. الخيار E، Meckel diverticulum may mimic the clinical picture of appendicitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Early visceral periumbilical pain, later somatic RLQ pain, and rebound tenderness indicating… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو CT scan is the preferred imaging test for appendicitis in females and children.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Appendicitis in females: Ultrasound preferred "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: CT scan is the preferred imaging test for appendicitis in females and children. الموجات فوق الصوتية مفضلة أولاً عند النساء لتجنب الإشعاع وتقييم أسباب نسائية."
+      "narration": "الخيار D هو الإجابة الصحيحة. الموجات فوق الصوتية مفضلة أولاً عند النساء لتجنب الإشعاع وتقييم أسباب نسائية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية مفضلة أولاً عند النساء لتجنب الإشعاع وتقييم أسباب نسائية. وتذكّر القاعدة: Appendicitis in females: Ultrasound preferred first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية مفضلة أولاً عند النساء لتجنب الإشعاع وتقييم أسباب نسائية. وتذكّر: Appendicitis in females: Ultrasound preferred first. والإجابة الصحيحة هي D."
     }
   ]
 }

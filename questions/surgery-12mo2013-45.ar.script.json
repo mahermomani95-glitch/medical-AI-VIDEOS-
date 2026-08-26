@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Urine output"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو أفضل دليل لاستبدال السوائل في مريض الحروق؟ أمامك هذه الخيارات: Hemoglobin and haematocrit، أو Urine output، أو Urine osmolality، أو Plasma volume، أو Specific gravity. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي هو أفضل دليل لاستبدال السوائل في مريض الحروق؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hemoglobin and haematocrit: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output. يصبح صحيحًا في سؤال يصف Hemoglobin/hematocrit, urine osmolality, plasma volume, and specific gravity can provide supporting information, but urine output remains the most practical, widely used bedside guide for titrating burn fluid resuscitation. الخيار C، Urine osmolality: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output. يصبح صحيحًا في سؤال يصف Hemoglobin/hematocrit, urine osmolality, plasma volume, and specific gravity can provide supporting information, but urine output remains the most practical, widely used bedside guide for titrating burn fluid resuscitation. الخيار D، Plasma volume: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output. يصبح صحيحًا في سؤال يصف Hemoglobin/hematocrit, urine osmolality, plasma volume, and specific gravity can provide supporting information, but urine output remains the most practical, widely used bedside guide for titrating burn fluid resuscitation. الخيار E، Specific gravity: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urine output. يصبح صحيحًا في سؤال يصف Hemoglobin/hematocrit, urine osmolality, plasma volume, and specific gravity can provide supporting information, but urine output remains the most practical, widely used bedside guide for titrating burn fluid resuscitation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hemoglobin and haematocrit: الإجابة الصحيحة هي Urine output. الخيار C، Urine osmolality: الإجابة الصحيحة هي Urine output. الخيار D، Plasma volume: الإجابة الصحيحة هي Urine output. الخيار E، Specific gravity: الإجابة الصحيحة هي Urine output. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Burn fluid guide: Urine output leads the way"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Urine output. إخراج البول هو الدليل الأفضل والأسرع لضبط سوائل مريض الحروق."
+      "narration": "الخيار B، Urine output هو الإجابة الصحيحة. إخراج البول هو الدليل الأفضل والأسرع لضبط سوائل مريض الحروق."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. إخراج البول هو الدليل الأفضل والأسرع لضبط سوائل مريض الحروق. وتذكّر القاعدة: Burn fluid guide: Urine output leads the way. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. إخراج البول هو الدليل الأفضل والأسرع لضبط سوائل مريض الحروق. وتذكّر: Burn fluid guide: Urine output leads the way. والإجابة الصحيحة هي B."
     }
   ]
 }

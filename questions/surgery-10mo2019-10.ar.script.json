@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Orbital nerve"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس فرعًا من فروع العصب الوجهي؟ أمامك هذه الخيارات: Temporal nerve، أو Orbital nerve، أو Zygomatic nerve، أو Buccal nerve، أو Cervical nerve. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي ليس فرعًا من فروع العصب الوجهي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Temporal nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve. الخيار C، Zygomatic nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve. الخيار D، Buccal nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve. الخيار E، Cervical nerve: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. The temporal, zygomatic, buccal, and cervical nerves are all genuine facial nerve branches… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Orbital nerve.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Temporal nerve: صحيحة، لكنها ليست الاستثناء. الخيار C، Zygomatic nerve: صحيحة، لكنها ليست الاستثناء. الخيار D، Buccal nerve: صحيحة، لكنها ليست الاستثناء. الخيار E، Cervical nerve: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Two Zebras Bit My Cat: Temporal, Zygomatic, B"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Orbital nerve. \"العصب الحجاجي\" ليس اسم فرع حقيقي — الفرع العلوي الفعلي للعصب الوجهي قرب العين يُسمى صدغي/وجني، وليس حجاجيًا."
+      "narration": "الخيار B، Orbital nerve هو الإجابة الصحيحة. \"العصب الحجاجي\" ليس اسم فرع حقيقي — الفرع العلوي الفعلي للعصب الوجهي قرب العين يُسمى صدغي/وجني، وليس حجاجيًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. \"العصب الحجاجي\" ليس اسم فرع حقيقي — الفرع العلوي الفعلي للعصب الوجهي قرب العين يُسمى صدغي/وجني، وليس حجاجيًا. وتذكّر القاعدة: \"Two Zebras Bit My Cat: Temporal, Zygomatic, Buccal, Mandibular, Cervical\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. \"العصب الحجاجي\" ليس اسم فرع حقيقي — الفرع العلوي الفعلي للعصب الوجهي قرب العين يُسمى صدغي/وجني، وليس حجاجيًا. وتذكّر: \"Two Zebras Bit My Cat: Temporal, Zygomatic, Buccal, Mandibular, Cervical\". والإجابة الصحيحة هي B."
     }
   ]
 }

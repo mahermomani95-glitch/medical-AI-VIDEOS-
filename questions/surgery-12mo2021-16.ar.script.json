@@ -45,7 +45,7 @@
         "label": "Elevate systolic pressure above 110 mmHg",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. في إدارة مريض مصاب برضح شديد وانخفاض ضغط الدم، جميع ما يلي يجب فعله ما عدا: أمامك هذه الخيارات: Give blood، أو Stop hemorrhage، أو Correct coagulopathy، أو Elevate systolic pressure above 110 mmHg، أو Control sepsis or major contamination. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في إدارة مريض مصاب برضح شديد وانخفاض ضغط الدم، جميع ما يلي يجب فعله ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Give blood: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg. الخيار B، Stop hemorrhage: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg. الخيار C، Correct coagulopathy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg. الخيار E، Control sepsis or major contamination: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Giving blood, stopping hemorrhage, correcting coagulopathy, and controlling… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Elevate systolic pressure above 110 mmHg.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Give blood: صحيحة، لكنها ليست الاستثناء. الخيار B، Stop hemorrhage: صحيحة، لكنها ليست الاستثناء. الخيار C، Correct coagulopathy: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Permissive hypotension in active hemorrhage —"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Elevate systolic pressure above 110 mmHg. الضغط المسموح المنخفض هو المفضل أثناء النزف الفعّال — رفع الضغط الانقباضي فوق 110 بسوائل عدوانية قبل السيطرة على النزف قد يزيد النزف بتفكيك الخثرات وتخفيف عوامل التخثر."
+      "narration": "الخيار D هو الإجابة الصحيحة. الضغط المسموح المنخفض هو المفضل أثناء النزف الفعّال — رفع الضغط الانقباضي فوق 110 بسوائل عدوانية قبل السيطرة على النزف قد يزيد النزف بتفكيك الخثرات وتخفيف عوامل التخثر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الضغط المسموح المنخفض هو المفضل أثناء النزف الفعّال — رفع الضغط الانقباضي فوق 110 بسوائل عدوانية قبل السيطرة على النزف قد يزيد النزف بتفكيك الخثرات وتخفيف عوامل التخثر. وتذكّر القاعدة: \"Permissive hypotension in active hemorrhage — don't force SBP above 110 before bleeding is controlled\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الضغط المسموح المنخفض هو المفضل أثناء النزف الفعّال — رفع الضغط الانقباضي فوق 110 بسوائل عدوانية قبل السيطرة على النزف قد يزيد النزف بتفكيك الخثرات وتخفيف عوامل التخثر. والإجابة الصحيحة هي D."
     }
   ]
 }

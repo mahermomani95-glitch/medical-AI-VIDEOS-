@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Securing the airway"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 25 عامًا حضر إلى قسم الطوارئ مصابًا بكسر فيعظم الأنف ونزيف حاد بعد إصابة. الخطوة الأولى الأنسب في العلاج أمامك هذه الخيارات: Place ice on the nose for 15 minutes، أو Fixation by surgery، أو Securing the airway، أو Imaging، أو IV fluid resuscitation then surgical repair. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 25 عامًا حضر إلى قسم الطوارئ مصابًا بكسر فيعظم الأنف ونزيف حاد بعد إصابة. الخطوة الأولى الأنسب في العلاج أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Place ice on the nose for 15 minutes: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the priority. يصبح صحيحًا في سؤال يصف Applying ice is a minor first-aid measure. الخيار B، Fixation by surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Securing the airway. يصبح صحيحًا في سؤال يصف surgical fixation is premature before airway assessment. الخيار D، Imaging: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Securing the airway. يصبح صحيحًا في سؤال يصف imaging should wait until the airway is secured. الخيار E، IV fluid resuscitation then surgical repair: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Securing the airway. يصبح صحيحًا في سؤال يصف IV fluids then surgical repair also comes after airway management given the ABC priority sequence.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا the priority. الخيار B، Fixation by surgery: الإجابة الصحيحة هي Securing the airway. الخيار D، Imaging: الإجابة الصحيحة هي Securing the airway. الخيار E: الإجابة الصحيحة هي Securing the airway. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"ABCs first — Airway before anything else\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Securing the airway. قبل إصلاح الكسر أو أي تصوير، يجب التأكد من تأمين مجرى الهواء — النزيف الوجهي الغزير قد يهدده مباشرة."
+      "narration": "الخيار C، Securing the airway هو الإجابة الصحيحة. قبل إصلاح الكسر أو أي تصوير، يجب التأكد من تأمين مجرى الهواء — النزيف الوجهي الغزير قد يهدده مباشرة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قبل إصلاح الكسر أو أي تصوير، يجب التأكد من تأمين مجرى الهواء — النزيف الوجهي الغزير قد يهدده مباشرة. وتذكّر القاعدة: \"ABCs first — Airway before anything else\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. قبل إصلاح الكسر أو أي تصوير، يجب التأكد من تأمين مجرى الهواء — النزيف الوجهي الغزير قد يهدده مباشرة. وتذكّر: \"ABCs first — Airway before anything else\". والإجابة الصحيحة هي C."
     }
   ]
 }

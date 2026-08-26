@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Samll bowel"
       },
-      "narration": "لنبدأ بهذا السؤال. العضو الأكثر شيوعاً في الإصابة البطنية النافذة هو؟ أمامك هذه الخيارات: Liver، أو Samll bowel، أو Spleen، أو Stomach، أو Colon. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العضو الأكثر شيوعاً في الإصابة البطنية النافذة هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Liver: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Samll bowel. يصبح صحيحًا في سؤال يصف The liver, spleen, stomach, and colon are all commonly injured organs in penetrating trauma, but the small bowel, with its large surface area exposed within the abdomen, is actually the most frequently injured organ in penetrating abdominal trauma. الخيار C، Spleen: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Samll bowel. يصبح صحيحًا في سؤال يصف The liver, spleen, stomach, and colon are all commonly injured organs in penetrating trauma, but the small bowel, with its large surface area exposed within the abdomen, is actually the most frequently injured organ in penetrating abdominal trauma. الخيار D، Stomach: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Samll bowel. يصبح صحيحًا في سؤال يصف The liver, spleen, stomach, and colon are all commonly injured organs in penetrating trauma, but the small bowel, with its large surface area exposed within the abdomen, is actually the most frequently injured organ in penetrating abdominal trauma. الخيار E، Colon: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Samll bowel. يصبح صحيحًا في سؤال يصف The liver, spleen, stomach, and colon are all commonly injured organs in penetrating trauma, but the small bowel, with its large surface area exposed within the abdomen, is actually the most frequently injured organ in penetrating abdominal trauma.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Liver: الإجابة الصحيحة هي Samll bowel. الخيار C، Spleen: الإجابة الصحيحة هي Samll bowel. الخيار D، Stomach: الإجابة الصحيحة هي Samll bowel. الخيار E، Colon: الإجابة الصحيحة هي Samll bowel. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Penetrating abdominal injury: mostly Small bow"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Samll bowel. الأمعاء الدقيقة هي العضو الأشيع إصابة بالرضوض البطنية النافذة."
+      "narration": "الخيار B، Samll bowel هو الإجابة الصحيحة. الأمعاء الدقيقة هي العضو الأشيع إصابة بالرضوض البطنية النافذة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأمعاء الدقيقة هي العضو الأشيع إصابة بالرضوض البطنية النافذة. وتذكّر القاعدة: Penetrating abdominal injury: mostly Small bowel. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الأمعاء الدقيقة هي العضو الأشيع إصابة بالرضوض البطنية النافذة. وتذكّر: Penetrating abdominal injury: mostly Small bowel. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Water Lilly appearance indicate high activity of…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح عن الكيس العداري الكبدي ما عدا: أمامك هذه الخيارات: It is more common in the right liver lobe، أو The sensitivity of ELISA is about 85%، أو When possible, complete surgical excision of the cyst without rupture is preferred، أو Small cysts can be managed by albendazole and observation، أو Water Lilly appearance indicate high activity of the cyst. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح عن الكيس العداري الكبدي ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is more common in the right liver lobe: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right lobe predominance, ~85% ELISA sensitivity, complete surgical excision without rupture… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Water Lilly appearance indicate high activity of the cyst. الخيار B، The sensitivity of ELISA is about 85%: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right lobe predominance, ~85% ELISA sensitivity, complete surgical excision without rupture… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Water Lilly appearance indicate high activity of the cyst. الخيار C، When possible, complete surgical excision of the cyst without rupture is preferred: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right lobe predominance, ~85% ELISA sensitivity, complete surgical excision without rupture… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Water Lilly appearance indicate high activity of the cyst. الخيار D، Small cysts can be managed by albendazole and observation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Right lobe predominance, ~85% ELISA sensitivity, complete surgical excision without rupture… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Water Lilly appearance indicate high activity of the cyst.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Water lily sign = Dying/degenerating cyst, no"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Water Lilly appearance indicate high activity of the cyst. علامة زنبقة الماء (انفصال وطفو الغشاء الداخلي للكيس) تشير فعليًا لكيس متدهور أو ميت، وليس نشطًا للغاية."
+      "narration": "الخيار E هو الإجابة الصحيحة. علامة زنبقة الماء (انفصال وطفو الغشاء الداخلي للكيس) تشير فعليًا لكيس متدهور أو ميت، وليس نشطًا للغاية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. علامة زنبقة الماء (انفصال وطفو الغشاء الداخلي للكيس) تشير فعليًا لكيس متدهور أو ميت، وليس نشطًا للغاية. وتذكّر القاعدة: \"Water lily sign = Dying/degenerating cyst, not highly active\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. علامة زنبقة الماء (انفصال وطفو الغشاء الداخلي للكيس) تشير فعليًا لكيس متدهور أو ميت، وليس نشطًا للغاية. وتذكّر: \"Water lily sign = Dying/degenerating cyst, not highly active\". والإجابة الصحيحة هي E."
     }
   ]
 }

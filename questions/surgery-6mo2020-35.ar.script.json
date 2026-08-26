@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Appendicitis"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Appendicitis، أو Complicated pyelonephritis، أو Inflammatory bowel disease، أو Parasitic colitis، أو Ectopic pregnancy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Complicated pyelonephritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis. يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary symptoms in some contexts, but diverticulitis irritating the adjacent bladder fits best given the sterile pyuria pattern (positive leukocyte esterase, negative nitrite). الخيار C، Inflammatory bowel disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis. يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary symptoms in some contexts, but diverticulitis irritating the adjacent bladder fits best given the sterile pyuria pattern (positive leukocyte esterase, negative nitrite). الخيار D، Parasitic colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis. يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary symptoms in some contexts, but diverticulitis irritating the adjacent bladder fits best given the sterile pyuria pattern (positive leukocyte esterase, negative nitrite). الخيار E، Ectopic pregnancy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Appendicitis. يصبح صحيحًا في سؤال يصف Complicated pyelonephritis, inflammatory bowel disease, parasitic colitis, and ectopic pregnancy can all cause lower abdominal pain with urinary symptoms in some contexts, but diverticulitis irritating the adjacent bladder fits best given the sterile pyuria pattern (positive leukocyte esterase, negative nitrite).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Complicated pyelonephritis: الإجابة الصحيحة هي Appendicitis. الخيار C، Inflammatory bowel disease: الإجابة الصحيحة هي Appendicitis. الخيار D، Parasitic colitis: الإجابة الصحيحة هي Appendicitis. الخيار E، Ectopic pregnancy: الإجابة الصحيحة هي Appendicitis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"RLQ pain + fever + rebound + mild leukocytosi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Appendicitis. ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد."
+      "narration": "الخيار A، Appendicitis هو الإجابة الصحيحة. ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد. وتذكّر القاعدة: \"RLQ pain + fever + rebound + mild leukocytosis = Appendicitis\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. ألم بالحفرة الحرقفية اليمنى مع حمى وألم ارتدادي وارتفاع خفيف بكريات الدم البيضاء هو التوليفة المخبرية والسريرية الكلاسيكية لالتهاب الزائدة الحاد. والإجابة الصحيحة هي A."
     }
   ]
 }

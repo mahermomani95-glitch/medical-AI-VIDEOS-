@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Thyroidectomy"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع العمليات التالية تحتاج إلى المضادات الحيوية الوقائية ما عدا:؟ أمامك هذه الخيارات: Thyroidectomy، أو Hemicolectomy، أو Appendectomy، أو Pulmonary lobectomy، أو Cholecystectomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع العمليات التالية تحتاج إلى المضادات الحيوية الوقائية ما عدا:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Hemicolectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy. الخيار C، Appendectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy. الخيار D، Pulmonary lobectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy. الخيار E، Cholecystectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemicolectomy, appendectomy, pulmonary lobectomy, and cholecystectomy all involve opening a… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroidectomy.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Hemicolectomy: صحيحة، لكنها ليست الاستثناء. الخيار C، Appendectomy: صحيحة، لكنها ليست الاستثناء. الخيار D، Pulmonary lobectomy: صحيحة، لكنها ليست الاستثناء. الخيار E، Cholecystectomy: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Thyroidectomy: a Tidy (clean) procedure, no pr"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Thyroidectomy. استئصال الدرقية جراحة نظيفة لا تستدعي وقاية مضادة حيوية روتينية."
+      "narration": "الخيار A، Thyroidectomy هو الإجابة الصحيحة. استئصال الدرقية جراحة نظيفة لا تستدعي وقاية مضادة حيوية روتينية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استئصال الدرقية جراحة نظيفة لا تستدعي وقاية مضادة حيوية روتينية. وتذكّر القاعدة: Thyroidectomy: a Tidy (clean) procedure, no prophylaxis needed. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. استئصال الدرقية جراحة نظيفة لا تستدعي وقاية مضادة حيوية روتينية. وتذكّر: Thyroidectomy: a Tidy (clean) procedure, no prophylaxis needed. والإجابة الصحيحة هي A."
     }
   ]
 }

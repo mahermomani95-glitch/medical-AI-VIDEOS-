@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Athletes"
       },
-      "narration": "لنبدأ بهذا السؤال. من الصعب تشخيص التهاب الزائدة الدودية الحاد في كل مما يلي باستثناء:؟ أمامك هذه الخيارات: Old age، أو Athletes، أو Children، أو Pregnancy، أو HIV patients. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. من الصعب تشخيص التهاب الزائدة الدودية الحاد في كل مما يلي باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Old age: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes. الخيار C، Children: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes. الخيار D، Pregnancy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes. الخيار E، HIV patients: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Old age, children, pregnancy, and HIV patients are all recognized groups where appendicitis is… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Athletes.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Old age: صحيحة، لكنها ليست الاستثناء. الخيار C، Children: صحيحة، لكنها ليست الاستثناء. الخيار D، Pregnancy: صحيحة، لكنها ليست الاستثناء. الخيار E، HIV patients: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Athletes: Aren't diagnostically tricky for app"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Athletes. الرياضيون ليس لديهم عائق تشخيصي حقيقي لالتهاب الزائدة خلافًا لفئات أخرى."
+      "narration": "الخيار B، Athletes هو الإجابة الصحيحة. الرياضيون ليس لديهم عائق تشخيصي حقيقي لالتهاب الزائدة خلافًا لفئات أخرى."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الرياضيون ليس لديهم عائق تشخيصي حقيقي لالتهاب الزائدة خلافًا لفئات أخرى. وتذكّر القاعدة: Athletes: Aren't diagnostically tricky for appendicitis. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الرياضيون ليس لديهم عائق تشخيصي حقيقي لالتهاب الزائدة خلافًا لفئات أخرى. وتذكّر: Athletes: Aren't diagnostically tricky for appendicitis. والإجابة الصحيحة هي B."
     }
   ]
 }

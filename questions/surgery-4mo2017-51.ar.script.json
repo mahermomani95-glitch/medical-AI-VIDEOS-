@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Calcium phosphate"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 32 عامًا يعاني من بيلة دموية. كشفت الأشعة السينية للكلى والحالب والمثانة عن وجود حصوة قرنية في الكلية اليمنى وفي منتصفمجرى البول، ونمو بروتيوس في العينة. النوع الأكثر احتمالًا للحصوات هو؟ أمامك هذه الخيارات: Bile pigment stone، أو Calcium oxalate، أو Calcium phosphate، أو Cholesterol stone، أو Cystine stone. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 32 عامًا يعاني من بيلة دموية. كشفت الأشعة السينية للكلى والحالب والمثانة عن وجود حصوة قرنية في الكلية اليمنى وفي منتصفمجرى البول، ونمو بروتيوس في العينة. النوع الأكثر احتمالًا للحصوات هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bile pigment stone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium phosphate. يصبح صحيحًا في سؤال يصف Bile pigment stones, calcium oxalate, cholesterol stones, and cystine stones can form various stone types, but staghorn calculi are classically composed of calcium phosphate/struvite (magnesium ammonium phosphate), matching option C here. الخيار B، Calcium oxalate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium phosphate. يصبح صحيحًا في سؤال يصف Bile pigment stones, calcium oxalate, cholesterol stones, and cystine stones can form various stone types, but staghorn calculi are classically composed of calcium phosphate/struvite (magnesium ammonium phosphate), matching option C here. الخيار D، Cholesterol stone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium phosphate. يصبح صحيحًا في سؤال يصف Bile pigment stones, calcium oxalate, cholesterol stones, and cystine stones can form various stone types, but staghorn calculi are classically composed of calcium phosphate/struvite (magnesium ammonium phosphate), matching option C here. الخيار E، Cystine stone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Calcium phosphate. يصبح صحيحًا في سؤال يصف Bile pigment stones, calcium oxalate, cholesterol stones, and cystine stones can form various stone types, but staghorn calculi are classically composed of calcium phosphate/struvite (magnesium ammonium phosphate), matching option C here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Bile pigment stone: الإجابة الصحيحة هي Calcium phosphate. الخيار B، Calcium oxalate: الإجابة الصحيحة هي Calcium phosphate. الخيار D، Cholesterol stone: الإجابة الصحيحة هي Calcium phosphate. الخيار E، Cystine stone: الإجابة الصحيحة هي Calcium phosphate. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Staghorn calculus: often Calcium phosphate"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Calcium phosphate. فوسفات الكالسيوم من التركيبات الكلاسيكية للحصى العرنينية الكلوية."
+      "narration": "الخيار C، Calcium phosphate هو الإجابة الصحيحة. فوسفات الكالسيوم من التركيبات الكلاسيكية للحصى العرنينية الكلوية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فوسفات الكالسيوم من التركيبات الكلاسيكية للحصى العرنينية الكلوية. وتذكّر القاعدة: Staghorn calculus: often Calcium phosphate. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فوسفات الكالسيوم من التركيبات الكلاسيكية للحصى العرنينية الكلوية. وتذكّر: Staghorn calculus: often Calcium phosphate. والإجابة الصحيحة هي C."
     }
   ]
 }

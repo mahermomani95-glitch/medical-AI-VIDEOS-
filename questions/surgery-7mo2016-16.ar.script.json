@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Streptococcus bovis"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من الكائنات الحية التالية ترتبط بسرطان القولون بسبب بكتيريا الدم؟ أمامك هذه الخيارات: Streptococcus bovis، أو C difficile، أو MRSA، أو H pylori، أو Streptococcus viridans. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من الكائنات الحية التالية ترتبط بسرطان القولون بسبب بكتيريا الدم؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، C difficile: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the organism classically linked to colon cancer — Streptococcus bovis bacteremia has a well-documented association, prompting colonoscopy workup when identified. يصبح صحيحًا في سؤال يصف C. difficile, MRSA, H. pylori, and Streptococcus viridans. الخيار C، MRSA: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the organism classically linked to colon cancer — Streptococcus bovis bacteremia has a well-documented association, prompting colonoscopy workup when identified. يصبح صحيحًا في سؤال يصف C. difficile, MRSA, H. pylori, and Streptococcus viridans. الخيار D، H pylori: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the organism classically linked to colon cancer — Streptococcus bovis bacteremia has a well-documented association, prompting colonoscopy workup when identified. يصبح صحيحًا في سؤال يصف C. difficile, MRSA, H. pylori, and Streptococcus viridans. الخيار E، Streptococcus viridans: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the organism classically linked to colon cancer — Streptococcus bovis bacteremia has a well-documented association, prompting colonoscopy workup when identified. يصبح صحيحًا في سؤال يصف C. difficile, MRSA, H. pylori, and Streptococcus viridans.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، C difficile: لا ينطبق على هذه الحالة. الخيار C، MRSA: لا ينطبق على هذه الحالة. الخيار D، H pylori: لا ينطبق على هذه الحالة. الخيار E، Streptococcus viridans: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Colon cancer link: Streptococcus bovis"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Streptococcus bovis. تجرثم الدم بالمكورات العقدية البقرية يستدعي تحريًا فوريًا عن سرطان القولون."
+      "narration": "الخيار A، Streptococcus bovis هو الإجابة الصحيحة. تجرثم الدم بالمكورات العقدية البقرية يستدعي تحريًا فوريًا عن سرطان القولون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تجرثم الدم بالمكورات العقدية البقرية يستدعي تحريًا فوريًا عن سرطان القولون. وتذكّر القاعدة: Colon cancer link: Streptococcus bovis. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. تجرثم الدم بالمكورات العقدية البقرية يستدعي تحريًا فوريًا عن سرطان القولون. وتذكّر: Colon cancer link: Streptococcus bovis. والإجابة الصحيحة هي A."
     }
   ]
 }

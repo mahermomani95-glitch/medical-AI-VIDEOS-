@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Obturator hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 65 عامًا تعاني من كتلة مؤلمة في منتصف الفخذ. يزدادالألم مع الدوران الداخلي للفخذ. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Inguinal hernia، أو Obturator hernia، أو Ventral hernia، أو Femoral hernia، أو Howship Romberg hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 65 عامًا تعاني من كتلة مؤلمة في منتصف الفخذ. يزدادالألم مع الدوران الداخلي للفخذ. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inguinal hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessarily with this specific neurologic sign. يصبح صحيحًا في سؤال يصف Inguinal and femoral hernia present as a groin lump or below the inguinal ligament. الخيار C، Ventral hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Obturator hernia. يصبح صحيحًا في سؤال يصف A ventral hernia occurs through the midline abdominal wall, unrelated to the groin. الخيار D، Femoral hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا necessarily with this specific neurologic sign. يصبح صحيحًا في سؤال يصف Inguinal and femoral hernia present as a groin lump or below the inguinal ligament. الخيار E، Howship Romberg hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a real hernia type — Howship-Romberg is the name of the sign associated with obturator hernia, not a separate diagnosis. يصبح صحيحًا في سؤال يصف Howship-Romberg hernia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Inguinal hernia: المطلوب هنا necessarily with this specific neurologic sign. الخيار C، Ventral hernia: الإجابة الصحيحة هي Obturator hernia. الخيار D، Femoral hernia: المطلوب هنا necessarily with this specific neurologic sign. الخيار E، Howship Romberg hernia: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Howship-Romberg = Obturator's signature\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Obturator hernia. الفتق المار عبر الثقبة السدادية يضغط على العصب السدادي، فيزداد الألم مع الدوران الداخلي للفخذ الذي يشد هذا العصب."
+      "narration": "الخيار B، Obturator hernia هو الإجابة الصحيحة. الفتق المار عبر الثقبة السدادية يضغط على العصب السدادي، فيزداد الألم مع الدوران الداخلي للفخذ الذي يشد هذا العصب."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفتق المار عبر الثقبة السدادية يضغط على العصب السدادي، فيزداد الألم مع الدوران الداخلي للفخذ الذي يشد هذا العصب. وتذكّر القاعدة: \"Howship-Romberg = Obturator's signature\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الفتق المار عبر الثقبة السدادية يضغط على العصب السدادي، فيزداد الألم مع الدوران الداخلي للفخذ الذي يشد هذا العصب. وتذكّر: \"Howship-Romberg = Obturator's signature\". والإجابة الصحيحة هي B."
     }
   ]
 }

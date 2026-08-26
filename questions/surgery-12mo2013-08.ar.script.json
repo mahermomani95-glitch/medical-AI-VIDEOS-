@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Lungs"
       },
-      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لانتشار الورم في المرضى المصابين بسرطان الخلاياالكبدية هو؟ أمامك هذه الخيارات: Adrenal glands، أو Lymph nodes، أو Lungs، أو Bone، أو Brain. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الموقع الأكثر شيوعًا لانتشار الورم في المرضى المصابين بسرطان الخلاياالكبدية هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Adrenal glands: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lungs. يصبح صحيحًا في سؤال يصف Adrenal glands, lymph nodes, bone, and brain are all possible HCC metastatic sites, but the lungs remain the most common site of distant spread. الخيار B، Lymph nodes: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lungs. يصبح صحيحًا في سؤال يصف Adrenal glands, lymph nodes, bone, and brain are all possible HCC metastatic sites, but the lungs remain the most common site of distant spread. الخيار D، Bone: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lungs. يصبح صحيحًا في سؤال يصف Adrenal glands, lymph nodes, bone, and brain are all possible HCC metastatic sites, but the lungs remain the most common site of distant spread. الخيار E، Brain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lungs. يصبح صحيحًا في سؤال يصف Adrenal glands, lymph nodes, bone, and brain are all possible HCC metastatic sites, but the lungs remain the most common site of distant spread.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Adrenal glands: الإجابة الصحيحة هي Lungs. الخيار B، Lymph nodes: الإجابة الصحيحة هي Lungs. الخيار D، Bone: الإجابة الصحيحة هي Lungs. الخيار E، Brain: الإجابة الصحيحة هي Lungs. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "HCC metastasis: mostly to the Lungs"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Lungs. الرئتان هما الموقع الأشيع للانتقال البعيد للسرطانة الكبدية."
+      "narration": "الخيار C، Lungs هو الإجابة الصحيحة. الرئتان هما الموقع الأشيع للانتقال البعيد للسرطانة الكبدية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الرئتان هما الموقع الأشيع للانتقال البعيد للسرطانة الكبدية. وتذكّر القاعدة: HCC metastasis: mostly to the Lungs. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الرئتان هما الموقع الأشيع للانتقال البعيد للسرطانة الكبدية. وتذكّر: HCC metastasis: mostly to the Lungs. والإجابة الصحيحة هي C."
     }
   ]
 }

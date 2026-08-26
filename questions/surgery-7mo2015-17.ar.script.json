@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Glucagonoma"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 50 عامًا تعاني من مرض السكري وطفح جلدي احمراريمهاجر شديد، وفي فحص التصوير المقطعي المحوسب للبطن، وجد وجود كتلةفي البنكرياس، والتشخيص الأكثر احتمالًا هو؟ أمامك هذه الخيارات: Glucagonoma، أو Gastrinoma، أو ViPoma، أو Insulinoma، أو Somatostatinoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 50 عامًا تعاني من مرض السكري وطفح جلدي احمراريمهاجر شديد، وفي فحص التصوير المقطعي المحوسب للبطن، وجد وجود كتلةفي البنكرياس، والتشخيص الأكثر احتمالًا هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Gastrinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Glucagonoma. يصبح صحيحًا في سؤال يصف Gastrinoma causes refractory ulcers. الخيار C، ViPoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Glucagonoma. يصبح صحيحًا في سؤال يصف VIPoma causes watery diarrhea. الخيار D، Insulinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Glucagonoma. يصبح صحيحًا في سؤال يصف insulinoma causes hypoglycemia. الخيار E، Somatostatinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Glucagonoma. يصبح صحيحًا في سؤال يصف somatostatinoma causes gallstones/diabetes/steatorrhea — glucagonoma is the pancreatic tumor classically associated with migratory necrolytic erythema and diabetes as described.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Gastrinoma: الإجابة الصحيحة هي Glucagonoma. الخيار C، ViPoma: الإجابة الصحيحة هي Glucagonoma. الخيار D، Insulinoma: الإجابة الصحيحة هي Glucagonoma. الخيار E، Somatostatinoma: الإجابة الصحيحة هي Glucagonoma. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Migratory rash + DM: think Glucagonoma"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Glucagonoma. الطفح الجلدي المهاجر المميز مع سكري وكتلة بنكرياسية يوجه للغلوكاغونوما."
+      "narration": "الخيار A، Glucagonoma هو الإجابة الصحيحة. الطفح الجلدي المهاجر المميز مع سكري وكتلة بنكرياسية يوجه للغلوكاغونوما."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الطفح الجلدي المهاجر المميز مع سكري وكتلة بنكرياسية يوجه للغلوكاغونوما. وتذكّر القاعدة: Migratory rash + DM: think Glucagonoma. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. الطفح الجلدي المهاجر المميز مع سكري وكتلة بنكرياسية يوجه للغلوكاغونوما. وتذكّر: Migratory rash + DM: think Glucagonoma. والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Hemodynamic instability"
       },
-      "narration": "لنبدأ بهذا السؤال. المضاعفات الجهازية الأولى بعد الإصابة بحروق كبيرة هي أمامك هذه الخيارات: Hemodynamic instability، أو Metabolic acidosis، أو Renal failure، أو Hyperkalemia، أو Sepsis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المضاعفات الجهازية الأولى بعد الإصابة بحروق كبيرة هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Metabolic acidosis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the first one — hemodynamic instability from fluid loss precedes it as the earliest complication. يصبح صحيحًا في سؤال يصف Metabolic acidosis is actually a later systemic complication (from tissue hypoperfusion). الخيار C، Renal failure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hemodynamic instability. يصبح صحيحًا في سؤال يستهدف Renal failure تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار D، Hyperkalemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hemodynamic instability. يصبح صحيحًا في سؤال يستهدف Hyperkalemia تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار E، Sepsis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hemodynamic instability. يصبح صحيحًا في سؤال يستهدف Sepsis تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Metabolic acidosis: لا ينطبق على هذه الحالة. الخيار C، Renal failure: الإجابة الصحيحة هي Hemodynamic instability. الخيار D، Hyperkalemia: الإجابة الصحيحة هي Hemodynamic instability. الخيار E، Sepsis: الإجابة الصحيحة هي Hemodynamic instability. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Burns: fluid shift first, hits circulation\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Hemodynamic instability. التحولات السائلية الهائلة تصيب الدورة الدموية أولًا — عدم الاستقرار الهيموديناميكي هو أول تهديد جهازي بعد الحرق الكبير."
+      "narration": "الخيار A، Hemodynamic instability هو الإجابة الصحيحة. التحولات السائلية الهائلة تصيب الدورة الدموية أولًا — عدم الاستقرار الهيموديناميكي هو أول تهديد جهازي بعد الحرق الكبير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التحولات السائلية الهائلة تصيب الدورة الدموية أولًا — عدم الاستقرار الهيموديناميكي هو أول تهديد جهازي بعد الحرق الكبير. وتذكّر القاعدة: \"Burns: fluid shift first, hits circulation\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. التحولات السائلية الهائلة تصيب الدورة الدموية أولًا — عدم الاستقرار الهيموديناميكي هو أول تهديد جهازي بعد الحرق الكبير. وتذكّر: \"Burns: fluid shift first, hits circulation\". والإجابة الصحيحة هي A."
     }
   ]
 }

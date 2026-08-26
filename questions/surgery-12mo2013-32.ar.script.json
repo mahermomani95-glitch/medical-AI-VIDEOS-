@@ -45,7 +45,7 @@
         "label": "8",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. في اليرقان الانسدادي، يكون الميل إلى النزيف بسبب نقص عوامل التخثرالتالية باستثناء؟ أمامك هذه الخيارات: 2، أو 7، أو 8، أو 9، أو 10. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في اليرقان الانسدادي، يكون الميل إلى النزيف بسبب نقص عوامل التخثرالتالية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 2: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fit the vitamin K-dependent group and is likely a typo for VII in the source, but the marked correct choice reflects the shortest-half-life factor concept. يصبح صحيحًا في سؤال يصف Factors 2, 7, 9, and 10 are all vitamin K-dependent clotting factors that can be affected, but factor 7 (not 8) is the one with the shortest half-life and is classically the first to become deficient in obstructive jaundice/vitamin K deficiency — note option C, listing factor 8. الخيار B، 7: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fit the vitamin K-dependent group and is likely a typo for VII in the source, but the marked correct choice reflects the shortest-half-life factor concept. يصبح صحيحًا في سؤال يصف Factors 2, 7, 9, and 10 are all vitamin K-dependent clotting factors that can be affected, but factor 7 (not 8) is the one with the shortest half-life and is classically the first to become deficient in obstructive jaundice/vitamin K deficiency — note option C, listing factor 8. الخيار D، 9: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fit the vitamin K-dependent group and is likely a typo for VII in the source, but the marked correct choice reflects the shortest-half-life factor concept. يصبح صحيحًا في سؤال يصف Factors 2, 7, 9, and 10 are all vitamin K-dependent clotting factors that can be affected, but factor 7 (not 8) is the one with the shortest half-life and is classically the first to become deficient in obstructive jaundice/vitamin K deficiency — note option C, listing factor 8. الخيار E، 10: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا fit the vitamin K-dependent group and is likely a typo for VII in the source, but the marked correct choice reflects the shortest-half-life factor concept. يصبح صحيحًا في سؤال يصف Factors 2, 7, 9, and 10 are all vitamin K-dependent clotting factors that can be affected, but factor 7 (not 8) is the one with the shortest half-life and is classically the first to become deficient in obstructive jaundice/vitamin K deficiency — note option C, listing factor 8.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 2: لا ينطبق على هذه الحالة. الخيار B، 7: لا ينطبق على هذه الحالة. الخيار D، 9: لا ينطبق على هذه الحالة. الخيار E، 10: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Obstructive jaundice: Obstructs Vitamin K-depe"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: 8. اليرقان الانسدادي يمنع امتصاص فيتامين K فيؤثر على عوامل تخثر معتمدة عليه."
+      "narration": "الخيار C، 8 هو الإجابة الصحيحة. اليرقان الانسدادي يمنع امتصاص فيتامين K فيؤثر على عوامل تخثر معتمدة عليه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اليرقان الانسدادي يمنع امتصاص فيتامين K فيؤثر على عوامل تخثر معتمدة عليه. وتذكّر القاعدة: Obstructive jaundice: Obstructs Vitamin K-dependent factors. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. اليرقان الانسدادي يمنع امتصاص فيتامين K فيؤثر على عوامل تخثر معتمدة عليه. وتذكّر: Obstructive jaundice: Obstructs Vitamin K-dependent factors. والإجابة الصحيحة هي C."
     }
   ]
 }

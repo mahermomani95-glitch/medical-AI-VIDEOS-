@@ -45,7 +45,7 @@
         "label": "BCC are faster growing than SCC",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بسرطان الجلد صحيحة باستثناء؟ أمامك هذه الخيارات: BCC are faster growing than SCC، أو Malignant melanoma is the most aggressive skin tumors، أو SCC is often seen in areas exposed to sunlight such as a scalp and face، أو Rodent ulcer is a BCC، أو Marjolin ulcer is a SCC. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بسرطان الجلد صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Malignant melanoma is the most aggressive skin tumors: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC. الخيار C، SCC is often seen in areas exposed to sunlight such as a scalp and face: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC. الخيار D، Rodent ulcer is a BCC: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC. الخيار E، Marjolin ulcer is a SCC: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Melanoma's high aggressiveness, SCC's sun-exposure association, rodent ulcer as a form of BCC… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو BCC are faster growing than SCC.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "BCC: grows Slower than SCC"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: BCC are faster growing than SCC. السرطانة القاعدية تنمو أبطأ من الحرشفية، لا أسرع."
+      "narration": "الخيار A هو الإجابة الصحيحة. السرطانة القاعدية تنمو أبطأ من الحرشفية، لا أسرع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة القاعدية تنمو أبطأ من الحرشفية، لا أسرع. وتذكّر القاعدة: BCC: grows Slower than SCC. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. السرطانة القاعدية تنمو أبطأ من الحرشفية، لا أسرع. وتذكّر: BCC: grows Slower than SCC. والإجابة الصحيحة هي A."
     }
   ]
 }

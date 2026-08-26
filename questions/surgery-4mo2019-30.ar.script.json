@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Deep vein thrombosis"
       },
-      "narration": "لنبدأ بهذا السؤال. خضعت مريضة مسنة لعملية استئصال نصف القولون المفتوح بسبب سرطانالقولون. في اليوم العاشر بعد الجراحة، أصيبت بحمى خفيفة. عند الفحصالسريري، لوحظ وجود وذمة، وحساسية، واحمرار في الطرف السفلي الأيسرأسفل الركبة. التشخيص الأكثر احتمالاً هو: أمامك هذه الخيارات: Acute limb ischemia، أو Acute compartment syndrome، أو Deep vein thrombosis، أو Superficial thrombophlebitis، أو Cellulitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. خضعت مريضة مسنة لعملية استئصال نصف القولون المفتوح بسبب سرطانالقولون. في اليوم العاشر بعد الجراحة، أصيبت بحمى خفيفة. عند الفحصالسريري، لوحظ وجود وذمة، وحساسية، واحمرار في الطرف السفلي الأيسرأسفل الركبة. التشخيص الأكثر احتمالاً هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute limb ischemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis. يصبح صحيحًا في سؤال يصف Acute limb ischemia, acute compartment syndrome itself, superficial thrombophlebitis, and cellulitis can all cause leg pain/swelling, but DVT remains the most likely diagnosis given the specific post-operative timing and risk factors described. الخيار B، Acute compartment syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis. يصبح صحيحًا في سؤال يصف Acute limb ischemia, acute compartment syndrome itself, superficial thrombophlebitis, and cellulitis can all cause leg pain/swelling, but DVT remains the most likely diagnosis given the specific post-operative timing and risk factors described. الخيار D، Superficial thrombophlebitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis. يصبح صحيحًا في سؤال يصف Acute limb ischemia, acute compartment syndrome itself, superficial thrombophlebitis, and cellulitis can all cause leg pain/swelling, but DVT remains the most likely diagnosis given the specific post-operative timing and risk factors described. الخيار E، Cellulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Deep vein thrombosis. يصبح صحيحًا في سؤال يصف Acute limb ischemia, acute compartment syndrome itself, superficial thrombophlebitis, and cellulitis can all cause leg pain/swelling, but DVT remains the most likely diagnosis given the specific post-operative timing and risk factors described.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acute limb ischemia: الإجابة الصحيحة هي Deep vein thrombosis. الخيار B، Acute compartment syndrome: الإجابة الصحيحة هي Deep vein thrombosis. الخيار D، Superficial thrombophlebitis: الإجابة الصحيحة هي Deep vein thrombosis. الخيار E، Cellulitis: الإجابة الصحيحة هي Deep vein thrombosis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Post-op immobility + calf swelling = DVT\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Deep vein thrombosis. ربلة ساق مؤلمة ودافئة ومتورمة بعد جراحة كبرى عند مريض قليل الحركة هو الوصف الكلاسيكي لتجلط الأوردة العميقة."
+      "narration": "الخيار C، Deep vein thrombosis هو الإجابة الصحيحة. ربلة ساق مؤلمة ودافئة ومتورمة بعد جراحة كبرى عند مريض قليل الحركة هو الوصف الكلاسيكي لتجلط الأوردة العميقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ربلة ساق مؤلمة ودافئة ومتورمة بعد جراحة كبرى عند مريض قليل الحركة هو الوصف الكلاسيكي لتجلط الأوردة العميقة. وتذكّر القاعدة: \"Post-op immobility + calf swelling = DVT\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ربلة ساق مؤلمة ودافئة ومتورمة بعد جراحة كبرى عند مريض قليل الحركة هو الوصف الكلاسيكي لتجلط الأوردة العميقة. وتذكّر: \"Post-op immobility + calf swelling = DVT\". والإجابة الصحيحة هي C."
     }
   ]
 }

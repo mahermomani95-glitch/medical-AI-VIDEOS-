@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "HCC"
       },
-      "narration": "لنبدأ بهذا السؤال. سرطان الكبد الأكثر شيوعا هو:؟ أمامك هذه الخيارات: Hepatoblastoma، أو Fibrolamellar carcinoma، أو Adenocarcinoma، أو HCC، أو SCC. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. سرطان الكبد الأكثر شيوعا هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hepatoblastoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا adults. يصبح صحيحًا في سؤال يصف Hepatoblastoma is the most common liver cancer in children. الخيار B، Fibrolamellar carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي HCC. يصبح صحيحًا في سؤال يصف fibrolamellar carcinoma is a rarer HCC variant. الخيار C، Adenocarcinoma: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the typical primary liver cancer histologies — hepatocellular carcinoma (HCC) is the most common primary liver cancer overall. يصبح صحيحًا في سؤال يصف adenocarcinoma and SCC. الخيار E، SCC: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the typical primary liver cancer histologies — hepatocellular carcinoma (HCC) is the most common primary liver cancer overall. يصبح صحيحًا في سؤال يصف adenocarcinoma and SCC.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hepatoblastoma: المطلوب هنا adults. الخيار B، Fibrolamellar carcinoma: الإجابة الصحيحة هي HCC. الخيار C، Adenocarcinoma: لا ينطبق على هذه الحالة. الخيار E، SCC: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Liver cancer: mostly HCC"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: HCC. السرطانة الكبدية الخلوية هي الأشيع بين سرطانات الكبد الأولية."
+      "narration": "الخيار D، HCC هو الإجابة الصحيحة. السرطانة الكبدية الخلوية هي الأشيع بين سرطانات الكبد الأولية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة الكبدية الخلوية هي الأشيع بين سرطانات الكبد الأولية. وتذكّر القاعدة: Liver cancer: mostly HCC. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. السرطانة الكبدية الخلوية هي الأشيع بين سرطانات الكبد الأولية. وتذكّر: Liver cancer: mostly HCC. والإجابة الصحيحة هي D."
     }
   ]
 }

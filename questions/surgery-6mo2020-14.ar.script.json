@@ -45,7 +45,7 @@
         "label": "Replace it with LMWH 5 days before surgery and stop warfarin",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Surgery can be done directly، أو If PT is normal, stop warfarin at night before surgery and do it، أو Replace it with LMWH 5 days before surgery and stop warfarin، أو If PTT is normal, stop warfarin at night before surgery and do it، أو Stop warfarin the night before surgery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Surgery can be done directly: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Replace it with LMWH 5 days before surgery and stop warfarin. يصبح صحيحًا في سؤال يصف Doing surgery directly without any adjustment risks bleeding complications. الخيار B، If PT is normal, stop warfarin at night before surgery and do it: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reflect the correct bridging protocol. يصبح صحيحًا في سؤال يصف using PT normalization alone or PTT normalization as the trigger to stop warfarin. الخيار D، If PTT is normal, stop warfarin at night before surgery and do it: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا reflect the correct bridging protocol. يصبح صحيحًا في سؤال يصف using PT normalization alone or PTT normalization as the trigger to stop warfarin. الخيار E، Stop warfarin the night before surgery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا allow adequate INR normalization given warfarin's long half-life — bridging with LMWH and stopping warfarin 5 days prior is correct. يصبح صحيحًا في سؤال يصف simply stopping the night before.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: المطلوب هنا reflect the correct bridging protocol. الخيار D: المطلوب هنا reflect the correct bridging protocol. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Bridge with LMWH, stop warfarin 5 days before"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Replace it with LMWH 5 days before surgery and stop warfarin. استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة."
+      "narration": "الخيار C هو الإجابة الصحيحة. استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة. وتذكّر القاعدة: \"Bridge with LMWH, stop warfarin 5 days before surgery\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. استبدل الوارفارين بـ LMWH كجسر أثناء إيقافه قبل الجراحة بأيام — هذا يغطي فجوة مضاد التخثر بأمان مع السماح لـ INR بالعودة للطبيعي قبل الجراحة. وتذكّر: \"Bridge with LMWH, stop warfarin 5 days before surgery\". والإجابة الصحيحة هي C."
     }
   ]
 }

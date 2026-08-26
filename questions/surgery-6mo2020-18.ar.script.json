@@ -45,7 +45,7 @@
         "label": "Hyperthermia",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Acidosis، أو Uremia with end-stage renal disease، أو Disseminated intravascular coagulation (DIC)، أو Hyperthermia، أو Hepatic failure. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia. الخيار B، Uremia with end-stage renal disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia. الخيار C، Disseminated intravascular coagulation (DIC): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia. الخيار E، Hepatic failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Acidosis, uremia/ESRD, DIC, and hepatic failure are all recognized causes or associations with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperthermia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Acidosis: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C، Disseminated intravascular coagulation (DIC): صحيحة، لكنها ليست الاستثناء. الخيار E، Hepatic failure: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Hypothermia (not hyperthermia) impairs clotti"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Hyperthermia. فرط الحرارة ليس محرّكًا معروفًا لفرط التخثر — إن وُجد ارتباط حراري، فنقص الحرارة هو المرتبط باعتلال التخثر."
+      "narration": "الخيار D، Hyperthermia هو الإجابة الصحيحة. فرط الحرارة ليس محرّكًا معروفًا لفرط التخثر — إن وُجد ارتباط حراري، فنقص الحرارة هو المرتبط باعتلال التخثر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فرط الحرارة ليس محرّكًا معروفًا لفرط التخثر — إن وُجد ارتباط حراري، فنقص الحرارة هو المرتبط باعتلال التخثر. وتذكّر القاعدة: \"Hypothermia (not hyperthermia) impairs clotting\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. فرط الحرارة ليس محرّكًا معروفًا لفرط التخثر — إن وُجد ارتباط حراري، فنقص الحرارة هو المرتبط باعتلال التخثر. وتذكّر: \"Hypothermia (not hyperthermia) impairs clotting\". والإجابة الصحيحة هي D."
     }
   ]
 }

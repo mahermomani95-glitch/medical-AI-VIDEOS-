@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Incisional hernia"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Spigelian hernia، أو Incisional hernia، أو Femoral hernia، أو Indirect inguinal hernia، أو Umbilical hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Spigelian hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incisional hernia. يصبح صحيحًا في سؤال يصف Spigelian hernia, femoral hernia, indirect inguinal hernia, and umbilical hernia are all real hernia types with different recurrence profiles, but incisional hernia specifically has the highest recurrence rate. الخيار C، Femoral hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incisional hernia. يصبح صحيحًا في سؤال يصف Spigelian hernia, femoral hernia, indirect inguinal hernia, and umbilical hernia are all real hernia types with different recurrence profiles, but incisional hernia specifically has the highest recurrence rate. الخيار D، Indirect inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incisional hernia. يصبح صحيحًا في سؤال يصف Spigelian hernia, femoral hernia, indirect inguinal hernia, and umbilical hernia are all real hernia types with different recurrence profiles, but incisional hernia specifically has the highest recurrence rate. الخيار E، Umbilical hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Incisional hernia. يصبح صحيحًا في سؤال يصف Spigelian hernia, femoral hernia, indirect inguinal hernia, and umbilical hernia are all real hernia types with different recurrence profiles, but incisional hernia specifically has the highest recurrence rate.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Spigelian hernia: الإجابة الصحيحة هي Incisional hernia. الخيار C، Femoral hernia: الإجابة الصحيحة هي Incisional hernia. الخيار D، Indirect inguinal hernia: الإجابة الصحيحة هي Incisional hernia. الخيار E، Umbilical hernia: الإجابة الصحيحة هي Incisional hernia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Incisional hernia = highest recurrence rate\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Incisional hernia. الفتق الجراحي (الشقي) هو الأكثر نكسًا لأن نسيج جدار البطن عند موقع الجراحة السابقة أضعف بطبيعته."
+      "narration": "الخيار B، Incisional hernia هو الإجابة الصحيحة. الفتق الجراحي (الشقي) هو الأكثر نكسًا لأن نسيج جدار البطن عند موقع الجراحة السابقة أضعف بطبيعته."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الفتق الجراحي (الشقي) هو الأكثر نكسًا لأن نسيج جدار البطن عند موقع الجراحة السابقة أضعف بطبيعته. وتذكّر القاعدة: \"Incisional hernia = highest recurrence rate\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الفتق الجراحي (الشقي) هو الأكثر نكسًا لأن نسيج جدار البطن عند موقع الجراحة السابقة أضعف بطبيعته. وتذكّر: \"Incisional hernia = highest recurrence rate\". والإجابة الصحيحة هي B."
     }
   ]
 }

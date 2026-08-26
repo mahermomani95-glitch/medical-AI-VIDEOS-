@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Tachycardia"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو أعراض وعلامات لقصور الغدة الدرقية باستثناء؟ أمامك هذه الخيارات: Amenorrhea، أو Tachycardia، أو Constipation، أو Weight gain، أو Cold intolerance. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو أعراض وعلامات لقصور الغدة الدرقية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Amenorrhea: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار C، Constipation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار D، Weight gain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار E، Cold intolerance: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Amenorrhea, constipation, weight gain, and cold intolerance are all classic hypothyroidism… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Amenorrhea: صحيحة، لكنها ليست الاستثناء. الخيار C، Constipation: صحيحة، لكنها ليست الاستثناء. الخيار D، Weight gain: صحيحة، لكنها ليست الاستثناء. الخيار E، Cold intolerance: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hypothyroidism: Heart slows, doesn't speed up"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Tachycardia. قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة."
+      "narration": "الخيار B، Tachycardia هو الإجابة الصحيحة. قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة. وتذكّر القاعدة: Hypothyroidism: Heart slows, doesn't speed up. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. قصور الدرقية يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة. وتذكّر: Hypothyroidism: Heart slows, doesn't speed up. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Pulmonary embolization"
       },
-      "narration": "لنبدأ بهذا السؤال. في المرضى الذين يصابون بحلقة موثقة من الخثار الوريدي العميق ، فإنالنتيجة الأكثر أهمية على المدى القصير هي؟ أمامك هذه الخيارات: Claudication، أو Recurrent foot infections، أو Pulmonary embolization، أو Development of stasis ulcer، أو Diminished arterial perfusion. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في المرضى الذين يصابون بحلقة موثقة من الخثار الوريدي العميق ، فإنالنتيجة الأكثر أهمية على المدى القصير هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Claudication: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulmonary embolization. يصبح صحيحًا في سؤال يصف Claudication, recurrent infections, stasis ulcers, and diminished arterial perfusion relate to chronic venous or arterial insufficiency, but pulmonary embolism remains the most immediately life-threatening and significant complication of DVT. الخيار B، Recurrent foot infections: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulmonary embolization. يصبح صحيحًا في سؤال يصف Claudication, recurrent infections, stasis ulcers, and diminished arterial perfusion relate to chronic venous or arterial insufficiency, but pulmonary embolism remains the most immediately life-threatening and significant complication of DVT. الخيار D، Development of stasis ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulmonary embolization. يصبح صحيحًا في سؤال يصف Claudication, recurrent infections, stasis ulcers, and diminished arterial perfusion relate to chronic venous or arterial insufficiency, but pulmonary embolism remains the most immediately life-threatening and significant complication of DVT. الخيار E، Diminished arterial perfusion: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pulmonary embolization. يصبح صحيحًا في سؤال يصف Claudication, recurrent infections, stasis ulcers, and diminished arterial perfusion relate to chronic venous or arterial insufficiency, but pulmonary embolism remains the most immediately life-threatening and significant complication of DVT.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Claudication: الإجابة الصحيحة هي Pulmonary embolization. الخيار B، Recurrent foot infections: الإجابة الصحيحة هي Pulmonary embolization. الخيار D، Development of stasis ulcer: الإجابة الصحيحة هي Pulmonary embolization. الخيار E، Diminished arterial perfusion: الإجابة الصحيحة هي Pulmonary embolization. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "DVT: greatest danger is Pulmonary embolism"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Pulmonary embolization. الانصمام الرئوي هو المضاعفة الأخطر والأهم لتخثر الأوردة العميقة."
+      "narration": "الخيار C، Pulmonary embolization هو الإجابة الصحيحة. الانصمام الرئوي هو المضاعفة الأخطر والأهم لتخثر الأوردة العميقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الانصمام الرئوي هو المضاعفة الأخطر والأهم لتخثر الأوردة العميقة. وتذكّر القاعدة: DVT: greatest danger is Pulmonary embolism. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الانصمام الرئوي هو المضاعفة الأخطر والأهم لتخثر الأوردة العميقة. وتذكّر: DVT: greatest danger is Pulmonary embolism. والإجابة الصحيحة هي C."
     }
   ]
 }

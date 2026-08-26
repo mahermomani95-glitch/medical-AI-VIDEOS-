@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Duodenal ulcer"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الأسباب التالية هو السبب الأكثر شيوعًا للنزيف الشديد في الجهازالهضمي العلوي؟ أمامك هذه الخيارات: Gastritis، أو Duodenal ulcer، أو Oesophagitis، أو Mallory Weiss syndrome، أو Esophageal varices. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الأسباب التالية هو السبب الأكثر شيوعًا للنزيف الشديد في الجهازالهضمي العلوي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Gastritis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Duodenal ulcer. يصبح صحيحًا في سؤال يصف Gastritis, esophagitis, Mallory-Weiss tears, and esophageal varices are all causes of upper GI bleeding, but duodenal ulcer remains the single most common cause of massive upper GI bleeding overall. الخيار C، Oesophagitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Duodenal ulcer. يصبح صحيحًا في سؤال يصف Gastritis, esophagitis, Mallory-Weiss tears, and esophageal varices are all causes of upper GI bleeding, but duodenal ulcer remains the single most common cause of massive upper GI bleeding overall. الخيار D، Mallory Weiss syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Duodenal ulcer. يصبح صحيحًا في سؤال يصف Gastritis, esophagitis, Mallory-Weiss tears, and esophageal varices are all causes of upper GI bleeding, but duodenal ulcer remains the single most common cause of massive upper GI bleeding overall. الخيار E، Esophageal varices: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Duodenal ulcer. يصبح صحيحًا في سؤال يصف Gastritis, esophagitis, Mallory-Weiss tears, and esophageal varices are all causes of upper GI bleeding, but duodenal ulcer remains the single most common cause of massive upper GI bleeding overall.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Gastritis: الإجابة الصحيحة هي Duodenal ulcer. الخيار C، Oesophagitis: الإجابة الصحيحة هي Duodenal ulcer. الخيار D، Mallory Weiss syndrome: الإجابة الصحيحة هي Duodenal ulcer. الخيار E، Esophageal varices: الإجابة الصحيحة هي Duodenal ulcer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Massive upper GI bleed: mostly Duodenal ulcer"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Duodenal ulcer. قرحة الاثني عشر هي السبب الأشيع للنزف الهضمي العلوي الغزير."
+      "narration": "الخيار B، Duodenal ulcer هو الإجابة الصحيحة. قرحة الاثني عشر هي السبب الأشيع للنزف الهضمي العلوي الغزير."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قرحة الاثني عشر هي السبب الأشيع للنزف الهضمي العلوي الغزير. وتذكّر القاعدة: Massive upper GI bleed: mostly Duodenal ulcer. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. قرحة الاثني عشر هي السبب الأشيع للنزف الهضمي العلوي الغزير. وتذكّر: Massive upper GI bleed: mostly Duodenal ulcer. والإجابة الصحيحة هي B."
     }
   ]
 }

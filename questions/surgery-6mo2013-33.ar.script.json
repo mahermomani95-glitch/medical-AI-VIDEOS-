@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Pain"
       },
-      "narration": "لنبدأ بهذا السؤال. العلامة الأولى لمتلازمة الحيز هي؟ أمامك هذه الخيارات: Pallor and pulselessness، أو Coldness، أو Tingling and Paresthesia، أو Pain، أو Paralysis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. العلامة الأولى لمتلازمة الحيز هي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Pallor and pulselessness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain. يصبح صحيحًا في سؤال يصف Pallor/pulselessness, coldness, paralysis, and tingling/paresthesia are all signs of compartment syndrome, but they occur later in the process — pain (especially with passive stretch) is consistently the earliest and most sensitive symptom. الخيار B، Coldness: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain. يصبح صحيحًا في سؤال يصف Pallor/pulselessness, coldness, paralysis, and tingling/paresthesia are all signs of compartment syndrome, but they occur later in the process — pain (especially with passive stretch) is consistently the earliest and most sensitive symptom. الخيار C، Tingling and Paresthesia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain. يصبح صحيحًا في سؤال يصف Pallor/pulselessness, coldness, paralysis, and tingling/paresthesia are all signs of compartment syndrome, but they occur later in the process — pain (especially with passive stretch) is consistently the earliest and most sensitive symptom. الخيار E، Paralysis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Pain. يصبح صحيحًا في سؤال يصف Pallor/pulselessness, coldness, paralysis, and tingling/paresthesia are all signs of compartment syndrome, but they occur later in the process — pain (especially with passive stretch) is consistently the earliest and most sensitive symptom.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Pallor and pulselessness: الإجابة الصحيحة هي Pain. الخيار B، Coldness: الإجابة الصحيحة هي Pain. الخيار C، Tingling and Paresthesia: الإجابة الصحيحة هي Pain. الخيار E، Paralysis: الإجابة الصحيحة هي Pain. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Compartment syndrome: Pain comes first"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Pain. الألم غير المتناسب هو أول علامة إنذارية لمتلازمة الحيز."
+      "narration": "الخيار D، Pain هو الإجابة الصحيحة. الألم غير المتناسب هو أول علامة إنذارية لمتلازمة الحيز."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم غير المتناسب هو أول علامة إنذارية لمتلازمة الحيز. وتذكّر القاعدة: Compartment syndrome: Pain comes first. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الألم غير المتناسب هو أول علامة إنذارية لمتلازمة الحيز. وتذكّر: Compartment syndrome: Pain comes first. والإجابة الصحيحة هي D."
     }
   ]
 }

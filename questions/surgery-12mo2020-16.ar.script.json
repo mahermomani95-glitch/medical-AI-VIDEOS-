@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Endoscopy and biopsy"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Increase the dose of PPI، أو Endoscopy and biopsy، أو Barium swallow، أو 24 hours pH monitoring، أو CT scan of the chest with and without contrast. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Increase the dose of PPI: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the alarm features present. يصبح صحيحًا في سؤال يصف Increasing PPI dose. الخيار C، Barium swallow: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا for ruling out malignancy directly. يصبح صحيحًا في سؤال يصف barium swallow and 24-hour pH monitoring are useful for functional assessment but. الخيار D، 24 hours pH monitoring: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا for ruling out malignancy directly. يصبح صحيحًا في سؤال يصف barium swallow and 24-hour pH monitoring are useful for functional assessment but. الخيار E، CT scan of the chest with and without contrast: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Endoscopy and biopsy. يصبح صحيحًا في سؤال يصف CT chest isn't the first-line test for esophageal mucosal pathology — endoscopy with biopsy is needed first.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا address the alarm features present. الخيار C، Barium swallow: المطلوب هنا for ruling out malignancy directly. الخيار D، 24 hours pH monitoring: المطلوب هنا for ruling out malignancy directly. الخيار E: الإجابة الصحيحة هي Endoscopy and biopsy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Dysphagia + weight loss + smoking history = E"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Endoscopy and biopsy. نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط."
+      "narration": "الخيار B، Endoscopy and biopsy هو الإجابة الصحيحة. نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط. وتذكّر القاعدة: \"Dysphagia + weight loss + smoking history = Endoscopy/biopsy, rule out cancer\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. نقص وزن كبير وأعراض جهازية فوق عسر بلع مزمن هي علامات إنذار كبرى — التنظير والخزعة ضروريان لاستبعاد الخباثة المريئية مباشرة، وليس تصعيد علاج الجزر فقط. والإجابة الصحيحة هي B."
     }
   ]
 }

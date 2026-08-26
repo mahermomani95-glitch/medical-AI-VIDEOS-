@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Lymph node biopsy"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 45 عامًا يعاني من تضخم تدريجي في الغدد الليمفاويةالعنقية، لمدة 4 أشهر، الفحص الأكثر ملاءمة هو؟ أمامك هذه الخيارات: X-Ray soft tissue، أو FNAC، أو Lymph node biopsy، أو Thyroid isotope scan، أو Tuberculin test. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 45 عامًا يعاني من تضخم تدريجي في الغدد الليمفاويةالعنقية، لمدة 4 أشهر، الفحص الأكثر ملاءمة هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، X-Ray soft tissue: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node biopsy. يصبح صحيحًا في سؤال يصف Soft tissue X-ray, FNAC, thyroid isotope scan, and tuberculin test can provide supporting information, but excisional lymph node biopsy remains the definitive next step for persistent, unexplained lymphadenopathy over several months. الخيار B، FNAC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node biopsy. يصبح صحيحًا في سؤال يصف Soft tissue X-ray, FNAC, thyroid isotope scan, and tuberculin test can provide supporting information, but excisional lymph node biopsy remains the definitive next step for persistent, unexplained lymphadenopathy over several months. الخيار D، Thyroid isotope scan: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node biopsy. يصبح صحيحًا في سؤال يصف Soft tissue X-ray, FNAC, thyroid isotope scan, and tuberculin test can provide supporting information, but excisional lymph node biopsy remains the definitive next step for persistent, unexplained lymphadenopathy over several months. الخيار E، Tuberculin test: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Lymph node biopsy. يصبح صحيحًا في سؤال يصف Soft tissue X-ray, FNAC, thyroid isotope scan, and tuberculin test can provide supporting information, but excisional lymph node biopsy remains the definitive next step for persistent, unexplained lymphadenopathy over several months.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، X-Ray soft tissue: الإجابة الصحيحة هي Lymph node biopsy. الخيار B، FNAC: الإجابة الصحيحة هي Lymph node biopsy. الخيار D، Thyroid isotope scan: الإجابة الصحيحة هي Lymph node biopsy. الخيار E، Tuberculin test: الإجابة الصحيحة هي Lymph node biopsy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Progressive lymphadenopathy: Proceed to Biopsy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Lymph node biopsy. تضخم عقدي تقدمي مستمر لأشهر يستدعي خزعة نسيجية قاطعة."
+      "narration": "الخيار C، Lymph node biopsy هو الإجابة الصحيحة. تضخم عقدي تقدمي مستمر لأشهر يستدعي خزعة نسيجية قاطعة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تضخم عقدي تقدمي مستمر لأشهر يستدعي خزعة نسيجية قاطعة. وتذكّر القاعدة: Progressive lymphadenopathy: Proceed to Biopsy. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. تضخم عقدي تقدمي مستمر لأشهر يستدعي خزعة نسيجية قاطعة. وتذكّر: Progressive lymphadenopathy: Proceed to Biopsy. والإجابة الصحيحة هي C."
     }
   ]
 }

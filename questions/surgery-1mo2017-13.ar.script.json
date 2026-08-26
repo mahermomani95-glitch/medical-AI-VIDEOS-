@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Thiazide diuretics"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي من أسباب نقص الكالسيوم في الدم ما عدا:؟ أمامك هذه الخيارات: Chronic kidney disease، أو Post-gastric bypass surgery، أو parathyroidectomy، أو End-stage liver disease and cirrhosis، أو Thiazide diuretics. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي من أسباب نقص الكالسيوم في الدم ما عدا:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Chronic kidney disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic kidney disease, post-gastric bypass malabsorption, parathyroidectomy, and end-stage… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thiazide diuretics. الخيار B، Post-gastric bypass surgery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic kidney disease, post-gastric bypass malabsorption, parathyroidectomy, and end-stage… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thiazide diuretics. الخيار C، parathyroidectomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic kidney disease, post-gastric bypass malabsorption, parathyroidectomy, and end-stage… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thiazide diuretics. الخيار D، End-stage liver disease and cirrhosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic kidney disease, post-gastric bypass malabsorption, parathyroidectomy, and end-stage… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thiazide diuretics.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Chronic kidney disease: صحيحة، لكنها ليست الاستثناء. الخيار B، Post-gastric bypass surgery: صحيحة، لكنها ليست الاستثناء. الخيار C، parathyroidectomy: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Thiazides: Retain calcium, don't cause its def"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Thiazide diuretics. مدرات الثيازيد ترفع الكالسيوم فعليًا، لا تخفضه كما بالعبارة الخاطئة."
+      "narration": "الخيار E، Thiazide diuretics هو الإجابة الصحيحة. مدرات الثيازيد ترفع الكالسيوم فعليًا، لا تخفضه كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مدرات الثيازيد ترفع الكالسيوم فعليًا، لا تخفضه كما بالعبارة الخاطئة. وتذكّر القاعدة: Thiazides: Retain calcium, don't cause its deficiency. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. مدرات الثيازيد ترفع الكالسيوم فعليًا، لا تخفضه كما بالعبارة الخاطئة. وتذكّر: Thiazides: Retain calcium, don't cause its deficiency. والإجابة الصحيحة هي E."
     }
   ]
 }

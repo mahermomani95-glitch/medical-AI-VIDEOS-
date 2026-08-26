@@ -45,7 +45,7 @@
         "label": "Platelets",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. المنتج الدموي الأكثر شيوعًا الذي يحتوي على تلوث بكتيري هو؟ أمامك هذه الخيارات: Red blood cells، أو Platelets، أو Cryoprecipitate، أو Fresh frozen plasma، أو WBC. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المنتج الدموي الأكثر شيوعًا الذي يحتوي على تلوث بكتيري هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Red blood cells: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Platelets. يصبح صحيحًا في سؤال يصف Red blood cells, cryoprecipitate, fresh frozen plasma, and WBC products are less prone to bacterial growth than platelets, which are stored at room temperature (rather than refrigerated), making them the blood product most commonly associated with bacterial contamination. الخيار C، Cryoprecipitate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Platelets. يصبح صحيحًا في سؤال يصف Red blood cells, cryoprecipitate, fresh frozen plasma, and WBC products are less prone to bacterial growth than platelets, which are stored at room temperature (rather than refrigerated), making them the blood product most commonly associated with bacterial contamination. الخيار D، Fresh frozen plasma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Platelets. يصبح صحيحًا في سؤال يصف Red blood cells, cryoprecipitate, fresh frozen plasma, and WBC products are less prone to bacterial growth than platelets, which are stored at room temperature (rather than refrigerated), making them the blood product most commonly associated with bacterial contamination. الخيار E، WBC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Platelets. يصبح صحيحًا في سؤال يصف Red blood cells, cryoprecipitate, fresh frozen plasma, and WBC products are less prone to bacterial growth than platelets, which are stored at room temperature (rather than refrigerated), making them the blood product most commonly associated with bacterial contamination.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Red blood cells: الإجابة الصحيحة هي Platelets. الخيار C، Cryoprecipitate: الإجابة الصحيحة هي Platelets. الخيار D، Fresh frozen plasma: الإجابة الصحيحة هي Platelets. الخيار E، WBC: الإجابة الصحيحة هي Platelets. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Platelets: kept warm, most Prone to bacterial "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Platelets. الصفيحات تُحفظ بحرارة الغرفة فتكون الأكثر عرضة للتلوث الجرثومي."
+      "narration": "الخيار B، Platelets هو الإجابة الصحيحة. الصفيحات تُحفظ بحرارة الغرفة فتكون الأكثر عرضة للتلوث الجرثومي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الصفيحات تُحفظ بحرارة الغرفة فتكون الأكثر عرضة للتلوث الجرثومي. وتذكّر القاعدة: Platelets: kept warm, most Prone to bacterial contamination. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الصفيحات تُحفظ بحرارة الغرفة فتكون الأكثر عرضة للتلوث الجرثومي. وتذكّر: Platelets: kept warm, most Prone to bacterial contamination. والإجابة الصحيحة هي B."
     }
   ]
 }

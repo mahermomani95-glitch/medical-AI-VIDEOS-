@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Acute appendicitis"
       },
-      "narration": "لنبدأ بهذا السؤال. فتاة تبلغ من العمر 18 عامًا تشكو من ألم بطني معمم مصحوب بمغص لمدةست ساعات تقريبًا. تشعر بتوعك، وقد تقيأت عدة مرات، وتعاني من فقدانالشهية. انتقل الألم إلى الحفرة الحرقفية اليمنى. عند الفحص، أظهرت ارتفاعًافي درجة الحرارة بلغ 38 درجة مئوية، ومؤلمة فوق الحفرة الحرقفية اليمنى معتصلب، ومؤلمة ارتدادية. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Carcinoma of caecum، أو Perforated peptic ulcer، أو Acute appendicitis، أو Carcinoma of appendix، أو Right ureteric colic. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فتاة تبلغ من العمر 18 عامًا تشكو من ألم بطني معمم مصحوب بمغص لمدةست ساعات تقريبًا. تشعر بتوعك، وقد تقيأت عدة مرات، وتعاني من فقدانالشهية. انتقل الألم إلى الحفرة الحرقفية اليمنى. عند الفحص، أظهرت ارتفاعًافي درجة الحرارة بلغ 38 درجة مئوية، ومؤلمة فوق الحفرة الحرقفية اليمنى معتصلب، ومؤلمة ارتدادية. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Carcinoma of caecum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic migratory pattern with fever and rebound tenderness points most specifically to acute appendicitis. الخيار B، Perforated peptic ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic migratory pattern with fever and rebound tenderness points most specifically to acute appendicitis. الخيار D، Carcinoma of appendix: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic migratory pattern with fever and rebound tenderness points most specifically to acute appendicitis. الخيار E، Right ureteric colic: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acute appendicitis. يصبح صحيحًا في سؤال يصف Carcinoma of the caecum, perforated peptic ulcer, carcinoma of the appendix, and right ureteric colic can all cause RLQ pain, but the classic migratory pattern with fever and rebound tenderness points most specifically to acute appendicitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Carcinoma of caecum: الإجابة الصحيحة هي Acute appendicitis. الخيار B، Perforated peptic ulcer: الإجابة الصحيحة هي Acute appendicitis. الخيار D، Carcinoma of appendix: الإجابة الصحيحة هي Acute appendicitis. الخيار E، Right ureteric colic: الإجابة الصحيحة هي Acute appendicitis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Migrating pain + RIF + fever = Appendicitis\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Acute appendicitis. ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية."
+      "narration": "الخيار C، Acute appendicitis هو الإجابة الصحيحة. ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية. وتذكّر القاعدة: \"Migrating pain + RIF + fever = Appendicitis\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. ألم حول السرة يهاجر للحفرة الحرقفية اليمنى مع حمى وألم ارتدادي هو العرض الكلاسيكي لالتهاب الزائدة الدودية. وتذكّر: \"Migrating pain + RIF + fever = Appendicitis\". والإجابة الصحيحة هي C."
     }
   ]
 }

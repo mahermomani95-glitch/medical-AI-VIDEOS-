@@ -45,7 +45,7 @@
         "label": "Intubate and extubate outside theater",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: PPE for all medical staff، أو Intubate and extubate outside theater، أو Work with minimal staff، أو Treat all patient as COVID-19، أو Relay on laparoscopic procedures rather than open. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، PPE for all medical staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater. الخيار C، Work with minimal staff: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater. الخيار D، Treat all patient as COVID-19: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater. الخيار E، Relay on laparoscopic procedures rather than open: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. PPE for all staff, working with minimal staff, treating all patients as COVID-19 positive, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Intubate and extubate outside theater.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار C، Work with minimal staff: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Intubate/extubate INSIDE theater with precaut"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Intubate and extubate outside theater. التنبيب وإزالة الأنبوب يجب أن يتما داخل غرفة العمليات مع احتياطات الهباء المناسبة، وليس خارجها — نقل هذه الإجراءات المولدة للهباء لمكان آخر يخاطر بانتشار غير محكوم."
+      "narration": "الخيار B هو الإجابة الصحيحة. التنبيب وإزالة الأنبوب يجب أن يتما داخل غرفة العمليات مع احتياطات الهباء المناسبة، وليس خارجها — نقل هذه الإجراءات المولدة للهباء لمكان آخر يخاطر بانتشار غير محكوم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التنبيب وإزالة الأنبوب يجب أن يتما داخل غرفة العمليات مع احتياطات الهباء المناسبة، وليس خارجها — نقل هذه الإجراءات المولدة للهباء لمكان آخر يخاطر بانتشار غير محكوم. وتذكّر القاعدة: \"Intubate/extubate INSIDE theater with precautions, not outside\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. التنبيب وإزالة الأنبوب يجب أن يتما داخل غرفة العمليات مع احتياطات الهباء المناسبة، وليس خارجها — نقل هذه الإجراءات المولدة للهباء لمكان آخر يخاطر بانتشار غير محكوم. وتذكّر: \"Intubate/extubate INSIDE theater with precautions, not outside\". والإجابة الصحيحة هي B."
     }
   ]
 }

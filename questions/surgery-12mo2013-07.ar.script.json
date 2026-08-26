@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Urological anomaly"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من التشوهات الخلقية التالية تحدث بشكل متكرر في المرضى الذين يعانونمن فتحة شرج غير مثقوبة؟ أمامك هذه الخيارات: Esophageal atresia، أو Presacral dermoid، أو Urological anomaly، أو Tethered spinal cord، أو Cleft palate. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من التشوهات الخلقية التالية تحدث بشكل متكرر في المرضى الذين يعانونمن فتحة شرج غير مثقوبة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Esophageal atresia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urological anomaly. يصبح صحيحًا في سؤال يصف Esophageal atresia, presacral dermoid, tethered spinal cord, and cleft palate can accompany VACTERL-type associations, but urologic anomalies are the most frequently associated with imperforate anus. الخيار B، Presacral dermoid: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urological anomaly. يصبح صحيحًا في سؤال يصف Esophageal atresia, presacral dermoid, tethered spinal cord, and cleft palate can accompany VACTERL-type associations, but urologic anomalies are the most frequently associated with imperforate anus. الخيار D، Tethered spinal cord: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urological anomaly. يصبح صحيحًا في سؤال يصف Esophageal atresia, presacral dermoid, tethered spinal cord, and cleft palate can accompany VACTERL-type associations, but urologic anomalies are the most frequently associated with imperforate anus. الخيار E، Cleft palate: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Urological anomaly. يصبح صحيحًا في سؤال يصف Esophageal atresia, presacral dermoid, tethered spinal cord, and cleft palate can accompany VACTERL-type associations, but urologic anomalies are the most frequently associated with imperforate anus.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Esophageal atresia: الإجابة الصحيحة هي Urological anomaly. الخيار B، Presacral dermoid: الإجابة الصحيحة هي Urological anomaly. الخيار D، Tethered spinal cord: الإجابة الصحيحة هي Urological anomaly. الخيار E، Cleft palate: الإجابة الصحيحة هي Urological anomaly. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Imperforate anus: Usually paired with urologic"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Urological anomaly. شذوذات المسالك البولية هي الأشيع ترافقًا مع انسداد فتحة الشرج الخلقي."
+      "narration": "الخيار C، Urological anomaly هو الإجابة الصحيحة. شذوذات المسالك البولية هي الأشيع ترافقًا مع انسداد فتحة الشرج الخلقي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. شذوذات المسالك البولية هي الأشيع ترافقًا مع انسداد فتحة الشرج الخلقي. وتذكّر القاعدة: Imperforate anus: Usually paired with urological anomaly. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. شذوذات المسالك البولية هي الأشيع ترافقًا مع انسداد فتحة الشرج الخلقي. وتذكّر: Imperforate anus: Usually paired with urological anomaly. والإجابة الصحيحة هي C."
     }
   ]
 }

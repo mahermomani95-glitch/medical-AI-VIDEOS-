@@ -41,7 +41,7 @@
         "region": "chest",
         "label": "Winged scapula"
       },
-      "narration": "لنبدأ بهذا السؤال. أثناء إجراء عملية استئصال الثدي الجذري المعدل لسرطان الثدي، قام الجراحبقطع العصب الصدري الطويل، وكان المريض يعاني في الغالب بعد العمليةالجراحية من؟ أمامك هذه الخيارات: Weak adduction، أو Weak abduction، أو Paralyzed diaphragm، أو Winged scapula. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أثناء إجراء عملية استئصال الثدي الجذري المعدل لسرطان الثدي، قام الجراحبقطع العصب الصدري الطويل، وكان المريض يعاني في الغالب بعد العمليةالجراحية من؟ أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Weak adduction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Winged scapula. يصبح صحيحًا في سؤال يصف Weak adduction results from thoracodorsal (not long thoracic) nerve injury. الخيار B، Weak abduction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Winged scapula. يصبح صحيحًا في سؤال يستهدف Weak abduction تحديدًا بمعطياته المميزة، لا في السيناريو المطروح هنا. الخيار C، Paralyzed diaphragm: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Winged scapula. يصبح صحيحًا في سؤال يصف paralyzed diaphragm results from phrenic nerve injury, unrelated to mastectomy — long thoracic nerve injury causes weakness of serratus anterior, producing the classic winged scapula.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Weak adduction: الإجابة الصحيحة هي Winged scapula. الخيار B، Weak abduction: الإجابة الصحيحة هي Winged scapula. الخيار C، Paralyzed diaphragm: الإجابة الصحيحة هي Winged scapula. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "Long thoracic nerve cut: causes Winged scapula"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Winged scapula. قطع العصب الصدري الطويل يسبب اللوح المجنح المميز."
+      "narration": "الخيار D، Winged scapula هو الإجابة الصحيحة. قطع العصب الصدري الطويل يسبب اللوح المجنح المميز."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قطع العصب الصدري الطويل يسبب اللوح المجنح المميز. وتذكّر القاعدة: Long thoracic nerve cut: causes Winged scapula. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. قطع العصب الصدري الطويل يسبب اللوح المجنح المميز. وتذكّر: Long thoracic nerve cut: causes Winged scapula. والإجابة الصحيحة هي D."
     }
   ]
 }

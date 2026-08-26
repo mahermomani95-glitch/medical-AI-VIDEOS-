@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Pyloric stenosis"
       },
-      "narration": "لنبدأ بهذا السؤال. يمكن أن يسبب ما يلي القيء الصفراوي عند الرضيع أو الطفل باستثناء؟ أمامك هذه الخيارات: Intestinal malrotation and volvulus، أو Pyloric stenosis، أو Duodenal atresia، أو Small bowel obstruction، أو Ulcerative colitis with colonic obstruction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يمكن أن يسبب ما يلي القيء الصفراوي عند الرضيع أو الطفل باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intestinal malrotation and volvulus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis. الخيار C، Duodenal atresia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis. الخيار D، Small bowel obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis. الخيار E، Ulcerative colitis with colonic obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Malrotation/volvulus, duodenal atresia, and small bowel obstruction are classic causes of… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pyloric stenosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intestinal malrotation and volvulus: صحيحة، لكنها ليست الاستثناء. الخيار C، Duodenal atresia: صحيحة، لكنها ليست الاستثناء. الخيار D، Small bowel obstruction: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Bilious vomiting causes: exclude Pyloric steno"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Pyloric stenosis. تضيق البواب يسبب قيئًا غير صفراوي، فيُستبعد من أسباب القيء الصفراوي."
+      "narration": "الخيار B، Pyloric stenosis هو الإجابة الصحيحة. تضيق البواب يسبب قيئًا غير صفراوي، فيُستبعد من أسباب القيء الصفراوي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تضيق البواب يسبب قيئًا غير صفراوي، فيُستبعد من أسباب القيء الصفراوي. وتذكّر القاعدة: Bilious vomiting causes: exclude Pyloric stenosis. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. تضيق البواب يسبب قيئًا غير صفراوي، فيُستبعد من أسباب القيء الصفراوي. وتذكّر: Bilious vomiting causes: exclude Pyloric stenosis. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Water",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. المكون الرئيسي للصفراء؟ أمامك هذه الخيارات: Bilirubin، أو Bile acid، أو Water، أو Cholesterol، أو Lecithin. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المكون الرئيسي للصفراء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Bilirubin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Water. يصبح صحيحًا في سؤال يصف Bilirubin, bile acids, cholesterol, and lecithin are all important organic components of bile, but water makes up the overwhelming majority of bile by volume/weight. الخيار B، Bile acid: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Water. يصبح صحيحًا في سؤال يصف Bilirubin, bile acids, cholesterol, and lecithin are all important organic components of bile, but water makes up the overwhelming majority of bile by volume/weight. الخيار D، Cholesterol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Water. يصبح صحيحًا في سؤال يصف Bilirubin, bile acids, cholesterol, and lecithin are all important organic components of bile, but water makes up the overwhelming majority of bile by volume/weight. الخيار E، Lecithin: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Water. يصبح صحيحًا في سؤال يصف Bilirubin, bile acids, cholesterol, and lecithin are all important organic components of bile, but water makes up the overwhelming majority of bile by volume/weight.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Bilirubin: الإجابة الصحيحة هي Water. الخيار B، Bile acid: الإجابة الصحيحة هي Water. الخيار D، Cholesterol: الإجابة الصحيحة هي Water. الخيار E، Lecithin: الإجابة الصحيحة هي Water. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Bile: mostly Water"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Water. الماء هو المكون الأساسي الأكبر للصفراء بنسبة كتلته."
+      "narration": "الخيار C، Water هو الإجابة الصحيحة. الماء هو المكون الأساسي الأكبر للصفراء بنسبة كتلته."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الماء هو المكون الأساسي الأكبر للصفراء بنسبة كتلته. وتذكّر القاعدة: Bile: mostly Water. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الماء هو المكون الأساسي الأكبر للصفراء بنسبة كتلته. وتذكّر: Bile: mostly Water. والإجابة الصحيحة هي C."
     }
   ]
 }

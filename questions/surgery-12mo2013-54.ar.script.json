@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "First-degree burn of 15% of TBSA to the chest of an…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يلي مؤشرات لنقل المريض إلى مركز الحروق باستثناء:؟ أمامك هذه الخيارات: Chemical burns، أو Burns involving inhalation injury، أو Circumferential burns of the extremities، أو Third-degree burn to the genital organs، أو First-degree burn of 15% of TBSA to the chest of an adult man. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يلي مؤشرات لنقل المريض إلى مركز الحروق باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Chemical burns: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man. الخيار B، Burns involving inhalation injury: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man. الخيار C، Circumferential burns of the extremities: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man. الخيار D، Third-degree burn to the genital organs: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chemical burns, inhalation injury, circumferential extremity burns, and third-degree genital… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو First-degree burn of 15% of TBSA to the chest of an adult man.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Chemical burns: صحيحة، لكنها ليست الاستثناء. الخيار B، Burns involving inhalation injury: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "First-degree 15%: Falls short of transfer crit"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: First-degree burn of 15% of TBSA to the chest of an adult man. حرق الدرجة الأولى بنسبة 15٪ خفيف جدًا فلا يستدعي تحويلاً متخصصًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. حرق الدرجة الأولى بنسبة 15٪ خفيف جدًا فلا يستدعي تحويلاً متخصصًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حرق الدرجة الأولى بنسبة 15٪ خفيف جدًا فلا يستدعي تحويلاً متخصصًا. وتذكّر القاعدة: First-degree 15%: Falls short of transfer criteria. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. حرق الدرجة الأولى بنسبة 15٪ خفيف جدًا فلا يستدعي تحويلاً متخصصًا. وتذكّر: First-degree 15%: Falls short of transfer criteria. والإجابة الصحيحة هي E."
     }
   ]
 }

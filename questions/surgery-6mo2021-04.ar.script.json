@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "High-riding prostate on rectal examination"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Haematuria، أو Scrotal ecchymosis، أو Oliguria، أو High-riding prostate on rectal examination، أو Intravenous pyelography (IVP) showing dye extravasation in the pelvis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Haematuria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High-riding prostate on rectal examination. يصبح صحيحًا في سؤال يصف Hematuria, scrotal ecchymosis, and oliguria can accompany pelvic/urethral trauma but are less specific. الخيار B، Scrotal ecchymosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High-riding prostate on rectal examination. يصبح صحيحًا في سؤال يصف Hematuria, scrotal ecchymosis, and oliguria can accompany pelvic/urethral trauma but are less specific. الخيار C، Oliguria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي High-riding prostate on rectal examination. يصبح صحيحًا في سؤال يصف Hematuria, scrotal ecchymosis, and oliguria can accompany pelvic/urethral trauma but are less specific. الخيار E، Intravenous pyelography (IVP) showing dye extravasation in the pelvis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا urethral injury — a high-riding prostate remains the most specific sign of urethral disruption. يصبح صحيحًا في سؤال يصف IVP showing extravasation within (not outside) the pelvis would suggest bladder.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Haematuria: الإجابة الصحيحة هي High-riding prostate on rectal examination. الخيار B، Scrotal ecchymosis: الإجابة الصحيحة هي High-riding prostate on rectal examination. الخيار C، Oliguria: الإجابة الصحيحة هي High-riding prostate on rectal examination. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"High-riding prostate = Urethral disruption si"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: High-riding prostate on rectal examination. ارتفاع موقع البروستاتا عند الفحص الشرجي هو العلامة الكلاسيكية الأكثر نوعية لانقطاع الإحليل بعد رضح حوضي."
+      "narration": "الخيار D هو الإجابة الصحيحة. ارتفاع موقع البروستاتا عند الفحص الشرجي هو العلامة الكلاسيكية الأكثر نوعية لانقطاع الإحليل بعد رضح حوضي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع موقع البروستاتا عند الفحص الشرجي هو العلامة الكلاسيكية الأكثر نوعية لانقطاع الإحليل بعد رضح حوضي. وتذكّر القاعدة: \"High-riding prostate = Urethral disruption signature\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ارتفاع موقع البروستاتا عند الفحص الشرجي هو العلامة الكلاسيكية الأكثر نوعية لانقطاع الإحليل بعد رضح حوضي. وتذكّر: \"High-riding prostate = Urethral disruption signature\". والإجابة الصحيحة هي D."
     }
   ]
 }

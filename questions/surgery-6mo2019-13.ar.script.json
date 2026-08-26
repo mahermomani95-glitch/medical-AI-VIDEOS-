@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "It is the most common cause of unilateral bloody…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالورم الحليمي داخل القناة الثديية، كل ما يلي خاطئ باستثناء أمامك هذه الخيارات: It is a malignant lesions with an incidence of approximately 2-3%، أو It is the most common cause of unilateral bloody nipple discharge in women age 20-40، أو Mammography is the most definitive test for diagnosis، أو Mastectomy is the treatment of choice، أو it is mostly undetectable on ultrasound. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالورم الحليمي داخل القناة الثديية، كل ما يلي خاطئ باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It is a malignant lesions with an incidence of approximately 2-3%: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 2-3% incidence. يصبح صحيحًا في سؤال يصف It's actually rare (only about 1%). الخيار C، Mammography is the most definitive test for diagnosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40. يصبح صحيحًا في سؤال يصف FNAB, not mammography, is the most definitive diagnostic test. الخيار D، Mastectomy is the treatment of choice: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40. يصبح صحيحًا في سؤال يصف ductal excision (not mastectomy) is the typical treatment. الخيار E، it is mostly undetectable on ultrasound: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It is the most common cause of unilateral bloody nipple discharge in women age 20-40. يصبح صحيحًا في سؤال يصف it CAN often be seen on ultrasound despite small size — these misstate true intraductal papilloma facts.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: المطلوب هنا 2-3% incidence. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Papilloma = classic bloody discharge, ages 20"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: It is the most common cause of unilateral bloody nipple discharge in women age 20-40. الورم الحليمي داخل الأقنية هو السبب الكلاسيكي للإفراز الحلمي الدموي أحادي الجانب عند النساء 20-40 سنة — آفة حميدة وليست خبيثة."
+      "narration": "الخيار B هو الإجابة الصحيحة. الورم الحليمي داخل الأقنية هو السبب الكلاسيكي للإفراز الحلمي الدموي أحادي الجانب عند النساء 20-40 سنة — آفة حميدة وليست خبيثة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الورم الحليمي داخل الأقنية هو السبب الكلاسيكي للإفراز الحلمي الدموي أحادي الجانب عند النساء 20-40 سنة — آفة حميدة وليست خبيثة. وتذكّر القاعدة: \"Papilloma = classic bloody discharge, ages 20-40\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الورم الحليمي داخل الأقنية هو السبب الكلاسيكي للإفراز الحلمي الدموي أحادي الجانب عند النساء 20-40 سنة — آفة حميدة وليست خبيثة. وتذكّر: \"Papilloma = classic bloody discharge, ages 20-40\". والإجابة الصحيحة هي B."
     }
   ]
 }

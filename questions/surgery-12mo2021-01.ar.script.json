@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "7 liters"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: 4.2 liters، أو 1.4 liters، أو 2.8 liters، أو 5.6 liters، أو 7 liters. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار C، 4.2 liters: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 7 liters. يصبح صحيحًا في سؤال يصف 1.4, 2.8, 4.2, and 5.6 liters don't match the correct Parkland calculation of 7 liters for the first 8 hours (half of the 14L 24-hour total for a 70kg patient with 50% TBSA burn). الخيار A، 1.4 liters: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 7 liters. يصبح صحيحًا في سؤال يصف 1.4, 2.8, 4.2, and 5.6 liters don't match the correct Parkland calculation of 7 liters for the first 8 hours (half of the 14L 24-hour total for a 70kg patient with 50% TBSA burn). الخيار B، 2.8 liters: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 7 liters. يصبح صحيحًا في سؤال يصف 1.4, 2.8, 4.2, and 5.6 liters don't match the correct Parkland calculation of 7 liters for the first 8 hours (half of the 14L 24-hour total for a 70kg patient with 50% TBSA burn). الخيار D، 5.6 liters: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 7 liters. يصبح صحيحًا في سؤال يصف 1.4, 2.8, 4.2, and 5.6 liters don't match the correct Parkland calculation of 7 liters for the first 8 hours (half of the 14L 24-hour total for a 70kg patient with 50% TBSA burn).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار C، 4.2 liters: الإجابة الصحيحة هي 7 liters. الخيار A، 1.4 liters: الإجابة الصحيحة هي 7 liters. الخيار B، 2.8 liters: الإجابة الصحيحة هي 7 liters. الخيار D، 5.6 liters: الإجابة الصحيحة هي 7 liters. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "C",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Parkland: 4 x weight x %TBSA, HALF in first 8"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: 7 liters. نصف الكمية الكلية لمعادلة باركلاند خلال 24 ساعة يُعطى في أول 8 ساعات — احسب الكمية الكاملة ثم خذ نصفها."
+      "narration": "الخيار E، 7 liters هو الإجابة الصحيحة. نصف الكمية الكلية لمعادلة باركلاند خلال 24 ساعة يُعطى في أول 8 ساعات — احسب الكمية الكاملة ثم خذ نصفها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نصف الكمية الكلية لمعادلة باركلاند خلال 24 ساعة يُعطى في أول 8 ساعات — احسب الكمية الكاملة ثم خذ نصفها. وتذكّر القاعدة: \"Parkland: 4 x weight x %TBSA, HALF in first 8 hours\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. نصف الكمية الكلية لمعادلة باركلاند خلال 24 ساعة يُعطى في أول 8 ساعات — احسب الكمية الكاملة ثم خذ نصفها. والإجابة الصحيحة هي E."
     }
   ]
 }

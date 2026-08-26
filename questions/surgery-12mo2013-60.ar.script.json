@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Urgent laparotomy to clean the abdomen"
       },
-      "narration": "لنبدأ بهذا السؤال. يتم التعامل مع التهاب البنكرياس الحاد غير المعقد بشكل أفضل باستخدام كلما يلي باستثناء؟ أمامك هذه الخيارات: Intravenous hydration، أو Nasogastric decompression، أو Abdominal imaging with ultrasound and/or CT scan، أو Strong painless killer، أو Urgent laparotomy to clean the abdomen. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتم التعامل مع التهاب البنكرياس الحاد غير المعقد بشكل أفضل باستخدام كلما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intravenous hydration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen. الخيار B، Nasogastric decompression: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen. الخيار C، Abdominal imaging with ultrasound and/or CT scan: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen. الخيار D، Strong painless killer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. IV hydration, NG decompression (B, if needed for vomiting/ileus), imaging with ultrasound/CT… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Urgent laparotomy to clean the abdomen.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Intravenous hydration: صحيحة، لكنها ليست الاستثناء. الخيار B، Nasogastric decompression: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D، Strong painless killer: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Uncomplicated pancreatitis: doesn't need urgen"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Urgent laparotomy to clean the abdomen. بضع البطن الجراحي غير مطلوب بالتهاب البنكرياس غير المختلط، يُدار دعميًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. بضع البطن الجراحي غير مطلوب بالتهاب البنكرياس غير المختلط، يُدار دعميًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بضع البطن الجراحي غير مطلوب بالتهاب البنكرياس غير المختلط، يُدار دعميًا. وتذكّر القاعدة: Uncomplicated pancreatitis: doesn't need urgent Laparotomy. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. بضع البطن الجراحي غير مطلوب بالتهاب البنكرياس غير المختلط، يُدار دعميًا. وتذكّر: Uncomplicated pancreatitis: doesn't need urgent Laparotomy. والإجابة الصحيحة هي E."
     }
   ]
 }

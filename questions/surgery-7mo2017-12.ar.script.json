@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Dullness to percussion over the affected hemithorax"
       },
-      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 41 عامًا إلى عيادتكم يشكو من أعراض تنفسية. تشخيصكم التفريقي هو الانصباب الجنبي مقابل استرواح الصدر. أي منالنتائج الجسدية التالية سيساعدكم على التمييز بين هذين الاحتمالين؟ أمامك هذه الخيارات: Respiratory rate 33 breaths/minute، أو Agitation due to respiration distress، أو Decreased breath sounds over the affected hemithorax، أو Dullness to percussion over the affected hemithorax، أو Cough. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. حضر رجل يبلغ من العمر 41 عامًا إلى عيادتكم يشكو من أعراض تنفسية. تشخيصكم التفريقي هو الانصباب الجنبي مقابل استرواح الصدر. أي منالنتائج الجسدية التالية سيساعدكم على التمييز بين هذين الاحتمالين؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Respiratory rate 33 breaths/minute: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا air-filled pathology. يصبح صحيحًا في سؤال يصف Tachypnea, agitation from respiratory distress, decreased breath sounds, and cough can accompany various respiratory conditions, but dullness to percussion over the affected side specifically points to fluid (pleural effusion). الخيار B، Agitation due to respiration distress: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا air-filled pathology. يصبح صحيحًا في سؤال يصف Tachypnea, agitation from respiratory distress, decreased breath sounds, and cough can accompany various respiratory conditions, but dullness to percussion over the affected side specifically points to fluid (pleural effusion). الخيار C، Decreased breath sounds over the affected hemithorax: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا air-filled pathology. يصبح صحيحًا في سؤال يصف Tachypnea, agitation from respiratory distress, decreased breath sounds, and cough can accompany various respiratory conditions, but dullness to percussion over the affected side specifically points to fluid (pleural effusion). الخيار E، Cough: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا air-filled pathology. يصبح صحيحًا في سؤال يصف Tachypnea, agitation from respiratory distress, decreased breath sounds, and cough can accompany various respiratory conditions, but dullness to percussion over the affected side specifically points to fluid (pleural effusion).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Respiratory rate 33 breaths/minute: المطلوب هنا air-filled pathology. الخيار B: المطلوب هنا air-filled pathology. الخيار C: المطلوب هنا air-filled pathology. الخيار E، Cough: المطلوب هنا air-filled pathology. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pleural effusion: Dull percussion note"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Dullness to percussion over the affected hemithorax. القرع الكتيم فوق نصف الصدر توقيع فحصي كلاسيكي للانصباب الجنبي."
+      "narration": "الخيار D هو الإجابة الصحيحة. القرع الكتيم فوق نصف الصدر توقيع فحصي كلاسيكي للانصباب الجنبي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. القرع الكتيم فوق نصف الصدر توقيع فحصي كلاسيكي للانصباب الجنبي. وتذكّر القاعدة: Pleural effusion: Dull percussion note. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. القرع الكتيم فوق نصف الصدر توقيع فحصي كلاسيكي للانصباب الجنبي. وتذكّر: Pleural effusion: Dull percussion note. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Factor 11",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تحتوي الرواسب المبردة على تركيزات عالية من كل ما يلي باستثناء؟ أمامك هذه الخيارات: Fibrinogen، أو Factor 8، أو VWF، أو Fibronectin، أو Factor 11. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تحتوي الرواسب المبردة على تركيزات عالية من كل ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Fibrinogen: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fibrinogen, Factor VIII, von Willebrand factor, and fibronectin are all found in high… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Factor 11. الخيار B، Factor 8: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fibrinogen, Factor VIII, von Willebrand factor, and fibronectin are all found in high… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Factor 11. الخيار C، VWF: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fibrinogen, Factor VIII, von Willebrand factor, and fibronectin are all found in high… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Factor 11. الخيار D، Fibronectin: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Fibrinogen, Factor VIII, von Willebrand factor, and fibronectin are all found in high… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Factor 11.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Fibrinogen: صحيحة، لكنها ليست الاستثناء. الخيار B، Factor 8: صحيحة، لكنها ليست الاستثناء. الخيار C، VWF: صحيحة، لكنها ليست الاستثناء. الخيار D، Fibronectin: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Cryoprecipitate: doesn't concentrate Factor 11"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Factor 11. العامل 11 ليس من المكونات المركزة الحقيقية بالراسب البردي."
+      "narration": "الخيار E، Factor 11 هو الإجابة الصحيحة. العامل 11 ليس من المكونات المركزة الحقيقية بالراسب البردي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. العامل 11 ليس من المكونات المركزة الحقيقية بالراسب البردي. وتذكّر القاعدة: Cryoprecipitate: doesn't concentrate Factor 11. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. العامل 11 ليس من المكونات المركزة الحقيقية بالراسب البردي. وتذكّر: Cryoprecipitate: doesn't concentrate Factor 11. والإجابة الصحيحة هي E."
     }
   ]
 }

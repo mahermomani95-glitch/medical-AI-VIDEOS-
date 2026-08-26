@@ -45,7 +45,7 @@
         "region": "head",
         "label": "8"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 25 عامًا متورط في حادث سيارة. يفتح عينيه فقط عندالشعور بالألم، ويصدر أصواتًا غير مفهومة، ثم ينسحب عند الشعور بالألم. هذا المريض، الذي حصل على درجة غيبوبة غلاسكو، هو...؟ أمامك هذه الخيارات: 10، أو 8، أو 6، أو 4، أو 3. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل يبلغ من العمر 25 عامًا متورط في حادث سيارة. يفتح عينيه فقط عندالشعور بالألم، ويصدر أصواتًا غير مفهومة، ثم ينسحب عند الشعور بالألم. هذا المريض، الذي حصل على درجة غيبوبة غلاسكو، هو...؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، 10: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8. يصبح صحيحًا في سؤال يصف GCS totals of 10, 6, 4, and 3 don't match the correct calculation summing to 8 (2 for eye opening to pain + 2 for incomprehensible sounds + 4 for withdrawal to pain). الخيار C، 6: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8. يصبح صحيحًا في سؤال يصف GCS totals of 10, 6, 4, and 3 don't match the correct calculation summing to 8 (2 for eye opening to pain + 2 for incomprehensible sounds + 4 for withdrawal to pain). الخيار D، 4: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8. يصبح صحيحًا في سؤال يصف GCS totals of 10, 6, 4, and 3 don't match the correct calculation summing to 8 (2 for eye opening to pain + 2 for incomprehensible sounds + 4 for withdrawal to pain). الخيار E، 3: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي 8. يصبح صحيحًا في سؤال يصف GCS totals of 10, 6, 4, and 3 don't match the correct calculation summing to 8 (2 for eye opening to pain + 2 for incomprehensible sounds + 4 for withdrawal to pain).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، 10: الإجابة الصحيحة هي 8. الخيار C، 6: الإجابة الصحيحة هي 8. الخيار D، 4: الإجابة الصحيحة هي 8. الخيار E، 3: الإجابة الصحيحة هي 8. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "GCS calculation: Sum Eye, Verbal, Motor"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: 8. مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية."
+      "narration": "الخيار B، 8 هو الإجابة الصحيحة. مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية. وتذكّر القاعدة: GCS calculation: Sum Eye, Verbal, Motor. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. مجموع غلاسكو يُحسب بجمع مكونات فتح العين والاستجابة اللفظية والحركية. وتذكّر: GCS calculation: Sum Eye, Verbal, Motor. والإجابة الصحيحة هي B."
     }
   ]
 }

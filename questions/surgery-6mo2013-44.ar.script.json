@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "SCC"
       },
-      "narration": "لنبدأ بهذا السؤال. النوع الأكثر شيوعا من سرطان الشرج هو؟ أمامك هذه الخيارات: Adenocarcinoma، أو Melanoma، أو SCC، أو BCC، أو Cloacogenic carcinoma. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. النوع الأكثر شيوعا من سرطان الشرج هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Adenocarcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي SCC. يصبح صحيحًا في سؤال يصف Adenocarcinoma, melanoma, BCC, and cloacogenic carcinoma can all occur in the anal region but are less common than squamous cell carcinoma, the most common histologic type of anal cancer. الخيار B، Melanoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي SCC. يصبح صحيحًا في سؤال يصف Adenocarcinoma, melanoma, BCC, and cloacogenic carcinoma can all occur in the anal region but are less common than squamous cell carcinoma, the most common histologic type of anal cancer. الخيار D، BCC: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي SCC. يصبح صحيحًا في سؤال يصف Adenocarcinoma, melanoma, BCC, and cloacogenic carcinoma can all occur in the anal region but are less common than squamous cell carcinoma, the most common histologic type of anal cancer. الخيار E، Cloacogenic carcinoma: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي SCC. يصبح صحيحًا في سؤال يصف Adenocarcinoma, melanoma, BCC, and cloacogenic carcinoma can all occur in the anal region but are less common than squamous cell carcinoma, the most common histologic type of anal cancer.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Adenocarcinoma: الإجابة الصحيحة هي SCC. الخيار B، Melanoma: الإجابة الصحيحة هي SCC. الخيار D، BCC: الإجابة الصحيحة هي SCC. الخيار E، Cloacogenic carcinoma: الإجابة الصحيحة هي SCC. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Anal cancer: mostly Squamous cell"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: SCC. السرطانة الحرشفية هي الأشيع بالشرج، يوافق نسيجه الحرشفي."
+      "narration": "الخيار C، SCC هو الإجابة الصحيحة. السرطانة الحرشفية هي الأشيع بالشرج، يوافق نسيجه الحرشفي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة الحرشفية هي الأشيع بالشرج، يوافق نسيجه الحرشفي. وتذكّر القاعدة: Anal cancer: mostly Squamous cell. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. السرطانة الحرشفية هي الأشيع بالشرج، يوافق نسيجه الحرشفي. وتذكّر: Anal cancer: mostly Squamous cell. والإجابة الصحيحة هي C."
     }
   ]
 }

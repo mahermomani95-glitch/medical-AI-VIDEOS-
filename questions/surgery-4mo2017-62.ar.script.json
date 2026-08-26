@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Fat embolism"
       },
-      "narration": "لنبدأ بهذا السؤال. شاب يبلغ من العمر 19 عامًا، تعرض لحادث تصادم، وُجد أنه مصاب بكسرفي عظم الفخذ وإصابة سحق في قدمه. بعد التثبيت، أصيب بضيق فيالتنفس ونقص في الأكسجين. السبب الأكثر احتمالًا هو:؟ أمامك هذه الخيارات: Aspiration، أو Atelectasis، أو Fat embolism، أو Fluid overload، أو Pneumonia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. شاب يبلغ من العمر 19 عامًا، تعرض لحادث تصادم، وُجد أنه مصاب بكسرفي عظم الفخذ وإصابة سحق في قدمه. بعد التثبيت، أصيب بضيق فيالتنفس ونقص في الأكسجين. السبب الأكثر احتمالًا هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Aspiration: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism. يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and petechiae 2-3 days after long bone/crush injury, is the classic diagnosis here. الخيار B، Atelectasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism. يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and petechiae 2-3 days after long bone/crush injury, is the classic diagnosis here. الخيار D، Fluid overload: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism. يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and petechiae 2-3 days after long bone/crush injury, is the classic diagnosis here. الخيار E، Pneumonia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Fat embolism. يصبح صحيحًا في سؤال يصف Aspiration, atelectasis, fluid overload, and pneumonia don't fit this classic triad — fat embolism syndrome, presenting with dyspnea and petechiae 2-3 days after long bone/crush injury, is the classic diagnosis here.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Aspiration: الإجابة الصحيحة هي Fat embolism. الخيار B، Atelectasis: الإجابة الصحيحة هي Fat embolism. الخيار D، Fluid overload: الإجابة الصحيحة هي Fat embolism. الخيار E، Pneumonia: الإجابة الصحيحة هي Fat embolism. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Femur fracture, delayed distress + petechiae: "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Fat embolism. كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني."
+      "narration": "الخيار C، Fat embolism هو الإجابة الصحيحة. كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني. وتذكّر القاعدة: Femur fracture, delayed distress + petechiae: Fat embolism. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. كسر فخذي مع ضائقة تنفسية متأخرة وطفح نمشي يوجه للانصمام الدهني. وتذكّر: Femur fracture, delayed distress + petechiae: Fat embolism. والإجابة الصحيحة هي C."
     }
   ]
 }

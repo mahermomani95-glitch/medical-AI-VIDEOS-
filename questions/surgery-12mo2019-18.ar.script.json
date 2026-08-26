@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Mesenteric ischemia"
       },
-      "narration": "لنبدأ بهذا السؤال. تم تقييم حالة رجل يبلغ من العمر 37 عامًا، مقيم في المستشفى، بسبب ظهورألم حاد في البطن حول السرة مصحوب بغثيان وقيء. وقد تغوط مرتين منذبداية الألم. عند الفحص، بدا المريض في حالة من الضيق الشديد والقلق. درجةحرارته 37.5 درجة مئوية (99.5 فهرنهايت)، وضغط دمه 150/90 ملم زئبق،ونبضه 145/دقيقة، وهو غير منتظم، ومعدل التنفس 18/دقيقة. عند جس البطن،لوحظ ألم خفيف منتشر. لا يوجد تصلب أو ارتداد. أصوات الأمعاء منخفضة. تُظهر الأشعة السينية للبطن عدم وجود هواء حر أو انسداد. أي مما يلي هو التشخيص الأكثر احتمالًا؟ أمامك هذه الخيارات: Acalculous cholecystitis، أو Acute pancreatitis، أو Intraabdominal abscess، أو Mesenteric ischemia، أو Papillary muscle rupture. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تم تقييم حالة رجل يبلغ من العمر 37 عامًا، مقيم في المستشفى، بسبب ظهورألم حاد في البطن حول السرة مصحوب بغثيان وقيء. وقد تغوط مرتين منذبداية الألم. عند الفحص، بدا المريض في حالة من الضيق الشديد والقلق. درجةحرارته 37.5 درجة مئوية (99.5 فهرنهايت)، وضغط دمه 150/90 ملم زئبق،ونبضه 145/دقيقة، وهو غير منتظم، ومعدل التنفس 18/دقيقة. عند جس البطن،لوحظ ألم خفيف منتشر. لا يوجد تصلب أو ارتداد. أصوات الأمعاء منخفضة. تُظهر الأشعة السينية للبطن عدم وجود هواء حر أو انسداد. أي مما يلي هو التشخيص الأكثر احتمالًا؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acalculous cholecystitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mesenteric ischemia. يصبح صحيحًا في سؤال يصف Acalculous cholecystitis, acute pancreatitis, and intra-abdominal abscess can all cause fever and elevated liver enzymes post-diverticulitis, but a liver abscess specifically fits the RUQ pain with fever/chills and elevated enzymes without jaundice. الخيار B، Acute pancreatitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mesenteric ischemia. يصبح صحيحًا في سؤال يصف Acalculous cholecystitis, acute pancreatitis, and intra-abdominal abscess can all cause fever and elevated liver enzymes post-diverticulitis, but a liver abscess specifically fits the RUQ pain with fever/chills and elevated enzymes without jaundice. الخيار C، Intraabdominal abscess: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mesenteric ischemia. يصبح صحيحًا في سؤال يصف Acalculous cholecystitis, acute pancreatitis, and intra-abdominal abscess can all cause fever and elevated liver enzymes post-diverticulitis, but a liver abscess specifically fits the RUQ pain with fever/chills and elevated enzymes without jaundice. الخيار E، Papillary muscle rupture: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Mesenteric ischemia. يصبح صحيحًا في سؤال يصف papillary muscle rupture is a cardiac complication unrelated to this presentation.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acalculous cholecystitis: الإجابة الصحيحة هي Mesenteric ischemia. الخيار B، Acute pancreatitis: الإجابة الصحيحة هي Mesenteric ischemia. الخيار C، Intraabdominal abscess: الإجابة الصحيحة هي Mesenteric ischemia. الخيار E، Papillary muscle rupture: الإجابة الصحيحة هي Mesenteric ischemia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pain out of proportion to exam + AFib = Mesen"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Mesenteric ischemia. ألم لا يتناسب مع موجودات الفحص السريري الخفيفة، مع نبض غير منتظم (رجفان أذيني كمصدر صمّي)، هو العلامة الإنذارية الكلاسيكية لنقص التروية المساريقية."
+      "narration": "الخيار D، Mesenteric ischemia هو الإجابة الصحيحة. ألم لا يتناسب مع موجودات الفحص السريري الخفيفة، مع نبض غير منتظم (رجفان أذيني كمصدر صمّي)، هو العلامة الإنذارية الكلاسيكية لنقص التروية المساريقية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم لا يتناسب مع موجودات الفحص السريري الخفيفة، مع نبض غير منتظم (رجفان أذيني كمصدر صمّي)، هو العلامة الإنذارية الكلاسيكية لنقص التروية المساريقية. وتذكّر القاعدة: \"Pain out of proportion to exam + AFib = Mesenteric ischemia\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. ألم لا يتناسب مع موجودات الفحص السريري الخفيفة، مع نبض غير منتظم (رجفان أذيني كمصدر صمّي)، هو العلامة الإنذارية الكلاسيكية لنقص التروية المساريقية. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Acidosis"
       },
-      "narration": "لنبدأ بهذا السؤال. في حالة انسداد الأمعاء، أي من السمات التالية تشير إلى الاختناق؟ أمامك هذه الخيارات: Intermittent pain، أو Acidosis، أو Alkalosis، أو Heavy watery diarrhea، أو Reducible hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في حالة انسداد الأمعاء، أي من السمات التالية تشير إلى الاختناق؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intermittent pain: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف Intermittent (not continuous) pain is actually reassuring against strangulation. الخيار C، Alkalosis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف alkalosis isn't the typical acid-base finding (acidosis from ischemia is). الخيار D، Heavy watery diarrhea: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف heavy watery diarrhea isn't a sign of bowel obstruction/strangulation. الخيار E، Reducible hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Acidosis. يصبح صحيحًا في سؤال يصف a reducible hernia is reassuring, the opposite of a worrying sign.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Intermittent pain: الإجابة الصحيحة هي Acidosis. الخيار C، Alkalosis: الإجابة الصحيحة هي Acidosis. الخيار D، Heavy watery diarrhea: الإجابة الصحيحة هي Acidosis. الخيار E، Reducible hernia: الإجابة الصحيحة هي Acidosis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Acidosis = dying bowel\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Acidosis. الحماض يشير لموت النسيج المعوي — علامة على تطور الانسداد إلى نقص تروية فعلي."
+      "narration": "الخيار B، Acidosis هو الإجابة الصحيحة. الحماض يشير لموت النسيج المعوي — علامة على تطور الانسداد إلى نقص تروية فعلي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الحماض يشير لموت النسيج المعوي — علامة على تطور الانسداد إلى نقص تروية فعلي. وتذكّر القاعدة: \"Acidosis = dying bowel\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الحماض يشير لموت النسيج المعوي — علامة على تطور الانسداد إلى نقص تروية فعلي. وتذكّر: \"Acidosis = dying bowel\". والإجابة الصحيحة هي B."
     }
   ]
 }

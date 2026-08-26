@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Piles which prolapse but reduce spontaneously are…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن البواسير خاطئة؟ أمامك هذه الخيارات: Haemorrhoids is acquired anal pathology، أو Pain is rare in uncomplicated grade 1 hemorrhoid، أو Piles which prolapse but reduce spontaneously are called grade 3 hemorrhoids، أو Portal pyemia is a rare but known complication of hemorrhoids، أو Profuse hemorrhage and anemia might be seen in hemorrhoids. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن البواسير خاطئة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Haemorrhoids is acquired anal pathology: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemorrhoids being acquired, pain being rare in uncomplicated grade 1, portal pyemia as a rare… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Piles which prolapse but reduce spontaneously are called grade 3 hemorrhoids. الخيار B، Pain is rare in uncomplicated grade 1 hemorrhoid: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemorrhoids being acquired, pain being rare in uncomplicated grade 1, portal pyemia as a rare… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Piles which prolapse but reduce spontaneously are called grade 3 hemorrhoids. الخيار D، Portal pyemia is a rare but known complication of hemorrhoids: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemorrhoids being acquired, pain being rare in uncomplicated grade 1, portal pyemia as a rare… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Piles which prolapse but reduce spontaneously are called grade 3 hemorrhoids. الخيار E، Profuse hemorrhage and anemia might be seen in hemorrhoids: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hemorrhoids being acquired, pain being rare in uncomplicated grade 1, portal pyemia as a rare… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Piles which prolapse but reduce spontaneously are called grade 3 hemorrhoids.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Grade 2 = reduces on its own, Grade 3 = needs"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Piles which prolapse but reduce spontaneously are called grade 3 hemorrhoids. البواسير التي تتدلى لكنها ترتد تلقائيًا دون مساعدة يدوية هي الدرجة الثانية، وليست الثالثة — الدرجة الثالثة تحتاج إرجاعًا يدويًا."
+      "narration": "الخيار C هو الإجابة الصحيحة. البواسير التي تتدلى لكنها ترتد تلقائيًا دون مساعدة يدوية هي الدرجة الثانية، وليست الثالثة — الدرجة الثالثة تحتاج إرجاعًا يدويًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. البواسير التي تتدلى لكنها ترتد تلقائيًا دون مساعدة يدوية هي الدرجة الثانية، وليست الثالثة — الدرجة الثالثة تحتاج إرجاعًا يدويًا. وتذكّر القاعدة: \"Grade 2 = reduces on its own, Grade 3 = needs your finger\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. البواسير التي تتدلى لكنها ترتد تلقائيًا دون مساعدة يدوية هي الدرجة الثانية، وليست الثالثة — الدرجة الثالثة تحتاج إرجاعًا يدويًا. والإجابة الصحيحة هي C."
     }
   ]
 }

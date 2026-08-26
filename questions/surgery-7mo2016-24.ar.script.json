@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Tachycardia"
       },
-      "narration": "لنبدأ بهذا السؤال. تتضمن استجابة الجسم لانخفاض حرارة الجسم الشديد كل ما يلي باستثناء؟ أمامك هذه الخيارات: Decreased platelet function، أو Decreased cardiac output، أو Tachycardia، أو Cardiac arrhythmia، أو Increased risk of wound infection. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تتضمن استجابة الجسم لانخفاض حرارة الجسم الشديد كل ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Decreased platelet function: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار B، Decreased cardiac output: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار D، Cardiac arrhythmia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia. الخيار E، Increased risk of wound infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Decreased platelet function, decreased cardiac output, cardiac arrhythmia, and increased… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Tachycardia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Decreased platelet function: صحيحة، لكنها ليست الاستثناء. الخيار B، Decreased cardiac output: صحيحة، لكنها ليست الاستثناء. الخيار D، Cardiac arrhythmia: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Severe hypothermia: Heart slows, doesn't speed"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Tachycardia. نقص الحرارة الشديد يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة."
+      "narration": "الخيار C، Tachycardia هو الإجابة الصحيحة. نقص الحرارة الشديد يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقص الحرارة الشديد يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة. وتذكّر القاعدة: Severe hypothermia: Heart slows, doesn't speed up. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. نقص الحرارة الشديد يُبطئ القلب، لا يُسرّعه كما بالعبارة الخاطئة. وتذكّر: Severe hypothermia: Heart slows, doesn't speed up. والإجابة الصحيحة هي C."
     }
   ]
 }

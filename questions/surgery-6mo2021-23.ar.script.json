@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Wound infection rate around 5%"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Bleeding or hematoma، أو Thyroid crisis (storm)، أو Wound infection rate around 5%، أو Injury to recurrent laryngeal or superior laryngeal nerves، أو Tracheal collapse for long-standing huge goiter. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Bleeding or hematoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding/hematoma, thyroid storm, recurrent/superior laryngeal nerve injury, and tracheal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Wound infection rate around 5%. الخيار B، Thyroid crisis (storm): عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding/hematoma, thyroid storm, recurrent/superior laryngeal nerve injury, and tracheal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Wound infection rate around 5%. الخيار D، Injury to recurrent laryngeal or superior laryngeal nerves: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding/hematoma, thyroid storm, recurrent/superior laryngeal nerve injury, and tracheal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Wound infection rate around 5%. الخيار E، Tracheal collapse for long-standing huge goiter: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Bleeding/hematoma, thyroid storm, recurrent/superior laryngeal nerve injury, and tracheal… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Wound infection rate around 5%.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Bleeding or hematoma: صحيحة، لكنها ليست الاستثناء. الخيار B، Thyroid crisis (storm): صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Thyroid surgery infection rate = well under 5"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Wound infection rate around 5%. عدوى الجرح بعد استئصال الدرقية نادرة فعليًا (أقل بكثير من 5%) — منطقة الدرقية مجال جراحي نظيف بتروية دموية ممتازة."
+      "narration": "الخيار C هو الإجابة الصحيحة. عدوى الجرح بعد استئصال الدرقية نادرة فعليًا (أقل بكثير من 5%) — منطقة الدرقية مجال جراحي نظيف بتروية دموية ممتازة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عدوى الجرح بعد استئصال الدرقية نادرة فعليًا (أقل بكثير من 5%) — منطقة الدرقية مجال جراحي نظيف بتروية دموية ممتازة. وتذكّر القاعدة: \"Thyroid surgery infection rate = well under 5% (rare)\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. عدوى الجرح بعد استئصال الدرقية نادرة فعليًا (أقل بكثير من 5%) — منطقة الدرقية مجال جراحي نظيف بتروية دموية ممتازة. وتذكّر: \"Thyroid surgery infection rate = well under 5% (rare)\". والإجابة الصحيحة هي C."
     }
   ]
 }

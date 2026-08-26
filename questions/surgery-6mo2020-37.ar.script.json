@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Crypt abscess"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Skip lesions، أو Crypt abscess، أو Stenosis، أو Involvement from mouth to anus، أو Cobblestone appearance. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Skip lesions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess. الخيار C، Stenosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess. الخيار D، Involvement from mouth to anus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess. الخيار E، Cobblestone appearance: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Skip lesions, stenosis, involvement from mouth to anus, and cobblestone appearance are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Crypt abscess.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Skip lesions: صحيحة، لكنها ليست الاستثناء. الخيار C، Stenosis: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Cobblestone appearance: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Crypt abscess = UC's mucosal signature\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Crypt abscess. خراجات الخبايا تتشكل بالمخاطية الملتهبة باستمرار المميزة لالتهاب القولون التقرحي — موجود محدود بالمخاطية، بعكس نمط كرون كامل السماكة."
+      "narration": "الخيار B، Crypt abscess هو الإجابة الصحيحة. خراجات الخبايا تتشكل بالمخاطية الملتهبة باستمرار المميزة لالتهاب القولون التقرحي — موجود محدود بالمخاطية، بعكس نمط كرون كامل السماكة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. خراجات الخبايا تتشكل بالمخاطية الملتهبة باستمرار المميزة لالتهاب القولون التقرحي — موجود محدود بالمخاطية، بعكس نمط كرون كامل السماكة. وتذكّر القاعدة: \"Crypt abscess = UC's mucosal signature\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. خراجات الخبايا تتشكل بالمخاطية الملتهبة باستمرار المميزة لالتهاب القولون التقرحي — موجود محدود بالمخاطية، بعكس نمط كرون كامل السماكة. وتذكّر: \"Crypt abscess = UC's mucosal signature\". والإجابة الصحيحة هي B."
     }
   ]
 }

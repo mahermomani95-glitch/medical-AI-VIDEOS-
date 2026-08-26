@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Initial treatment in patients with severe…"
       },
-      "narration": "لنبدأ بهذا السؤال. يُعد استئصال المرارة بالمنظار الجراحي مناسبًا لجميع الحالات التاليةباستثناء:؟ أمامك هذه الخيارات: Biliary dyskinesia، أو Initial treatment in patients with severe Cholangitis، أو Acute Cholecystitis، أو Symptomatic cholelithiasis، أو Biliary pancreatitis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يُعد استئصال المرارة بالمنظار الجراحي مناسبًا لجميع الحالات التاليةباستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Biliary dyskinesia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis. الخيار C، Acute Cholecystitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis. الخيار D، Symptomatic cholelithiasis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis. الخيار E، Biliary pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Biliary dyskinesia, acute cholecystitis, symptomatic cholelithiasis, and biliary pancreatitis… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Initial treatment in patients with severe Cholangitis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Biliary dyskinesia: صحيحة، لكنها ليست الاستثناء. الخيار C، Acute Cholecystitis: صحيحة، لكنها ليست الاستثناء. الخيار D، Symptomatic cholelithiasis: صحيحة، لكنها ليست الاستثناء. الخيار E، Biliary pancreatitis: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Severe cholangitis: Calls for drainage before "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Initial treatment in patients with severe Cholangitis. التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا."
+      "narration": "الخيار B هو الإجابة الصحيحة. التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا. وتذكّر القاعدة: Severe cholangitis: Calls for drainage before Cholecystectomy. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. التهاب الصفراء الشديد يحتاج تصريفًا عاجلاً أولاً، لا استئصالاً منظاريًا فوريًا. وتذكّر: Severe cholangitis: Calls for drainage before Cholecystectomy. والإجابة الصحيحة هي B."
     }
   ]
 }

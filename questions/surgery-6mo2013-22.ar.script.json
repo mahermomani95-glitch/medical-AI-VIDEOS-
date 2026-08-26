@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Long-term use of aspirin"
       },
-      "narration": "لنبدأ بهذا السؤال. كلها عوامل خطر للإصابة بسرطان القولون والمستقيم باستثناء؟ أمامك هذه الخيارات: Ulcerative colitis، أو Long-term use of aspirin، أو Crohn disease، أو FAP، أو Gardner syndrome. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كلها عوامل خطر للإصابة بسرطان القولون والمستقيم باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ulcerative colitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin. الخيار C، Crohn disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin. الخيار D، FAP: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin. الخيار E، Gardner syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Ulcerative colitis, Crohn's disease, FAP, and Gardner syndrome are all well-established… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Long-term use of aspirin.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Ulcerative colitis: صحيحة، لكنها ليست الاستثناء. الخيار C، Crohn disease: صحيحة، لكنها ليست الاستثناء. الخيار D، FAP: صحيحة، لكنها ليست الاستثناء. الخيار E، Gardner syndrome: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Long-term aspirin: Actually protects against c"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Long-term use of aspirin. الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر."
+      "narration": "الخيار B، Long-term use of aspirin هو الإجابة الصحيحة. الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر. وتذكّر القاعدة: Long-term aspirin: Actually protects against colorectal cancer. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الأسبرين المطول الاستخدام عامل وقائي ضد سرطان القولون، لا خطر. وتذكّر: Long-term aspirin: Actually protects against colorectal cancer. والإجابة الصحيحة هي B."
     }
   ]
 }

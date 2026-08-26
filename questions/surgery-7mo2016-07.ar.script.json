@@ -45,7 +45,7 @@
         "label": "Calcium channel blockers (CCB) exacerbate this condition",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بالخلل الارتخائي باستثناء؟ أمامك هذه الخيارات: It can be congenital or acquired، أو In young patients, myotomy is the best treatment، أو Calcium channel blockers (CCB) exacerbate this condition، أو Caused by neurogenic degeneration، أو Dysphagia, regurgitation, weight loss. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل شيء صحيح فيما يتعلق بالخلل الارتخائي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It can be congenital or acquired: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being congenital or acquired, myotomy for young patients, neurogenic degeneration as the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcium channel blockers (CCB) exacerbate this condition. الخيار B، In young patients, myotomy is the best treatment: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being congenital or acquired, myotomy for young patients, neurogenic degeneration as the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcium channel blockers (CCB) exacerbate this condition. الخيار D، Caused by neurogenic degeneration: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being congenital or acquired, myotomy for young patients, neurogenic degeneration as the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcium channel blockers (CCB) exacerbate this condition. الخيار E، Dysphagia, regurgitation, weight loss: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being congenital or acquired, myotomy for young patients, neurogenic degeneration as the… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Calcium channel blockers (CCB) exacerbate this condition.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D، Caused by neurogenic degeneration: صحيحة، لكنها ليست الاستثناء. الخيار E، Dysphagia, regurgitation, weight loss: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "CCBs: Calm the LES in achalasia, don't worsen "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Calcium channel blockers (CCB) exacerbate this condition. حاصرات الكالسيوم تُحسّن الأكالازيا بإرخاء العضلة العاصرة، لا تُفاقمها."
+      "narration": "الخيار C هو الإجابة الصحيحة. حاصرات الكالسيوم تُحسّن الأكالازيا بإرخاء العضلة العاصرة، لا تُفاقمها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حاصرات الكالسيوم تُحسّن الأكالازيا بإرخاء العضلة العاصرة، لا تُفاقمها. وتذكّر القاعدة: CCBs: Calm the LES in achalasia, don't worsen it. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. حاصرات الكالسيوم تُحسّن الأكالازيا بإرخاء العضلة العاصرة، لا تُفاقمها. وتذكّر: CCBs: Calm the LES in achalasia, don't worsen it. والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Papillary cancer"
       },
-      "narration": "لنبدأ بهذا السؤال. أي مما يلي يمكن تشخيصه بحساسية وخصوصية 100% باستخدام شفطالإبرة الدقيقة ؟ أمامك هذه الخيارات: Medullary cancer، أو Colloid nodule، أو Anaplastic cancer، أو Follicular cancer، أو Papillary cancer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي مما يلي يمكن تشخيصه بحساسية وخصوصية 100% باستخدام شفطالإبرة الدقيقة ؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Medullary cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary cancer. يصبح صحيحًا في سؤال يصف Medullary cancer, colloid/benign nodules, anaplastic cancer, and follicular cancer (D, notoriously difficult to distinguish from adenoma on FNA alone since it requires assessing capsular/vascular invasion) don't achieve the same near-100% sensitivity/specificity that papillary cancer does, given its distinctive cytologic features (psammoma bodies, nuclear grooves). الخيار B، Colloid nodule: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary cancer. يصبح صحيحًا في سؤال يصف Medullary cancer, colloid/benign nodules, anaplastic cancer, and follicular cancer (D, notoriously difficult to distinguish from adenoma on FNA alone since it requires assessing capsular/vascular invasion) don't achieve the same near-100% sensitivity/specificity that papillary cancer does, given its distinctive cytologic features (psammoma bodies, nuclear grooves). الخيار C، Anaplastic cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary cancer. يصبح صحيحًا في سؤال يصف Medullary cancer, colloid/benign nodules, anaplastic cancer, and follicular cancer (D, notoriously difficult to distinguish from adenoma on FNA alone since it requires assessing capsular/vascular invasion) don't achieve the same near-100% sensitivity/specificity that papillary cancer does, given its distinctive cytologic features (psammoma bodies, nuclear grooves). الخيار D، Follicular cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Papillary cancer. يصبح صحيحًا في سؤال يصف Medullary cancer, colloid/benign nodules, anaplastic cancer, and follicular cancer (D, notoriously difficult to distinguish from adenoma on FNA alone since it requires assessing capsular/vascular invasion) don't achieve the same near-100% sensitivity/specificity that papillary cancer does, given its distinctive cytologic features (psammoma bodies, nuclear grooves).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Medullary cancer: الإجابة الصحيحة هي Papillary cancer. الخيار B، Colloid nodule: الإجابة الصحيحة هي Papillary cancer. الخيار C، Anaplastic cancer: الإجابة الصحيحة هي Papillary cancer. الخيار D، Follicular cancer: الإجابة الصحيحة هي Papillary cancer. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Papillary cancer: Perfectly diagnosed by FNA"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Papillary cancer. السرطانة الحليمية تُشخّص بدقة شبه تامة بالخزعة الإبرية وحدها لسماتها النووية المميزة."
+      "narration": "الخيار E، Papillary cancer هو الإجابة الصحيحة. السرطانة الحليمية تُشخّص بدقة شبه تامة بالخزعة الإبرية وحدها لسماتها النووية المميزة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. السرطانة الحليمية تُشخّص بدقة شبه تامة بالخزعة الإبرية وحدها لسماتها النووية المميزة. وتذكّر القاعدة: Papillary cancer: Perfectly diagnosed by FNA. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. السرطانة الحليمية تُشخّص بدقة شبه تامة بالخزعة الإبرية وحدها لسماتها النووية المميزة. وتذكّر: Papillary cancer: Perfectly diagnosed by FNA. والإجابة الصحيحة هي E."
     }
   ]
 }

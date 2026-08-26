@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "infection and ​DIC"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتهاب البنكرياس الحاد، فإن السبب الأكثر شيوعًا للوفاة المتأخرةهو أحد الأسباب التالية أمامك هذه الخيارات: Acute respiratory distress syndrome(ARDS)، أو Biliary Sepsis، أو Bleeding، أو infection and ​DIC، أو Psudocyst. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتهاب البنكرياس الحاد، فإن السبب الأكثر شيوعًا للوفاة المتأخرةهو أحد الأسباب التالية أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Acute respiratory distress syndrome(ARDS): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي infection and ​DIC. يصبح صحيحًا في سؤال يصف ARDS and biliary sepsis are recognized complications but contribute more to early mortality or are less directly tied to the 'late death' timeframe. الخيار B، Biliary Sepsis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي infection and ​DIC. يصبح صحيحًا في سؤال يصف ARDS and biliary sepsis are recognized complications but contribute more to early mortality or are less directly tied to the 'late death' timeframe. الخيار C، Bleeding: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي infection and ​DIC. يصبح صحيحًا في سؤال يصف bleeding is a less common late complication than infection. الخيار E، Psudocyst: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically a cause of death. يصبح صحيحًا في سؤال يصف pseudocyst is a structural complication.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Acute respiratory distress syndrome(ARDS): الإجابة الصحيحة هي infection and ​DIC. الخيار B، Biliary Sepsis: الإجابة الصحيحة هي infection and ​DIC. الخيار C، Bleeding: الإجابة الصحيحة هي infection and ​DIC. الخيار E، Psudocyst: المطلوب هنا typically a cause of death. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Early pancreatitis death = ARDS/shock, Late d"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: infection and ​DIC. نخر البنكرياس المصاب بالعدوى مع تخثر منتثر داخل الأوعية هو القاتل المتأخر المهيمن، بعد أن يتحول الالتهاب المعقم الأولي لعدوى ثانوية."
+      "narration": "الخيار D، infection and ​DIC هو الإجابة الصحيحة. نخر البنكرياس المصاب بالعدوى مع تخثر منتثر داخل الأوعية هو القاتل المتأخر المهيمن، بعد أن يتحول الالتهاب المعقم الأولي لعدوى ثانوية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نخر البنكرياس المصاب بالعدوى مع تخثر منتثر داخل الأوعية هو القاتل المتأخر المهيمن، بعد أن يتحول الالتهاب المعقم الأولي لعدوى ثانوية. وتذكّر القاعدة: \"Early pancreatitis death = ARDS/shock, Late death = Infection\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. نخر البنكرياس المصاب بالعدوى مع تخثر منتثر داخل الأوعية هو القاتل المتأخر المهيمن، بعد أن يتحول الالتهاب المعقم الأولي لعدوى ثانوية. وتذكّر: \"Early pancreatitis death = ARDS/shock, Late death = Infection\". والإجابة الصحيحة هي D."
     }
   ]
 }

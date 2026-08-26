@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Enterocutaneous fistula"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Erysipelas، أو Necrotizing fasciitis، أو Enterocutaneous fistula، أو Intestinal obstruction، أو Abdominal Abscess. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Erysipelas: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Enterocutaneous fistula. يصبح صحيحًا في سؤال يصف Erysipelas is a more superficial skin infection than what's described here. الخيار B، Necrotizing fasciitis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match a chronic post-surgical fistula picture. يصبح صحيحًا في سؤال يصف necrotizing fasciitis is a life-threatening deep infection but. الخيار D، Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا explain active drainage of enteric content through skin. يصبح صحيحًا في سؤال يصف intestinal obstruction. الخيار E، Abdominal Abscess: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا an open draining tract — enterocutaneous fistula fits best. يصبح صحيحًا في سؤال يصف abdominal abscess would show a contained collection.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Erysipelas: الإجابة الصحيحة هي Enterocutaneous fistula. الخيار B، Necrotizing fasciitis: المطلوب هنا match a chronic post-surgical fistula picture. الخيار D، Intestinal obstruction: لا ينطبق على هذه الحالة. الخيار E، Abdominal Abscess: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Draining enteric contents through skin = Ente"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Enterocutaneous fistula. فتحة جلدية تُصرّف محتوى معويًا فعليًا بعد جراحة بطنية حديثة عند مريض كرون هي ناسور معوي جلدي — اتصال غير طبيعي بين الأمعاء والجلد."
+      "narration": "الخيار C، Enterocutaneous fistula هو الإجابة الصحيحة. فتحة جلدية تُصرّف محتوى معويًا فعليًا بعد جراحة بطنية حديثة عند مريض كرون هي ناسور معوي جلدي — اتصال غير طبيعي بين الأمعاء والجلد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. فتحة جلدية تُصرّف محتوى معويًا فعليًا بعد جراحة بطنية حديثة عند مريض كرون هي ناسور معوي جلدي — اتصال غير طبيعي بين الأمعاء والجلد. وتذكّر القاعدة: \"Draining enteric contents through skin = Enterocutaneous fistula\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. فتحة جلدية تُصرّف محتوى معويًا فعليًا بعد جراحة بطنية حديثة عند مريض كرون هي ناسور معوي جلدي — اتصال غير طبيعي بين الأمعاء والجلد. وتذكّر: \"Draining enteric contents through skin = Enterocutaneous fistula\". والإجابة الصحيحة هي C."
     }
   ]
 }

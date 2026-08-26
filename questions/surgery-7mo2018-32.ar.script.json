@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Culture is essential for diagnosis"
       },
-      "narration": "لنبدأ بهذا السؤال. الكزاز، كلها صحيحة ما عدا أمامك هذه الخيارات: Tetanus is a serious toxin-mediated disease، أو Tetanus is with a mortality of up to 50% in adults، أو Gram-positive anaerobic organism، أو Culture is essential for diagnosis، أو Causes diffuse muscle rigidity. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الكزاز، كلها صحيحة ما عدا أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tetanus is a serious toxin-mediated disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis. الخيار B، Tetanus is with a mortality of up to 50% in adults: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Up to 50% mortality in untreated adults, being a gram-positive anaerobic organism, and causing… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis. الخيار C، Gram-positive anaerobic organism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis. الخيار E، Causes diffuse muscle rigidity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being a serious toxin-mediated disease with up to 50% mortality in untreated adults, caused by… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Culture is essential for diagnosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C، Gram-positive anaerobic organism: صحيحة، لكنها ليست الاستثناء. الخيار E، Causes diffuse muscle rigidity: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Tetanus = Clinical diagnosis, not culture\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Culture is essential for diagnosis. الكزاز تشخيص سريري بحت — الزرع غير موثوق وغير ضروري للتشخيص."
+      "narration": "الخيار D هو الإجابة الصحيحة. الكزاز تشخيص سريري بحت — الزرع غير موثوق وغير ضروري للتشخيص."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الكزاز تشخيص سريري بحت — الزرع غير موثوق وغير ضروري للتشخيص. وتذكّر القاعدة: \"Tetanus = Clinical diagnosis, not culture\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الكزاز تشخيص سريري بحت — الزرع غير موثوق وغير ضروري للتشخيص. وتذكّر: \"Tetanus = Clinical diagnosis, not culture\". والإجابة الصحيحة هي D."
     }
   ]
 }

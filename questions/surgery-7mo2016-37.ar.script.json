@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Nifedipine"
       },
-      "narration": "لنبدأ بهذا السؤال. لاحظت امرأة تبلغ من العمر 32 عامًا أن يديها أصبحتا باردتين ومؤلمتين عندتعرضهما لدرجات حرارة منخفضة. تغير لونهما (شاحب، أزرق، أحمر)، ونبضالأوعية الدموية طبيعي، وهذه هي الخطوة التالية للعلاج.؟ أمامك هذه الخيارات: Upper limbs sympathectomy، أو Prostaglandins، أو Fluoxetine، أو Arteriography، أو Nifedipine. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. لاحظت امرأة تبلغ من العمر 32 عامًا أن يديها أصبحتا باردتين ومؤلمتين عندتعرضهما لدرجات حرارة منخفضة. تغير لونهما (شاحب، أزرق، أحمر)، ونبضالأوعية الدموية طبيعي، وهذه هي الخطوة التالية للعلاج.؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Upper limbs sympathectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Nifedipine. يصبح صحيحًا في سؤال يصف Sympathectomy, prostaglandins, fluoxetine, and arteriography (D, a diagnostic not treatment) are more invasive or less standard than first-line therapy — nifedipine (a calcium channel blocker causing vasodilation) is the standard first-line treatment for Raynaud's phenomenon. الخيار B، Prostaglandins: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Nifedipine. يصبح صحيحًا في سؤال يصف Sympathectomy, prostaglandins, fluoxetine, and arteriography (D, a diagnostic not treatment) are more invasive or less standard than first-line therapy — nifedipine (a calcium channel blocker causing vasodilation) is the standard first-line treatment for Raynaud's phenomenon. الخيار C، Fluoxetine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Nifedipine. يصبح صحيحًا في سؤال يصف Sympathectomy, prostaglandins, fluoxetine, and arteriography (D, a diagnostic not treatment) are more invasive or less standard than first-line therapy — nifedipine (a calcium channel blocker causing vasodilation) is the standard first-line treatment for Raynaud's phenomenon. الخيار D، Arteriography: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Nifedipine. يصبح صحيحًا في سؤال يصف Sympathectomy, prostaglandins, fluoxetine, and arteriography (D, a diagnostic not treatment) are more invasive or less standard than first-line therapy — nifedipine (a calcium channel blocker causing vasodilation) is the standard first-line treatment for Raynaud's phenomenon.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Upper limbs sympathectomy: الإجابة الصحيحة هي Nifedipine. الخيار B، Prostaglandins: الإجابة الصحيحة هي Nifedipine. الخيار C، Fluoxetine: الإجابة الصحيحة هي Nifedipine. الخيار D، Arteriography: الإجابة الصحيحة هي Nifedipine. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Raynaud's: treated with Nifedipine"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Nifedipine. نيفيديبين يُرخي التشنج الوعائي المسبب لظاهرة رينود."
+      "narration": "الخيار E، Nifedipine هو الإجابة الصحيحة. نيفيديبين يُرخي التشنج الوعائي المسبب لظاهرة رينود."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نيفيديبين يُرخي التشنج الوعائي المسبب لظاهرة رينود. وتذكّر القاعدة: Raynaud's: treated with Nifedipine. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. نيفيديبين يُرخي التشنج الوعائي المسبب لظاهرة رينود. وتذكّر: Raynaud's: treated with Nifedipine. والإجابة الصحيحة هي E."
     }
   ]
 }

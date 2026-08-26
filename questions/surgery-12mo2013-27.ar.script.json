@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Upper abdominal ultrasound examination"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو أدوات تشخيصية لعسر البلع باستثناء؟ أمامك هذه الخيارات: Upper Gl endoscopy، أو Barium swallow examination، أو Upper abdominal ultrasound examination، أو CT examination of the chest، أو Esophageal manometry. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو أدوات تشخيصية لعسر البلع باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Upper Gl endoscopy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination. الخيار B، Barium swallow examination: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination. الخيار D، CT examination of the chest: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination. الخيار E، Esophageal manometry: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Upper GI endoscopy, barium swallow, CT of the chest, and esophageal manometry are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Upper abdominal ultrasound examination.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Upper Gl endoscopy: صحيحة، لكنها ليست الاستثناء. الخيار B، Barium swallow examination: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E، Esophageal manometry: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Dysphagia workup: Ultrasound of abdomen Unhelp"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Upper abdominal ultrasound examination. الموجات فوق الصوتية للبطن لا تصل للمريء أو تقيّم آلية البلع."
+      "narration": "الخيار C، Upper abdominal ultrasound examination هو الإجابة الصحيحة. الموجات فوق الصوتية للبطن لا تصل للمريء أو تقيّم آلية البلع."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية للبطن لا تصل للمريء أو تقيّم آلية البلع. وتذكّر القاعدة: Dysphagia workup: Ultrasound of abdomen Unhelpful. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الموجات فوق الصوتية للبطن لا تصل للمريء أو تقيّم آلية البلع. وتذكّر: Dysphagia workup: Ultrasound of abdomen Unhelpful. والإجابة الصحيحة هي C."
     }
   ]
 }

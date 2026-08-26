@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "CEA"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض شُخّص بسرطان الأعور، أي مما يلي هو الأنسب لاستخدامه في المتابعة؟ أمامك هذه الخيارات: CEA، أو CA19-9، أو CA125، أو BRAC1، أو BRAC2. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض شُخّص بسرطان الأعور، أي مما يلي هو الأنسب لاستخدامه في المتابعة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، CA19-9: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surveillance tools. يصبح صحيحًا في سؤال يصف CA19-9 is used for pancreatic cancer, CA125 for ovarian cancer, and BRCA1/2 are genetic risk markers. الخيار C، CA125: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surveillance tools. يصبح صحيحًا في سؤال يصف CA19-9 is used for pancreatic cancer, CA125 for ovarian cancer, and BRCA1/2 are genetic risk markers. الخيار D، BRAC1: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surveillance tools. يصبح صحيحًا في سؤال يصف CA19-9 is used for pancreatic cancer, CA125 for ovarian cancer, and BRCA1/2 are genetic risk markers. الخيار E، BRAC2: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا surveillance tools. يصبح صحيحًا في سؤال يصف CA19-9 is used for pancreatic cancer, CA125 for ovarian cancer, and BRCA1/2 are genetic risk markers.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، CA19-9: المطلوب هنا surveillance tools. الخيار C، CA125: المطلوب هنا surveillance tools. الخيار D، BRAC1: المطلوب هنا surveillance tools. الخيار E، BRAC2: المطلوب هنا surveillance tools. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Colorectal cancer follow-up = CEA\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: CEA. CEA هو الواسم الورمي القياسي المستخدم لمتابعة سرطان القولون والمستقيم بعد العلاج."
+      "narration": "الخيار A، CEA هو الإجابة الصحيحة. CEA هو الواسم الورمي القياسي المستخدم لمتابعة سرطان القولون والمستقيم بعد العلاج."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. CEA هو الواسم الورمي القياسي المستخدم لمتابعة سرطان القولون والمستقيم بعد العلاج. وتذكّر القاعدة: \"Colorectal cancer follow-up = CEA\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. CEA هو الواسم الورمي القياسي المستخدم لمتابعة سرطان القولون والمستقيم بعد العلاج. وتذكّر: \"Colorectal cancer follow-up = CEA\". والإجابة الصحيحة هي A."
     }
   ]
 }

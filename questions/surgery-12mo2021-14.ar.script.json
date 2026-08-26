@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Thyroid surgery"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع العمليات التالية تحتاج مضادًا حيويًا وقائيًا ما عدا؟ أمامك هذه الخيارات: Herniotomy، أو Appendectomy for a suppurative appendix، أو Drainage for a perianal abscess، أو Surgery for a perforated peptic ulcer، أو Thyroid surgery. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع العمليات التالية تحتاج مضادًا حيويًا وقائيًا ما عدا؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Herniotomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Herniotomy is typically a clean pediatric procedure يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery. الخيار B، Appendectomy for a suppurative appendix: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery. الخيار C، Drainage for a perianal abscess: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery. الخيار D، Surgery for a perforated peptic ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. appendectomy for a suppurative (already infected) appendix, perianal abscess drainage, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Thyroid surgery.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Herniotomy: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Simple thyroid surgery = clean, no routine an"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Thyroid surgery. جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة."
+      "narration": "الخيار E، Thyroid surgery هو الإجابة الصحيحة. جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة. وتذكّر القاعدة: \"Simple thyroid surgery = clean, no routine antibiotic prophylaxis needed\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. جراحة الدرقية البسيطة نظيفة ولا تفتح أي جهاز ملوث أو مخاطي — لا تتطلب مضادات وقائية روتينية كالجراحات الملوثة. وتذكّر: \"Simple thyroid surgery = clean, no routine antibiotic prophylaxis needed\". والإجابة الصحيحة هي E."
     }
   ]
 }

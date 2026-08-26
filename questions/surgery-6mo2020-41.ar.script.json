@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Crohn's disease"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Diverticulitis، أو Ulcerative colitis، أو Crohn's disease، أو Merkel's diverticulum، أو Intussusception. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Diverticulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crohn's disease. يصبح صحيحًا في سؤال يصف Diverticulitis, ulcerative colitis, Meckel's diverticulum, and intussusception are all possible incidental findings during appendectomy, but Crohn's disease specifically matches the fibrous, erythematous terminal ileum with a normal appendix. الخيار B، Ulcerative colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crohn's disease. يصبح صحيحًا في سؤال يصف Diverticulitis, ulcerative colitis, Meckel's diverticulum, and intussusception are all possible incidental findings during appendectomy, but Crohn's disease specifically matches the fibrous, erythematous terminal ileum with a normal appendix. الخيار D، Merkel's diverticulum: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crohn's disease. يصبح صحيحًا في سؤال يصف Diverticulitis, ulcerative colitis, Meckel's diverticulum, and intussusception are all possible incidental findings during appendectomy, but Crohn's disease specifically matches the fibrous, erythematous terminal ileum with a normal appendix. الخيار E، Intussusception: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crohn's disease. يصبح صحيحًا في سؤال يصف Diverticulitis, ulcerative colitis, Meckel's diverticulum, and intussusception are all possible incidental findings during appendectomy, but Crohn's disease specifically matches the fibrous, erythematous terminal ileum with a normal appendix.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Diverticulitis: الإجابة الصحيحة هي Crohn's disease. الخيار B، Ulcerative colitis: الإجابة الصحيحة هي Crohn's disease. الخيار D، Merkel's diverticulum: الإجابة الصحيحة هي Crohn's disease. الخيار E، Intussusception: الإجابة الصحيحة هي Crohn's disease. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Normal appendix + inflamed terminal ileum = C"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Crohn's disease. زائدة طبيعية مع لفائفي نهائي ملتهب وملتصق بأشرطة ليفية يُكتشف صدفة أثناء الجراحة هو الاكتشاف الكلاسيكي الجراحي لداء كرون."
+      "narration": "الخيار C، Crohn's disease هو الإجابة الصحيحة. زائدة طبيعية مع لفائفي نهائي ملتهب وملتصق بأشرطة ليفية يُكتشف صدفة أثناء الجراحة هو الاكتشاف الكلاسيكي الجراحي لداء كرون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. زائدة طبيعية مع لفائفي نهائي ملتهب وملتصق بأشرطة ليفية يُكتشف صدفة أثناء الجراحة هو الاكتشاف الكلاسيكي الجراحي لداء كرون. وتذكّر القاعدة: \"Normal appendix + inflamed terminal ileum = Crohn's found at surgery\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. زائدة طبيعية مع لفائفي نهائي ملتهب وملتصق بأشرطة ليفية يُكتشف صدفة أثناء الجراحة هو الاكتشاف الكلاسيكي الجراحي لداء كرون. والإجابة الصحيحة هي C."
     }
   ]
 }

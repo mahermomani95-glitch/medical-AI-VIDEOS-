@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Blood supply of the hand"
       },
-      "narration": "لنبدأ بهذا السؤال. يستخدم اختبار ألين لفحص؟ أمامك هذه الخيارات: Suppurative tenosynovitis، أو Thoracic outlet syndrome، أو Dislocated hip، أو Nerve supply of the upper limb، أو Blood supply of the hand. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يستخدم اختبار ألين لفحص؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Suppurative tenosynovitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood supply of the hand. يصبح صحيحًا في سؤال يصف Tenosynovitis, thoracic outlet syndrome, hip dislocation, and nerve supply are unrelated to the Allen test, which specifically assesses the blood supply (patency of radial and ulnar arteries) to the hand. الخيار B، Thoracic outlet syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood supply of the hand. يصبح صحيحًا في سؤال يصف Tenosynovitis, thoracic outlet syndrome, hip dislocation, and nerve supply are unrelated to the Allen test, which specifically assesses the blood supply (patency of radial and ulnar arteries) to the hand. الخيار C، Dislocated hip: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood supply of the hand. يصبح صحيحًا في سؤال يصف Tenosynovitis, thoracic outlet syndrome, hip dislocation, and nerve supply are unrelated to the Allen test, which specifically assesses the blood supply (patency of radial and ulnar arteries) to the hand. الخيار D، Nerve supply of the upper limb: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Blood supply of the hand. يصبح صحيحًا في سؤال يصف Tenosynovitis, thoracic outlet syndrome, hip dislocation, and nerve supply are unrelated to the Allen test, which specifically assesses the blood supply (patency of radial and ulnar arteries) to the hand.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Suppurative tenosynovitis: الإجابة الصحيحة هي Blood supply of the hand. الخيار B، Thoracic outlet syndrome: الإجابة الصحيحة هي Blood supply of the hand. الخيار C، Dislocated hip: الإجابة الصحيحة هي Blood supply of the hand. الخيار D: الإجابة الصحيحة هي Blood supply of the hand. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Allen test: Assesses hand blood supply"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Blood supply of the hand. اختبار ألين يفحص التروية الدموية الجانبية لليد قبل إجراءات الشريان الكعبري."
+      "narration": "الخيار E هو الإجابة الصحيحة. اختبار ألين يفحص التروية الدموية الجانبية لليد قبل إجراءات الشريان الكعبري."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اختبار ألين يفحص التروية الدموية الجانبية لليد قبل إجراءات الشريان الكعبري. وتذكّر القاعدة: Allen test: Assesses hand blood supply. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. اختبار ألين يفحص التروية الدموية الجانبية لليد قبل إجراءات الشريان الكعبري. وتذكّر: Allen test: Assesses hand blood supply. والإجابة الصحيحة هي E."
     }
   ]
 }

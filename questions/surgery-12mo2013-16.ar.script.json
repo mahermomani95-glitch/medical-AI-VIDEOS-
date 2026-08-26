@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Sleeping"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي يزيد الضغط داخل الجمجمة ما عدا؟ أمامك هذه الخيارات: Pain، أو Fever، أو Cough، أو Constipation، أو Sleeping. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي يزيد الضغط داخل الجمجمة ما عدا؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping. الخيار B، Fever: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping. الخيار C، Cough: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping. الخيار D، Constipation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Pain, fever, cough, and constipation (D, via straining) can all raise intracranial pressure… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Sleeping.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Pain: صحيحة، لكنها ليست الاستثناء. الخيار B، Fever: صحيحة، لكنها ليست الاستثناء. الخيار C، Cough: صحيحة، لكنها ليست الاستثناء. الخيار D، Constipation: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Sleeping: Stays neutral for ICP"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Sleeping. النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف."
+      "narration": "الخيار E، Sleeping هو الإجابة الصحيحة. النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف. وتذكّر القاعدة: Sleeping: Stays neutral for ICP. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. النوم حالة طبيعية هادئة لا ترفع الضغط داخل القحف. وتذكّر: Sleeping: Stays neutral for ICP. والإجابة الصحيحة هي E."
     }
   ]
 }

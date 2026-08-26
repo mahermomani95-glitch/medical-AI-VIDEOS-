@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hypovolemic shock"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Hyperglycaemia، أو Hypercalcemia، أو Hypovolemic shock، أو Acute respiratory distress syndrome (ARDS)، أو Kidney failure. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Hyperglycaemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypovolemic shock. يصبح صحيحًا في سؤال يصف Hyperglycemia, hypercalcemia, ARDS, and kidney failure can all occur with severe illness, but hypovolemic shock specifically is the EARLIEST complication of acute pancreatitis due to massive fluid sequestration. الخيار B، Hypercalcemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypovolemic shock. يصبح صحيحًا في سؤال يصف Hyperglycemia, hypercalcemia, ARDS, and kidney failure can all occur with severe illness, but hypovolemic shock specifically is the EARLIEST complication of acute pancreatitis due to massive fluid sequestration. الخيار D، Acute respiratory distress syndrome (ARDS): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypovolemic shock. يصبح صحيحًا في سؤال يصف Hyperglycemia, hypercalcemia, ARDS, and kidney failure can all occur with severe illness, but hypovolemic shock specifically is the EARLIEST complication of acute pancreatitis due to massive fluid sequestration. الخيار E، Kidney failure: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hypovolemic shock. يصبح صحيحًا في سؤال يصف Hyperglycemia, hypercalcemia, ARDS, and kidney failure can all occur with severe illness, but hypovolemic shock specifically is the EARLIEST complication of acute pancreatitis due to massive fluid sequestration.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Hyperglycaemia: الإجابة الصحيحة هي Hypovolemic shock. الخيار B، Hypercalcemia: الإجابة الصحيحة هي Hypovolemic shock. الخيار D: الإجابة الصحيحة هي Hypovolemic shock. الخيار E، Kidney failure: الإجابة الصحيحة هي Hypovolemic shock. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Pancreatitis: fluid shift first = Hypovolemic"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hypovolemic shock. تسرب هائل للسوائل للحيز الثالث خلف الصفاق يحدث مبكرًا وبسرعة في التهاب البنكرياس الشديد، مستنزفًا الحجم داخل الأوعية بسرعة."
+      "narration": "الخيار C، Hypovolemic shock هو الإجابة الصحيحة. تسرب هائل للسوائل للحيز الثالث خلف الصفاق يحدث مبكرًا وبسرعة في التهاب البنكرياس الشديد، مستنزفًا الحجم داخل الأوعية بسرعة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تسرب هائل للسوائل للحيز الثالث خلف الصفاق يحدث مبكرًا وبسرعة في التهاب البنكرياس الشديد، مستنزفًا الحجم داخل الأوعية بسرعة. وتذكّر القاعدة: \"Pancreatitis: fluid shift first = Hypovolemic shock early\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. تسرب هائل للسوائل للحيز الثالث خلف الصفاق يحدث مبكرًا وبسرعة في التهاب البنكرياس الشديد، مستنزفًا الحجم داخل الأوعية بسرعة. وتذكّر: \"Pancreatitis: fluid shift first = Hypovolemic shock early\". والإجابة الصحيحة هي C."
     }
   ]
 }

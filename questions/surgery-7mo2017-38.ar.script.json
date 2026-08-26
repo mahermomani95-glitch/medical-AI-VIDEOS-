@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Requires treatment guided by the full extent of…"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالحروق الكهربائية الشديدة، هناك حقيقة واحدة؟ أمامك هذه الخيارات: Causes most of its damage of the exit site، أو Is usually more severe when caused by direct current (DC) rather than alternating current (AC)، أو Rarely causes significant deep muscle injury because skin has the highest resistance، أو Tends to resolve quickly in patients who survive the initial injury ​، أو Requires treatment guided by the full extent of both visible thermal damage and underlying deep tissue injury. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالحروق الكهربائية الشديدة، هناك حقيقة واحدة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Causes most of its damage of the exit site: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Requires treatment guided by the full extent of both visible thermal damage and underlying deep tissue injury. يصبح صحيحًا في سؤال يصف Damage is NOT confined to the exit site alone — current travels through tissue causing damage along its entire path. الخيار B، Is usually more severe when caused by direct current (DC) rather than alternating current (AC): لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Requires treatment guided by the full extent of both visible thermal damage and underlying deep tissue injury. يصبح صحيحًا في سؤال يصف AC current is actually generally MORE dangerous than DC at the same voltage due to tetanic muscle contraction. الخيار C، Rarely causes significant deep muscle injury because skin has the highest resistance: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Requires treatment guided by the full extent of both visible thermal damage and underlying deep tissue injury. يصبح صحيحًا في سؤال يصف electrical burns often DO cause significant deep muscle injury despite skin's high resistance, since current follows the path of least resistance through deeper tissues. الخيار D، Tends to resolve quickly in patients who survive the initial injury ​: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Requires treatment guided by the full extent of both visible thermal damage and underlying deep tissue injury. يصبح صحيحًا في سؤال يصف injuries do NOT resolve quickly — deep tissue damage can evolve over days — the true statement is that treatment must be guided by both visible and deep tissue injury assessment.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Electrical burn: guided by Full (visible + hid"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Requires treatment guided by the full extent of both visible thermal damage and underlying deep tissue injury. علاج الحرق الكهربائي يُوجَّه بالإصابة الكاملة الظاهرة والخفية معًا."
+      "narration": "الخيار E هو الإجابة الصحيحة. علاج الحرق الكهربائي يُوجَّه بالإصابة الكاملة الظاهرة والخفية معًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. علاج الحرق الكهربائي يُوجَّه بالإصابة الكاملة الظاهرة والخفية معًا. وتذكّر القاعدة: Electrical burn: guided by Full (visible + hidden) extent. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. علاج الحرق الكهربائي يُوجَّه بالإصابة الكاملة الظاهرة والخفية معًا. وتذكّر: Electrical burn: guided by Full (visible + hidden) extent. والإجابة الصحيحة هي E."
     }
   ]
 }

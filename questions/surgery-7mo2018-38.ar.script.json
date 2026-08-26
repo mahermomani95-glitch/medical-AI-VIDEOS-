@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Large prostate 100 grams"
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها مؤشرات لإجراء عملية جراحية في تضخم البروستاتا الحميد باستثناء أمامك هذه الخيارات: Large prostate 100 grams، أو Refractory urinary retention، أو Renal impairment، أو Recurrent UTI، أو Recurrent gross Hematuria. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها مؤشرات لإجراء عملية جراحية في تضخم البروستاتا الحميد باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Refractory urinary retention: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, renal impairment, recurrent UTI, and recurrent gross hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Large prostate 100 grams. الخيار C، Renal impairment: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, renal impairment, recurrent UTI, and recurrent gross hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Large prostate 100 grams. الخيار D، Recurrent UTI: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, renal impairment, recurrent UTI, and recurrent gross hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Large prostate 100 grams. الخيار E، Recurrent gross Hematuria: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Refractory urinary retention, renal impairment, recurrent UTI, and recurrent gross hematuria… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Large prostate 100 grams.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Refractory urinary retention: صحيحة، لكنها ليست الاستثناء. الخيار C، Renal impairment: صحيحة، لكنها ليست الاستثناء. الخيار D، Recurrent UTI: صحيحة، لكنها ليست الاستثناء. الخيار E، Recurrent gross Hematuria: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Complications drive surgery, not size alone\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Large prostate 100 grams. حجم البروستاتا الكبير وحده لا يستدعي الجراحة — بل المضاعفات (احتباس، عدوى، نزف، قصور كلوي) هي التي تستدعيها."
+      "narration": "الخيار A، Large prostate 100 grams هو الإجابة الصحيحة. حجم البروستاتا الكبير وحده لا يستدعي الجراحة — بل المضاعفات (احتباس، عدوى، نزف، قصور كلوي) هي التي تستدعيها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حجم البروستاتا الكبير وحده لا يستدعي الجراحة — بل المضاعفات (احتباس، عدوى، نزف، قصور كلوي) هي التي تستدعيها. وتذكّر القاعدة: \"Complications drive surgery, not size alone\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. حجم البروستاتا الكبير وحده لا يستدعي الجراحة — بل المضاعفات (احتباس، عدوى، نزف، قصور كلوي) هي التي تستدعيها. وتذكّر: \"Complications drive surgery, not size alone\". والإجابة الصحيحة هي A."
     }
   ]
 }

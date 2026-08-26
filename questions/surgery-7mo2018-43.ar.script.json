@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Low bone mineral density"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الثدي باستثناء أمامك هذه الخيارات: Obesity، أو Low bone mineral density، أو High breast density، أو Smoking، أو First full term pregnancy at age of 35 years. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو عوامل خطر للإصابة بسرطان الثدي باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density. الخيار C، High breast density: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density. الخيار D، Smoking: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density. الخيار E، First full term pregnancy at age of 35 years: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obesity, high breast tissue density, smoking, and a late first full-term pregnancy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Low bone mineral density.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obesity: صحيحة، لكنها ليست الاستثناء. الخيار C، High breast density: صحيحة، لكنها ليست الاستثناء. الخيار D، Smoking: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"High bone density = high lifetime estrogen\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Low bone mineral density. ارتفاع كثافة العظم المعدنية (وليس انخفاضها) يعكس تعرضًا أطول للإستروجين مدى الحياة — وهو عامل الخطر الحقيقي لسرطان الثدي."
+      "narration": "الخيار B، Low bone mineral density هو الإجابة الصحيحة. ارتفاع كثافة العظم المعدنية (وليس انخفاضها) يعكس تعرضًا أطول للإستروجين مدى الحياة — وهو عامل الخطر الحقيقي لسرطان الثدي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع كثافة العظم المعدنية (وليس انخفاضها) يعكس تعرضًا أطول للإستروجين مدى الحياة — وهو عامل الخطر الحقيقي لسرطان الثدي. وتذكّر القاعدة: \"High bone density = high lifetime estrogen\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. ارتفاع كثافة العظم المعدنية (وليس انخفاضها) يعكس تعرضًا أطول للإستروجين مدى الحياة — وهو عامل الخطر الحقيقي لسرطان الثدي. وتذكّر: \"High bone density = high lifetime estrogen\". والإجابة الصحيحة هي B."
     }
   ]
 }

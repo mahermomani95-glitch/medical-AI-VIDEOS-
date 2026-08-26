@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Subarachnoid"
       },
-      "narration": "لنبدأ بهذا السؤال. النوع الأكثر شيوعا من النزيف داخل الجمجمة؟ أمامك هذه الخيارات: Extradural، أو Subdural، أو Subarachnoid، أو Intracerebral، أو Intraventricular. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. النوع الأكثر شيوعا من النزيف داخل الجمجمة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Extradural: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subarachnoid. يصبح صحيحًا في سؤال يصف Extradural/epidural hemorrhage, subdural hemorrhage, intracerebral hemorrhage, and intraventricular hemorrhage are all types of intracranial hemorrhage, but subarachnoid hemorrhage remains the most common type overall (including from trauma and aneurysm rupture). الخيار B، Subdural: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subarachnoid. يصبح صحيحًا في سؤال يصف Extradural/epidural hemorrhage, subdural hemorrhage, intracerebral hemorrhage, and intraventricular hemorrhage are all types of intracranial hemorrhage, but subarachnoid hemorrhage remains the most common type overall (including from trauma and aneurysm rupture). الخيار D، Intracerebral: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subarachnoid. يصبح صحيحًا في سؤال يصف Extradural/epidural hemorrhage, subdural hemorrhage, intracerebral hemorrhage, and intraventricular hemorrhage are all types of intracranial hemorrhage, but subarachnoid hemorrhage remains the most common type overall (including from trauma and aneurysm rupture). الخيار E، Intraventricular: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Subarachnoid. يصبح صحيحًا في سؤال يصف Extradural/epidural hemorrhage, subdural hemorrhage, intracerebral hemorrhage, and intraventricular hemorrhage are all types of intracranial hemorrhage, but subarachnoid hemorrhage remains the most common type overall (including from trauma and aneurysm rupture).",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Extradural: الإجابة الصحيحة هي Subarachnoid. الخيار B، Subdural: الإجابة الصحيحة هي Subarachnoid. الخيار D، Intracerebral: الإجابة الصحيحة هي Subarachnoid. الخيار E، Intraventricular: الإجابة الصحيحة هي Subarachnoid. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Intracranial hemorrhage: mostly Subarachnoid"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Subarachnoid. النزف تحت العنكبوتية هو الأشيع بين أنواع النزف داخل القحف."
+      "narration": "الخيار C، Subarachnoid هو الإجابة الصحيحة. النزف تحت العنكبوتية هو الأشيع بين أنواع النزف داخل القحف."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. النزف تحت العنكبوتية هو الأشيع بين أنواع النزف داخل القحف. وتذكّر القاعدة: Intracranial hemorrhage: mostly Subarachnoid. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. النزف تحت العنكبوتية هو الأشيع بين أنواع النزف داخل القحف. وتذكّر: Intracranial hemorrhage: mostly Subarachnoid. والإجابة الصحيحة هي C."
     }
   ]
 }

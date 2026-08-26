@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Squamous cell carcinoma of gastroesophageal junction"
       },
-      "narration": "لنبدأ بهذا السؤال. ترتبط عدوى الجرثومة الملوية البوابية في المعدة بكل مما يلي باستثناء؟ (سؤال مكرر، راجع السؤال رقم 154) أمامك هذه الخيارات: chronic atrophic gastric gastritis، أو Gastic ulcer، أو Duodenal ulcer، أو Gastric adenocarcinoma، أو Squamous cell carcinoma of gastroesophageal junction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. ترتبط عدوى الجرثومة الملوية البوابية في المعدة بكل مما يلي باستثناء؟ (سؤال مكرر، راجع السؤال رقم 154) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، chronic atrophic gastric gastritis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophageal junction. الخيار B، Gastic ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophageal junction. الخيار C، Duodenal ulcer: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophageal junction. الخيار D، Gastric adenocarcinoma: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Chronic atrophic gastritis, gastric ulcer, duodenal ulcer, and gastric adenocarcinoma are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Squamous cell carcinoma of gastroesophageal junction.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، chronic atrophic gastric gastritis: صحيحة، لكنها ليست الاستثناء. الخيار B، Gastic ulcer: صحيحة، لكنها ليست الاستثناء. الخيار C، Duodenal ulcer: صحيحة، لكنها ليست الاستثناء. الخيار D، Gastric adenocarcinoma: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "H. pylori: Hits gastric tissue, not squamous e"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Squamous cell carcinoma of gastroesophageal junction. الملوية البوابية ترتبط بسرطان المعدة، لا السرطانة الحرشفية المريئية."
+      "narration": "الخيار E هو الإجابة الصحيحة. الملوية البوابية ترتبط بسرطان المعدة، لا السرطانة الحرشفية المريئية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الملوية البوابية ترتبط بسرطان المعدة، لا السرطانة الحرشفية المريئية. وتذكّر القاعدة: H. pylori: Hits gastric tissue, not squamous esophagus. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الملوية البوابية ترتبط بسرطان المعدة، لا السرطانة الحرشفية المريئية. وتذكّر: H. pylori: Hits gastric tissue, not squamous esophagus. والإجابة الصحيحة هي E."
     }
   ]
 }

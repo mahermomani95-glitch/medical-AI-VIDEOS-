@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Aspiration pneumonia"
       },
-      "narration": "لنبدأ بهذا السؤال. يتكون العرض السريري المبكر للناسور الرغامي المريئي من كل ما يليباستثناء؟ أمامك هذه الخيارات: Choking on first feed، أو Coughing، أو Cyanosis، أو Excessive salivation، أو Aspiration pneumonia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يتكون العرض السريري المبكر للناسور الرغامي المريئي من كل ما يليباستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Choking on first feed: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia. الخيار B، Coughing: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia. الخيار C، Cyanosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia. الخيار D، Excessive salivation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Choking on first feed, coughing, cyanosis, and excessive salivation are all early presenting… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Aspiration pneumonia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Choking on first feed: صحيحة، لكنها ليست الاستثناء. الخيار B، Coughing: صحيحة، لكنها ليست الاستثناء. الخيار C، Cyanosis: صحيحة، لكنها ليست الاستثناء. الخيار D، Excessive salivation: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "TEF early signs: don't yet include Aspiration "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Aspiration pneumonia. الالتهاب الرئوي الاستنشاقي مضاعفة متأخرة، لا عرضًا مبكرًا للناسور."
+      "narration": "الخيار E، Aspiration pneumonia هو الإجابة الصحيحة. الالتهاب الرئوي الاستنشاقي مضاعفة متأخرة، لا عرضًا مبكرًا للناسور."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الالتهاب الرئوي الاستنشاقي مضاعفة متأخرة، لا عرضًا مبكرًا للناسور. وتذكّر القاعدة: TEF early signs: don't yet include Aspiration pneumonia. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الالتهاب الرئوي الاستنشاقي مضاعفة متأخرة، لا عرضًا مبكرًا للناسور. وتذكّر: TEF early signs: don't yet include Aspiration pneumonia. والإجابة الصحيحة هي E."
     }
   ]
 }

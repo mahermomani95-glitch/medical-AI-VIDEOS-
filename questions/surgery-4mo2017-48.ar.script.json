@@ -45,7 +45,7 @@
         "label": "Epinephrine",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 18 عامًا تُصاب بالشرى وأزيز الصدر بعد حقنها بمادةتباين وريدية لإجراء فحص مقطعي محوسب للبطن. ضغط دمها 80/50، معدلضربات القلب 155/دقيقة، معدل التنفس 28/دقيقة، أي مما يلي هو العلاجالفوري الأنسب؟ أمامك هذه الخيارات: Intubation، أو Epinephrine، أو B-blockers، أو lodine، أو Fluid challenge. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 18 عامًا تُصاب بالشرى وأزيز الصدر بعد حقنها بمادةتباين وريدية لإجراء فحص مقطعي محوسب للبطن. ضغط دمها 80/50، معدلضربات القلب 155/دقيقة، معدل التنفس 28/دقيقة، أي مما يلي هو العلاجالفوري الأنسب؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intubation: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epinephrine. يصبح صحيحًا في سؤال يصف Intubation may be needed if airway compromise progresses but isn't the first-line treatment itself. الخيار C، B-blockers: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epinephrine. يصبح صحيحًا في سؤال يصف beta-blockers can actually worsen anaphylaxis by blunting the response to epinephrine. الخيار D، lodine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Epinephrine. يصبح صحيحًا في سؤال يصف iodine is unrelated. الخيار E، Fluid challenge: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the underlying allergic cascade — epinephrine is the first-line treatment for anaphylaxis. يصبح صحيحًا في سؤال يصف fluid challenge supports blood pressure but.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Intubation: الإجابة الصحيحة هي Epinephrine. الخيار C، B-blockers: الإجابة الصحيحة هي Epinephrine. الخيار D، lodine: الإجابة الصحيحة هي Epinephrine. الخيار E، Fluid challenge: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Anaphylaxis (urticaria + wheezing): Epinephrin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Epinephrine. الإبينفرين هو العلاج الفوري المنقذ للحياة لتفاعل التأق التحسسي."
+      "narration": "الخيار B، Epinephrine هو الإجابة الصحيحة. الإبينفرين هو العلاج الفوري المنقذ للحياة لتفاعل التأق التحسسي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الإبينفرين هو العلاج الفوري المنقذ للحياة لتفاعل التأق التحسسي. وتذكّر القاعدة: Anaphylaxis (urticaria + wheezing): Epinephrine first. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الإبينفرين هو العلاج الفوري المنقذ للحياة لتفاعل التأق التحسسي. وتذكّر: Anaphylaxis (urticaria + wheezing): Epinephrine first. والإجابة الصحيحة هي B."
     }
   ]
 }

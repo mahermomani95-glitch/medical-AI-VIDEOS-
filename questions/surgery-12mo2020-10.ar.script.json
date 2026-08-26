@@ -41,7 +41,7 @@
         "region": "abdomen",
         "label": "Liver abscess"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Empyema، أو Liver abscess، أو Assending cholengitis، أو Malaria. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 4 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -75,7 +75,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Empyema: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver abscess. يصبح صحيحًا في سؤال يصف Empyema, ascending cholangitis, and malaria can all cause fever with systemic symptoms, but a liver abscess specifically fits the RUQ pain with fever/chills and elevated liver enzymes without jaundice following recent diverticulitis. الخيار C، Assending cholengitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver abscess. يصبح صحيحًا في سؤال يصف Empyema, ascending cholangitis, and malaria can all cause fever with systemic symptoms, but a liver abscess specifically fits the RUQ pain with fever/chills and elevated liver enzymes without jaundice following recent diverticulitis. الخيار D، Malaria: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Liver abscess. يصبح صحيحًا في سؤال يصف Empyema, ascending cholangitis, and malaria can all cause fever with systemic symptoms, but a liver abscess specifically fits the RUQ pain with fever/chills and elevated liver enzymes without jaundice following recent diverticulitis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Empyema: الإجابة الصحيحة هي Liver abscess. الخيار C، Assending cholengitis: الإجابة الصحيحة هي Liver abscess. الخيار D، Malaria: الإجابة الصحيحة هي Liver abscess. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -126,13 +126,13 @@
       "pills": [
         "\"Recent diverticulitis + RUQ pain/fever = Live"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Liver abscess. ألم بالربع العلوي الأيمن مع حمى وقشعريرة وارتفاع إنزيمات الكبد بعد أسابيع من التهاب الرتوج يوجّه لخراج كبدي — غالبًا منتقل عبر الدوران البابي من العدوى البطنية السابقة."
+      "narration": "الخيار B، Liver abscess هو الإجابة الصحيحة. ألم بالربع العلوي الأيمن مع حمى وقشعريرة وارتفاع إنزيمات الكبد بعد أسابيع من التهاب الرتوج يوجّه لخراج كبدي — غالبًا منتقل عبر الدوران البابي من العدوى البطنية السابقة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ألم بالربع العلوي الأيمن مع حمى وقشعريرة وارتفاع إنزيمات الكبد بعد أسابيع من التهاب الرتوج يوجّه لخراج كبدي — غالبًا منتقل عبر الدوران البابي من العدوى البطنية السابقة. وتذكّر القاعدة: \"Recent diverticulitis + RUQ pain/fever = Liver abscess (portal seeding)\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. ألم بالربع العلوي الأيمن مع حمى وقشعريرة وارتفاع إنزيمات الكبد بعد أسابيع من التهاب الرتوج يوجّه لخراج كبدي — غالبًا منتقل عبر الدوران البابي من العدوى البطنية السابقة. وتذكّر: \"Recent diverticulitis + RUQ pain/fever = Liver abscess (portal seeding)\". والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Ketamine"
       },
-      "narration": "لنبدأ بهذا السؤال. المخدر الذي له تأثير مسكن ومخدر هو:؟ أمامك هذه الخيارات: Isoflurane، أو Sevoflurane، أو Thiopental sodium، أو Suxamethonium، أو Ketamine. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. المخدر الذي له تأثير مسكن ومخدر هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Isoflurane: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine. يصبح صحيحًا في سؤال يصف Isoflurane and sevoflurane are inhalational anesthetics without significant standalone analgesic properties. الخيار B، Sevoflurane: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine. يصبح صحيحًا في سؤال يصف Isoflurane and sevoflurane are inhalational anesthetics without significant standalone analgesic properties. الخيار C، Thiopental sodium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine. يصبح صحيحًا في سؤال يصف thiopental sodium is a pure anesthetic induction agent without analgesia. الخيار D، Suxamethonium: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Ketamine. يصبح صحيحًا في سؤال يصف suxamethonium is a paralytic with no anesthetic or analgesic effect at all — ketamine uniquely provides both dissociative anesthesia and strong analgesia.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Isoflurane: الإجابة الصحيحة هي Ketamine. الخيار B، Sevoflurane: الإجابة الصحيحة هي Ketamine. الخيار C، Thiopental sodium: الإجابة الصحيحة هي Ketamine. الخيار D، Suxamethonium: الإجابة الصحيحة هي Ketamine. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Ketamine: Kills pain AND induces anesthesia"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Ketamine. الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد."
+      "narration": "الخيار E، Ketamine هو الإجابة الصحيحة. الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد. وتذكّر القاعدة: Ketamine: Kills pain AND induces anesthesia. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الكيتامين يجمع تأثيرًا مسكنًا ومخدرًا معًا بشكل فريد. وتذكّر: Ketamine: Kills pain AND induces anesthesia. والإجابة الصحيحة هي E."
     }
   ]
 }

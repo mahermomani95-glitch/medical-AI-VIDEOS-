@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "It's a remnant of the embryonic vitelline duct"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بفتق ميكل؟ أمامك هذه الخيارات: It's found within 2 inches of the ileocecal valve، أو It's a remnant of the embryonic vitelline duct، أو Ectopic colonic epithelium is found in it، أو Diagnosis is best made by CT scan، أو It's usually found on the mesentric border of the bowel. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية صحيحة فيما يتعلق بفتق ميكل؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، It's found within 2 inches of the ileocecal valve: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct. يصبح صحيحًا في سؤال يصف It's found within 2 FEET (not 2 inches) of the ileocecal valve. الخيار C، Ectopic colonic epithelium is found in it: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct. يصبح صحيحًا في سؤال يصف it typically contains ectopic GASTRIC (not colonic) epithelium. الخيار D، Diagnosis is best made by CT scan: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا routine CT. يصبح صحيحًا في سؤال يصف diagnosis is best made by a Meckel's (technetium) scan. الخيار E، It's usually found on the mesentric border of the bowel: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي It's a remnant of the embryonic vitelline duct. يصبح صحيحًا في سؤال يصف it's found on the ANTIMESENTERIC (not mesenteric) border — the true statement is that it's a remnant of the embryonic vitelline (omphalomesenteric) duct.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: المطلوب هنا routine CT. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Meckel's diverticulum: remnant of the Vitellin"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: It's a remnant of the embryonic vitelline duct. الرتج الميكلي بقايا جنينية حقيقية من القناة المحية السرية."
+      "narration": "الخيار B هو الإجابة الصحيحة. الرتج الميكلي بقايا جنينية حقيقية من القناة المحية السرية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الرتج الميكلي بقايا جنينية حقيقية من القناة المحية السرية. وتذكّر القاعدة: Meckel's diverticulum: remnant of the Vitelline duct. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الرتج الميكلي بقايا جنينية حقيقية من القناة المحية السرية. وتذكّر: Meckel's diverticulum: remnant of the Vitelline duct. والإجابة الصحيحة هي B."
     }
   ]
 }

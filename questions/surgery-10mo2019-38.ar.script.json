@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Radial artery injury is a recognized complication"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بكسر العضد البعيد، كل ما يلي صحيح باستثناء أمامك هذه الخيارات: Mechanism of fracture in young is high energy trauma due to motor vehicle accident، أو Elbow pain, swelling, and weakness، أو Radial artery injury is a recognized complication، أو Compartment syndrome is one of the complications in children، أو Brachial artery injury is common. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بكسر العضد البعيد، كل ما يلي صحيح باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Mechanism of fracture in young is high energy trauma due to motor vehicle accident: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-energy trauma mechanism in the young, elbow pain/swelling/weakness, compartment syndrome… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Radial artery injury is a recognized complication. الخيار B، Elbow pain, swelling, and weakness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-energy trauma mechanism in the young, elbow pain/swelling/weakness, compartment syndrome… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Radial artery injury is a recognized complication. الخيار D، Compartment syndrome is one of the complications in children: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-energy trauma mechanism in the young, elbow pain/swelling/weakness, compartment syndrome… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Radial artery injury is a recognized complication. الخيار E، Brachial artery injury is common: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. High-energy trauma mechanism in the young, elbow pain/swelling/weakness, compartment syndrome… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Radial artery injury is a recognized complication.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Distal humerus fracture = Brachial artery at "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Radial artery injury is a recognized complication. الشريان العضدي، وليس الكعبري، هو الوعاء المهدد كلاسيكيًا في كسور العضد البعيدة/فوق اللقمة."
+      "narration": "الخيار C هو الإجابة الصحيحة. الشريان العضدي، وليس الكعبري، هو الوعاء المهدد كلاسيكيًا في كسور العضد البعيدة/فوق اللقمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الشريان العضدي، وليس الكعبري، هو الوعاء المهدد كلاسيكيًا في كسور العضد البعيدة/فوق اللقمة. وتذكّر القاعدة: \"Distal humerus fracture = Brachial artery at risk, not radial\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الشريان العضدي، وليس الكعبري، هو الوعاء المهدد كلاسيكيًا في كسور العضد البعيدة/فوق اللقمة. وتذكّر: \"Distal humerus fracture = Brachial artery at risk, not radial\". والإجابة الصحيحة هي C."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "label": "Antral G cell hypoplasia",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. تم العثور على ارتفاع مستوى الجاسترين في المصل في كل ما يلي باستثناء؟ أمامك هذه الخيارات: H. pylori infection، أو Retained antrum syndrome، أو Gastric outlet obstruction، أو Antral G cell hypoplasia، أو Vagotomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. تم العثور على ارتفاع مستوى الجاسترين في المصل في كل ما يلي باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، H. pylori infection: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia. الخيار B، Retained antrum syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia. الخيار C، Gastric outlet obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia. الخيار E، Vagotomy: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. H. pylori infection, retained antrum syndrome, gastric outlet obstruction, and vagotomy… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Antral G cell hypoplasia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، H. pylori infection: صحيحة، لكنها ليست الاستثناء. الخيار B، Retained antrum syndrome: صحيحة، لكنها ليست الاستثناء. الخيار C، Gastric outlet obstruction: صحيحة، لكنها ليست الاستثناء. الخيار E، Vagotomy: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "G-cell hypoplasia: Gives lower gastrin, not hi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Antral G cell hypoplasia. نقص تنسج خلايا G يخفض الغاسترين، لا يرفعه كما بالعبارة الخاطئة."
+      "narration": "الخيار D، Antral G cell hypoplasia هو الإجابة الصحيحة. نقص تنسج خلايا G يخفض الغاسترين، لا يرفعه كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. نقص تنسج خلايا G يخفض الغاسترين، لا يرفعه كما بالعبارة الخاطئة. وتذكّر القاعدة: G-cell hypoplasia: Gives lower gastrin, not higher. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. نقص تنسج خلايا G يخفض الغاسترين، لا يرفعه كما بالعبارة الخاطئة. وتذكّر: G-cell hypoplasia: Gives lower gastrin, not higher. والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Anastomosis Leak"
       },
-      "narration": "لنبدأ بهذا السؤال. خضع مريض يبلغ من العمر 25 عامًا لجراحة إنقاص الوزن، وجراحة تحويلمسار المعدة على شكل حرف \" ,واي\" ، وفي اليوم الخامس بعد الجراحة، كانمعدل ضربات القلب 110، ومعدل التنفس 22، وضغط الدم 120/80، وفي اليومالسادس بعد الجراحة، كان معدل ضربات القلب 120، ومعدل التنفس 25،وضغط الدم 120/80، وظهر عليه ضيق في التنفس وسرعة في التنفس. أظهرالفحص السريري انتفاخًا في البطن، وألمًا، وعلامات التهاب الصفاق. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Internal Hemorrhage، أو Atelectasis، أو Pulmonary Embolism، أو DVT، أو Anastomosis Leak. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. خضع مريض يبلغ من العمر 25 عامًا لجراحة إنقاص الوزن، وجراحة تحويلمسار المعدة على شكل حرف \" ,واي\" ، وفي اليوم الخامس بعد الجراحة، كانمعدل ضربات القلب 110، ومعدل التنفس 22، وضغط الدم 120/80، وفي اليومالسادس بعد الجراحة، كان معدل ضربات القلب 120، ومعدل التنفس 25،وضغط الدم 120/80، وظهر عليه ضيق في التنفس وسرعة في التنفس. أظهرالفحص السريري انتفاخًا في البطن، وألمًا، وعلامات التهاب الصفاق. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Internal Hemorrhage: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anastomosis Leak. يصبح صحيحًا في سؤال يصف Internal hemorrhage, atelectasis, pulmonary embolism, and DVT are all recognized post-operative complications, but anastomotic leak specifically fits the described progressive tachycardia with abdominal signs after bariatric surgery. الخيار B، Atelectasis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anastomosis Leak. يصبح صحيحًا في سؤال يصف Internal hemorrhage, atelectasis, pulmonary embolism, and DVT are all recognized post-operative complications, but anastomotic leak specifically fits the described progressive tachycardia with abdominal signs after bariatric surgery. الخيار C، Pulmonary Embolism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anastomosis Leak. يصبح صحيحًا في سؤال يصف Internal hemorrhage, atelectasis, pulmonary embolism, and DVT are all recognized post-operative complications, but anastomotic leak specifically fits the described progressive tachycardia with abdominal signs after bariatric surgery. الخيار D، DVT: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Anastomosis Leak. يصبح صحيحًا في سؤال يصف Internal hemorrhage, atelectasis, pulmonary embolism, and DVT are all recognized post-operative complications, but anastomotic leak specifically fits the described progressive tachycardia with abdominal signs after bariatric surgery.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Internal Hemorrhage: الإجابة الصحيحة هي Anastomosis Leak. الخيار B، Atelectasis: الإجابة الصحيحة هي Anastomosis Leak. الخيار C، Pulmonary Embolism: الإجابة الصحيحة هي Anastomosis Leak. الخيار D، DVT: الإجابة الصحيحة هي Anastomosis Leak. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Rising HR after bariatric surgery = think Lea"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Anastomosis Leak. تسرع القلب المتصاعد غالبًا العلامة الأولى والأكثر موثوقية لتسرب مفاغرة بعد جراحة السمنة — قبل ظهور الحمى أو هبوط الضغط."
+      "narration": "الخيار E، Anastomosis Leak هو الإجابة الصحيحة. تسرع القلب المتصاعد غالبًا العلامة الأولى والأكثر موثوقية لتسرب مفاغرة بعد جراحة السمنة — قبل ظهور الحمى أو هبوط الضغط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تسرع القلب المتصاعد غالبًا العلامة الأولى والأكثر موثوقية لتسرب مفاغرة بعد جراحة السمنة — قبل ظهور الحمى أو هبوط الضغط. وتذكّر القاعدة: \"Rising HR after bariatric surgery = think Leak\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. تسرع القلب المتصاعد غالبًا العلامة الأولى والأكثر موثوقية لتسرب مفاغرة بعد جراحة السمنة — قبل ظهور الحمى أو هبوط الضغط. وتذكّر: \"Rising HR after bariatric surgery = think Leak\". والإجابة الصحيحة هي E."
     }
   ]
 }

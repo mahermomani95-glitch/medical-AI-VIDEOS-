@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Dental caries"
       },
-      "narration": "لنبدأ بهذا السؤال. جميعها مضاعفات محددة لجراحة الغدة الدرقية باستثناء:؟ أمامك هذه الخيارات: Dental caries، أو Airway obstruction، أو Convulsions، أو Hypoparathyroidism، أو Hypothyroidism. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميعها مضاعفات محددة لجراحة الغدة الدرقية باستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Airway obstruction: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries. الخيار C، Convulsions: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries. الخيار D، Hypoparathyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries. الخيار E، Hypothyroidism: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Airway obstruction (B, from hematoma), convulsions… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Dental caries.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار B، Airway obstruction: صحيحة، لكنها ليست الاستثناء. Airway obstruction (B, from hematoma), convulsions… الخيار C، Convulsions: صحيحة، لكنها ليست الاستثناء. Airway obstruction (B, from hematoma), convulsions… الخيار D، Hypoparathyroidism: صحيحة، لكنها ليست الاستثناء. Airway obstruction (B, from hematoma), convulsions… الخيار E، Hypothyroidism: صحيحة، لكنها ليست الاستثناء. Airway obstruction (B, from hematoma), convulsions… والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Dental caries: Doesn't belong to thyroid Compl"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Dental caries. تسوس الأسنان لا علاقة له إطلاقًا بمضاعفات جراحة الدرقية."
+      "narration": "الخيار A، Dental caries هو الإجابة الصحيحة. تسوس الأسنان لا علاقة له إطلاقًا بمضاعفات جراحة الدرقية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تسوس الأسنان لا علاقة له إطلاقًا بمضاعفات جراحة الدرقية. وتذكّر القاعدة: Dental caries: Doesn't belong to thyroid Complications. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. تسوس الأسنان لا علاقة له إطلاقًا بمضاعفات جراحة الدرقية. وتذكّر: Dental caries: Doesn't belong to thyroid Complications. والإجابة الصحيحة هي A."
     }
   ]
 }

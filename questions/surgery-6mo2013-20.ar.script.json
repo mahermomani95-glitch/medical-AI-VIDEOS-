@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Hypothyroidism"
       },
-      "narration": "لنبدأ بهذا السؤال. كلها أسباب لانخفاض ضغط الدم المستمر باستثناء؟ أمامك هذه الخيارات: Heart failure stage 4، أو Tension Pneumothorax، أو Hypothyroidism، أو Persistent external bleeding، أو Hidden internal bleeding. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كلها أسباب لانخفاض ضغط الدم المستمر باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Heart failure stage 4: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism. الخيار B، Tension Pneumothorax: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism. الخيار D، Persistent external bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism. الخيار E، Hidden internal bleeding: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Heart failure stage 4 (A, cardiogenic), tension pneumothorax (B, obstructive), persistent… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hypothyroidism.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Heart failure stage 4: صحيحة، لكنها ليست الاستثناء. الخيار B، Tension Pneumothorax: صحيحة، لكنها ليست الاستثناء. الخيار D، Persistent external bleeding: صحيحة، لكنها ليست الاستثناء. الخيار E، Hidden internal bleeding: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Hypothyroidism: Hardly causes acute persistent"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hypothyroidism. قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر."
+      "narration": "الخيار C، Hypothyroidism هو الإجابة الصحيحة. قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر. وتذكّر القاعدة: Hypothyroidism: Hardly causes acute persistent hypotension. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. قصور الدرقية ليس من الأسباب الكلاسيكية الحادة لهبوط الضغط المستمر. وتذكّر: Hypothyroidism: Hardly causes acute persistent hypotension. والإجابة الصحيحة هي C."
     }
   ]
 }

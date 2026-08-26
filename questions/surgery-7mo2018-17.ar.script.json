@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Autoimmune disease"
       },
-      "narration": "لنبدأ بهذا السؤال. هناك حقيقة واحدة بشأن التهاب الغدة الدرقية هاشيموتو أمامك هذه الخيارات: Most common cause of hyperthyroidism worldwide، أو Women to men ratio 1:20، أو Autoimmune disease، أو Most prevalent in men aged 50-60 years، أو Strongly associated with HLA-DR4 and HLA-B4. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. هناك حقيقة واحدة بشأن التهاب الغدة الدرقية هاشيموتو أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Most common cause of hyperthyroidism worldwide: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Autoimmune disease. يصبح صحيحًا في سؤال يصف Hashimoto's is NOT the most common cause of hyperthyroidism — it causes hypothyroidism. الخيار B، Women to men ratio 1:20: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا 1:20. يصبح صحيحًا في سؤال يصف the true female-to-male ratio is about 10:1. الخيار D، Most prevalent in men aged 50-60 years: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا men aged 50-60. يصبح صحيحًا في سؤال يصف it's most prevalent in middle-aged women. الخيار E، Strongly associated with HLA-DR4 and HLA-B4: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا HLA-DR4/B4 specifically as commonly cited. يصبح صحيحًا في سؤال يصف it's associated with HLA-DR3 and HLA-DR5.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Autoimmune disease. الخيار B: المطلوب هنا 1:20. الخيار D: المطلوب هنا men aged 50-60. الخيار E: المطلوب هنا HLA-DR4/B4 specifically as commonly cited. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Hashimoto = auto-attack\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Autoimmune disease. هاشيموتو مرض ذاتي المناعة بالدرجة الأولى، تهاجم فيه الأضداد الغدة الدرقية نفسها."
+      "narration": "الخيار C، Autoimmune disease هو الإجابة الصحيحة. هاشيموتو مرض ذاتي المناعة بالدرجة الأولى، تهاجم فيه الأضداد الغدة الدرقية نفسها."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. هاشيموتو مرض ذاتي المناعة بالدرجة الأولى، تهاجم فيه الأضداد الغدة الدرقية نفسها. وتذكّر القاعدة: \"Hashimoto = auto-attack\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. هاشيموتو مرض ذاتي المناعة بالدرجة الأولى، تهاجم فيه الأضداد الغدة الدرقية نفسها. وتذكّر: \"Hashimoto = auto-attack\". والإجابة الصحيحة هي C."
     }
   ]
 }

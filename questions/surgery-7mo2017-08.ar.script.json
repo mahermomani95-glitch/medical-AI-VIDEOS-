@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Palpable thrill and audible bruit over the fistula…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالناسور الشرياني الوريدي صحيحة باستثناء؟ أمامك هذه الخيارات: Complications include stenosis, aneurysm, and heart failure، أو Renal dialysis is the most common indication to create it، أو Palpable thrill and audible bruit over the fistula indicate that is thrombosed، أو Paleness and coldness of the hand during exercise and dialysis indicate the presence of steal syndrome، أو The three most common sites are radiocephalic, brachiocephalic, and brachial artery to transposed basilic vein. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع الجمل المتعلقة بالناسور الشرياني الوريدي صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Complications include stenosis, aneurysm, and heart failure: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed. الخيار B، Renal dialysis is the most common indication to create it: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed. الخيار D، Paleness and coldness of the hand during exercise and dialysis indicate the presence of steal syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed. الخيار E، The three most common sites are radiocephalic, brachiocephalic, and brachial artery to transposed basilic vein: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Complications like stenosis/aneurysm/heart failure, renal dialysis as the primary indication… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Palpable thrill and audible bruit over the fistula indicate that is thrombosed.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "AV fistula thrill/bruit: Are Good signs, not b"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Palpable thrill and audible bruit over the fistula indicate that is thrombosed. اللمسة الاهتزازية والنفخة السمعية علامتان جيدتان لسالكية الناسور الطبيعية."
+      "narration": "الخيار C هو الإجابة الصحيحة. اللمسة الاهتزازية والنفخة السمعية علامتان جيدتان لسالكية الناسور الطبيعية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اللمسة الاهتزازية والنفخة السمعية علامتان جيدتان لسالكية الناسور الطبيعية. وتذكّر القاعدة: AV fistula thrill/bruit: Are Good signs, not bad. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. اللمسة الاهتزازية والنفخة السمعية علامتان جيدتان لسالكية الناسور الطبيعية. وتذكّر: AV fistula thrill/bruit: Are Good signs, not bad. والإجابة الصحيحة هي C."
     }
   ]
 }

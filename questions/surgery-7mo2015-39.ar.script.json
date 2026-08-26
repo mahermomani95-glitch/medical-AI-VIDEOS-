@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Esophagogastroduodenoscopy"
       },
-      "narration": "لنبدأ بهذا السؤال. رجل مدخن يبلغ من العمر 58 عامًا يعاني من شكوى رئيسية تتمثل في صعوبةالبلع وألم البلع وفقدان 8 كجم من الوزن، أفضل خطوة تالية يجب القيام بهاهي؟ أمامك هذه الخيارات: Esophagogastroduodenoscopy، أو Chest CT scan، أو Abdomen CT scan، أو Barium swallow، أو Esophageal manometry. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. رجل مدخن يبلغ من العمر 58 عامًا يعاني من شكوى رئيسية تتمثل في صعوبةالبلع وألم البلع وفقدان 8 كجم من الوزن، أفضل خطوة تالية يجب القيام بهاهي؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Chest CT scan: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophagogastroduodenoscopy. يصبح صحيحًا في سؤال يصف Chest CT, abdominal CT, barium swallow, and esophageal manometry can be useful later, but with alarm symptoms (dysphagia, odynophagia, weight loss) in a smoker, direct endoscopic visualization and biopsy should come first to rule out malignancy. الخيار C، Abdomen CT scan: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophagogastroduodenoscopy. يصبح صحيحًا في سؤال يصف Chest CT, abdominal CT, barium swallow, and esophageal manometry can be useful later, but with alarm symptoms (dysphagia, odynophagia, weight loss) in a smoker, direct endoscopic visualization and biopsy should come first to rule out malignancy. الخيار D، Barium swallow: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophagogastroduodenoscopy. يصبح صحيحًا في سؤال يصف Chest CT, abdominal CT, barium swallow, and esophageal manometry can be useful later, but with alarm symptoms (dysphagia, odynophagia, weight loss) in a smoker, direct endoscopic visualization and biopsy should come first to rule out malignancy. الخيار E، Esophageal manometry: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Esophagogastroduodenoscopy. يصبح صحيحًا في سؤال يصف Chest CT, abdominal CT, barium swallow, and esophageal manometry can be useful later, but with alarm symptoms (dysphagia, odynophagia, weight loss) in a smoker, direct endoscopic visualization and biopsy should come first to rule out malignancy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Chest CT scan: الإجابة الصحيحة هي Esophagogastroduodenoscopy. الخيار C، Abdomen CT scan: الإجابة الصحيحة هي Esophagogastroduodenoscopy. الخيار D، Barium swallow: الإجابة الصحيحة هي Esophagogastroduodenoscopy. الخيار E، Esophageal manometry: الإجابة الصحيحة هي Esophagogastroduodenoscopy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Dysphagia + weight loss, smoker: Endoscopy nee"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Esophagogastroduodenoscopy. عسر البلع مع فقدان الوزن عند مدخن يستدعي تنظيرًا هضميًا مباشرًا."
+      "narration": "الخيار A، Esophagogastroduodenoscopy هو الإجابة الصحيحة. عسر البلع مع فقدان الوزن عند مدخن يستدعي تنظيرًا هضميًا مباشرًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عسر البلع مع فقدان الوزن عند مدخن يستدعي تنظيرًا هضميًا مباشرًا. وتذكّر القاعدة: Dysphagia + weight loss, smoker: Endoscopy needed. والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. عسر البلع مع فقدان الوزن عند مدخن يستدعي تنظيرًا هضميًا مباشرًا. وتذكّر: Dysphagia + weight loss, smoker: Endoscopy needed. والإجابة الصحيحة هي A."
     }
   ]
 }

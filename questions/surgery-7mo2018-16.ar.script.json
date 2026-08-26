@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Low Pa02 less than 60 mmhg"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العوامل التالية يعتبر من العوامل السيئة في تشخيص التهابالبنكرياس الحاد؟ أمامك هذه الخيارات: Very high amylase serum level، أو Very high lipase serum level، أو Low Pa02 less than 60 mmhg، أو Pseudocyst، أو Very low LDH serum level. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العوامل التالية يعتبر من العوامل السيئة في تشخيص التهابالبنكرياس الحاد؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Very high amylase serum level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low Pa02 less than 60 mmhg. يصبح صحيحًا في سؤال يصف Very high amylase and lipase levels don't correlate with severity. الخيار B، Very high lipase serum level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low Pa02 less than 60 mmhg. يصبح صحيحًا في سؤال يصف Very high amylase and lipase levels don't correlate with severity. الخيار D، Pseudocyst: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a Ranson/APACHE prognostic criterion itself. يصبح صحيحًا في سؤال يصف pseudocyst is a complication. الخيار E، Very low LDH serum level: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Low Pa02 less than 60 mmhg. يصبح صحيحًا في سؤال يصف very low LDH would actually be reassuring — it's an elevated LDH that signals poor prognosis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Low Pa02 less than 60 mmhg. الخيار B: الإجابة الصحيحة هي Low Pa02 less than 60 mmhg. الخيار D، Pseudocyst: المطلوب هنا a Ranson/APACHE prognostic criterion itself. الخيار E: الإجابة الصحيحة هي Low Pa02 less than 60 mmhg. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Low PaO2 = poor prognosis (Ranson/APACHE)\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Low Pa02 less than 60 mmhg. انخفاض ضغط الأكسجين الشرياني يشير لبدء متلازمة الضائقة التنفسية الحادة — إحدى أخطر مضاعفات التهاب البنكرياس الشديد."
+      "narration": "الخيار C هو الإجابة الصحيحة. انخفاض ضغط الأكسجين الشرياني يشير لبدء متلازمة الضائقة التنفسية الحادة — إحدى أخطر مضاعفات التهاب البنكرياس الشديد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. انخفاض ضغط الأكسجين الشرياني يشير لبدء متلازمة الضائقة التنفسية الحادة — إحدى أخطر مضاعفات التهاب البنكرياس الشديد. وتذكّر القاعدة: \"Low PaO2 = poor prognosis (Ranson/APACHE)\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. انخفاض ضغط الأكسجين الشرياني يشير لبدء متلازمة الضائقة التنفسية الحادة — إحدى أخطر مضاعفات التهاب البنكرياس الشديد. وتذكّر: \"Low PaO2 = poor prognosis (Ranson/APACHE)\". والإجابة الصحيحة هي C."
     }
   ]
 }

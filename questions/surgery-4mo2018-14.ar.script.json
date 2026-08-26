@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Open the ileum and removing the obstruction"
       },
-      "narration": "لنبدأ بهذا السؤال. الجراحة الأساسية للمرضى الذين يعانون من انسداد الأمعاء بسبب حصواتالمرارة هي أمامك هذه الخيارات: Open the ileum and removing the obstruction، أو Whipple surgery، أو Cholecystectomy، أو Hepatojejunostomy، أو ERCP. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. الجراحة الأساسية للمرضى الذين يعانون من انسداد الأمعاء بسبب حصواتالمرارة هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Whipple surgery: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the ileum and removing the obstruction. يصبح صحيحًا في سؤال يصف Whipple surgery, cholecystectomy, hepatojejunostomy, and ERCP are all reasonable secondary or definitive procedures, but none address the immediate life-threatening bowel obstruction as urgently as removing the obstructing stone. الخيار C، Cholecystectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the ileum and removing the obstruction. يصبح صحيحًا في سؤال يصف Whipple surgery, cholecystectomy, hepatojejunostomy, and ERCP are all reasonable secondary or definitive procedures, but none address the immediate life-threatening bowel obstruction as urgently as removing the obstructing stone. الخيار D، Hepatojejunostomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the ileum and removing the obstruction. يصبح صحيحًا في سؤال يصف Whipple surgery, cholecystectomy, hepatojejunostomy, and ERCP are all reasonable secondary or definitive procedures, but none address the immediate life-threatening bowel obstruction as urgently as removing the obstructing stone. الخيار E، ERCP: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Open the ileum and removing the obstruction. يصبح صحيحًا في سؤال يصف Whipple surgery, cholecystectomy, hepatojejunostomy, and ERCP are all reasonable secondary or definitive procedures, but none address the immediate life-threatening bowel obstruction as urgently as removing the obstructing stone.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Whipple surgery: لا ينطبق على هذه الحالة. الخيار C، Cholecystectomy: لا ينطبق على هذه الحالة. الخيار D، Hepatojejunostomy: لا ينطبق على هذه الحالة. الخيار E، ERCP: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Ileus first, gallbladder later\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Open the ileum and removing the obstruction. عالج الانسداد أولاً، واترك ناسور المرارة والاثني عشر لمرحلة لاحقة — هذا مبدأ الجراحة على مرحلتين."
+      "narration": "الخيار A هو الإجابة الصحيحة. عالج الانسداد أولاً، واترك ناسور المرارة والاثني عشر لمرحلة لاحقة — هذا مبدأ الجراحة على مرحلتين."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. عالج الانسداد أولاً، واترك ناسور المرارة والاثني عشر لمرحلة لاحقة — هذا مبدأ الجراحة على مرحلتين. وتذكّر القاعدة: \"Ileus first, gallbladder later\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. عالج الانسداد أولاً، واترك ناسور المرارة والاثني عشر لمرحلة لاحقة — هذا مبدأ الجراحة على مرحلتين. وتذكّر: \"Ileus first, gallbladder later\". والإجابة الصحيحة هي A."
     }
   ]
 }

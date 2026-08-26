@@ -45,7 +45,7 @@
         "label": "Undescended testis requires immediate repair",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Esophageal atresia present with cyanosis at birth، أو Pyloric stenosis usually presents at one month، أو Undescended testis requires immediate repair، أو Imperforate anus could be associated with perianal fistula، أو Double bubble sign is seen in duodenal atresia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Esophageal atresia present with cyanosis at birth: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair. الخيار B، Pyloric stenosis usually presents at one month: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair. الخيار D، Imperforate anus could be associated with perianal fistula: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair. الخيار E، Double bubble sign is seen in duodenal atresia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Esophageal atresia presenting with cyanosis, pyloric stenosis at one month, imperforate anus… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Undescended testis requires immediate repair.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "\"Undescended testis = fix around age 1, not im"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Undescended testis requires immediate repair. الخصية غير النازلة تُعالَج بتثبيتها جراحيًا حوالي عمر السنة، وليس إصلاحًا فوريًا — الانتظار قليلًا يعطي فرصة للنزول التلقائي."
+      "narration": "الخيار C هو الإجابة الصحيحة. الخصية غير النازلة تُعالَج بتثبيتها جراحيًا حوالي عمر السنة، وليس إصلاحًا فوريًا — الانتظار قليلًا يعطي فرصة للنزول التلقائي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الخصية غير النازلة تُعالَج بتثبيتها جراحيًا حوالي عمر السنة، وليس إصلاحًا فوريًا — الانتظار قليلًا يعطي فرصة للنزول التلقائي. وتذكّر القاعدة: \"Undescended testis = fix around age 1, not immediately\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الخصية غير النازلة تُعالَج بتثبيتها جراحيًا حوالي عمر السنة، وليس إصلاحًا فوريًا — الانتظار قليلًا يعطي فرصة للنزول التلقائي. وتذكّر: \"Undescended testis = fix around age 1, not immediately\". والإجابة الصحيحة هي C."
     }
   ]
 }

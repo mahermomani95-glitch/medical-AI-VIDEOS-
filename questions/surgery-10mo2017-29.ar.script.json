@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Unlikely this patient will need biopsy from prostate"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 62 عامًا يعاني من التبول الليلي (4 مرات في الليلة)، معضعف تدفق البول، وتقطعه، وتكراره. كشف الفحص الشرجي الرقمي عنتصلب في الفص الأيمن من البروستاتا. جميع العبارات التالية صحيحةباستثناء:؟ أمامك هذه الخيارات: Treat the obstructive symptoms، أو Perform ultrasound for residual urine assessment، أو Request blood sample for prostate-specific antigen، أو Unlikely this patient will need biopsy from prostate، أو His past history and medications have to be checked. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 62 عامًا يعاني من التبول الليلي (4 مرات في الليلة)، معضعف تدفق البول، وتقطعه، وتكراره. كشف الفحص الشرجي الرقمي عنتصلب في الفص الأيمن من البروستاتا. جميع العبارات التالية صحيحةباستثناء:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Treat the obstructive symptoms: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the correct/true statement here. يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also correct — biopsy is generally. الخيار B، Perform ultrasound for residual urine assessment: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the correct/true statement here. يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also correct — biopsy is generally. الخيار C، Request blood sample for prostate-specific antigen: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the correct/true statement here. يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also correct — biopsy is generally. الخيار E، His past history and medications have to be checked: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا needed in straightforward BPH without additional red flags (abnormal PSA, abnormal DRE), matching option D as the correct/true statement here. يصبح صحيحًا في سؤال يصف Treating symptoms, post-void residual ultrasound, and PSA testing are all appropriate management steps, and reviewing history/medications is also correct — biopsy is generally.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Treat the obstructive symptoms: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Typical BPH symptoms: unLikely to Need biopsy"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Unlikely this patient will need biopsy from prostate. أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا."
+      "narration": "الخيار D هو الإجابة الصحيحة. أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا. وتذكّر القاعدة: Typical BPH symptoms: unLikely to Need biopsy. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. أعراض تضخم البروستات الحميد النمطية وحدها لا تستدعي خزعة غالبًا. وتذكّر: Typical BPH symptoms: unLikely to Need biopsy. والإجابة الصحيحة هي D."
     }
   ]
 }

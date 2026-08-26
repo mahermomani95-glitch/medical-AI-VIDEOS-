@@ -45,7 +45,7 @@
         "label": "It is more common in girls",
         "sub": "الإجابة الصحيحة"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بمرض هيرشسبرونج، باستثناء؟ (سؤال مكرر، راجع السؤال رقم 481) أمامك هذه الخيارات: There are no ganglion cells seen in Auerbach's plexus، أو There is an increased incidence of down syndrome، أو It is more common in girls، أو Maybe familial، أو On x-ray, the affected bowel is narrowed while the proximal bowel is dilated. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي صحيح فيما يتعلق بمرض هيرشسبرونج، باستثناء؟ (سؤال مكرر، راجع السؤال رقم 481) أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، There are no ganglion cells seen in Auerbach's plexus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Absent ganglion cells, increased Down syndrome incidence, familial pattern in some cases, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is more common in girls. الخيار B، There is an increased incidence of down syndrome: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Absent ganglion cells, increased Down syndrome incidence, familial pattern in some cases, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is more common in girls. الخيار D، Maybe familial: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Absent ganglion cells, increased Down syndrome incidence, familial pattern in some cases, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is more common in girls. الخيار E، On x-ray, the affected bowel is narrowed while the proximal bowel is dilated: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Absent ganglion cells, increased Down syndrome incidence, familial pattern in some cases, and… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو It is more common in girls.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار D، Maybe familial: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -133,13 +133,13 @@
       "pills": [
         "Hirschsprung: Hits Boys more often"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: It is more common in girls. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة."
+      "narration": "الخيار C هو الإجابة الصحيحة. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة. وتذكّر القاعدة: Hirschsprung: Hits Boys more often. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. داء هيرشسبرونغ أشيع بالذكور، لا الإناث كما بالعبارة الخاطئة. وتذكّر: Hirschsprung: Hits Boys more often. والإجابة الصحيحة هي C."
     }
   ]
 }

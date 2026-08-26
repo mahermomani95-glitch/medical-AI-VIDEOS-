@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Crohn's Disease"
       },
-      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 40 عامًا حضرت إلى العيادة تشكو من إسهال دمويمتكرر وألم مغص في البطن لأكثر من 3 أشهر. بالفحص السريري، وُجدت قرحقلاعية متعددة في الفم، والتهاب زاوية الفم، والتهاب الشفة، وكتلة بطنية. أظهرتنظير القولون آفات قفزية في القولون مع ورم حبيبي ظهاري. التشخيصالأكثر احتمالًا هو: أمامك هذه الخيارات: Colon Cancer، أو Rectal Cancer، أو Crohn's Disease، أو Ulcerative Colitis، أو Diverticular Disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريضة تبلغ من العمر 40 عامًا حضرت إلى العيادة تشكو من إسهال دمويمتكرر وألم مغص في البطن لأكثر من 3 أشهر. بالفحص السريري، وُجدت قرحقلاعية متعددة في الفم، والتهاب زاوية الفم، والتهاب الشفة، وكتلة بطنية. أظهرتنظير القولون آفات قفزية في القولون مع ورم حبيبي ظهاري. التشخيصالأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Colon Cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crohn's Disease. يصبح صحيحًا في سؤال يصف Colon cancer, rectal cancer, ulcerative colitis, and diverticular disease can all cause lower GI bleeding, but diverticular disease specifically causes the most massive, sudden, painless bleeding in the elderly. الخيار B، Rectal Cancer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crohn's Disease. يصبح صحيحًا في سؤال يصف Colon cancer, rectal cancer, ulcerative colitis, and diverticular disease can all cause lower GI bleeding, but diverticular disease specifically causes the most massive, sudden, painless bleeding in the elderly. الخيار D، Ulcerative Colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crohn's Disease. يصبح صحيحًا في سؤال يصف Colon cancer, rectal cancer, ulcerative colitis, and diverticular disease can all cause lower GI bleeding, but diverticular disease specifically causes the most massive, sudden, painless bleeding in the elderly. الخيار E، Diverticular Disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Crohn's Disease. يصبح صحيحًا في سؤال يصف Colon cancer, rectal cancer, ulcerative colitis, and diverticular disease can all cause lower GI bleeding, but diverticular disease specifically causes the most massive, sudden, painless bleeding in the elderly.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Colon Cancer: الإجابة الصحيحة هي Crohn's Disease. الخيار B، Rectal Cancer: الإجابة الصحيحة هي Crohn's Disease. الخيار D، Ulcerative Colitis: الإجابة الصحيحة هي Crohn's Disease. الخيار E، Diverticular Disease: الإجابة الصحيحة هي Crohn's Disease. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Skip lesions + granuloma = Crohn's\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Crohn's Disease. الآفات المتقطعة (skip lesions) مع الأورام الحبيبية غير المتجبنة على الخزعة هي التوقيع المميز لداء كرون — متقطع، عابر لكل طبقات الجدار."
+      "narration": "الخيار C، Crohn's Disease هو الإجابة الصحيحة. الآفات المتقطعة (skip lesions) مع الأورام الحبيبية غير المتجبنة على الخزعة هي التوقيع المميز لداء كرون — متقطع، عابر لكل طبقات الجدار."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الآفات المتقطعة (skip lesions) مع الأورام الحبيبية غير المتجبنة على الخزعة هي التوقيع المميز لداء كرون — متقطع، عابر لكل طبقات الجدار. وتذكّر القاعدة: \"Skip lesions + granuloma = Crohn's\". والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. الآفات المتقطعة (skip lesions) مع الأورام الحبيبية غير المتجبنة على الخزعة هي التوقيع المميز لداء كرون — متقطع، عابر لكل طبقات الجدار. وتذكّر: \"Skip lesions + granuloma = Crohn's\". والإجابة الصحيحة هي C."
     }
   ]
 }

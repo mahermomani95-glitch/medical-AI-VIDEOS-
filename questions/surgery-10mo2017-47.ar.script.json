@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Surgery for ulcerative colitis is curative"
       },
-      "narration": "لنبدأ بهذا السؤال. جاءت امرأة في الثلاثين من عمرها إلى عيادتك تطلب رأيك في الجراحة لعلاجالتهاب الأمعاء. ما الجملة التي ستقولها لها؟ أمامك هذه الخيارات: Surgery is the primary treatment for Crohn's disease، أو Surgery for ulcerative colitis is curative، أو Surgery is indicated as prophylaxis for colorectal cancer in Crohn's disease، أو Strictures are common indications for surgery in ulcerative colitis، أو Recurrence is rare after surgery for Crohn's disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جاءت امرأة في الثلاثين من عمرها إلى عيادتك تطلب رأيك في الجراحة لعلاجالتهاب الأمعاء. ما الجملة التي ستقولها لها؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Surgery is the primary treatment for Crohn's disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery for ulcerative colitis is curative. يصبح صحيحًا في سؤال يصف Surgery is NOT the primary treatment for Crohn's disease (medical management is preferred when possible since surgery isn't curative for Crohn's). الخيار C، Surgery is indicated as prophylaxis for colorectal cancer in Crohn's disease: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery for ulcerative colitis is curative. يصبح صحيحًا في سؤال يصف surgery is not specifically prophylactic for colorectal cancer risk in Crohn's the way described. الخيار D، Strictures are common indications for surgery in ulcerative colitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Surgery for ulcerative colitis is curative. يصبح صحيحًا في سؤال يصف strictures are actually a more classic indication for surgery in CROHN'S (not UC, which more often needs surgery for fulminant colitis or dysplasia). الخيار E، Recurrence is rare after surgery for Crohn's disease: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا cure the underlying disease — the true statement is that surgery (total colectomy) IS curative for ulcerative colitis since it's confined to the colon. يصبح صحيحًا في سؤال يصف recurrence after Crohn's surgery is actually COMMON (not rare), since surgery.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: الإجابة الصحيحة هي Surgery for ulcerative colitis is curative. الخيار C: الإجابة الصحيحة هي Surgery for ulcerative colitis is curative. الخيار D: الإجابة الصحيحة هي Surgery for ulcerative colitis is curative. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "UC surgery: truly Curative, unlike Crohn's"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Surgery for ulcerative colitis is curative. جراحة استئصال القولون الكامل بالتقرحي شافية فعليًا، بخلاف كرون."
+      "narration": "الخيار B هو الإجابة الصحيحة. جراحة استئصال القولون الكامل بالتقرحي شافية فعليًا، بخلاف كرون."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. جراحة استئصال القولون الكامل بالتقرحي شافية فعليًا، بخلاف كرون. وتذكّر القاعدة: UC surgery: truly Curative, unlike Crohn's. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. جراحة استئصال القولون الكامل بالتقرحي شافية فعليًا، بخلاف كرون. وتذكّر: UC surgery: truly Curative, unlike Crohn's. والإجابة الصحيحة هي B."
     }
   ]
 }

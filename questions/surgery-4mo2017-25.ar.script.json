@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Insert a needle thoracostomy followed by a chest…"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 34 عامًا، حضر بعد دخوله العناية المركزة، يعاني منضيق شديد في التنفس. ضغط الدم 90/58 ملم زئبق، والنبض 124/دقيقة،والتنفس 30/دقيقة. يعاني المريض من ضائقة تنفسية شديدة. كشف الفحصعن انحراف في القصبة الهوائية إلى الجانب الأيسر، وغياب أصوات التنفسفي الجانب الأيمن من الصدر، وتمدد أوردة الرقبة. أفضل خيار علاجي أوليلهذا المريض هو:؟ أمامك هذه الخيارات: Intubate the patient، أو Cricothyroidotomy، أو Emergency department thoracotomy، أو Insert a needle thoracostomy followed by a chest tube in the right side of chest، أو Pericardiocentesis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 34 عامًا، حضر بعد دخوله العناية المركزة، يعاني منضيق شديد في التنفس. ضغط الدم 90/58 ملم زئبق، والنبض 124/دقيقة،والتنفس 30/دقيقة. يعاني المريض من ضائقة تنفسية شديدة. كشف الفحصعن انحراف في القصبة الهوائية إلى الجانب الأيسر، وغياب أصوات التنفسفي الجانب الأيمن من الصدر، وتمدد أوردة الرقبة. أفضل خيار علاجي أوليلهذا المريض هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Intubate the patient: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا relieve the pleural pressure buildup. يصبح صحيحًا في سؤال يصف Intubation alone. الخيار B، Cricothyroidotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insert a needle thoracostomy followed by a chest tube in the right side of chest. يصبح صحيحًا في سؤال يصف cricothyroidotomy addresses airway obstruction, a different problem. الخيار C، Emergency department thoracotomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Insert a needle thoracostomy followed by a chest tube in the right side of chest. يصبح صحيحًا في سؤال يصف ED thoracotomy is for cardiac arrest from trauma. الخيار E، Pericardiocentesis: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا pneumothorax — needle decompression followed by chest tube placement is the correct management for tension pneumothorax. يصبح صحيحًا في سؤال يصف pericardiocentesis treats tamponade.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Intubate the patient: المطلوب هنا relieve the pleural pressure buildup. الخيار B، Cricothyroidotomy: لا ينطبق على هذه الحالة. الخيار C، Emergency department thoracotomy: لا ينطبق على هذه الحالة. الخيار E، Pericardiocentesis: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Tension pneumothorax: Needle first, then chest"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Insert a needle thoracostomy followed by a chest tube in the right side of chest. بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط."
+      "narration": "الخيار D هو الإجابة الصحيحة. بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط. وتذكّر القاعدة: Tension pneumothorax: Needle first, then chest Tube. والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. بزل الإبرة الفوري متبوعًا بأنبوب صدري هو التسلسل الصحيح لاسترواح الصدر الضاغط. وتذكّر: Tension pneumothorax: Needle first, then chest Tube. والإجابة الصحيحة هي D."
     }
   ]
 }

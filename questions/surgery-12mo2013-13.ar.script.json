@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Cosmetic"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو مؤشرات للعلاج الجراحي العاجل لكسر الجمجمة المنخفضباستثناء؟ أمامك هذه الخيارات: Neurological deficit، أو Decreased level of consciousness، أو Dural tear with pneumocephalus، أو Underlying Subdural hematoma causing mass effect، أو Cosmetic. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي هو مؤشرات للعلاج الجراحي العاجل لكسر الجمجمة المنخفضباستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Neurological deficit: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Neurological deficit, decreased consciousness, dural tear with pneumocephalus, and underlying… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cosmetic. الخيار B، Decreased level of consciousness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Neurological deficit, decreased consciousness, dural tear with pneumocephalus, and underlying… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cosmetic. الخيار C، Dural tear with pneumocephalus: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Neurological deficit, decreased consciousness, dural tear with pneumocephalus, and underlying… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cosmetic. الخيار D، Underlying Subdural hematoma causing mass effect: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Neurological deficit, decreased consciousness, dural tear with pneumocephalus, and underlying… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Cosmetic.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Neurological deficit: صحيحة، لكنها ليست الاستثناء. الخيار B، Decreased level of consciousness: صحيحة، لكنها ليست الاستثناء. الخيار C، Dural tear with pneumocephalus: صحيحة، لكنها ليست الاستثناء. الخيار D: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Depressed fracture: Cosmetic reasons aren't ur"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Cosmetic. الاعتبار التجميلي وحده ليس مؤشرًا جراحيًا عاجلاً لكسر الجمجمة."
+      "narration": "الخيار E، Cosmetic هو الإجابة الصحيحة. الاعتبار التجميلي وحده ليس مؤشرًا جراحيًا عاجلاً لكسر الجمجمة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الاعتبار التجميلي وحده ليس مؤشرًا جراحيًا عاجلاً لكسر الجمجمة. وتذكّر القاعدة: Depressed fracture: Cosmetic reasons aren't urgent. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الاعتبار التجميلي وحده ليس مؤشرًا جراحيًا عاجلاً لكسر الجمجمة. وتذكّر: Depressed fracture: Cosmetic reasons aren't urgent. والإجابة الصحيحة هي E."
     }
   ]
 }

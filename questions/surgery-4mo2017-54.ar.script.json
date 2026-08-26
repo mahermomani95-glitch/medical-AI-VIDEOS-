@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Gastric malignancy"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 80 عامًا تعاني من قيء دموي. تعاني من ألم متقطع فيمنطقة الشرسوف بعد تناول الطعام منذ ستة أشهر. فقدت حوالي 9 كجم منوزنها. بدأت مؤخرًا بتناول ديكلوفيناك. السبب الأكثر احتمالًا لحالتها هو:؟ أمامك هذه الخيارات: Mallory Weiss tear، أو Esophagitis، أو Gastric malignancy، أو Aortoenteric fistula، أو Gastric ulcer. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 80 عامًا تعاني من قيء دموي. تعاني من ألم متقطع فيمنطقة الشرسوف بعد تناول الطعام منذ ستة أشهر. فقدت حوالي 9 كجم منوزنها. بدأت مؤخرًا بتناول ديكلوفيناك. السبب الأكثر احتمالًا لحالتها هو:؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Mallory Weiss tear: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا described here. يصبح صحيحًا في سؤال يصف A Mallory-Weiss tear typically follows forceful vomiting. الخيار B، Esophagitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy. يصبح صحيحًا في سؤال يصف esophagitis and aortoenteric fistula (D, more classic with prior aortic graft) are less likely given the age and presentation. الخيار D، Aortoenteric fistula: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy. يصبح صحيحًا في سؤال يصف esophagitis and aortoenteric fistula (D, more classic with prior aortic graft) are less likely given the age and presentation. الخيار E، Gastric ulcer: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Gastric malignancy. يصبح صحيحًا في سؤال يصف gastric ulcer is possible but less classic — in an elderly patient with intermittent epigastric pain and hematemesis, gastric malignancy should be strongly considered.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Mallory Weiss tear: المطلوب هنا described here. الخيار B، Esophagitis: الإجابة الصحيحة هي Gastric malignancy. الخيار D، Aortoenteric fistula: الإجابة الصحيحة هي Gastric malignancy. الخيار E، Gastric ulcer: الإجابة الصحيحة هي Gastric malignancy. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Elderly, chronic pain, hematemesis: consider M"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Gastric malignancy. قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية."
+      "narration": "الخيار C، Gastric malignancy هو الإجابة الصحيحة. قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية. وتذكّر القاعدة: Elderly, chronic pain, hematemesis: consider Malignancy. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. قيء دموي مع ألم شرسوفي مزمن عند مسنة يرفع الشك بخباثة معدية. وتذكّر: Elderly, chronic pain, hematemesis: consider Malignancy. والإجابة الصحيحة هي C."
     }
   ]
 }

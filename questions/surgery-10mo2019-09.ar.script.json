@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Familial hypocalciuric hypercalcemia"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 40 عامًا يراجع عيادة طبيب عام. مستوى الكالسيوم فيمصل دمه 2.9 مليمول/لتر (المعدل الطبيعي 2.2-2.7) ومستوى الفوسفات 0.8 (المعدل الطبيعي 1.1-1.4). مستوى هرمون الغدة جار الدرقية لديه 9 بيكومول/لتر (المعدل الطبيعي 1.6-6.9). نسبة الكالسيوم والكرياتينين في البولمنخفضة جدًا. التشخيص الأكثر احتمالًا هو: أمامك هذه الخيارات: Familial hypocalciuric hypercalcemia، أو lithium-induced hypercalcemia، أو Primary hyperparathyroidism، أو Tertiary hyperparathyroidism، أو milk-alkali syndrome. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر 40 عامًا يراجع عيادة طبيب عام. مستوى الكالسيوم فيمصل دمه 2.9 مليمول/لتر (المعدل الطبيعي 2.2-2.7) ومستوى الفوسفات 0.8 (المعدل الطبيعي 1.1-1.4). مستوى هرمون الغدة جار الدرقية لديه 9 بيكومول/لتر (المعدل الطبيعي 1.6-6.9). نسبة الكالسيوم والكرياتينين في البولمنخفضة جدًا. التشخيص الأكثر احتمالًا هو: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، lithium-induced hypercalcemia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Familial hypocalciuric hypercalcemia. يصبح صحيحًا في سؤال يصف Lithium-induced hypercalcemia, primary hyperparathyroidism, tertiary hyperparathyroidism, and milk-alkali syndrome can all cause hypercalcemia, but only familial hypocalciuric hypercalcemia matches the specific combination of high calcium with a very low urine calcium/creatinine ratio. الخيار C، Primary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Familial hypocalciuric hypercalcemia. يصبح صحيحًا في سؤال يصف Lithium-induced hypercalcemia, primary hyperparathyroidism, tertiary hyperparathyroidism, and milk-alkali syndrome can all cause hypercalcemia, but only familial hypocalciuric hypercalcemia matches the specific combination of high calcium with a very low urine calcium/creatinine ratio. الخيار D، Tertiary hyperparathyroidism: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Familial hypocalciuric hypercalcemia. يصبح صحيحًا في سؤال يصف Lithium-induced hypercalcemia, primary hyperparathyroidism, tertiary hyperparathyroidism, and milk-alkali syndrome can all cause hypercalcemia, but only familial hypocalciuric hypercalcemia matches the specific combination of high calcium with a very low urine calcium/creatinine ratio. الخيار E، milk-alkali syndrome: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Familial hypocalciuric hypercalcemia. يصبح صحيحًا في سؤال يصف Lithium-induced hypercalcemia, primary hyperparathyroidism, tertiary hyperparathyroidism, and milk-alkali syndrome can all cause hypercalcemia, but only familial hypocalciuric hypercalcemia matches the specific combination of high calcium with a very low urine calcium/creatinine ratio.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، lithium-induced hypercalcemia: الإجابة الصحيحة هي Familial hypocalciuric hypercalcemia. الخيار C، Primary hyperparathyroidism: الإجابة الصحيحة هي Familial hypocalciuric hypercalcemia. الخيار D، Tertiary hyperparathyroidism: الإجابة الصحيحة هي Familial hypocalciuric hypercalcemia. الخيار E، milk-alkali syndrome: الإجابة الصحيحة هي Familial hypocalciuric hypercalcemia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Low urine calcium + high serum calcium = FHH,"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Familial hypocalciuric hypercalcemia. ارتفاع الكالسيوم مع ارتفاع PTH يبدو كفرط نشاط جارات الدرقية الأولي — لكن انخفاض إطراح الكالسيوم بالبول الشديد هو الدليل الذي يقلب التشخيص لفرط كالسيوم الدم العائلي ناقص إطراح الكالسيوم بالبول."
+      "narration": "الخيار A، Familial hypocalciuric hypercalcemia هو الإجابة الصحيحة. ارتفاع الكالسيوم مع ارتفاع PTH يبدو كفرط نشاط جارات الدرقية الأولي — لكن انخفاض إطراح الكالسيوم بالبول الشديد هو الدليل الذي يقلب التشخيص لفرط كالسيوم الدم العائلي ناقص إطراح الكالسيوم بالبول."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع الكالسيوم مع ارتفاع PTH يبدو كفرط نشاط جارات الدرقية الأولي — لكن انخفاض إطراح الكالسيوم بالبول الشديد هو الدليل الذي يقلب التشخيص لفرط كالسيوم الدم العائلي ناقص إطراح الكالسيوم بالبول. وتذكّر القاعدة: \"Low urine calcium + high serum calcium = FHH, not primary HPT\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. ارتفاع الكالسيوم مع ارتفاع PTH يبدو كفرط نشاط جارات الدرقية الأولي — لكن انخفاض إطراح الكالسيوم بالبول الشديد هو الدليل الذي يقلب التشخيص لفرط كالسيوم الدم العائلي ناقص إطراح الكالسيوم بالبول. والإجابة الصحيحة هي A."
     }
   ]
 }

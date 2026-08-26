@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Cholecystectomy"
       },
-      "narration": "لنبدأ بهذا السؤال. أحد الإجراءات التالية هي عملية جراحية نظيفة ملوثة أمامك هذه الخيارات: Diverticulitis، أو Breast surgery، أو Thyroidectomy، أو Hernia repair، أو Cholecystectomy. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أحد الإجراءات التالية هي عملية جراحية نظيفة ملوثة أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Diverticulitis: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholecystectomy. يصبح صحيحًا في سؤال يصف Diverticulitis surgery is typically contaminated or dirty due to bowel content spillage risk. الخيار B، Breast surgery: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring prophylaxis. يصبح صحيحًا في سؤال يصف breast surgery and hernia repair are clean procedures like mastectomy. الخيار C، Thyroidectomy: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Cholecystectomy. يصبح صحيحًا في سؤال يصف thyroidectomy is clean-contaminated since it may open a mucosal-adjacent tract, unlike mastectomy which is purely clean. الخيار D، Hernia repair: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا requiring prophylaxis. يصبح صحيحًا في سؤال يصف breast surgery and hernia repair are clean procedures like mastectomy.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Diverticulitis: الإجابة الصحيحة هي Cholecystectomy. الخيار B، Breast surgery: المطلوب هنا requiring prophylaxis. الخيار C، Thyroidectomy: الإجابة الصحيحة هي Cholecystectomy. الخيار D، Hernia repair: المطلوب هنا requiring prophylaxis. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Cholecystectomy = opens a controlled sterile-"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Cholecystectomy. استئصال المرارة يفتح الجهاز الصفراوي، وهو نظام مخاطي محكوم ونظيف نسبيًا — هذا يجعله نظيفًا-ملوثًا وليس نظيفًا أو قذرًا."
+      "narration": "الخيار E، Cholecystectomy هو الإجابة الصحيحة. استئصال المرارة يفتح الجهاز الصفراوي، وهو نظام مخاطي محكوم ونظيف نسبيًا — هذا يجعله نظيفًا-ملوثًا وليس نظيفًا أو قذرًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. استئصال المرارة يفتح الجهاز الصفراوي، وهو نظام مخاطي محكوم ونظيف نسبيًا — هذا يجعله نظيفًا-ملوثًا وليس نظيفًا أو قذرًا. وتذكّر القاعدة: \"Cholecystectomy = opens a controlled sterile-ish tract = Clean-contaminated\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. استئصال المرارة يفتح الجهاز الصفراوي، وهو نظام مخاطي محكوم ونظيف نسبيًا — هذا يجعله نظيفًا-ملوثًا وليس نظيفًا أو قذرًا. وتذكّر: \"Cholecystectomy = opens a controlled sterile-ish tract = Clean-contaminated\". والإجابة الصحيحة هي E."
     }
   ]
 }

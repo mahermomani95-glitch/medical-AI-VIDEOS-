@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Femoral hernia"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 65 عامًا تعاني من كتلة مؤلمة أسفل الرباط الإربيمباشرةً، والتشخيص الأكثر احتمالًا هو؟ أمامك هذه الخيارات: Inguinal hernia، أو Femoral hernia، أو Obturator hernia، أو Ventral hernia، أو Richter hernia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة تبلغ من العمر 65 عامًا تعاني من كتلة مؤلمة أسفل الرباط الإربيمباشرةً، والتشخيص الأكثر احتمالًا هو؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Inguinal hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف Inguinal hernia presents above the inguinal ligament. الخيار C، Obturator hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a groin mass. يصبح صحيحًا في سؤال يصف obturator hernia presents with medial thigh pain. الخيار D، Ventral hernia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Femoral hernia. يصبح صحيحًا في سؤال يصف ventral hernia occurs at the midline abdomen. الخيار E، Richter hernia: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا a location — a tender mass below the inguinal ligament in an elderly woman is the classic presentation of femoral hernia. يصبح صحيحًا في سؤال يصف Richter hernia refers to partial bowel wall involvement.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Inguinal hernia: الإجابة الصحيحة هي Femoral hernia. الخيار C، Obturator hernia: المطلوب هنا a groin mass. الخيار D، Ventral hernia: الإجابة الصحيحة هي Femoral hernia. الخيار E، Richter hernia: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Below the ligament: Femoral hernia location"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Femoral hernia. كتلة أسفل الرباط الإربي عند سيدة مسنة توقّع على الفتق الفخذي."
+      "narration": "الخيار B، Femoral hernia هو الإجابة الصحيحة. كتلة أسفل الرباط الإربي عند سيدة مسنة توقّع على الفتق الفخذي."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. كتلة أسفل الرباط الإربي عند سيدة مسنة توقّع على الفتق الفخذي. وتذكّر القاعدة: Below the ligament: Femoral hernia location. والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. كتلة أسفل الرباط الإربي عند سيدة مسنة توقّع على الفتق الفخذي. وتذكّر: Below the ligament: Femoral hernia location. والإجابة الصحيحة هي B."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Liver cirrhosis"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي من المضاعفات المعروفة لحصوات المرارة باستثناء أمامك هذه الخيارات: Obstructive jaundice، أو Cholangitis، أو Acute pancreatitis، أو Liver cirrhosis، أو Cholecystoduodenal fistula. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي من المضاعفات المعروفة لحصوات المرارة باستثناء أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obstructive jaundice: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار B، Cholangitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار C، Acute pancreatitis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis. الخيار E، Cholecystoduodenal fistula: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Obstructive jaundice, cholangitis, acute pancreatitis, and cholecystoduodenal fistula are all… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Liver cirrhosis.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Obstructive jaundice: صحيحة، لكنها ليست الاستثناء. الخيار B، Cholangitis: صحيحة، لكنها ليست الاستثناء. الخيار C، Acute pancreatitis: صحيحة، لكنها ليست الاستثناء. الخيار E، Cholecystoduodenal fistula: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Gallstones stay biliary, not hepatic\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Liver cirrhosis. حصى المرارة تسبب مشاكل صفراوية، وليس تشمعًا كبديًا — فهو مسار مرضي مختلف تمامًا."
+      "narration": "الخيار D، Liver cirrhosis هو الإجابة الصحيحة. حصى المرارة تسبب مشاكل صفراوية، وليس تشمعًا كبديًا — فهو مسار مرضي مختلف تمامًا."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. حصى المرارة تسبب مشاكل صفراوية، وليس تشمعًا كبديًا — فهو مسار مرضي مختلف تمامًا. وتذكّر القاعدة: \"Gallstones stay biliary, not hepatic\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. حصى المرارة تسبب مشاكل صفراوية، وليس تشمعًا كبديًا — فهو مسار مرضي مختلف تمامًا. وتذكّر: \"Gallstones stay biliary, not hepatic\". والإجابة الصحيحة هي D."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Change in esophageal mucosa from squamous to…"
       },
-      "narration": "لنبدأ بهذا السؤال. يشير مريء باريت إلى أمامك هذه الخيارات: The change in esophageal mucosa from columnar to squamous، أو The change in esophageal mucosa to transitional epithelium، أو Keratinization of the esophageal mucosa، أو Change in esophageal mucosa from squamous to columnar epithelium، أو Cancer of the esophagus. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. يشير مريء باريت إلى أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، The change in esophageal mucosa from columnar to squamous: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Change in esophageal mucosa from squamous to columnar epithelium. يصبح صحيحًا في سؤال يصف A change from columnar to squamous epithelium is the reverse of what actually happens in Barrett's. الخيار B، The change in esophageal mucosa to transitional epithelium: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the type of metaplasia seen. يصبح صحيحًا في سؤال يصف transitional epithelium and keratinization. الخيار C، Keratinization of the esophageal mucosa: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the type of metaplasia seen. يصبح صحيحًا في سؤال يصف transitional epithelium and keratinization. الخيار E، Cancer of the esophagus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا the definition of Barrett's esophagus itself. يصبح صحيحًا في سؤال يصف esophageal cancer is a possible long-term consequence of Barrett's.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: المطلوب هنا the type of metaplasia seen. الخيار C: المطلوب هنا the type of metaplasia seen. الخيار E، Cancer of the esophagus: المطلوب هنا the definition of Barrett's esophagus itself. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Barrett's = Becomes columnar\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Change in esophageal mucosa from squamous to columnar epithelium. الجزر الحمضي المزمن يدفع بطانة المريء للتحول لنوع واقٍ أكثر: من طلائي حرشفي إلى عمودي، أشبه ببطانة المعدة."
+      "narration": "الخيار D هو الإجابة الصحيحة. الجزر الحمضي المزمن يدفع بطانة المريء للتحول لنوع واقٍ أكثر: من طلائي حرشفي إلى عمودي، أشبه ببطانة المعدة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الجزر الحمضي المزمن يدفع بطانة المريء للتحول لنوع واقٍ أكثر: من طلائي حرشفي إلى عمودي، أشبه ببطانة المعدة. وتذكّر القاعدة: \"Barrett's = Becomes columnar\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. الجزر الحمضي المزمن يدفع بطانة المريء للتحول لنوع واقٍ أكثر: من طلائي حرشفي إلى عمودي، أشبه ببطانة المعدة. وتذكّر: \"Barrett's = Becomes columnar\". والإجابة الصحيحة هي D."
     }
   ]
 }

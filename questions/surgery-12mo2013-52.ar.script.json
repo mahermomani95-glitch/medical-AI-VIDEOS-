@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Multimodal analgesia"
       },
-      "narration": "لنبدأ بهذا السؤال. أفضل سياسة لعلاج الألم بعد الجراحة هي إعطاء؟ أمامك هذه الخيارات: NSAIDS، أو Subcutaneous morphine، أو Paracetamol، أو Regional anesthesia، أو Multimodal analgesia. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أفضل سياسة لعلاج الألم بعد الجراحة هي إعطاء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، NSAIDS: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multimodal analgesia. يصبح صحيحًا في سؤال يصف NSAIDs, subcutaneous morphine, paracetamol, and regional anesthesia are all individually useful analgesic strategies, but combining multiple modalities (multimodal analgesia) is now considered best practice for optimal pain control with fewer side effects. الخيار B، Subcutaneous morphine: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multimodal analgesia. يصبح صحيحًا في سؤال يصف NSAIDs, subcutaneous morphine, paracetamol, and regional anesthesia are all individually useful analgesic strategies, but combining multiple modalities (multimodal analgesia) is now considered best practice for optimal pain control with fewer side effects. الخيار C، Paracetamol: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multimodal analgesia. يصبح صحيحًا في سؤال يصف NSAIDs, subcutaneous morphine, paracetamol, and regional anesthesia are all individually useful analgesic strategies, but combining multiple modalities (multimodal analgesia) is now considered best practice for optimal pain control with fewer side effects. الخيار D، Regional anesthesia: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Multimodal analgesia. يصبح صحيحًا في سؤال يصف NSAIDs, subcutaneous morphine, paracetamol, and regional anesthesia are all individually useful analgesic strategies, but combining multiple modalities (multimodal analgesia) is now considered best practice for optimal pain control with fewer side effects.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، NSAIDS: الإجابة الصحيحة هي Multimodal analgesia. الخيار B، Subcutaneous morphine: الإجابة الصحيحة هي Multimodal analgesia. الخيار C، Paracetamol: الإجابة الصحيحة هي Multimodal analgesia. الخيار D، Regional anesthesia: الإجابة الصحيحة هي Multimodal analgesia. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Postoperative pain: Multimodal approach Maximi"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Multimodal analgesia. التسكين متعدد الأنماط يجمع آليات مختلفة لتحكم أفضل بالألم."
+      "narration": "الخيار E، Multimodal analgesia هو الإجابة الصحيحة. التسكين متعدد الأنماط يجمع آليات مختلفة لتحكم أفضل بالألم."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التسكين متعدد الأنماط يجمع آليات مختلفة لتحكم أفضل بالألم. وتذكّر القاعدة: Postoperative pain: Multimodal approach Maximizes control. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التسكين متعدد الأنماط يجمع آليات مختلفة لتحكم أفضل بالألم. وتذكّر: Postoperative pain: Multimodal approach Maximizes control. والإجابة الصحيحة هي E."
     }
   ]
 }

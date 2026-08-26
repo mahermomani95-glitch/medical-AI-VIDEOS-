@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "She should receive a colonoscopy at age 50"
       },
-      "narration": "لنبدأ بهذا السؤال. امرأة بيضاء تبلغ من العمر 42 عامًا، تعاني من سمنة مفرطة (مؤشر كتلةالجسم = 40)، تزور عيادتكم لتطلب معلومات عن فحص سرطان القولون، وهيلا تعاني من أي أعراض. ​​أي من العبارات التالية صحيحة؟ أمامك هذه الخيارات: She should have received a colonoscopy between age 10-12، أو She should have received a colonoscopy between age 20-25، أو She should have received a colonoscopy at age 40، أو She should receive a colonoscopy at age 45، أو She should receive a colonoscopy at age 50. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. امرأة بيضاء تبلغ من العمر 42 عامًا، تعاني من سمنة مفرطة (مؤشر كتلةالجسم = 40)، تزور عيادتكم لتطلب معلومات عن فحص سرطان القولون، وهيلا تعاني من أي أعراض. ​​أي من العبارات التالية صحيحة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، She should have received a colonoscopy between age 10-12: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي She should receive a colonoscopy at age 50. يصبح صحيحًا في سؤال يصف Screening between age 10-25 is far too early for average-risk patients. الخيار B، She should have received a colonoscopy between age 20-25: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي She should receive a colonoscopy at age 50. يصبح صحيحًا في سؤال يصف Screening between age 10-25 is far too early for average-risk patients. الخيار C، She should have received a colonoscopy at age 40: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي She should receive a colonoscopy at age 50. يصبح صحيحًا في سؤال يصف age 40 and 45 are earlier than the traditional average-risk starting age — age 50 has traditionally been the recommended starting age for average-risk colorectal cancer screening. الخيار D، She should receive a colonoscopy at age 45: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي She should receive a colonoscopy at age 50. يصبح صحيحًا في سؤال يصف age 40 and 45 are earlier than the traditional average-risk starting age — age 50 has traditionally been the recommended starting age for average-risk colorectal cancer screening.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار B: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Standard colon cancer screening: age Fifty"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: She should receive a colonoscopy at age 50. التوصية القياسية لبدء تنظير القولون الفرزي هي عمر 50 حتى بوجود السمنة."
+      "narration": "الخيار E هو الإجابة الصحيحة. التوصية القياسية لبدء تنظير القولون الفرزي هي عمر 50 حتى بوجود السمنة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. التوصية القياسية لبدء تنظير القولون الفرزي هي عمر 50 حتى بوجود السمنة. وتذكّر القاعدة: Standard colon cancer screening: age Fifty. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. التوصية القياسية لبدء تنظير القولون الفرزي هي عمر 50 حتى بوجود السمنة. وتذكّر: Standard colon cancer screening: age Fifty. والإجابة الصحيحة هي E."
     }
   ]
 }

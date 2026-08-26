@@ -45,7 +45,7 @@
         "region": "limb",
         "label": "Prophylactic antibiotics"
       },
-      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر ٢٠ عامًا حضر إلى قسم الطوارئ مصابًا بحرق بنسبة٣٠٪ في الوجه والرقبة. جميع الإجراءات التالية صحيحة باستثناء: أمامك هذه الخيارات: Tetanus prophylaxis، أو Intubation، أو Proton pump inhibitors، أو Prophylactic antibiotics، أو Fluid resuscitation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. مريض يبلغ من العمر ٢٠ عامًا حضر إلى قسم الطوارئ مصابًا بحرق بنسبة٣٠٪ في الوجه والرقبة. جميع الإجراءات التالية صحيحة باستثناء: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tetanus prophylaxis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics. الخيار B، Intubation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics. الخيار C، Proton pump inhibitors: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics. الخيار E، Fluid resuscitation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Tetanus prophylaxis, intubation (given face/neck involvement), PPIs (stress ulcer prevention)… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Prophylactic antibiotics.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Tetanus prophylaxis: صحيحة، لكنها ليست الاستثناء. الخيار B، Intubation: صحيحة، لكنها ليست الاستثناء. الخيار C، Proton pump inhibitors: صحيحة، لكنها ليست الاستثناء. الخيار E، Fluid resuscitation: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Burns = no routine prophylactic antibiotics\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Prophylactic antibiotics. المضادات الحيوية الوقائية لا تُعطى روتينيًا للحروق — تُحفظ لعدوى موثقة، لأن الاستخدام الوقائي يشجّع نمو جراثيم مقاومة."
+      "narration": "الخيار D، Prophylactic antibiotics هو الإجابة الصحيحة. المضادات الحيوية الوقائية لا تُعطى روتينيًا للحروق — تُحفظ لعدوى موثقة، لأن الاستخدام الوقائي يشجّع نمو جراثيم مقاومة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. المضادات الحيوية الوقائية لا تُعطى روتينيًا للحروق — تُحفظ لعدوى موثقة، لأن الاستخدام الوقائي يشجّع نمو جراثيم مقاومة. وتذكّر القاعدة: \"Burns = no routine prophylactic antibiotics\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. المضادات الحيوية الوقائية لا تُعطى روتينيًا للحروق — تُحفظ لعدوى موثقة، لأن الاستخدام الوقائي يشجّع نمو جراثيم مقاومة. وتذكّر: \"Burns = no routine prophylactic antibiotics\". والإجابة الصحيحة هي D."
     }
   ]
 }

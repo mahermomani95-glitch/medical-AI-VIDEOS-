@@ -45,7 +45,7 @@
         "region": "head",
         "label": "In graves disease, TSH increased while T4 markedly…"
       },
-      "narration": "لنبدأ بهذا السؤال. في مرض القبور كل شيء صحيح ما عدا أمامك هذه الخيارات: It is the most common cause of Thyrotoxicosis، أو More common in women، أو Treatment includes medical, iodine ablation, and surgery، أو In graves disease, TSH increased while T4 markedly decreased، أو Diarrhea, palpitation, and heat intolerance can be found in graves disease. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. في مرض القبور كل شيء صحيح ما عدا أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، It is the most common cause of Thyrotoxicosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common cause of hyperthyroidism, more common in women, treated medically/with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو In graves disease, TSH increased while T4 markedly decreased. الخيار B، More common in women: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Being the most common cause of hyperthyroidism, more common in women, treated medically/with… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو In graves disease, TSH increased while T4 markedly decreased. الخيار C، Treatment includes medical, iodine ablation, and surgery: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. treatment does include medical, iodine, and surgical options يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو In graves disease, TSH increased while T4 markedly decreased. الخيار E، Diarrhea, palpitation, and heat intolerance can be found in graves disease: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. diarrhea, palpitations, and heat intolerance are indeed found in Graves' disease يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو In graves disease, TSH increased while T4 markedly decreased.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A: صحيحة، لكنها ليست الاستثناء. الخيار B، More common in women: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Graves = Low TSH, High T4\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: In graves disease, TSH increased while T4 markedly decreased. في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية."
+      "narration": "الخيار D هو الإجابة الصحيحة. في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية. وتذكّر القاعدة: \"Graves = Low TSH, High T4\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. في داء غريفز، يكون TSH منخفضًا (مثبطًا) وليس مرتفعًا — الدرقية تعمل ذاتيًا بتحفيز أضداد TSI دون إشارة نخامية. وتذكّر: \"Graves = Low TSH, High T4\". والإجابة الصحيحة هي D."
     }
   ]
 }

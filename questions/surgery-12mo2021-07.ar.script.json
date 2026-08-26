@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Exploratory laparotomy, manual reduction and…"
       },
-      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن إدارة الانغلاف المعوي عند البالغين صحيحة؟ أمامك هذه الخيارات: Barium enema with pneumatic decompression، أو Exploratory laparotomy, manual reduction and resection of the involved segment، أو Exploratory laparotomy and manual reduction، أو Exploratory laparotomy and intestinal bypass، أو Nasogastric tube placement, intravenous fluid, and trial of nonoperative management. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أي من العبارات التالية عن إدارة الانغلاف المعوي عند البالغين صحيحة؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Barium enema with pneumatic decompression: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Exploratory laparotomy, manual reduction and resection of the involved segment. يصبح صحيحًا في سؤال يصف Barium enema with pneumatic decompression and nonoperative trial with NG tube/IV fluids are the pediatric approach, inappropriate for adults given the high likelihood of an underlying pathologic lead point. الخيار C، Exploratory laparotomy and manual reduction: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Exploratory laparotomy, manual reduction and resection of the involved segment. يصبح صحيحًا في سؤال يصف simple manual reduction without resection risks leaving a malignancy in place. الخيار D، Exploratory laparotomy and intestinal bypass: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا address the underlying pathology directly the way resection does. يصبح صحيحًا في سؤال يصف intestinal bypass. الخيار E، Nasogastric tube placement, intravenous fluid, and trial of nonoperative management: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Exploratory laparotomy, manual reduction and resection of the involved segment. يصبح صحيحًا في سؤال يصف Barium enema with pneumatic decompression and nonoperative trial with NG tube/IV fluids are the pediatric approach, inappropriate for adults given the high likelihood of an underlying pathologic lead point.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A: لا ينطبق على هذه الحالة. الخيار C: لا ينطبق على هذه الحالة. الخيار D: لا ينطبق على هذه الحالة. الخيار E: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Adult intussusception = Surgery + resection ("
       ],
-      "narration": "الإجابة الصحيحة هي الخيار B: Exploratory laparotomy, manual reduction and resection of the involved segment. الانغلاف عند البالغين له غالبًا سبب عضوي كامن (غالبًا ورم) — يحتاج جراحة مع استئصال الجزء المصاب، بعكس الإرجاع بالحقنة الشرجية المستخدم عند الأطفال."
+      "narration": "الخيار B هو الإجابة الصحيحة. الانغلاف عند البالغين له غالبًا سبب عضوي كامن (غالبًا ورم) — يحتاج جراحة مع استئصال الجزء المصاب، بعكس الإرجاع بالحقنة الشرجية المستخدم عند الأطفال."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الانغلاف عند البالغين له غالبًا سبب عضوي كامن (غالبًا ورم) — يحتاج جراحة مع استئصال الجزء المصاب، بعكس الإرجاع بالحقنة الشرجية المستخدم عند الأطفال. وتذكّر القاعدة: \"Adult intussusception = Surgery + resection (pathologic lead point), not enema reduction\". والإجابة الصحيحة هي B."
+      "narration": "لنُثبّت الفكرة. الانغلاف عند البالغين له غالبًا سبب عضوي كامن (غالبًا ورم) — يحتاج جراحة مع استئصال الجزء المصاب، بعكس الإرجاع بالحقنة الشرجية المستخدم عند الأطفال. والإجابة الصحيحة هي B."
     }
   ]
 }

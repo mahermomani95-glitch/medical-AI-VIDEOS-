@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Associated with peripheral arterial occlusive…"
       },
-      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح عن أمهات الدم الأبهرية البطنية ما عدا: أمامك هذه الخيارات: Most are infrarenal، أو Most are fusiform in shape، أو Most are due to atherosclerosis، أو Associated with peripheral arterial occlusive disease presents in most cases، أو CT scan is required for the definitive evaluation. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. جميع ما يلي صحيح عن أمهات الدم الأبهرية البطنية ما عدا: أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Most are infrarenal: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Most being infrarenal and fusiform, atherosclerosis as the main cause, and CT scan for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Associated with peripheral arterial occlusive disease presents in most cases. الخيار B، Most are fusiform in shape: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Most being infrarenal and fusiform, atherosclerosis as the main cause, and CT scan for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Associated with peripheral arterial occlusive disease presents in most cases. الخيار C، Most are due to atherosclerosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Most being infrarenal and fusiform, atherosclerosis as the main cause, and CT scan for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Associated with peripheral arterial occlusive disease presents in most cases. الخيار E، CT scan is required for the definitive evaluation: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Most being infrarenal and fusiform, atherosclerosis as the main cause, and CT scan for… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Associated with peripheral arterial occlusive disease presents in most cases.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Most are infrarenal: صحيحة، لكنها ليست الاستثناء. الخيار B: صحيحة، لكنها ليست الاستثناء. الخيار C: صحيحة، لكنها ليست الاستثناء. الخيار E: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"AAA ≠ always with symptomatic peripheral occl"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Associated with peripheral arterial occlusive disease presents in most cases. مرض الانسداد الشرياني الطرفي لا يترافق في معظم حالات أم الدم الأبهرية البطنية — رغم اشتراكهما بتصلب الشرايين كعامل خطر، معظم مرضى أم الدم لا يعانون من مرض انسدادي طرفي عرضي واضح."
+      "narration": "الخيار D هو الإجابة الصحيحة. مرض الانسداد الشرياني الطرفي لا يترافق في معظم حالات أم الدم الأبهرية البطنية — رغم اشتراكهما بتصلب الشرايين كعامل خطر، معظم مرضى أم الدم لا يعانون من مرض انسدادي طرفي عرضي واضح."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. مرض الانسداد الشرياني الطرفي لا يترافق في معظم حالات أم الدم الأبهرية البطنية — رغم اشتراكهما بتصلب الشرايين كعامل خطر، معظم مرضى أم الدم لا يعانون من مرض انسدادي طرفي عرضي واضح. وتذكّر القاعدة: \"AAA ≠ always with symptomatic peripheral occlusive disease\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. مرض الانسداد الشرياني الطرفي لا يترافق في معظم حالات أم الدم الأبهرية البطنية — رغم اشتراكهما بتصلب الشرايين كعامل خطر، معظم مرضى أم الدم لا يعانون من مرض انسدادي طرفي عرضي واضح. وتذكّر: \"AAA ≠ always with symptomatic peripheral occlusive disease\". والإجابة الصحيحة هي D."
     }
   ]
 }

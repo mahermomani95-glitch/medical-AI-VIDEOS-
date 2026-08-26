@@ -45,7 +45,7 @@
         "region": "chest",
         "label": "Metabolic alkalosis partially compensated"
       },
-      "narration": "لنبدأ بهذا السؤال. أفاد مريضٌ بأنه يتقيأ منذ أربعة أيام. المريض عصبيّ، وضعيف، ويُبلغ عنتقلصات عضلية وضعف. عند التقييم، يُعاني المريض من بطء في التنفس معمعدل تنفس يبلغ 10. كانت نتيجة فحص غازات الدم الشرياني للمريض كمايلي: ثاني أكسيد الكربون 40، درجة الحموضة 7.55، ضغط ثاني أكسيدالكربون 50. ما هي الحالة التالية التي تُعاني منها؟ أمامك هذه الخيارات: Metabolic alkalosis partially compensated، أو Metabolic alkalosis fully compensated، أو Metabolic acidosis partially compensated، أو Metabolic acidosis not compensated، أو Respiratory alkalosis not compensated. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. أفاد مريضٌ بأنه يتقيأ منذ أربعة أيام. المريض عصبيّ، وضعيف، ويُبلغ عنتقلصات عضلية وضعف. عند التقييم، يُعاني المريض من بطء في التنفس معمعدل تنفس يبلغ 10. كانت نتيجة فحص غازات الدم الشرياني للمريض كمايلي: ثاني أكسيد الكربون 40، درجة الحموضة 7.55، ضغط ثاني أكسيدالكربون 50. ما هي الحالة التالية التي تُعاني منها؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار B، Metabolic alkalosis fully compensated: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Metabolic alkalosis partially compensated. يصبح صحيحًا في سؤال يصف Fully compensated metabolic alkalosis would show a near-normal pH, unlike here. الخيار C، Metabolic acidosis partially compensated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the elevated pH and bicarbonate seen. يصبح صحيحًا في سؤال يصف metabolic acidosis. الخيار D، Metabolic acidosis not compensated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the elevated pH and bicarbonate seen. يصبح صحيحًا في سؤال يصف metabolic acidosis. الخيار E، Respiratory alkalosis not compensated: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا match the primary metabolic bicarbonate elevation described. يصبح صحيحًا في سؤال يصف respiratory alkalosis.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار B، Metabolic alkalosis fully compensated: الإجابة الصحيحة هي Metabolic alkalosis partially compensated. الخيار C، Metabolic acidosis partially compensated: لا ينطبق على هذه الحالة. الخيار D، Metabolic acidosis not compensated: لا ينطبق على هذه الحالة. الخيار E، Respiratory alkalosis not compensated: لا ينطبق على هذه الحالة. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"pH still abnormal = only PARTIAL compensation"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار A: Metabolic alkalosis partially compensated. ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط."
+      "narration": "الخيار A، Metabolic alkalosis partially compensated هو الإجابة الصحيحة. ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط. وتذكّر القاعدة: \"pH still abnormal = only PARTIAL compensation\". والإجابة الصحيحة هي A."
+      "narration": "لنُثبّت الفكرة. ارتفاع pH مع ارتفاع البيكربونات يؤكد القلاء الاستقلابي، وارتفاع PaCO2 يُظهر أن الرئتين بدأتا بحبس CO2 تعويضيًا — لكن pH لا يزال غير طبيعي بوضوح، مما يعني تعويضًا جزئيًا فقط. وتذكّر: \"pH still abnormal = only PARTIAL compensation\". والإجابة الصحيحة هي A."
     }
   ]
 }

@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Hyperkalemia"
       },
-      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتشوهات الأيضية في تضيق البواب، كلها صحيحة باستثناء؟ أمامك هذه الخيارات: Hyponatremia، أو Hypochloremia، أو Hyperkalemia، أو Primary metabolic alkalosis، أو Compensatory respiratory acidosis. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. فيما يتعلق بالتشوهات الأيضية في تضيق البواب، كلها صحيحة باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hyponatremia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hyponatremia, hypochloremia, primary metabolic alkalosis, and compensatory respiratory… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperkalemia. الخيار B، Hypochloremia: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hyponatremia, hypochloremia, primary metabolic alkalosis, and compensatory respiratory… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperkalemia. الخيار D، Primary metabolic alkalosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hyponatremia, hypochloremia, primary metabolic alkalosis, and compensatory respiratory… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperkalemia. الخيار E، Compensatory respiratory acidosis: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Hyponatremia, hypochloremia, primary metabolic alkalosis, and compensatory respiratory… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Hyperkalemia.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Hyponatremia: صحيحة، لكنها ليست الاستثناء. الخيار B، Hypochloremia: صحيحة، لكنها ليست الاستثناء. الخيار D، Primary metabolic alkalosis: صحيحة، لكنها ليست الاستثناء. الخيار E، Compensatory respiratory acidosis: صحيحة، لكنها ليست الاستثناء. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Pyloric stenosis: Hypokalemia, not hyper"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار C: Hyperkalemia. تضيق البواب يخفض البوتاسيوم بالقيء المستمر، لا يرفعه."
+      "narration": "الخيار C، Hyperkalemia هو الإجابة الصحيحة. تضيق البواب يخفض البوتاسيوم بالقيء المستمر، لا يرفعه."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. تضيق البواب يخفض البوتاسيوم بالقيء المستمر، لا يرفعه. وتذكّر القاعدة: Pyloric stenosis: Hypokalemia, not hyper. والإجابة الصحيحة هي C."
+      "narration": "لنُثبّت الفكرة. تضيق البواب يخفض البوتاسيوم بالقيء المستمر، لا يرفعه. وتذكّر: Pyloric stenosis: Hypokalemia, not hyper. والإجابة الصحيحة هي C."
     }
   ]
 }

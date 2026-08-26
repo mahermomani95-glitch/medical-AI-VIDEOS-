@@ -45,7 +45,7 @@
         "region": "pelvis",
         "label": "Hexagonal shape"
       },
-      "narration": "لنبدأ بهذا السؤال. السمة المميزة لحصوات الكلى السيستينية هي أمامك هذه الخيارات: Coffin lid shaped، أو Rhomboid shaped، أو Dumbbell shaped، أو Rosette shaped، أو Hexagonal shape. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. السمة المميزة لحصوات الكلى السيستينية هي أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Coffin lid shaped: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hexagonal shape. يصبح صحيحًا في سؤال يصف Coffin lid shaped describes struvite stones, rhomboid and dumbbell shapes aren't classic descriptions used for common stone types, and rosette shaped isn't the classic cystine description either — cystine stones are specifically hexagonal. الخيار B، Rhomboid shaped: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hexagonal shape. يصبح صحيحًا في سؤال يصف Coffin lid shaped describes struvite stones, rhomboid and dumbbell shapes aren't classic descriptions used for common stone types, and rosette shaped isn't the classic cystine description either — cystine stones are specifically hexagonal. الخيار C، Dumbbell shaped: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hexagonal shape. يصبح صحيحًا في سؤال يصف Coffin lid shaped describes struvite stones, rhomboid and dumbbell shapes aren't classic descriptions used for common stone types, and rosette shaped isn't the classic cystine description either — cystine stones are specifically hexagonal. الخيار D، Rosette shaped: لا يتوافق مع معطيات هذا السؤال؛ الإجابة الصحيحة هي Hexagonal shape. يصبح صحيحًا في سؤال يصف Coffin lid shaped describes struvite stones, rhomboid and dumbbell shapes aren't classic descriptions used for common stone types, and rosette shaped isn't the classic cystine description either — cystine stones are specifically hexagonal.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Coffin lid shaped: الإجابة الصحيحة هي Hexagonal shape. الخيار B، Rhomboid shaped: الإجابة الصحيحة هي Hexagonal shape. الخيار C، Dumbbell shaped: الإجابة الصحيحة هي Hexagonal shape. الخيار D، Rosette shaped: الإجابة الصحيحة هي Hexagonal shape. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Cystine = Six-sided (hexagonal)\""
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Hexagonal shape. بلورات السيستين تتخذ شكلًا سداسيًا مميزًا تحت المجهر."
+      "narration": "الخيار E، Hexagonal shape هو الإجابة الصحيحة. بلورات السيستين تتخذ شكلًا سداسيًا مميزًا تحت المجهر."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. بلورات السيستين تتخذ شكلًا سداسيًا مميزًا تحت المجهر. وتذكّر القاعدة: \"Cystine = Six-sided (hexagonal)\". والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. بلورات السيستين تتخذ شكلًا سداسيًا مميزًا تحت المجهر. وتذكّر: \"Cystine = Six-sided (hexagonal)\". والإجابة الصحيحة هي E."
     }
   ]
 }

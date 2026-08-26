@@ -45,7 +45,7 @@
         "region": "head",
         "label": "Pain and tenderness"
       },
-      "narration": "لنبدأ بهذا السؤال. كل ما يلي يزيد من الشك في وجود عقيدة خبيثة في الغدة الدرقية باستثناء؟ أمامك هذه الخيارات: Age less than 20، أو More common in females، أو Age more than 60، أو New onset of hoarseness، أو Pain and tenderness. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال. كل ما يلي يزيد من الشك في وجود عقيدة خبيثة في الغدة الدرقية باستثناء؟ أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع بقية الخيارات واحدًا واحدًا — وكلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Age less than 20: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, female predominance… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار B، More common in females: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, female predominance… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار C، Age more than 60: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, female predominance… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness. الخيار D، New onset of hoarseness: عبارة صحيحة فعليًا، والسؤال يطلب الاستثناء. Age under 20 and over 60, female predominance… يصبح هو الإجابة في سؤال يسأل: أيٌّ مما يلي ينطبق فعلًا؟ أما هنا فالمطلوب الاستثناء، وهو Pain and tenderness.",
+      "narration": "لنراجع بقية الخيارات — كلها عبارات صحيحة فعليًا، والمطلوب هو الاستثناء. الخيار A، Age less than 20: صحيحة، لكنها ليست الاستثناء. Age under 20 and over 60, female predominance… الخيار B، More common in females: صحيحة، لكنها ليست الاستثناء. Age under 20 and over 60, female predominance… الخيار C، Age more than 60: صحيحة، لكنها ليست الاستثناء. Age under 20 and over 60, female predominance… الخيار D، New onset of hoarseness: صحيحة، لكنها ليست الاستثناء. Age under 20 and over 60, female predominance… والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "Painful thyroid nodule: Points toward Benign c"
       ],
-      "narration": "الإجابة الصحيحة هي الخيار E: Pain and tenderness. الألم والتحسس يوجهان لسبب حميد، لا يرفعان الشك بالخباثة."
+      "narration": "الخيار E، Pain and tenderness هو الإجابة الصحيحة. الألم والتحسس يوجهان لسبب حميد، لا يرفعان الشك بالخباثة."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. الألم والتحسس يوجهان لسبب حميد، لا يرفعان الشك بالخباثة. وتذكّر القاعدة: Painful thyroid nodule: Points toward Benign cause. والإجابة الصحيحة هي E."
+      "narration": "لنُثبّت الفكرة. الألم والتحسس يوجهان لسبب حميد، لا يرفعان الشك بالخباثة. وتذكّر: Painful thyroid nodule: Points toward Benign cause. والإجابة الصحيحة هي E."
     }
   ]
 }

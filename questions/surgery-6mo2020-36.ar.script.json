@@ -45,7 +45,7 @@
         "region": "abdomen",
         "label": "Iron deficiency anemia"
       },
-      "narration": "لنبدأ بهذا السؤال.  أمامك هذه الخيارات: Suprapubic pain، أو Bleeding per rectum، أو Tenesmus، أو Iron deficiency anemia، أو Intestinal obstruction. لنحللها معًا."
+      "narration": "لنبدأ بهذا السؤال.  أمامك 5 خيارات على الشاشة. لنحللها معًا."
     },
     {
       "id": "OPTIONS",
@@ -79,7 +79,7 @@
       "visual": "verdict_list",
       "heading_ar": "تحليل كل خيار",
       "caption": "لماذا كل خيار صحيح أو خاطئ",
-      "narration": "لنراجع الخيارات الخاطئة واحدًا واحدًا. الخيار A، Suprapubic pain: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically the first symptom. يصبح صحيحًا في سؤال يصف Suprapubic pain, rectal bleeding, tenesmus, and intestinal obstruction are all true associated features of rectosigmoid cancer, unlike vomiting which. الخيار B، Bleeding per rectum: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically the first symptom. يصبح صحيحًا في سؤال يصف Suprapubic pain, rectal bleeding, tenesmus, and intestinal obstruction are all true associated features of rectosigmoid cancer, unlike vomiting which. الخيار C، Tenesmus: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically the first symptom. يصبح صحيحًا في سؤال يصف Suprapubic pain, rectal bleeding, tenesmus, and intestinal obstruction are all true associated features of rectosigmoid cancer, unlike vomiting which. الخيار E، Intestinal obstruction: لا يتوافق مع معطيات هذا السؤال — المطلوب هنا typically the first symptom. يصبح صحيحًا في سؤال يصف Suprapubic pain, rectal bleeding, tenesmus, and intestinal obstruction are all true associated features of rectosigmoid cancer, unlike vomiting which.",
+      "narration": "لنراجع الخيارات الخاطئة. الخيار A، Suprapubic pain: المطلوب هنا typically the first symptom. الخيار B، Bleeding per rectum: المطلوب هنا typically the first symptom. الخيار C، Tenesmus: المطلوب هنا typically the first symptom. الخيار E، Intestinal obstruction: المطلوب هنا typically the first symptom. والتفصيل الكامل لكل خيار، ومتى يصبح صحيحًا، مكتوب أمامك على الشاشة.",
       "verdicts": [
         {
           "letter": "A",
@@ -137,13 +137,13 @@
       "pills": [
         "\"Right colon = wide lumen = occult bleeding = "
       ],
-      "narration": "الإجابة الصحيحة هي الخيار D: Iron deficiency anemia. اتساع لمعة القولون الأيمن ومحتواه السائل يعنيان أن أورامه تنزف بشكل خفي لفترة طويلة قبل التسبب بانسداد — فتتظاهر كفقر دم بعوز الحديد."
+      "narration": "الخيار D، Iron deficiency anemia هو الإجابة الصحيحة. اتساع لمعة القولون الأيمن ومحتواه السائل يعنيان أن أورامه تنزف بشكل خفي لفترة طويلة قبل التسبب بانسداد — فتتظاهر كفقر دم بعوز الحديد."
     },
     {
       "id": "TAKE_HOME",
       "visual": "summary_card",
       "caption": "نلقاكم في السؤال القادم",
-      "narration": "لنُثبّت الفكرة. اتساع لمعة القولون الأيمن ومحتواه السائل يعنيان أن أورامه تنزف بشكل خفي لفترة طويلة قبل التسبب بانسداد — فتتظاهر كفقر دم بعوز الحديد. وتذكّر القاعدة: \"Right colon = wide lumen = occult bleeding = Iron deficiency anemia\". والإجابة الصحيحة هي D."
+      "narration": "لنُثبّت الفكرة. اتساع لمعة القولون الأيمن ومحتواه السائل يعنيان أن أورامه تنزف بشكل خفي لفترة طويلة قبل التسبب بانسداد — فتتظاهر كفقر دم بعوز الحديد. والإجابة الصحيحة هي D."
     }
   ]
 }
