@@ -545,9 +545,13 @@ def build_script(course, q, course_index, total_in_course):
     # ---- narration ----------------------------------------------------
     # Don't read all five options aloud -- they are on screen in the next
     # scene, and reciting them was ~160k characters of English across the bank.
+    # The opening frame carries the stem and all choices, so the narration
+    # reads the stem and then leaves a beat for the student to actually try
+    # the question before the explanation starts.
     n_question = (
         f"لنبدأ بهذا السؤال. {stem_ar or ''} "
-        f"أمامك {len(q['choices'])} خيارات على الشاشة. لنحللها معًا."
+        f"أمامك {len(q['choices'])} خيارات على الشاشة — "
+        "اقرأها وحاول أن تجيب قبل أن نكمل."
     ).strip()
 
     n_purpose = f"قبل أن نتابع، هذه هي فكرة السؤال الأساسية. مغزى السؤال: {purpose}"
@@ -616,12 +620,9 @@ def build_script(course, q, course_index, total_in_course):
             "illustration": illo,
             "narration": n_question,
         },
-        {
-            "id": "OPTIONS",
-            "visual": "options_list",
-            "caption": "اختر الإجابة الصحيحة",
-            "narration": "إليك الخيارات أمامك، خذ لحظة وانظر إليها قبل أن نكمل.",
-        },
+        # No separate options scene: the opening frame already shows the stem
+        # and every choice together, so the student can attempt the question
+        # before any teaching begins.
         {
             "id": "PURPOSE",
             "visual": "purpose_card",

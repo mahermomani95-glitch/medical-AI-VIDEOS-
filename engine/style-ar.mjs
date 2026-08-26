@@ -88,6 +88,27 @@ html,body{margin:0;width:1920px;height:1080px;background:var(--bg);color:var(--i
 .verdict-ar{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:17px;color:#3a3a3a;margin-top:5px;line-height:1.4}
 .verdict-elsewhere{direction:rtl;text-align:right;font-family:Cairo,Arial,sans-serif;font-weight:600;font-size:15px;color:#5b4a22;margin-top:4px;line-height:1.4;padding-top:4px;border-top:2px dashed #ddd}
 .scene-heading{font-family:Anton,Arial,sans-serif;font-size:36px;color:var(--ink);margin-bottom:6px}
+/* Full-question opening scene: stem + all choices on one frame. Three
+   density steps keep long questions inside 1080px without shrinking short
+   ones unnecessarily. */
+.q-full .headline-en{max-width:1740px}
+.q-full .headline-ar{max-width:1740px}
+.q-full .opt-block{max-width:1740px;margin-top:18px}
+.opt-row.compact{padding:11px 22px;margin-bottom:9px;gap:16px}
+.opt-row.compact .opt-badge{width:38px;height:38px;font-size:22px}
+.opt-row.compact .opt-text{font-size:24px}
+.q-full.mid .headline-en{font-size:46px}
+.q-full.mid .headline-ar{font-size:30px;margin-top:16px}
+.q-full.mid .opt-row.compact{padding:9px 20px;margin-bottom:7px}
+.q-full.mid .opt-row.compact .opt-text{font-size:21px}
+.q-full.mid .opt-row.compact .opt-badge{width:34px;height:34px;font-size:19px}
+.q-full.dense .headline-en{font-size:38px;line-height:1.1}
+.q-full.dense .headline-ar{font-size:25px;margin-top:12px;line-height:1.45}
+.q-full.dense .q-pill{font-size:27px;margin-top:8px}
+.q-full.dense .opt-block{margin-top:12px}
+.q-full.dense .opt-row.compact{padding:7px 18px;margin-bottom:6px;border-radius:13px}
+.q-full.dense .opt-row.compact .opt-text{font-size:18.5px;line-height:1.3}
+.q-full.dense .opt-row.compact .opt-badge{width:30px;height:30px;font-size:17px;border-width:2px}
 .card.warn-shadow{box-shadow:10px 10px 0 #FF6B6B}
 .card-label{display:inline-block;font-family:Anton,Arial,sans-serif;font-size:24px;color:var(--white);background:var(--ink);border-radius:999px;padding:8px 26px;margin-bottom:16px}
 .card-label.warn{background:#B8362E}

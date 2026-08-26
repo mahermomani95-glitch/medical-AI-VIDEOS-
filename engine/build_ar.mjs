@@ -33,14 +33,26 @@ const esc = (s = "") => String(s)
 const wrap = (inner) => `<!doctype html><html><head><meta charset="utf-8"><style>${BASE_STYLE_AR}</style></head>
 <body>${inner}</body></html>`;
 
+// Opening scene: the complete MCQ -- stem AND every choice -- so a student
+// can actually attempt the question before any teaching starts, the way they
+// would meet it in an exam. Splitting the stem and the choices across two
+// scenes meant the options scrolled past before the stem had sunk in.
 function sceneQuestion(scene) {
   const pillLabel = data.question_number ? `السؤال ${data.question_number}` : "سؤال تدريبي";
-  return `<div class="scene">
+  const opts = (data.options || []).map(o =>
+    `<div class="opt-row compact"><div class="opt-badge">${o.letter}</div><div class="opt-text">${esc(o.text)}</div></div>`
+  ).join("\n");
+  // Long stems plus five long choices can exceed the frame, so the whole
+  // block gets a size class that tightens type as the content grows.
+  const load = (data.question_ar || "").length +
+               (data.options || []).reduce((n, o) => n + o.text.length, 0);
+  const density = load > 620 ? "dense" : load > 420 ? "mid" : "roomy";
+  return `<div class="scene q-full ${density}">
     <div class="course-label">${esc(data.course_label || "")}</div>
     <div class="q-pill">${pillLabel}</div>
     <div class="headline-en">${esc(data.question)}</div>
-    <div class="headline-ar">${esc(data.question_ar)}</div>
-    <div class="illustration">${illustrationSvg(scene.illustration)}</div>
+    ${data.question_ar ? `<div class="headline-ar">${esc(data.question_ar)}</div>` : ""}
+    <div class="opt-block">${opts}</div>
     <div class="badge-course">SURGERY</div>
     <div class="caption-bar">${esc(scene.caption)}</div>
   </div>`;
